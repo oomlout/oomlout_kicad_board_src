@@ -26,25 +26,25 @@ def make_project_yaml():
                 os.mkdir('tmp')
             
             projects_folder = f'projects_folder/{user}/{repo["name"]}/version_current/working'
-            projects_flat_folder = f'{user}_{repo["name"]}'
+            projects_flat = f'{user}_{repo["name"]}'
             #remove all charachters that can't be a swindows filename
-            projects_flat_folder = projects_flat_folder.replace('/','_')
-            projects_flat_folder = projects_flat_folder.replace('\\','_')
-            projects_flat_folder = projects_flat_folder.replace(':','_')
-            projects_flat_folder = projects_flat_folder.replace('*','_')
-            projects_flat_folder = projects_flat_folder.replace('?','_')
-            projects_flat_folder = projects_flat_folder.replace('"','_')
-            projects_flat_folder = projects_flat_folder.replace('<','_')
-            projects_flat_folder = projects_flat_folder.replace('>','_')
-            projects_flat_folder = projects_flat_folder.replace('|','_')
-            projects_flat_folder = projects_flat_folder.replace('-','_')
-            projects_flat_folder = projects_flat_folder.replace('+','_')
-            projects_flat_folder = projects_flat_folder.replace(' ','_')
-            projects_flat_folder = projects_flat_folder.replace('.','_')
+            projects_flat = projects_flat.replace('/','_')
+            projects_flat = projects_flat.replace('\\','_')
+            projects_flat = projects_flat.replace(':','_')
+            projects_flat = projects_flat.replace('*','_')
+            projects_flat = projects_flat.replace('?','_')
+            projects_flat = projects_flat.replace('"','_')
+            projects_flat = projects_flat.replace('<','_')
+            projects_flat = projects_flat.replace('>','_')
+            projects_flat = projects_flat.replace('|','_')
+            projects_flat = projects_flat.replace('-','_')
+            projects_flat = projects_flat.replace('+','_')
+            projects_flat = projects_flat.replace(' ','_')
+            projects_flat = projects_flat.replace('.','_')
             #make lower case
-            projects_flat_folder = projects_flat_folder.lower()
+            projects_flat = projects_flat.lower()
             
-            #if projects_flat_folder directory doesn't 
+            #if projects_flat directory doesn't 
             
             #clone the repo            
             #clone repo
@@ -63,7 +63,7 @@ def make_project_yaml():
                 
                 
                 #add working
-                projects_flat_folder = f'projects_flat_folder/{projects_flat_folder}/version_current/working'
+                projects_flat = f'projects_flat/{projects_flat}/version_current/working'
                 file_match_to_find = [".brd",".sch",".kicad_pcb",".kicad_sch"]
                 #go through all the files in the repo
                 files_found = False
@@ -79,7 +79,7 @@ def make_project_yaml():
                                 just_extension = file.split('.')[1]
                                 #copy the file to the projects folder
                                 folder_file = f'{projects_folder}/working.{just_extension}'
-                                flat_file = f'{projects_flat_folder}/working.{just_extension}'
+                                flat_file = f'{projects_flat}/working.{just_extension}'
                                 #create neccesary directories
                                 if not os.path.exists(os.path.dirname(folder_file)):
                                     os.makedirs(os.path.dirname(folder_file))
@@ -90,25 +90,25 @@ def make_project_yaml():
                                 #copy the file to the projects flat folder
                                 shutil.copy(f'{root}/{file}', flat_file)
                                 yaml_dict[f'file_{just_extension}_folder'] = folder_file
-                                yaml_dict[f'file_{just_extension}_flat_folder'] = flat_file
+                                yaml_dict[f'file_{just_extension}_flat'] = flat_file
                 #copy the readme to the projects folder
                 #if there's a readme.md
                 if files_found == True:
                     if os.path.exists(f'tmp/{repo["name"]}/README.md'):
                         shutil.copy(f'tmp/{repo["name"]}/README.md', f'{projects_folder}/readme_src.md')
                         #copy the readme to the projects flat folder
-                        shutil.copy(f'tmp/{repo["name"]}/README.md', f'{projects_flat_folder}/readme_src.md')
+                        shutil.copy(f'tmp/{repo["name"]}/README.md', f'{projects_flat}/readme_src.md')
                     #dump all details to yaml
                     
                     for key in repo:
                         yaml_dict[key] = repo[key]
                     yaml_dict['projects_folder'] = projects_folder
-                    yaml_dict['projects_flat_folder'] = projects_flat_folder
+                    yaml_dict['projects_flat'] = projects_flat
                     #dump the yaml
                     yaml_filename = f'{projects_folder}/working.yaml'
                     with open(yaml_filename, 'w') as yaml_file:
                         yaml.dump(yaml_dict, yaml_file, default_flow_style=False)
-                    yaml_filename = f'{projects_flat_folder}/working.yaml'
+                    yaml_filename = f'{projects_flat}/working.yaml'
                     with open(yaml_filename, 'w') as yaml_file:
                         yaml.dump(yaml_dict, yaml_file, default_flow_style=False)
 
