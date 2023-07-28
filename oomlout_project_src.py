@@ -2,7 +2,10 @@ import yaml
 import os
 import shutil
 
-github_users = ["electrolama","sparkfun","adafruit","omerk","sparkfunx","DangerousPrototypes","oomlout","solderparty"]
+#get guthub_users from users.yaml
+with open('users.yaml', 'r') as users_file:
+    users = yaml.load(users_file, Loader=yaml.FullLoader)
+    github_users = users['github_users']
 #github_users = ["electrolama"]
 #github_users = ["solderparty"]
 
@@ -134,28 +137,37 @@ def get_repos(user):
     #print the user finding for
     print(f'finding repos for {user}')
     #get a list of repos for user from github add pauses to not get rate limited
-    import requests
-    import json
-    import time    
-    repos = []
-    page = 1
-    while True:
-    #while page < 2:
-        r = requests.get(f'https://api.github.com/users/{user}/repos?page={page}&per_page=100')
-        if r.status_code == 200:
-            repos += json.loads(r.text)
-            #print how many repos found
-            print(f'{len(repos)} repos found', end='\r')
-            #prin
-            page += 1
-            #add a dot to show progress
-            print('.', end='', flush=True)
-            time.sleep(6)
-            if json.loads(r.text) == []:
-                break
-        else:
-            #print the error code with a message saying its fetching repo error
-            print(f'error fetching repos {r.status_code}')
-            
-    print()
+    #if tmp yaml exists load that
+    if os.path.exists(f'tmp/repos_{user}.yaml'):
+        with open(f'tmp/repos_{user}.yaml', 'r') as repos_file:
+            repos = yaml.load(repos_file, Loader=yaml.FullLoader)
+    else:
+        import requests
+        import json
+        import time    
+        repos = []
+        page = 1
+        while True:
+        #while page < 2:
+            r = requests.get(f'https://api.github.com/users/{user}/repos?page={page}&per_page=100')
+            if r.status_code == 200:
+                repos += json.loads(r.text)
+                #print how many repos found
+                print(f'{len(repos)} repos found', end='\r')
+                #prin
+                page += 1
+                #add a dot to show progress
+                print('.', end='', flush=True)
+                time.sleep(6)
+                if json.loads(r.text) == []:
+                    break
+            else:
+                #print the error code with a message saying its fetching repo error
+                print(f'error fetching repos {r.status_code}')
+                
+        print()
+        #dump repos to tmp/repos_{user}.yaml
+        with open(f'tmp/repos_{user}.yaml', 'w') as repos_file:
+            yaml.dump(repos, repos_file, default_flow_style=False)
     return repos
+    
