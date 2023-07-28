@@ -1,0 +1,246 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L R R2
+U 1 1 586F3ED5
+P 2725 1750
+F 0 "R2" V 2805 1750 50  0000 C CNN
+F 1 "0" V 2725 1750 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2655 1750 50  0001 C CNN
+F 3 "" H 2725 1750 50  0000 C CNN
+	1    2725 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R3
+U 1 1 586F3FE7
+P 2725 2225
+F 0 "R3" V 2805 2225 50  0000 C CNN
+F 1 "0" V 2725 2225 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2655 2225 50  0001 C CNN
+F 3 "" H 2725 2225 50  0000 C CNN
+	1    2725 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R4
+U 1 1 586F400F
+P 2725 2725
+F 0 "R4" V 2805 2725 50  0000 C CNN
+F 1 "0" V 2725 2725 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2655 2725 50  0001 C CNN
+F 3 "" H 2725 2725 50  0000 C CNN
+	1    2725 2725
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R5
+U 1 1 586F4040
+P 2725 3200
+F 0 "R5" V 2805 3200 50  0000 C CNN
+F 1 "0" V 2725 3200 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2655 3200 50  0001 C CNN
+F 3 "" H 2725 3200 50  0000 C CNN
+	1    2725 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R6
+U 1 1 586F4098
+P 2725 3675
+F 0 "R6" V 2805 3675 50  0000 C CNN
+F 1 "0" V 2725 3675 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2655 3675 50  0001 C CNN
+F 3 "" H 2725 3675 50  0000 C CNN
+	1    2725 3675
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R7
+U 1 1 586F40D1
+P 2725 4150
+F 0 "R7" V 2805 4150 50  0000 C CNN
+F 1 "0" V 2725 4150 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2655 4150 50  0001 C CNN
+F 3 "" H 2725 4150 50  0000 C CNN
+	1    2725 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R8
+U 1 1 586F4117
+P 2725 4650
+F 0 "R8" V 2805 4650 50  0000 C CNN
+F 1 "0" V 2725 4650 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2655 4650 50  0001 C CNN
+F 3 "" H 2725 4650 50  0000 C CNN
+	1    2725 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R9
+U 1 1 586F4199
+P 2725 5175
+F 0 "R9" V 2805 5175 50  0000 C CNN
+F 1 "0" V 2725 5175 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2655 5175 50  0001 C CNN
+F 3 "" H 2725 5175 50  0000 C CNN
+	1    2725 5175
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R10
+U 1 1 586F446D
+P 2725 5625
+F 0 "R10" V 2805 5625 50  0000 C CNN
+F 1 "0" V 2725 5625 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2655 5625 50  0001 C CNN
+F 3 "" H 2725 5625 50  0000 C CNN
+	1    2725 5625
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R11
+U 1 1 586F44BA
+P 2725 6075
+F 0 "R11" V 2805 6075 50  0000 C CNN
+F 1 "0" V 2725 6075 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2655 6075 50  0001 C CNN
+F 3 "" H 2725 6075 50  0000 C CNN
+	1    2725 6075
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R12
+U 1 1 586F44F8
+P 2725 6500
+F 0 "R12" V 2805 6500 50  0000 C CNN
+F 1 "0" V 2725 6500 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2655 6500 50  0001 C CNN
+F 3 "" H 2725 6500 50  0000 C CNN
+	1    2725 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R13
+U 1 1 586F4551
+P 2725 6925
+F 0 "R13" V 2805 6925 50  0000 C CNN
+F 1 "0" V 2725 6925 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2655 6925 50  0001 C CNN
+F 3 "" H 2725 6925 50  0000 C CNN
+	1    2725 6925
+	1    0    0    -1  
+$EndComp
+$Comp
+L Battery_Cell BT1
+U 1 1 586F4A9F
+P 1275 2125
+F 0 "BT1" H 1375 2225 50  0000 L CNN
+F 1 "Battery_Cell" H 1375 2125 50  0000 L CNN
+F 2 "" V 1275 2185 50  0001 C CNN
+F 3 "" V 1275 2185 50  0000 C CNN
+	1    1275 2125
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1275 1925 1275 1075
+Wire Wire Line
+	1275 1075 2725 1075
+Wire Wire Line
+	2725 1075 2725 1600
+Wire Wire Line
+	2725 1900 2725 2075
+Wire Wire Line
+	2725 2375 2725 2575
+Wire Wire Line
+	2725 2875 2725 3050
+Wire Wire Line
+	2725 3350 2725 3525
+Wire Wire Line
+	2725 3825 2725 4000
+Wire Wire Line
+	2725 4300 2725 4500
+Wire Wire Line
+	2725 4800 2725 5025
+Wire Wire Line
+	2725 5325 2725 5475
+Wire Wire Line
+	2725 5775 2725 5925
+Wire Wire Line
+	2725 6225 2725 6350
+Wire Wire Line
+	2725 6650 2725 6775
+Wire Wire Line
+	2725 7075 1275 7075
+Wire Wire Line
+	1275 7075 1275 2975
+$Comp
+L LED D1
+U 1 1 586F58FE
+P 1275 2825
+F 0 "D1" H 1275 2925 50  0000 C CNN
+F 1 "LED" H 1275 2725 50  0000 C CNN
+F 2 "LEDs:LED_0805" H 1275 2825 50  0001 C CNN
+F 3 "" H 1275 2825 50  0000 C CNN
+	1    1275 2825
+	0    1    1    0   
+$EndComp
+$Comp
+L R R1
+U 1 1 586F5A77
+P 1275 2450
+F 0 "R1" V 1355 2450 50  0000 C CNN
+F 1 "100" V 1275 2450 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805" V 1205 2450 50  0001 C CNN
+F 3 "" H 1275 2450 50  0000 C CNN
+	1    1275 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1275 2300 1275 2225
+Wire Wire Line
+	1275 2600 1275 2675
+$EndSCHEMATC

@@ -9,7 +9,7 @@ with open('users.yaml', 'r') as users_file:
 #github_users = ["electrolama"]
 #github_users = ["solderparty"]
 
-def make_project_yaml():
+def make_projects():
     #completed repos load from yaml
     completed_repos = []
     if os.path.exists('completed_repo.yml'):
@@ -114,7 +114,33 @@ def make_project_yaml():
                     yaml_filename = f'{projects_flat}/working.yaml'
                     with open(yaml_filename, 'w') as yaml_file:
                         yaml.dump(yaml_dict, yaml_file, default_flow_style=False)
+                #if theres a file that has bom in it and is either .csv or .tsv or xls
+                #walk through all the files in the repo
+                for root, dirs, files in os.walk(f'tmp/{repo["name"]}'):
+                    #go through all the files
+                    for file in files:
+                        #if the file matches the file match to find
+                        if file.endswith(".csv") or file.endswith(".tsv") or file.endswith(".xls"):
+                            #if the file has bom in it
+                            if 'bom' in file.lower():
+                                #just filename no folders
+                                just_file_name = "bom_src"
+                                just_extension = file.split('.')[1]
+                                #copy the file to the projects folder
+                                folder_file = f'{projects_folder}/{just_file_name}.{just_extension}'
+                                flat_file = f'{projects_flat}/{just_file_name}.{just_extension}'
+                                #create neccesary directories
+                                if not os.path.exists(os.path.dirname(folder_file)):
+                                    os.makedirs(os.path.dirname(folder_file))
+                                if not os.path.exists(os.path.dirname(flat_file)):
+                                    os.makedirs(os.path.dirname(flat_file))
 
+                                shutil.copy(f'{root}/{file}', folder_file)
+                                #copy the file to the projects flat folder
+                                shutil.copy(f'{root}/{file}', flat_file)
+                                yaml_dict[f'file_bom_{just_extension}_folder'] = folder_file
+                                yaml_dict[f'file_bom_{just_extension}_flat'] = flat_file
+                        
 
                 #remove the git repo using os.system for windows
                 os.system(f'rmdir /s /q tmp\\{repo["name"]}')
@@ -138,10 +164,15 @@ def get_repos(user):
     print(f'finding repos for {user}')
     #get a list of repos for user from github add pauses to not get rate limited
     #if tmp yaml exists load that
+
     if os.path.exists(f'tmp/repos_{user}.yaml'):
+        #print loading from json
+        print('loading from yaml')
         with open(f'tmp/repos_{user}.yaml', 'r') as repos_file:
             repos = yaml.load(repos_file, Loader=yaml.FullLoader)
     else:
+        #print loading from github
+        print('loading from github')
         import requests
         import json
         import time    
@@ -158,12 +189,15 @@ def get_repos(user):
                 page += 1
                 #add a dot to show progress
                 print('.', end='', flush=True)
-                time.sleep(6)
+                time.sleep(20)
                 if json.loads(r.text) == []:
                     break
             else:
                 #print the error code with a message saying its fetching repo error
                 print(f'error fetching repos {r.status_code}')
+                time.sleep(20)
+                break
+                
                 
         print()
         #dump repos to tmp/repos_{user}.yaml
