@@ -1,0 +1,36 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,"Buzzer, polar",Buzzer,BZ1,Buzzer,Buzzer_AST1109MLTRQ,1,~
+2,Unpolarized capacitor,C,C4 C5 C6 C10 C11 C12 C13 C14 C15,0.1uF,C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,9,~
+3,Unpolarized capacitor,C,C7 C16,10uF,C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,2,~
+4,Unpolarized capacitor,C,C3 C8,1uF,C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,2,~
+5,Unpolarized capacitor,C,C1 C2,22pF,C_1206_3216Metric_Pad1.42x1.75mm_HandSolder,2,~
+6,Unpolarized capacitor,C,C9,47uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,~
+7,Diode,D,D_A1 D_A2 D_A3 D_A4 D_A5 D_B1 D_B2 D_B3 D_B4 D_B5 D_C1 D_C2 D_C3 D_C4 D_C5 D_D1 D_D2 D_D3 D_D4 D_D5 D_E1 D_E2 D_E3 D_E4 D_E5,D,D_SOD-123,25,~
+8,RGB LED with integrated controller,WS2812B,D1 D2 D3 D4 D5 D6,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,6,https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+9,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J1A1,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,1,~
+10,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06,J0,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,1,~
+11,USB Micro Type B connector,USB_B_Micro,J1,USB_B_Micro,USB_Micro-B_Molex-105017-0001,1,~
+12,"0.115A Id, 60V Vds, N-channel MOSFET, SOT-23",2N7002,Q1,2N7002,SOT-23_Handsoldering,1,https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf
+13,Resistor,R,R3 R4 R7,10K,R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,3,~
+14,Resistor,R,R1 R2,22,R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,2,~
+15,Resistor,R,R5 R6,470,R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,2,~
+16,"Push button switch, generic, two pins",SW_Push,SW0,SW_Push,SW_SPST_TL3342,1,
+17,"Push button switch, generic, two pins",SW_Push,SW_A1 SW_A2 SW_A3 SW_A4 SW_A5 SW_B1 SW_B2 SW_B3 SW_B4 SW_B5 SW_C1 SW_C2 SW_C3 SW_C4 SW_C5 SW_D1 SW_D2 SW_D3 SW_D4 SW_D5 SW_E1 SW_E2 SW_E3 SW_E4 SW_E5,SW_Push,SW_Cherry_MX1A_1.00u_PCB,25,
+18,"16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44",ATmega32U4-AU,U1,ATmega32U4-AU,TQFP-44_10x10mm_P0.8mm,1,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf
+19,"Bidirectional ESD Protection Diode, SOT-23-6",USBLC6-2SC6,U2,USBLC6-2SC6,SOT-23-6,1,http://www2.st.com/resource/en/datasheet/CD00050750.pdf
+20,"Four pin crystal (GND on pins 2 and 4), e.g. in SMD package",Crystal_GND24,Y1,Crystal_GND24,Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm_HandSoldering,1,~
+
+
+
+
+
+Component Groups:,20
+Component Count:,88
+Fitted Components:,88
+Number of PCBs:,1
+Total components:,88
+Schematic Version:,
+Schematic Date:,
+BoM Date:,12/7/2018 12:27:48 PM
+Schematic Source:,C:\Users\Will\Documents\PrototypeNumpad\PrototypeNumpad.sch
+KiCad Version:,Eeschema (5.0.0)

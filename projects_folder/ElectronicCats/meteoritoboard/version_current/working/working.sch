@@ -1,0 +1,566 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "MeteoritoBoard"
+Date "2020-02-28"
+Rev "1.0"
+Comp "ElectronicCats"
+Comment1 "Andres Sabas"
+Comment2 "Eduardo Contreras"
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L meteorito-rescue:CONN_01X04 P3
+U 1 1 5973B1FD
+P 2240 2150
+F 0 "P3" H 2240 2400 50  0000 C CNN
+F 1 "BMP180" V 2340 2150 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 2240 2150 50  0001 C CNN
+F 3 "" H 2240 2150 50  0000 C CNN
+	1    2240 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR07
+U 1 1 59FBB563
+P 1790 2375
+F 0 "#PWR07" H 1790 2225 50  0001 C CNN
+F 1 "+5V" H 1790 2515 50  0000 C CNN
+F 2 "" H 1790 2375 50  0000 C CNN
+F 3 "" H 1790 2375 50  0000 C CNN
+	1    1790 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L meteorito-rescue:CONN_01X03 P1
+U 1 1 5973B1A0
+P 2260 1025
+F 0 "P1" H 2260 1225 50  0000 C CNN
+F 1 "DH22" V 2360 1025 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 2260 1025 50  0001 C CNN
+F 3 "" H 2260 1025 50  0000 C CNN
+	1    2260 1025
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R1
+U 1 1 5B3ABF7D
+P 2075 6500
+F 0 "R1" H 2105 6520 50  0000 L CNN
+F 1 "FOTORESISTENCIA" V 1985 6100 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" H 2075 6500 50  0001 C CNN
+F 3 "" H 2075 6500 50  0000 C CNN
+	1    2075 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R2
+U 1 1 5B3AC023
+P 2075 6785
+F 0 "R2" H 2105 6805 50  0000 L CNN
+F 1 "100" H 2105 6745 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 2075 6785 50  0001 C CNN
+F 3 "" H 2075 6785 50  0000 C CNN
+	1    2075 6785
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR08
+U 1 1 5B3AC2DB
+P 2075 6985
+F 0 "#PWR08" H 2075 6735 50  0001 C CNN
+F 1 "GND" H 2075 6835 50  0000 C CNN
+F 2 "" H 2075 6985 50  0000 C CNN
+F 3 "" H 2075 6985 50  0000 C CNN
+	1    2075 6985
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR05
+U 1 1 5B3AC40A
+P 2075 6305
+F 0 "#PWR05" H 2075 6155 50  0001 C CNN
+F 1 "+3.3V" H 2075 6445 50  0000 C CNN
+F 2 "" H 2075 6305 50  0000 C CNN
+F 3 "" H 2075 6305 50  0000 C CNN
+	1    2075 6305
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	4315 4065 11215 4065
+Wire Notes Line
+	11215 4065 11215 4075
+Wire Wire Line
+	2190 2645 2190 2350
+Wire Wire Line
+	2075 6885 2075 6985
+Wire Notes Line
+	11220 4260 11220 4250
+Wire Notes Line
+	480  1425 4305 1425
+Text Notes 1620 1605 0    60   ~ 0
+PRESION ATMOSFERICA
+Text Notes 1510 655  0    60   ~ 0
+HUMEDAD y TEMPERATURA
+Wire Notes Line
+	485  4485 4325 4485
+Text Notes 2130 3170 0    60   ~ 0
+UV
+Text Notes 1740 4660 0    60   ~ 0
+VELOCIDAD DEL AIRE
+Wire Notes Line
+	465  5740 4315 5740
+Text Notes 1915 5915 0    60   ~ 0
+NUBOSIDAD
+Text Notes 5300 4200 0    50   ~ 0
+\n\n
+$Comp
+L power:+5V #PWR02
+U 1 1 5BA1D500
+P 2330 5375
+F 0 "#PWR02" H 2330 5225 50  0001 C CNN
+F 1 "+5V" H 2345 5548 50  0000 C CNN
+F 2 "" H 2330 5375 50  0001 C CNN
+F 3 "" H 2330 5375 50  0001 C CNN
+	1    2330 5375
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 5BA20EB7
+P 2135 5390
+F 0 "#PWR03" H 2135 5140 50  0001 C CNN
+F 1 "GND" H 2140 5217 50  0000 C CNN
+F 2 "" H 2135 5390 50  0001 C CNN
+F 3 "" H 2135 5390 50  0001 C CNN
+	1    2135 5390
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR09
+U 1 1 5BA50CA8
+P 2235 3945
+F 0 "#PWR09" H 2235 3695 50  0001 C CNN
+F 1 "GND" H 2240 3772 50  0000 C CNN
+F 2 "" H 2235 3945 50  0001 C CNN
+F 3 "" H 2235 3945 50  0001 C CNN
+	1    2235 3945
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR012
+U 1 1 5BA6A95E
+P 5020 4910
+F 0 "#PWR012" H 5020 4760 50  0001 C CNN
+F 1 "+5V" H 5035 5083 50  0000 C CNN
+F 2 "" H 5020 4910 50  0001 C CNN
+F 3 "" H 5020 4910 50  0001 C CNN
+	1    5020 4910
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4925 4660 4925 4955
+$Comp
+L power:GND #PWR013
+U 1 1 5BA7E477
+P 4825 4965
+F 0 "#PWR013" H 4825 4715 50  0001 C CNN
+F 1 "GND" H 4830 4792 50  0000 C CNN
+F 2 "" H 4825 4965 50  0001 C CNN
+F 3 "" H 4825 4965 50  0001 C CNN
+	1    4825 4965
+	1    0    0    -1  
+$EndComp
+Text Label 7100 1800 2    50   ~ 0
+AIRE-HALL
+Text Label 7100 1600 2    50   ~ 0
+IO32
+Text Label 8150 2200 0    50   ~ 0
+IO4
+Text Label 8150 2400 0    50   ~ 0
+IO2
+Text Label 8150 2600 0    50   ~ 0
+SD1
+Text Label 8150 2800 0    50   ~ 0
+SCK
+Text Label 8150 1300 0    50   ~ 0
+TXD
+Text Label 8150 1400 0    50   ~ 0
+RXD
+Text Label 8150 2100 0    50   ~ 0
+IO16
+Text Label 8150 2700 0    50   ~ 0
+SD0
+Text Label 7100 1100 2    50   ~ 0
+RST
+Text Label 7100 1200 2    50   ~ 0
+SVP
+Text Label 8150 1900 0    50   ~ 0
+IO5
+Text Label 7100 2600 2    50   ~ 0
+SD3
+Text Label 7100 1300 2    50   ~ 0
+SVN
+Text Label 7100 1500 2    50   ~ 0
+IO35
+Text Label 7100 1700 2    50   ~ 0
+UV-SENSOR
+Text Label 7100 1400 2    50   ~ 0
+IO34
+Text Label 7100 2700 2    50   ~ 0
+CMD
+Wire Wire Line
+	2060 925  1845 925 
+Wire Wire Line
+	2290 2350 2290 2510
+Text Label 2290 2510 3    50   ~ 0
+SCL
+Text Label 2390 2510 3    50   ~ 0
+SDA
+Wire Wire Line
+	2390 2350 2390 2510
+Wire Wire Line
+	2075 6685 2075 6645
+Wire Wire Line
+	2075 6645 2350 6645
+Connection ~ 2075 6645
+Wire Wire Line
+	2075 6645 2075 6600
+$Comp
+L power:GND #PWR0101
+U 1 1 5BAA240F
+P 1840 1150
+F 0 "#PWR0101" H 1840 900 50  0001 C CNN
+F 1 "GND" H 1845 977 50  0000 C CNN
+F 2 "" H 1840 1150 50  0001 C CNN
+F 3 "" H 1840 1150 50  0001 C CNN
+	1    1840 1150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1840 1150 1840 1125
+Wire Wire Line
+	1840 1125 2060 1125
+Text Label 8150 1500 0    50   ~ 0
+IO21
+Text Label 2350 6645 0    50   ~ 0
+IO35
+$Comp
+L power:+5V #PWR0102
+U 1 1 5BB55C40
+P 1845 890
+F 0 "#PWR0102" H 1845 740 50  0001 C CNN
+F 1 "+5V" H 1845 1030 50  0000 C CNN
+F 2 "" H 1845 890 50  0000 C CNN
+F 3 "" H 1845 890 50  0000 C CNN
+	1    1845 890 
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	5650 4065 5650 5460
+Text Notes 4480 4210 0    50   ~ 0
+Sensor De Precipitación \n
+Text Notes 5945 4205 0    50   ~ 0
+Sensor De Orientación \n
+Wire Wire Line
+	2075 6305 2075 6400
+$Comp
+L power:GND #PWR0105
+U 1 1 5BEAA495
+P 6770 2310
+F 0 "#PWR0105" H 6770 2060 50  0001 C CNN
+F 1 "GND" H 6775 2137 50  0000 C CNN
+F 2 "" H 6770 2310 50  0001 C CNN
+F 3 "" H 6770 2310 50  0001 C CNN
+	1    6770 2310
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0106
+U 1 1 5BEACE6C
+P 6765 2760
+F 0 "#PWR0106" H 6765 2610 50  0001 C CNN
+F 1 "+5V" H 6780 2933 50  0000 C CNN
+F 2 "" H 6765 2760 50  0001 C CNN
+F 3 "" H 6765 2760 50  0001 C CNN
+	1    6765 2760
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR0107
+U 1 1 5BEB4B8C
+P 6940 900
+F 0 "#PWR0107" H 6940 750 50  0001 C CNN
+F 1 "+3.3V" H 6955 1073 50  0000 C CNN
+F 2 "" H 6940 900 50  0001 C CNN
+F 3 "" H 6940 900 50  0001 C CNN
+	1    6940 900 
+	1    0    0    -1  
+$EndComp
+Text Label 7100 2400 2    50   ~ 0
+IO13
+$Comp
+L power:+3.3V #PWR0108
+U 1 1 5C9D397E
+P 2650 3700
+F 0 "#PWR0108" H 2650 3550 50  0001 C CNN
+F 1 "+3.3V" H 2665 3873 50  0000 C CNN
+F 2 "" H 2650 3700 50  0001 C CNN
+F 3 "" H 2650 3700 50  0001 C CNN
+	1    2650 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR0109
+U 1 1 5C9D39DE
+P 1745 3755
+F 0 "#PWR0109" H 1745 3605 50  0001 C CNN
+F 1 "+3.3V" H 1760 3928 50  0000 C CNN
+F 2 "" H 1745 3755 50  0001 C CNN
+F 3 "" H 1745 3755 50  0001 C CNN
+	1    1745 3755
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2135 3735 2135 3820
+NoConn ~ 2035 3735
+Wire Wire Line
+	7100 1000 6940 1000
+Wire Wire Line
+	6940 1000 6940 900 
+Text Label 7100 2000 2    50   ~ 0
+SDA
+Text Label 7100 1900 2    50   ~ 0
+SCL
+Text Label 7100 2100 2    50   ~ 0
+IO14
+Text Label 7100 2200 2    50   ~ 0
+IO12
+Wire Wire Line
+	6770 2300 7100 2300
+Text Label 7100 2500 2    50   ~ 0
+SD2
+Wire Wire Line
+	6770 2310 6770 2300
+Wire Wire Line
+	6765 2760 6765 2800
+Wire Wire Line
+	6765 2800 7100 2800
+Text Label 8150 2500 0    50   ~ 0
+IO15
+Text Label 8150 2300 0    50   ~ 0
+IO0
+$Comp
+L power:GND #PWR0103
+U 1 1 5E5DB120
+P 8605 1070
+F 0 "#PWR0103" H 8605 820 50  0001 C CNN
+F 1 "GND" H 8610 897 50  0000 C CNN
+F 2 "" H 8605 1070 50  0001 C CNN
+F 3 "" H 8605 1070 50  0001 C CNN
+	1    8605 1070
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8605 1070 8605 1000
+Wire Wire Line
+	8605 1000 8150 1000
+Text Label 8150 1200 0    50   ~ 0
+IO22
+$Comp
+L power:GND #PWR0104
+U 1 1 5E5DF57C
+P 8620 1675
+F 0 "#PWR0104" H 8620 1425 50  0001 C CNN
+F 1 "GND" H 8625 1502 50  0000 C CNN
+F 2 "" H 8620 1675 50  0001 C CNN
+F 3 "" H 8620 1675 50  0001 C CNN
+	1    8620 1675
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8620 1675 8620 1600
+Wire Wire Line
+	8620 1600 8150 1600
+Text Label 8150 2000 0    50   ~ 0
+IO17
+Text Label 8150 1700 0    50   ~ 0
+IO19
+Text Label 8150 1800 0    50   ~ 0
+IO18
+Text Label 1840 1025 2    50   ~ 0
+DHT22
+Text Label 8150 1100 0    50   ~ 0
+DHT22
+Wire Wire Line
+	2090 2350 2090 2550
+Wire Wire Line
+	2090 2550 1790 2550
+Wire Wire Line
+	1790 2550 1790 2375
+$Comp
+L power:GND #PWR0110
+U 1 1 5E5EFE92
+P 2190 2645
+F 0 "#PWR0110" H 2190 2395 50  0001 C CNN
+F 1 "GND" H 2195 2472 50  0000 C CNN
+F 2 "" H 2190 2645 50  0001 C CNN
+F 3 "" H 2190 2645 50  0001 C CNN
+	1    2190 2645
+	1    0    0    -1  
+$EndComp
+$Comp
+L meteorito:ESP32-DEVKIT U1
+U 1 1 5E5F599A
+P 7200 900
+F 0 "U1" H 7625 1065 50  0000 C CNN
+F 1 "ESP32-DEVKIT" H 7625 974 50  0000 C CNN
+F 2 "meteorito:ESP32-DEVKIT" H 7200 900 50  0001 C CNN
+F 3 "" H 7200 900 50  0001 C CNN
+	1    7200 900 
+	1    0    0    -1  
+$EndComp
+Text Label 2335 3950 0    50   ~ 0
+UV-SENSOR
+$Comp
+L meteorito-rescue:CONN_01X05 P2
+U 1 1 5973BC79
+P 2235 3535
+F 0 "P2" H 2235 3835 50  0000 C CNN
+F 1 "GY-ML8511" V 2335 3535 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 2235 3535 50  0001 C CNN
+F 3 "" H 2235 3535 50  0000 C CNN
+	1    2235 3535
+	0    -1   -1   0   
+$EndComp
+Text Label 2335 5155 0    50   ~ 0
+AIRE-HALL
+Text Notes 3365 3070 0    50   ~ 0
+Tipo de sensor: Digital\nProtocolo: I2C\n\n
+Text Notes 3375 1370 0    50   ~ 0
+Tipo de sensor: Digital\nProtocolo: 1-Wire
+Text Notes 3300 4625 0    50   ~ 0
+Tipo de sensor: Analogico\nCanal: Ax\n \n\n
+Text Notes 6145 5610 0    50   ~ 0
+Tipo de sensor: Analogico\nCanal: Ax\n \n\n
+Text Notes 3410 5805 0    50   ~ 0
+Tipo de sensor: Digital\nProtocolo: Pin Digital\n\n
+Text Notes 4765 5530 0    50   ~ 0
+Tipo de sensor: Digital\nProtocolo: Pin Digital\n\n
+Text Notes 7210 4185 0    50   ~ 0
+SD
+Wire Notes Line
+	7160 4065 7160 5460
+Wire Notes Line
+	4305 5460 11220 5460
+Wire Notes Line
+	475  3015 4315 3015
+Wire Notes Line
+	4315 475  4315 7790
+Wire Wire Line
+	2435 3735 2435 3820
+Wire Wire Line
+	2435 3820 2650 3820
+Wire Wire Line
+	2650 3820 2650 3700
+Wire Wire Line
+	1745 3755 1745 3820
+Wire Wire Line
+	1745 3820 2135 3820
+Wire Wire Line
+	2235 3945 2235 3735
+Wire Wire Line
+	2335 3735 2335 3950
+Wire Wire Line
+	2235 5155 2235 5415
+Wire Wire Line
+	2135 5155 2135 5390
+Wire Wire Line
+	2330 5375 2330 5415
+Wire Wire Line
+	2330 5415 2235 5415
+Text Label 5025 4660 0    50   ~ 0
+IO16
+Wire Wire Line
+	5020 4910 5020 4955
+Wire Wire Line
+	5020 4955 4925 4955
+Wire Wire Line
+	4825 4660 4825 4965
+$Comp
+L power:+5V #PWR0111
+U 1 1 5E628937
+P 6505 4890
+F 0 "#PWR0111" H 6505 4740 50  0001 C CNN
+F 1 "+5V" H 6520 5063 50  0000 C CNN
+F 2 "" H 6505 4890 50  0001 C CNN
+F 3 "" H 6505 4890 50  0001 C CNN
+	1    6505 4890
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6410 4640 6410 4935
+$Comp
+L power:GND #PWR0112
+U 1 1 5E628942
+P 6310 4945
+F 0 "#PWR0112" H 6310 4695 50  0001 C CNN
+F 1 "GND" H 6315 4772 50  0000 C CNN
+F 2 "" H 6310 4945 50  0001 C CNN
+F 3 "" H 6310 4945 50  0001 C CNN
+	1    6310 4945
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6505 4890 6505 4935
+Wire Wire Line
+	6505 4935 6410 4935
+Wire Wire Line
+	6310 4640 6310 4945
+Text Label 6210 4640 3    50   ~ 0
+IO17
+$Comp
+L meteorito-rescue:CONN_01X04 P4
+U 1 1 5E634A25
+P 2185 4955
+F 0 "P4" H 2185 5205 50  0000 C CNN
+F 1 "Velocidad" V 2285 4955 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 2185 4955 50  0001 C CNN
+F 3 "" H 2185 4955 50  0000 C CNN
+	1    2185 4955
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 2035 5150
+$Comp
+L meteorito-rescue:CONN_01X04 P5
+U 1 1 5E637139
+P 4875 4460
+F 0 "P5" H 4875 4710 50  0000 C CNN
+F 1 "Precipitacion" V 4975 4460 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 4875 4460 50  0001 C CNN
+F 3 "" H 4875 4460 50  0000 C CNN
+	1    4875 4460
+	0    -1   -1   0   
+$EndComp
+$Comp
+L meteorito-rescue:CONN_01X04 P6
+U 1 1 5E6387D5
+P 6360 4440
+F 0 "P6" H 6360 4690 50  0000 C CNN
+F 1 "Precipitacion" V 6460 4440 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 6360 4440 50  0001 C CNN
+F 3 "" H 6360 4440 50  0000 C CNN
+	1    6360 4440
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 4725 4660
+NoConn ~ 6510 4640
+Wire Wire Line
+	1840 1025 2060 1025
+Wire Wire Line
+	1845 925  1845 890 
+$EndSCHEMATC
