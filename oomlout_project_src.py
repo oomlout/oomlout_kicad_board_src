@@ -205,3 +205,51 @@ def get_repos(user):
             yaml.dump(repos, repos_file, default_flow_style=False)
     return repos
     
+
+
+def document_projects():
+    counter = 0
+    folders = ["projects_folder", "projects_flat" ]
+    for folder in folders:
+        #go through all the files in folder 
+        for root, dirs, files in os.walk(folder):
+            #if its a directory
+            if os.path.isdir(root):
+                #if it's called working
+                if root.endswith('working'):
+                    #load the working.yaml file from the folder
+                    try:
+                        with open(f'{root}/working.yaml', 'r') as yaml_file:
+                            yaml_dict = yaml.load(yaml_file, Loader=yaml.FullLoader)
+                        #create a readme file by calling make_readme(yaml_dict)
+                        readme = make_readme(yaml_dict=yaml_dict)
+                        #save readme as readme.md
+                        with open(f'{root}/readme.md', 'w') as readme_file:
+                            readme_file.write(readme)
+                            pass
+                        counter += 1
+                        #print a dot every 100 times through
+                        if counter % 100 == 0:
+                            print('.', end='', flush=True)
+
+                    except Exception as e:
+                        print(f'error creating readme for {root} most likely no working.yaml file/n')
+                        print(e)
+                        pass
+    print()
+
+
+def make_readme(**kwargs):
+    yaml_dict = kwargs['yaml_dict']
+    name = yaml_dict['name']
+    html_url = yaml_dict['html_url']
+    owner = yaml_dict['owner']['login']
+    readme = f"""
+# {name} by {owner}  
+This is a harvested standardized copy of a project from github.  
+The original project can be found at:  
+{html_url}  
+Please consult that link for additional, details, files, and license information.  
+Note: It was auto harvested and if the original repo had more than one board file or anything out of the ordinary the files here are likely not representative.  
+    """
+    return readme
