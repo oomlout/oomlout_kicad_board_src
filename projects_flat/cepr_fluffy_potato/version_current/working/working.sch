@@ -1,0 +1,404 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:rfcom
+LIBS:lin_bluetooth_gateway-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L BL652 U2
+U 1 1 5807152B
+P 4100 5450
+F 0 "U2" H 4100 5500 60  0000 C CNN
+F 1 "BL652" H 4100 5400 60  0000 C CNN
+F 2 "RF_Modules:Laird_BL652" H 4100 5450 60  0001 C CNN
+F 3 "" H 4100 5450 60  0001 C CNN
+F 4 "BL652-SA-01-CT-ND" H 4100 5100 60  0000 C CNN "DIGIKEY"
+	1    4100 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR01
+U 1 1 580719F1
+P 4150 3350
+F 0 "#PWR01" H 4150 3100 50  0001 C CNN
+F 1 "GND" H 4150 3200 50  0000 C CNN
+F 2 "" H 4150 3350 50  0000 C CNN
+F 3 "" H 4150 3350 50  0000 C CNN
+	1    4150 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR02
+U 1 1 58071A27
+P 4150 6600
+F 0 "#PWR02" H 4150 6350 50  0001 C CNN
+F 1 "GND" H 4150 6450 50  0000 C CNN
+F 2 "" H 4150 6600 50  0000 C CNN
+F 3 "" H 4150 6600 50  0000 C CNN
+	1    4150 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCP2050 U1
+U 1 1 5807224D
+P 5450 2450
+F 0 "U1" H 5000 1750 60  0000 C CNN
+F 1 "MCP2050" H 5100 3400 60  0000 C CNN
+F 2 "Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm" H 5000 2500 60  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/22299B.pdf" H 5000 2500 60  0001 C CNN
+F 4 "MCP2050-330E/SL-ND" H 4900 3500 60  0000 L CNN "DIGIKEY"
+	1    5450 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 3200 5450 3200
+Wire Wire Line
+	4150 3200 4150 3350
+Wire Wire Line
+	6250 2050 6150 2050
+Wire Wire Line
+	6150 2150 6250 2150
+Wire Wire Line
+	6250 2250 6150 2250
+Wire Wire Line
+	3550 1650 5450 1650
+Wire Wire Line
+	1400 2450 4750 2450
+Connection ~ 4150 3200
+$Comp
+L +12V #PWR03
+U 1 1 580733CC
+P 4150 1550
+F 0 "#PWR03" H 4150 1400 50  0001 C CNN
+F 1 "+12V" H 4150 1690 50  0000 C CNN
+F 2 "" H 4150 1550 50  0000 C CNN
+F 3 "" H 4150 1550 50  0000 C CNN
+	1    4150 1550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4150 1650 4150 1550
+Connection ~ 4150 1650
+Wire Wire Line
+	6150 2350 6250 2350
+$Comp
+L R R2
+U 1 1 58073BC8
+P 7050 2100
+F 0 "R2" V 7130 2100 50  0000 C CNN
+F 1 "10k" V 7050 2100 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 6980 2100 50  0001 C CNN
+F 3 "" H 7050 2100 50  0000 C CNN
+F 4 "311-10KGRCT-ND" V 7200 2100 60  0000 C CNN "DIGIKEY"
+	1    7050 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7050 2250 7050 2450
+Wire Wire Line
+	7050 1600 7050 1950
+$Comp
+L PWR_FLAG #FLG04
+U 1 1 58074312
+P 3750 1450
+F 0 "#FLG04" H 3750 1545 50  0001 C CNN
+F 1 "PWR_FLAG" H 3750 1630 50  0000 C CNN
+F 2 "" H 3750 1450 50  0000 C CNN
+F 3 "" H 3750 1450 50  0000 C CNN
+	1    3750 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L PWR_FLAG #FLG05
+U 1 1 58074339
+P 3000 3300
+F 0 "#FLG05" H 3000 3395 50  0001 C CNN
+F 1 "PWR_FLAG" H 3000 3480 50  0000 C CNN
+F 2 "" H 3000 3300 50  0000 C CNN
+F 3 "" H 3000 3300 50  0000 C CNN
+	1    3000 3300
+	-1   0    0    1   
+$EndComp
+NoConn ~ 6150 2850
+NoConn ~ 6150 2750
+NoConn ~ 6150 2650
+NoConn ~ 6150 2550
+$Comp
+L CONN_01X04 P4
+U 1 1 580874C5
+P 5650 4600
+F 0 "P4" H 5650 4800 50  0000 C CNN
+F 1 "CONN_01X03" V 5750 4600 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.00mm" H 5650 4600 50  0001 C CNN
+F 3 "" H 5650 4600 50  0000 C CNN
+F 4 "952-1351-5-ND" V 5850 4600 60  0000 C CNN "DIGIKEY"
+	1    5650 4600
+	1    0    0    1   
+$EndComp
+$Comp
+L GND #PWR06
+U 1 1 5808755D
+P 5450 4750
+F 0 "#PWR06" H 5450 4500 50  0001 C CNN
+F 1 "GND" H 5450 4600 50  0000 C CNN
+F 2 "" H 5450 4750 50  0000 C CNN
+F 3 "" H 5450 4750 50  0000 C CNN
+	1    5450 4750
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5100 4550 5450 4550
+Wire Wire Line
+	5450 4650 5100 4650
+$Comp
+L D D2
+U 1 1 58088008
+P 3400 1650
+F 0 "D2" H 3400 1750 50  0000 C CNN
+F 1 "1N4148" H 3400 1550 50  0000 C CNN
+F 2 "Diodes_SMD:SOD-123" H 3400 1650 50  0001 C CNN
+F 3 "http://www.diodes.com/_files/datasheets/ds30086.pdf" H 3400 1650 50  0001 C CNN
+F 4 "1N4148W-FDICT-ND" H 3550 1450 60  0000 C CNN "DIGIKEY"
+	1    3400 1650
+	-1   0    0    1   
+$EndComp
+$Comp
+L ZENERsmall D1
+U 1 1 58088341
+P 3750 2650
+F 0 "D1" H 3750 2750 50  0000 C CNN
+F 1 "RSB36V" V 3700 2450 50  0000 C CNN
+F 2 "Diodes_SMD:SOD-323_HandSoldering" H 3750 2650 50  0001 C CNN
+F 3 "http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/zener/rsb36v.pdf" H 3750 2650 50  0001 C CNN
+F 4 "RSB36VTE-17CT-ND" V 3800 2100 60  0000 C CNN "DIGIKEY"
+	1    3750 2650
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3750 2400 3750 2550
+Connection ~ 3750 2450
+$Comp
+L +3V3 #PWR07
+U 1 1 5808A7D0
+P 7050 1600
+F 0 "#PWR07" H 7050 1450 50  0001 C CNN
+F 1 "+3V3" H 7050 1740 50  0000 C CNN
+F 2 "" H 7050 1600 50  0000 C CNN
+F 3 "" H 7050 1600 50  0000 C CNN
+	1    7050 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3V3 #PWR08
+U 1 1 5808A811
+P 5450 4450
+F 0 "#PWR08" H 5450 4300 50  0001 C CNN
+F 1 "+3V3" H 5450 4590 50  0000 C CNN
+F 2 "" H 5450 4450 50  0000 C CNN
+F 3 "" H 5450 4450 50  0000 C CNN
+	1    5450 4450
+	0    -1   -1   0   
+$EndComp
+Text Label 6250 2350 0    60   ~ 0
+CS/LWAKE
+Text Label 3000 4850 2    60   ~ 0
+CS/LWAKE
+$Comp
+L R R1
+U 1 1 583D2468
+P 3750 2250
+F 0 "R1" H 3650 2300 50  0000 C CNN
+F 1 "10k" V 3750 2250 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 3680 2250 50  0001 C CNN
+F 3 "" H 3750 2250 50  0000 C CNN
+F 4 "311-10KGRCT-ND" H 3250 2200 60  0000 C CNN "DIGIKEY"
+	1    3750 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 1450 3750 2100
+$Comp
+L CONN_01X03 P1
+U 1 1 583D301B
+P 2350 1350
+F 0 "P1" H 2350 1550 50  0000 C CNN
+F 1 "MOLEX-0431603103" V 2450 1350 50  0000 C CNN
+F 2 "Connectors_Molex:Molex_Sabre_43160-XX03_03x7.49mm_Angled_BoardLock" H 2350 1350 50  0001 C CNN
+F 3 "http://www.molex.com/pdm_docs/sd/431603103_sd.pdf" H 2350 1350 50  0001 C CNN
+F 4 "WM18489-ND" V 2550 1350 60  0000 C CNN "DIGIKEY"
+	1    2350 1350
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	1500 1650 3250 1650
+Connection ~ 3750 1650
+Wire Wire Line
+	3750 2750 3750 3200
+Connection ~ 3750 3200
+Connection ~ 3000 3200
+$Comp
+L CONN_01X03 P2
+U 1 1 583FBC94
+P 1400 1350
+F 0 "P2" H 1400 1550 50  0000 C CNN
+F 1 "MOLEX-0431603103" V 1500 1350 50  0000 C CNN
+F 2 "Connectors_Molex:Molex_Sabre_43160-XX03_03x7.49mm_Angled_BoardLock" H 1400 1350 50  0001 C CNN
+F 3 "http://www.molex.com/pdm_docs/sd/431603103_sd.pdf" H 1400 1350 50  0001 C CNN
+F 4 "WM18489-ND" V 1600 1350 60  0000 C CNN "DIGIKEY"
+	1    1400 1350
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	2450 1550 2450 1650
+Wire Wire Line
+	2350 1550 2350 2450
+Wire Wire Line
+	2250 1550 2250 3200
+Wire Wire Line
+	3000 3300 3000 3200
+Wire Wire Line
+	1300 1550 1300 3200
+Connection ~ 2250 3200
+Wire Wire Line
+	1400 1550 1400 2450
+Connection ~ 2350 2450
+Wire Wire Line
+	1500 1550 1500 1650
+Connection ~ 2450 1650
+Text Label 6250 2050 0    60   ~ 0
+TXD
+Text Label 6250 2150 0    60   ~ 0
+RXD
+Text Label 6250 2250 0    60   ~ 0
+VBAT_RATIO
+Text Label 6250 2450 0    60   ~ 0
+FAULT
+Text Label 3000 5050 2    60   ~ 0
+VBAT_RATIO
+Text Label 3000 4950 2    60   ~ 0
+RXD
+Text Label 3000 4650 2    60   ~ 0
+TXD
+Wire Wire Line
+	3100 5050 3000 5050
+Wire Wire Line
+	3100 4950 3000 4950
+Wire Wire Line
+	3100 4850 3000 4850
+Wire Wire Line
+	3000 4650 3100 4650
+$Comp
+L +3V3 #PWR09
+U 1 1 583FE805
+P 4100 4300
+F 0 "#PWR09" H 4100 4150 50  0001 C CNN
+F 1 "+3V3" H 4100 4440 50  0000 C CNN
+F 2 "" H 4100 4300 50  0000 C CNN
+F 3 "" H 4100 4300 50  0000 C CNN
+	1    4100 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4100 4350 4100 4300
+Text Label 1500 1650 0    60   ~ 0
+12V_UNPROTECTED
+Wire Wire Line
+	7050 2450 6150 2450
+Wire Wire Line
+	3100 5350 3000 5350
+Text Label 3000 5350 2    60   ~ 0
+FAULT
+Wire Wire Line
+	4000 6450 4000 6500
+Wire Wire Line
+	4000 6500 4300 6500
+Wire Wire Line
+	4300 6500 4300 6450
+Wire Wire Line
+	4200 6450 4200 6500
+Connection ~ 4200 6500
+Wire Wire Line
+	4100 6450 4100 6500
+Connection ~ 4100 6500
+Wire Wire Line
+	4150 6500 4150 6600
+Connection ~ 4150 6500
+NoConn ~ 5100 4950
+NoConn ~ 5100 5050
+NoConn ~ 5100 5150
+NoConn ~ 5100 5250
+NoConn ~ 5100 5350
+NoConn ~ 5100 5450
+NoConn ~ 5100 5550
+NoConn ~ 5100 5650
+NoConn ~ 5100 5750
+NoConn ~ 5100 5850
+NoConn ~ 5100 5950
+NoConn ~ 5100 6050
+NoConn ~ 5100 6150
+NoConn ~ 5100 6250
+NoConn ~ 3100 4550
+NoConn ~ 3100 4750
+NoConn ~ 3100 5150
+NoConn ~ 3100 5250
+NoConn ~ 3100 5450
+NoConn ~ 3100 5550
+NoConn ~ 3100 5650
+NoConn ~ 3100 5750
+NoConn ~ 3100 5850
+NoConn ~ 3100 5950
+NoConn ~ 3100 6050
+NoConn ~ 3100 6150
+NoConn ~ 3100 6250
+Wire Wire Line
+	5550 1750 5550 1650
+Wire Wire Line
+	5550 1650 7050 1650
+Connection ~ 7050 1650
+Wire Wire Line
+	5450 1650 5450 1750
+Wire Wire Line
+	5450 3200 5450 3050
+Text Notes 3850 2300 0    60   ~ 0
+Replace by 1K\nfor master !!
+$EndSCHEMATC

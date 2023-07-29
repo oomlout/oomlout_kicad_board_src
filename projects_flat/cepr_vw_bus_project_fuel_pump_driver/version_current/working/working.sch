@@ -1,0 +1,156 @@
+EESchema Schematic File Version 4
+LIBS:fuel_pump_controller-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 6250 3950 1350 600 
+U 5C621B5A
+F0 "Frontend" 50
+F1 "frontend.sch" 50
+F2 "OUT+SENSE" O L 6250 4300 50 
+F3 "OUT-SENSE" O L 6250 4400 50 
+F4 "EN" I L 6250 4050 50 
+F5 "CURRENT_SENSE" O L 6250 4200 50 
+F6 "OUT+" O R 7600 4050 50 
+F7 "OUT-" O R 7600 4400 50 
+$EndSheet
+$Sheet
+S 4600 3950 1150 600 
+U 5C621B73
+F0 "MCU" 50
+F1 "control.sch" 50
+F2 "OUT+SENSE" I R 5750 4300 50 
+F3 "OUT-SENSE" I R 5750 4400 50 
+F4 "CURRENT_SENSE" I R 5750 4200 50 
+F5 "EN" O R 5750 4050 50 
+F6 "LIN" B L 4600 4400 50 
+F7 "EXT_EN" I L 4600 4050 50 
+$EndSheet
+Wire Wire Line
+	5750 4050 6250 4050
+Wire Wire Line
+	6250 4200 5750 4200
+Wire Wire Line
+	5750 4300 6250 4300
+Wire Wire Line
+	6250 4400 5750 4400
+$Comp
+L power:GND #PWR021
+U 1 1 5C63E76B
+P 6250 2850
+F 0 "#PWR021" H 6250 2600 50  0001 C CNN
+F 1 "GND" H 6255 2677 50  0000 C CNN
+F 2 "" H 6250 2850 50  0001 C CNN
+F 3 "" H 6250 2850 50  0001 C CNN
+	1    6250 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+12V #PWR020
+U 1 1 5C63E794
+P 6250 2150
+F 0 "#PWR020" H 6250 2000 50  0001 C CNN
+F 1 "+12V" H 6265 2323 50  0000 C CNN
+F 2 "" H 6250 2150 50  0001 C CNN
+F 3 "" H 6250 2150 50  0001 C CNN
+	1    6250 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J2
+U 1 1 5C63E896
+P 5850 2350
+F 0 "J2" H 5770 2125 50  0000 C CNN
+F 1 "+12V" H 5770 2216 50  0000 C CNN
+F 2 "Wire_Pads:SolderWirePad_single_SMD_5x10mm" H 5850 2350 50  0001 C CNN
+F 3 "~" H 5850 2350 50  0001 C CNN
+	1    5850 2350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J4
+U 1 1 5C63E8F8
+P 3750 4400
+F 0 "J4" H 3670 4175 50  0000 C CNN
+F 1 "LIN" H 3670 4266 50  0000 C CNN
+F 2 "Wire_Pads:SolderWirePad_single_SMD_5x10mm" H 3750 4400 50  0001 C CNN
+F 3 "~" H 3750 4400 50  0001 C CNN
+	1    3750 4400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J5
+U 1 1 5C63E912
+P 5850 2750
+F 0 "J5" H 5770 2525 50  0000 C CNN
+F 1 "GND" H 5770 2616 50  0000 C CNN
+F 2 "Wire_Pads:SolderWirePad_single_SMD_5x10mm" H 5850 2750 50  0001 C CNN
+F 3 "~" H 5850 2750 50  0001 C CNN
+	1    5850 2750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6050 2350 6250 2350
+Wire Wire Line
+	6250 2350 6250 2150
+Wire Wire Line
+	6050 2750 6250 2750
+Wire Wire Line
+	6250 2750 6250 2850
+Wire Wire Line
+	3950 4400 4600 4400
+$Comp
+L Connector_Generic:Conn_01x01 J3
+U 1 1 5C63EC3C
+P 3750 4050
+F 0 "J3" H 3670 3825 50  0000 C CNN
+F 1 "EN" H 3670 3916 50  0000 C CNN
+F 2 "Wire_Pads:SolderWirePad_single_SMD_5x10mm" H 3750 4050 50  0001 C CNN
+F 3 "~" H 3750 4050 50  0001 C CNN
+	1    3750 4050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3950 4050 4600 4050
+$Comp
+L Motor:Motor_DC M1
+U 1 1 5C63FD8D
+P 8100 4150
+AR Path="/5C63FD8D" Ref="M1"  Part="1" 
+AR Path="/5C621B5A/5C63FD8D" Ref="M?"  Part="1" 
+F 0 "M1" H 8258 4146 50  0000 L CNN
+F 1 "Motor_DC" H 8258 4055 50  0000 L CNN
+F 2 "Project:fuel_pump" H 8100 4060 50  0001 C CNN
+F 3 "~" H 8100 4060 50  0001 C CNN
+	1    8100 4150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7600 4050 7850 4050
+Wire Wire Line
+	7850 4050 7850 3850
+Wire Wire Line
+	7850 3850 8100 3850
+Wire Wire Line
+	8100 3850 8100 3950
+Wire Wire Line
+	7600 4400 7850 4400
+Wire Wire Line
+	7850 4400 7850 4550
+Wire Wire Line
+	7850 4550 8100 4550
+Wire Wire Line
+	8100 4550 8100 4450
+$EndSCHEMATC

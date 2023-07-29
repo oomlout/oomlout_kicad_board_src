@@ -1,0 +1,414 @@
+EESchema Schematic File Version 2
+LIBS:Juicebox-rescue
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:usb-type-c
+LIBS:dc-dc
+LIBS:usb2.0
+LIBS:texax_proj
+LIBS:switches
+LIBS:diode
+LIBS:Micro-USB-Board-cache
+EELAYER 25 0
+EELAYER END
+$Descr A 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "Micro-USB Board"
+Date "2018-04-13"
+Rev "B"
+Comp "Veenema Design Works"
+Comment1 "ben@veenemadesignworks.com"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L BQ24392 U1
+U 1 1 5ACF7A7D
+P 3200 3800
+F 0 "U1" H 3200 4250 71  0000 C CNN
+F 1 "BQ24392" H 3200 3300 71  0000 C CNN
+F 2 "Texas:Texas_R_PUQFN-N10" H 3200 3800 71  0001 C CNN
+F 3 "" H 3200 3800 71  0001 C CNN
+F 4 "BQ24392RSER" H 3200 3800 60  0001 C CNN "MPN"
+	1    3200 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L USB_OTG-RESCUE-Juicebox P1
+U 1 1 5ACF7A85
+P 5550 3700
+F 0 "P1" H 5875 3575 50  0000 C CNN
+F 1 "USB_OTG" H 5550 3900 50  0000 C CNN
+F 2 "Connectors:USB_Micro-B_10103594-0001LF" V 5500 3600 50  0001 C CNN
+F 3 "http://portal.fciconnect.com/Comergent//fci/drawing/10103594.pdf" V 5500 3600 50  0001 C CNN
+F 4 "10103594-0001LF" H 5550 3700 60  0001 C CNN "MPN"
+	1    5550 3700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3700 3500 5250 3500
+Wire Wire Line
+	5250 3600 4800 3600
+Wire Wire Line
+	4800 3700 4800 3600
+Wire Wire Line
+	3700 3700 4800 3700
+Wire Wire Line
+	5250 3700 4850 3700
+Wire Wire Line
+	4850 3900 4850 3700
+Wire Wire Line
+	3700 3900 4850 3900
+Wire Wire Line
+	5250 3900 4900 3900
+Wire Wire Line
+	4900 3900 4900 4650
+Wire Wire Line
+	3700 4100 5450 4100
+Wire Wire Line
+	5650 4100 5650 4350
+$Comp
+L GND #PWR01
+U 1 1 5ACF7A9F
+P 5650 4350
+F 0 "#PWR01" H 5650 4100 50  0001 C CNN
+F 1 "GND" H 5650 4200 50  0000 C CNN
+F 2 "" H 5650 4350 50  0000 C CNN
+F 3 "" H 5650 4350 50  0000 C CNN
+	1    5650 4350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 4650 4650 4650
+Connection ~ 4900 4100
+Wire Wire Line
+	5450 4100 5450 4200
+Wire Wire Line
+	5450 4200 5850 4200
+Connection ~ 5650 4200
+Wire Wire Line
+	3950 4650 3850 4650
+Wire Wire Line
+	4650 4450 4650 3900
+Connection ~ 4650 3900
+Wire Wire Line
+	2500 3200 5350 3200
+Wire Wire Line
+	5850 4200 5850 3500
+Wire Wire Line
+	6350 2500 7050 2500
+Wire Wire Line
+	2500 4100 2700 4100
+NoConn ~ 5250 3800
+$Comp
+L C_Small C2
+U 1 1 5ACF7B04
+P 5100 2650
+F 0 "C2" H 5110 2720 50  0000 L CNN
+F 1 "1uF" H 5110 2570 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805" H 5100 2650 50  0001 C CNN
+F 3 "" H 5100 2650 50  0001 C CNN
+F 4 "CL21B105KOFNNNG" H 5100 2650 60  0001 C CNN "MPN"
+	1    5100 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR02
+U 1 1 5ACF7B0B
+P 5100 2800
+F 0 "#PWR02" H 5100 2550 50  0001 C CNN
+F 1 "GND" H 5100 2650 50  0000 C CNN
+F 2 "" H 5100 2800 50  0000 C CNN
+F 3 "" H 5100 2800 50  0000 C CNN
+	1    5100 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 2800 5100 2750
+$Comp
+L C_Small C1
+U 1 1 5ACF7B13
+P 4950 2650
+F 0 "C1" H 4960 2720 50  0000 L CNN
+F 1 "10uF" H 4960 2570 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805" H 4950 2650 50  0001 C CNN
+F 3 "" H 4950 2650 50  0000 C CNN
+F 4 "CL21A106KPFNNNG" H 4950 2650 60  0001 C CNN "MPN"
+	1    4950 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L GND #PWR03
+U 1 1 5ACF7B1A
+P 4950 2800
+F 0 "#PWR03" H 4950 2550 50  0001 C CNN
+F 1 "GND" H 4950 2650 50  0000 C CNN
+F 2 "" H 4950 2800 50  0000 C CNN
+F 3 "" H 4950 2800 50  0000 C CNN
+	1    4950 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 2800 4950 2750
+$Comp
+L C_Small C3
+U 1 1 5ACF7B23
+P 6450 2700
+F 0 "C3" H 6460 2770 50  0000 L CNN
+F 1 ".1uF" H 6460 2620 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 6450 2700 50  0001 C CNN
+F 3 "" H 6450 2700 50  0000 C CNN
+F 4 "Place ACAP to VDD" H 6450 2700 60  0001 C CNN "Layout Notes"
+F 5 "CL10B104KO8NNNC" H 6450 2700 60  0001 C CNN "MPN"
+	1    6450 2700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6450 2800 6450 2900
+$Comp
+L GND #PWR04
+U 1 1 5ACF7B2B
+P 6450 2900
+F 0 "#PWR04" H 6450 2650 50  0001 C CNN
+F 1 "GND" H 6450 2750 50  0000 C CNN
+F 2 "" H 6450 2900 50  0000 C CNN
+F 3 "" H 6450 2900 50  0000 C CNN
+	1    6450 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L CP1_Small C4
+U 1 1 5ACF7B32
+P 6600 2700
+F 0 "C4" H 6610 2770 50  0000 L CNN
+F 1 "100uF" H 6610 2620 50  0000 L CNN
+F 2 "Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow" H 6600 2700 50  0001 C CNN
+F 3 "" H 6600 2700 50  0001 C CNN
+F 4 "F930J107KAA" H 6600 2700 60  0001 C CNN "MPN"
+	1    6600 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 2800 6600 2900
+$Comp
+L GND #PWR05
+U 1 1 5ACF7B3A
+P 6600 2900
+F 0 "#PWR05" H 6600 2650 50  0001 C CNN
+F 1 "GND" H 6600 2750 50  0000 C CNN
+F 2 "" H 6600 2900 50  0000 C CNN
+F 3 "" H 6600 2900 50  0000 C CNN
+	1    6600 2900
+	1    0    0    -1  
+$EndComp
+Connection ~ 4650 3500
+Wire Wire Line
+	4950 2550 4950 2500
+Connection ~ 4950 2500
+Wire Wire Line
+	5100 2500 5100 2550
+Connection ~ 5100 2500
+Wire Wire Line
+	6450 2600 6450 2500
+Connection ~ 6450 2500
+Wire Wire Line
+	6600 2600 6600 2500
+Connection ~ 6600 2500
+Text Notes 950  2550 0    47   ~ 0
+CHG_DET = Charger Detected (DCP, CDP, Apple, Tom-Tom) \n            HI when charger is detected\n\nCHG_AL_N = Charging Allowed\n            Open Drain Output, LOW when charging is allowed (ignore, CHG_DET is enough)\n\nGOOD_BAT = Battery Satus\n            Set LOW if battery dead, HI if good (tie hi)\n\nSW_OPEN = Indicates if USB data can be used\n            Not used in this system
+Connection ~ 3950 3500
+Connection ~ 3850 3700
+Wire Wire Line
+	3850 4650 3850 3700
+Wire Wire Line
+	3950 2850 3950 4450
+$Comp
+L TPD2E001 U2
+U 1 1 5ACF7A8D
+P 4300 4550
+F 0 "U2" H 4300 4800 71  0000 C CNN
+F 1 "TPD2E001" H 4300 4300 71  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-5" H 4300 4550 71  0001 C CNN
+F 3 "" H 4300 4550 71  0001 C CNN
+F 4 "TPD2E001DRSR" H 4300 4550 60  0001 C CNN "MPN"
+	1    4300 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L AP22811A U3
+U 1 1 5ACF7B07
+P 5850 2850
+F 0 "U3" H 6000 3400 71  0000 C CNN
+F 1 "AP22811A" H 5850 2850 71  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-5" H 5850 2950 71  0001 C CNN
+F 3 "" H 5850 2950 71  0001 C CNN
+	1    5850 2850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4650 2500 5350 2500
+NoConn ~ 5350 3050
+NoConn ~ 2700 4000
+NoConn ~ 2700 3600
+NoConn ~ 2700 3500
+Wire Wire Line
+	2500 3200 2500 4300
+$Comp
+L +5V #PWR06
+U 1 1 5ACF7B4A
+P 7050 2250
+F 0 "#PWR06" H 7050 2100 50  0001 C CNN
+F 1 "+5V" H 7050 2390 50  0000 C CNN
+F 2 "" H 7050 2250 50  0000 C CNN
+F 3 "" H 7050 2250 50  0000 C CNN
+	1    7050 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7050 2500 7050 2250
+Wire Wire Line
+	4650 2500 4650 3500
+$Comp
+L CONN_01X02 J1
+U 1 1 5ACF955B
+P 9200 3750
+F 0 "J1" H 9200 3900 50  0000 C CNN
+F 1 "640455-2" V 9300 3750 50  0000 C CNN
+F 2 "640455-2:640455-2" H 9200 3750 50  0001 C CNN
+F 3 "" H 9200 3750 50  0001 C CNN
+	1    9200 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR07
+U 1 1 5ACF95D7
+P 8800 3450
+F 0 "#PWR07" H 8800 3300 50  0001 C CNN
+F 1 "+5V" H 8800 3590 50  0000 C CNN
+F 2 "" H 8800 3450 50  0000 C CNN
+F 3 "" H 8800 3450 50  0000 C CNN
+	1    8800 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR08
+U 1 1 5ACF96E8
+P 8800 4100
+F 0 "#PWR08" H 8800 3850 50  0001 C CNN
+F 1 "GND" H 8800 3950 50  0000 C CNN
+F 2 "" H 8800 4100 50  0000 C CNN
+F 3 "" H 8800 4100 50  0000 C CNN
+	1    8800 4100
+	1    0    0    -1  
+$EndComp
+NoConn ~ 2700 3900
+Wire Wire Line
+	2700 3750 2150 3750
+Wire Wire Line
+	2150 3750 2150 3600
+Wire Wire Line
+	2150 2850 2150 3300
+$Comp
+L R R2
+U 1 1 5ACFADBD
+P 2500 4450
+F 0 "R2" V 2580 4450 50  0000 C CNN
+F 1 "100K" V 2500 4450 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805" V 2430 4450 50  0001 C CNN
+F 3 "" H 2500 4450 50  0001 C CNN
+F 4 "RMCF0805JT100K" V 2500 4450 60  0001 C CNN "MPN"
+	1    2500 4450
+	1    0    0    -1  
+$EndComp
+Connection ~ 2500 4100
+$Comp
+L GND #PWR09
+U 1 1 5ACFAECD
+P 2500 4700
+F 0 "#PWR09" H 2500 4450 50  0001 C CNN
+F 1 "GND" H 2500 4550 50  0000 C CNN
+F 2 "" H 2500 4700 50  0000 C CNN
+F 3 "" H 2500 4700 50  0000 C CNN
+	1    2500 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2500 4700 2500 4600
+Wire Wire Line
+	3950 2850 2150 2850
+$Comp
+L R R1
+U 1 1 5ACFB494
+P 2150 3450
+F 0 "R1" V 2230 3450 50  0000 C CNN
+F 1 "100K" V 2150 3450 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805" V 2080 3450 50  0001 C CNN
+F 3 "" H 2150 3450 50  0001 C CNN
+F 4 "RMCF0805JT100K" V 2150 3450 60  0001 C CNN "MPN"
+	1    2150 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Screw_Terminal_1x01 J2
+U 1 1 5ACF8D0F
+P 1050 7550
+F 0 "J2" H 1050 7700 50  0000 C TNN
+F 1 "Keystone-7790" V 900 7550 50  0000 C TNN
+F 2 "Keystone:7790-ScrewTerm-M3" H 1050 7425 50  0001 C CNN
+F 3 "" H 1050 7450 50  0001 C CNN
+	1    1050 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Screw_Terminal_1x01 J3
+U 1 1 5ACF8FBA
+P 1500 7550
+F 0 "J3" H 1500 7700 50  0000 C TNN
+F 1 "Keystone-7790" V 1350 7550 50  0000 C TNN
+F 2 "Keystone:7790-ScrewTerm-M3" H 1500 7425 50  0001 C CNN
+F 3 "" H 1500 7450 50  0001 C CNN
+	1    1500 7550
+	1    0    0    -1  
+$EndComp
+Text Label 3250 3200 0    71   ~ 0
+CHG_DET
+Text Label 4100 3500 0    71   ~ 0
+VBUS
+Wire Wire Line
+	9000 3700 8800 3700
+Wire Wire Line
+	8800 3700 8800 3450
+Wire Wire Line
+	9000 3800 8800 3800
+Wire Wire Line
+	8800 3800 8800 4100
+$EndSCHEMATC

@@ -1,0 +1,885 @@
+EESchema Schematic File Version 2
+LIBS:emptystack-rescue
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:akizuki
+LIBS:ESP32-footprints-Shem-Lib
+LIBS:ftdi232rq
+LIBS:MiscellaneousDevices
+LIBS:CP2102
+LIBS:emptystack-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "EmptyStack"
+Date "2017-04-28"
+Rev "1.1"
+Comp ""
+Comment1 "by asukiaaa"
+Comment2 "github.com/asukiaaa/emptystack"
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text GLabel 1650 3150 0    39   Input ~ 0
+EN
+Text GLabel 1650 3250 0    39   Input ~ 0
+SVP
+Text GLabel 1650 3350 0    39   Input ~ 0
+SVN
+Text GLabel 1650 3450 0    39   Input ~ 0
+IO34
+Text GLabel 1650 3550 0    39   Input ~ 0
+IO35
+Text GLabel 1650 3650 0    39   Input ~ 0
+IO32
+Text GLabel 1650 3750 0    39   Input ~ 0
+IO33
+Text GLabel 1650 3850 0    39   Input ~ 0
+IO25
+Text GLabel 1650 3950 0    39   Input ~ 0
+IO26
+Text GLabel 1650 4050 0    39   Input ~ 0
+IO27
+Text GLabel 1650 4150 0    39   Input ~ 0
+IO14
+Text GLabel 1650 4250 0    39   Input ~ 0
+IO12
+Text GLabel 1650 4350 0    39   Input ~ 0
+IO13
+Text GLabel 3200 3050 0    39   Input ~ 0
+IO23
+Text GLabel 3200 3150 0    39   Input ~ 0
+IO22
+Text GLabel 3200 3450 0    39   Input ~ 0
+IO21
+Text GLabel 3200 3550 0    39   Input ~ 0
+IO19
+Text GLabel 3200 3650 0    39   Input ~ 0
+IO18
+Text GLabel 3200 3750 0    39   Input ~ 0
+IO5
+Text GLabel 3200 3850 0    39   Input ~ 0
+IO17
+Text GLabel 3200 3950 0    39   Input ~ 0
+IO16
+Text GLabel 3200 4050 0    39   Input ~ 0
+IO4
+Text GLabel 3200 4250 0    39   Input ~ 0
+IO2
+Text GLabel 3200 4350 0    39   Input ~ 0
+IO15
+$Comp
+L +3.3V #PWR01
+U 1 1 58948A12
+P 1200 3050
+F 0 "#PWR01" H 1200 2900 50  0001 C CNN
+F 1 "+3.3V" H 1200 3190 50  0000 C CNN
+F 2 "" H 1200 3050 50  0000 C CNN
+F 3 "" H 1200 3050 50  0000 C CNN
+	1    1200 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR02
+U 1 1 58948B03
+P 1350 2600
+F 0 "#PWR02" H 1350 2350 50  0001 C CNN
+F 1 "GND" H 1350 2450 50  0000 C CNN
+F 2 "" H 1350 2600 50  0000 C CNN
+F 3 "" H 1350 2600 50  0000 C CNN
+	1    1350 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR03
+U 1 1 58948C68
+P 2750 4550
+F 0 "#PWR03" H 2750 4300 50  0001 C CNN
+F 1 "GND" H 2750 4400 50  0000 C CNN
+F 2 "" H 2750 4550 50  0000 C CNN
+F 3 "" H 2750 4550 50  0000 C CNN
+	1    2750 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR04
+U 1 1 58948CFD
+P 1350 4900
+F 0 "#PWR04" H 1350 4750 50  0001 C CNN
+F 1 "VCC" H 1350 5050 50  0000 C CNN
+F 2 "" H 1350 4900 50  0000 C CNN
+F 3 "" H 1350 4900 50  0000 C CNN
+	1    1350 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR05
+U 1 1 58948E57
+P 2750 4450
+F 0 "#PWR05" H 2750 4300 50  0001 C CNN
+F 1 "+3.3V" H 2750 4590 50  0000 C CNN
+F 2 "" H 2750 4450 50  0000 C CNN
+F 3 "" H 2750 4450 50  0000 C CNN
+	1    2750 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR06
+U 1 1 58948EC3
+P 1350 4450
+F 0 "#PWR06" H 1350 4200 50  0001 C CNN
+F 1 "GND" H 1350 4300 50  0000 C CNN
+F 2 "" H 1350 4450 50  0000 C CNN
+F 3 "" H 1350 4450 50  0000 C CNN
+	1    1350 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X17 J1
+U 1 1 58A7A438
+P 1950 3750
+F 0 "J1" H 1950 4650 50  0000 C CNN
+F 1 "CONN_01X17" V 2050 3750 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x17_Pitch2.54mm" H 1950 3750 50  0001 C CNN
+F 3 "" H 1950 3750 50  0000 C CNN
+	1    1950 3750
+	1    0    0    -1  
+$EndComp
+Text GLabel 3200 3250 0    39   Input ~ 0
+RXDtoTXD0
+Text GLabel 3200 3350 0    39   Input ~ 0
+TXDtoRXD0
+NoConn ~ 13200 3550
+Text GLabel 3200 4150 0    39   Input ~ 0
+IO0(boot)
+$Comp
+L CONN_01X16 J2
+U 1 1 58F6F413
+P 3500 3800
+F 0 "J2" H 3500 4650 50  0000 C CNN
+F 1 "CONN_01X16" V 3600 3800 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x16_Pitch2.54mm" H 3500 3800 50  0001 C CNN
+F 3 "" H 3500 3800 50  0001 C CNN
+	1    3500 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 3050 1750 3050
+Wire Wire Line
+	1350 2600 1650 2600
+Wire Wire Line
+	1650 2600 1650 2950
+Wire Wire Line
+	1350 4450 1750 4450
+Wire Wire Line
+	1550 4550 1750 4550
+Wire Wire Line
+	1550 4550 1550 4900
+Wire Wire Line
+	1550 4900 1350 4900
+Wire Wire Line
+	2750 4450 3300 4450
+Wire Wire Line
+	2750 4550 3300 4550
+Wire Wire Line
+	1650 2950 1750 2950
+Wire Wire Line
+	1650 3150 1750 3150
+Wire Wire Line
+	1650 3250 1750 3250
+Wire Wire Line
+	1650 3350 1750 3350
+Wire Wire Line
+	1650 3450 1750 3450
+Wire Wire Line
+	1650 3550 1750 3550
+Wire Wire Line
+	1650 3650 1750 3650
+Wire Wire Line
+	1650 3750 1750 3750
+Wire Wire Line
+	1650 3850 1750 3850
+Wire Wire Line
+	1650 3950 1750 3950
+Wire Wire Line
+	1650 4050 1750 4050
+Wire Wire Line
+	1650 4150 1750 4150
+Wire Wire Line
+	1650 4250 1750 4250
+Wire Wire Line
+	1650 4350 1750 4350
+Wire Wire Line
+	3200 3050 3300 3050
+Wire Wire Line
+	3200 3150 3300 3150
+Wire Wire Line
+	3200 3250 3300 3250
+Wire Wire Line
+	3200 3350 3300 3350
+Wire Wire Line
+	3200 3450 3300 3450
+Wire Wire Line
+	3200 3550 3300 3550
+Wire Wire Line
+	3200 3650 3300 3650
+Wire Wire Line
+	3200 3750 3300 3750
+Wire Wire Line
+	3200 3850 3300 3850
+Wire Wire Line
+	3200 3950 3300 3950
+Wire Wire Line
+	3200 4050 3300 4050
+Wire Wire Line
+	3200 4150 3300 4150
+Wire Wire Line
+	3200 4250 3300 4250
+Wire Wire Line
+	3200 4350 3300 4350
+$Comp
+L CONN_01X16 J4
+U 1 1 58F8D031
+P 3900 3850
+F 0 "J4" H 3900 4700 50  0000 C CNN
+F 1 "CONN_01X16" V 4000 3850 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x16_Pitch2.54mm" H 3900 3850 50  0001 C CNN
+F 3 "" H 3900 3850 50  0001 C CNN
+	1    3900 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X17 J3
+U 1 1 58F8D058
+P 2350 3800
+F 0 "J3" H 2350 4700 50  0000 C CNN
+F 1 "CONN_01X17" V 2450 3800 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x17_Pitch2.54mm" H 2350 3800 50  0001 C CNN
+F 3 "" H 2350 3800 50  0000 C CNN
+	1    2350 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3250 3050 3250 3100
+Wire Wire Line
+	3250 3100 3700 3100
+Connection ~ 3250 3050
+Wire Wire Line
+	3250 3150 3250 3200
+Wire Wire Line
+	3250 3200 3700 3200
+Connection ~ 3250 3150
+Wire Wire Line
+	3250 3250 3250 3300
+Wire Wire Line
+	3250 3300 3700 3300
+Connection ~ 3250 3250
+Wire Wire Line
+	3250 3350 3250 3400
+Wire Wire Line
+	3250 3400 3700 3400
+Connection ~ 3250 3350
+Wire Wire Line
+	3250 3450 3250 3500
+Wire Wire Line
+	3250 3500 3700 3500
+Connection ~ 3250 3450
+Wire Wire Line
+	3250 3550 3250 3600
+Wire Wire Line
+	3250 3600 3700 3600
+Connection ~ 3250 3550
+Wire Wire Line
+	3250 3650 3250 3700
+Wire Wire Line
+	3250 3700 3700 3700
+Connection ~ 3250 3650
+Wire Wire Line
+	3250 3750 3250 3800
+Wire Wire Line
+	3250 3800 3700 3800
+Connection ~ 3250 3750
+Wire Wire Line
+	3250 3850 3250 3900
+Wire Wire Line
+	3250 3900 3700 3900
+Connection ~ 3250 3850
+Wire Wire Line
+	3250 3950 3250 4000
+Wire Wire Line
+	3250 4000 3700 4000
+Connection ~ 3250 3950
+Wire Wire Line
+	3250 4050 3250 4100
+Wire Wire Line
+	3250 4100 3700 4100
+Connection ~ 3250 4050
+Wire Wire Line
+	3250 4150 3250 4200
+Wire Wire Line
+	3250 4200 3700 4200
+Connection ~ 3250 4150
+Wire Wire Line
+	3250 4250 3250 4300
+Wire Wire Line
+	3250 4300 3700 4300
+Connection ~ 3250 4250
+Wire Wire Line
+	3250 4350 3250 4400
+Wire Wire Line
+	3250 4400 3700 4400
+Connection ~ 3250 4350
+Wire Wire Line
+	3250 4450 3250 4500
+Wire Wire Line
+	3250 4500 3700 4500
+Connection ~ 3250 4450
+Wire Wire Line
+	3250 4550 3250 4600
+Wire Wire Line
+	3250 4600 3700 4600
+Connection ~ 3250 4550
+Wire Wire Line
+	1700 2950 1700 3000
+Wire Wire Line
+	1700 3000 2150 3000
+Connection ~ 1700 2950
+Wire Wire Line
+	1700 3050 1700 3100
+Wire Wire Line
+	1700 3100 2150 3100
+Connection ~ 1700 3050
+Wire Wire Line
+	1700 3150 1700 3200
+Wire Wire Line
+	1700 3200 2150 3200
+Connection ~ 1700 3150
+Wire Wire Line
+	1700 3250 1700 3300
+Wire Wire Line
+	1700 3300 2150 3300
+Connection ~ 1700 3250
+Wire Wire Line
+	1700 3350 1700 3400
+Wire Wire Line
+	1700 3400 2150 3400
+Connection ~ 1700 3350
+Wire Wire Line
+	1700 3450 1700 3500
+Wire Wire Line
+	1700 3500 2150 3500
+Connection ~ 1700 3450
+Wire Wire Line
+	1700 3550 1700 3600
+Wire Wire Line
+	1700 3600 2150 3600
+Connection ~ 1700 3550
+Wire Wire Line
+	1700 3650 1700 3700
+Wire Wire Line
+	1700 3700 2150 3700
+Connection ~ 1700 3650
+Wire Wire Line
+	1700 3750 1700 3800
+Wire Wire Line
+	1700 3800 2150 3800
+Connection ~ 1700 3750
+Wire Wire Line
+	1700 3850 1700 3900
+Wire Wire Line
+	1700 3900 2150 3900
+Connection ~ 1700 3850
+Wire Wire Line
+	1700 3950 1700 4000
+Wire Wire Line
+	1700 4000 2150 4000
+Connection ~ 1700 3950
+Wire Wire Line
+	1700 4050 1700 4100
+Wire Wire Line
+	1700 4100 2150 4100
+Connection ~ 1700 4050
+Wire Wire Line
+	1700 4150 1700 4200
+Wire Wire Line
+	1700 4200 2150 4200
+Connection ~ 1700 4150
+Wire Wire Line
+	1700 4250 1700 4300
+Wire Wire Line
+	1700 4300 2150 4300
+Connection ~ 1700 4250
+Wire Wire Line
+	1700 4350 1700 4400
+Wire Wire Line
+	1700 4400 2150 4400
+Connection ~ 1700 4350
+Wire Wire Line
+	1700 4450 1700 4500
+Wire Wire Line
+	1700 4500 2150 4500
+Connection ~ 1700 4450
+Wire Wire Line
+	1700 4550 1700 4600
+Wire Wire Line
+	1700 4600 2150 4600
+Connection ~ 1700 4550
+$Comp
+L CONN_01X14 J6
+U 1 1 58F9E027
+P 5300 3450
+F 0 "J6" H 5300 4200 50  0000 C CNN
+F 1 "CONN_01X14" V 5400 3450 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 5300 3450 50  0001 C CNN
+F 3 "" H 5300 3450 50  0001 C CNN
+	1    5300 3450
+	1    0    0    -1  
+$EndComp
+NoConn ~ 5100 2800
+NoConn ~ 5100 2900
+NoConn ~ 5100 3000
+NoConn ~ 5100 3100
+NoConn ~ 5100 3200
+NoConn ~ 5100 3300
+NoConn ~ 5100 3400
+NoConn ~ 5100 3500
+NoConn ~ 5100 3600
+NoConn ~ 5100 3700
+NoConn ~ 5100 3800
+NoConn ~ 5100 3900
+NoConn ~ 5100 4000
+NoConn ~ 5100 4100
+$Comp
+L CONN_01X14 J10
+U 1 1 58F9E14D
+P 5700 3450
+F 0 "J10" H 5700 4200 50  0000 C CNN
+F 1 "CONN_01X14" V 5800 3450 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 5700 3450 50  0001 C CNN
+F 3 "" H 5700 3450 50  0001 C CNN
+	1    5700 3450
+	1    0    0    -1  
+$EndComp
+NoConn ~ 5500 2800
+NoConn ~ 5500 2900
+NoConn ~ 5500 3000
+NoConn ~ 5500 3100
+NoConn ~ 5500 3200
+NoConn ~ 5500 3300
+NoConn ~ 5500 3400
+NoConn ~ 5500 3500
+NoConn ~ 5500 3600
+NoConn ~ 5500 3700
+NoConn ~ 5500 3800
+NoConn ~ 5500 3900
+NoConn ~ 5500 4000
+NoConn ~ 5500 4100
+$Comp
+L CONN_01X14 J14
+U 1 1 58F9E1B7
+P 6100 3450
+F 0 "J14" H 6100 4200 50  0000 C CNN
+F 1 "CONN_01X14" V 6200 3450 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 6100 3450 50  0001 C CNN
+F 3 "" H 6100 3450 50  0001 C CNN
+	1    6100 3450
+	1    0    0    -1  
+$EndComp
+NoConn ~ 5900 2800
+NoConn ~ 5900 2900
+NoConn ~ 5900 3000
+NoConn ~ 5900 3100
+NoConn ~ 5900 3200
+NoConn ~ 5900 3300
+NoConn ~ 5900 3400
+NoConn ~ 5900 3500
+NoConn ~ 5900 3600
+NoConn ~ 5900 3700
+NoConn ~ 5900 3800
+NoConn ~ 5900 3900
+NoConn ~ 5900 4000
+NoConn ~ 5900 4100
+$Comp
+L CONN_01X14 J17
+U 1 1 58F9E1CB
+P 6500 3450
+F 0 "J17" H 6500 4200 50  0000 C CNN
+F 1 "CONN_01X14" V 6600 3450 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 6500 3450 50  0001 C CNN
+F 3 "" H 6500 3450 50  0001 C CNN
+	1    6500 3450
+	1    0    0    -1  
+$EndComp
+NoConn ~ 6300 2800
+NoConn ~ 6300 2900
+NoConn ~ 6300 3000
+NoConn ~ 6300 3100
+NoConn ~ 6300 3200
+NoConn ~ 6300 3300
+NoConn ~ 6300 3400
+NoConn ~ 6300 3500
+NoConn ~ 6300 3600
+NoConn ~ 6300 3700
+NoConn ~ 6300 3800
+NoConn ~ 6300 3900
+NoConn ~ 6300 4000
+NoConn ~ 6300 4100
+$Comp
+L CONN_01X14 J20
+U 1 1 58F9E201
+P 6900 3450
+F 0 "J20" H 6900 4200 50  0000 C CNN
+F 1 "CONN_01X14" V 7000 3450 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 6900 3450 50  0001 C CNN
+F 3 "" H 6900 3450 50  0001 C CNN
+	1    6900 3450
+	1    0    0    -1  
+$EndComp
+NoConn ~ 6700 2800
+NoConn ~ 6700 2900
+NoConn ~ 6700 3000
+NoConn ~ 6700 3100
+NoConn ~ 6700 3200
+NoConn ~ 6700 3300
+NoConn ~ 6700 3400
+NoConn ~ 6700 3500
+NoConn ~ 6700 3600
+NoConn ~ 6700 3700
+NoConn ~ 6700 3800
+NoConn ~ 6700 3900
+NoConn ~ 6700 4000
+NoConn ~ 6700 4100
+$Comp
+L CONN_01X14 J5
+U 1 1 58F9E2EE
+P 5300 1800
+F 0 "J5" H 5300 2550 50  0000 C CNN
+F 1 "CONN_01X14" V 5400 1800 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 5300 1800 50  0001 C CNN
+F 3 "" H 5300 1800 50  0001 C CNN
+	1    5300 1800
+	1    0    0    -1  
+$EndComp
+NoConn ~ 5100 1150
+NoConn ~ 5100 1250
+NoConn ~ 5100 1350
+NoConn ~ 5100 1450
+NoConn ~ 5100 1550
+NoConn ~ 5100 1650
+NoConn ~ 5100 1750
+NoConn ~ 5100 1850
+NoConn ~ 5100 1950
+NoConn ~ 5100 2050
+NoConn ~ 5100 2150
+NoConn ~ 5100 2250
+NoConn ~ 5100 2350
+NoConn ~ 5100 2450
+$Comp
+L CONN_01X14 J9
+U 1 1 58F9E302
+P 5700 1800
+F 0 "J9" H 5700 2550 50  0000 C CNN
+F 1 "CONN_01X14" V 5800 1800 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 5700 1800 50  0001 C CNN
+F 3 "" H 5700 1800 50  0001 C CNN
+	1    5700 1800
+	1    0    0    -1  
+$EndComp
+NoConn ~ 5500 1150
+NoConn ~ 5500 1250
+NoConn ~ 5500 1350
+NoConn ~ 5500 1450
+NoConn ~ 5500 1550
+NoConn ~ 5500 1650
+NoConn ~ 5500 1750
+NoConn ~ 5500 1850
+NoConn ~ 5500 1950
+NoConn ~ 5500 2050
+NoConn ~ 5500 2150
+NoConn ~ 5500 2250
+NoConn ~ 5500 2350
+NoConn ~ 5500 2450
+$Comp
+L CONN_01X14 J13
+U 1 1 58F9E316
+P 6100 1800
+F 0 "J13" H 6100 2550 50  0000 C CNN
+F 1 "CONN_01X14" V 6200 1800 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 6100 1800 50  0001 C CNN
+F 3 "" H 6100 1800 50  0001 C CNN
+	1    6100 1800
+	1    0    0    -1  
+$EndComp
+NoConn ~ 5900 1150
+NoConn ~ 5900 1250
+NoConn ~ 5900 1350
+NoConn ~ 5900 1450
+NoConn ~ 5900 1550
+NoConn ~ 5900 1650
+NoConn ~ 5900 1750
+NoConn ~ 5900 1850
+NoConn ~ 5900 1950
+NoConn ~ 5900 2050
+NoConn ~ 5900 2150
+NoConn ~ 5900 2250
+NoConn ~ 5900 2350
+NoConn ~ 5900 2450
+$Comp
+L CONN_01X14 J16
+U 1 1 58F9E32A
+P 6500 1800
+F 0 "J16" H 6500 2550 50  0000 C CNN
+F 1 "CONN_01X14" V 6600 1800 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 6500 1800 50  0001 C CNN
+F 3 "" H 6500 1800 50  0001 C CNN
+	1    6500 1800
+	1    0    0    -1  
+$EndComp
+NoConn ~ 6300 1150
+NoConn ~ 6300 1250
+NoConn ~ 6300 1350
+NoConn ~ 6300 1450
+NoConn ~ 6300 1550
+NoConn ~ 6300 1650
+NoConn ~ 6300 1750
+NoConn ~ 6300 1850
+NoConn ~ 6300 1950
+NoConn ~ 6300 2050
+NoConn ~ 6300 2150
+NoConn ~ 6300 2250
+NoConn ~ 6300 2350
+NoConn ~ 6300 2450
+$Comp
+L CONN_01X14 J19
+U 1 1 58F9E33E
+P 6900 1800
+F 0 "J19" H 6900 2550 50  0000 C CNN
+F 1 "CONN_01X14" V 7000 1800 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 6900 1800 50  0001 C CNN
+F 3 "" H 6900 1800 50  0001 C CNN
+	1    6900 1800
+	1    0    0    -1  
+$EndComp
+NoConn ~ 6700 1150
+NoConn ~ 6700 1250
+NoConn ~ 6700 1350
+NoConn ~ 6700 1450
+NoConn ~ 6700 1550
+NoConn ~ 6700 1650
+NoConn ~ 6700 1750
+NoConn ~ 6700 1850
+NoConn ~ 6700 1950
+NoConn ~ 6700 2050
+NoConn ~ 6700 2150
+NoConn ~ 6700 2250
+NoConn ~ 6700 2350
+NoConn ~ 6700 2450
+$Comp
+L CONN_01X14 J7
+U 1 1 58F9E43A
+P 5300 5100
+F 0 "J7" H 5300 5850 50  0000 C CNN
+F 1 "CONN_01X14" V 5400 5100 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 5300 5100 50  0001 C CNN
+F 3 "" H 5300 5100 50  0001 C CNN
+	1    5300 5100
+	1    0    0    -1  
+$EndComp
+NoConn ~ 5100 4450
+NoConn ~ 5100 4550
+NoConn ~ 5100 4650
+NoConn ~ 5100 4750
+NoConn ~ 5100 4850
+NoConn ~ 5100 4950
+NoConn ~ 5100 5050
+NoConn ~ 5100 5150
+NoConn ~ 5100 5250
+NoConn ~ 5100 5350
+NoConn ~ 5100 5450
+NoConn ~ 5100 5550
+NoConn ~ 5100 5650
+NoConn ~ 5100 5750
+$Comp
+L CONN_01X14 J11
+U 1 1 58F9E44E
+P 5700 5100
+F 0 "J11" H 5700 5850 50  0000 C CNN
+F 1 "CONN_01X14" V 5800 5100 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 5700 5100 50  0001 C CNN
+F 3 "" H 5700 5100 50  0001 C CNN
+	1    5700 5100
+	1    0    0    -1  
+$EndComp
+NoConn ~ 5500 4450
+NoConn ~ 5500 4550
+NoConn ~ 5500 4650
+NoConn ~ 5500 4750
+NoConn ~ 5500 4850
+NoConn ~ 5500 4950
+NoConn ~ 5500 5050
+NoConn ~ 5500 5150
+NoConn ~ 5500 5250
+NoConn ~ 5500 5350
+NoConn ~ 5500 5450
+NoConn ~ 5500 5550
+NoConn ~ 5500 5650
+NoConn ~ 5500 5750
+$Comp
+L CONN_01X14 J15
+U 1 1 58F9E462
+P 6100 5100
+F 0 "J15" H 6100 5850 50  0000 C CNN
+F 1 "CONN_01X14" V 6200 5100 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 6100 5100 50  0001 C CNN
+F 3 "" H 6100 5100 50  0001 C CNN
+	1    6100 5100
+	1    0    0    -1  
+$EndComp
+NoConn ~ 5900 4450
+NoConn ~ 5900 4550
+NoConn ~ 5900 4650
+NoConn ~ 5900 4750
+NoConn ~ 5900 4850
+NoConn ~ 5900 4950
+NoConn ~ 5900 5050
+NoConn ~ 5900 5150
+NoConn ~ 5900 5250
+NoConn ~ 5900 5350
+NoConn ~ 5900 5450
+NoConn ~ 5900 5550
+NoConn ~ 5900 5650
+NoConn ~ 5900 5750
+$Comp
+L CONN_01X14 J18
+U 1 1 58F9E476
+P 6500 5100
+F 0 "J18" H 6500 5850 50  0000 C CNN
+F 1 "CONN_01X14" V 6600 5100 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 6500 5100 50  0001 C CNN
+F 3 "" H 6500 5100 50  0001 C CNN
+	1    6500 5100
+	1    0    0    -1  
+$EndComp
+NoConn ~ 6300 4450
+NoConn ~ 6300 4550
+NoConn ~ 6300 4650
+NoConn ~ 6300 4750
+NoConn ~ 6300 4850
+NoConn ~ 6300 4950
+NoConn ~ 6300 5050
+NoConn ~ 6300 5150
+NoConn ~ 6300 5250
+NoConn ~ 6300 5350
+NoConn ~ 6300 5450
+NoConn ~ 6300 5550
+NoConn ~ 6300 5650
+NoConn ~ 6300 5750
+$Comp
+L CONN_01X14 J12
+U 1 1 58F9E48A
+P 6900 5100
+F 0 "J12" H 6900 5850 50  0000 C CNN
+F 1 "CONN_01X14" V 7000 5100 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 6900 5100 50  0001 C CNN
+F 3 "" H 6900 5100 50  0001 C CNN
+	1    6900 5100
+	1    0    0    -1  
+$EndComp
+NoConn ~ 6700 4450
+NoConn ~ 6700 4950
+NoConn ~ 6700 5050
+NoConn ~ 6700 5150
+NoConn ~ 6700 5250
+NoConn ~ 6700 5350
+NoConn ~ 6700 5450
+NoConn ~ 6700 5550
+NoConn ~ 6700 5650
+NoConn ~ 6700 5750
+NoConn ~ 5100 6000
+NoConn ~ 5100 6500
+NoConn ~ 5100 6900
+NoConn ~ 5100 7000
+NoConn ~ 5100 7100
+NoConn ~ 5100 7200
+NoConn ~ 5100 7300
+$Comp
+L CONN_01X04 J22
+U 1 1 58F9E796
+P 4800 6250
+F 0 "J22" H 4800 6500 50  0000 C CNN
+F 1 "grove_01X04" V 4900 6250 50  0000 C CNN
+F 2 "Connectors:Grove_1x04" H 4800 6250 50  0001 C CNN
+F 3 "" H 4800 6250 50  0001 C CNN
+	1    4800 6250
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 6100 5100 6100
+Wire Wire Line
+	5000 6200 5100 6200
+Wire Wire Line
+	5000 6300 5100 6300
+Wire Wire Line
+	5000 6400 5100 6400
+NoConn ~ 6700 4850
+NoConn ~ 6700 4750
+NoConn ~ 6700 4650
+NoConn ~ 6700 4550
+$Comp
+L CONN_01X03 J21
+U 1 1 59034F24
+P 4800 6700
+F 0 "J21" H 4800 6900 50  0000 C CNN
+F 1 "CONN_01X03" V 4900 6700 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x03_Pitch2.54mm" H 4800 6700 50  0001 C CNN
+F 3 "" H 4800 6700 50  0001 C CNN
+	1    4800 6700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5000 6600 5100 6600
+Wire Wire Line
+	5000 6700 5100 6700
+Wire Wire Line
+	5000 6800 5100 6800
+$Comp
+L CONN_01X14 J8
+U 1 1 58F9E554
+P 5300 6650
+F 0 "J8" H 5300 7400 50  0000 C CNN
+F 1 "CONN_01X14" V 5400 6650 50  0000 C CNN
+F 2 "common:Pin_Header_Straight_1x14_Pitch2.54mm" H 5300 6650 50  0001 C CNN
+F 3 "" H 5300 6650 50  0001 C CNN
+	1    5300 6650
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

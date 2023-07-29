@@ -1,0 +1,2152 @@
+EESchema Schematic File Version 4
+LIBS:pillcase36-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L pillcase36:BlackPill U1
+U 1 1 5B83E569
+P 9100 2200
+F 0 "U1" H 9100 3265 50  0000 C CNN
+F 1 "BlackPill" H 9100 3174 50  0000 C CNN
+F 2 "pillcase36:BlackPill" H 9100 50  50  0001 C CNN
+F 3 "" H 9100 50  50  0001 C CNN
+	1    9100 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW1
+U 1 1 5B86D15D
+P 2250 1900
+F 0 "SW1" H 2250 2185 50  0000 C CNN
+F 1 "SW_Push" H 2250 2094 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 2250 2100 50  0001 C CNN
+F 3 "" H 2250 2100 50  0001 C CNN
+	1    2250 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 5B86D374
+P 2550 2150
+F 0 "D1" V 2596 2071 50  0000 R CNN
+F 1 "D" V 2505 2071 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 2550 2150 50  0001 C CNN
+F 3 "~" H 2550 2150 50  0001 C CNN
+	1    2550 2150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2000 1900 2050 1900
+Wire Wire Line
+	2450 1900 2550 1900
+Wire Wire Line
+	2550 1900 2550 2000
+Connection ~ 2000 1900
+Wire Wire Line
+	2550 2350 2550 2300
+Connection ~ 2550 2350
+$Comp
+L Switch:SW_Push SW7
+U 1 1 5B86D57D
+P 3000 1900
+F 0 "SW7" H 3000 2185 50  0000 C CNN
+F 1 "SW_Push" H 3000 2094 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 3000 2100 50  0001 C CNN
+F 3 "" H 3000 2100 50  0001 C CNN
+	1    3000 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 5B86D584
+P 3300 2150
+F 0 "D7" V 3346 2071 50  0000 R CNN
+F 1 "D" V 3255 2071 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 3300 2150 50  0001 C CNN
+F 3 "~" H 3300 2150 50  0001 C CNN
+	1    3300 2150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2750 1900 2800 1900
+Wire Wire Line
+	3200 1900 3300 1900
+Wire Wire Line
+	3300 1900 3300 2000
+Connection ~ 2750 1900
+Wire Wire Line
+	3300 2350 3300 2300
+Connection ~ 3300 2350
+Wire Wire Line
+	2550 2350 3300 2350
+$Comp
+L Switch:SW_Push SW13
+U 1 1 5B86D667
+P 3750 1900
+F 0 "SW13" H 3750 2185 50  0000 C CNN
+F 1 "SW_Push" H 3750 2094 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 3750 2100 50  0001 C CNN
+F 3 "" H 3750 2100 50  0001 C CNN
+	1    3750 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D13
+U 1 1 5B86D66E
+P 4050 2150
+F 0 "D13" V 4096 2071 50  0000 R CNN
+F 1 "D" V 4005 2071 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 4050 2150 50  0001 C CNN
+F 3 "~" H 4050 2150 50  0001 C CNN
+	1    4050 2150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3500 1900 3550 1900
+Wire Wire Line
+	3950 1900 4050 1900
+Wire Wire Line
+	4050 1900 4050 2000
+Connection ~ 3500 1900
+Wire Wire Line
+	4050 2350 4050 2300
+Connection ~ 4050 2350
+Wire Wire Line
+	3300 2350 4050 2350
+$Comp
+L Switch:SW_Push SW19
+U 1 1 5B86D824
+P 4500 1900
+F 0 "SW19" H 4500 2185 50  0000 C CNN
+F 1 "SW_Push" H 4500 2094 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 4500 2100 50  0001 C CNN
+F 3 "" H 4500 2100 50  0001 C CNN
+	1    4500 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D19
+U 1 1 5B86D82B
+P 4800 2150
+F 0 "D19" V 4846 2071 50  0000 R CNN
+F 1 "D" V 4755 2071 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 4800 2150 50  0001 C CNN
+F 3 "~" H 4800 2150 50  0001 C CNN
+	1    4800 2150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4250 1900 4300 1900
+Wire Wire Line
+	4700 1900 4800 1900
+Wire Wire Line
+	4800 1900 4800 2000
+Connection ~ 4250 1900
+Wire Wire Line
+	4800 2350 4800 2300
+Connection ~ 4800 2350
+Wire Wire Line
+	4050 2350 4800 2350
+$Comp
+L Switch:SW_Push SW25
+U 1 1 5B86DAEA
+P 5250 1900
+F 0 "SW25" H 5250 2185 50  0000 C CNN
+F 1 "SW_Push" H 5250 2094 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 5250 2100 50  0001 C CNN
+F 3 "" H 5250 2100 50  0001 C CNN
+	1    5250 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D25
+U 1 1 5B86DAF1
+P 5550 2150
+F 0 "D25" V 5596 2071 50  0000 R CNN
+F 1 "D" V 5505 2071 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 5550 2150 50  0001 C CNN
+F 3 "~" H 5550 2150 50  0001 C CNN
+	1    5550 2150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 1900 5050 1900
+Wire Wire Line
+	5450 1900 5550 1900
+Wire Wire Line
+	5550 1900 5550 2000
+Connection ~ 5000 1900
+Wire Wire Line
+	5550 2350 5550 2300
+Connection ~ 5550 2350
+Wire Wire Line
+	4800 2350 5550 2350
+$Comp
+L Switch:SW_Push SW31
+U 1 1 5B86DF14
+P 6000 1900
+F 0 "SW31" H 6000 2185 50  0000 C CNN
+F 1 "SW_Push" H 6000 2094 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 6000 2100 50  0001 C CNN
+F 3 "" H 6000 2100 50  0001 C CNN
+	1    6000 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D31
+U 1 1 5B86DF1B
+P 6300 2150
+F 0 "D31" V 6346 2071 50  0000 R CNN
+F 1 "D" V 6255 2071 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 6300 2150 50  0001 C CNN
+F 3 "~" H 6300 2150 50  0001 C CNN
+	1    6300 2150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5750 1900 5800 1900
+Wire Wire Line
+	6200 1900 6300 1900
+Wire Wire Line
+	6300 1900 6300 2000
+Connection ~ 5750 1900
+Wire Wire Line
+	6300 2350 6300 2300
+Wire Wire Line
+	5550 2350 6300 2350
+$Comp
+L Switch:SW_Push SW2
+U 1 1 5B86E6A2
+P 2250 2800
+F 0 "SW2" H 2250 3085 50  0000 C CNN
+F 1 "SW_Push" H 2250 2994 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 2250 3000 50  0001 C CNN
+F 3 "" H 2250 3000 50  0001 C CNN
+	1    2250 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D2
+U 1 1 5B86E6A9
+P 2550 3050
+F 0 "D2" V 2596 2971 50  0000 R CNN
+F 1 "D" V 2505 2971 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 2550 3050 50  0001 C CNN
+F 3 "~" H 2550 3050 50  0001 C CNN
+	1    2550 3050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2000 2800 2050 2800
+Wire Wire Line
+	2450 2800 2550 2800
+Wire Wire Line
+	2550 2800 2550 2900
+Connection ~ 2000 2800
+Wire Wire Line
+	2550 3250 2550 3200
+Connection ~ 2550 3250
+$Comp
+L Switch:SW_Push SW8
+U 1 1 5B86E6B9
+P 3000 2800
+F 0 "SW8" H 3000 3085 50  0000 C CNN
+F 1 "SW_Push" H 3000 2994 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 3000 3000 50  0001 C CNN
+F 3 "" H 3000 3000 50  0001 C CNN
+	1    3000 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D8
+U 1 1 5B86E6C0
+P 3300 3050
+F 0 "D8" V 3346 2971 50  0000 R CNN
+F 1 "D" V 3255 2971 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 3300 3050 50  0001 C CNN
+F 3 "~" H 3300 3050 50  0001 C CNN
+	1    3300 3050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2750 2800 2800 2800
+Wire Wire Line
+	3200 2800 3300 2800
+Wire Wire Line
+	3300 2800 3300 2900
+Connection ~ 2750 2800
+Wire Wire Line
+	3300 3250 3300 3200
+Connection ~ 3300 3250
+Wire Wire Line
+	2550 3250 3300 3250
+$Comp
+L Switch:SW_Push SW14
+U 1 1 5B86E6D0
+P 3750 2800
+F 0 "SW14" H 3750 3085 50  0000 C CNN
+F 1 "SW_Push" H 3750 2994 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 3750 3000 50  0001 C CNN
+F 3 "" H 3750 3000 50  0001 C CNN
+	1    3750 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D14
+U 1 1 5B86E6D7
+P 4050 3050
+F 0 "D14" V 4096 2971 50  0000 R CNN
+F 1 "D" V 4005 2971 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 4050 3050 50  0001 C CNN
+F 3 "~" H 4050 3050 50  0001 C CNN
+	1    4050 3050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3500 2800 3550 2800
+Wire Wire Line
+	3950 2800 4050 2800
+Wire Wire Line
+	4050 2800 4050 2900
+Connection ~ 3500 2800
+Wire Wire Line
+	4050 3250 4050 3200
+Connection ~ 4050 3250
+Wire Wire Line
+	3300 3250 4050 3250
+$Comp
+L Switch:SW_Push SW20
+U 1 1 5B86E6E7
+P 4500 2800
+F 0 "SW20" H 4500 3085 50  0000 C CNN
+F 1 "SW_Push" H 4500 2994 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 4500 3000 50  0001 C CNN
+F 3 "" H 4500 3000 50  0001 C CNN
+	1    4500 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D20
+U 1 1 5B86E6EE
+P 4800 3050
+F 0 "D20" V 4846 2971 50  0000 R CNN
+F 1 "D" V 4755 2971 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 4800 3050 50  0001 C CNN
+F 3 "~" H 4800 3050 50  0001 C CNN
+	1    4800 3050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4250 2800 4300 2800
+Wire Wire Line
+	4700 2800 4800 2800
+Wire Wire Line
+	4800 2800 4800 2900
+Connection ~ 4250 2800
+Wire Wire Line
+	4800 3250 4800 3200
+Connection ~ 4800 3250
+Wire Wire Line
+	4050 3250 4800 3250
+$Comp
+L Switch:SW_Push SW26
+U 1 1 5B86E6FE
+P 5250 2800
+F 0 "SW26" H 5250 3085 50  0000 C CNN
+F 1 "SW_Push" H 5250 2994 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 5250 3000 50  0001 C CNN
+F 3 "" H 5250 3000 50  0001 C CNN
+	1    5250 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D26
+U 1 1 5B86E705
+P 5550 3050
+F 0 "D26" V 5596 2971 50  0000 R CNN
+F 1 "D" V 5505 2971 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 5550 3050 50  0001 C CNN
+F 3 "~" H 5550 3050 50  0001 C CNN
+	1    5550 3050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 2800 5050 2800
+Wire Wire Line
+	5450 2800 5550 2800
+Wire Wire Line
+	5550 2800 5550 2900
+Connection ~ 5000 2800
+Wire Wire Line
+	5550 3250 5550 3200
+Connection ~ 5550 3250
+Wire Wire Line
+	4800 3250 5550 3250
+$Comp
+L Switch:SW_Push SW32
+U 1 1 5B86E715
+P 6000 2800
+F 0 "SW32" H 6000 3085 50  0000 C CNN
+F 1 "SW_Push" H 6000 2994 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 6000 3000 50  0001 C CNN
+F 3 "" H 6000 3000 50  0001 C CNN
+	1    6000 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D32
+U 1 1 5B86E71C
+P 6300 3050
+F 0 "D32" V 6346 2971 50  0000 R CNN
+F 1 "D" V 6255 2971 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 6300 3050 50  0001 C CNN
+F 3 "~" H 6300 3050 50  0001 C CNN
+	1    6300 3050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5750 2800 5800 2800
+Wire Wire Line
+	6200 2800 6300 2800
+Wire Wire Line
+	6300 2800 6300 2900
+Connection ~ 5750 2800
+Wire Wire Line
+	6300 3250 6300 3200
+Wire Wire Line
+	5550 3250 6300 3250
+Wire Wire Line
+	2000 1900 2000 2800
+Wire Wire Line
+	2750 1900 2750 2800
+Wire Wire Line
+	3500 1900 3500 2800
+Wire Wire Line
+	4250 1900 4250 2800
+Wire Wire Line
+	5000 1900 5000 2800
+Wire Wire Line
+	5750 1900 5750 2800
+$Comp
+L Switch:SW_Push SW3
+U 1 1 5B870358
+P 2250 3700
+F 0 "SW3" H 2250 3985 50  0000 C CNN
+F 1 "SW_Push" H 2250 3894 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 2250 3900 50  0001 C CNN
+F 3 "" H 2250 3900 50  0001 C CNN
+	1    2250 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D3
+U 1 1 5B87035F
+P 2550 3950
+F 0 "D3" V 2596 3871 50  0000 R CNN
+F 1 "D" V 2505 3871 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 2550 3950 50  0001 C CNN
+F 3 "~" H 2550 3950 50  0001 C CNN
+	1    2550 3950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2000 3700 2050 3700
+Wire Wire Line
+	2450 3700 2550 3700
+Wire Wire Line
+	2550 3700 2550 3800
+Connection ~ 2000 3700
+Wire Wire Line
+	2550 4150 2550 4100
+Connection ~ 2550 4150
+$Comp
+L Switch:SW_Push SW9
+U 1 1 5B87036F
+P 3000 3700
+F 0 "SW9" H 3000 3985 50  0000 C CNN
+F 1 "SW_Push" H 3000 3894 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 3000 3900 50  0001 C CNN
+F 3 "" H 3000 3900 50  0001 C CNN
+	1    3000 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D9
+U 1 1 5B870376
+P 3300 3950
+F 0 "D9" V 3346 3871 50  0000 R CNN
+F 1 "D" V 3255 3871 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 3300 3950 50  0001 C CNN
+F 3 "~" H 3300 3950 50  0001 C CNN
+	1    3300 3950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2750 3700 2800 3700
+Wire Wire Line
+	3200 3700 3300 3700
+Wire Wire Line
+	3300 3700 3300 3800
+Connection ~ 2750 3700
+Wire Wire Line
+	3300 4150 3300 4100
+Connection ~ 3300 4150
+Wire Wire Line
+	2550 4150 3300 4150
+$Comp
+L Switch:SW_Push SW15
+U 1 1 5B870386
+P 3750 3700
+F 0 "SW15" H 3750 3985 50  0000 C CNN
+F 1 "SW_Push" H 3750 3894 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 3750 3900 50  0001 C CNN
+F 3 "" H 3750 3900 50  0001 C CNN
+	1    3750 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D15
+U 1 1 5B87038D
+P 4050 3950
+F 0 "D15" V 4096 3871 50  0000 R CNN
+F 1 "D" V 4005 3871 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 4050 3950 50  0001 C CNN
+F 3 "~" H 4050 3950 50  0001 C CNN
+	1    4050 3950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3500 3700 3550 3700
+Wire Wire Line
+	3950 3700 4050 3700
+Wire Wire Line
+	4050 3700 4050 3800
+Connection ~ 3500 3700
+Wire Wire Line
+	4050 4150 4050 4100
+Connection ~ 4050 4150
+Wire Wire Line
+	3300 4150 4050 4150
+$Comp
+L Switch:SW_Push SW21
+U 1 1 5B87039D
+P 4500 3700
+F 0 "SW21" H 4500 3985 50  0000 C CNN
+F 1 "SW_Push" H 4500 3894 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 4500 3900 50  0001 C CNN
+F 3 "" H 4500 3900 50  0001 C CNN
+	1    4500 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D21
+U 1 1 5B8703A4
+P 4800 3950
+F 0 "D21" V 4846 3871 50  0000 R CNN
+F 1 "D" V 4755 3871 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 4800 3950 50  0001 C CNN
+F 3 "~" H 4800 3950 50  0001 C CNN
+	1    4800 3950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4250 3700 4300 3700
+Wire Wire Line
+	4700 3700 4800 3700
+Wire Wire Line
+	4800 3700 4800 3800
+Connection ~ 4250 3700
+Wire Wire Line
+	4800 4150 4800 4100
+Connection ~ 4800 4150
+Wire Wire Line
+	4050 4150 4800 4150
+$Comp
+L Switch:SW_Push SW27
+U 1 1 5B8703B4
+P 5250 3700
+F 0 "SW27" H 5250 3985 50  0000 C CNN
+F 1 "SW_Push" H 5250 3894 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 5250 3900 50  0001 C CNN
+F 3 "" H 5250 3900 50  0001 C CNN
+	1    5250 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D27
+U 1 1 5B8703BB
+P 5550 3950
+F 0 "D27" V 5596 3871 50  0000 R CNN
+F 1 "D" V 5505 3871 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 5550 3950 50  0001 C CNN
+F 3 "~" H 5550 3950 50  0001 C CNN
+	1    5550 3950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 3700 5050 3700
+Wire Wire Line
+	5450 3700 5550 3700
+Wire Wire Line
+	5550 3700 5550 3800
+Connection ~ 5000 3700
+Wire Wire Line
+	5550 4150 5550 4100
+Connection ~ 5550 4150
+Wire Wire Line
+	4800 4150 5550 4150
+$Comp
+L Switch:SW_Push SW33
+U 1 1 5B8703CB
+P 6000 3700
+F 0 "SW33" H 6000 3985 50  0000 C CNN
+F 1 "SW_Push" H 6000 3894 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 6000 3900 50  0001 C CNN
+F 3 "" H 6000 3900 50  0001 C CNN
+	1    6000 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D33
+U 1 1 5B8703D2
+P 6300 3950
+F 0 "D33" V 6346 3871 50  0000 R CNN
+F 1 "D" V 6255 3871 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 6300 3950 50  0001 C CNN
+F 3 "~" H 6300 3950 50  0001 C CNN
+	1    6300 3950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5750 3700 5800 3700
+Wire Wire Line
+	6200 3700 6300 3700
+Wire Wire Line
+	6300 3700 6300 3800
+Connection ~ 5750 3700
+Wire Wire Line
+	6300 4150 6300 4100
+Wire Wire Line
+	5550 4150 6300 4150
+Wire Wire Line
+	2000 2800 2000 3700
+Wire Wire Line
+	2750 2800 2750 3700
+Wire Wire Line
+	3500 2800 3500 3700
+Wire Wire Line
+	4250 2800 4250 3700
+Wire Wire Line
+	5000 2800 5000 3700
+Wire Wire Line
+	5750 2800 5750 3700
+$Comp
+L Switch:SW_Push SW4
+U 1 1 5B873FCB
+P 2250 4600
+F 0 "SW4" H 2250 4885 50  0000 C CNN
+F 1 "SW_Push" H 2250 4794 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 2250 4800 50  0001 C CNN
+F 3 "" H 2250 4800 50  0001 C CNN
+	1    2250 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D4
+U 1 1 5B873FD2
+P 2550 4850
+F 0 "D4" V 2596 4771 50  0000 R CNN
+F 1 "D" V 2505 4771 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 2550 4850 50  0001 C CNN
+F 3 "~" H 2550 4850 50  0001 C CNN
+	1    2550 4850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2000 4600 2050 4600
+Wire Wire Line
+	2450 4600 2550 4600
+Wire Wire Line
+	2550 4600 2550 4700
+Connection ~ 2000 4600
+Wire Wire Line
+	2550 5050 2550 5000
+Connection ~ 2550 5050
+$Comp
+L Switch:SW_Push SW10
+U 1 1 5B873FE2
+P 3000 4600
+F 0 "SW10" H 3000 4885 50  0000 C CNN
+F 1 "SW_Push" H 3000 4794 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 3000 4800 50  0001 C CNN
+F 3 "" H 3000 4800 50  0001 C CNN
+	1    3000 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D10
+U 1 1 5B873FE9
+P 3300 4850
+F 0 "D10" V 3346 4771 50  0000 R CNN
+F 1 "D" V 3255 4771 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 3300 4850 50  0001 C CNN
+F 3 "~" H 3300 4850 50  0001 C CNN
+	1    3300 4850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2750 4600 2800 4600
+Wire Wire Line
+	3200 4600 3300 4600
+Wire Wire Line
+	3300 4600 3300 4700
+Connection ~ 2750 4600
+Wire Wire Line
+	3300 5050 3300 5000
+Connection ~ 3300 5050
+Wire Wire Line
+	2550 5050 3300 5050
+$Comp
+L Switch:SW_Push SW16
+U 1 1 5B873FF9
+P 3750 4600
+F 0 "SW16" H 3750 4885 50  0000 C CNN
+F 1 "SW_Push" H 3750 4794 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 3750 4800 50  0001 C CNN
+F 3 "" H 3750 4800 50  0001 C CNN
+	1    3750 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D16
+U 1 1 5B874000
+P 4050 4850
+F 0 "D16" V 4096 4771 50  0000 R CNN
+F 1 "D" V 4005 4771 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 4050 4850 50  0001 C CNN
+F 3 "~" H 4050 4850 50  0001 C CNN
+	1    4050 4850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3500 4600 3550 4600
+Wire Wire Line
+	3950 4600 4050 4600
+Wire Wire Line
+	4050 4600 4050 4700
+Connection ~ 3500 4600
+Wire Wire Line
+	4050 5050 4050 5000
+Connection ~ 4050 5050
+Wire Wire Line
+	3300 5050 4050 5050
+$Comp
+L Switch:SW_Push SW22
+U 1 1 5B874010
+P 4500 4600
+F 0 "SW22" H 4500 4885 50  0000 C CNN
+F 1 "SW_Push" H 4500 4794 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 4500 4800 50  0001 C CNN
+F 3 "" H 4500 4800 50  0001 C CNN
+	1    4500 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D22
+U 1 1 5B874017
+P 4800 4850
+F 0 "D22" V 4846 4771 50  0000 R CNN
+F 1 "D" V 4755 4771 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 4800 4850 50  0001 C CNN
+F 3 "~" H 4800 4850 50  0001 C CNN
+	1    4800 4850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4250 4600 4300 4600
+Wire Wire Line
+	4700 4600 4800 4600
+Wire Wire Line
+	4800 4600 4800 4700
+Connection ~ 4250 4600
+Wire Wire Line
+	4800 5050 4800 5000
+Connection ~ 4800 5050
+Wire Wire Line
+	4050 5050 4800 5050
+$Comp
+L Switch:SW_Push SW28
+U 1 1 5B874027
+P 5250 4600
+F 0 "SW28" H 5250 4885 50  0000 C CNN
+F 1 "SW_Push" H 5250 4794 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 5250 4800 50  0001 C CNN
+F 3 "" H 5250 4800 50  0001 C CNN
+	1    5250 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D28
+U 1 1 5B87402E
+P 5550 4850
+F 0 "D28" V 5596 4771 50  0000 R CNN
+F 1 "D" V 5505 4771 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 5550 4850 50  0001 C CNN
+F 3 "~" H 5550 4850 50  0001 C CNN
+	1    5550 4850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 4600 5050 4600
+Wire Wire Line
+	5450 4600 5550 4600
+Wire Wire Line
+	5550 4600 5550 4700
+Connection ~ 5000 4600
+Wire Wire Line
+	5550 5050 5550 5000
+Connection ~ 5550 5050
+Wire Wire Line
+	4800 5050 5550 5050
+$Comp
+L Switch:SW_Push SW34
+U 1 1 5B87403E
+P 6000 4600
+F 0 "SW34" H 6000 4885 50  0000 C CNN
+F 1 "SW_Push" H 6000 4794 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 6000 4800 50  0001 C CNN
+F 3 "" H 6000 4800 50  0001 C CNN
+	1    6000 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D34
+U 1 1 5B874045
+P 6300 4850
+F 0 "D34" V 6346 4771 50  0000 R CNN
+F 1 "D" V 6255 4771 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 6300 4850 50  0001 C CNN
+F 3 "~" H 6300 4850 50  0001 C CNN
+	1    6300 4850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5750 4600 5800 4600
+Wire Wire Line
+	6200 4600 6300 4600
+Wire Wire Line
+	6300 4600 6300 4700
+Connection ~ 5750 4600
+Wire Wire Line
+	6300 5050 6300 5000
+Wire Wire Line
+	5550 5050 6300 5050
+Wire Wire Line
+	2000 3700 2000 4600
+Wire Wire Line
+	2750 3700 2750 4600
+Wire Wire Line
+	3500 3700 3500 4600
+Wire Wire Line
+	4250 3700 4250 4600
+Wire Wire Line
+	5000 3700 5000 4600
+Wire Wire Line
+	5750 3700 5750 4600
+$Comp
+L Switch:SW_Push SW5
+U 1 1 5B87A80B
+P 2250 5500
+F 0 "SW5" H 2250 5785 50  0000 C CNN
+F 1 "SW_Push" H 2250 5694 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 2250 5700 50  0001 C CNN
+F 3 "" H 2250 5700 50  0001 C CNN
+	1    2250 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D5
+U 1 1 5B87A812
+P 2550 5750
+F 0 "D5" V 2596 5671 50  0000 R CNN
+F 1 "D" V 2505 5671 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 2550 5750 50  0001 C CNN
+F 3 "~" H 2550 5750 50  0001 C CNN
+	1    2550 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2000 5500 2050 5500
+Wire Wire Line
+	2450 5500 2550 5500
+Wire Wire Line
+	2550 5500 2550 5600
+Connection ~ 2000 5500
+Wire Wire Line
+	2550 5950 2550 5900
+Connection ~ 2550 5950
+$Comp
+L Switch:SW_Push SW11
+U 1 1 5B87A822
+P 3000 5500
+F 0 "SW11" H 3000 5785 50  0000 C CNN
+F 1 "SW_Push" H 3000 5694 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 3000 5700 50  0001 C CNN
+F 3 "" H 3000 5700 50  0001 C CNN
+	1    3000 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D11
+U 1 1 5B87A829
+P 3300 5750
+F 0 "D11" V 3346 5671 50  0000 R CNN
+F 1 "D" V 3255 5671 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 3300 5750 50  0001 C CNN
+F 3 "~" H 3300 5750 50  0001 C CNN
+	1    3300 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2750 5500 2800 5500
+Wire Wire Line
+	3200 5500 3300 5500
+Wire Wire Line
+	3300 5500 3300 5600
+Connection ~ 2750 5500
+Wire Wire Line
+	3300 5950 3300 5900
+Connection ~ 3300 5950
+Wire Wire Line
+	2550 5950 3300 5950
+$Comp
+L Switch:SW_Push SW17
+U 1 1 5B87A839
+P 3750 5500
+F 0 "SW17" H 3750 5785 50  0000 C CNN
+F 1 "SW_Push" H 3750 5694 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 3750 5700 50  0001 C CNN
+F 3 "" H 3750 5700 50  0001 C CNN
+	1    3750 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D17
+U 1 1 5B87A840
+P 4050 5750
+F 0 "D17" V 4096 5671 50  0000 R CNN
+F 1 "D" V 4005 5671 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 4050 5750 50  0001 C CNN
+F 3 "~" H 4050 5750 50  0001 C CNN
+	1    4050 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3500 5500 3550 5500
+Wire Wire Line
+	3950 5500 4050 5500
+Wire Wire Line
+	4050 5500 4050 5600
+Connection ~ 3500 5500
+Wire Wire Line
+	4050 5950 4050 5900
+Connection ~ 4050 5950
+Wire Wire Line
+	3300 5950 4050 5950
+$Comp
+L Switch:SW_Push SW23
+U 1 1 5B87A850
+P 4500 5500
+F 0 "SW23" H 4500 5785 50  0000 C CNN
+F 1 "SW_Push" H 4500 5694 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 4500 5700 50  0001 C CNN
+F 3 "" H 4500 5700 50  0001 C CNN
+	1    4500 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D23
+U 1 1 5B87A857
+P 4800 5750
+F 0 "D23" V 4846 5671 50  0000 R CNN
+F 1 "D" V 4755 5671 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 4800 5750 50  0001 C CNN
+F 3 "~" H 4800 5750 50  0001 C CNN
+	1    4800 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4250 5500 4300 5500
+Wire Wire Line
+	4700 5500 4800 5500
+Wire Wire Line
+	4800 5500 4800 5600
+Connection ~ 4250 5500
+Wire Wire Line
+	4800 5950 4800 5900
+Connection ~ 4800 5950
+Wire Wire Line
+	4050 5950 4800 5950
+$Comp
+L Switch:SW_Push SW29
+U 1 1 5B87A867
+P 5250 5500
+F 0 "SW29" H 5250 5785 50  0000 C CNN
+F 1 "SW_Push" H 5250 5694 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 5250 5700 50  0001 C CNN
+F 3 "" H 5250 5700 50  0001 C CNN
+	1    5250 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D29
+U 1 1 5B87A86E
+P 5550 5750
+F 0 "D29" V 5596 5671 50  0000 R CNN
+F 1 "D" V 5505 5671 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 5550 5750 50  0001 C CNN
+F 3 "~" H 5550 5750 50  0001 C CNN
+	1    5550 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 5500 5050 5500
+Wire Wire Line
+	5450 5500 5550 5500
+Wire Wire Line
+	5550 5500 5550 5600
+Connection ~ 5000 5500
+Wire Wire Line
+	5550 5950 5550 5900
+Connection ~ 5550 5950
+Wire Wire Line
+	4800 5950 5550 5950
+$Comp
+L Switch:SW_Push SW35
+U 1 1 5B87A87E
+P 6000 5500
+F 0 "SW35" H 6000 5785 50  0000 C CNN
+F 1 "SW_Push" H 6000 5694 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 6000 5700 50  0001 C CNN
+F 3 "" H 6000 5700 50  0001 C CNN
+	1    6000 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D35
+U 1 1 5B87A885
+P 6300 5750
+F 0 "D35" V 6346 5671 50  0000 R CNN
+F 1 "D" V 6255 5671 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 6300 5750 50  0001 C CNN
+F 3 "~" H 6300 5750 50  0001 C CNN
+	1    6300 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5750 5500 5800 5500
+Wire Wire Line
+	6200 5500 6300 5500
+Wire Wire Line
+	6300 5500 6300 5600
+Connection ~ 5750 5500
+Wire Wire Line
+	6300 5950 6300 5900
+Wire Wire Line
+	5550 5950 6300 5950
+Wire Wire Line
+	2000 4600 2000 5500
+Wire Wire Line
+	2750 4600 2750 5500
+Wire Wire Line
+	3500 4600 3500 5500
+Wire Wire Line
+	4250 4600 4250 5500
+Wire Wire Line
+	5000 4600 5000 5500
+Wire Wire Line
+	5750 4600 5750 5500
+$Comp
+L Switch:SW_Push SW6
+U 1 1 5B884747
+P 2250 6400
+F 0 "SW6" H 2250 6685 50  0000 C CNN
+F 1 "SW_Push" H 2250 6594 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 2250 6600 50  0001 C CNN
+F 3 "" H 2250 6600 50  0001 C CNN
+	1    2250 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D6
+U 1 1 5B88474E
+P 2550 6650
+F 0 "D6" V 2596 6571 50  0000 R CNN
+F 1 "D" V 2505 6571 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 2550 6650 50  0001 C CNN
+F 3 "~" H 2550 6650 50  0001 C CNN
+	1    2550 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2000 6400 2050 6400
+Wire Wire Line
+	2450 6400 2550 6400
+Wire Wire Line
+	2550 6400 2550 6500
+Wire Wire Line
+	2550 6850 2550 6800
+Connection ~ 2550 6850
+$Comp
+L Switch:SW_Push SW12
+U 1 1 5B88475E
+P 3000 6400
+F 0 "SW12" H 3000 6685 50  0000 C CNN
+F 1 "SW_Push" H 3000 6594 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 3000 6600 50  0001 C CNN
+F 3 "" H 3000 6600 50  0001 C CNN
+	1    3000 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D12
+U 1 1 5B884765
+P 3300 6650
+F 0 "D12" V 3346 6571 50  0000 R CNN
+F 1 "D" V 3255 6571 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 3300 6650 50  0001 C CNN
+F 3 "~" H 3300 6650 50  0001 C CNN
+	1    3300 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2750 6400 2800 6400
+Wire Wire Line
+	3200 6400 3300 6400
+Wire Wire Line
+	3300 6400 3300 6500
+Wire Wire Line
+	3300 6850 3300 6800
+Connection ~ 3300 6850
+Wire Wire Line
+	2550 6850 3300 6850
+$Comp
+L Switch:SW_Push SW18
+U 1 1 5B884775
+P 3750 6400
+F 0 "SW18" H 3750 6685 50  0000 C CNN
+F 1 "SW_Push" H 3750 6594 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 3750 6600 50  0001 C CNN
+F 3 "" H 3750 6600 50  0001 C CNN
+	1    3750 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D18
+U 1 1 5B88477C
+P 4050 6650
+F 0 "D18" V 4096 6571 50  0000 R CNN
+F 1 "D" V 4005 6571 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 4050 6650 50  0001 C CNN
+F 3 "~" H 4050 6650 50  0001 C CNN
+	1    4050 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3500 6400 3550 6400
+Wire Wire Line
+	3950 6400 4050 6400
+Wire Wire Line
+	4050 6400 4050 6500
+Wire Wire Line
+	4050 6850 4050 6800
+Connection ~ 4050 6850
+Wire Wire Line
+	3300 6850 4050 6850
+$Comp
+L Switch:SW_Push SW24
+U 1 1 5B88478C
+P 4500 6400
+F 0 "SW24" H 4500 6685 50  0000 C CNN
+F 1 "SW_Push" H 4500 6594 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 4500 6600 50  0001 C CNN
+F 3 "" H 4500 6600 50  0001 C CNN
+	1    4500 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D24
+U 1 1 5B884793
+P 4800 6650
+F 0 "D24" V 4846 6571 50  0000 R CNN
+F 1 "D" V 4755 6571 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 4800 6650 50  0001 C CNN
+F 3 "~" H 4800 6650 50  0001 C CNN
+	1    4800 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4250 6400 4300 6400
+Wire Wire Line
+	4700 6400 4800 6400
+Wire Wire Line
+	4800 6400 4800 6500
+Wire Wire Line
+	4800 6850 4800 6800
+Connection ~ 4800 6850
+Wire Wire Line
+	4050 6850 4800 6850
+$Comp
+L Switch:SW_Push SW30
+U 1 1 5B8847A3
+P 5250 6400
+F 0 "SW30" H 5250 6685 50  0000 C CNN
+F 1 "SW_Push" H 5250 6594 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 5250 6600 50  0001 C CNN
+F 3 "" H 5250 6600 50  0001 C CNN
+	1    5250 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D30
+U 1 1 5B8847AA
+P 5550 6650
+F 0 "D30" V 5596 6571 50  0000 R CNN
+F 1 "D" V 5505 6571 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 5550 6650 50  0001 C CNN
+F 3 "~" H 5550 6650 50  0001 C CNN
+	1    5550 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 6400 5050 6400
+Wire Wire Line
+	5450 6400 5550 6400
+Wire Wire Line
+	5550 6400 5550 6500
+Wire Wire Line
+	5550 6850 5550 6800
+Connection ~ 5550 6850
+Wire Wire Line
+	4800 6850 5550 6850
+$Comp
+L Switch:SW_Push SW36
+U 1 1 5B8847BA
+P 6000 6400
+F 0 "SW36" H 6000 6685 50  0000 C CNN
+F 1 "SW_Push" H 6000 6594 50  0000 C CNN
+F 2 "pillcase36:key_switch_mx" H 6000 6600 50  0001 C CNN
+F 3 "" H 6000 6600 50  0001 C CNN
+	1    6000 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D36
+U 1 1 5B8847C1
+P 6300 6650
+F 0 "D36" V 6346 6571 50  0000 R CNN
+F 1 "D" V 6255 6571 50  0000 R CNN
+F 2 "pillcase36:Diode_SMD_THT_N" H 6300 6650 50  0001 C CNN
+F 3 "~" H 6300 6650 50  0001 C CNN
+	1    6300 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5750 6400 5800 6400
+Wire Wire Line
+	6200 6400 6300 6400
+Wire Wire Line
+	6300 6400 6300 6500
+Wire Wire Line
+	6300 6850 6300 6800
+Wire Wire Line
+	5550 6850 6300 6850
+Wire Wire Line
+	2000 5500 2000 6400
+Wire Wire Line
+	2750 5500 2750 6400
+Wire Wire Line
+	3500 5500 3500 6400
+Wire Wire Line
+	4250 5500 4250 6400
+Wire Wire Line
+	5000 5500 5000 6400
+Wire Wire Line
+	5750 5500 5750 6400
+$Comp
+L Memory_EEPROM:24LC00 U2
+U 1 1 5B9A9C53
+P 10000 4250
+F 0 "U2" H 10000 4728 50  0000 C CNN
+F 1 "24LC00" H 10000 4637 50  0000 C CNN
+F 2 "SMD_Packages:SOIC-8-N" H 10000 4250 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21178G.pdf" H 10000 4250 50  0001 C CNN
+	1    10000 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:AudioJack4_Ground J1
+U 1 1 5B9A9DB0
+P 7950 5850
+F 0 "J1" H 7916 6192 50  0000 C CNN
+F 1 "AudioJack4_Ground" H 7916 6101 50  0000 C CNN
+F 2 "pillcase36:trrs_jack_aki_flip" H 7950 5850 50  0001 C CNN
+F 3 "~" H 7950 5850 50  0001 C CNN
+	1    7950 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW37
+U 1 1 5B9A9F09
+P 10200 5950
+F 0 "SW37" H 10200 6235 50  0000 C CNN
+F 1 "SW_Push" H 10200 6144 50  0000 C CNN
+F 2 "Buttons_Switches_THT:SW_PUSH_6mm_h5mm" H 10200 6150 50  0001 C CNN
+F 3 "" H 10200 6150 50  0001 C CNN
+	1    10200 5950
+	1    0    0    -1  
+$EndComp
+Text GLabel 7450 2700 0    50   Input ~ 0
+SCL1
+Text GLabel 7450 2800 0    50   Input ~ 0
+SDA1
+Text GLabel 1700 2350 0    50   Input ~ 0
+ROW0
+Text GLabel 1700 3250 0    50   Input ~ 0
+ROW1
+Text GLabel 1700 4150 0    50   Input ~ 0
+ROW2
+Text GLabel 1700 5050 0    50   Input ~ 0
+ROW3
+Text GLabel 1700 5950 0    50   Input ~ 0
+ROW4
+Text GLabel 1700 6850 0    50   Input ~ 0
+ROW5
+Text GLabel 2000 1350 1    50   Input ~ 0
+COL0
+Text GLabel 2750 1350 1    50   Input ~ 0
+COL1
+Text GLabel 3500 1350 1    50   Input ~ 0
+COL2
+Text GLabel 4250 1350 1    50   Input ~ 0
+COL3
+Text GLabel 5000 1350 1    50   Input ~ 0
+COL4
+Text GLabel 5750 1350 1    50   Input ~ 0
+COL5
+Text GLabel 10700 4150 2    50   Input ~ 0
+SDA1
+Text GLabel 10700 4250 2    50   Input ~ 0
+SCL1
+Wire Wire Line
+	10400 4150 10700 4150
+Wire Wire Line
+	10400 4250 10700 4250
+Text GLabel 8950 5850 2    50   Input ~ 0
+SDA1
+Text GLabel 8950 5950 2    50   Input ~ 0
+SCL1
+Wire Wire Line
+	8800 5850 8950 5850
+Wire Wire Line
+	8800 5950 8950 5950
+Text GLabel 10750 2600 2    50   Input ~ 0
+RESET
+$Comp
+L power:VCC #PWR01
+U 1 1 5BAE26BC
+P 7900 2900
+F 0 "#PWR01" H 7900 2750 50  0001 C CNN
+F 1 "VCC" H 7917 3073 50  0000 C CNN
+F 2 "" H 7900 2900 50  0001 C CNN
+F 3 "" H 7900 2900 50  0001 C CNN
+	1    7900 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR05
+U 1 1 5BAE278E
+P 8300 5650
+F 0 "#PWR05" H 8300 5500 50  0001 C CNN
+F 1 "VCC" H 8317 5823 50  0000 C CNN
+F 2 "" H 8300 5650 50  0001 C CNN
+F 3 "" H 8300 5650 50  0001 C CNN
+	1    8300 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR06
+U 1 1 5BAE2860
+P 10000 3750
+F 0 "#PWR06" H 10000 3600 50  0001 C CNN
+F 1 "VCC" H 10017 3923 50  0000 C CNN
+F 2 "" H 10000 3750 50  0001 C CNN
+F 3 "" H 10000 3750 50  0001 C CNN
+	1    10000 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR04
+U 1 1 5BAE2947
+P 8250 6200
+F 0 "#PWR04" H 8250 5950 50  0001 C CNN
+F 1 "GND" H 8255 6027 50  0000 C CNN
+F 2 "" H 8250 6200 50  0001 C CNN
+F 3 "" H 8250 6200 50  0001 C CNN
+	1    8250 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 5BAE2A19
+P 7900 3000
+F 0 "#PWR02" H 7900 2750 50  0001 C CNN
+F 1 "GND" H 7905 2827 50  0000 C CNN
+F 2 "" H 7900 3000 50  0001 C CNN
+F 3 "" H 7900 3000 50  0001 C CNN
+	1    7900 3000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8150 5750 8250 5750
+Wire Wire Line
+	8250 5750 8250 6200
+Wire Wire Line
+	8150 6050 8300 6050
+Wire Wire Line
+	10000 3750 10000 3850
+Wire Wire Line
+	7900 2900 8550 2900
+Wire Wire Line
+	7900 3000 8400 3000
+Wire Wire Line
+	8400 3000 8400 3200
+Wire Wire Line
+	8400 3200 9800 3200
+Wire Wire Line
+	9800 3200 9800 3000
+Wire Wire Line
+	9800 3000 9650 3000
+Connection ~ 8400 3000
+Wire Wire Line
+	8400 3000 8550 3000
+$Comp
+L power:GND #PWR08
+U 1 1 5BB4A634
+P 10550 6100
+F 0 "#PWR08" H 10550 5850 50  0001 C CNN
+F 1 "GND" H 10555 5927 50  0000 C CNN
+F 2 "" H 10550 6100 50  0001 C CNN
+F 3 "" H 10550 6100 50  0001 C CNN
+	1    10550 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR07
+U 1 1 5BB59D8C
+P 10000 4750
+F 0 "#PWR07" H 10000 4500 50  0001 C CNN
+F 1 "GND" H 10005 4577 50  0000 C CNN
+F 2 "" H 10000 4750 50  0001 C CNN
+F 3 "" H 10000 4750 50  0001 C CNN
+	1    10000 4750
+	1    0    0    -1  
+$EndComp
+Text GLabel 9750 5950 0    50   Input ~ 0
+RESET
+Wire Wire Line
+	9750 5950 10000 5950
+Wire Wire Line
+	10550 5950 10550 6100
+Wire Wire Line
+	10400 5950 10550 5950
+Wire Wire Line
+	10000 4550 10000 4600
+Wire Wire Line
+	10000 4600 10550 4600
+Wire Wire Line
+	10550 4600 10550 4350
+Wire Wire Line
+	10550 4350 10400 4350
+Connection ~ 10000 4600
+Wire Wire Line
+	10000 4600 10000 4750
+Wire Wire Line
+	9600 4150 9450 4150
+Wire Wire Line
+	9450 4150 9450 4250
+Wire Wire Line
+	9450 4600 10000 4600
+Wire Wire Line
+	9450 4250 9600 4250
+Connection ~ 9450 4250
+Wire Wire Line
+	9450 4250 9450 4350
+Wire Wire Line
+	9450 4350 9600 4350
+Connection ~ 9450 4350
+Wire Wire Line
+	9450 4350 9450 4600
+Text GLabel 10750 1500 2    50   Input ~ 0
+ROW0
+Text GLabel 10750 1400 2    50   Input ~ 0
+ROW1
+Text GLabel 7450 1400 0    50   Input ~ 0
+ROW2
+Text GLabel 7450 1500 0    50   Input ~ 0
+ROW3
+Text GLabel 7450 1600 0    50   Input ~ 0
+ROW4
+Text GLabel 7450 1700 0    50   Input ~ 0
+ROW5
+Text GLabel 10750 2500 2    50   Input ~ 0
+COL0
+Text GLabel 10750 2400 2    50   Input ~ 0
+COL1
+Text GLabel 10750 2300 2    50   Input ~ 0
+COL2
+Text GLabel 10750 2200 2    50   Input ~ 0
+COL3
+Text GLabel 10750 2100 2    50   Input ~ 0
+COL4
+Text GLabel 10750 2000 2    50   Input ~ 0
+COL5
+$Comp
+L Device:R R1
+U 1 1 5BE4B1E5
+P 8000 4250
+F 0 "R1" H 8070 4296 50  0000 L CNN
+F 1 "10K" H 8070 4205 50  0000 L CNN
+F 2 "pillcase36:Resister_SMD_THT_N" V 7930 4250 50  0001 C CNN
+F 3 "~" H 8000 4250 50  0001 C CNN
+	1    8000 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5BE4B2F3
+P 8300 4250
+F 0 "R2" H 8370 4296 50  0000 L CNN
+F 1 "10K" H 8370 4205 50  0000 L CNN
+F 2 "pillcase36:Resister_SMD_THT_N" V 8230 4250 50  0001 C CNN
+F 3 "~" H 8300 4250 50  0001 C CNN
+	1    8300 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR03
+U 1 1 5BE5DFD0
+P 8150 3950
+F 0 "#PWR03" H 8150 3800 50  0001 C CNN
+F 1 "VCC" H 8167 4123 50  0000 C CNN
+F 2 "" H 8150 3950 50  0001 C CNN
+F 3 "" H 8150 3950 50  0001 C CNN
+	1    8150 3950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8150 3950 8150 4050
+Wire Wire Line
+	8000 4100 8000 4050
+Wire Wire Line
+	8000 4050 8150 4050
+Wire Wire Line
+	8150 4050 8300 4050
+Wire Wire Line
+	8300 4050 8300 4100
+Connection ~ 8150 4050
+Text GLabel 7900 4500 0    50   Input ~ 0
+SCL1
+Text GLabel 7900 4600 0    50   Input ~ 0
+SDA1
+Wire Wire Line
+	7900 4500 8000 4500
+Wire Wire Line
+	8000 4500 8000 4400
+Wire Wire Line
+	7900 4600 8300 4600
+Wire Wire Line
+	8300 4600 8300 4400
+$Comp
+L Connector:TestPoint TP10
+U 1 1 5C000753
+P 8400 1800
+F 0 "TP10" H 8458 1920 50  0000 L CNN
+F 1 "A8" H 8458 1829 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8600 1800 50  0001 C CNN
+F 3 "~" H 8600 1800 50  0001 C CNN
+	1    8400 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP3
+U 1 1 5C027434
+P 7950 1900
+F 0 "TP3" H 8008 2020 50  0000 L CNN
+F 1 "A9" H 8008 1929 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8150 1900 50  0001 C CNN
+F 3 "~" H 8150 1900 50  0001 C CNN
+	1    7950 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP11
+U 1 1 5C03A8FB
+P 8400 2000
+F 0 "TP11" H 8458 2120 50  0000 L CNN
+F 1 "A10" H 8458 2029 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8600 2000 50  0001 C CNN
+F 3 "~" H 8600 2000 50  0001 C CNN
+	1    8400 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP4
+U 1 1 5C04DDC9
+P 7950 2100
+F 0 "TP4" H 8008 2220 50  0000 L CNN
+F 1 "A11" H 8008 2129 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8150 2100 50  0001 C CNN
+F 3 "~" H 8150 2100 50  0001 C CNN
+	1    7950 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP12
+U 1 1 5C061294
+P 8400 2200
+F 0 "TP12" H 8458 2320 50  0000 L CNN
+F 1 "A12" H 8458 2229 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8600 2200 50  0001 C CNN
+F 3 "~" H 8600 2200 50  0001 C CNN
+	1    8400 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP5
+U 1 1 5C07482E
+P 7950 2300
+F 0 "TP5" H 8008 2420 50  0000 L CNN
+F 1 "A15" H 8008 2329 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8150 2300 50  0001 C CNN
+F 3 "~" H 8150 2300 50  0001 C CNN
+	1    7950 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP13
+U 1 1 5C074835
+P 8400 2400
+F 0 "TP13" H 8458 2520 50  0000 L CNN
+F 1 "B3" H 8458 2429 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8600 2400 50  0001 C CNN
+F 3 "~" H 8600 2400 50  0001 C CNN
+	1    8400 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP6
+U 1 1 5C07483C
+P 7950 2500
+F 0 "TP6" H 8008 2620 50  0000 L CNN
+F 1 "B4" H 8008 2529 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8150 2500 50  0001 C CNN
+F 3 "~" H 8150 2500 50  0001 C CNN
+	1    7950 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP14
+U 1 1 5C074843
+P 8400 2600
+F 0 "TP14" H 8458 2720 50  0000 L CNN
+F 1 "B5" H 8458 2629 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8600 2600 50  0001 C CNN
+F 3 "~" H 8600 2600 50  0001 C CNN
+	1    8400 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP17
+U 1 1 5C09B597
+P 9800 1600
+F 0 "TP17" H 9742 1720 50  0000 R CNN
+F 1 "B1" H 9742 1629 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10000 1600 50  0001 C CNN
+F 3 "~" H 10000 1600 50  0001 C CNN
+	1    9800 1600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP25
+U 1 1 5C09B59E
+P 10250 1700
+F 0 "TP25" H 10192 1820 50  0000 R CNN
+F 1 "B0" H 10192 1729 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10450 1700 50  0001 C CNN
+F 3 "~" H 10450 1700 50  0001 C CNN
+	1    10250 1700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP18
+U 1 1 5C09B5A5
+P 9800 1800
+F 0 "TP18" H 9742 1920 50  0000 R CNN
+F 1 "A7" H 9742 1829 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10000 1800 50  0001 C CNN
+F 3 "~" H 10000 1800 50  0001 C CNN
+	1    9800 1800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP26
+U 1 1 5C09B5AC
+P 10250 1900
+F 0 "TP26" H 10192 2020 50  0000 R CNN
+F 1 "A6" H 10192 1929 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10450 1900 50  0001 C CNN
+F 3 "~" H 10450 1900 50  0001 C CNN
+	1    10250 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP22
+U 1 1 5C0D55A3
+P 9800 2700
+F 0 "TP22" H 9742 2820 50  0000 R CNN
+F 1 "C13" H 9742 2729 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10000 2700 50  0001 C CNN
+F 3 "~" H 10000 2700 50  0001 C CNN
+	1    9800 2700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP30
+U 1 1 5C0D55AA
+P 10250 2800
+F 0 "TP30" H 10192 2920 50  0000 R CNN
+F 1 "B9" H 10192 2829 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10450 2800 50  0001 C CNN
+F 3 "~" H 10450 2800 50  0001 C CNN
+	1    10250 2800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP23
+U 1 1 5C0D55B1
+P 9800 2900
+F 0 "TP23" H 9742 3020 50  0000 R CNN
+F 1 "B8" H 9742 2929 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10000 2900 50  0001 C CNN
+F 3 "~" H 10000 2900 50  0001 C CNN
+	1    9800 2900
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	8400 1800 8550 1800
+Wire Wire Line
+	7950 1900 8550 1900
+Wire Wire Line
+	8400 2000 8550 2000
+Wire Wire Line
+	7950 2100 8550 2100
+Wire Wire Line
+	8400 2200 8550 2200
+Wire Wire Line
+	7950 2300 8550 2300
+Wire Wire Line
+	8400 2400 8550 2400
+Wire Wire Line
+	7950 2500 8550 2500
+Wire Wire Line
+	8400 2600 8550 2600
+Wire Wire Line
+	9650 2700 9800 2700
+Wire Wire Line
+	9650 2800 10250 2800
+Wire Wire Line
+	9650 2900 9800 2900
+Wire Wire Line
+	9650 1600 9800 1600
+Wire Wire Line
+	9650 1700 10250 1700
+Wire Wire Line
+	9650 1800 9800 1800
+Wire Wire Line
+	9650 1900 10250 1900
+$Comp
+L Connector:TestPoint TP8
+U 1 1 5C360637
+P 8400 1400
+F 0 "TP8" H 8458 1520 50  0000 L CNN
+F 1 "B12" H 8458 1429 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8600 1400 50  0001 C CNN
+F 3 "~" H 8600 1400 50  0001 C CNN
+	1    8400 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP1
+U 1 1 5C36063E
+P 7950 1500
+F 0 "TP1" H 8008 1620 50  0000 L CNN
+F 1 "B13" H 8008 1529 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8150 1500 50  0001 C CNN
+F 3 "~" H 8150 1500 50  0001 C CNN
+	1    7950 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP9
+U 1 1 5C360645
+P 8400 1600
+F 0 "TP9" H 8458 1720 50  0000 L CNN
+F 1 "B14" H 8458 1629 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8600 1600 50  0001 C CNN
+F 3 "~" H 8600 1600 50  0001 C CNN
+	1    8400 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP2
+U 1 1 5C36064C
+P 7950 1700
+F 0 "TP2" H 8008 1820 50  0000 L CNN
+F 1 "B15" H 8008 1729 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8150 1700 50  0001 C CNN
+F 3 "~" H 8150 1700 50  0001 C CNN
+	1    7950 1700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8400 1400 8550 1400
+Wire Wire Line
+	8400 1600 8550 1600
+Wire Wire Line
+	7950 1700 8550 1700
+$Comp
+L Connector:TestPoint TP7
+U 1 1 5C3B8E80
+P 7950 2700
+F 0 "TP7" H 8008 2820 50  0000 L CNN
+F 1 "B6" H 8008 2729 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8150 2700 50  0001 C CNN
+F 3 "~" H 8150 2700 50  0001 C CNN
+	1    7950 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP15
+U 1 1 5C3B8E87
+P 8400 2800
+F 0 "TP15" H 8458 2920 50  0000 L CNN
+F 1 "B7" H 8458 2829 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8600 2800 50  0001 C CNN
+F 3 "~" H 8600 2800 50  0001 C CNN
+	1    8400 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7950 2700 8550 2700
+Wire Wire Line
+	8550 2800 8400 2800
+$Comp
+L Connector:TestPoint TP16
+U 1 1 5C3FCA52
+P 9800 1400
+F 0 "TP16" H 9742 1520 50  0000 R CNN
+F 1 "B11" H 9742 1429 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10000 1400 50  0001 C CNN
+F 3 "~" H 10000 1400 50  0001 C CNN
+	1    9800 1400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP24
+U 1 1 5C3FCA59
+P 10250 1500
+F 0 "TP24" H 10192 1620 50  0000 R CNN
+F 1 "B10" H 10192 1529 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10450 1500 50  0001 C CNN
+F 3 "~" H 10450 1500 50  0001 C CNN
+	1    10250 1500
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9650 1400 9800 1400
+$Comp
+L Connector:TestPoint TP20
+U 1 1 5C413617
+P 9800 2200
+F 0 "TP20" H 9742 2320 50  0000 R CNN
+F 1 "A3" H 9742 2229 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10000 2200 50  0001 C CNN
+F 3 "~" H 10000 2200 50  0001 C CNN
+	1    9800 2200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP28
+U 1 1 5C41361E
+P 10250 2300
+F 0 "TP28" H 10192 2420 50  0000 R CNN
+F 1 "A2" H 10192 2329 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10450 2300 50  0001 C CNN
+F 3 "~" H 10450 2300 50  0001 C CNN
+	1    10250 2300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP21
+U 1 1 5C413625
+P 9800 2400
+F 0 "TP21" H 9742 2520 50  0000 R CNN
+F 1 "A1" H 9742 2429 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10000 2400 50  0001 C CNN
+F 3 "~" H 10000 2400 50  0001 C CNN
+	1    9800 2400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP29
+U 1 1 5C41362C
+P 10250 2500
+F 0 "TP29" H 10192 2620 50  0000 R CNN
+F 1 "A0" H 10192 2529 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10450 2500 50  0001 C CNN
+F 3 "~" H 10450 2500 50  0001 C CNN
+	1    10250 2500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP19
+U 1 1 5C413637
+P 9800 2000
+F 0 "TP19" H 9742 2120 50  0000 R CNN
+F 1 "A5" H 9742 2029 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10000 2000 50  0001 C CNN
+F 3 "~" H 10000 2000 50  0001 C CNN
+	1    9800 2000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP27
+U 1 1 5C41363E
+P 10250 2100
+F 0 "TP27" H 10192 2220 50  0000 R CNN
+F 1 "A4" H 10192 2129 50  0000 R CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 10450 2100 50  0001 C CNN
+F 3 "~" H 10450 2100 50  0001 C CNN
+	1    10250 2100
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9650 2000 9800 2000
+Wire Wire Line
+	9650 2200 9800 2200
+Wire Wire Line
+	9650 2300 10250 2300
+Wire Wire Line
+	9650 2400 9800 2400
+Wire Wire Line
+	9650 2500 10250 2500
+Wire Wire Line
+	9650 2600 10750 2600
+Wire Wire Line
+	9650 2100 10250 2100
+Wire Wire Line
+	9650 1500 10250 1500
+Connection ~ 9800 1400
+Wire Wire Line
+	9800 1400 10750 1400
+Connection ~ 9800 2000
+Wire Wire Line
+	9800 2000 10750 2000
+Connection ~ 9800 2200
+Wire Wire Line
+	9800 2200 10750 2200
+Connection ~ 9800 2400
+Wire Wire Line
+	9800 2400 10750 2400
+Connection ~ 10250 1500
+Wire Wire Line
+	10250 1500 10750 1500
+Connection ~ 10250 2100
+Wire Wire Line
+	10250 2100 10750 2100
+Connection ~ 10250 2300
+Wire Wire Line
+	10250 2300 10750 2300
+Connection ~ 10250 2500
+Wire Wire Line
+	10250 2500 10750 2500
+Connection ~ 8400 1400
+Wire Wire Line
+	7450 1400 8400 1400
+Connection ~ 8400 1600
+Wire Wire Line
+	7450 1600 8400 1600
+Connection ~ 8400 2800
+Wire Wire Line
+	7450 2800 8400 2800
+Connection ~ 7950 2700
+Wire Wire Line
+	7450 2700 7950 2700
+Connection ~ 7950 1700
+Wire Wire Line
+	7450 1700 7950 1700
+Wire Wire Line
+	7450 1500 7950 1500
+Connection ~ 7950 1500
+Wire Wire Line
+	7950 1500 8550 1500
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5B86E797
+P 10400 3750
+F 0 "#FLG0101" H 10400 3825 50  0001 C CNN
+F 1 "PWR_FLAG" H 10400 3924 50  0000 C CNN
+F 2 "" H 10400 3750 50  0001 C CNN
+F 3 "~" H 10400 3750 50  0001 C CNN
+	1    10400 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 5B86EBA3
+P 10750 4550
+F 0 "#FLG0102" H 10750 4625 50  0001 C CNN
+F 1 "PWR_FLAG" H 10750 4724 50  0000 C CNN
+F 2 "" H 10750 4550 50  0001 C CNN
+F 3 "~" H 10750 4550 50  0001 C CNN
+	1    10750 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10400 3750 10400 3850
+Wire Wire Line
+	10400 3850 10000 3850
+Connection ~ 10000 3850
+Wire Wire Line
+	10000 3850 10000 3950
+Wire Wire Line
+	10750 4550 10750 4600
+Wire Wire Line
+	10750 4600 10550 4600
+Connection ~ 10550 4600
+$Comp
+L Jumper:SolderJumper_2_Bridged JP13
+U 1 1 5B8B94C7
+P 8650 5850
+F 0 "JP13" H 8650 6055 50  0000 C CNN
+F 1 "SolderJumper_2_Bridged" H 8650 5964 50  0000 C CNN
+F 2 "pillcase36:JP" H 8650 5850 50  0001 C CNN
+F 3 "~" H 8650 5850 50  0001 C CNN
+	1    8650 5850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Jumper:SolderJumper_2_Bridged JP14
+U 1 1 5B901A6A
+P 8650 5950
+F 0 "JP14" H 8650 6155 50  0000 C CNN
+F 1 "SolderJumper_2_Bridged" H 8650 6064 50  0000 C CNN
+F 2 "pillcase36:JP" H 8650 5950 50  0001 C CNN
+F 3 "~" H 8650 5950 50  0001 C CNN
+	1    8650 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8150 5950 8400 5950
+Wire Wire Line
+	8300 6050 8300 5650
+Wire Wire Line
+	8150 5850 8500 5850
+$Comp
+L Connector:TestPoint TP31
+U 1 1 5BA276CB
+P 8400 5700
+F 0 "TP31" H 8458 5820 50  0000 L CNN
+F 1 "R1" H 8458 5729 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8600 5700 50  0001 C CNN
+F 3 "~" H 8600 5700 50  0001 C CNN
+	1    8400 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP32
+U 1 1 5BA3FDF7
+P 8500 5700
+F 0 "TP32" H 8558 5820 50  0000 L CNN
+F 1 "R2" H 8558 5729 50  0000 L CNN
+F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 8700 5700 50  0001 C CNN
+F 3 "~" H 8700 5700 50  0001 C CNN
+	1    8500 5700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8400 5700 8400 5950
+Connection ~ 8400 5950
+Wire Wire Line
+	8400 5950 8500 5950
+Wire Wire Line
+	8500 5700 8500 5850
+Connection ~ 8500 5850
+Wire Wire Line
+	1700 2350 2550 2350
+Wire Wire Line
+	1700 3250 2550 3250
+Wire Wire Line
+	1700 4150 2550 4150
+Wire Wire Line
+	1700 5050 2550 5050
+Wire Wire Line
+	1700 5950 2550 5950
+Wire Wire Line
+	1700 6850 2550 6850
+Wire Wire Line
+	2000 1350 2000 1900
+Wire Wire Line
+	2750 1350 2750 1900
+Wire Wire Line
+	3500 1350 3500 1900
+Wire Wire Line
+	4250 1350 4250 1900
+Wire Wire Line
+	5000 1350 5000 1900
+Wire Wire Line
+	5750 1350 5750 1900
+$Comp
+L Device:C 0.1u1
+U 1 1 5B911160
+P 9150 4250
+F 0 "0.1u1" H 9265 4296 50  0000 L CNN
+F 1 "C" H 9265 4205 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 9188 4100 50  0001 C CNN
+F 3 "~" H 9150 4250 50  0001 C CNN
+	1    9150 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9150 4100 9150 3850
+Wire Wire Line
+	9150 3850 10000 3850
+Wire Wire Line
+	9150 4400 9150 4600
+Wire Wire Line
+	9150 4600 9450 4600
+Connection ~ 9450 4600
+$EndSCHEMATC

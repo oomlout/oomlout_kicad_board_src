@@ -1,0 +1,457 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:Zetaohm
+LIBS:Gigalux-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L TLC5971 U1
+U 1 1 559B1AEF
+P 6050 4000
+F 0 "U1" H 6300 4450 60  0000 C CNN
+F 1 "TLC5971" H 5900 4450 60  0000 C CNN
+F 2 "Zetaohm:TLC59711" H 6250 4000 60  0001 C CNN
+F 3 "" H 6250 4000 60  0000 C CNN
+	1    6050 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR01
+U 1 1 559B5889
+P 3950 1800
+F 0 "#PWR01" H 3950 1650 50  0001 C CNN
+F 1 "+5V" H 3950 1940 50  0000 C CNN
+F 2 "" H 3950 1800 60  0000 C CNN
+F 3 "" H 3950 1800 60  0000 C CNN
+	1    3950 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR02
+U 1 1 559B5911
+P 7100 3050
+F 0 "#PWR02" H 7100 2900 50  0001 C CNN
+F 1 "+5V" H 7100 3190 50  0000 C CNN
+F 2 "" H 7100 3050 60  0000 C CNN
+F 3 "" H 7100 3050 60  0000 C CNN
+	1    7100 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L AAAF5051-04 D1
+U 1 1 559B606A
+P 3450 2300
+F 0 "D1" H 3450 2650 50  0000 C CNN
+F 1 "AAAF5051-04" H 3450 1950 50  0000 C CNN
+F 2 "Zetaohm:AAAF5051-04" H 3405 2250 50  0001 C CNN
+F 3 "" H 3405 2250 50  0000 C CNN
+	1    3450 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR03
+U 1 1 559B6F8D
+P 4250 3600
+F 0 "#PWR03" H 4250 3350 50  0001 C CNN
+F 1 "GND" H 4250 3450 50  0000 C CNN
+F 2 "" H 4250 3600 60  0000 C CNN
+F 3 "" H 4250 3600 60  0000 C CNN
+	1    4250 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Resistor R1
+U 1 1 559B709F
+P 5100 3500
+F 0 "R1" V 5050 3600 50  0000 C CNN
+F 1 "Resistor" V 4990 3490 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" V 5030 3500 30  0001 C CNN
+F 3 "" H 5100 3490 30  0000 C CNN
+	1    5100 3500
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3650 2300 3950 2300
+Wire Wire Line
+	3950 2300 3950 1800
+Wire Wire Line
+	7100 3750 6600 3750
+Wire Wire Line
+	7100 3050 7100 3750
+Wire Wire Line
+	4250 3600 4250 3500
+Wire Wire Line
+	4250 3500 5000 3500
+Wire Wire Line
+	4750 3750 5500 3750
+Connection ~ 7100 3300
+Text GLabel 4800 3850 0    60   Output ~ 0
+R0
+Text GLabel 5000 3950 0    60   Output ~ 0
+G0
+Text GLabel 5200 4050 0    60   Output ~ 0
+B0
+Wire Wire Line
+	4800 3850 5500 3850
+Wire Wire Line
+	5000 3950 5500 3950
+Wire Wire Line
+	5500 4050 5200 4050
+Text GLabel 4800 4150 0    60   Output ~ 0
+R1
+Text GLabel 5000 4250 0    60   Output ~ 0
+G1
+Text GLabel 5200 4350 0    60   Output ~ 0
+B1
+Wire Wire Line
+	4800 4150 5500 4150
+Wire Wire Line
+	5000 4250 5500 4250
+Wire Wire Line
+	5500 4350 5200 4350
+Text GLabel 7300 3850 2    60   Output ~ 0
+B3
+Text GLabel 7100 3950 2    60   Output ~ 0
+G3
+Text GLabel 6900 4050 2    60   Output ~ 0
+R3
+Wire Wire Line
+	6600 4050 6900 4050
+Wire Wire Line
+	6600 3950 7100 3950
+Wire Wire Line
+	6600 3850 7300 3850
+Text GLabel 7300 4150 2    60   Output ~ 0
+B2
+Text GLabel 7100 4250 2    60   Output ~ 0
+G2
+Text GLabel 6900 4350 2    60   Output ~ 0
+R2
+Wire Wire Line
+	6600 4350 6900 4350
+Wire Wire Line
+	6600 4250 7100 4250
+Wire Wire Line
+	6600 4150 7300 4150
+Text GLabel 7150 4450 2    60   Output ~ 0
+SDTO
+Wire Wire Line
+	6600 4450 7150 4450
+Text GLabel 7500 4550 2    60   Output ~ 0
+SCKO
+Wire Wire Line
+	6600 4550 7500 4550
+Text GLabel 4950 4450 0    60   Output ~ 0
+SDTI
+Wire Wire Line
+	4950 4450 5500 4450
+Text GLabel 4650 4550 0    60   Output ~ 0
+SCKI
+Wire Wire Line
+	4650 4550 5500 4550
+Text GLabel 2850 2100 0    60   Output ~ 0
+B0
+Text GLabel 2850 2300 0    60   Output ~ 0
+R0
+Text GLabel 2850 2500 0    60   Output ~ 0
+G0
+Wire Wire Line
+	2850 2100 3250 2100
+Wire Wire Line
+	2850 2300 3250 2300
+Wire Wire Line
+	3250 2500 2850 2500
+$Comp
+L +5V #PWR04
+U 1 1 559B811D
+P 9250 1800
+F 0 "#PWR04" H 9250 1650 50  0001 C CNN
+F 1 "+5V" H 9250 1940 50  0000 C CNN
+F 2 "" H 9250 1800 60  0000 C CNN
+F 3 "" H 9250 1800 60  0000 C CNN
+	1    9250 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L AAAF5051-04 D2
+U 1 1 559B812F
+P 8750 2300
+F 0 "D2" H 8750 2650 50  0000 C CNN
+F 1 "AAAF5051-04" H 8750 1950 50  0000 C CNN
+F 2 "Zetaohm:AAAF5051-04" H 8705 2250 50  0001 C CNN
+F 3 "" H 8705 2250 50  0000 C CNN
+	1    8750 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8950 2300 9250 2300
+Wire Wire Line
+	9250 2300 9250 1800
+Text GLabel 8150 2100 0    60   Output ~ 0
+B1
+Text GLabel 8150 2300 0    60   Output ~ 0
+R1
+Text GLabel 8150 2500 0    60   Output ~ 0
+G1
+Wire Wire Line
+	8150 2100 8550 2100
+Wire Wire Line
+	8150 2300 8550 2300
+Wire Wire Line
+	8550 2500 8150 2500
+$Comp
+L +5V #PWR05
+U 1 1 559B81CB
+P 3950 5050
+F 0 "#PWR05" H 3950 4900 50  0001 C CNN
+F 1 "+5V" H 3950 5190 50  0000 C CNN
+F 2 "" H 3950 5050 60  0000 C CNN
+F 3 "" H 3950 5050 60  0000 C CNN
+	1    3950 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L AAAF5051-04 D3
+U 1 1 559B81DD
+P 3450 5550
+F 0 "D3" H 3450 5900 50  0000 C CNN
+F 1 "AAAF5051-04" H 3450 5200 50  0000 C CNN
+F 2 "Zetaohm:AAAF5051-04" H 3405 5500 50  0001 C CNN
+F 3 "" H 3405 5500 50  0000 C CNN
+	1    3450 5550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3650 5550 3950 5550
+Wire Wire Line
+	3950 5550 3950 5050
+Text GLabel 2850 5350 0    60   Output ~ 0
+B2
+Text GLabel 2850 5550 0    60   Output ~ 0
+R2
+Text GLabel 2850 5750 0    60   Output ~ 0
+G2
+Wire Wire Line
+	2850 5350 3250 5350
+Wire Wire Line
+	2850 5550 3250 5550
+Wire Wire Line
+	3250 5750 2850 5750
+$Comp
+L +5V #PWR06
+U 1 1 559B81ED
+P 9250 5050
+F 0 "#PWR06" H 9250 4900 50  0001 C CNN
+F 1 "+5V" H 9250 5190 50  0000 C CNN
+F 2 "" H 9250 5050 60  0000 C CNN
+F 3 "" H 9250 5050 60  0000 C CNN
+	1    9250 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L AAAF5051-04 D4
+U 1 1 559B81FF
+P 8750 5550
+F 0 "D4" H 8750 5900 50  0000 C CNN
+F 1 "AAAF5051-04" H 8750 5200 50  0000 C CNN
+F 2 "Zetaohm:AAAF5051-04" H 8705 5500 50  0001 C CNN
+F 3 "" H 8705 5500 50  0000 C CNN
+	1    8750 5550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8950 5550 9250 5550
+Wire Wire Line
+	9250 5550 9250 5050
+Text GLabel 8150 5350 0    60   Output ~ 0
+B3
+Text GLabel 8150 5550 0    60   Output ~ 0
+R3
+Text GLabel 8150 5750 0    60   Output ~ 0
+G3
+Wire Wire Line
+	8150 5350 8550 5350
+Wire Wire Line
+	8150 5550 8550 5550
+Wire Wire Line
+	8550 5750 8150 5750
+Connection ~ 4750 3500
+$Comp
+L C C1
+U 1 1 559C354A
+P 8000 3550
+F 0 "C1" H 8025 3650 50  0000 L CNN
+F 1 "C" H 8025 3450 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 8038 3400 30  0001 C CNN
+F 3 "" H 8000 3550 60  0000 C CNN
+	1    8000 3550
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6800 3300 8000 3300
+Wire Wire Line
+	8000 3300 8000 3400
+$Comp
+L GND #PWR07
+U 1 1 559C478E
+P 8000 3800
+F 0 "#PWR07" H 8000 3550 50  0001 C CNN
+F 1 "GND" H 8000 3650 50  0000 C CNN
+F 2 "" H 8000 3800 60  0000 C CNN
+F 3 "" H 8000 3800 60  0000 C CNN
+	1    8000 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8000 3700 8000 3800
+Wire Wire Line
+	4750 3500 4750 3750
+Wire Wire Line
+	5200 3500 5400 3500
+Wire Wire Line
+	5400 3500 5400 3650
+Wire Wire Line
+	5400 3650 5500 3650
+Wire Wire Line
+	6600 3650 6800 3650
+Wire Wire Line
+	6800 3650 6800 3300
+$Comp
+L CONN_01X04 P2
+U 1 1 559ED7D7
+P 6350 1400
+F 0 "P2" H 6350 1650 50  0000 C CNN
+F 1 "CONN_01X04" V 6450 1400 50  0000 C CNN
+F 2 "Zetaohm:KK396-4Pin" H 6350 1400 60  0001 C CNN
+F 3 "" H 6350 1400 60  0000 C CNN
+	1    6350 1400
+	-1   0    0    1   
+$EndComp
+Text GLabel 5000 1450 2    60   Output ~ 0
+SCKI
+Text GLabel 5350 1350 2    60   Output ~ 0
+SDTI
+Text GLabel 7200 1350 2    60   Output ~ 0
+SDTO
+Text GLabel 6850 1450 2    60   Output ~ 0
+SCKO
+$Comp
+L GND #PWR08
+U 1 1 559EE260
+P 6950 1750
+F 0 "#PWR08" H 6950 1500 50  0001 C CNN
+F 1 "GND" H 6950 1600 50  0000 C CNN
+F 2 "" H 6950 1750 60  0000 C CNN
+F 3 "" H 6950 1750 60  0000 C CNN
+	1    6950 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6550 1550 6950 1550
+Wire Wire Line
+	6950 1550 6950 1750
+Wire Wire Line
+	6550 1450 6850 1450
+$Comp
+L +5V #PWR09
+U 1 1 559EE378
+P 6950 1050
+F 0 "#PWR09" H 6950 900 50  0001 C CNN
+F 1 "+5V" H 6950 1190 50  0000 C CNN
+F 2 "" H 6950 1050 60  0000 C CNN
+F 3 "" H 6950 1050 60  0000 C CNN
+	1    6950 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X04 P1
+U 1 1 559EEDE5
+P 4500 1400
+F 0 "P1" H 4500 1650 50  0000 C CNN
+F 1 "CONN_01X04" V 4600 1400 50  0000 C CNN
+F 2 "Zetaohm:KK396-4Pin" H 4500 1400 60  0001 C CNN
+F 3 "" H 4500 1400 60  0000 C CNN
+	1    4500 1400
+	-1   0    0    1   
+$EndComp
+$Comp
+L GND #PWR010
+U 1 1 559EEDED
+P 5100 1750
+F 0 "#PWR010" H 5100 1500 50  0001 C CNN
+F 1 "GND" H 5100 1600 50  0000 C CNN
+F 2 "" H 5100 1750 60  0000 C CNN
+F 3 "" H 5100 1750 60  0000 C CNN
+	1    5100 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4700 1550 5100 1550
+Wire Wire Line
+	5100 1550 5100 1750
+Wire Wire Line
+	4700 1450 5000 1450
+Wire Wire Line
+	4700 1350 5350 1350
+$Comp
+L +5V #PWR011
+U 1 1 559EEDF7
+P 5100 1050
+F 0 "#PWR011" H 5100 900 50  0001 C CNN
+F 1 "+5V" H 5100 1190 50  0000 C CNN
+F 2 "" H 5100 1050 60  0000 C CNN
+F 3 "" H 5100 1050 60  0000 C CNN
+	1    5100 1050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6550 1350 7200 1350
+Wire Wire Line
+	4700 1250 5100 1250
+Wire Wire Line
+	5100 1250 5100 1050
+Wire Wire Line
+	6550 1250 6950 1250
+Wire Wire Line
+	6950 1250 6950 1050
+$EndSCHEMATC

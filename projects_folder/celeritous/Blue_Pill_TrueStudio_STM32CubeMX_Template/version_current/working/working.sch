@@ -1,0 +1,102 @@
+EESchema Schematic File Version 2
+LIBS:Kicad_Template-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L STM32F103C8T6 MOD1
+U 1 1 5A8F5055
+P 9550 950
+F 0 "MOD1" H 9650 1100 60  0000 C CNN
+F 1 "STM32F103C8T6" H 9800 -1100 60  0000 C CNN
+F 2 "Kicad:DIP40_600MIL" H 9550 950 60  0001 C CNN
+F 3 "" H 9550 950 60  0000 C CNN
+	1    9550 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9350 950  8850 950 
+Wire Wire Line
+	10250 950  10750 950 
+Wire Wire Line
+	9350 1350 8850 1350
+Wire Wire Line
+	9350 1450 8850 1450
+Wire Wire Line
+	9350 1550 8850 1550
+Wire Wire Line
+	9350 1650 8850 1650
+Wire Wire Line
+	9350 1750 8850 1750
+Wire Wire Line
+	9350 1850 8850 1850
+Wire Wire Line
+	9350 1950 8850 1950
+Wire Wire Line
+	9350 2050 8850 2050
+Wire Wire Line
+	9350 2150 8850 2150
+Wire Wire Line
+	9350 2250 8850 2250
+Wire Wire Line
+	9350 2350 8850 2350
+Wire Wire Line
+	9350 2450 8850 2450
+Wire Wire Line
+	9350 2550 8850 2550
+Wire Wire Line
+	9350 2650 8850 2650
+Wire Wire Line
+	9350 2750 8850 2750
+Wire Wire Line
+	9350 2850 8850 2850
+Wire Wire Line
+	10250 2250 10750 2250
+Wire Wire Line
+	10250 2350 10750 2350
+Wire Wire Line
+	10250 2450 10750 2450
+Wire Wire Line
+	10250 2550 10750 2550
+Wire Wire Line
+	10250 2650 10750 2650
+Wire Wire Line
+	10250 2750 10750 2750
+Wire Wire Line
+	10250 2850 10750 2850
+Wire Wire Line
+	10250 1050 10750 1050
+Wire Wire Line
+	10250 1250 10750 1250
+Wire Wire Line
+	10250 1150 10750 1150
+Wire Wire Line
+	10250 1350 10750 1350
+Wire Wire Line
+	10250 1450 10750 1450
+Wire Wire Line
+	10250 1550 10750 1550
+Wire Wire Line
+	10250 1650 10750 1650
+Wire Wire Line
+	10250 1750 10750 1750
+Wire Wire Line
+	10250 1850 10750 1850
+Wire Wire Line
+	10250 1950 10750 1950
+Text Notes 8400 1275 0    60   ~ 0
+ONBOARD LED\nONBOARD 32K XTAL\nONBOARD 32K XTAL
+Text Notes 10300 2150 0    60   ~ 0
+ONBOARD USB D-\nONBOARD USB D+
+$EndSCHEMATC

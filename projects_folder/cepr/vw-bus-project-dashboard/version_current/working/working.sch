@@ -1,0 +1,507 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5E37FE9C
+P 6200 5250
+F 0 "H1" H 6300 5296 50  0000 L CNN
+F 1 "MountingHole" H 6300 5205 50  0000 L CNN
+F 2 "MountingHole:MountingHole_5.3mm_M5" H 6200 5250 50  0001 C CNN
+F 3 "~" H 6200 5250 50  0001 C CNN
+	1    6200 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5E3806BA
+P 6200 5750
+F 0 "H3" H 6300 5796 50  0000 L CNN
+F 1 "MountingHole" H 6300 5705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_5.3mm_M5" H 6200 5750 50  0001 C CNN
+F 3 "~" H 6200 5750 50  0001 C CNN
+	1    6200 5750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5E3809BC
+P 5300 5750
+F 0 "H2" H 5400 5796 50  0000 L CNN
+F 1 "MountingHole" H 5400 5705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 5300 5750 50  0001 C CNN
+F 3 "~" H 5300 5750 50  0001 C CNN
+	1    5300 5750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5E3A235D
+P 5300 5250
+F 0 "H4" H 5400 5296 50  0000 L CNN
+F 1 "MountingHole" H 5400 5205 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 5300 5250 50  0001 C CNN
+F 3 "~" H 5300 5250 50  0001 C CNN
+	1    5300 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 5E3A2BD6
+P 5300 5500
+F 0 "H5" H 5400 5546 50  0000 L CNN
+F 1 "MountingHole" H 5400 5455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 5300 5500 50  0001 C CNN
+F 3 "~" H 5300 5500 50  0001 C CNN
+	1    5300 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D1
+U 1 1 6221B306
+P 3200 3950
+F 0 "D1" H 3544 3996 50  0000 L CNN
+F 1 "WS2812B" H 3544 3905 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 3250 3650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3300 3575 50  0001 L TNN
+	1    3200 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D2
+U 1 1 6221BF26
+P 4200 3950
+F 0 "D2" H 4544 3996 50  0000 L CNN
+F 1 "WS2812B" H 4544 3905 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4250 3650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4300 3575 50  0001 L TNN
+	1    4200 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D3
+U 1 1 6221CD8C
+P 5200 3950
+F 0 "D3" H 5544 3996 50  0000 L CNN
+F 1 "WS2812B" H 5544 3905 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 5250 3650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5300 3575 50  0001 L TNN
+	1    5200 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D4
+U 1 1 6221D83B
+P 6200 3950
+F 0 "D4" H 6544 3996 50  0000 L CNN
+F 1 "WS2812B" H 6544 3905 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 6250 3650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6300 3575 50  0001 L TNN
+	1    6200 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D5
+U 1 1 6221E396
+P 7200 3950
+F 0 "D5" H 7544 3996 50  0000 L CNN
+F 1 "WS2812B" H 7544 3905 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 7250 3650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 7300 3575 50  0001 L TNN
+	1    7200 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D6
+U 1 1 6221ED05
+P 8200 3950
+F 0 "D6" H 8544 3996 50  0000 L CNN
+F 1 "WS2812B" H 8544 3905 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 8250 3650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 8300 3575 50  0001 L TNN
+	1    8200 3950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3500 3950 3900 3950
+Wire Wire Line
+	4500 3950 4900 3950
+Wire Wire Line
+	5500 3950 5900 3950
+Wire Wire Line
+	6500 3950 6900 3950
+Wire Wire Line
+	7500 3950 7900 3950
+Wire Wire Line
+	8200 3650 8200 3550
+Wire Wire Line
+	8200 3550 7200 3550
+Wire Wire Line
+	3200 3650 3200 3550
+Connection ~ 3200 3550
+Wire Wire Line
+	4200 3650 4200 3550
+Connection ~ 4200 3550
+Wire Wire Line
+	4200 3550 3200 3550
+Wire Wire Line
+	5200 3650 5200 3550
+Connection ~ 5200 3550
+Wire Wire Line
+	5200 3550 4200 3550
+Wire Wire Line
+	6200 3650 6200 3550
+Connection ~ 6200 3550
+Wire Wire Line
+	6200 3550 5200 3550
+Wire Wire Line
+	7200 3650 7200 3550
+Connection ~ 7200 3550
+Wire Wire Line
+	7200 3550 6200 3550
+Wire Wire Line
+	8200 4250 8200 4400
+Wire Wire Line
+	8200 4400 7200 4400
+Wire Wire Line
+	3200 4250 3200 4400
+Connection ~ 3200 4400
+Wire Wire Line
+	4200 4250 4200 4400
+Connection ~ 4200 4400
+Wire Wire Line
+	4200 4400 3200 4400
+Wire Wire Line
+	5200 4250 5200 4400
+Connection ~ 5200 4400
+Wire Wire Line
+	5200 4400 4200 4400
+Wire Wire Line
+	6200 4250 6200 4400
+Connection ~ 6200 4400
+Wire Wire Line
+	6200 4400 5200 4400
+Wire Wire Line
+	7200 4250 7200 4400
+Connection ~ 7200 4400
+Wire Wire Line
+	7200 4400 6200 4400
+Connection ~ 8200 3550
+Connection ~ 8200 4400
+$Comp
+L Connector_Generic:Conn_01x01 J1
+U 1 1 5E3CFDE1
+P 2300 3550
+F 0 "J1" H 2380 3592 50  0000 L CNN
+F 1 "Conn_01x01" H 2380 3501 50  0000 L CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 2300 3550 50  0001 C CNN
+F 3 "~" H 2300 3550 50  0001 C CNN
+	1    2300 3550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J3
+U 1 1 62265B68
+P 2300 3950
+F 0 "J3" H 2380 3992 50  0000 L CNN
+F 1 "Conn_01x01" H 2380 3901 50  0000 L CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 2300 3950 50  0001 C CNN
+F 3 "~" H 2300 3950 50  0001 C CNN
+	1    2300 3950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J5
+U 1 1 62266182
+P 2300 4400
+F 0 "J5" H 2380 4442 50  0000 L CNN
+F 1 "Conn_01x01" H 2380 4351 50  0000 L CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 2300 4400 50  0001 C CNN
+F 3 "~" H 2300 4400 50  0001 C CNN
+	1    2300 4400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J6
+U 1 1 622664A2
+P 9400 4400
+F 0 "J6" H 9480 4442 50  0000 L CNN
+F 1 "Conn_01x01" H 9480 4351 50  0000 L CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 9400 4400 50  0001 C CNN
+F 3 "~" H 9400 4400 50  0001 C CNN
+	1    9400 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J4
+U 1 1 622664AC
+P 9400 3950
+F 0 "J4" H 9480 3992 50  0000 L CNN
+F 1 "Conn_01x01" H 9480 3901 50  0000 L CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 9400 3950 50  0001 C CNN
+F 3 "~" H 9400 3950 50  0001 C CNN
+	1    9400 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J2
+U 1 1 622664B6
+P 9400 3550
+F 0 "J2" H 9480 3592 50  0000 L CNN
+F 1 "Conn_01x01" H 9480 3501 50  0000 L CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 9400 3550 50  0001 C CNN
+F 3 "~" H 9400 3550 50  0001 C CNN
+	1    9400 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8200 3550 8700 3550
+Wire Wire Line
+	8500 3950 9200 3950
+Wire Wire Line
+	8200 4400 8700 4400
+$Comp
+L power:+5V #PWR0101
+U 1 1 6226BA25
+P 8700 3550
+F 0 "#PWR0101" H 8700 3400 50  0001 C CNN
+F 1 "+5V" H 8715 3723 50  0000 C CNN
+F 2 "" H 8700 3550 50  0001 C CNN
+F 3 "" H 8700 3550 50  0001 C CNN
+	1    8700 3550
+	1    0    0    -1  
+$EndComp
+Connection ~ 8700 3550
+Wire Wire Line
+	8700 3550 9200 3550
+$Comp
+L power:GND #PWR0102
+U 1 1 6226BFD9
+P 8700 4400
+F 0 "#PWR0102" H 8700 4150 50  0001 C CNN
+F 1 "GND" H 8705 4227 50  0000 C CNN
+F 2 "" H 8700 4400 50  0001 C CNN
+F 3 "" H 8700 4400 50  0001 C CNN
+	1    8700 4400
+	1    0    0    -1  
+$EndComp
+Connection ~ 8700 4400
+Wire Wire Line
+	8700 4400 9200 4400
+Wire Wire Line
+	2500 3950 2900 3950
+Wire Wire Line
+	2500 4400 3200 4400
+Wire Wire Line
+	2500 3550 3200 3550
+$Comp
+L Device:C C1
+U 1 1 622704D9
+P 3200 2850
+F 0 "C1" H 3315 2896 50  0000 L CNN
+F 1 "C" H 3315 2805 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3238 2700 50  0001 C CNN
+F 3 "~" H 3200 2850 50  0001 C CNN
+	1    3200 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 62270F45
+P 3200 3000
+F 0 "#PWR0103" H 3200 2750 50  0001 C CNN
+F 1 "GND" H 3205 2827 50  0000 C CNN
+F 2 "" H 3200 3000 50  0001 C CNN
+F 3 "" H 3200 3000 50  0001 C CNN
+	1    3200 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0104
+U 1 1 622712D5
+P 3200 2700
+F 0 "#PWR0104" H 3200 2550 50  0001 C CNN
+F 1 "+5V" H 3215 2873 50  0000 C CNN
+F 2 "" H 3200 2700 50  0001 C CNN
+F 3 "" H 3200 2700 50  0001 C CNN
+	1    3200 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 622723CA
+P 4200 2850
+F 0 "C2" H 4315 2896 50  0000 L CNN
+F 1 "C" H 4315 2805 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4238 2700 50  0001 C CNN
+F 3 "~" H 4200 2850 50  0001 C CNN
+	1    4200 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 622723D4
+P 4200 3000
+F 0 "#PWR0105" H 4200 2750 50  0001 C CNN
+F 1 "GND" H 4205 2827 50  0000 C CNN
+F 2 "" H 4200 3000 50  0001 C CNN
+F 3 "" H 4200 3000 50  0001 C CNN
+	1    4200 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0106
+U 1 1 622723DE
+P 4200 2700
+F 0 "#PWR0106" H 4200 2550 50  0001 C CNN
+F 1 "+5V" H 4215 2873 50  0000 C CNN
+F 2 "" H 4200 2700 50  0001 C CNN
+F 3 "" H 4200 2700 50  0001 C CNN
+	1    4200 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 62274329
+P 5200 2850
+F 0 "C3" H 5315 2896 50  0000 L CNN
+F 1 "C" H 5315 2805 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5238 2700 50  0001 C CNN
+F 3 "~" H 5200 2850 50  0001 C CNN
+	1    5200 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 62274333
+P 5200 3000
+F 0 "#PWR0107" H 5200 2750 50  0001 C CNN
+F 1 "GND" H 5205 2827 50  0000 C CNN
+F 2 "" H 5200 3000 50  0001 C CNN
+F 3 "" H 5200 3000 50  0001 C CNN
+	1    5200 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0108
+U 1 1 6227433D
+P 5200 2700
+F 0 "#PWR0108" H 5200 2550 50  0001 C CNN
+F 1 "+5V" H 5215 2873 50  0000 C CNN
+F 2 "" H 5200 2700 50  0001 C CNN
+F 3 "" H 5200 2700 50  0001 C CNN
+	1    5200 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 62274347
+P 6200 2850
+F 0 "C4" H 6315 2896 50  0000 L CNN
+F 1 "C" H 6315 2805 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 6238 2700 50  0001 C CNN
+F 3 "~" H 6200 2850 50  0001 C CNN
+	1    6200 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0109
+U 1 1 62274351
+P 6200 3000
+F 0 "#PWR0109" H 6200 2750 50  0001 C CNN
+F 1 "GND" H 6205 2827 50  0000 C CNN
+F 2 "" H 6200 3000 50  0001 C CNN
+F 3 "" H 6200 3000 50  0001 C CNN
+	1    6200 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0110
+U 1 1 6227435B
+P 6200 2700
+F 0 "#PWR0110" H 6200 2550 50  0001 C CNN
+F 1 "+5V" H 6215 2873 50  0000 C CNN
+F 2 "" H 6200 2700 50  0001 C CNN
+F 3 "" H 6200 2700 50  0001 C CNN
+	1    6200 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C5
+U 1 1 6227622A
+P 7200 2850
+F 0 "C5" H 7315 2896 50  0000 L CNN
+F 1 "C" H 7315 2805 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7238 2700 50  0001 C CNN
+F 3 "~" H 7200 2850 50  0001 C CNN
+	1    7200 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0111
+U 1 1 62276234
+P 7200 3000
+F 0 "#PWR0111" H 7200 2750 50  0001 C CNN
+F 1 "GND" H 7205 2827 50  0000 C CNN
+F 2 "" H 7200 3000 50  0001 C CNN
+F 3 "" H 7200 3000 50  0001 C CNN
+	1    7200 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0112
+U 1 1 6227623E
+P 7200 2700
+F 0 "#PWR0112" H 7200 2550 50  0001 C CNN
+F 1 "+5V" H 7215 2873 50  0000 C CNN
+F 2 "" H 7200 2700 50  0001 C CNN
+F 3 "" H 7200 2700 50  0001 C CNN
+	1    7200 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C6
+U 1 1 62276248
+P 8200 2850
+F 0 "C6" H 8315 2896 50  0000 L CNN
+F 1 "C" H 8315 2805 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 8238 2700 50  0001 C CNN
+F 3 "~" H 8200 2850 50  0001 C CNN
+	1    8200 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0113
+U 1 1 62276252
+P 8200 3000
+F 0 "#PWR0113" H 8200 2750 50  0001 C CNN
+F 1 "GND" H 8205 2827 50  0000 C CNN
+F 2 "" H 8200 3000 50  0001 C CNN
+F 3 "" H 8200 3000 50  0001 C CNN
+	1    8200 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0114
+U 1 1 6227625C
+P 8200 2700
+F 0 "#PWR0114" H 8200 2550 50  0001 C CNN
+F 1 "+5V" H 8215 2873 50  0000 C CNN
+F 2 "" H 8200 2700 50  0001 C CNN
+F 3 "" H 8200 2700 50  0001 C CNN
+	1    8200 2700
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

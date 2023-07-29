@@ -1,0 +1,235 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "Demo board for the drone-kicad plugin"
+Date "2018-10-10"
+Rev ""
+Comp "TOROID"
+Comment1 "Andrés MANELLI"
+Comment2 "drone-kicad-sample"
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:R R1
+U 1 1 5BBD3106
+P 5050 2825
+F 0 "R1" V 4843 2825 50  0000 C CNN
+F 1 "100k" V 4934 2825 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric" V 4980 2825 50  0001 C CNN
+F 3 "~" H 5050 2825 50  0001 C CNN
+F 4 "sample2" V 5050 2825 50  0001 C CNN "variant"
+	1    5050 2825
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5BBD31E6
+P 5375 3100
+F 0 "C1" H 5490 3146 50  0000 L CNN
+F 1 "1u" H 5490 3055 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 5413 2950 50  0001 C CNN
+F 3 "~" H 5375 3100 50  0001 C CNN
+F 4 "sample2" H 5375 3100 50  0001 C CNN "variant"
+	1    5375 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5375 2950 5375 2825
+Wire Wire Line
+	5375 2825 5200 2825
+Wire Wire Line
+	5375 3250 5375 3325
+$Comp
+L power:GND #PWR0101
+U 1 1 5BBD3318
+P 5375 3325
+F 0 "#PWR0101" H 5375 3075 50  0001 C CNN
+F 1 "GND" H 5380 3152 50  0000 C CNN
+F 2 "" H 5375 3325 50  0001 C CNN
+F 3 "" H 5375 3325 50  0001 C CNN
+	1    5375 3325
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 2825 4525 2825
+$Comp
+L Device:R R3
+U 1 1 5BBD3486
+P 5100 1925
+F 0 "R3" V 4893 1925 50  0000 C CNN
+F 1 "1M" V 4984 1925 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric" V 5030 1925 50  0001 C CNN
+F 3 "~" H 5100 1925 50  0001 C CNN
+F 4 "sample1" V 5100 1925 50  0001 C CNN "variant"
+	1    5100 1925
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 5BBD348C
+P 5425 2100
+F 0 "C3" H 5540 2146 50  0000 L CNN
+F 1 "10u" H 5540 2055 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 5463 1950 50  0001 C CNN
+F 3 "~" H 5425 2100 50  0001 C CNN
+F 4 "sample1" H 5425 2100 50  0001 C CNN "variant"
+	1    5425 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5425 1925 5250 1925
+Wire Wire Line
+	5425 2250 5425 2325
+$Comp
+L power:GND #PWR0103
+U 1 1 5BBD3495
+P 5425 2325
+F 0 "#PWR0103" H 5425 2075 50  0001 C CNN
+F 1 "GND" H 5430 2152 50  0000 C CNN
+F 2 "" H 5425 2325 50  0001 C CNN
+F 3 "" H 5425 2325 50  0001 C CNN
+	1    5425 2325
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 1925 4525 1925
+$Comp
+L Device:R R2
+U 1 1 5BBD3603
+P 5050 4025
+F 0 "R2" V 4843 4025 50  0000 C CNN
+F 1 "10k" V 4934 4025 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric" V 4980 4025 50  0001 C CNN
+F 3 "~" H 5050 4025 50  0001 C CNN
+F 4 "sample3" V 5050 4025 50  0001 C CNN "variant"
+	1    5050 4025
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 5BBD3609
+P 5375 4200
+F 0 "C2" H 5490 4246 50  0000 L CNN
+F 1 "0.1u" H 5490 4155 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 5413 4050 50  0001 C CNN
+F 3 "~" H 5375 4200 50  0001 C CNN
+F 4 "sample3" H 5375 4200 50  0001 C CNN "variant"
+	1    5375 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5375 4050 5375 4025
+Wire Wire Line
+	5375 4025 5200 4025
+Wire Wire Line
+	5375 4350 5375 4425
+$Comp
+L power:GND #PWR0104
+U 1 1 5BBD3612
+P 5375 4425
+F 0 "#PWR0104" H 5375 4175 50  0001 C CNN
+F 1 "GND" H 5380 4252 50  0000 C CNN
+F 2 "" H 5375 4425 50  0001 C CNN
+F 3 "" H 5375 4425 50  0001 C CNN
+	1    5375 4425
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 4025 4525 4025
+$Comp
+L Connector:Screw_Terminal_01x02 J1
+U 1 1 5BBD38A5
+P 3400 2925
+F 0 "J1" H 3320 2600 50  0000 C CNN
+F 1 "Screw_Terminal_01x02" H 3320 2691 50  0000 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 3400 2925 50  0001 C CNN
+F 3 "~" H 3400 2925 50  0001 C CNN
+	1    3400 2925
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4525 2825 4525 4025
+Connection ~ 4525 2825
+Wire Wire Line
+	4525 1925 4525 2825
+Wire Wire Line
+	3600 2925 3650 2925
+Wire Wire Line
+	3650 2925 3650 4250
+$Comp
+L power:GND #PWR0105
+U 1 1 5BBD483B
+P 3650 4250
+F 0 "#PWR0105" H 3650 4000 50  0001 C CNN
+F 1 "GND" H 3655 4077 50  0000 C CNN
+F 2 "" H 3650 4250 50  0001 C CNN
+F 3 "" H 3650 4250 50  0001 C CNN
+	1    3650 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x02 J2
+U 1 1 5BBD4A2E
+P 6700 2825
+F 0 "J2" H 6780 2817 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 6780 2726 50  0000 L CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 6700 2825 50  0001 C CNN
+F 3 "~" H 6700 2825 50  0001 C CNN
+	1    6700 2825
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5425 1950 5425 1925
+Wire Wire Line
+	5425 1925 6350 1925
+Wire Wire Line
+	6350 1925 6350 2825
+Wire Wire Line
+	6350 2825 6500 2825
+Connection ~ 5425 1925
+Wire Wire Line
+	6350 2825 5375 2825
+Connection ~ 6350 2825
+Connection ~ 5375 2825
+Wire Wire Line
+	5375 4025 6350 4025
+Wire Wire Line
+	6350 4025 6350 2825
+Connection ~ 5375 4025
+Wire Wire Line
+	6500 2925 6500 4325
+$Comp
+L power:GND #PWR0106
+U 1 1 5BBD683B
+P 6500 4325
+F 0 "#PWR0106" H 6500 4075 50  0001 C CNN
+F 1 "GND" H 6505 4152 50  0000 C CNN
+F 2 "" H 6500 4325 50  0001 C CNN
+F 3 "" H 6500 4325 50  0001 C CNN
+	1    6500 4325
+	1    0    0    -1  
+$EndComp
+Text Notes 5400 1825 0    50   ~ 0
+VARIANT: sample1
+Text Notes 5350 2750 0    50   ~ 0
+VARIANT: sample2
+Text Notes 5300 3950 0    50   ~ 0
+VARIANT: sample3
+Wire Wire Line
+	3600 2825 4525 2825
+$Comp
+L TOROID:commit-trace t1
+U 1 1 5BBE5EE0
+P 3650 1250
+F 0 "t1" H 4028 1228 60  0000 L CNN
+F 1 "commit-trace" H 4028 1122 60  0000 L CNN
+F 2 "toroid-kicad:commit-trace" H 3650 1250 60  0001 C CNN
+F 3 "" H 3650 1250 60  0001 C CNN
+	1    3650 1250
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

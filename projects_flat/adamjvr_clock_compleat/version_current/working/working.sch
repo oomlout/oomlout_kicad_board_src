@@ -1,0 +1,135 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 4 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:Crystal Y?
+U 1 1 5E4FBE22
+P 6150 2900
+F 0 "Y?" H 6150 3168 50  0000 C CNN
+F 1 "Crystal" H 6150 3077 50  0000 C CNN
+F 2 "" H 6150 2900 50  0001 C CNN
+F 3 "~" H 6150 2900 50  0001 C CNN
+	1    6150 2900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5300 2950 5700 2950
+Wire Wire Line
+	5700 2950 5700 3050
+Wire Wire Line
+	5700 3050 6150 3050
+Wire Wire Line
+	5300 2850 5700 2850
+Wire Wire Line
+	5700 2850 5700 2750
+Wire Wire Line
+	5700 2750 6150 2750
+$Comp
+L power:+5V #PWR?
+U 1 1 5E6FDA91
+P 4700 1950
+F 0 "#PWR?" H 4700 1800 50  0001 C CNN
+F 1 "+5V" H 4715 2123 50  0000 C CNN
+F 2 "" H 4700 1950 50  0001 C CNN
+F 3 "" H 4700 1950 50  0001 C CNN
+	1    4700 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 5E6FEF72
+P 4800 1950
+F 0 "#PWR?" H 4800 1800 50  0001 C CNN
+F 1 "+5V" H 4815 2123 50  0000 C CNN
+F 2 "" H 4800 1950 50  0001 C CNN
+F 3 "" H 4800 1950 50  0001 C CNN
+	1    4800 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5E70C8D3
+P 4550 4950
+F 0 "#PWR?" H 4550 4700 50  0001 C CNN
+F 1 "GND" H 4555 4777 50  0000 C CNN
+F 2 "" H 4550 4950 50  0001 C CNN
+F 3 "" H 4550 4950 50  0001 C CNN
+	1    4550 4950
+	1    0    0    -1  
+$EndComp
+Text HLabel 5300 3650 2    50   BiDi ~ 0
+SCL
+Text HLabel 5300 3550 2    50   BiDi ~ 0
+SDA
+$Comp
+L Timer_RTC:DS3231M U?
+U 1 1 5E712CF8
+P 7700 3450
+F 0 "U?" H 7700 2500 50  0000 C CNN
+F 1 "DS3231M" H 7700 2600 50  0000 C CNN
+F 2 "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm" H 7700 2850 50  0001 C CNN
+F 3 "http://datasheets.maximintegrated.com/en/ds/DS3231.pdf" H 7970 3500 50  0001 C CNN
+	1    7700 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 5E714AEA
+P 7600 3050
+F 0 "#PWR?" H 7600 2900 50  0001 C CNN
+F 1 "+5V" H 7615 3223 50  0000 C CNN
+F 2 "" H 7600 3050 50  0001 C CNN
+F 3 "" H 7600 3050 50  0001 C CNN
+	1    7600 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5E6FF1E6
+P 4700 4950
+F 0 "#PWR?" H 4700 4700 50  0001 C CNN
+F 1 "GND" H 4705 4777 50  0000 C CNN
+F 2 "" H 4700 4950 50  0001 C CNN
+F 3 "" H 4700 4950 50  0001 C CNN
+	1    4700 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCU_Microchip_ATmega:ATmega328P-PU U?
+U 1 1 5E508CA5
+P 4700 3450
+F 0 "U?" H 4056 3496 50  0000 R CNN
+F 1 "ATmega328P-PU" H 4056 3405 50  0000 R CNN
+F 2 "Package_DIP:DIP-28_W7.62mm" H 4700 3450 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf" H 4700 3450 50  0001 C CNN
+	1    4700 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5E7156A1
+P 7700 3850
+F 0 "#PWR?" H 7700 3600 50  0001 C CNN
+F 1 "GND" H 7705 3677 50  0000 C CNN
+F 2 "" H 7700 3850 50  0001 C CNN
+F 3 "" H 7700 3850 50  0001 C CNN
+	1    7700 3850
+	1    0    0    -1  
+$EndComp
+Text HLabel 7200 3250 0    50   BiDi ~ 0
+SCL
+Text HLabel 7200 3350 0    50   BiDi ~ 0
+SDA
+$EndSCHEMATC

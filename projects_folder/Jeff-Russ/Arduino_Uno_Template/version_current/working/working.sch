@@ -1,0 +1,178 @@
+EESchema Schematic File Version 4
+LIBS:Arduino_Uno_Template-cache
+EELAYER 26 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 2
+Title "Arduino UNO R3 Template"
+Date "2018-08-02"
+Rev "0"
+Comp "Jeff Russ"
+Comment1 "Template for Arduino Uno based projects"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 13750 950  1400 3800
+U 55DD0855
+F0 "Arduino_Uno_R3" 59
+F1 "Arduino_Uno_R3.sch" 59
+F2 "D0(RX)" I R 15150 4600 59 
+F3 "D1(TX)" O R 15150 4400 59 
+F4 "D2(INT0)" B R 15150 4200 59 
+F5 "~~D3(INT1)" B R 15150 4000 59 
+F6 "D4(XCK/T0)" B R 15150 3800 59 
+F7 "~~D5(T1)" B R 15150 3600 59 
+F8 "~~D6(AIN0)" B R 15150 3400 59 
+F9 "D7(AIN1)" B R 15150 3200 59 
+F10 "D8(ICP)" B R 15150 2900 59 
+F11 "D9(OC1A)" B R 15150 2700 59 
+F12 "~~D10(SS/OC1B)" B R 15150 2500 59 
+F13 "~~D11(MOSI/OC2)" B R 15150 2300 59 
+F14 "D12(MISO)" B R 15150 2100 59 
+F15 "D13(SCK)" B R 15150 1900 59 
+F16 "GND(D)" B R 15150 1700 59 
+F17 "AREF" B R 15150 1500 59 
+F18 "SDA(A4)" B R 15150 1300 59 
+F19 "SCL(A5)" B R 15150 1100 59 
+F20 "IOREF" B L 13750 2100 59 
+F21 "~RESET" B L 13750 2300 59 
+F22 "3.3V" B L 13750 2500 59 
+F23 "5V" B L 13750 2700 59 
+F24 "GND(P1)" B L 13750 2900 59 
+F25 "GND(P2)" B L 13750 3100 59 
+F26 "Vin" B L 13750 3300 59 
+F27 "A0" B L 13750 3600 59 
+F28 "A1" B L 13750 3800 59 
+F29 "A2" B L 13750 4000 59 
+F30 "A3" B L 13750 4200 59 
+F31 "A4(SDA)" B L 13750 4400 59 
+F32 "A5(SCL)" B L 13750 4600 59 
+$EndSheet
+Text Label 15200 4200 0    60   ~ 0
+D2
+Text Label 15200 4000 0    60   ~ 0
+~~D3
+Text Label 15200 3800 0    60   ~ 0
+D4
+Text Label 15200 3600 0    60   ~ 0
+~~D5
+Text Label 15200 3400 0    60   ~ 0
+~~D6
+Text Label 15200 3200 0    60   ~ 0
+D7
+Text Label 15200 4600 0    60   ~ 0
+D0(RX)
+Text Label 15200 4400 0    60   ~ 0
+D1(TX)
+Wire Wire Line
+	15150 4600 15200 4600
+Text Label 15200 2900 0    60   ~ 0
+D8
+Text Label 15200 2700 0    60   ~ 0
+D9
+Text Label 15200 2500 0    60   ~ 0
+~~D10
+Text Label 15200 2300 0    60   ~ 0
+~~D11(MOSI)
+Text Label 15200 2100 0    60   ~ 0
+D12(MISO)
+Text Label 15200 1900 0    60   ~ 0
+D13(SCK)
+Text Label 15200 1500 0    60   ~ 0
+AREF
+Text Label 15200 1300 0    60   ~ 0
+SDA(A4)
+Text Label 15200 1100 0    60   ~ 0
+SCL(A5)
+Wire Wire Line
+	15150 4400 15200 4400
+Wire Wire Line
+	15150 4200 15200 4200
+Wire Wire Line
+	15150 4000 15200 4000
+Wire Wire Line
+	15150 3800 15200 3800
+Wire Wire Line
+	15150 3600 15200 3600
+Wire Wire Line
+	15150 3400 15200 3400
+Wire Wire Line
+	15150 3200 15200 3200
+Wire Wire Line
+	15150 2900 15200 2900
+Wire Wire Line
+	15150 2700 15200 2700
+Wire Wire Line
+	15150 2500 15200 2500
+Wire Wire Line
+	15150 2300 15200 2300
+Wire Wire Line
+	15150 2100 15200 2100
+Wire Wire Line
+	15150 1900 15200 1900
+Wire Wire Line
+	15150 1700 15200 1700
+Wire Wire Line
+	15150 1500 15200 1500
+Wire Wire Line
+	15150 1300 15200 1300
+Wire Wire Line
+	15150 1100 15200 1100
+Text Label 15200 1700 0    60   ~ 0
+GND(D)
+Text Label 13700 3600 2    60   ~ 0
+A0
+Text Label 13700 3800 2    60   ~ 0
+A1
+Text Label 13700 4000 2    60   ~ 0
+A2
+Text Label 13700 4200 2    60   ~ 0
+A3
+Text Label 13700 4400 2    60   ~ 0
+A4(SDA)
+Text Label 13700 4600 2    60   ~ 0
+A5(SCL)
+Wire Wire Line
+	13700 4600 13750 4600
+Wire Wire Line
+	13700 4400 13750 4400
+Wire Wire Line
+	13700 4200 13750 4200
+Wire Wire Line
+	13700 4000 13750 4000
+Wire Wire Line
+	13700 3800 13750 3800
+Wire Wire Line
+	13700 3600 13750 3600
+Text Label 13700 2300 2    60   ~ 0
+~RESET
+Text Label 13700 2500 2    60   ~ 0
+3.3V
+Text Label 13700 2700 2    60   ~ 0
+5V
+Text Label 13700 2900 2    60   ~ 0
+GND(P1)
+Text Label 13700 3100 2    60   ~ 0
+GND(P2)
+Text Label 13700 3300 2    60   ~ 0
+Vin
+Wire Wire Line
+	13700 3300 13750 3300
+Wire Wire Line
+	13700 3100 13750 3100
+Wire Wire Line
+	13700 2900 13750 2900
+Wire Wire Line
+	13700 2700 13750 2700
+Wire Wire Line
+	13700 2500 13750 2500
+Wire Wire Line
+	13700 2300 13750 2300
+Text Label 13700 2100 2    60   ~ 0
+IOREF
+Wire Wire Line
+	13700 2100 13750 2100
+$EndSCHEMATC

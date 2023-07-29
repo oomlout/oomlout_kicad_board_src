@@ -1,0 +1,16 @@
+Refs,Value,Footprint,Quantity,MFR,MPN,SPR,SPN
+U2,AT25SF081-SSHD-X,Aaron:208-7391-55-1902,1,3M,208-7391-55-1902,Digikey,3M5054-ND
+U1,MX25L25735,Aaron:216-7224-55-1902,1,3M,216-7383-55-1902,Digikey,3M5078-ND
+SW2;SW1,SW_SPDT,Aaron:SW_STDP_CF-LD-1DC,2,Nidec Copal Electronics,CF-LD-1DC-AW2W,Digikey,563-1944-ND
+C1;C2;C4;C5;C3;C6;C7;C9;C8,0.1uF,Capacitor_SMD:C_0603_1608Metric,9,-,-,-,-
+C10;C12;C11,4.7uF,Capacitor_SMD:C_0603_1608Metric,3,-,-,-,-
+P1,CONN_13X2,Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical,1,-,-,-,-
+J1,RJ45,Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal,1,Amphenol,54602-908LF,Digikey,609-1046-ND
+FID1;FID2,FIDUCIAL_1MM,Fiducial:Fiducial_Modern_CopperTop,2,-,-,-,-
+D1,LED,LED_SMD:LED_0603_1608Metric,1,-,-,-,-
+U5,MIC5355-SGYMME,Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP2.54x2.8mm_ThermalVias,1,Microchip,MIC5355-SGYMME,Digikey,576-3882-5-ND
+U4,TXB0104D,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,1,-,-,-,-
+U3,MAX3232,Package_SO:TSSOP-16_4.4x5mm_P0.65mm,1,Texas Instruments,MAX3232ECPWR,Digikey,296-19263-1-ND
+Q1,BSS138,Package_TO_SOT_SMD:SOT-23,1,ON Semiconductor,BSS138K,Digikey,BSS138KCT-ND
+R4;R1;R3;R2;R5;R7,4.75K,Resistor_SMD:R_0603_1608Metric,6,-,-,-,-
+R6,560,Resistor_SMD:R_0603_1608Metric,1,-,-,-,-

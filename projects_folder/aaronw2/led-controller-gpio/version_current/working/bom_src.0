@@ -1,0 +1,31 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,SPURL,MPN,MFR,SPN,SPR
+1,Unpolarized capacitor,C,C1 C2 C3 C4 C5 C6 C7 C8,1uF,C_0603_1608Metric,8,~,,,,,
+2,Schottky diode,D_Schottky,D1,D_Schottky,D_0603_1608Metric,1,https://toshiba.semicon-storage.com/info/docget.jsp?did=13923&prodName=CCS15S30,https://www.digikey.com/products/en/discrete-semiconductor-products/diodes-rectifiers-single/280?k=&pkeyword=&sv=0&pv7=2&sf=1&FV=16%7C39246%2C69%7C409393%2C96%7C400378%2C1989%7C0%2C-8%7C280%2Cmu400mV+%40+1A%7C2261&quantity=&ColumnSort=0&page=1&stock=1&nstock=1&pageSize=500,"CCS15S30,L3F",Toshiba Semiconductor and Storage,CCS15S30L3FCT-ND,Digikey
+3,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J3 J6,Conn_01x02,PinSocket_1x02_P1.27mm_Vertical,2,~,https://www.digikey.com/product-detail/en/samtec-inc/SLM-102-01-S-S/SAM9931-ND/6678668,SLM-102-01-S-S,Samtec Inc.,SAM9931-ND,Digikey
+4,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J7,Conn_01x02,PinHeader_1x02_P1.27mm_Vertical,1,~,,,,,
+5,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J8,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,1,~,,,,,
+6,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J5,Conn_01x03,Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical,1,~,,,,,
+7,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x05,J1,Conn_01x05,PinSocket_1x05_P1.27mm_Vertical,1,http://suddendocs.samtec.com/prints/slm-s.pdf,https://www.digikey.com/product-detail/en/samtec-inc/SLM-105-01-L-S/SAM11788-ND/6691859,SLM-105-01-L-S,Samtec Inc.,SAM11788-ND,Digikey
+8,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x05,J2,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,1,~,,,,,
+9,"Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x07_Odd_Even,J4,Conn_02x07_Odd_Even,PinHeader_2x07_P2.54mm_Horizontal,1,~,,,,,
+10,"20V Vds, 1.5A Id, N-Channel MOSFET, SOT-323",BSS214NW,Q1,BSS214NW,SOT-323_SC-70,1,https://www.infineon.com/dgdl/Infineon-BSS214NW-DS-v02_02-en.pdf?fileId=db3a30431b3e89eb011b695aebc01bde,https://www.digikey.com/products/en/discrete-semiconductor-products/transistors-fets-mosfets-single/278?k=BSS214NW&k=&pkeyword=BSS214NW&sv=0&pv7=2&pv1989=0&sf=0&quantity=&ColumnSort=0&page=1&pageSize=500,BSS214NWH6327XTSA1,Infineon Technologies,BSS214NWH6327XTSA1CT-ND,Digikey
+11,"4 resistor network, parallel topology, DIP package",R_Pack04,RN1,4.7K,R_Array_Convex_4x0603,1,~,,,,,
+12,"3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol",SW_DIP_x03,SW1,SW_DIP_x03,SW_DIP_SPSTx03_Slide_Wurth_416131160803_8.89x4.98mm_W2.65mm_P1.27mm,1,https://katalog.we-online.de/em/datasheet/4161311608xx.pdf,https://www.digikey.com/products/en/switches/dip-switches/194?k=416131160803&k=&pkeyword=416131160803&sv=0&pv7=2&sf=0&quantity=&ColumnSort=0&page=1&stock=1&nstock=1&pageSize=500,416131160803,Würth Elektronik,732-3853-1-ND,Digikey
+13,Three-Axiss Accelerometer,MXC400XXC,U2,MXC400XXC,MXC400XXC,1,http://www.memsic.cn/userfiles/files/Datasheets/Accelerometer-Datasheets/MXC400xXC_Rev_B.pdf,,,,,
+14,"16-bit I2C-bus and SMBus, level translating, low voltage GPIO with reset and interrupt",PCA9575HF,U1,PCA9575HF,HWQFN-24_EP_4x4_Pitch0.5mm,1,https://www.nxp.com/docs/en/data-sheet/PCA9575.pdf,https://www.digikey.com/products/en/integrated-circuits-ics/interface-i-o-expanders/749?k=PCA9575HF&k=&pkeyword=PCA9575HF&sv=0&pv7=2&sf=0&quantity=&ColumnSort=0&page=1&stock=1&nstock=1&pageSize=500,"PCA9575HF,118",NXP USA Inc.,568-4771-1-ND,Digikey
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Component Groups:,14,,,,,,,,,,,
+Component Count:,22,,,,,,,,,,,
+Fitted Components:,22,,,,,,,,,,,
+Number of PCBs:,1,,,,,,,,,,,
+Total components:,22,,,,,,,,,,,
+Schematic Version:,1,,,,,,,,,,,
+Schematic Date:,2019-11-30,,,,,,,,,,,
+PCB Variant:,default,,,,,,,,,,,
+BoM Date:,Tue 10 Dec 2019 07:33:33 PM PST,,,,,,,,,,,
+Schematic Source:,/home/aaronw/kicad/Projects/Ralph/led-controller-wrover32/gpio-fan/gpio-fan.sch,,,,,,,,,,,
+KiCad Version:,Eeschema 5.1.5-5.1.5,,,,,,,,,,,

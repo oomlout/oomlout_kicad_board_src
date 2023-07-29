@@ -1,0 +1,16 @@
+Reference,Quantity,Value,Footprint,url,memo
+BL0 BR0 BL1 BR1,4,Push switch 12mm black,footprints:SW_Center_PUSH-12mm,,12mm black
+C2,1,10n,Capacitor_SMD:C_0603_1608Metric,,0.01uf 0603inch more than 10V. I don’t mind vendor
+C3,1,0.47u,Capacitor_SMD:C_0402_1005Metric,,0.47uf 0402inch more than 10V. I don’t mind vendor
+C1 C4 C5 C6,4,0.1u,Capacitor_SMD:C_0402_1005Metric,,0.1uf 0402inch more than 10V. I don’t mind vendor
+D0 D1 D2 D3,4,LED green 0603 inch,Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,https://akizukidenshi.com/catalog/g/gI-06417/,
+D4 D5 D6,3,1SS309,asukiaaa-kicad-footprints:SC-74-5_1.6x2.9mm_P0.95mm,https://www.digikey.jp/product-detail/ja/toshiba-semiconductor-and-storage/1SS309-TE85L-F/1SS309-TE85LF-CT-ND/4304019,
+Encoder0 Encoder1,2,Encoder 10k,asukiaaa-kicad-footprints:RoteryEncoderWithPowerLabel,https://ja.aliexpress.com/item/1005001556801559.html,
+J1 J5,1,Joystick,asukiaaa-kicad-footprints:PS4tJoystick,https://ja.aliexpress.com/item/1005001729380060.html,
+J3 J6,2,Conn_01x04,footprints:NS-Tech_Grove_1x04_P2mm_Horizontal,https://www.seeedstudio.com/Grove-Universal-4-pin-connector-90-10-PCs.html,Grove horizontal connector
+R1 R2 R3 R4,4,100k,Resistor_SMD:R_0603_1608Metric,,100k 0603inch. I don’t mind vendor
+SW6,1,Push switch 6mm black,Button_Switch_THT:SW_PUSH_6mm,,6mm black
+Slide0 Slide1,2,SlideSwitch,asukiaaa-kicad-footprints:SlideSwitch_SS12D01G4_2posi_1line,https://akizukidenshi.com/catalog/g/gP-12723/,
+U1,1,NJM12888F33,Package_TO_SOT_SMD:SOT-23-5,https://akizukidenshi.com/catalog/g/gI-10675/,
+U4,1,ATmega328PB-A,asukiaaa-kicad-footprints:TQFP-32_7x7mm_P0.8mm_short_inner,https://www.lcsc.com/product-detail/Microcontroller-Units-MCUs-MPUs-SOCs_Microchip-Tech-ATMEGA328PB-AU_C132230.html,
+U3,1,AQM0802,asukiaaa-kicad-footprints:AQM0802A-RN-GBW,https://akizukidenshi.com/catalog/g/gP-06669/,

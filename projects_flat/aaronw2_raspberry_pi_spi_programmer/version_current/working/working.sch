@@ -1,0 +1,1204 @@
+EESchema Schematic File Version 4
+LIBS:raspberry-spi-flash-cache
+EELAYER 26 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "Raspberry PI SOIC-16/SOIC-8 SPI Flash Programmer"
+Date "2019-01-12"
+Rev "1.0"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_02x13_Odd_Even P1
+U 1 1 50A55ABA
+P 2400 1800
+F 0 "P1" H 2400 2500 60  0000 C CNN
+F 1 "CONN_13X2" V 2450 1850 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical" H 2200 1100 30  0001 C CNN
+F 3 "" H 2400 1800 60  0001 C CNN
+	1    2400 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR01
+U 1 1 50A55B18
+P 2100 1050
+F 0 "#PWR01" H 2100 900 50  0001 C CNN
+F 1 "+3.3V" H 2100 1190 50  0000 C CNN
+F 2 "" H 2100 1050 50  0000 C CNN
+F 3 "" H 2100 1050 50  0000 C CNN
+	1    2100 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR02
+U 1 1 50A55B2E
+P 2800 1050
+F 0 "#PWR02" H 2800 900 50  0001 C CNN
+F 1 "+5V" H 2800 1190 50  0000 C CNN
+F 2 "" H 2800 1050 50  0000 C CNN
+F 3 "" H 2800 1050 50  0000 C CNN
+	1    2800 1050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2800 1050 2800 1200
+Wire Wire Line
+	2800 1200 2700 1200
+Wire Wire Line
+	2200 1300 1450 1300
+Wire Wire Line
+	2200 1400 1450 1400
+Text Label 1450 1300 0    60   ~ 0
+GPIO0(SDA)
+Text Label 1450 1400 0    60   ~ 0
+GPIO1(SCL)
+Wire Wire Line
+	2200 1500 1450 1500
+Text Label 1450 1500 0    60   ~ 0
+GPIO4
+Wire Wire Line
+	2200 1700 1450 1700
+Wire Wire Line
+	2200 1800 1450 1800
+Text Label 1450 1700 0    60   ~ 0
+GPIO17
+Text Label 1450 1800 0    60   ~ 0
+GPIO21
+Text Label 1450 1900 0    60   ~ 0
+GPIO22
+Text Label 1450 2100 0    60   ~ 0
+GPIO10(MOSI)
+Text Label 1450 2200 0    60   ~ 0
+GPIO9(MISO)
+Text Label 1450 2300 0    60   ~ 0
+GPIO11(SCLK)
+$Comp
+L power:GND #PWR03
+U 1 1 50A55C3F
+P 2800 2500
+F 0 "#PWR03" H 2800 2250 50  0001 C CNN
+F 1 "GND" H 2800 2350 50  0000 C CNN
+F 2 "" H 2800 2500 50  0000 C CNN
+F 3 "" H 2800 2500 50  0000 C CNN
+	1    2800 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2800 2500 2800 2100
+Wire Wire Line
+	2800 1400 2700 1400
+Text Label 3400 1500 2    60   ~ 0
+TXD
+Text Label 3400 1600 2    60   ~ 0
+RXD
+Wire Wire Line
+	2700 1700 3400 1700
+Text Label 3400 1700 2    60   ~ 0
+GPIO18
+Wire Wire Line
+	2700 1900 3400 1900
+Wire Wire Line
+	2700 2000 3400 2000
+Text Label 3400 1900 2    60   ~ 0
+GPIO23
+Text Label 3400 2000 2    60   ~ 0
+GPIO24
+Wire Wire Line
+	2700 2200 3400 2200
+Text Label 3400 2200 2    60   ~ 0
+GPIO25
+Wire Wire Line
+	2700 2400 3400 2400
+Text Label 3400 2300 2    60   ~ 0
+GPIO8(CE0)
+Text Label 3400 2400 2    60   ~ 0
+GPIO7(CE1)
+$Comp
+L raspberry-spi-flash-rescue:R-device R4
+U 1 1 5C374F27
+P 6300 5200
+F 0 "R4" H 6370 5246 50  0000 L CNN
+F 1 "4.75K" H 6370 5155 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6230 5200 50  0001 C CNN
+F 3 "" H 6300 5200 50  0001 C CNN
+	1    6300 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 5350 6300 5550
+Wire Wire Line
+	6300 5550 5650 5550
+Wire Wire Line
+	6300 4850 6300 5050
+$Comp
+L raspberry-spi-flash-rescue:R-device R1
+U 1 1 5C375587
+P 3750 4750
+F 0 "R1" H 3820 4796 50  0000 L CNN
+F 1 "4.75K" H 3820 4705 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3680 4750 50  0001 C CNN
+F 3 "" H 3750 4750 50  0001 C CNN
+	1    3750 4750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 4450 3750 4600
+Wire Wire Line
+	5650 4100 5650 4150
+$Comp
+L raspberry-spi-flash-rescue:C-device C1
+U 1 1 5C3760DB
+P 5900 4300
+F 0 "C1" H 6015 4346 50  0000 L CNN
+F 1 "0.1uF" H 6015 4255 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5938 4150 50  0001 C CNN
+F 3 "" H 5900 4300 50  0001 C CNN
+	1    5900 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR06
+U 1 1 5C3764C6
+P 5900 4450
+F 0 "#PWR06" H 5900 4200 50  0001 C CNN
+F 1 "GND" H 6000 4350 50  0000 C CNN
+F 2 "" H 5900 4450 50  0001 C CNN
+F 3 "" H 5900 4450 50  0001 C CNN
+	1    5900 4450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5900 4150 5650 4150
+Connection ~ 5650 4150
+$Comp
+L raspberry-spi-flash-rescue:R-device R3
+U 1 1 5C376905
+P 3550 5100
+F 0 "R3" H 3620 5146 50  0000 L CNN
+F 1 "4.75K" H 3620 5055 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3480 5100 50  0001 C CNN
+F 3 "" H 3550 5100 50  0001 C CNN
+	1    3550 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L raspberry-spi-flash-rescue:R-device R2
+U 1 1 5C37695D
+P 3200 5100
+F 0 "R2" H 3270 5146 50  0000 L CNN
+F 1 "4.75K" H 3270 5055 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3130 5100 50  0001 C CNN
+F 3 "" H 3200 5100 50  0001 C CNN
+	1    3200 5100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3200 4850 3200 4950
+Wire Wire Line
+	3200 4950 3550 4950
+Connection ~ 3200 4950
+Wire Wire Line
+	3550 5250 4450 5250
+Wire Wire Line
+	4450 5350 3200 5350
+Wire Wire Line
+	3200 5350 3200 5250
+$Comp
+L power:GND #PWR09
+U 1 1 5C377D72
+P 4350 5600
+F 0 "#PWR09" H 4350 5350 50  0001 C CNN
+F 1 "GND" H 4355 5427 50  0000 C CNN
+F 2 "" H 4350 5600 50  0001 C CNN
+F 3 "" H 4350 5600 50  0001 C CNN
+	1    4350 5600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4450 5550 4350 5550
+Wire Wire Line
+	4350 5550 4350 5600
+Text Label 4100 4900 0    50   ~ 0
+FL_CS0
+Wire Wire Line
+	4450 4800 4100 4800
+Wire Wire Line
+	4450 4700 4100 4700
+Text Label 4100 4700 0    50   ~ 0
+SCLK
+Text Label 4100 4800 0    50   ~ 0
+MOSI
+Wire Wire Line
+	5650 4700 6050 4700
+Text Label 5850 4700 0    50   ~ 0
+MISO
+Text Label 3550 2300 0    50   ~ 0
+R_FL_CS0
+Wire Wire Line
+	2700 2300 3800 2300
+Wire Wire Line
+	850  2300 2200 2300
+Text Label 850  2300 0    50   ~ 0
+R_SCLK
+Wire Wire Line
+	850  2200 2200 2200
+Text Label 850  2200 0    50   ~ 0
+R_MOSI
+Wire Wire Line
+	850  2100 2200 2100
+Text Label 850  2100 0    50   ~ 0
+R_MISO
+$Comp
+L Memory_Flash:AT25SF081-SSHD-X U2
+U 1 1 5C37DF9B
+P 5050 6850
+F 0 "U2" H 5691 6896 50  0000 L CNN
+F 1 "AT25SF081-SSHD-X" H 5691 6805 50  0000 L CNN
+F 2 "Aaron:208-7391-55-1902" H 5050 6250 50  0001 C CNN
+F 3 "https://www.adestotech.com/wp-content/uploads/DS-AT25SF081_045.pdf" H 5050 6850 50  0001 C CNN
+F 4 "3M" H 5050 6850 50  0001 C CNN "MFR"
+F 5 "208-7391-55-1902" H 5050 6850 50  0001 C CNN "MPN"
+F 6 "Digikey" H 5050 6850 50  0001 C CNN "SPR"
+F 7 "3M5054-ND" H 5050 6850 50  0001 C CNN "SPN"
+F 8 "https://www.digikey.com/product-detail/en/208-7391-55-1902/3M5054-ND/1130108/?itemSeq=281650646" H 5050 6850 50  0001 C CNN "SPURL"
+	1    5050 6850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 5850 5050 5900
+$Comp
+L raspberry-spi-flash-rescue:C-device C2
+U 1 1 5C37E1A2
+P 5300 6050
+F 0 "C2" H 5415 6096 50  0000 L CNN
+F 1 "0.1uF" H 5415 6005 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5338 5900 50  0001 C CNN
+F 3 "" H 5300 6050 50  0001 C CNN
+	1    5300 6050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 5900 5050 5900
+Connection ~ 5050 5900
+Wire Wire Line
+	5050 5900 5050 6350
+$Comp
+L power:GND #PWR011
+U 1 1 5C37EB89
+P 5300 6200
+F 0 "#PWR011" H 5300 5950 50  0001 C CNN
+F 1 "GND" H 5400 6100 50  0000 C CNN
+F 2 "" H 5300 6200 50  0001 C CNN
+F 3 "" H 5300 6200 50  0001 C CNN
+	1    5300 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR012
+U 1 1 5C37EBA6
+P 5050 7350
+F 0 "#PWR012" H 5050 7100 50  0001 C CNN
+F 1 "GND" H 5150 7250 50  0000 C CNN
+F 2 "" H 5050 7350 50  0001 C CNN
+F 3 "" H 5050 7350 50  0001 C CNN
+	1    5050 7350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4450 6650 4000 6650
+Text Label 4000 6650 0    50   ~ 0
+MOSI
+Wire Wire Line
+	4450 6750 4000 6750
+Text Label 4000 6750 0    50   ~ 0
+SCLK
+Wire Wire Line
+	4450 6850 4000 6850
+Text Label 4000 6850 0    50   ~ 0
+FL_CS0
+Wire Wire Line
+	5650 6650 6150 6650
+Text Label 5950 6650 0    50   ~ 0
+MISO
+Wire Wire Line
+	3200 5350 3200 6950
+Wire Wire Line
+	3200 6950 4450 6950
+Connection ~ 3200 5350
+Wire Wire Line
+	3550 5250 3550 7050
+Wire Wire Line
+	3550 7050 4450 7050
+Connection ~ 3550 5250
+Wire Wire Line
+	3750 4900 4450 4900
+$Comp
+L raspberry-spi-flash-rescue:MAX3232-interface U3
+U 1 1 5C38494C
+P 6050 2100
+F 0 "U3" H 6300 3350 50  0000 C CNN
+F 1 "MAX3232" H 6300 3250 50  0000 C CNN
+F 2 "Package_SO:TSSOP-16_4.4x5mm_P0.65mm" H 6100 1050 50  0001 L CNN
+F 3 "https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf" H 6050 2200 50  0001 C CNN
+F 4 "Texas Instruments" H 6050 2100 50  0001 C CNN "MFR"
+F 5 "MAX3232ECPWR" H 6050 2100 50  0001 C CNN "MPN"
+F 6 "Digikey" H 6050 2100 50  0001 C CNN "SPR"
+F 7 "296-19263-1-ND" H 6050 2100 50  0001 C CNN "SPN"
+F 8 "https://www.digikey.com/product-detail/en/texas-instruments/MAX3232ECPWR/296-19263-1-ND/878189" H 6050 2100 50  0001 C CNN "SPURL"
+	1    6050 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0101
+U 1 1 5C384A14
+P 6050 900
+F 0 "#PWR0101" H 6050 750 50  0001 C CNN
+F 1 "+5V" H 6050 1040 50  0000 C CNN
+F 2 "" H 6050 900 50  0000 C CNN
+F 3 "" H 6050 900 50  0000 C CNN
+	1    6050 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L raspberry-spi-flash-rescue:C-device C4
+U 1 1 5C384B1F
+P 5100 1350
+F 0 "C4" H 5215 1396 50  0000 L CNN
+F 1 "0.1uF" H 5215 1305 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5138 1200 50  0001 C CNN
+F 3 "" H 5100 1350 50  0001 C CNN
+	1    5100 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L raspberry-spi-flash-rescue:C-device C5
+U 1 1 5C384BB1
+P 7050 1350
+F 0 "C5" H 7165 1396 50  0000 L CNN
+F 1 "0.1uF" H 7165 1305 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7088 1200 50  0001 C CNN
+F 3 "" H 7050 1350 50  0001 C CNN
+	1    7050 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L raspberry-spi-flash-rescue:C-device C3
+U 1 1 5C384E07
+P 4500 950
+F 0 "C3" H 4615 996 50  0000 L CNN
+F 1 "0.1uF" H 4615 905 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4538 800 50  0001 C CNN
+F 3 "" H 4500 950 50  0001 C CNN
+	1    4500 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0102
+U 1 1 5C384EC1
+P 4500 800
+F 0 "#PWR0102" H 4500 650 50  0001 C CNN
+F 1 "+5V" H 4500 940 50  0000 C CNN
+F 2 "" H 4500 800 50  0000 C CNN
+F 3 "" H 4500 800 50  0000 C CNN
+	1    4500 800 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 1500 5250 1500
+Wire Wire Line
+	5250 1200 5100 1200
+Wire Wire Line
+	6850 1200 7050 1200
+Wire Wire Line
+	7050 1500 6850 1500
+$Comp
+L raspberry-spi-flash-rescue:C-device C6
+U 1 1 5C388CDA
+P 7800 1850
+F 0 "C6" H 7915 1896 50  0000 L CNN
+F 1 "0.1uF" H 7915 1805 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7838 1700 50  0001 C CNN
+F 3 "" H 7800 1850 50  0001 C CNN
+	1    7800 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L raspberry-spi-flash-rescue:C-device C7
+U 1 1 5C388D76
+P 7300 2150
+F 0 "C7" H 7415 2196 50  0000 L CNN
+F 1 "0.1uF" H 7415 2105 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7338 2000 50  0001 C CNN
+F 3 "" H 7300 2150 50  0001 C CNN
+	1    7300 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 5C388DD1
+P 4500 1100
+F 0 "#PWR0103" H 4500 850 50  0001 C CNN
+F 1 "GND" H 4500 950 50  0000 C CNN
+F 2 "" H 4500 1100 50  0000 C CNN
+F 3 "" H 4500 1100 50  0000 C CNN
+	1    4500 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 5C388E27
+P 7800 2000
+F 0 "#PWR0104" H 7800 1750 50  0001 C CNN
+F 1 "GND" H 7800 1850 50  0000 C CNN
+F 2 "" H 7800 2000 50  0000 C CNN
+F 3 "" H 7800 2000 50  0000 C CNN
+	1    7800 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 5C388E5F
+P 7300 2300
+F 0 "#PWR0105" H 7300 2050 50  0001 C CNN
+F 1 "GND" H 7300 2150 50  0000 C CNN
+F 2 "" H 7300 2300 50  0000 C CNN
+F 3 "" H 7300 2300 50  0000 C CNN
+	1    7300 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7800 1700 6850 1700
+Wire Wire Line
+	7300 2000 6850 2000
+Wire Wire Line
+	4800 1500 4800 2200
+Wire Wire Line
+	4800 2200 5250 2200
+Wire Wire Line
+	2700 1500 4800 1500
+Wire Wire Line
+	5250 2600 4600 2600
+Wire Wire Line
+	4600 2600 4600 1600
+Wire Wire Line
+	2700 1600 4600 1600
+$Comp
+L power:GND #PWR0106
+U 1 1 5C38E781
+P 7000 2950
+F 0 "#PWR0106" H 7000 2700 50  0001 C CNN
+F 1 "GND" H 7000 2800 50  0000 C CNN
+F 2 "" H 7000 2950 50  0000 C CNN
+F 3 "" H 7000 2950 50  0000 C CNN
+	1    7000 2950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7000 2950 7000 2800
+Wire Wire Line
+	7000 2800 6850 2800
+$Comp
+L power:GND #PWR0107
+U 1 1 5C38FB75
+P 5000 2750
+F 0 "#PWR0107" H 5000 2500 50  0001 C CNN
+F 1 "GND" H 5000 2600 50  0000 C CNN
+F 2 "" H 5000 2750 50  0000 C CNN
+F 3 "" H 5000 2750 50  0000 C CNN
+	1    5000 2750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 2750 5000 2400
+Wire Wire Line
+	5000 2400 5250 2400
+$Comp
+L power:GND #PWR0108
+U 1 1 5C391026
+P 6050 3300
+F 0 "#PWR0108" H 6050 3050 50  0001 C CNN
+F 1 "GND" H 6050 3150 50  0000 C CNN
+F 2 "" H 6050 3300 50  0000 C CNN
+F 3 "" H 6050 3300 50  0000 C CNN
+	1    6050 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:RJ45 J1
+U 1 1 5C3910D1
+P 8400 2700
+F 0 "J1" H 8070 2704 50  0000 R CNN
+F 1 "RJ45" H 8070 2795 50  0000 R CNN
+F 2 "Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal" V 8400 2725 50  0001 C CNN
+F 3 "~" V 8400 2725 50  0001 C CNN
+F 4 "Amphenol" H 8400 2700 50  0001 C CNN "MFR"
+F 5 "54602-908LF" H 8400 2700 50  0001 C CNN "MPN"
+F 6 "Digikey" H 8400 2700 50  0001 C CNN "SPR"
+F 7 "609-1046-ND" H 8400 2700 50  0001 C CNN "SPN"
+F 8 "https://www.digikey.com/product-detail/en/54602-908LF/609-1046-ND/1001360/?itemSeq=281649288" H 8400 2700 50  0001 C CNN "SPURL"
+	1    8400 2700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6850 2200 7000 2200
+Wire Wire Line
+	7000 2200 7000 2600
+Wire Wire Line
+	7000 2600 8000 2600
+Wire Wire Line
+	8000 2900 7350 2900
+Wire Wire Line
+	7350 2900 7350 2700
+Wire Wire Line
+	7350 2700 6850 2700
+Wire Wire Line
+	6850 2700 6850 2600
+$Comp
+L power:GND #PWR0109
+U 1 1 5C393EFE
+P 7800 3100
+F 0 "#PWR0109" H 7800 2850 50  0001 C CNN
+F 1 "GND" H 7800 2950 50  0000 C CNN
+F 2 "" H 7800 3100 50  0000 C CNN
+F 3 "" H 7800 3100 50  0000 C CNN
+	1    7800 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8000 2700 7800 2700
+Wire Wire Line
+	7800 2700 7800 3100
+$Comp
+L Logic_LevelTranslator:TXB0104D U4
+U 1 1 5C399695
+P 2100 4300
+F 0 "U4" H 1850 3650 50  0000 C CNN
+F 1 "TXB0104D" H 2350 3650 50  0000 C CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 2100 3550 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/txb0104.pdf" H 2210 4395 50  0001 C CNN
+	1    2100 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR04
+U 1 1 5C39B805
+P 2000 3100
+F 0 "#PWR04" H 2000 2950 50  0001 C CNN
+F 1 "+3.3V" H 2015 3273 50  0000 C CNN
+F 2 "" H 2000 3100 50  0001 C CNN
+F 3 "" H 2000 3100 50  0001 C CNN
+	1    2000 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPDT SW2
+U 1 1 5C39BB66
+P 7950 5600
+F 0 "SW2" H 7950 5885 50  0000 C CNN
+F 1 "SW_SPDT" H 7950 5794 50  0000 C CNN
+F 2 "Aaron:SW_STDP_CF-LD-1DC" H 7950 5600 50  0001 C CNN
+F 3 "https://www.nidec-copal-electronics.com/e/catalog/switch/cf-ld.pdf" H 7950 5600 50  0001 C CNN
+F 4 "Nidec Copal Electronics" H 7950 5600 50  0001 C CNN "MFR"
+F 5 "CF-LD-1DC-AW2W" H 7950 5600 50  0001 C CNN "MPN"
+F 6 "Digikey" H 7950 5600 50  0001 C CNN "SPR"
+F 7 "563-1944-ND" H 7950 5600 50  0001 C CNN "SPN"
+F 8 "https://www.digikey.com/product-detail/en/CF-LD-1DC-AW2W/563-1944-ND/6008983/?itemSeq=281649168" H 7950 5600 50  0001 C CNN "SPURL"
+	1    7950 5600
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1700 3800 1400 3800
+Wire Wire Line
+	5650 4150 5650 4600
+$Comp
+L raspberry-spi-flash-rescue:R-device R5
+U 1 1 5C39D838
+P 1400 3650
+F 0 "R5" H 1470 3696 50  0000 L CNN
+F 1 "4.75K" H 1470 3605 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 1330 3650 50  0001 C CNN
+F 3 "" H 1400 3650 50  0001 C CNN
+	1    1400 3650
+	1    0    0    -1  
+$EndComp
+Connection ~ 1400 3800
+$Comp
+L power:GND #PWR010
+U 1 1 5C3A0EF6
+P 600 4050
+F 0 "#PWR010" H 600 3800 50  0001 C CNN
+F 1 "GND" H 600 3900 50  0000 C CNN
+F 2 "" H 600 4050 50  0000 C CNN
+F 3 "" H 600 4050 50  0000 C CNN
+	1    600  4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	600  4050 600  3900
+$Comp
+L power:+5V #PWR016
+U 1 1 5C3A34E7
+P 7000 3750
+F 0 "#PWR016" H 7000 3600 50  0001 C CNN
+F 1 "+5V" H 7000 3890 50  0000 C CNN
+F 2 "" H 7000 3750 50  0000 C CNN
+F 3 "" H 7000 3750 50  0000 C CNN
+	1    7000 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+1V8 #PWR023
+U 1 1 5C3A8DC0
+P 7600 5400
+F 0 "#PWR023" H 7600 5250 50  0001 C CNN
+F 1 "+1V8" H 7615 5573 50  0000 C CNN
+F 2 "" H 7600 5400 50  0001 C CNN
+F 3 "" H 7600 5400 50  0001 C CNN
+	1    7600 5400
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	7600 5400 7600 5500
+Wire Wire Line
+	7300 5700 7300 5400
+$Comp
+L power:VPP #PWR05
+U 1 1 5C3AEFC9
+P 2200 3100
+F 0 "#PWR05" H 2200 2950 50  0001 C CNN
+F 1 "VPP" H 2215 3273 50  0000 C CNN
+F 2 "" H 2200 3100 50  0001 C CNN
+F 3 "" H 2200 3100 50  0001 C CNN
+	1    2200 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VPP #PWR014
+U 1 1 5C3B58C1
+P 3750 4450
+F 0 "#PWR014" H 3750 4300 50  0001 C CNN
+F 1 "VPP" H 3765 4623 50  0000 C CNN
+F 2 "" H 3750 4450 50  0001 C CNN
+F 3 "" H 3750 4450 50  0001 C CNN
+	1    3750 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VPP #PWR017
+U 1 1 5C3B58F6
+P 3200 4850
+F 0 "#PWR017" H 3200 4700 50  0001 C CNN
+F 1 "VPP" H 3215 5023 50  0000 C CNN
+F 2 "" H 3200 4850 50  0001 C CNN
+F 3 "" H 3200 4850 50  0001 C CNN
+	1    3200 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VPP #PWR013
+U 1 1 5C3B5941
+P 5650 4100
+F 0 "#PWR013" H 5650 3950 50  0001 C CNN
+F 1 "VPP" H 5665 4273 50  0000 C CNN
+F 2 "" H 5650 4100 50  0001 C CNN
+F 3 "" H 5650 4100 50  0001 C CNN
+	1    5650 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VPP #PWR018
+U 1 1 5C3B59A1
+P 6300 4850
+F 0 "#PWR018" H 6300 4700 50  0001 C CNN
+F 1 "VPP" H 6315 5023 50  0000 C CNN
+F 2 "" H 6300 4850 50  0001 C CNN
+F 3 "" H 6300 4850 50  0001 C CNN
+	1    6300 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VPP #PWR022
+U 1 1 5C3B5A55
+P 5050 5850
+F 0 "#PWR022" H 5050 5700 50  0001 C CNN
+F 1 "VPP" H 5065 6023 50  0000 C CNN
+F 2 "" H 5050 5850 50  0001 C CNN
+F 3 "" H 5050 5850 50  0001 C CNN
+	1    5050 5850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 4000 1700 4000
+Wire Wire Line
+	1300 4200 1700 4200
+Wire Wire Line
+	1300 4400 1700 4400
+Wire Wire Line
+	1300 4600 1700 4600
+Text Label 1300 4200 0    50   ~ 0
+R_FL_CS0
+Text Label 1300 4000 0    50   ~ 0
+R_SCLK
+Text Label 1300 4600 0    50   ~ 0
+R_MISO
+Text Label 1300 4400 0    50   ~ 0
+R_MOSI
+Wire Wire Line
+	2500 4000 3000 4000
+Wire Wire Line
+	2500 4200 3000 4200
+Wire Wire Line
+	2500 4400 3000 4400
+Wire Wire Line
+	2500 4600 3000 4600
+Text Label 2650 4200 0    50   ~ 0
+FL_CS0
+Text Label 2650 4000 0    50   ~ 0
+SCLK
+Text Label 2650 4600 0    50   ~ 0
+MISO
+Text Label 2650 4400 0    50   ~ 0
+MOSI
+$Comp
+L power:GND #PWR015
+U 1 1 5C3C8A4B
+P 2100 5000
+F 0 "#PWR015" H 2100 4750 50  0001 C CNN
+F 1 "GND" H 2200 4900 50  0000 C CNN
+F 2 "" H 2100 5000 50  0001 C CNN
+F 3 "" H 2100 5000 50  0001 C CNN
+	1    2100 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L raspberry-spi-flash-rescue:C-device C9
+U 1 1 5C3C8A80
+P 2500 3350
+F 0 "C9" H 2615 3396 50  0000 L CNN
+F 1 "0.1uF" H 2615 3305 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2538 3200 50  0001 C CNN
+F 3 "" H 2500 3350 50  0001 C CNN
+	1    2500 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L raspberry-spi-flash-rescue:C-device C8
+U 1 1 5C3C8B4E
+P 1650 3350
+F 0 "C8" H 1765 3396 50  0000 L CNN
+F 1 "0.1uF" H 1765 3305 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1688 3200 50  0001 C CNN
+F 3 "" H 1650 3350 50  0001 C CNN
+	1    1650 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR08
+U 1 1 5C3C8D35
+P 2500 3500
+F 0 "#PWR08" H 2500 3250 50  0001 C CNN
+F 1 "GND" H 2600 3400 50  0000 C CNN
+F 2 "" H 2500 3500 50  0001 C CNN
+F 3 "" H 2500 3500 50  0001 C CNN
+	1    2500 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR07
+U 1 1 5C3C8D6E
+P 1650 3500
+F 0 "#PWR07" H 1650 3250 50  0001 C CNN
+F 1 "GND" H 1750 3400 50  0000 C CNN
+F 2 "" H 1650 3500 50  0001 C CNN
+F 3 "" H 1650 3500 50  0001 C CNN
+	1    1650 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1650 3200 2000 3200
+Wire Wire Line
+	2000 3200 2000 3100
+Wire Wire Line
+	2000 3200 2000 3600
+Connection ~ 2000 3200
+Wire Wire Line
+	2200 3100 2200 3200
+Wire Wire Line
+	2500 3200 2200 3200
+Connection ~ 2200 3200
+Wire Wire Line
+	2200 3200 2200 3600
+Wire Wire Line
+	1650 3200 1400 3200
+Wire Wire Line
+	1400 3200 1400 3500
+Connection ~ 1650 3200
+$Comp
+L power:VPP #PWR025
+U 1 1 5C3D6E26
+P 8400 5550
+F 0 "#PWR025" H 8400 5400 50  0001 C CNN
+F 1 "VPP" H 8415 5723 50  0000 C CNN
+F 2 "" H 8400 5550 50  0001 C CNN
+F 3 "" H 8400 5550 50  0001 C CNN
+	1    8400 5550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8400 5550 8400 5600
+Wire Wire Line
+	8400 5600 8150 5600
+$Comp
+L raspberry-spi-flash-rescue:C-device C10
+U 1 1 5C3DA253
+P 9100 4350
+F 0 "C10" H 9215 4396 50  0000 L CNN
+F 1 "4.7uF" H 9215 4305 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 9138 4200 50  0001 C CNN
+F 3 "" H 9100 4350 50  0001 C CNN
+	1    9100 4350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7750 5500 7600 5500
+Wire Wire Line
+	7750 5700 7300 5700
+$Comp
+L Switch:SW_SPDT SW1
+U 1 1 5C3A1938
+P 800 3800
+F 0 "SW1" H 800 4085 50  0000 C CNN
+F 1 "SW_SPDT" H 800 3994 50  0000 C CNN
+F 2 "Aaron:SW_STDP_CF-LD-1DC" H 800 3800 50  0001 C CNN
+F 3 "https://www.nidec-copal-electronics.com/e/catalog/switch/cf-ld.pdf" H 800 3800 50  0001 C CNN
+F 4 "Nidec Copal Electronics" H 800 3800 50  0001 C CNN "MFR"
+F 5 "CF-LD-1DC-AW2W" H 800 3800 50  0001 C CNN "MPN"
+F 6 "Digikey" H 800 3800 50  0001 C CNN "SPR"
+F 7 "563-1944-ND" H 800 3800 50  0001 C CNN "SPN"
+F 8 "https://www.digikey.com/product-detail/en/CF-LD-1DC-AW2W/563-1944-ND/6008983/?itemSeq=281649168" H 800 3800 50  0001 C CNN "SPURL"
+	1    800  3800
+	-1   0    0    -1  
+$EndComp
+NoConn ~ 600  3700
+Text Label 1550 3800 0    50   ~ 0
+OE
+$Comp
+L Device:LED D1
+U 1 1 5C3B26F7
+P 1900 5650
+F 0 "D1" V 1938 5533 50  0000 R CNN
+F 1 "LED" V 1847 5533 50  0000 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric" H 1900 5650 50  0001 C CNN
+F 3 "~" H 1900 5650 50  0001 C CNN
+	1    1900 5650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1000 3800 1400 3800
+$Comp
+L Device:R R6
+U 1 1 5C3B5ADE
+P 1900 5950
+F 0 "R6" H 1970 5996 50  0000 L CNN
+F 1 "560" H 1970 5905 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 1830 5950 50  0001 C CNN
+F 3 "~" H 1900 5950 50  0001 C CNN
+	1    1900 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR028
+U 1 1 5C3B5C24
+P 1900 6500
+F 0 "#PWR028" H 1900 6250 50  0001 C CNN
+F 1 "GND" H 1900 6350 50  0000 C CNN
+F 2 "" H 1900 6500 50  0000 C CNN
+F 3 "" H 1900 6500 50  0000 C CNN
+	1    1900 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L raspberry-spi-flash-rescue:C-device C12
+U 1 1 5C3BC927
+P 8600 4450
+F 0 "C12" H 8715 4496 50  0000 L CNN
+F 1 "4.7uF" H 8715 4405 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 8638 4300 50  0001 C CNN
+F 3 "" H 8600 4450 50  0001 C CNN
+F 4 "Murata" H 8600 4450 50  0001 C CNN "MFR"
+F 5 "GRM188R61E475KE15D" H 8600 4450 50  0001 C CNN "MPN"
+F 6 "Digikey" H 8600 4450 50  0001 C CNN "SPR"
+F 7 "490-14462-1-ND" H 8600 4450 50  0001 C CNN "SPN"
+F 8 "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM188R61E475KE15D/490-14462-1-ND/6606923" H 8600 4450 50  0001 C CNN "SPURL"
+	1    8600 4450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 1200 2200 1200
+Wire Wire Line
+	2100 1050 2100 1200
+$Comp
+L power:+3.3VP #PWR031
+U 1 1 5C3C6D0E
+P 7300 5400
+F 0 "#PWR031" H 7450 5350 50  0001 C CNN
+F 1 "+3.3VP" H 7320 5543 50  0000 C CNN
+F 2 "" H 7300 5400 50  0001 C CNN
+F 3 "" H 7300 5400 50  0001 C CNN
+	1    7300 5400
+	1    0    0    -1  
+$EndComp
+Text Label 6400 4300 0    50   ~ 0
+OE
+$Comp
+L Regulator_Linear:MIC5355-SGYMME U5
+U 1 1 5C3ECA8D
+P 8000 4200
+F 0 "U5" H 8000 4578 50  0000 C CNN
+F 1 "MIC5355-SGYMME" H 8000 4487 50  0000 C CNN
+F 2 "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP2.54x2.8mm_ThermalVias" H 9400 3950 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/mic5355_6.pdf" H 8000 4550 50  0001 C CNN
+F 4 "Microchip" H 8000 4200 50  0001 C CNN "MFR"
+F 5 "MIC5355-SGYMME" H 8000 4200 50  0001 C CNN "MPN"
+F 6 "Digikey" H 8000 4200 50  0001 C CNN "SPR"
+F 7 "576-3882-5-ND" H 8000 4200 50  0001 C CNN "SPN"
+F 8 "https://www.digikey.com/products/en/integrated-circuits-ics/pmic-voltage-regulators-linear/699?k=MIC5355&k=&pkeyword=MIC5355&sv=0&pv1779=322&sf=0&quantity=&ColumnSort=0&page=1&stock=1&nstock=1&pageSize=500" H 8000 4200 50  0001 C CNN "SPURL"
+	1    8000 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7600 4100 7400 4100
+$Comp
+L power:GND #PWR021
+U 1 1 5C3F6FEA
+P 8600 4700
+F 0 "#PWR021" H 8600 4450 50  0001 C CNN
+F 1 "GND" H 8600 4550 50  0000 C CNN
+F 2 "" H 8600 4700 50  0000 C CNN
+F 3 "" H 8600 4700 50  0000 C CNN
+	1    8600 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8600 4700 8600 4600
+Wire Wire Line
+	8600 4600 8000 4600
+Wire Wire Line
+	8000 4600 8000 4500
+Connection ~ 8600 4600
+Wire Wire Line
+	8600 4600 9100 4600
+Wire Wire Line
+	9100 4600 9100 4500
+Wire Wire Line
+	8600 4300 8400 4300
+Wire Wire Line
+	8400 4200 9100 4200
+$Comp
+L power:+3.3VP #PWR020
+U 1 1 5C40D740
+P 9100 4200
+F 0 "#PWR020" H 9250 4150 50  0001 C CNN
+F 1 "+3.3VP" H 9120 4343 50  0000 C CNN
+F 2 "" H 9100 4200 50  0001 C CNN
+F 3 "" H 9100 4200 50  0001 C CNN
+	1    9100 4200
+	1    0    0    -1  
+$EndComp
+Connection ~ 9100 4200
+$Comp
+L power:+1V8 #PWR019
+U 1 1 5C40D783
+P 8600 4100
+F 0 "#PWR019" H 8600 3950 50  0001 C CNN
+F 1 "+1V8" H 8615 4273 50  0000 C CNN
+F 2 "" H 8600 4100 50  0001 C CNN
+F 3 "" H 8600 4100 50  0001 C CNN
+	1    8600 4100
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	8600 4100 8600 4300
+Connection ~ 8600 4300
+Wire Wire Line
+	6400 4300 7200 4300
+Wire Wire Line
+	7600 4200 7200 4200
+Wire Wire Line
+	7200 4200 7200 4300
+Connection ~ 7200 4300
+Wire Wire Line
+	7200 4300 7600 4300
+$Comp
+L raspberry-spi-flash-rescue:R-device R7
+U 1 1 5C41B9C2
+P 8400 5750
+F 0 "R7" H 8470 5796 50  0000 L CNN
+F 1 "4.75K" H 8470 5705 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8330 5750 50  0001 C CNN
+F 3 "" H 8400 5750 50  0001 C CNN
+	1    8400 5750
+	1    0    0    -1  
+$EndComp
+Connection ~ 8400 5600
+$Comp
+L power:GND #PWR024
+U 1 1 5C41BA7A
+P 8400 5900
+F 0 "#PWR024" H 8400 5650 50  0001 C CNN
+F 1 "GND" H 8400 5750 50  0000 C CNN
+F 2 "" H 8400 5900 50  0000 C CNN
+F 3 "" H 8400 5900 50  0000 C CNN
+	1    8400 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L raspberry-spi-flash-rescue:C-device C11
+U 1 1 5C41C5D1
+P 7000 3900
+F 0 "C11" H 7115 3946 50  0000 L CNN
+F 1 "4.7uF" H 7115 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7038 3750 50  0001 C CNN
+F 3 "" H 7000 3900 50  0001 C CNN
+	1    7000 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR026
+U 1 1 5C41C6D4
+P 7000 4050
+F 0 "#PWR026" H 7000 3800 50  0001 C CNN
+F 1 "GND" H 7000 3900 50  0000 C CNN
+F 2 "" H 7000 4050 50  0000 C CNN
+F 3 "" H 7000 4050 50  0000 C CNN
+	1    7000 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7000 3750 7400 3750
+Wire Wire Line
+	7400 3750 7400 4100
+Connection ~ 7000 3750
+Wire Wire Line
+	1900 5500 1900 5300
+Text Label 1300 6300 0    50   ~ 0
+OE
+$Comp
+L Transistor_FET:BSS138 Q1
+U 1 1 5C4281F7
+P 1800 6300
+F 0 "Q1" H 2005 6346 50  0000 L CNN
+F 1 "BSS138" H 2005 6255 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 2000 6225 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf" H 1800 6300 50  0001 L CNN
+F 4 "ON Semiconductor" H 1800 6300 50  0001 C CNN "MFR"
+F 5 "BSS138K" H 1800 6300 50  0001 C CNN "MPN"
+F 6 "Digikey" H 1800 6300 50  0001 C CNN "SPR"
+F 7 "BSS138KCT-ND" H 1800 6300 50  0001 C CNN "SPN"
+F 8 "https://www.digikey.com/products/en/discrete-semiconductor-products/transistors-fets-mosfets-single/278?k=bss138&k=&pkeyword=bss138&sv=0&pv1993=28&sf=0&FV=ffe00116%2C1c0002%2C1f140000&quantity=&ColumnSort=0&page=1&stock=1&nstock=1&pageSize=500" H 1800 6300 50  0001 C CNN "SPURL"
+	1    1800 6300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1600 6300 1300 6300
+$Comp
+L power:+5V #PWR0110
+U 1 1 5C42C426
+P 1900 5300
+F 0 "#PWR0110" H 1900 5150 50  0001 C CNN
+F 1 "+5V" H 1900 5440 50  0000 C CNN
+F 2 "" H 1900 5300 50  0000 C CNN
+F 3 "" H 1900 5300 50  0000 C CNN
+	1    1900 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L raspberry-spi-flash-rescue:MX25L25735-Aaron U1
+U 1 1 5C374E5C
+P 5050 5000
+F 0 "U1" H 5050 5715 50  0000 C CNN
+F 1 "MX25L25735" H 5050 5624 50  0000 C CNN
+F 2 "Aaron:216-7224-55-1902" H 5050 5000 50  0001 C CNN
+F 3 "http://www.macronix.com/Lists/Datasheet/Attachments/7348/MX25L25735F,%203V,%20256Mb,%20v1.2.pdf" H 5050 5000 50  0001 C CNN
+F 4 "3M" H 5050 5000 50  0001 C CNN "MFR"
+F 5 "216-7383-55-1902" H 5050 5000 50  0001 C CNN "MPN"
+F 6 "Digikey" H 5050 5000 50  0001 C CNN "SPR"
+F 7 "3M5078-ND" H 5050 5000 50  0001 C CNN "SPN"
+F 8 "https://www.digikey.com/product-detail/en/216-7383-55-1902/3M5078-ND/699540/?itemSeq=281650649" H 5050 5000 50  0001 C CNN "SPURL"
+	1    5050 5000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	850  1900 2200 1900
+Text Label 850  1900 0    50   ~ 0
+OE
+Wire Wire Line
+	2800 1200 2800 1300
+Wire Wire Line
+	2800 1300 2700 1300
+Connection ~ 2800 1200
+$Comp
+L power:GND #PWR027
+U 1 1 5C44F604
+P 2150 2500
+F 0 "#PWR027" H 2150 2250 50  0001 C CNN
+F 1 "GND" H 2150 2350 50  0000 C CNN
+F 2 "" H 2150 2500 50  0000 C CNN
+F 3 "" H 2150 2500 50  0000 C CNN
+	1    2150 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2200 1600 2150 1600
+Wire Wire Line
+	2150 1600 2150 2400
+Wire Wire Line
+	2200 2000 2100 2000
+Wire Wire Line
+	2100 2000 2100 1200
+Connection ~ 2100 1200
+Wire Wire Line
+	2200 2400 2150 2400
+Connection ~ 2150 2400
+Wire Wire Line
+	2150 2400 2150 2500
+Wire Wire Line
+	2700 2100 2800 2100
+Connection ~ 2800 2100
+Wire Wire Line
+	2800 2100 2800 1800
+Wire Wire Line
+	2700 1800 2800 1800
+Connection ~ 2800 1800
+Wire Wire Line
+	2800 1800 2800 1400
+$Comp
+L fiducial:FIDUCIAL_1MM FID1
+U 1 1 5C4828E8
+P 9050 850
+F 0 "FID1" H 9153 956 60  0000 L CNN
+F 1 "FIDUCIAL_1MM" H 9153 850 60  0000 L CNN
+F 2 "Fiducial:Fiducial_Modern_CopperTop" H 9153 744 60  0000 L CNN
+F 3 "" H 9050 850 60  0000 C CNN
+	1    9050 850 
+	1    0    0    -1  
+$EndComp
+$Comp
+L fiducial:FIDUCIAL_1MM FID2
+U 1 1 5C482A56
+P 9050 1200
+F 0 "FID2" H 9153 1306 60  0000 L CNN
+F 1 "FIDUCIAL_1MM" H 9153 1200 60  0000 L CNN
+F 2 "Fiducial:Fiducial_Modern_CopperTop" H 9153 1094 60  0000 L CNN
+F 3 "" H 9050 1200 60  0000 C CNN
+	1    9050 1200
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

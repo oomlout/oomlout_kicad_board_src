@@ -1,0 +1,1086 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:Lattice_iCE_FPGA
+LIBS:xess
+LIBS:xilinx6s
+LIBS:xilinx6v
+LIBS:xilinxultra
+LIBS:HydroPWNics_Lib
+LIBS:OnHand-Components-Sym
+LIBS:ZyncMV-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 8 10
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L TPS659118A2ZRCT U?
+U 2 1 5878E32D
+P 5325 3975
+F 0 "U?" H 4600 5375 60  0000 C CNN
+F 1 "TPS659118A2ZRCT" H 4925 2475 60  0000 C CNN
+F 2 "PCB_Footprints:TPS659118A2ZRCT" H 5950 8750 60  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tps65911.pdf" H 6150 8875 60  0001 C CNN
+F 4 "9.51000" H 4375 7025 60  0001 C CNN "Cost"
+F 5 "12 Jan 2017" H 4475 7125 60  0001 C CNN "Date Created"
+F 6 "12 Jan 2017" H 4575 7225 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 4675 7325 60  0001 C CNN "Designer"
+F 8 "0.77mm" H 4775 7425 60  0001 C CNN "Height"
+F 9 "Yes" H 4875 7525 60  0001 C CNN "RhoS?"
+F 10 "Texas Instruments" H 4975 7625 60  0001 C CNN "MFR"
+F 11 "TPS659118A2ZRCT" H 5075 7725 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 5175 7825 60  0001 C CNN "Mounting"
+F 13 "98" H 5275 7925 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 5375 8025 60  0001 C CNN "Status"
+F 15 "N/A" H 5475 8125 60  0001 C CNN "Tolerance"
+F 16 "IC PMIC DC/DC LDO 98BGA" H 5575 8225 60  0001 C CNN "Type"
+F 17 "2.7-5.5V" H 5675 8325 60  0001 C CNN "Voltage"
+F 18 "N/A" H 5775 8425 60  0001 C CNN "Wattage"
+F 19 "N/A" H 5875 8525 60  0001 C CNN "Component-Value"
+F 20 "Portable Equipment PMIC 98-BGA Microstar JR" H 5975 8625 60  0001 C CNN "Description"
+	2    5325 3975
+	1    0    0    -1  
+$EndComp
+$Comp
+L ABS06-32.768KHZ-1-T X?
+U 1 1 58886393
+P 3650 2100
+F 0 "X?" H 3625 2437 60  0000 C CNN
+F 1 "ABS06-32.768KHZ-1-T" H 3625 2331 60  0000 C CNN
+F 2 "PCB_Footprints:ABS06-32.768KHZ-1-T" H 5400 4150 60  0001 C CNN
+F 3 "http://www.abracon.com/Resonators/ABS06.pdf" H 5950 3900 60  0001 C CNN
+F 4 "0.40600 @ 3000" H 3650 2400 60  0001 C CNN "Cost"
+F 5 "21 Jan 2017" H 3750 2500 60  0001 C CNN "Date Created "
+F 6 "21 Jan 2017" H 3850 2600 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 3950 2700 60  0001 C CNN "Designer "
+F 8 "2.5mm" H 4050 2800 60  0001 C CNN "Height"
+F 9 "Yes" H 4150 2900 60  0001 C CNN "RHoS?"
+F 10 "Abracon LLC" H 4350 3100 60  0001 C CNN "MFR"
+F 11 "ABS06-32.768KHZ-1-T" H 4450 3200 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 4550 3300 60  0001 C CNN "Mounting"
+F 13 "2" H 4650 3400 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 4750 3500 60  0001 C CNN "Status"
+F 15 "±10ppm" H 4850 3600 60  0001 C CNN "Tolerance"
+F 16 "CRYSTAL 32.7680KHZ 12.5PF SMD" H 4950 3700 60  0001 C CNN "Type"
+F 17 "N/A" H 5050 3800 60  0001 C CNN "Voltage"
+F 18 "N/A" H 5150 3900 60  0001 C CNN "Wattage"
+F 19 "32.768kHz ±10ppm Crystal 12.5pF 90 kOhm -40°C ~ 85°C Surface Mount 2-SMD, No Lead" H 5250 4000 60  0001 C CNN "Description"
+F 20 "32.768KHZ" H 5250 4000 60  0001 C CNN "Component-Value"
+	1    3650 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L CL10C120FB8NNNC C?
+U 1 1 588890D2
+P 4300 2100
+F 0 "C?" H 4325 2387 60  0000 C CNN
+F 1 "CL10C120FB8NNNC" H 4325 2387 60  0001 C CNN
+F 2 "PCB_Footprints:C0603" H 3550 2150 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10C120FB8NNNC_spec.pdf" H 3650 2250 60  0001 C CNN
+F 4 "0.01529 @ 1000" H 3750 2350 60  0001 C CNN "Cost"
+F 5 "21 Jan 2017" H 3850 2450 60  0001 C CNN "Date Created"
+F 6 "21 Jan 2017" H 3950 2550 60  0001 C CNN "Date Modifed"
+F 7 "Adam Vadala-Roth" H 4050 2650 60  0001 C CNN "Designer"
+F 8 "0.90mm" H 4150 2750 60  0001 C CNN "Height"
+F 9 "Yes" H 4250 2850 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 4350 2950 60  0001 C CNN "MFR"
+F 11 "CL10A226KQ8NRNE" H 4450 3050 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 4550 3150 60  0001 C CNN "Mounting"
+F 13 "2" H 4650 3250 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 4750 3350 60  0001 C CNN "Status"
+F 15 "1%" H 4850 3450 60  0001 C CNN "Tolerance"
+F 16 "CAP CER 12PF 50V NP0 0603" H 4950 3550 60  0001 C CNN "Type"
+F 17 "50V" H 5050 3650 60  0001 C CNN "Voltage"
+F 18 "N/A" H 5600 3650 60  0001 C CNN "Wattage"
+F 19 "12pF" H 4325 2281 60  0000 C CNN "Componen-Value"
+F 20 "12pF ±1% 50V Ceramic Capacitor C0G, NP0 0603 (1608 Metric)" H 5800 3850 60  0001 C CNN "Description"
+	1    4300 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L CL10C120FB8NNNC C?
+U 1 1 58889460
+P 2950 2100
+F 0 "C?" H 2975 1813 60  0000 C CNN
+F 1 "CL10C120FB8NNNC" H 2975 2387 60  0001 C CNN
+F 2 "PCB_Footprints:C0603" H 2200 2150 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10C120FB8NNNC_spec.pdf" H 2300 2250 60  0001 C CNN
+F 4 "0.01529 @ 1000" H 2400 2350 60  0001 C CNN "Cost"
+F 5 "21 Jan 2017" H 2500 2450 60  0001 C CNN "Date Created"
+F 6 "21 Jan 2017" H 2600 2550 60  0001 C CNN "Date Modifed"
+F 7 "Adam Vadala-Roth" H 2700 2650 60  0001 C CNN "Designer"
+F 8 "0.90mm" H 2800 2750 60  0001 C CNN "Height"
+F 9 "Yes" H 2900 2850 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 3000 2950 60  0001 C CNN "MFR"
+F 11 "CL10A226KQ8NRNE" H 3100 3050 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 3200 3150 60  0001 C CNN "Mounting"
+F 13 "2" H 3300 3250 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 3400 3350 60  0001 C CNN "Status"
+F 15 "1%" H 3500 3450 60  0001 C CNN "Tolerance"
+F 16 "CAP CER 12PF 50V NP0 0603" H 3600 3550 60  0001 C CNN "Type"
+F 17 "50V" H 3700 3650 60  0001 C CNN "Voltage"
+F 18 "N/A" H 4250 3650 60  0001 C CNN "Wattage"
+F 19 "12pF" H 2975 1919 60  0000 C CNN "Componen-Value"
+F 20 "12pF ±1% 50V Ceramic Capacitor C0G, NP0 0603 (1608 Metric)" H 4450 3850 60  0001 C CNN "Description"
+	1    2950 2100
+	-1   0    0    1   
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 588895DA
+P 4625 2100
+F 0 "#PWR?" H 4625 1850 50  0001 C CNN
+F 1 "GND" H 4630 1927 50  0000 C CNN
+F 2 "" H 4625 2100 50  0001 C CNN
+F 3 "" H 4625 2100 50  0001 C CNN
+	1    4625 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 58889680
+P 2625 2100
+F 0 "#PWR?" H 2625 1850 50  0001 C CNN
+F 1 "GND" H 2630 1927 50  0000 C CNN
+F 2 "" H 2625 2100 50  0001 C CNN
+F 3 "" H 2625 2100 50  0001 C CNN
+	1    2625 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L 08053C104JAT2A C?
+U 1 1 5888A1C1
+P 3650 3125
+F 0 "C?" H 3975 3175 60  0000 C CNN
+F 1 "08053C104JAT2A" H 3675 3518 60  0001 C CNN
+F 2 "PCB_Footprints:C0805" H 2900 3175 60  0001 C CNN
+F 3 "http://datasheets.avx.com/X7RDielectric.pdf" H 3000 3275 60  0001 C CNN
+F 4 "0.06105 @ 4000" H 3100 3375 60  0001 C CNN "Cost"
+F 5 "21 Jan 2017" H 3200 3475 60  0001 C CNN "Date Created"
+F 6 "21 Jan 2017" H 3300 3575 60  0001 C CNN "Date Modifed"
+F 7 "Adam Vadala-Roth" H 3400 3675 60  0001 C CNN "Designer"
+F 8 "0.94mm" H 3500 3775 60  0001 C CNN "Height"
+F 9 "Yes" H 3600 3875 60  0001 C CNN "RHoS?"
+F 10 "AVX Corporation" H 3700 3975 60  0001 C CNN "MFR"
+F 11 "08053C104JAT2A" H 3800 4075 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 3900 4175 60  0001 C CNN "Mounting"
+F 13 "2" H 4000 4275 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 4100 4375 60  0001 C CNN "Status"
+F 15 "5%" H 4200 4475 60  0001 C CNN "Tolerance"
+F 16 "CAP CER 0.1UF 25V X7R 0805" H 4300 4575 60  0001 C CNN "Type"
+F 17 "25V" H 3550 3075 60  0000 C CNN "Voltage"
+F 18 "N/A" H 4950 4675 60  0001 C CNN "Wattage"
+F 19 "0.1uF" H 3875 3075 60  0000 C CNN "Componen-Value"
+F 20 "0.10µF ±5% 25V Ceramic Capacitor X7R 0805 (2012 Metric)" H 5150 4875 60  0001 C CNN "Description"
+	1    3650 3125
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5888A60D
+P 3125 3125
+F 0 "#PWR?" H 3125 2875 50  0001 C CNN
+F 1 "GND" H 3130 2952 50  0000 C CNN
+F 2 "" H 3125 3125 50  0001 C CNN
+F 3 "" H 3125 3125 50  0001 C CNN
+	1    3125 3125
+	1    0    0    -1  
+$EndComp
+$Comp
+L RC1005F103CS R?
+U 1 1 5888D299
+P 7700 3125
+F 0 "R?" V 7647 3213 60  0000 L CNN
+F 1 "RC1005F103CS" V 7700 3213 60  0001 L CNN
+F 2 "PCB_Footprints:R0402" H 7300 3375 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 7400 3575 60  0001 C CNN
+F 4 "0.00173 @ 5000" H 9250 5075 60  0001 C CNN "Cost"
+F 5 "5 Sept 2016" H 7600 3675 60  0001 C CNN "Date Created"
+F 6 "5 Sept 2016" H 7700 3775 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 7800 3875 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 7900 3975 60  0001 C CNN "Height"
+F 9 "Yes" H 8000 4075 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 8100 4175 60  0001 C CNN "MFR"
+F 11 "RC1005F103CS" H 8200 4275 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 8300 4375 60  0001 C CNN "Mounting"
+F 13 "2" H 8400 4475 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 8500 4575 60  0001 C CNN "Status"
+F 15 "1%" H 8600 4675 60  0001 C CNN "Tolerance"
+F 16 "passive" H 8700 4775 60  0001 C CNN "Type"
+F 17 "N/A" H 8800 4875 60  0001 C CNN "Voltage"
+F 18 "1/16" H 8900 4975 60  0001 C CNN "Wattage"
+F 19 "10k" V 7753 3213 60  0000 L CNN "Component-Value"
+F 20 "RES SMD 10K OHM 1% 1/16W 0402" H 9100 5175 60  0001 C CNN "Description"
+	1    7700 3125
+	0    1    1    0   
+$EndComp
+$Comp
+L RC1005F103CS R?
+U 1 1 5888D467
+P 8025 3125
+F 0 "R?" V 7972 3213 60  0000 L CNN
+F 1 "RC1005F103CS" V 8025 3213 60  0001 L CNN
+F 2 "PCB_Footprints:R0402" H 7625 3375 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 7725 3575 60  0001 C CNN
+F 4 "0.00173 @ 5000" H 9575 5075 60  0001 C CNN "Cost"
+F 5 "5 Sept 2016" H 7925 3675 60  0001 C CNN "Date Created"
+F 6 "5 Sept 2016" H 8025 3775 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 8125 3875 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 8225 3975 60  0001 C CNN "Height"
+F 9 "Yes" H 8325 4075 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 8425 4175 60  0001 C CNN "MFR"
+F 11 "RC1005F103CS" H 8525 4275 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 8625 4375 60  0001 C CNN "Mounting"
+F 13 "2" H 8725 4475 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 8825 4575 60  0001 C CNN "Status"
+F 15 "1%" H 8925 4675 60  0001 C CNN "Tolerance"
+F 16 "passive" H 9025 4775 60  0001 C CNN "Type"
+F 17 "N/A" H 9125 4875 60  0001 C CNN "Voltage"
+F 18 "1/16" H 9225 4975 60  0001 C CNN "Wattage"
+F 19 "10k" V 8078 3213 60  0000 L CNN "Component-Value"
+F 20 "RES SMD 10K OHM 1% 1/16W 0402" H 9425 5175 60  0001 C CNN "Description"
+	1    8025 3125
+	0    1    1    0   
+$EndComp
+$Comp
+L RC1005F103CS R?
+U 1 1 5888D4D8
+P 8350 3125
+F 0 "R?" V 8297 3213 60  0000 L CNN
+F 1 "RC1005F103CS" V 8350 3213 60  0001 L CNN
+F 2 "PCB_Footprints:R0402" H 7950 3375 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 8050 3575 60  0001 C CNN
+F 4 "0.00173 @ 5000" H 9900 5075 60  0001 C CNN "Cost"
+F 5 "5 Sept 2016" H 8250 3675 60  0001 C CNN "Date Created"
+F 6 "5 Sept 2016" H 8350 3775 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 8450 3875 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 8550 3975 60  0001 C CNN "Height"
+F 9 "Yes" H 8650 4075 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 8750 4175 60  0001 C CNN "MFR"
+F 11 "RC1005F103CS" H 8850 4275 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 8950 4375 60  0001 C CNN "Mounting"
+F 13 "2" H 9050 4475 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 9150 4575 60  0001 C CNN "Status"
+F 15 "1%" H 9250 4675 60  0001 C CNN "Tolerance"
+F 16 "passive" H 9350 4775 60  0001 C CNN "Type"
+F 17 "N/A" H 9450 4875 60  0001 C CNN "Voltage"
+F 18 "1/16" H 9550 4975 60  0001 C CNN "Wattage"
+F 19 "10k" V 8403 3213 60  0000 L CNN "Component-Value"
+F 20 "RES SMD 10K OHM 1% 1/16W 0402" H 9750 5175 60  0001 C CNN "Description"
+	1    8350 3125
+	0    1    1    0   
+$EndComp
+$Comp
+L RC1005F103CS R?
+U 1 1 5888D530
+P 8675 3125
+F 0 "R?" V 8622 3213 60  0000 L CNN
+F 1 "RC1005F103CS" V 8675 3213 60  0001 L CNN
+F 2 "PCB_Footprints:R0402" H 8275 3375 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 8375 3575 60  0001 C CNN
+F 4 "0.00173 @ 5000" H 10225 5075 60  0001 C CNN "Cost"
+F 5 "5 Sept 2016" H 8575 3675 60  0001 C CNN "Date Created"
+F 6 "5 Sept 2016" H 8675 3775 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 8775 3875 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 8875 3975 60  0001 C CNN "Height"
+F 9 "Yes" H 8975 4075 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 9075 4175 60  0001 C CNN "MFR"
+F 11 "RC1005F103CS" H 9175 4275 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 9275 4375 60  0001 C CNN "Mounting"
+F 13 "2" H 9375 4475 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 9475 4575 60  0001 C CNN "Status"
+F 15 "1%" H 9575 4675 60  0001 C CNN "Tolerance"
+F 16 "passive" H 9675 4775 60  0001 C CNN "Type"
+F 17 "N/A" H 9775 4875 60  0001 C CNN "Voltage"
+F 18 "1/16" H 9875 4975 60  0001 C CNN "Wattage"
+F 19 "10k" V 8728 3213 60  0000 L CNN "Component-Value"
+F 20 "RES SMD 10K OHM 1% 1/16W 0402" H 10075 5175 60  0001 C CNN "Description"
+	1    8675 3125
+	0    1    1    0   
+$EndComp
+$Comp
+L RC1005F103CS R?
+U 1 1 5888D591
+P 9000 3125
+F 0 "R?" V 8947 3213 60  0000 L CNN
+F 1 "RC1005F103CS" V 9000 3213 60  0001 L CNN
+F 2 "PCB_Footprints:R0402" H 8600 3375 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 8700 3575 60  0001 C CNN
+F 4 "0.00173 @ 5000" H 10550 5075 60  0001 C CNN "Cost"
+F 5 "5 Sept 2016" H 8900 3675 60  0001 C CNN "Date Created"
+F 6 "5 Sept 2016" H 9000 3775 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 9100 3875 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 9200 3975 60  0001 C CNN "Height"
+F 9 "Yes" H 9300 4075 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 9400 4175 60  0001 C CNN "MFR"
+F 11 "RC1005F103CS" H 9500 4275 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 9600 4375 60  0001 C CNN "Mounting"
+F 13 "2" H 9700 4475 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 9800 4575 60  0001 C CNN "Status"
+F 15 "1%" H 9900 4675 60  0001 C CNN "Tolerance"
+F 16 "passive" H 10000 4775 60  0001 C CNN "Type"
+F 17 "N/A" H 10100 4875 60  0001 C CNN "Voltage"
+F 18 "1/16" H 10200 4975 60  0001 C CNN "Wattage"
+F 19 "10k" V 9053 3213 60  0000 L CNN "Component-Value"
+F 20 "RES SMD 10K OHM 1% 1/16W 0402" H 10400 5175 60  0001 C CNN "Description"
+	1    9000 3125
+	0    1    1    0   
+$EndComp
+$Comp
+L RC1005F103CS R?
+U 1 1 5888D64B
+P 7375 3125
+F 0 "R?" V 7322 3213 60  0000 L CNN
+F 1 "RC1005F103CS" V 7375 3213 60  0001 L CNN
+F 2 "PCB_Footprints:R0402" H 6975 3375 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 7075 3575 60  0001 C CNN
+F 4 "0.00173 @ 5000" H 8925 5075 60  0001 C CNN "Cost"
+F 5 "5 Sept 2016" H 7275 3675 60  0001 C CNN "Date Created"
+F 6 "5 Sept 2016" H 7375 3775 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 7475 3875 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 7575 3975 60  0001 C CNN "Height"
+F 9 "Yes" H 7675 4075 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 7775 4175 60  0001 C CNN "MFR"
+F 11 "RC1005F103CS" H 7875 4275 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 7975 4375 60  0001 C CNN "Mounting"
+F 13 "2" H 8075 4475 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 8175 4575 60  0001 C CNN "Status"
+F 15 "1%" H 8275 4675 60  0001 C CNN "Tolerance"
+F 16 "passive" H 8375 4775 60  0001 C CNN "Type"
+F 17 "N/A" H 8475 4875 60  0001 C CNN "Voltage"
+F 18 "1/16" H 8575 4975 60  0001 C CNN "Wattage"
+F 19 "10k" V 7428 3213 60  0000 L CNN "Component-Value"
+F 20 "RES SMD 10K OHM 1% 1/16W 0402" H 8775 5175 60  0001 C CNN "Description"
+	1    7375 3125
+	0    1    1    0   
+$EndComp
+$Comp
+L RC1005F103CS R?
+U 1 1 5888D757
+P 6725 3125
+F 0 "R?" V 6672 3213 60  0000 L CNN
+F 1 "RC1005F103CS" V 6725 3213 60  0001 L CNN
+F 2 "PCB_Footprints:R0402" H 6325 3375 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 6425 3575 60  0001 C CNN
+F 4 "0.00173 @ 5000" H 8275 5075 60  0001 C CNN "Cost"
+F 5 "5 Sept 2016" H 6625 3675 60  0001 C CNN "Date Created"
+F 6 "5 Sept 2016" H 6725 3775 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 6825 3875 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 6925 3975 60  0001 C CNN "Height"
+F 9 "Yes" H 7025 4075 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 7125 4175 60  0001 C CNN "MFR"
+F 11 "RC1005F103CS" H 7225 4275 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 7325 4375 60  0001 C CNN "Mounting"
+F 13 "2" H 7425 4475 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 7525 4575 60  0001 C CNN "Status"
+F 15 "1%" H 7625 4675 60  0001 C CNN "Tolerance"
+F 16 "passive" H 7725 4775 60  0001 C CNN "Type"
+F 17 "N/A" H 7825 4875 60  0001 C CNN "Voltage"
+F 18 "1/16" H 7925 4975 60  0001 C CNN "Wattage"
+F 19 "10k" V 6778 3213 60  0000 L CNN "Component-Value"
+F 20 "RES SMD 10K OHM 1% 1/16W 0402" H 8125 5175 60  0001 C CNN "Description"
+	1    6725 3125
+	0    1    1    0   
+$EndComp
+$Comp
+L RC1005F103CS R?
+U 1 1 5888D76E
+P 7050 3125
+F 0 "R?" V 6997 3213 60  0000 L CNN
+F 1 "RC1005F103CS" V 7050 3213 60  0001 L CNN
+F 2 "PCB_Footprints:R0402" H 6650 3375 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 6750 3575 60  0001 C CNN
+F 4 "0.00173 @ 5000" H 8600 5075 60  0001 C CNN "Cost"
+F 5 "5 Sept 2016" H 6950 3675 60  0001 C CNN "Date Created"
+F 6 "5 Sept 2016" H 7050 3775 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 7150 3875 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 7250 3975 60  0001 C CNN "Height"
+F 9 "Yes" H 7350 4075 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 7450 4175 60  0001 C CNN "MFR"
+F 11 "RC1005F103CS" H 7550 4275 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 7650 4375 60  0001 C CNN "Mounting"
+F 13 "2" H 7750 4475 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 7850 4575 60  0001 C CNN "Status"
+F 15 "1%" H 7950 4675 60  0001 C CNN "Tolerance"
+F 16 "passive" H 8050 4775 60  0001 C CNN "Type"
+F 17 "N/A" H 8150 4875 60  0001 C CNN "Voltage"
+F 18 "1/16" H 8250 4975 60  0001 C CNN "Wattage"
+F 19 "10k" V 7103 3213 60  0000 L CNN "Component-Value"
+F 20 "RES SMD 10K OHM 1% 1/16W 0402" H 8450 5175 60  0001 C CNN "Description"
+	1    7050 3125
+	0    1    1    0   
+$EndComp
+$Comp
+L RC1005F103CS R?
+U 1 1 5888D785
+P 6400 3125
+F 0 "R?" V 6347 3213 60  0000 L CNN
+F 1 "RC1005F103CS" V 6400 3213 60  0001 L CNN
+F 2 "PCB_Footprints:R0402" H 6000 3375 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 6100 3575 60  0001 C CNN
+F 4 "0.00173 @ 5000" H 7950 5075 60  0001 C CNN "Cost"
+F 5 "5 Sept 2016" H 6300 3675 60  0001 C CNN "Date Created"
+F 6 "5 Sept 2016" H 6400 3775 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 6500 3875 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 6600 3975 60  0001 C CNN "Height"
+F 9 "Yes" H 6700 4075 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 6800 4175 60  0001 C CNN "MFR"
+F 11 "RC1005F103CS" H 6900 4275 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 7000 4375 60  0001 C CNN "Mounting"
+F 13 "2" H 7100 4475 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 7200 4575 60  0001 C CNN "Status"
+F 15 "1%" H 7300 4675 60  0001 C CNN "Tolerance"
+F 16 "passive" H 7400 4775 60  0001 C CNN "Type"
+F 17 "N/A" H 7500 4875 60  0001 C CNN "Voltage"
+F 18 "1/16" H 7600 4975 60  0001 C CNN "Wattage"
+F 19 "10k" V 6453 3213 60  0000 L CNN "Component-Value"
+F 20 "RES SMD 10K OHM 1% 1/16W 0402" H 7800 5175 60  0001 C CNN "Description"
+	1    6400 3125
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3800 2100 4100 2100
+Wire Wire Line
+	3150 2100 3450 2100
+Wire Wire Line
+	2625 2100 2700 2100
+Wire Wire Line
+	4625 2100 4550 2100
+Wire Wire Line
+	4325 2725 3975 2725
+Wire Wire Line
+	3975 2725 3975 2100
+Connection ~ 3975 2100
+Wire Wire Line
+	4325 2875 3300 2875
+Wire Wire Line
+	3300 2875 3300 2100
+Connection ~ 3300 2100
+Wire Wire Line
+	4325 3125 3900 3125
+Wire Wire Line
+	3275 3275 4325 3275
+Wire Wire Line
+	3125 3125 3450 3125
+Wire Wire Line
+	3275 3275 3275 3125
+Connection ~ 3275 3125
+Wire Wire Line
+	1000 3475 3350 3475
+Wire Wire Line
+	1000 3625 3350 3625
+Wire Wire Line
+	6275 3475 9725 3475
+Wire Wire Line
+	6275 3625 9725 3625
+Wire Wire Line
+	6275 3775 9725 3775
+Wire Wire Line
+	6275 3925 9725 3925
+Wire Wire Line
+	6275 4075 9725 4075
+Wire Wire Line
+	6275 4225 9725 4225
+Wire Wire Line
+	6275 4375 9725 4375
+Wire Wire Line
+	6275 4525 9725 4525
+Wire Wire Line
+	6275 4675 9725 4675
+Wire Wire Line
+	6400 3425 6400 3475
+Connection ~ 6400 3475
+Wire Wire Line
+	6725 3425 6725 3625
+Connection ~ 6725 3625
+Wire Wire Line
+	7050 3425 7050 3775
+Connection ~ 7050 3775
+Wire Wire Line
+	7375 3425 7375 3925
+Connection ~ 7375 3925
+Wire Wire Line
+	7700 3425 7700 4075
+Connection ~ 7700 4075
+Wire Wire Line
+	8025 3425 8025 4225
+Connection ~ 8025 4225
+Wire Wire Line
+	8350 3425 8350 4375
+Connection ~ 8350 4375
+Wire Wire Line
+	8675 3425 8675 4525
+Connection ~ 8675 4525
+Wire Wire Line
+	9000 3425 9000 4675
+Connection ~ 9000 4675
+Wire Wire Line
+	6400 2825 9000 2825
+Connection ~ 8675 2825
+Connection ~ 8350 2825
+Connection ~ 8025 2825
+Connection ~ 7700 2825
+Connection ~ 7375 2825
+Connection ~ 7050 2825
+Connection ~ 6725 2825
+Text Label 9100 3475 0    60   ~ 0
+PMIC_GPIO0
+Text Label 9100 3625 0    60   ~ 0
+PMIC_GPIO1
+Text Label 9100 3775 0    60   ~ 0
+PMIC_GPIO2
+Text Label 9100 3925 0    60   ~ 0
+PMIC_GPIO3
+Text Label 9100 4075 0    60   ~ 0
+PMIC_GPIO4
+Text Label 9100 4225 0    60   ~ 0
+PMIC_GPIO5
+Text Label 9100 4375 0    60   ~ 0
+PMIC_GPIO6
+Text Label 9100 4525 0    60   ~ 0
+PMIC_GPIO7
+Text Label 9100 4675 0    60   ~ 0
+PMIC_GPIO8
+Entry Bus Bus
+	9725 3475 9825 3575
+Entry Bus Bus
+	9725 3625 9825 3725
+Entry Bus Bus
+	9725 3775 9825 3875
+Entry Bus Bus
+	9725 3925 9825 4025
+Entry Bus Bus
+	9725 4075 9825 4175
+Entry Bus Bus
+	9725 4225 9825 4325
+Entry Bus Bus
+	9725 4375 9825 4475
+Entry Bus Bus
+	9725 4525 9825 4625
+Entry Bus Bus
+	9725 4675 9825 4775
+Wire Bus Line
+	9825 3575 9825 4775
+Wire Bus Line
+	9825 4775 10875 4775
+Text Label 9900 4775 0    60   ~ 0
+PMIC_GPIO[1..8]
+$Comp
+L RC1005F472CS R?
+U 1 1 588E2FC1
+P 2025 3100
+F 0 "R?" V 1972 3188 60  0000 L CNN
+F 1 "RC1005F472CS" H 2025 3347 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 1625 3350 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 1725 3550 60  0001 C CNN
+F 4 "0.00173 @ 5000" H 3575 5050 60  0001 C CNN "Cost"
+F 5 "5 Sept 2016" H 1925 3650 60  0001 C CNN "Date Created"
+F 6 "5 Sept 2016" H 2025 3750 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 2125 3850 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 2225 3950 60  0001 C CNN "Height"
+F 9 "Yes" H 2325 4050 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 2425 4150 60  0001 C CNN "MFR"
+F 11 "RC1005F472CS" H 2525 4250 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 2625 4350 60  0001 C CNN "Mounting"
+F 13 "2" H 2725 4450 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 2825 4550 60  0001 C CNN "Status"
+F 15 "1%" H 2925 4650 60  0001 C CNN "Tolerance"
+F 16 "passive" H 3025 4750 60  0001 C CNN "Type"
+F 17 "N/A" H 3125 4850 60  0001 C CNN "Voltage"
+F 18 "1/16" H 3225 4950 60  0001 C CNN "Wattage"
+F 19 "4.7k" V 2078 3188 60  0000 L CNN "Component-Value"
+F 20 "RES SMD 4.7K OHM 1% 1/16W 0402" H 3425 5150 60  0001 C CNN "Description"
+	1    2025 3100
+	0    1    1    0   
+$EndComp
+$Comp
+L RC1005F472CS R?
+U 1 1 588E3255
+P 2525 3100
+F 0 "R?" V 2472 3188 60  0000 L CNN
+F 1 "RC1005F472CS" H 2525 3347 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 2125 3350 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 2225 3550 60  0001 C CNN
+F 4 "0.00173 @ 5000" H 4075 5050 60  0001 C CNN "Cost"
+F 5 "5 Sept 2016" H 2425 3650 60  0001 C CNN "Date Created"
+F 6 "5 Sept 2016" H 2525 3750 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 2625 3850 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 2725 3950 60  0001 C CNN "Height"
+F 9 "Yes" H 2825 4050 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 2925 4150 60  0001 C CNN "MFR"
+F 11 "RC1005F472CS" H 3025 4250 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 3125 4350 60  0001 C CNN "Mounting"
+F 13 "2" H 3225 4450 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 3325 4550 60  0001 C CNN "Status"
+F 15 "1%" H 3425 4650 60  0001 C CNN "Tolerance"
+F 16 "passive" H 3525 4750 60  0001 C CNN "Type"
+F 17 "N/A" H 3625 4850 60  0001 C CNN "Voltage"
+F 18 "1/16" H 3725 4950 60  0001 C CNN "Wattage"
+F 19 "4.7k" V 2578 3188 60  0000 L CNN "Component-Value"
+F 20 "RES SMD 4.7K OHM 1% 1/16W 0402" H 3925 5150 60  0001 C CNN "Description"
+	1    2525 3100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2025 3400 2025 3475
+Connection ~ 2025 3475
+Wire Wire Line
+	2525 3400 2525 3625
+Connection ~ 2525 3625
+Wire Wire Line
+	2025 2800 2525 2800
+Text HLabel 1000 3475 0    60   Input ~ 0
+PMIC_SDA
+Text HLabel 1000 3625 0    60   Input ~ 0
+PMIC_SCL
+$Comp
+L +3.3V #PWR?
+U 1 1 588E5DBF
+P 1750 2300
+F 0 "#PWR?" H 1750 2150 50  0001 C CNN
+F 1 "+3.3V" H 1765 2473 50  0000 C CNN
+F 2 "" H 1750 2300 50  0001 C CNN
+F 3 "" H 1750 2300 50  0001 C CNN
+	1    1750 2300
+	1    0    0    -1  
+$EndComp
+Connection ~ 2275 2800
+$Comp
+L +1V8 #PWR?
+U 1 1 588EDED9
+P 2300 2675
+F 0 "#PWR?" H 2300 2525 50  0001 C CNN
+F 1 "+1V8" H 2315 2848 50  0000 C CNN
+F 2 "" H 2300 2675 50  0001 C CNN
+F 3 "" H 2300 2675 50  0001 C CNN
+	1    2300 2675
+	1    0    0    -1  
+$EndComp
+$Comp
+L RC1005F510CS R?
+U 1 1 5898578C
+P 3650 3475
+F 0 "R?" H 3300 3425 60  0000 C CNN
+F 1 "RC1005F510CS" H 3650 3722 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 3250 3725 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 3350 3925 60  0001 C CNN
+F 4 "0.00171 @ 5000" H 5200 5425 60  0001 C CNN "Cost"
+F 5 "1 Jan 2017" H 3550 4025 60  0001 C CNN "Date Created"
+F 6 "1 Jan 2017" H 3650 4125 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 3750 4225 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 3850 4325 60  0001 C CNN "Height"
+F 9 "Yes" H 3950 4425 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 4050 4525 60  0001 C CNN "MFR"
+F 11 "RC1005F510CS" H 4150 4625 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 4250 4725 60  0001 C CNN "Mounting"
+F 13 "2" H 4350 4825 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 4450 4925 60  0001 C CNN "Status"
+F 15 "1%" H 4550 5025 60  0001 C CNN "Tolerance"
+F 16 "RES SMD 51 OHM 1% 1/16W 0402" H 4650 5125 60  0001 C CNN "Type"
+F 17 "N/A" H 4750 5225 60  0001 C CNN "Voltage"
+F 18 "1/16" H 4850 5325 60  0001 C CNN "Wattage"
+F 19 "51" H 3950 3425 60  0000 C CNN "Component-Value"
+F 20 "51 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" H 5050 5525 60  0001 C CNN "Description"
+	1    3650 3475
+	1    0    0    -1  
+$EndComp
+$Comp
+L RC1005F510CS R?
+U 1 1 58986197
+P 3650 3625
+F 0 "R?" H 3300 3575 60  0000 C CNN
+F 1 "RC1005F510CS" H 3650 3872 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 3250 3875 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 3350 4075 60  0001 C CNN
+F 4 "0.00171 @ 5000" H 5200 5575 60  0001 C CNN "Cost"
+F 5 "1 Jan 2017" H 3550 4175 60  0001 C CNN "Date Created"
+F 6 "1 Jan 2017" H 3650 4275 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 3750 4375 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 3850 4475 60  0001 C CNN "Height"
+F 9 "Yes" H 3950 4575 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 4050 4675 60  0001 C CNN "MFR"
+F 11 "RC1005F510CS" H 4150 4775 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 4250 4875 60  0001 C CNN "Mounting"
+F 13 "2" H 4350 4975 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 4450 5075 60  0001 C CNN "Status"
+F 15 "1%" H 4550 5175 60  0001 C CNN "Tolerance"
+F 16 "RES SMD 51 OHM 1% 1/16W 0402" H 4650 5275 60  0001 C CNN "Type"
+F 17 "N/A" H 4750 5375 60  0001 C CNN "Voltage"
+F 18 "1/16" H 4850 5475 60  0001 C CNN "Wattage"
+F 19 "51" H 3950 3575 60  0000 C CNN "Component-Value"
+F 20 "51 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" H 5050 5675 60  0001 C CNN "Description"
+	1    3650 3625
+	1    0    0    -1  
+$EndComp
+$Comp
+L RC1005F510CS R?
+U 1 1 58986211
+P 8050 5125
+F 0 "R?" H 7700 5075 60  0000 C CNN
+F 1 "RC1005F510CS" H 8050 5372 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 7650 5375 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 7750 5575 60  0001 C CNN
+F 4 "0.00171 @ 5000" H 9600 7075 60  0001 C CNN "Cost"
+F 5 "1 Jan 2017" H 7950 5675 60  0001 C CNN "Date Created"
+F 6 "1 Jan 2017" H 8050 5775 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 8150 5875 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 8250 5975 60  0001 C CNN "Height"
+F 9 "Yes" H 8350 6075 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 8450 6175 60  0001 C CNN "MFR"
+F 11 "RC1005F510CS" H 8550 6275 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 8650 6375 60  0001 C CNN "Mounting"
+F 13 "2" H 8750 6475 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 8850 6575 60  0001 C CNN "Status"
+F 15 "1%" H 8950 6675 60  0001 C CNN "Tolerance"
+F 16 "RES SMD 51 OHM 1% 1/16W 0402" H 9050 6775 60  0001 C CNN "Type"
+F 17 "N/A" H 9150 6875 60  0001 C CNN "Voltage"
+F 18 "1/16" H 9250 6975 60  0001 C CNN "Wattage"
+F 19 "51" H 8350 5075 60  0000 C CNN "Component-Value"
+F 20 "51 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" H 9450 7175 60  0001 C CNN "Description"
+	1    8050 5125
+	1    0    0    -1  
+$EndComp
+$Comp
+L RC1005F510CS R?
+U 1 1 58986294
+P 8075 5275
+F 0 "R?" H 7725 5225 60  0000 C CNN
+F 1 "RC1005F510CS" H 8075 5522 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 7675 5525 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 7775 5725 60  0001 C CNN
+F 4 "0.00171 @ 5000" H 9625 7225 60  0001 C CNN "Cost"
+F 5 "1 Jan 2017" H 7975 5825 60  0001 C CNN "Date Created"
+F 6 "1 Jan 2017" H 8075 5925 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 8175 6025 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 8275 6125 60  0001 C CNN "Height"
+F 9 "Yes" H 8375 6225 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 8475 6325 60  0001 C CNN "MFR"
+F 11 "RC1005F510CS" H 8575 6425 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 8675 6525 60  0001 C CNN "Mounting"
+F 13 "2" H 8775 6625 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 8875 6725 60  0001 C CNN "Status"
+F 15 "1%" H 8975 6825 60  0001 C CNN "Tolerance"
+F 16 "RES SMD 51 OHM 1% 1/16W 0402" H 9075 6925 60  0001 C CNN "Type"
+F 17 "N/A" H 9175 7025 60  0001 C CNN "Voltage"
+F 18 "1/16" H 9275 7125 60  0001 C CNN "Wattage"
+F 19 "51" H 8375 5225 60  0000 C CNN "Component-Value"
+F 20 "51 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" H 9475 7325 60  0001 C CNN "Description"
+	1    8075 5275
+	1    0    0    -1  
+$EndComp
+$Comp
+L RC1005F510CS R?
+U 1 1 5898644E
+P 8075 5275
+F 0 "R?" H 7725 5225 60  0000 C CNN
+F 1 "RC1005F510CS" H 8075 5522 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 7675 5525 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 7775 5725 60  0001 C CNN
+F 4 "0.00171 @ 5000" H 9625 7225 60  0001 C CNN "Cost"
+F 5 "1 Jan 2017" H 7975 5825 60  0001 C CNN "Date Created"
+F 6 "1 Jan 2017" H 8075 5925 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 8175 6025 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 8275 6125 60  0001 C CNN "Height"
+F 9 "Yes" H 8375 6225 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 8475 6325 60  0001 C CNN "MFR"
+F 11 "RC1005F510CS" H 8575 6425 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 8675 6525 60  0001 C CNN "Mounting"
+F 13 "2" H 8775 6625 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 8875 6725 60  0001 C CNN "Status"
+F 15 "1%" H 8975 6825 60  0001 C CNN "Tolerance"
+F 16 "RES SMD 51 OHM 1% 1/16W 0402" H 9075 6925 60  0001 C CNN "Type"
+F 17 "N/A" H 9175 7025 60  0001 C CNN "Voltage"
+F 18 "1/16" H 9275 7125 60  0001 C CNN "Wattage"
+F 19 "51" H 8375 5225 60  0000 C CNN "Component-Value"
+F 20 "51 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" H 9475 7325 60  0001 C CNN "Description"
+	1    8075 5275
+	1    0    0    -1  
+$EndComp
+$Comp
+L RC1005F510CS R?
+U 1 1 58986765
+P 8075 5425
+F 0 "R?" H 7725 5375 60  0000 C CNN
+F 1 "RC1005F510CS" H 8075 5672 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 7675 5675 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 7775 5875 60  0001 C CNN
+F 4 "0.00171 @ 5000" H 9625 7375 60  0001 C CNN "Cost"
+F 5 "1 Jan 2017" H 7975 5975 60  0001 C CNN "Date Created"
+F 6 "1 Jan 2017" H 8075 6075 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 8175 6175 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 8275 6275 60  0001 C CNN "Height"
+F 9 "Yes" H 8375 6375 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 8475 6475 60  0001 C CNN "MFR"
+F 11 "RC1005F510CS" H 8575 6575 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 8675 6675 60  0001 C CNN "Mounting"
+F 13 "2" H 8775 6775 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 8875 6875 60  0001 C CNN "Status"
+F 15 "1%" H 8975 6975 60  0001 C CNN "Tolerance"
+F 16 "RES SMD 51 OHM 1% 1/16W 0402" H 9075 7075 60  0001 C CNN "Type"
+F 17 "N/A" H 9175 7175 60  0001 C CNN "Voltage"
+F 18 "1/16" H 9275 7275 60  0001 C CNN "Wattage"
+F 19 "51" H 8375 5375 60  0000 C CNN "Component-Value"
+F 20 "51 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" H 9475 7475 60  0001 C CNN "Description"
+	1    8075 5425
+	1    0    0    -1  
+$EndComp
+$Comp
+L RC1005F510CS R?
+U 1 1 5898677C
+P 8075 5575
+F 0 "R?" H 7725 5525 60  0000 C CNN
+F 1 "RC1005F510CS" H 8075 5822 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 7675 5825 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 7775 6025 60  0001 C CNN
+F 4 "0.00171 @ 5000" H 9625 7525 60  0001 C CNN "Cost"
+F 5 "1 Jan 2017" H 7975 6125 60  0001 C CNN "Date Created"
+F 6 "1 Jan 2017" H 8075 6225 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 8175 6325 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 8275 6425 60  0001 C CNN "Height"
+F 9 "Yes" H 8375 6525 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 8475 6625 60  0001 C CNN "MFR"
+F 11 "RC1005F510CS" H 8575 6725 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 8675 6825 60  0001 C CNN "Mounting"
+F 13 "2" H 8775 6925 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 8875 7025 60  0001 C CNN "Status"
+F 15 "1%" H 8975 7125 60  0001 C CNN "Tolerance"
+F 16 "RES SMD 51 OHM 1% 1/16W 0402" H 9075 7225 60  0001 C CNN "Type"
+F 17 "N/A" H 9175 7325 60  0001 C CNN "Voltage"
+F 18 "1/16" H 9275 7425 60  0001 C CNN "Wattage"
+F 19 "51" H 8375 5525 60  0000 C CNN "Component-Value"
+F 20 "51 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" H 9475 7625 60  0001 C CNN "Description"
+	1    8075 5575
+	1    0    0    -1  
+$EndComp
+$Comp
+L RC1005F510CS R?
+U 1 1 58986793
+P 8075 5725
+F 0 "R?" H 7725 5675 60  0000 C CNN
+F 1 "RC1005F510CS" H 8075 5972 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 7675 5975 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 7775 6175 60  0001 C CNN
+F 4 "0.00171 @ 5000" H 9625 7675 60  0001 C CNN "Cost"
+F 5 "1 Jan 2017" H 7975 6275 60  0001 C CNN "Date Created"
+F 6 "1 Jan 2017" H 8075 6375 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 8175 6475 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 8275 6575 60  0001 C CNN "Height"
+F 9 "Yes" H 8375 6675 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 8475 6775 60  0001 C CNN "MFR"
+F 11 "RC1005F510CS" H 8575 6875 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 8675 6975 60  0001 C CNN "Mounting"
+F 13 "2" H 8775 7075 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 8875 7175 60  0001 C CNN "Status"
+F 15 "1%" H 8975 7275 60  0001 C CNN "Tolerance"
+F 16 "RES SMD 51 OHM 1% 1/16W 0402" H 9075 7375 60  0001 C CNN "Type"
+F 17 "N/A" H 9175 7475 60  0001 C CNN "Voltage"
+F 18 "1/16" H 9275 7575 60  0001 C CNN "Wattage"
+F 19 "51" H 8375 5675 60  0000 C CNN "Component-Value"
+F 20 "51 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" H 9475 7775 60  0001 C CNN "Description"
+	1    8075 5725
+	1    0    0    -1  
+$EndComp
+$Comp
+L RC1005F510CS R?
+U 1 1 589867AA
+P 8100 5875
+F 0 "R?" H 7750 5825 60  0000 C CNN
+F 1 "RC1005F510CS" H 8100 6122 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 7700 6125 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 7800 6325 60  0001 C CNN
+F 4 "0.00171 @ 5000" H 9650 7825 60  0001 C CNN "Cost"
+F 5 "1 Jan 2017" H 8000 6425 60  0001 C CNN "Date Created"
+F 6 "1 Jan 2017" H 8100 6525 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 8200 6625 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 8300 6725 60  0001 C CNN "Height"
+F 9 "Yes" H 8400 6825 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 8500 6925 60  0001 C CNN "MFR"
+F 11 "RC1005F510CS" H 8600 7025 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 8700 7125 60  0001 C CNN "Mounting"
+F 13 "2" H 8800 7225 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 8900 7325 60  0001 C CNN "Status"
+F 15 "1%" H 9000 7425 60  0001 C CNN "Tolerance"
+F 16 "RES SMD 51 OHM 1% 1/16W 0402" H 9100 7525 60  0001 C CNN "Type"
+F 17 "N/A" H 9200 7625 60  0001 C CNN "Voltage"
+F 18 "1/16" H 9300 7725 60  0001 C CNN "Wattage"
+F 19 "51" H 8400 5825 60  0000 C CNN "Component-Value"
+F 20 "51 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" H 9500 7925 60  0001 C CNN "Description"
+	1    8100 5875
+	1    0    0    -1  
+$EndComp
+$Comp
+L RC1005F510CS R?
+U 1 1 589867C1
+P 8100 5875
+F 0 "R?" H 7750 5825 60  0000 C CNN
+F 1 "RC1005F510CS" H 8100 6122 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 7700 6125 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 7800 6325 60  0001 C CNN
+F 4 "0.00171 @ 5000" H 9650 7825 60  0001 C CNN "Cost"
+F 5 "1 Jan 2017" H 8000 6425 60  0001 C CNN "Date Created"
+F 6 "1 Jan 2017" H 8100 6525 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 8200 6625 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 8300 6725 60  0001 C CNN "Height"
+F 9 "Yes" H 8400 6825 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 8500 6925 60  0001 C CNN "MFR"
+F 11 "RC1005F510CS" H 8600 7025 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 8700 7125 60  0001 C CNN "Mounting"
+F 13 "2" H 8800 7225 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 8900 7325 60  0001 C CNN "Status"
+F 15 "1%" H 9000 7425 60  0001 C CNN "Tolerance"
+F 16 "RES SMD 51 OHM 1% 1/16W 0402" H 9100 7525 60  0001 C CNN "Type"
+F 17 "N/A" H 9200 7625 60  0001 C CNN "Voltage"
+F 18 "1/16" H 9300 7725 60  0001 C CNN "Wattage"
+F 19 "51" H 8400 5825 60  0000 C CNN "Component-Value"
+F 20 "51 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" H 9500 7925 60  0001 C CNN "Description"
+	1    8100 5875
+	1    0    0    -1  
+$EndComp
+$Comp
+L RC1005F510CS R?
+U 1 1 58986AAE
+P 8100 6025
+F 0 "R?" H 7750 5975 60  0000 C CNN
+F 1 "RC1005F510CS" H 8100 6272 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 7700 6275 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 7800 6475 60  0001 C CNN
+F 4 "0.00171 @ 5000" H 9650 7975 60  0001 C CNN "Cost"
+F 5 "1 Jan 2017" H 8000 6575 60  0001 C CNN "Date Created"
+F 6 "1 Jan 2017" H 8100 6675 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 8200 6775 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 8300 6875 60  0001 C CNN "Height"
+F 9 "Yes" H 8400 6975 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 8500 7075 60  0001 C CNN "MFR"
+F 11 "RC1005F510CS" H 8600 7175 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 8700 7275 60  0001 C CNN "Mounting"
+F 13 "2" H 8800 7375 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 8900 7475 60  0001 C CNN "Status"
+F 15 "1%" H 9000 7575 60  0001 C CNN "Tolerance"
+F 16 "RES SMD 51 OHM 1% 1/16W 0402" H 9100 7675 60  0001 C CNN "Type"
+F 17 "N/A" H 9200 7775 60  0001 C CNN "Voltage"
+F 18 "1/16" H 9300 7875 60  0001 C CNN "Wattage"
+F 19 "51" H 8400 5975 60  0000 C CNN "Component-Value"
+F 20 "51 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" H 9500 8075 60  0001 C CNN "Description"
+	1    8100 6025
+	1    0    0    -1  
+$EndComp
+$Comp
+L RC1005F510CS R?
+U 1 1 58986B39
+P 8100 6225
+F 0 "R?" H 7750 6175 60  0000 C CNN
+F 1 "RC1005F510CS" H 8100 6472 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 7700 6475 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/RC_Series_ds.pdf" H 7800 6675 60  0001 C CNN
+F 4 "0.00171 @ 5000" H 9650 8175 60  0001 C CNN "Cost"
+F 5 "1 Jan 2017" H 8000 6775 60  0001 C CNN "Date Created"
+F 6 "1 Jan 2017" H 8100 6875 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 8200 6975 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 8300 7075 60  0001 C CNN "Height"
+F 9 "Yes" H 8400 7175 60  0001 C CNN "RHoS?"
+F 10 "Samsung Electro-Mechanics America, Inc." H 8500 7275 60  0001 C CNN "MFR"
+F 11 "RC1005F510CS" H 8600 7375 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 8700 7475 60  0001 C CNN "Mounting"
+F 13 "2" H 8800 7575 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 8900 7675 60  0001 C CNN "Status"
+F 15 "1%" H 9000 7775 60  0001 C CNN "Tolerance"
+F 16 "RES SMD 51 OHM 1% 1/16W 0402" H 9100 7875 60  0001 C CNN "Type"
+F 17 "N/A" H 9200 7975 60  0001 C CNN "Voltage"
+F 18 "1/16" H 9300 8075 60  0001 C CNN "Wattage"
+F 19 "51" H 8400 6175 60  0000 C CNN "Component-Value"
+F 20 "51 Ohm ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" H 9500 8275 60  0001 C CNN "Description"
+	1    8100 6225
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3950 3475 4325 3475
+Wire Wire Line
+	4325 3625 3950 3625
+$Comp
+L BSS138 Q?
+U 1 1 5894469A
+P 1625 5175
+F 0 "Q?" H 2025 5125 50  0000 L CNN
+F 1 "BSS138" H 1825 5200 50  0000 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 1825 5100 50  0001 L CIN
+F 3 "" H 1625 5175 50  0001 L CNN
+	1    1625 5175
+	-1   0    0    1   
+$EndComp
+$Comp
+L BSS138 Q?
+U 1 1 58947762
+P 3175 4375
+F 0 "Q?" H 3366 4329 50  0000 L CNN
+F 1 "BSS138" H 3366 4420 50  0000 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 3375 4300 50  0001 L CIN
+F 3 "" H 3175 4375 50  0001 L CNN
+	1    3175 4375
+	-1   0    0    1   
+$EndComp
+$Comp
+L ERJ-2RKF1201X R?
+U 1 1 589486FE
+P 1500 4525
+F 0 "R?" V 1447 4613 60  0000 L CNN
+F 1 "ERJ-2RKF1201X" H 1500 4772 60  0001 C CNN
+F 2 "PCB_Footprints:R0402" H 1100 4775 60  0001 C CNN
+F 3 "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ2RKF3902X+7+WW" H 1200 4975 60  0001 C CNN
+F 4 "0.00323 @ 5000" H 3050 6475 60  0001 C CNN "Cost"
+F 5 "21 Jan 2017" H 1400 5075 60  0001 C CNN "Date Created"
+F 6 "21 Jan 2017" H 1500 5175 60  0001 C CNN "Date Modified"
+F 7 "Adam Vadala-Roth" H 1600 5275 60  0001 C CNN "Designer"
+F 8 "0.4mm" H 1700 5375 60  0001 C CNN "Height"
+F 9 "Yes" H 1800 5475 60  0001 C CNN "RHoS?"
+F 10 "Panasonic Electronic Components" H 1900 5575 60  0001 C CNN "MFR"
+F 11 "ERJ-2RKF3902X" H 2000 5675 60  0001 C CNN "MFR#"
+F 12 "SMT/SMD" H 2100 5775 60  0001 C CNN "Mounting"
+F 13 "2" H 2200 5875 60  0001 C CNN "Pin Count#"
+F 14 "Active" H 2300 5975 60  0001 C CNN "Status"
+F 15 "1%" H 2400 6075 60  0001 C CNN "Tolerance"
+F 16 "RES SMD 1.2K OHM 1% 1/10W 0402" H 2500 6175 60  0001 C CNN "Type"
+F 17 "N/A" H 2600 6275 60  0001 C CNN "Voltage"
+F 18 "1/10" H 2700 6375 60  0001 C CNN "Wattage"
+F 19 "1.2k" V 1553 4613 60  0000 L CNN "Component-Value"
+F 20 "1.2k Ohm ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film" H 2900 6575 60  0001 C CNN "Description"
+	1    1500 4525
+	0    1    1    0   
+$EndComp
+$EndSCHEMATC

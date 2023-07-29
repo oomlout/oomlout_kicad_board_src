@@ -1,0 +1,415 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:arduino_shieldsNCL
+LIBS:attiny
+LIBS:DQM
+LIBS:attiny24_44_84
+LIBS:Arduino ATTINY Programmer Shield-cache
+EELAYER 24 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "ATTINY Programmer Shield"
+Date "4/7/2017"
+Rev "1.0"
+Comp "Quentin McDonald"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L ARDUINO_SHIELD SHIELD1
+U 1 1 577A17C3
+P 2600 2400
+F 0 "SHIELD1" H 2250 3350 60  0000 C CNN
+F 1 "ARDUINO_SHIELD" H 2650 1450 60  0000 C CNN
+F 2 "" H 2600 2400 60  0000 C CNN
+F 3 "" H 2600 2400 60  0000 C CNN
+	1    2600 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ATTINY25-45-85/DIP-SO U2
+U 1 1 577A17E9
+P 7150 2300
+F 0 "U2" H 7125 2925 60  0000 C CNN
+F 1 "ATTINY25-45-85/DIP-SO" H 7150 3075 60  0000 C CNN
+F 2 "" H 7150 2300 60  0000 C CNN
+F 3 "" H 7150 2300 60  0000 C CNN
+	1    7150 2300
+	1    0    0    -1  
+$EndComp
+Text GLabel 1400 2200 0    60   Input ~ 0
+5V
+Text GLabel 1450 2400 0    60   Input ~ 0
+GND
+Text GLabel 3800 1700 2    60   Input ~ 0
+Pin13
+Text GLabel 3800 1850 2    60   Input ~ 0
+Pin12
+Text GLabel 4150 1950 2    60   Input ~ 0
+Pin11
+Text GLabel 3800 2100 2    60   Input ~ 0
+Pin10
+Text GLabel 1400 2000 0    60   Input ~ 0
+Reset
+Text GLabel 4200 2200 2    60   Input ~ 0
+Pin9
+Text GLabel 3800 2350 2    60   Input ~ 0
+Pin8
+Text GLabel 4200 2500 2    60   Input ~ 0
+Pin7
+Text GLabel 5100 2850 0    60   Input ~ 0
+GND
+Text GLabel 8950 2800 2    60   Input ~ 0
+Pin10
+Text GLabel 8950 1800 2    60   Input ~ 0
+Pin11
+Text GLabel 8950 2000 2    60   Input ~ 0
+Pin12
+Text GLabel 8950 2200 2    60   Input ~ 0
+Pin13
+NoConn ~ 8750 2400
+NoConn ~ 8750 2600
+NoConn ~ 3550 3200
+NoConn ~ 3550 3100
+NoConn ~ 3550 3000
+NoConn ~ 3550 2900
+NoConn ~ 3550 2800
+NoConn ~ 3550 2700
+NoConn ~ 3550 2600
+NoConn ~ 3550 1700
+NoConn ~ 3550 1600
+NoConn ~ 1650 2100
+NoConn ~ 1650 2300
+NoConn ~ 1650 2500
+NoConn ~ 1650 2700
+NoConn ~ 1650 2800
+NoConn ~ 1650 2900
+NoConn ~ 1650 3000
+NoConn ~ 1650 3100
+NoConn ~ 1650 3200
+$Comp
+L ATTINY24/44/84-PU IC1
+U 1 1 577ABB31
+P 6250 4700
+F 0 "IC1" H 6150 5430 50  0000 L BNN
+F 1 "ATTINY24/44/84-PU" H 6150 3900 50  0000 L BNN
+F 2 "attiny24_44_84-DIL14" H 6250 4850 50  0001 C CNN
+F 3 "" H 6250 4700 60  0000 C CNN
+	1    6250 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1650 2200 1400 2200
+Wire Wire Line
+	1650 2400 1450 2400
+Wire Wire Line
+	3550 1800 3650 1800
+Wire Wire Line
+	3650 1800 3650 1700
+Wire Wire Line
+	3650 1700 3800 1700
+Wire Wire Line
+	3550 1900 3700 1900
+Wire Wire Line
+	3700 1900 3700 1850
+Wire Wire Line
+	3700 1850 3800 1850
+Wire Wire Line
+	3550 2000 3700 2000
+Wire Wire Line
+	3700 2000 3700 1950
+Wire Wire Line
+	3700 1950 4150 1950
+Wire Wire Line
+	3550 2100 3800 2100
+Wire Wire Line
+	1650 2000 1400 2000
+Wire Wire Line
+	3550 2300 3700 2300
+Wire Wire Line
+	3700 2300 3700 2350
+Wire Wire Line
+	3700 2350 3800 2350
+Wire Wire Line
+	3550 2500 4200 2500
+Wire Wire Line
+	5600 2850 5100 2850
+Wire Wire Line
+	8750 2800 8950 2800
+Wire Wire Line
+	8750 1800 8950 1800
+Wire Wire Line
+	8750 2000 8950 2000
+Wire Wire Line
+	8750 2200 8950 2200
+Wire Wire Line
+	3550 2200 4200 2200
+Wire Wire Line
+	5650 4800 5950 4800
+Wire Wire Line
+	5650 5300 5950 5300
+$Comp
+L C C1
+U 1 1 577ABBBE
+P 5850 5050
+F 0 "C1" H 5850 5150 40  0000 L CNN
+F 1 "100nf" H 5856 4965 40  0000 L CNN
+F 2 "" H 5888 4900 30  0000 C CNN
+F 3 "" H 5850 5050 60  0000 C CNN
+	1    5850 5050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5850 4850 5850 4800
+Connection ~ 5850 4800
+Wire Wire Line
+	5850 5250 5850 5300
+Connection ~ 5850 5300
+Text GLabel 5650 4800 0    60   Input ~ 0
+5V
+Text GLabel 5650 5300 0    60   Input ~ 0
+GND
+Wire Wire Line
+	8250 4100 8450 4100
+Text GLabel 8450 4100 2    60   Input ~ 0
+Pin10
+Wire Wire Line
+	8250 4900 8450 4900
+Text GLabel 8450 4900 2    60   Input ~ 0
+Pin13
+Wire Wire Line
+	8250 4800 8850 4800
+Wire Wire Line
+	8250 4700 8400 4700
+Wire Wire Line
+	8400 4700 8400 4650
+Wire Wire Line
+	8400 4650 8500 4650
+Text GLabel 8850 4800 2    60   Input ~ 0
+Pin12
+Text GLabel 8500 4650 2    60   Input ~ 0
+Pin11
+NoConn ~ 8250 4200
+NoConn ~ 8250 4300
+NoConn ~ 8250 4400
+NoConn ~ 8250 4600
+NoConn ~ 8250 5000
+NoConn ~ 8250 5100
+NoConn ~ 8250 5200
+NoConn ~ 8250 5300
+$Comp
+L R R1
+U 1 1 577ABD1B
+P 2450 4800
+F 0 "R1" V 2530 4800 40  0000 C CNN
+F 1 "200R" V 2457 4801 40  0000 C CNN
+F 2 "" V 2380 4800 30  0000 C CNN
+F 3 "" H 2450 4800 30  0000 C CNN
+	1    2450 4800
+	0    1    1    0   
+$EndComp
+$Comp
+L LED D1
+U 1 1 577ABD2F
+P 3100 4800
+F 0 "D1" H 3100 4900 50  0000 C CNN
+F 1 "LED" H 3100 4700 50  0000 C CNN
+F 2 "" H 3100 4800 60  0000 C CNN
+F 3 "" H 3100 4800 60  0000 C CNN
+	1    3100 4800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 4800 2200 4800
+Wire Wire Line
+	2700 4800 2900 4800
+Wire Wire Line
+	3300 4800 3500 4800
+$Comp
+L GND #PWR01
+U 1 1 577ABDDF
+P 3500 4800
+F 0 "#PWR01" H 3500 4800 30  0001 C CNN
+F 1 "GND" H 3500 4730 30  0001 C CNN
+F 2 "" H 3500 4800 60  0000 C CNN
+F 3 "" H 3500 4800 60  0000 C CNN
+	1    3500 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R2
+U 1 1 577ABDF1
+P 2450 5200
+F 0 "R2" V 2530 5200 40  0000 C CNN
+F 1 "220R" V 2457 5201 40  0000 C CNN
+F 2 "" V 2380 5200 30  0000 C CNN
+F 3 "" H 2450 5200 30  0000 C CNN
+	1    2450 5200
+	0    1    1    0   
+$EndComp
+$Comp
+L LED D2
+U 1 1 577ABDF7
+P 3100 5200
+F 0 "D2" H 3100 5300 50  0000 C CNN
+F 1 "LED" H 3100 5100 50  0000 C CNN
+F 2 "" H 3100 5200 60  0000 C CNN
+F 3 "" H 3100 5200 60  0000 C CNN
+	1    3100 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 5200 2200 5200
+Wire Wire Line
+	2700 5200 2900 5200
+Wire Wire Line
+	3300 5200 3500 5200
+$Comp
+L GND #PWR02
+U 1 1 577ABE00
+P 3500 5200
+F 0 "#PWR02" H 3500 5200 30  0001 C CNN
+F 1 "GND" H 3500 5130 30  0001 C CNN
+F 2 "" H 3500 5200 60  0000 C CNN
+F 3 "" H 3500 5200 60  0000 C CNN
+	1    3500 5200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R3
+U 1 1 577ABE06
+P 2450 5600
+F 0 "R3" V 2530 5600 40  0000 C CNN
+F 1 "220R" V 2457 5601 40  0000 C CNN
+F 2 "" V 2380 5600 30  0000 C CNN
+F 3 "" H 2450 5600 30  0000 C CNN
+	1    2450 5600
+	0    1    1    0   
+$EndComp
+$Comp
+L LED D3
+U 1 1 577ABE0C
+P 3100 5600
+F 0 "D3" H 3100 5700 50  0000 C CNN
+F 1 "LED" H 3100 5500 50  0000 C CNN
+F 2 "" H 3100 5600 60  0000 C CNN
+F 3 "" H 3100 5600 60  0000 C CNN
+	1    3100 5600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 5600 2200 5600
+Wire Wire Line
+	2700 5600 2900 5600
+Wire Wire Line
+	3300 5600 3500 5600
+$Comp
+L GND #PWR03
+U 1 1 577ABE15
+P 3500 5600
+F 0 "#PWR03" H 3500 5600 30  0001 C CNN
+F 1 "GND" H 3500 5530 30  0001 C CNN
+F 2 "" H 3500 5600 60  0000 C CNN
+F 3 "" H 3500 5600 60  0000 C CNN
+	1    3500 5600
+	0    -1   -1   0   
+$EndComp
+Text GLabel 2000 4800 0    60   Input ~ 0
+Pin9
+Text GLabel 2000 5200 0    60   Input ~ 0
+Pin8
+Text GLabel 2000 5600 0    60   Input ~ 0
+Pin7
+Wire Wire Line
+	1900 4450 2250 4450
+Text GLabel 1900 4450 0    60   Input ~ 0
+5V
+$Comp
+L PWR_FLAG #FLG04
+U 1 1 577ABE63
+P 2250 4450
+F 0 "#FLG04" H 2250 4545 30  0001 C CNN
+F 1 "PWR_FLAG" H 2250 4630 30  0000 C CNN
+F 2 "" H 2250 4450 60  0000 C CNN
+F 3 "" H 2250 4450 60  0000 C CNN
+	1    2250 4450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 6000 2250 6000
+Wire Wire Line
+	2650 6000 2900 6000
+Text GLabel 2900 6000 2    60   Input ~ 0
+Reset
+Wire Wire Line
+	5600 2650 5550 2650
+Wire Wire Line
+	5550 2650 5550 2350
+Wire Wire Line
+	5550 2350 5100 2350
+Text GLabel 5100 2350 0    60   Input ~ 0
+5V
+$Comp
+L C C3
+U 1 1 577AE945
+P 5300 2600
+F 0 "C3" H 5300 2700 40  0000 L CNN
+F 1 "100nF" H 5306 2515 40  0000 L CNN
+F 2 "" H 5338 2450 30  0000 C CNN
+F 3 "" H 5300 2600 60  0000 C CNN
+	1    5300 2600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 2400 5300 2350
+Connection ~ 5300 2350
+Wire Wire Line
+	5300 2800 5300 2850
+Connection ~ 5300 2850
+Text GLabel 2000 6000 0    60   Input ~ 0
+GND
+$Comp
+L CP1 C2
+U 1 1 577AEEB9
+P 2450 6000
+F 0 "C2" H 2500 6100 50  0000 L CNN
+F 1 "CP1" H 2500 5900 50  0000 L CNN
+F 2 "" H 2450 6000 60  0000 C CNN
+F 3 "" H 2450 6000 60  0000 C CNN
+	1    2450 6000
+	0    1    1    0   
+$EndComp
+$EndSCHEMATC

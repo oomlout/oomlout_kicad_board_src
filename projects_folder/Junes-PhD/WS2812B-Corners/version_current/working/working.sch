@@ -1,0 +1,202 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:45 Neo-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L WS2812 U1
+U 1 1 59668BBE
+P 5100 3050
+F 0 "U1" H 5100 3447 60  0000 C CNN
+F 1 "WS2812" H 5100 3341 60  0000 C CNN
+F 2 ".pretty:WS2812" H 5100 3050 60  0001 C CNN
+F 3 "" H 5100 3050 60  0001 C CNN
+	1    5100 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_Small C1
+U 1 1 59668C71
+P 4400 3050
+F 0 "C1" H 4200 3100 50  0000 L CNN
+F 1 "0.1uF" H 4100 3000 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 4400 3050 50  0001 C CNN
+F 3 "" H 4400 3050 50  0001 C CNN
+	1    4400 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR01
+U 1 1 59668D84
+P 4400 2800
+F 0 "#PWR01" H 4400 2650 50  0001 C CNN
+F 1 "+5V" H 4415 2973 50  0000 C CNN
+F 2 "" H 4400 2800 50  0001 C CNN
+F 3 "" H 4400 2800 50  0001 C CNN
+	1    4400 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR02
+U 1 1 59668DBF
+P 5650 3300
+F 0 "#PWR02" H 5650 3050 50  0001 C CNN
+F 1 "GND" H 5655 3127 50  0000 C CNN
+F 2 "" H 5650 3300 50  0001 C CNN
+F 3 "" H 5650 3300 50  0001 C CNN
+	1    5650 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR03
+U 1 1 59668DD7
+P 4400 3300
+F 0 "#PWR03" H 4400 3050 50  0001 C CNN
+F 1 "GND" H 4405 3127 50  0000 C CNN
+F 2 "" H 4400 3300 50  0001 C CNN
+F 3 "" H 4400 3300 50  0001 C CNN
+	1    4400 3300
+	1    0    0    -1  
+$EndComp
+Text Label 4450 3200 0    60   ~ 0
+DOUT
+Wire Wire Line
+	4450 3200 4650 3200
+Wire Wire Line
+	4400 3150 4400 3300
+Wire Wire Line
+	4400 2950 4400 2800
+Wire Wire Line
+	4650 2900 4400 2900
+Connection ~ 4400 2900
+Wire Wire Line
+	5550 3200 5650 3200
+Wire Wire Line
+	5650 3200 5650 3300
+Text Label 5750 2900 2    60   ~ 0
+DIN
+Wire Wire Line
+	5550 2900 5750 2900
+$Comp
+L CONN_01X03 J1
+U 1 1 596697F3
+P 6250 3100
+F 0 "J1" H 6169 2775 50  0000 C CNN
+F 1 "CONN_01X03" H 6169 2866 50  0000 C CNN
+F 2 ".pretty:Tape_3_Circuit_Pad" H 6250 3100 50  0001 C CNN
+F 3 "" H 6250 3100 50  0001 C CNN
+	1    6250 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X03 J2
+U 1 1 59669882
+P 6250 3650
+F 0 "J2" H 6169 3325 50  0000 C CNN
+F 1 "CONN_01X03" H 6169 3416 50  0000 C CNN
+F 2 ".pretty:Tape_3_Circuit_Pad" H 6250 3650 50  0001 C CNN
+F 3 "" H 6250 3650 50  0001 C CNN
+	1    6250 3650
+	-1   0    0    1   
+$EndComp
+Text Label 6650 3100 2    60   ~ 0
+DIN
+Text Label 6700 3650 2    60   ~ 0
+DOUT
+Wire Wire Line
+	6450 3100 6650 3100
+Wire Wire Line
+	6450 3650 6700 3650
+$Comp
+L +5V #PWR04
+U 1 1 596698E5
+P 6550 3000
+F 0 "#PWR04" H 6550 2850 50  0001 C CNN
+F 1 "+5V" H 6565 3173 50  0000 C CNN
+F 2 "" H 6550 3000 50  0001 C CNN
+F 3 "" H 6550 3000 50  0001 C CNN
+	1    6550 3000
+	0    1    1    0   
+$EndComp
+$Comp
+L +5V #PWR05
+U 1 1 596698F8
+P 6550 3750
+F 0 "#PWR05" H 6550 3600 50  0001 C CNN
+F 1 "+5V" H 6565 3923 50  0000 C CNN
+F 2 "" H 6550 3750 50  0001 C CNN
+F 3 "" H 6550 3750 50  0001 C CNN
+	1    6550 3750
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR06
+U 1 1 59669932
+P 6550 3200
+F 0 "#PWR06" H 6550 2950 50  0001 C CNN
+F 1 "GND" H 6555 3027 50  0000 C CNN
+F 2 "" H 6550 3200 50  0001 C CNN
+F 3 "" H 6550 3200 50  0001 C CNN
+	1    6550 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L GND #PWR07
+U 1 1 59669951
+P 6550 3550
+F 0 "#PWR07" H 6550 3300 50  0001 C CNN
+F 1 "GND" H 6555 3377 50  0000 C CNN
+F 2 "" H 6550 3550 50  0001 C CNN
+F 3 "" H 6550 3550 50  0001 C CNN
+	1    6550 3550
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6450 3550 6550 3550
+Wire Wire Line
+	6450 3750 6550 3750
+Wire Wire Line
+	6450 3200 6550 3200
+Wire Wire Line
+	6450 3000 6550 3000
+$EndSCHEMATC

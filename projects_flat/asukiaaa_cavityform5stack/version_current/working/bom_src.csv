@@ -1,0 +1,20 @@
+Name,Number,Url,Memo
+top_pcb,1,Attached,"Layer--2layers
+PCB Thickness--1.0mm
+Dimensions--51mm * 51mm
+Castellated Hole--Yes
+PCB Color--White
+Surface Finish--HASL Lead Free
+Copper Weight--1oz
+Different Design:--1"
+bottom_pcb,1,Attached,"Layer--2layers
+PCB Thickness--1.0mm
+Dimensions--50mm * 50mm
+Castellated Hole--No
+PCB Color--White
+Surface Finish--HASL Lead Free
+Copper Weight--1oz
+Different Design:--1"
+M5 Stack Joint,1 pair,https://ja.aliexpress.com/store/product/M5Stack-Official-Stock-Offer-2x15-Pin-Headers-Socket-2-54mm-Male-Female-4-Pair-Connector-for/3226069_32840923472.html,"Use header for top_pcb, socket for bottom_pcb"
+0.5mm pitch 30 pins FPC Connector,2,https://ja.aliexpress.com/item/32956902542.html,
+2.54m pitch 1x13 PinSocket white,2,,"Put pinsocket on front side of bottom_pcb. I don't mind bendor."

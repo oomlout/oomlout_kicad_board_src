@@ -1,0 +1,109 @@
+allow_forking: true
+archive_url: https://api.github.com/repos/devbisme/kinjector/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/devbisme/kinjector/assignees{/user}
+blobs_url: https://api.github.com/repos/devbisme/kinjector/git/blobs{/sha}
+branches_url: https://api.github.com/repos/devbisme/kinjector/branches{/branch}
+clone_url: https://github.com/devbisme/kinjector.git
+collaborators_url: https://api.github.com/repos/devbisme/kinjector/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/devbisme/kinjector/comments{/number}
+commits_url: https://api.github.com/repos/devbisme/kinjector/commits{/sha}
+compare_url: https://api.github.com/repos/devbisme/kinjector/compare/{base}...{head}
+contents_url: https://api.github.com/repos/devbisme/kinjector/contents/{+path}
+contributors_url: https://api.github.com/repos/devbisme/kinjector/contributors
+created_at: '2019-05-15T15:31:49Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/devbisme/kinjector/deployments
+description: Inject/eject JSON data to/from KiCad files.
+disabled: false
+downloads_url: https://api.github.com/repos/devbisme/kinjector/downloads
+events_url: https://api.github.com/repos/devbisme/kinjector/events
+fork: false
+forks: 3
+forks_count: 3
+forks_url: https://api.github.com/repos/devbisme/kinjector/forks
+full_name: devbisme/kinjector
+git_commits_url: https://api.github.com/repos/devbisme/kinjector/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/devbisme/kinjector/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/devbisme/kinjector/git/tags{/sha}
+git_url: git://github.com/devbisme/kinjector.git
+has_discussions: false
+has_downloads: true
+has_issues: true
+has_pages: true
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/devbisme/kinjector/hooks
+html_url: https://github.com/devbisme/kinjector
+id: 186855343
+is_template: false
+issue_comment_url: https://api.github.com/repos/devbisme/kinjector/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/devbisme/kinjector/issues/events{/number}
+issues_url: https://api.github.com/repos/devbisme/kinjector/issues{/number}
+keys_url: https://api.github.com/repos/devbisme/kinjector/keys{/key_id}
+labels_url: https://api.github.com/repos/devbisme/kinjector/labels{/name}
+language: Python
+languages_url: https://api.github.com/repos/devbisme/kinjector/languages
+license:
+  key: mit
+  name: MIT License
+  node_id: MDc6TGljZW5zZTEz
+  spdx_id: MIT
+  url: https://api.github.com/licenses/mit
+merges_url: https://api.github.com/repos/devbisme/kinjector/merges
+milestones_url: https://api.github.com/repos/devbisme/kinjector/milestones{/number}
+mirror_url: null
+name: kinjector
+node_id: MDEwOlJlcG9zaXRvcnkxODY4NTUzNDM=
+notifications_url: https://api.github.com/repos/devbisme/kinjector/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/666592?v=4
+  events_url: https://api.github.com/users/devbisme/events{/privacy}
+  followers_url: https://api.github.com/users/devbisme/followers
+  following_url: https://api.github.com/users/devbisme/following{/other_user}
+  gists_url: https://api.github.com/users/devbisme/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/devbisme
+  id: 666592
+  login: devbisme
+  node_id: MDQ6VXNlcjY2NjU5Mg==
+  organizations_url: https://api.github.com/users/devbisme/orgs
+  received_events_url: https://api.github.com/users/devbisme/received_events
+  repos_url: https://api.github.com/users/devbisme/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/devbisme/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/devbisme/subscriptions
+  type: User
+  url: https://api.github.com/users/devbisme
+private: false
+projects_flat: projects_flat/devbisme_kinjector/version_current/working
+projects_folder: projects_folder/devbisme/kinjector/version_current/working
+pulls_url: https://api.github.com/repos/devbisme/kinjector/pulls{/number}
+pushed_at: '2023-01-05T14:45:30Z'
+releases_url: https://api.github.com/repos/devbisme/kinjector/releases{/id}
+size: 287
+ssh_url: git@github.com:devbisme/kinjector.git
+stargazers_count: 7
+stargazers_url: https://api.github.com/repos/devbisme/kinjector/stargazers
+statuses_url: https://api.github.com/repos/devbisme/kinjector/statuses/{sha}
+subscribers_url: https://api.github.com/repos/devbisme/kinjector/subscribers
+subscription_url: https://api.github.com/repos/devbisme/kinjector/subscription
+svn_url: https://github.com/devbisme/kinjector
+tags_url: https://api.github.com/repos/devbisme/kinjector/tags
+teams_url: https://api.github.com/repos/devbisme/kinjector/teams
+topics:
+- json
+- kicad
+- pcbnew
+- python
+- yaml
+trees_url: https://api.github.com/repos/devbisme/kinjector/git/trees{/sha}
+updated_at: '2023-07-16T05:37:46Z'
+url: https://api.github.com/repos/devbisme/kinjector
+visibility: public
+watchers: 7
+watchers_count: 7
+web_commit_signoff_required: false

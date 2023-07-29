@@ -1,0 +1,2019 @@
+EESchema Schematic File Version 4
+LIBS:Ears-cache
+EELAYER 29 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 2 2
+Title "Flex Ears"
+Date "2019-02-04"
+Rev "1.0"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42457
+P 1350 1200
+AR Path="/5CE42457" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42457" Ref="C3"  Part="1" 
+F 0 "C3" H 1350 1400 50  0000 L CNN
+F 1 "1uF" H 1300 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1350 1200 50  0001 C CNN
+F 3 "~" H 1350 1200 50  0001 C CNN
+	1    1350 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4245E
+P 1500 1200
+AR Path="/5CE4245E" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4245E" Ref="C4"  Part="1" 
+F 0 "C4" H 1500 1400 50  0000 L CNN
+F 1 "1uF" H 1450 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1500 1200 50  0001 C CNN
+F 3 "~" H 1500 1200 50  0001 C CNN
+	1    1500 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42465
+P 1650 1200
+AR Path="/5CE42465" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42465" Ref="C5"  Part="1" 
+F 0 "C5" H 1650 1400 50  0000 L CNN
+F 1 "1uF" H 1600 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1650 1200 50  0001 C CNN
+F 3 "~" H 1650 1200 50  0001 C CNN
+	1    1650 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4246C
+P 1800 1200
+AR Path="/5CE4246C" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4246C" Ref="C6"  Part="1" 
+F 0 "C6" H 1800 1400 50  0000 L CNN
+F 1 "1uF" H 1750 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1800 1200 50  0001 C CNN
+F 3 "~" H 1800 1200 50  0001 C CNN
+	1    1800 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42473
+P 1950 1200
+AR Path="/5CE42473" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42473" Ref="C7"  Part="1" 
+F 0 "C7" H 1950 1400 50  0000 L CNN
+F 1 "1uF" H 1900 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1950 1200 50  0001 C CNN
+F 3 "~" H 1950 1200 50  0001 C CNN
+	1    1950 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4247A
+P 2100 1200
+AR Path="/5CE4247A" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4247A" Ref="C8"  Part="1" 
+F 0 "C8" H 2100 1400 50  0000 L CNN
+F 1 "1uF" H 2050 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2100 1200 50  0001 C CNN
+F 3 "~" H 2100 1200 50  0001 C CNN
+	1    2100 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42481
+P 2250 1200
+AR Path="/5CE42481" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42481" Ref="C9"  Part="1" 
+F 0 "C9" H 2250 1400 50  0000 L CNN
+F 1 "1uF" H 2200 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2250 1200 50  0001 C CNN
+F 3 "~" H 2250 1200 50  0001 C CNN
+	1    2250 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42488
+P 2400 1200
+AR Path="/5CE42488" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42488" Ref="C10"  Part="1" 
+F 0 "C10" H 2400 1400 50  0000 L CNN
+F 1 "1uF" H 2350 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2400 1200 50  0001 C CNN
+F 3 "~" H 2400 1200 50  0001 C CNN
+	1    2400 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4248F
+P 2550 1200
+AR Path="/5CE4248F" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4248F" Ref="C11"  Part="1" 
+F 0 "C11" H 2550 1400 50  0000 L CNN
+F 1 "1uF" H 2500 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2550 1200 50  0001 C CNN
+F 3 "~" H 2550 1200 50  0001 C CNN
+	1    2550 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42496
+P 2700 1200
+AR Path="/5CE42496" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42496" Ref="C12"  Part="1" 
+F 0 "C12" H 2700 1400 50  0000 L CNN
+F 1 "1uF" H 2650 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2700 1200 50  0001 C CNN
+F 3 "~" H 2700 1200 50  0001 C CNN
+	1    2700 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4249D
+P 2850 1200
+AR Path="/5CE4249D" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4249D" Ref="C13"  Part="1" 
+F 0 "C13" H 2850 1400 50  0000 L CNN
+F 1 "1uF" H 2800 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2850 1200 50  0001 C CNN
+F 3 "~" H 2850 1200 50  0001 C CNN
+	1    2850 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424A4
+P 3000 1200
+AR Path="/5CE424A4" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424A4" Ref="C14"  Part="1" 
+F 0 "C14" H 3000 1400 50  0000 L CNN
+F 1 "1uF" H 2950 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3000 1200 50  0001 C CNN
+F 3 "~" H 3000 1200 50  0001 C CNN
+	1    3000 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424AB
+P 3150 1200
+AR Path="/5CE424AB" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424AB" Ref="C15"  Part="1" 
+F 0 "C15" H 3150 1400 50  0000 L CNN
+F 1 "1uF" H 3100 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3150 1200 50  0001 C CNN
+F 3 "~" H 3150 1200 50  0001 C CNN
+	1    3150 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424B2
+P 3300 1200
+AR Path="/5CE424B2" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424B2" Ref="C16"  Part="1" 
+F 0 "C16" H 3300 1400 50  0000 L CNN
+F 1 "1uF" H 3250 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3300 1200 50  0001 C CNN
+F 3 "~" H 3300 1200 50  0001 C CNN
+	1    3300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424B9
+P 1200 1200
+AR Path="/5CE424B9" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424B9" Ref="C2"  Part="1" 
+F 0 "C2" H 1200 1400 50  0000 L CNN
+F 1 "1uF" H 1150 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1200 1200 50  0001 C CNN
+F 3 "~" H 1200 1200 50  0001 C CNN
+	1    1200 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424C0
+P 3600 1200
+AR Path="/5CE424C0" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424C0" Ref="C18"  Part="1" 
+F 0 "C18" H 3600 1400 50  0000 L CNN
+F 1 "1uF" H 3550 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3600 1200 50  0001 C CNN
+F 3 "~" H 3600 1200 50  0001 C CNN
+	1    3600 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424C7
+P 3750 1200
+AR Path="/5CE424C7" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424C7" Ref="C19"  Part="1" 
+F 0 "C19" H 3750 1400 50  0000 L CNN
+F 1 "1uF" H 3700 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3750 1200 50  0001 C CNN
+F 3 "~" H 3750 1200 50  0001 C CNN
+	1    3750 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424CE
+P 3900 1200
+AR Path="/5CE424CE" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424CE" Ref="C20"  Part="1" 
+F 0 "C20" H 3900 1400 50  0000 L CNN
+F 1 "1uF" H 3850 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3900 1200 50  0001 C CNN
+F 3 "~" H 3900 1200 50  0001 C CNN
+	1    3900 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424D5
+P 4050 1200
+AR Path="/5CE424D5" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424D5" Ref="C21"  Part="1" 
+F 0 "C21" H 4050 1400 50  0000 L CNN
+F 1 "1uF" H 4000 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4050 1200 50  0001 C CNN
+F 3 "~" H 4050 1200 50  0001 C CNN
+	1    4050 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424DC
+P 4200 1200
+AR Path="/5CE424DC" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424DC" Ref="C23"  Part="1" 
+F 0 "C23" H 4200 1400 50  0000 L CNN
+F 1 "1uF" H 4150 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4200 1200 50  0001 C CNN
+F 3 "~" H 4200 1200 50  0001 C CNN
+	1    4200 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424E3
+P 4350 1200
+AR Path="/5CE424E3" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424E3" Ref="C24"  Part="1" 
+F 0 "C24" H 4350 1400 50  0000 L CNN
+F 1 "1uF" H 4300 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4350 1200 50  0001 C CNN
+F 3 "~" H 4350 1200 50  0001 C CNN
+	1    4350 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424EA
+P 4500 1200
+AR Path="/5CE424EA" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424EA" Ref="C26"  Part="1" 
+F 0 "C26" H 4500 1400 50  0000 L CNN
+F 1 "1uF" H 4450 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4500 1200 50  0001 C CNN
+F 3 "~" H 4500 1200 50  0001 C CNN
+	1    4500 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424F1
+P 4650 1200
+AR Path="/5CE424F1" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424F1" Ref="C27"  Part="1" 
+F 0 "C27" H 4650 1400 50  0000 L CNN
+F 1 "1uF" H 4600 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4650 1200 50  0001 C CNN
+F 3 "~" H 4650 1200 50  0001 C CNN
+	1    4650 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424F8
+P 4800 1200
+AR Path="/5CE424F8" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424F8" Ref="C29"  Part="1" 
+F 0 "C29" H 4800 1400 50  0000 L CNN
+F 1 "1uF" H 4750 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4800 1200 50  0001 C CNN
+F 3 "~" H 4800 1200 50  0001 C CNN
+	1    4800 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE424FF
+P 4950 1200
+AR Path="/5CE424FF" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE424FF" Ref="C30"  Part="1" 
+F 0 "C30" H 4950 1400 50  0000 L CNN
+F 1 "1uF" H 4900 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4950 1200 50  0001 C CNN
+F 3 "~" H 4950 1200 50  0001 C CNN
+	1    4950 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42506
+P 5100 1200
+AR Path="/5CE42506" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42506" Ref="C32"  Part="1" 
+F 0 "C32" H 5100 1400 50  0000 L CNN
+F 1 "1uF" H 5050 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5100 1200 50  0001 C CNN
+F 3 "~" H 5100 1200 50  0001 C CNN
+	1    5100 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4250D
+P 5250 1200
+AR Path="/5CE4250D" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4250D" Ref="C33"  Part="1" 
+F 0 "C33" H 5250 1400 50  0000 L CNN
+F 1 "1uF" H 5200 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5250 1200 50  0001 C CNN
+F 3 "~" H 5250 1200 50  0001 C CNN
+	1    5250 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42514
+P 3450 1200
+AR Path="/5CE42514" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42514" Ref="C17"  Part="1" 
+F 0 "C17" H 3450 1400 50  0000 L CNN
+F 1 "1uF" H 3400 1050 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3450 1200 50  0001 C CNN
+F 3 "~" H 3450 1200 50  0001 C CNN
+	1    3450 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4251B
+P 1350 1750
+AR Path="/5CE4251B" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4251B" Ref="C36"  Part="1" 
+F 0 "C36" H 1350 1950 50  0000 L CNN
+F 1 "1uF" H 1300 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1350 1750 50  0001 C CNN
+F 3 "~" H 1350 1750 50  0001 C CNN
+	1    1350 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42522
+P 1500 1750
+AR Path="/5CE42522" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42522" Ref="C38"  Part="1" 
+F 0 "C38" H 1500 1950 50  0000 L CNN
+F 1 "1uF" H 1450 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1500 1750 50  0001 C CNN
+F 3 "~" H 1500 1750 50  0001 C CNN
+	1    1500 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42529
+P 1650 1750
+AR Path="/5CE42529" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42529" Ref="C39"  Part="1" 
+F 0 "C39" H 1650 1950 50  0000 L CNN
+F 1 "1uF" H 1600 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1650 1750 50  0001 C CNN
+F 3 "~" H 1650 1750 50  0001 C CNN
+	1    1650 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42530
+P 1800 1750
+AR Path="/5CE42530" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42530" Ref="C41"  Part="1" 
+F 0 "C41" H 1800 1950 50  0000 L CNN
+F 1 "1uF" H 1750 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1800 1750 50  0001 C CNN
+F 3 "~" H 1800 1750 50  0001 C CNN
+	1    1800 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42537
+P 1950 1750
+AR Path="/5CE42537" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42537" Ref="C42"  Part="1" 
+F 0 "C42" H 1950 1950 50  0000 L CNN
+F 1 "1uF" H 1900 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1950 1750 50  0001 C CNN
+F 3 "~" H 1950 1750 50  0001 C CNN
+	1    1950 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4253E
+P 2100 1750
+AR Path="/5CE4253E" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4253E" Ref="C44"  Part="1" 
+F 0 "C44" H 2100 1950 50  0000 L CNN
+F 1 "1uF" H 2050 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2100 1750 50  0001 C CNN
+F 3 "~" H 2100 1750 50  0001 C CNN
+	1    2100 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42545
+P 2250 1750
+AR Path="/5CE42545" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42545" Ref="C45"  Part="1" 
+F 0 "C45" H 2250 1950 50  0000 L CNN
+F 1 "1uF" H 2200 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2250 1750 50  0001 C CNN
+F 3 "~" H 2250 1750 50  0001 C CNN
+	1    2250 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4254C
+P 2400 1750
+AR Path="/5CE4254C" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4254C" Ref="C47"  Part="1" 
+F 0 "C47" H 2400 1950 50  0000 L CNN
+F 1 "1uF" H 2350 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2400 1750 50  0001 C CNN
+F 3 "~" H 2400 1750 50  0001 C CNN
+	1    2400 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42553
+P 2550 1750
+AR Path="/5CE42553" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42553" Ref="C48"  Part="1" 
+F 0 "C48" H 2550 1950 50  0000 L CNN
+F 1 "1uF" H 2500 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2550 1750 50  0001 C CNN
+F 3 "~" H 2550 1750 50  0001 C CNN
+	1    2550 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4255A
+P 2700 1750
+AR Path="/5CE4255A" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4255A" Ref="C50"  Part="1" 
+F 0 "C50" H 2700 1950 50  0000 L CNN
+F 1 "1uF" H 2650 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2700 1750 50  0001 C CNN
+F 3 "~" H 2700 1750 50  0001 C CNN
+	1    2700 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42561
+P 2850 1750
+AR Path="/5CE42561" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42561" Ref="C51"  Part="1" 
+F 0 "C51" H 2850 1950 50  0000 L CNN
+F 1 "1uF" H 2800 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2850 1750 50  0001 C CNN
+F 3 "~" H 2850 1750 50  0001 C CNN
+	1    2850 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42568
+P 3000 1750
+AR Path="/5CE42568" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42568" Ref="C53"  Part="1" 
+F 0 "C53" H 3000 1950 50  0000 L CNN
+F 1 "1uF" H 2950 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3000 1750 50  0001 C CNN
+F 3 "~" H 3000 1750 50  0001 C CNN
+	1    3000 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4256F
+P 3150 1750
+AR Path="/5CE4256F" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4256F" Ref="C54"  Part="1" 
+F 0 "C54" H 3150 1950 50  0000 L CNN
+F 1 "1uF" H 3100 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3150 1750 50  0001 C CNN
+F 3 "~" H 3150 1750 50  0001 C CNN
+	1    3150 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42576
+P 3300 1750
+AR Path="/5CE42576" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42576" Ref="C55"  Part="1" 
+F 0 "C55" H 3300 1950 50  0000 L CNN
+F 1 "1uF" H 3250 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3300 1750 50  0001 C CNN
+F 3 "~" H 3300 1750 50  0001 C CNN
+	1    3300 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4257D
+P 1200 1750
+AR Path="/5CE4257D" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4257D" Ref="C35"  Part="1" 
+F 0 "C35" H 1200 1950 50  0000 L CNN
+F 1 "1uF" H 1150 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1200 1750 50  0001 C CNN
+F 3 "~" H 1200 1750 50  0001 C CNN
+	1    1200 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42584
+P 3600 1750
+AR Path="/5CE42584" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42584" Ref="C57"  Part="1" 
+F 0 "C57" H 3600 1950 50  0000 L CNN
+F 1 "1uF" H 3550 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3600 1750 50  0001 C CNN
+F 3 "~" H 3600 1750 50  0001 C CNN
+	1    3600 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4258B
+P 3750 1750
+AR Path="/5CE4258B" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4258B" Ref="C58"  Part="1" 
+F 0 "C58" H 3750 1950 50  0000 L CNN
+F 1 "1uF" H 3700 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3750 1750 50  0001 C CNN
+F 3 "~" H 3750 1750 50  0001 C CNN
+	1    3750 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42592
+P 3900 1750
+AR Path="/5CE42592" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42592" Ref="C59"  Part="1" 
+F 0 "C59" H 3900 1950 50  0000 L CNN
+F 1 "1uF" H 3850 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3900 1750 50  0001 C CNN
+F 3 "~" H 3900 1750 50  0001 C CNN
+	1    3900 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE42599
+P 4050 1750
+AR Path="/5CE42599" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE42599" Ref="C60"  Part="1" 
+F 0 "C60" H 4050 1950 50  0000 L CNN
+F 1 "1uF" H 4000 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4050 1750 50  0001 C CNN
+F 3 "~" H 4050 1750 50  0001 C CNN
+	1    4050 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE425A0
+P 4200 1750
+AR Path="/5CE425A0" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE425A0" Ref="C61"  Part="1" 
+F 0 "C61" H 4200 1950 50  0000 L CNN
+F 1 "1uF" H 4150 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4200 1750 50  0001 C CNN
+F 3 "~" H 4200 1750 50  0001 C CNN
+	1    4200 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE425A7
+P 4350 1750
+AR Path="/5CE425A7" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE425A7" Ref="C62"  Part="1" 
+F 0 "C62" H 4350 1950 50  0000 L CNN
+F 1 "1uF" H 4300 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4350 1750 50  0001 C CNN
+F 3 "~" H 4350 1750 50  0001 C CNN
+	1    4350 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE425AE
+P 4500 1750
+AR Path="/5CE425AE" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE425AE" Ref="C63"  Part="1" 
+F 0 "C63" H 4500 1950 50  0000 L CNN
+F 1 "1uF" H 4450 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4500 1750 50  0001 C CNN
+F 3 "~" H 4500 1750 50  0001 C CNN
+	1    4500 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE425B5
+P 4650 1750
+AR Path="/5CE425B5" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE425B5" Ref="C64"  Part="1" 
+F 0 "C64" H 4650 1950 50  0000 L CNN
+F 1 "1uF" H 4600 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4650 1750 50  0001 C CNN
+F 3 "~" H 4650 1750 50  0001 C CNN
+	1    4650 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE425BC
+P 4800 1750
+AR Path="/5CE425BC" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE425BC" Ref="C65"  Part="1" 
+F 0 "C65" H 4800 1950 50  0000 L CNN
+F 1 "1uF" H 4750 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4800 1750 50  0001 C CNN
+F 3 "~" H 4800 1750 50  0001 C CNN
+	1    4800 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE425C3
+P 4950 1750
+AR Path="/5CE425C3" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE425C3" Ref="C66"  Part="1" 
+F 0 "C66" H 4950 1950 50  0000 L CNN
+F 1 "1uF" H 4900 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4950 1750 50  0001 C CNN
+F 3 "~" H 4950 1750 50  0001 C CNN
+	1    4950 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE425CA
+P 5100 1750
+AR Path="/5CE425CA" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE425CA" Ref="C67"  Part="1" 
+F 0 "C67" H 5100 1950 50  0000 L CNN
+F 1 "1uF" H 5050 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5100 1750 50  0001 C CNN
+F 3 "~" H 5100 1750 50  0001 C CNN
+	1    5100 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE425D1
+P 3450 1750
+AR Path="/5CE425D1" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE425D1" Ref="C56"  Part="1" 
+F 0 "C56" H 3450 1950 50  0000 L CNN
+F 1 "1uF" H 3400 1600 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3450 1750 50  0001 C CNN
+F 3 "~" H 3450 1750 50  0001 C CNN
+	1    3450 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5CE425D8
+P 950 1100
+AR Path="/5CE425D8" Ref="#PWR?"  Part="1" 
+AR Path="/5CDFC74D/5CE425D8" Ref="#PWR017"  Part="1" 
+F 0 "#PWR017" H 950 950 50  0001 C CNN
+F 1 "VCC" H 967 1273 50  0000 C CNN
+F 2 "" H 950 1100 50  0001 C CNN
+F 3 "" H 950 1100 50  0001 C CNN
+	1    950  1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5CE425DE
+P 1100 1650
+AR Path="/5CE425DE" Ref="#PWR?"  Part="1" 
+AR Path="/5CDFC74D/5CE425DE" Ref="#PWR019"  Part="1" 
+F 0 "#PWR019" H 1100 1500 50  0001 C CNN
+F 1 "VCC" H 1117 1823 50  0000 C CNN
+F 2 "" H 1100 1650 50  0001 C CNN
+F 3 "" H 1100 1650 50  0001 C CNN
+	1    1100 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5CE425E4
+P 950 1300
+AR Path="/5CE425E4" Ref="#PWR?"  Part="1" 
+AR Path="/5CDFC74D/5CE425E4" Ref="#PWR018"  Part="1" 
+F 0 "#PWR018" H 950 1050 50  0001 C CNN
+F 1 "GND" H 955 1127 50  0000 C CNN
+F 2 "" H 950 1300 50  0001 C CNN
+F 3 "" H 950 1300 50  0001 C CNN
+	1    950  1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5CE425EA
+P 950 1850
+AR Path="/5CE425EA" Ref="#PWR?"  Part="1" 
+AR Path="/5CDFC74D/5CE425EA" Ref="#PWR020"  Part="1" 
+F 0 "#PWR020" H 950 1600 50  0001 C CNN
+F 1 "GND" H 955 1677 50  0000 C CNN
+F 2 "" H 950 1850 50  0001 C CNN
+F 3 "" H 950 1850 50  0001 C CNN
+	1    950  1850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	950  1850 1200 1850
+Connection ~ 1200 1850
+Wire Wire Line
+	1200 1850 1350 1850
+Connection ~ 1350 1850
+Wire Wire Line
+	1350 1850 1500 1850
+Connection ~ 1500 1850
+Wire Wire Line
+	1500 1850 1650 1850
+Connection ~ 1650 1850
+Wire Wire Line
+	1650 1850 1800 1850
+Connection ~ 1800 1850
+Wire Wire Line
+	1800 1850 1950 1850
+Connection ~ 1950 1850
+Wire Wire Line
+	1950 1850 2100 1850
+Connection ~ 2100 1850
+Wire Wire Line
+	2100 1850 2250 1850
+Connection ~ 2250 1850
+Wire Wire Line
+	2250 1850 2400 1850
+Connection ~ 2400 1850
+Wire Wire Line
+	2400 1850 2550 1850
+Connection ~ 2550 1850
+Wire Wire Line
+	2550 1850 2700 1850
+Connection ~ 2700 1850
+Wire Wire Line
+	2700 1850 2850 1850
+Connection ~ 2850 1850
+Wire Wire Line
+	2850 1850 3000 1850
+Connection ~ 3000 1850
+Wire Wire Line
+	3000 1850 3150 1850
+Connection ~ 3150 1850
+Wire Wire Line
+	3150 1850 3300 1850
+Connection ~ 3300 1850
+Wire Wire Line
+	3300 1850 3450 1850
+Connection ~ 3450 1850
+Wire Wire Line
+	3450 1850 3600 1850
+Connection ~ 3600 1850
+Wire Wire Line
+	3600 1850 3750 1850
+Connection ~ 3750 1850
+Wire Wire Line
+	3750 1850 3900 1850
+Connection ~ 3900 1850
+Wire Wire Line
+	3900 1850 4050 1850
+Connection ~ 4050 1850
+Wire Wire Line
+	4050 1850 4200 1850
+Connection ~ 4200 1850
+Wire Wire Line
+	4200 1850 4350 1850
+Connection ~ 4350 1850
+Wire Wire Line
+	4350 1850 4500 1850
+Connection ~ 4500 1850
+Wire Wire Line
+	4500 1850 4650 1850
+Connection ~ 4650 1850
+Wire Wire Line
+	4650 1850 4800 1850
+Connection ~ 4800 1850
+Wire Wire Line
+	4800 1850 4950 1850
+Connection ~ 4950 1850
+Wire Wire Line
+	4950 1850 5100 1850
+Connection ~ 1200 1650
+Wire Wire Line
+	1200 1650 1100 1650
+Connection ~ 1350 1650
+Wire Wire Line
+	1350 1650 1200 1650
+Connection ~ 1500 1650
+Wire Wire Line
+	1500 1650 1350 1650
+Connection ~ 1650 1650
+Wire Wire Line
+	1650 1650 1500 1650
+Connection ~ 1800 1650
+Wire Wire Line
+	1800 1650 1650 1650
+Connection ~ 1950 1650
+Wire Wire Line
+	1950 1650 1800 1650
+Connection ~ 2100 1650
+Wire Wire Line
+	2100 1650 1950 1650
+Connection ~ 2250 1650
+Wire Wire Line
+	2250 1650 2100 1650
+Connection ~ 2400 1650
+Wire Wire Line
+	2400 1650 2250 1650
+Connection ~ 2550 1650
+Wire Wire Line
+	2550 1650 2400 1650
+Connection ~ 2700 1650
+Wire Wire Line
+	2700 1650 2550 1650
+Connection ~ 2850 1650
+Wire Wire Line
+	2850 1650 2700 1650
+Connection ~ 3000 1650
+Wire Wire Line
+	3000 1650 2850 1650
+Connection ~ 3150 1650
+Wire Wire Line
+	3150 1650 3000 1650
+Connection ~ 3300 1650
+Wire Wire Line
+	3300 1650 3150 1650
+Connection ~ 3450 1650
+Wire Wire Line
+	3450 1650 3300 1650
+Connection ~ 3600 1650
+Wire Wire Line
+	3600 1650 3450 1650
+Connection ~ 3750 1650
+Wire Wire Line
+	3750 1650 3600 1650
+Connection ~ 3900 1650
+Wire Wire Line
+	3900 1650 3750 1650
+Connection ~ 4050 1650
+Wire Wire Line
+	4050 1650 3900 1650
+Connection ~ 4200 1650
+Wire Wire Line
+	4200 1650 4050 1650
+Connection ~ 4350 1650
+Wire Wire Line
+	4350 1650 4200 1650
+Connection ~ 4500 1650
+Wire Wire Line
+	4500 1650 4350 1650
+Connection ~ 4650 1650
+Wire Wire Line
+	4650 1650 4500 1650
+Connection ~ 4800 1650
+Wire Wire Line
+	4800 1650 4650 1650
+Connection ~ 4950 1650
+Wire Wire Line
+	4950 1650 4800 1650
+Wire Wire Line
+	5100 1650 4950 1650
+Wire Wire Line
+	950  1300 1200 1300
+Connection ~ 1200 1300
+Wire Wire Line
+	1200 1300 1350 1300
+Connection ~ 1350 1300
+Wire Wire Line
+	1350 1300 1500 1300
+Connection ~ 1500 1300
+Wire Wire Line
+	1500 1300 1650 1300
+Connection ~ 1650 1300
+Wire Wire Line
+	1650 1300 1800 1300
+Connection ~ 1800 1300
+Wire Wire Line
+	1800 1300 1950 1300
+Connection ~ 1950 1300
+Wire Wire Line
+	1950 1300 2100 1300
+Connection ~ 2100 1300
+Wire Wire Line
+	2100 1300 2250 1300
+Connection ~ 2250 1300
+Wire Wire Line
+	2250 1300 2400 1300
+Connection ~ 2400 1300
+Wire Wire Line
+	2400 1300 2550 1300
+Connection ~ 2550 1300
+Wire Wire Line
+	2550 1300 2700 1300
+Connection ~ 2700 1300
+Wire Wire Line
+	2700 1300 2850 1300
+Connection ~ 2850 1300
+Wire Wire Line
+	2850 1300 3000 1300
+Connection ~ 3000 1300
+Wire Wire Line
+	3000 1300 3150 1300
+Connection ~ 3150 1300
+Wire Wire Line
+	3150 1300 3300 1300
+Connection ~ 3300 1300
+Wire Wire Line
+	3300 1300 3450 1300
+Connection ~ 3450 1300
+Wire Wire Line
+	3450 1300 3600 1300
+Connection ~ 3600 1300
+Wire Wire Line
+	3600 1300 3750 1300
+Connection ~ 3750 1300
+Wire Wire Line
+	3750 1300 3900 1300
+Connection ~ 3900 1300
+Wire Wire Line
+	3900 1300 4050 1300
+Connection ~ 4050 1300
+Wire Wire Line
+	4050 1300 4200 1300
+Connection ~ 4200 1300
+Wire Wire Line
+	4200 1300 4350 1300
+Connection ~ 4350 1300
+Wire Wire Line
+	4350 1300 4500 1300
+Connection ~ 4500 1300
+Wire Wire Line
+	4500 1300 4650 1300
+Connection ~ 4650 1300
+Wire Wire Line
+	4650 1300 4800 1300
+Connection ~ 4800 1300
+Wire Wire Line
+	4800 1300 4950 1300
+Connection ~ 4950 1300
+Wire Wire Line
+	4950 1300 5100 1300
+Connection ~ 5100 1300
+Wire Wire Line
+	5100 1300 5250 1300
+Connection ~ 1200 1100
+Wire Wire Line
+	1200 1100 950  1100
+Connection ~ 1350 1100
+Wire Wire Line
+	1350 1100 1200 1100
+Connection ~ 1500 1100
+Wire Wire Line
+	1500 1100 1350 1100
+Connection ~ 1650 1100
+Wire Wire Line
+	1650 1100 1500 1100
+Connection ~ 1800 1100
+Wire Wire Line
+	1800 1100 1650 1100
+Connection ~ 1950 1100
+Wire Wire Line
+	1950 1100 1800 1100
+Connection ~ 2100 1100
+Wire Wire Line
+	2100 1100 1950 1100
+Connection ~ 2250 1100
+Wire Wire Line
+	2250 1100 2100 1100
+Connection ~ 2400 1100
+Wire Wire Line
+	2400 1100 2250 1100
+Connection ~ 2550 1100
+Wire Wire Line
+	2550 1100 2400 1100
+Connection ~ 2700 1100
+Wire Wire Line
+	2700 1100 2550 1100
+Connection ~ 2850 1100
+Wire Wire Line
+	2850 1100 2700 1100
+Connection ~ 3000 1100
+Wire Wire Line
+	3000 1100 2850 1100
+Connection ~ 3150 1100
+Wire Wire Line
+	3150 1100 3000 1100
+Connection ~ 3300 1100
+Wire Wire Line
+	3300 1100 3150 1100
+Connection ~ 3450 1100
+Wire Wire Line
+	3450 1100 3300 1100
+Connection ~ 3600 1100
+Wire Wire Line
+	3600 1100 3450 1100
+Connection ~ 3750 1100
+Wire Wire Line
+	3750 1100 3600 1100
+Connection ~ 3900 1100
+Wire Wire Line
+	3900 1100 3750 1100
+Connection ~ 4050 1100
+Wire Wire Line
+	4050 1100 3900 1100
+Connection ~ 4200 1100
+Wire Wire Line
+	4200 1100 4050 1100
+Connection ~ 4350 1100
+Wire Wire Line
+	4350 1100 4200 1100
+Connection ~ 4500 1100
+Wire Wire Line
+	4500 1100 4350 1100
+Connection ~ 4650 1100
+Wire Wire Line
+	4650 1100 4500 1100
+Connection ~ 4800 1100
+Wire Wire Line
+	4800 1100 4650 1100
+Connection ~ 4950 1100
+Wire Wire Line
+	4950 1100 4800 1100
+Connection ~ 5100 1100
+Wire Wire Line
+	5100 1100 4950 1100
+Wire Wire Line
+	5250 1100 5100 1100
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4906C
+P 1300 2550
+AR Path="/5CE4906C" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4906C" Ref="C72"  Part="1" 
+F 0 "C72" H 1300 2750 50  0000 L CNN
+F 1 "1uF" H 1250 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1300 2550 50  0001 C CNN
+F 3 "~" H 1300 2550 50  0001 C CNN
+	1    1300 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE49073
+P 1450 2550
+AR Path="/5CE49073" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE49073" Ref="C73"  Part="1" 
+F 0 "C73" H 1450 2750 50  0000 L CNN
+F 1 "1uF" H 1400 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1450 2550 50  0001 C CNN
+F 3 "~" H 1450 2550 50  0001 C CNN
+	1    1450 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4907A
+P 1600 2550
+AR Path="/5CE4907A" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4907A" Ref="C74"  Part="1" 
+F 0 "C74" H 1600 2750 50  0000 L CNN
+F 1 "1uF" H 1550 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1600 2550 50  0001 C CNN
+F 3 "~" H 1600 2550 50  0001 C CNN
+	1    1600 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE49081
+P 1750 2550
+AR Path="/5CE49081" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE49081" Ref="C75"  Part="1" 
+F 0 "C75" H 1750 2750 50  0000 L CNN
+F 1 "1uF" H 1700 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1750 2550 50  0001 C CNN
+F 3 "~" H 1750 2550 50  0001 C CNN
+	1    1750 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE49088
+P 1900 2550
+AR Path="/5CE49088" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE49088" Ref="C76"  Part="1" 
+F 0 "C76" H 1900 2750 50  0000 L CNN
+F 1 "1uF" H 1850 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1900 2550 50  0001 C CNN
+F 3 "~" H 1900 2550 50  0001 C CNN
+	1    1900 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4908F
+P 2050 2550
+AR Path="/5CE4908F" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4908F" Ref="C77"  Part="1" 
+F 0 "C77" H 2050 2750 50  0000 L CNN
+F 1 "1uF" H 2000 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2050 2550 50  0001 C CNN
+F 3 "~" H 2050 2550 50  0001 C CNN
+	1    2050 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE49096
+P 2200 2550
+AR Path="/5CE49096" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE49096" Ref="C78"  Part="1" 
+F 0 "C78" H 2200 2750 50  0000 L CNN
+F 1 "1uF" H 2150 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2200 2550 50  0001 C CNN
+F 3 "~" H 2200 2550 50  0001 C CNN
+	1    2200 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4909D
+P 2350 2550
+AR Path="/5CE4909D" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4909D" Ref="C79"  Part="1" 
+F 0 "C79" H 2350 2750 50  0000 L CNN
+F 1 "1uF" H 2300 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2350 2550 50  0001 C CNN
+F 3 "~" H 2350 2550 50  0001 C CNN
+	1    2350 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490A4
+P 2500 2550
+AR Path="/5CE490A4" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490A4" Ref="C80"  Part="1" 
+F 0 "C80" H 2500 2750 50  0000 L CNN
+F 1 "1uF" H 2450 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2500 2550 50  0001 C CNN
+F 3 "~" H 2500 2550 50  0001 C CNN
+	1    2500 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490AB
+P 2650 2550
+AR Path="/5CE490AB" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490AB" Ref="C81"  Part="1" 
+F 0 "C81" H 2650 2750 50  0000 L CNN
+F 1 "1uF" H 2600 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2650 2550 50  0001 C CNN
+F 3 "~" H 2650 2550 50  0001 C CNN
+	1    2650 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490B2
+P 2800 2550
+AR Path="/5CE490B2" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490B2" Ref="C82"  Part="1" 
+F 0 "C82" H 2800 2750 50  0000 L CNN
+F 1 "1uF" H 2750 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2800 2550 50  0001 C CNN
+F 3 "~" H 2800 2550 50  0001 C CNN
+	1    2800 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490B9
+P 2950 2550
+AR Path="/5CE490B9" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490B9" Ref="C83"  Part="1" 
+F 0 "C83" H 2950 2750 50  0000 L CNN
+F 1 "1uF" H 2900 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2950 2550 50  0001 C CNN
+F 3 "~" H 2950 2550 50  0001 C CNN
+	1    2950 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490C0
+P 3100 2550
+AR Path="/5CE490C0" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490C0" Ref="C84"  Part="1" 
+F 0 "C84" H 3100 2750 50  0000 L CNN
+F 1 "1uF" H 3050 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3100 2550 50  0001 C CNN
+F 3 "~" H 3100 2550 50  0001 C CNN
+	1    3100 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490C7
+P 3250 2550
+AR Path="/5CE490C7" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490C7" Ref="C85"  Part="1" 
+F 0 "C85" H 3250 2750 50  0000 L CNN
+F 1 "1uF" H 3200 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3250 2550 50  0001 C CNN
+F 3 "~" H 3250 2550 50  0001 C CNN
+	1    3250 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490CE
+P 1150 2550
+AR Path="/5CE490CE" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490CE" Ref="C71"  Part="1" 
+F 0 "C71" H 1150 2750 50  0000 L CNN
+F 1 "1uF" H 1100 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1150 2550 50  0001 C CNN
+F 3 "~" H 1150 2550 50  0001 C CNN
+	1    1150 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490D5
+P 3550 2550
+AR Path="/5CE490D5" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490D5" Ref="C87"  Part="1" 
+F 0 "C87" H 3550 2750 50  0000 L CNN
+F 1 "1uF" H 3500 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3550 2550 50  0001 C CNN
+F 3 "~" H 3550 2550 50  0001 C CNN
+	1    3550 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490DC
+P 3700 2550
+AR Path="/5CE490DC" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490DC" Ref="C88"  Part="1" 
+F 0 "C88" H 3700 2750 50  0000 L CNN
+F 1 "1uF" H 3650 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3700 2550 50  0001 C CNN
+F 3 "~" H 3700 2550 50  0001 C CNN
+	1    3700 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490E3
+P 3850 2550
+AR Path="/5CE490E3" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490E3" Ref="C89"  Part="1" 
+F 0 "C89" H 3850 2750 50  0000 L CNN
+F 1 "1uF" H 3800 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3850 2550 50  0001 C CNN
+F 3 "~" H 3850 2550 50  0001 C CNN
+	1    3850 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490EA
+P 4000 2550
+AR Path="/5CE490EA" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490EA" Ref="C90"  Part="1" 
+F 0 "C90" H 4000 2750 50  0000 L CNN
+F 1 "1uF" H 3950 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4000 2550 50  0001 C CNN
+F 3 "~" H 4000 2550 50  0001 C CNN
+	1    4000 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490F1
+P 4150 2550
+AR Path="/5CE490F1" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490F1" Ref="C91"  Part="1" 
+F 0 "C91" H 4150 2750 50  0000 L CNN
+F 1 "1uF" H 4100 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4150 2550 50  0001 C CNN
+F 3 "~" H 4150 2550 50  0001 C CNN
+	1    4150 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490F8
+P 4300 2550
+AR Path="/5CE490F8" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490F8" Ref="C92"  Part="1" 
+F 0 "C92" H 4300 2750 50  0000 L CNN
+F 1 "1uF" H 4250 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4300 2550 50  0001 C CNN
+F 3 "~" H 4300 2550 50  0001 C CNN
+	1    4300 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE490FF
+P 4450 2550
+AR Path="/5CE490FF" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE490FF" Ref="C93"  Part="1" 
+F 0 "C93" H 4450 2750 50  0000 L CNN
+F 1 "1uF" H 4400 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4450 2550 50  0001 C CNN
+F 3 "~" H 4450 2550 50  0001 C CNN
+	1    4450 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE49106
+P 4600 2550
+AR Path="/5CE49106" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE49106" Ref="C94"  Part="1" 
+F 0 "C94" H 4600 2750 50  0000 L CNN
+F 1 "1uF" H 4550 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4600 2550 50  0001 C CNN
+F 3 "~" H 4600 2550 50  0001 C CNN
+	1    4600 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4910D
+P 4750 2550
+AR Path="/5CE4910D" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4910D" Ref="C95"  Part="1" 
+F 0 "C95" H 4750 2750 50  0000 L CNN
+F 1 "1uF" H 4700 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4750 2550 50  0001 C CNN
+F 3 "~" H 4750 2550 50  0001 C CNN
+	1    4750 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE49114
+P 4900 2550
+AR Path="/5CE49114" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE49114" Ref="C96"  Part="1" 
+F 0 "C96" H 4900 2750 50  0000 L CNN
+F 1 "1uF" H 4850 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4900 2550 50  0001 C CNN
+F 3 "~" H 4900 2550 50  0001 C CNN
+	1    4900 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE4911B
+P 5050 2550
+AR Path="/5CE4911B" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE4911B" Ref="C97"  Part="1" 
+F 0 "C97" H 5050 2750 50  0000 L CNN
+F 1 "1uF" H 5000 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5050 2550 50  0001 C CNN
+F 3 "~" H 5050 2550 50  0001 C CNN
+	1    5050 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE49122
+P 5200 2550
+AR Path="/5CE49122" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE49122" Ref="C98"  Part="1" 
+F 0 "C98" H 5200 2750 50  0000 L CNN
+F 1 "1uF" H 5150 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5200 2550 50  0001 C CNN
+F 3 "~" H 5200 2550 50  0001 C CNN
+	1    5200 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5CE49129
+P 3400 2550
+AR Path="/5CE49129" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5CE49129" Ref="C86"  Part="1" 
+F 0 "C86" H 3400 2750 50  0000 L CNN
+F 1 "1uF" H 3350 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3400 2550 50  0001 C CNN
+F 3 "~" H 3400 2550 50  0001 C CNN
+	1    3400 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5CE49130
+P 900 2450
+AR Path="/5CE49130" Ref="#PWR?"  Part="1" 
+AR Path="/5CDFC74D/5CE49130" Ref="#PWR035"  Part="1" 
+F 0 "#PWR035" H 900 2300 50  0001 C CNN
+F 1 "VCC" H 917 2623 50  0000 C CNN
+F 2 "" H 900 2450 50  0001 C CNN
+F 3 "" H 900 2450 50  0001 C CNN
+	1    900  2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5CE49136
+P 900 2650
+AR Path="/5CE49136" Ref="#PWR?"  Part="1" 
+AR Path="/5CDFC74D/5CE49136" Ref="#PWR036"  Part="1" 
+F 0 "#PWR036" H 900 2400 50  0001 C CNN
+F 1 "GND" H 905 2477 50  0000 C CNN
+F 2 "" H 900 2650 50  0001 C CNN
+F 3 "" H 900 2650 50  0001 C CNN
+	1    900  2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  2650 1150 2650
+Connection ~ 1150 2650
+Wire Wire Line
+	1150 2650 1300 2650
+Connection ~ 1300 2650
+Wire Wire Line
+	1300 2650 1450 2650
+Connection ~ 1450 2650
+Wire Wire Line
+	1450 2650 1600 2650
+Connection ~ 1600 2650
+Wire Wire Line
+	1600 2650 1750 2650
+Connection ~ 1750 2650
+Wire Wire Line
+	1750 2650 1900 2650
+Connection ~ 1900 2650
+Wire Wire Line
+	1900 2650 2050 2650
+Connection ~ 2050 2650
+Wire Wire Line
+	2050 2650 2200 2650
+Connection ~ 2200 2650
+Wire Wire Line
+	2200 2650 2350 2650
+Connection ~ 2350 2650
+Wire Wire Line
+	2350 2650 2500 2650
+Connection ~ 2500 2650
+Wire Wire Line
+	2500 2650 2650 2650
+Connection ~ 2650 2650
+Wire Wire Line
+	2650 2650 2800 2650
+Connection ~ 2800 2650
+Wire Wire Line
+	2800 2650 2950 2650
+Connection ~ 2950 2650
+Wire Wire Line
+	2950 2650 3100 2650
+Connection ~ 3100 2650
+Wire Wire Line
+	3100 2650 3250 2650
+Connection ~ 3250 2650
+Wire Wire Line
+	3250 2650 3400 2650
+Connection ~ 3400 2650
+Wire Wire Line
+	3400 2650 3550 2650
+Connection ~ 3550 2650
+Wire Wire Line
+	3550 2650 3700 2650
+Connection ~ 3700 2650
+Wire Wire Line
+	3700 2650 3850 2650
+Connection ~ 3850 2650
+Wire Wire Line
+	3850 2650 4000 2650
+Connection ~ 4000 2650
+Wire Wire Line
+	4000 2650 4150 2650
+Connection ~ 4150 2650
+Wire Wire Line
+	4150 2650 4300 2650
+Connection ~ 4300 2650
+Wire Wire Line
+	4300 2650 4450 2650
+Connection ~ 4450 2650
+Wire Wire Line
+	4450 2650 4600 2650
+Connection ~ 4600 2650
+Wire Wire Line
+	4600 2650 4750 2650
+Connection ~ 4750 2650
+Wire Wire Line
+	4750 2650 4900 2650
+Connection ~ 4900 2650
+Wire Wire Line
+	4900 2650 5050 2650
+Connection ~ 5050 2650
+Wire Wire Line
+	5050 2650 5200 2650
+Connection ~ 1150 2450
+Wire Wire Line
+	1150 2450 900  2450
+Connection ~ 1300 2450
+Wire Wire Line
+	1300 2450 1150 2450
+Connection ~ 1450 2450
+Wire Wire Line
+	1450 2450 1300 2450
+Connection ~ 1600 2450
+Wire Wire Line
+	1600 2450 1450 2450
+Connection ~ 1750 2450
+Wire Wire Line
+	1750 2450 1600 2450
+Connection ~ 1900 2450
+Wire Wire Line
+	1900 2450 1750 2450
+Connection ~ 2050 2450
+Wire Wire Line
+	2050 2450 1900 2450
+Connection ~ 2200 2450
+Wire Wire Line
+	2200 2450 2050 2450
+Connection ~ 2350 2450
+Wire Wire Line
+	2350 2450 2200 2450
+Connection ~ 2500 2450
+Wire Wire Line
+	2500 2450 2350 2450
+Connection ~ 2650 2450
+Wire Wire Line
+	2650 2450 2500 2450
+Connection ~ 2800 2450
+Wire Wire Line
+	2800 2450 2650 2450
+Connection ~ 2950 2450
+Wire Wire Line
+	2950 2450 2800 2450
+Connection ~ 3100 2450
+Wire Wire Line
+	3100 2450 2950 2450
+Connection ~ 3250 2450
+Wire Wire Line
+	3250 2450 3100 2450
+Connection ~ 3400 2450
+Wire Wire Line
+	3400 2450 3250 2450
+Connection ~ 3550 2450
+Wire Wire Line
+	3550 2450 3400 2450
+Connection ~ 3700 2450
+Wire Wire Line
+	3700 2450 3550 2450
+Connection ~ 3850 2450
+Wire Wire Line
+	3850 2450 3700 2450
+Connection ~ 4000 2450
+Wire Wire Line
+	4000 2450 3850 2450
+Connection ~ 4150 2450
+Wire Wire Line
+	4150 2450 4000 2450
+Connection ~ 4300 2450
+Wire Wire Line
+	4300 2450 4150 2450
+Connection ~ 4450 2450
+Wire Wire Line
+	4450 2450 4300 2450
+Connection ~ 4600 2450
+Wire Wire Line
+	4600 2450 4450 2450
+Connection ~ 4750 2450
+Wire Wire Line
+	4750 2450 4600 2450
+Connection ~ 4900 2450
+Wire Wire Line
+	4900 2450 4750 2450
+Connection ~ 5050 2450
+Wire Wire Line
+	5050 2450 4900 2450
+Wire Wire Line
+	5200 2450 5050 2450
+$Comp
+L Device:C_Small C?
+U 1 1 5D035662
+P 1850 4300
+AR Path="/5D035662" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D035662" Ref="C37"  Part="1" 
+F 0 "C37" H 1850 4500 50  0000 L CNN
+F 1 "1uF" H 1800 4150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1850 4300 50  0001 C CNN
+F 3 "~" H 1850 4300 50  0001 C CNN
+	1    1850 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5D035669
+P 2000 4300
+AR Path="/5D035669" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D035669" Ref="C40"  Part="1" 
+F 0 "C40" H 2000 4500 50  0000 L CNN
+F 1 "1uF" H 1950 4150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2000 4300 50  0001 C CNN
+F 3 "~" H 2000 4300 50  0001 C CNN
+	1    2000 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5D035670
+P 2150 4300
+AR Path="/5D035670" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D035670" Ref="C43"  Part="1" 
+F 0 "C43" H 2150 4500 50  0000 L CNN
+F 1 "1uF" H 2100 4150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2150 4300 50  0001 C CNN
+F 3 "~" H 2150 4300 50  0001 C CNN
+	1    2150 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5D035677
+P 2300 4300
+AR Path="/5D035677" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D035677" Ref="C46"  Part="1" 
+F 0 "C46" H 2300 4500 50  0000 L CNN
+F 1 "1uF" H 2250 4150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2300 4300 50  0001 C CNN
+F 3 "~" H 2300 4300 50  0001 C CNN
+	1    2300 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5D03567E
+P 2450 4300
+AR Path="/5D03567E" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D03567E" Ref="C49"  Part="1" 
+F 0 "C49" H 2450 4500 50  0000 L CNN
+F 1 "1uF" H 2400 4150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2450 4300 50  0001 C CNN
+F 3 "~" H 2450 4300 50  0001 C CNN
+	1    2450 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5D035685
+P 2600 4300
+AR Path="/5D035685" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D035685" Ref="C52"  Part="1" 
+F 0 "C52" H 2600 4500 50  0000 L CNN
+F 1 "1uF" H 2550 4150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2600 4300 50  0001 C CNN
+F 3 "~" H 2600 4300 50  0001 C CNN
+	1    2600 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5D03568C
+P 2750 4300
+AR Path="/5D03568C" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D03568C" Ref="C68"  Part="1" 
+F 0 "C68" H 2750 4500 50  0000 L CNN
+F 1 "1uF" H 2700 4150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2750 4300 50  0001 C CNN
+F 3 "~" H 2750 4300 50  0001 C CNN
+	1    2750 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5D035693
+P 2900 4300
+AR Path="/5D035693" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D035693" Ref="C69"  Part="1" 
+F 0 "C69" H 2900 4500 50  0000 L CNN
+F 1 "1uF" H 2850 4150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2900 4300 50  0001 C CNN
+F 3 "~" H 2900 4300 50  0001 C CNN
+	1    2900 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5D03569A
+P 3050 4300
+AR Path="/5D03569A" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D03569A" Ref="C70"  Part="1" 
+F 0 "C70" H 3050 4500 50  0000 L CNN
+F 1 "1uF" H 3000 4150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3050 4300 50  0001 C CNN
+F 3 "~" H 3050 4300 50  0001 C CNN
+	1    3050 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5D0356A1
+P 3200 4300
+AR Path="/5D0356A1" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D0356A1" Ref="C99"  Part="1" 
+F 0 "C99" H 3200 4500 50  0000 L CNN
+F 1 "1uF" H 3150 4150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3200 4300 50  0001 C CNN
+F 3 "~" H 3200 4300 50  0001 C CNN
+	1    3200 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5D0356A8
+P 3350 4300
+AR Path="/5D0356A8" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D0356A8" Ref="C100"  Part="1" 
+F 0 "C100" H 3350 4500 50  0000 L CNN
+F 1 "1uF" H 3300 4150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3350 4300 50  0001 C CNN
+F 3 "~" H 3350 4300 50  0001 C CNN
+	1    3350 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1850 4200 2000 4200
+Connection ~ 2000 4200
+Wire Wire Line
+	2000 4200 2150 4200
+Connection ~ 2150 4200
+Wire Wire Line
+	2150 4200 2300 4200
+Connection ~ 2300 4200
+Wire Wire Line
+	2300 4200 2450 4200
+Connection ~ 2450 4200
+Wire Wire Line
+	2450 4200 2600 4200
+Connection ~ 2600 4200
+Wire Wire Line
+	2600 4200 2750 4200
+Connection ~ 2750 4200
+Wire Wire Line
+	2750 4200 2900 4200
+Connection ~ 2900 4200
+Wire Wire Line
+	2900 4200 3050 4200
+Connection ~ 3050 4200
+Wire Wire Line
+	3050 4200 3200 4200
+Connection ~ 3200 4200
+Wire Wire Line
+	3200 4200 3350 4200
+Wire Wire Line
+	3350 4400 3200 4400
+Connection ~ 2000 4400
+Wire Wire Line
+	2000 4400 1850 4400
+Connection ~ 2150 4400
+Wire Wire Line
+	2150 4400 2000 4400
+Connection ~ 2300 4400
+Wire Wire Line
+	2300 4400 2150 4400
+Connection ~ 2450 4400
+Wire Wire Line
+	2450 4400 2300 4400
+Connection ~ 2600 4400
+Wire Wire Line
+	2600 4400 2450 4400
+Connection ~ 2750 4400
+Wire Wire Line
+	2750 4400 2600 4400
+Connection ~ 2900 4400
+Wire Wire Line
+	2900 4400 2750 4400
+Connection ~ 3050 4400
+Wire Wire Line
+	3050 4400 2900 4400
+Connection ~ 3200 4400
+Wire Wire Line
+	3200 4400 3050 4400
+$Comp
+L power:VCC #PWR?
+U 1 1 5D0356D5
+P 1550 4150
+AR Path="/5D0356D5" Ref="#PWR?"  Part="1" 
+AR Path="/5CDFC74D/5D0356D5" Ref="#PWR0101"  Part="1" 
+F 0 "#PWR0101" H 1550 4000 50  0001 C CNN
+F 1 "VCC" H 1567 4323 50  0000 C CNN
+F 2 "" H 1550 4150 50  0001 C CNN
+F 3 "" H 1550 4150 50  0001 C CNN
+	1    1550 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5D0356DB
+P 1550 4400
+AR Path="/5D0356DB" Ref="#PWR?"  Part="1" 
+AR Path="/5CDFC74D/5D0356DB" Ref="#PWR0102"  Part="1" 
+F 0 "#PWR0102" H 1550 4150 50  0001 C CNN
+F 1 "GND" H 1555 4227 50  0000 C CNN
+F 2 "" H 1550 4400 50  0001 C CNN
+F 3 "" H 1550 4400 50  0001 C CNN
+	1    1550 4400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1550 4400 1850 4400
+Connection ~ 1850 4400
+Wire Wire Line
+	1850 4200 1550 4200
+Wire Wire Line
+	1550 4200 1550 4150
+Connection ~ 1850 4200
+$Comp
+L Device:C_Small C?
+U 1 1 5D0356E6
+P 1800 3550
+AR Path="/5D0356E6" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D0356E6" Ref="C25"  Part="1" 
+F 0 "C25" H 1892 3596 50  0000 L CNN
+F 1 "10uF" H 1892 3505 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1800 3550 50  0001 C CNN
+F 3 "~" H 1800 3550 50  0001 C CNN
+	1    1800 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5D0356ED
+P 1800 3400
+AR Path="/5D0356ED" Ref="#PWR?"  Part="1" 
+AR Path="/5CDFC74D/5D0356ED" Ref="#PWR0103"  Part="1" 
+F 0 "#PWR0103" H 1800 3250 50  0001 C CNN
+F 1 "VCC" H 1817 3573 50  0000 C CNN
+F 2 "" H 1800 3400 50  0001 C CNN
+F 3 "" H 1800 3400 50  0001 C CNN
+	1    1800 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5D0356F3
+P 1800 3650
+AR Path="/5D0356F3" Ref="#PWR?"  Part="1" 
+AR Path="/5CDFC74D/5D0356F3" Ref="#PWR0104"  Part="1" 
+F 0 "#PWR0104" H 1800 3400 50  0001 C CNN
+F 1 "GND" H 1805 3477 50  0000 C CNN
+F 2 "" H 1800 3650 50  0001 C CNN
+F 3 "" H 1800 3650 50  0001 C CNN
+	1    1800 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1800 3400 1800 3450
+$Comp
+L Device:C C?
+U 1 1 5D0356FA
+P 2200 3550
+AR Path="/5D0356FA" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D0356FA" Ref="C28"  Part="1" 
+F 0 "C28" H 2315 3596 50  0000 L CNN
+F 1 "100uF 10V" H 2315 3505 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder" H 2238 3400 50  0001 C CNN
+F 3 "~" H 2200 3550 50  0001 C CNN
+	1    2200 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5D035701
+P 2200 3400
+AR Path="/5D035701" Ref="#PWR?"  Part="1" 
+AR Path="/5CDFC74D/5D035701" Ref="#PWR0105"  Part="1" 
+F 0 "#PWR0105" H 2200 3250 50  0001 C CNN
+F 1 "VCC" H 2217 3573 50  0000 C CNN
+F 2 "" H 2200 3400 50  0001 C CNN
+F 3 "" H 2200 3400 50  0001 C CNN
+	1    2200 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5D035707
+P 2200 3700
+AR Path="/5D035707" Ref="#PWR?"  Part="1" 
+AR Path="/5CDFC74D/5D035707" Ref="#PWR0106"  Part="1" 
+F 0 "#PWR0106" H 2200 3450 50  0001 C CNN
+F 1 "GND" H 2205 3527 50  0000 C CNN
+F 2 "" H 2200 3700 50  0001 C CNN
+F 3 "" H 2200 3700 50  0001 C CNN
+	1    2200 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5D048602
+P 5350 2550
+AR Path="/5D048602" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D048602" Ref="C1"  Part="1" 
+F 0 "C1" H 5350 2750 50  0000 L CNN
+F 1 "1uF" H 5300 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5350 2550 50  0001 C CNN
+F 3 "~" H 5350 2550 50  0001 C CNN
+	1    5350 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5D0486E6
+P 5500 2550
+AR Path="/5D0486E6" Ref="C?"  Part="1" 
+AR Path="/5CDFC74D/5D0486E6" Ref="C22"  Part="1" 
+F 0 "C22" H 5500 2750 50  0000 L CNN
+F 1 "1uF" H 5450 2400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5500 2550 50  0001 C CNN
+F 3 "~" H 5500 2550 50  0001 C CNN
+	1    5500 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5500 2450 5350 2450
+Connection ~ 5200 2450
+Connection ~ 5350 2450
+Wire Wire Line
+	5350 2450 5200 2450
+Wire Wire Line
+	5200 2650 5350 2650
+Connection ~ 5200 2650
+Connection ~ 5350 2650
+Wire Wire Line
+	5350 2650 5500 2650
+$EndSCHEMATC

@@ -1,0 +1,885 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "Front Panel Board"
+Date "2020-03-15"
+Rev "v1"
+Comp "CVRA"
+Comment1 "Author: Antoine Albertelli"
+Comment2 "CC-BY 4.0"
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L power:GND #PWR04
+U 1 1 5E6E2C63
+P 2650 1500
+F 0 "#PWR04" H 2650 1250 50  0001 C CNN
+F 1 "GND" H 2655 1327 50  0000 C CNN
+F 2 "" H 2650 1500 50  0001 C CNN
+F 3 "" H 2650 1500 50  0001 C CNN
+	1    2650 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2800 1200 2650 1200
+Wire Wire Line
+	2650 1200 2650 1300
+Wire Wire Line
+	2800 1300 2650 1300
+Connection ~ 2650 1300
+Wire Wire Line
+	2650 1300 2650 1400
+Wire Wire Line
+	2800 1400 2650 1400
+Connection ~ 2650 1400
+Wire Wire Line
+	2650 1400 2650 1500
+$Comp
+L power:GND #PWR03
+U 1 1 5E6E4FAF
+P 1350 1400
+F 0 "#PWR03" H 1350 1150 50  0001 C CNN
+F 1 "GND" H 1355 1227 50  0000 C CNN
+F 2 "" H 1350 1400 50  0001 C CNN
+F 3 "" H 1350 1400 50  0001 C CNN
+	1    1350 1400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 1250 1350 1250
+Wire Wire Line
+	1350 1250 1350 1350
+Wire Wire Line
+	1800 4300 1350 4300
+Wire Wire Line
+	1200 4200 1400 4200
+Wire Wire Line
+	1800 4100 1450 4100
+Wire Wire Line
+	1200 4000 1500 4000
+$Comp
+L Device:LED D1
+U 1 1 5E6F17D8
+P 9400 1100
+F 0 "D1" H 9393 845 50  0000 C CNN
+F 1 "LED_GREEN" H 9393 936 50  0000 C CNN
+F 2 "_LED_SMD:LED_0603_RightAngle" H 9400 1100 50  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-S270GKT.pdf" H 9400 1100 50  0001 C CNN
+F 4 "160-1475-1-ND" H 9400 1100 50  0001 C CNN "digikey#"
+	1    9400 1100
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9550 1100 9700 1100
+$Comp
+L Device:LED D2
+U 1 1 5E6F374E
+P 9400 1600
+F 0 "D2" H 9393 1345 50  0000 C CNN
+F 1 "LED_BLUE" H 9393 1436 50  0000 C CNN
+F 2 "_LED_SMD:LED_0603_RightAngle" H 9400 1600 50  0001 C CNN
+F 3 "http://www.inolux-corp.com/datasheet/SMDLED/Mono%20Color%20Side%20View/IN-S63AS%20Series_V1.0.pdf" H 9400 1600 50  0001 C CNN
+F 4 "1830-1029-1-ND" H 9400 1600 50  0001 C CNN "digikey#"
+	1    9400 1600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5E6F228A
+P 9850 1100
+F 0 "R1" V 9643 1100 50  0000 C CNN
+F 1 "56R" V 9734 1100 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 9780 1100 50  0001 C CNN
+F 3 "~" H 9850 1100 50  0001 C CNN
+F 4 "311-56.0HRCT-ND" V 9850 1100 50  0001 C CNN "digikey#"
+	1    9850 1100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5E6F5A78
+P 9850 1600
+F 0 "R2" V 9643 1600 50  0000 C CNN
+F 1 "56R" V 9734 1600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 9780 1600 50  0001 C CNN
+F 3 "~" H 9850 1600 50  0001 C CNN
+	1    9850 1600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9550 1600 9700 1600
+$Comp
+L Device:LED D3
+U 1 1 5E6F63B6
+P 9400 2100
+F 0 "D3" H 9393 1845 50  0000 C CNN
+F 1 "LED_RED" H 9393 1936 50  0000 C CNN
+F 2 "_LED_SMD:LED_0603_RightAngle" H 9400 2100 50  0001 C CNN
+F 3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-210/LTST-S270KRKT.pdf" H 9400 2100 50  0001 C CNN
+F 4 "160-1479-1-ND" H 9400 2100 50  0001 C CNN "digikey#"
+	1    9400 2100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED D4
+U 1 1 5E6F885C
+P 9400 2550
+F 0 "D4" H 9393 2295 50  0000 C CNN
+F 1 "LED_RED" H 9393 2386 50  0000 C CNN
+F 2 "_LED_SMD:LED_0603_RightAngle" H 9400 2550 50  0001 C CNN
+F 3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-209/LTST-S270KFKT.pdf" H 9400 2550 50  0001 C CNN
+	1    9400 2550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 5E6FC4E3
+P 9850 2100
+F 0 "R3" V 9643 2100 50  0000 C CNN
+F 1 "300R" V 9734 2100 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 9780 2100 50  0001 C CNN
+F 3 "~" H 9850 2100 50  0001 C CNN
+F 4 "311-300HRCT-ND" V 9850 2100 50  0001 C CNN "digikey#"
+	1    9850 2100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9550 2100 9700 2100
+$Comp
+L Device:R R4
+U 1 1 5E6FDAAD
+P 9850 2550
+F 0 "R4" V 9643 2550 50  0000 C CNN
+F 1 "300R" V 9734 2550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 9780 2550 50  0001 C CNN
+F 3 "~" H 9850 2550 50  0001 C CNN
+	1    9850 2550
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9550 2550 9700 2550
+$Comp
+L Device:LED D5
+U 1 1 5E7020A5
+P 9400 3000
+F 0 "D5" H 9393 2745 50  0000 C CNN
+F 1 "LED_RED" H 9393 2836 50  0000 C CNN
+F 2 "_LED_SMD:LED_0603_RightAngle" H 9400 3000 50  0001 C CNN
+F 3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-209/LTST-S270KFKT.pdf" H 9400 3000 50  0001 C CNN
+	1    9400 3000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 5E7020AF
+P 9850 3000
+F 0 "R5" V 9643 3000 50  0000 C CNN
+F 1 "300R" V 9734 3000 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 9780 3000 50  0001 C CNN
+F 3 "~" H 9850 3000 50  0001 C CNN
+	1    9850 3000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9550 3000 9700 3000
+Wire Wire Line
+	10100 1100 10000 1100
+Wire Wire Line
+	10000 1600 10100 1600
+Connection ~ 10100 1600
+Wire Wire Line
+	10100 1600 10100 1100
+Wire Wire Line
+	10000 2100 10100 2100
+Connection ~ 10100 2100
+Wire Wire Line
+	10100 2100 10100 1600
+Wire Wire Line
+	10000 2550 10100 2550
+Connection ~ 10100 2550
+Wire Wire Line
+	10100 2550 10100 2100
+Wire Wire Line
+	10000 3000 10100 3000
+Connection ~ 10100 3000
+Wire Wire Line
+	10100 3000 10100 2550
+Text Label 9050 1100 2    50   ~ 0
+LED_READY
+Wire Wire Line
+	9050 1100 9250 1100
+Text Label 9050 1600 2    50   ~ 0
+LED_DEBUG
+Text Label 9050 2100 2    50   ~ 0
+LED_ERROR
+Text Label 9050 2550 2    50   ~ 0
+LED_BUS
+Text Label 9050 3000 2    50   ~ 0
+LED_COMM
+Wire Wire Line
+	9250 3000 9050 3000
+Wire Wire Line
+	9050 2550 9250 2550
+Wire Wire Line
+	9250 2100 9050 2100
+Wire Wire Line
+	9050 1600 9250 1600
+$Comp
+L power:+5V #PWR08
+U 1 1 5E71ACFD
+P 1400 4600
+F 0 "#PWR08" H 1400 4450 50  0001 C CNN
+F 1 "+5V" H 1415 4773 50  0000 C CNN
+F 2 "" H 1400 4600 50  0001 C CNN
+F 3 "" H 1400 4600 50  0001 C CNN
+	1    1400 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 4650 1400 4650
+Wire Wire Line
+	1400 4650 1400 4600
+$Comp
+L power:GND #PWR09
+U 1 1 5E71C482
+P 2100 4750
+F 0 "#PWR09" H 2100 4500 50  0001 C CNN
+F 1 "GND" H 2105 4577 50  0000 C CNN
+F 2 "" H 2100 4750 50  0001 C CNN
+F 3 "" H 2100 4750 50  0001 C CNN
+	1    2100 4750
+	1    0    0    -1  
+$EndComp
+Text Label 1450 4850 0    50   ~ 0
+LED_READY
+Text Label 1450 4950 0    50   ~ 0
+LED_DEBUG
+Text Label 1450 5050 0    50   ~ 0
+LED_BUS
+Text Label 1450 5250 0    50   ~ 0
+LED_ERROR
+Text Label 1450 5350 0    50   ~ 0
+LED_POWER
+Text Label 1450 5450 0    50   ~ 0
+BUTTON_TEAM1
+Text Label 1450 5550 0    50   ~ 0
+BUTTON_TEAM2
+Text Label 1450 5650 0    50   ~ 0
+BUTTON_START
+Wire Wire Line
+	1200 4850 1450 4850
+Wire Wire Line
+	1200 4950 1450 4950
+Wire Wire Line
+	1200 5050 1450 5050
+Wire Wire Line
+	1200 5150 1450 5150
+Wire Wire Line
+	1200 5250 1450 5250
+Wire Wire Line
+	1200 5350 1450 5350
+Wire Wire Line
+	1200 5450 1450 5450
+Wire Wire Line
+	1200 5550 1450 5550
+Wire Wire Line
+	1200 5650 1450 5650
+$Comp
+L Connector_Generic:Conn_01x03 J7
+U 1 1 5E72BE47
+P 8100 5750
+F 0 "J7" H 8180 5792 50  0000 L CNN
+F 1 "Conn_01x03" H 8180 5701 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53261-0371_1x03-1MP_P1.25mm_Horizontal" H 8100 5750 50  0001 C CNN
+F 3 "~" H 8100 5750 50  0001 C CNN
+F 4 "WM7621CT-ND" H 8100 5750 50  0001 C CNN "digikey#"
+	1    8100 5750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR010
+U 1 1 5E72CF47
+P 7850 5600
+F 0 "#PWR010" H 7850 5450 50  0001 C CNN
+F 1 "+5V" H 7865 5773 50  0000 C CNN
+F 2 "" H 7850 5600 50  0001 C CNN
+F 3 "" H 7850 5600 50  0001 C CNN
+	1    7850 5600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7900 5650 7850 5650
+Wire Wire Line
+	7850 5650 7850 5600
+$Comp
+L power:GND #PWR011
+U 1 1 5E72F30D
+P 7850 5900
+F 0 "#PWR011" H 7850 5650 50  0001 C CNN
+F 1 "GND" H 7855 5727 50  0000 C CNN
+F 2 "" H 7850 5900 50  0001 C CNN
+F 3 "" H 7850 5900 50  0001 C CNN
+	1    7850 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7900 5850 7850 5850
+Wire Wire Line
+	7850 5850 7850 5900
+Text Label 7750 5750 2    50   ~ 0
+BUTTON_START
+Wire Wire Line
+	7750 5750 7900 5750
+$Comp
+L Connector:RJ45 J10
+U 1 1 5E73F4DC
+P 2550 6750
+F 0 "J10" H 2220 6754 50  0000 R CNN
+F 1 "615108150221R" H 2220 6845 50  0000 R CNN
+F 2 "_connectors:615108150221R_Ethernet_MiddleMount" V 2550 6775 50  0001 C CNN
+F 3 "~" V 2550 6775 50  0001 C CNN
+F 4 "732-13727-1-ND" H 2550 6750 50  0001 C CNN "digikey#"
+	1    2550 6750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x08 J9
+U 1 1 5E7428B5
+P 1050 6750
+F 0 "J9" H 968 7267 50  0000 C CNN
+F 1 "0532617008" H 968 7176 50  0000 C CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53261-0871_1x08-1MP_P1.25mm_Horizontal" H 1050 6750 50  0001 C CNN
+F 3 "~" H 1050 6750 50  0001 C CNN
+F 4 "WM26501CT-ND" H 1050 6750 50  0001 C CNN "digikey#"
+	1    1050 6750
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1250 6450 2150 6450
+Wire Wire Line
+	1250 6550 2150 6550
+Wire Wire Line
+	2150 6650 1250 6650
+Wire Wire Line
+	1250 6750 2150 6750
+Wire Wire Line
+	2150 6850 1250 6850
+Wire Wire Line
+	1250 6950 2150 6950
+Wire Wire Line
+	2150 7050 1250 7050
+Wire Wire Line
+	1250 7150 2150 7150
+$Comp
+L Switch:SW_Push_SPDT SW1
+U 1 1 5E7575A2
+P 7100 3100
+F 0 "SW1" H 7100 3385 50  0000 C CNN
+F 1 "CFPA-1FB4-A2T" H 7100 3294 50  0000 C CNN
+F 2 "_switches:CFPA-1FB4-A2T" H 7100 3100 50  0001 C CNN
+F 3 "https://www.nidec-copal-electronics.com/e/catalog/switch/cfpa.pdf" H 7100 3100 50  0001 C CNN
+F 4 "563-1246-1-ND" H 7100 3100 50  0001 C CNN "digikey#"
+F 5 "" H 7100 3100 50  0001 C CNN "Field5"
+	1    7100 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial BC1
+U 1 1 5E75D315
+P 4850 6800
+F 0 "BC1" H 4935 6846 50  0000 L CNN
+F 1 "Button Cap, Black" H 4935 6755 50  0000 L CNN
+F 2 "" H 4850 6800 50  0001 C CNN
+F 3 "~" H 4850 6800 50  0001 C CNN
+F 4 "563-1179-ND" H 4850 6800 50  0001 C CNN "digikey#"
+	1    4850 6800
+	1    0    0    -1  
+$EndComp
+Text Notes 6950 2700 0    50   ~ 0
+Normal: 2-3\nPressed: 2-1
+Text Label 6750 3100 2    50   ~ 0
+BUTTON_TEAM2
+$Comp
+L power:GND #PWR05
+U 1 1 5E761EC6
+P 7450 3300
+F 0 "#PWR05" H 7450 3050 50  0001 C CNN
+F 1 "GND" H 7455 3127 50  0000 C CNN
+F 2 "" H 7450 3300 50  0001 C CNN
+F 3 "" H 7450 3300 50  0001 C CNN
+	1    7450 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7300 3000 7450 3000
+Wire Wire Line
+	7450 3000 7450 3300
+NoConn ~ 7300 3200
+$Comp
+L Switch:SW_Push_SPDT SW2
+U 1 1 5E771084
+P 7100 3950
+F 0 "SW2" H 7100 4235 50  0000 C CNN
+F 1 "CFPA-1FB4-A2T" H 7100 4144 50  0000 C CNN
+F 2 "_switches:CFPA-1FB4-A2T" H 7100 3950 50  0001 C CNN
+F 3 "https://www.nidec-copal-electronics.com/e/catalog/switch/cfpa.pdf" H 7100 3950 50  0001 C CNN
+F 4 "563-1246-1-ND" H 7100 3950 50  0001 C CNN "digikey#"
+F 5 "" H 7100 3950 50  0001 C CNN "Field5"
+	1    7100 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial BC2
+U 1 1 5E77108F
+P 4850 7100
+F 0 "BC2" H 4935 7146 50  0000 L CNN
+F 1 "Button Cap, Black" H 4935 7055 50  0000 L CNN
+F 2 "" H 4850 7100 50  0001 C CNN
+F 3 "~" H 4850 7100 50  0001 C CNN
+F 4 "563-1179-ND" H 4850 7100 50  0001 C CNN "digikey#"
+	1    4850 7100
+	1    0    0    -1  
+$EndComp
+Text Label 6750 3950 2    50   ~ 0
+BUTTON_TEAM1
+$Comp
+L power:GND #PWR07
+U 1 1 5E77109B
+P 7450 4150
+F 0 "#PWR07" H 7450 3900 50  0001 C CNN
+F 1 "GND" H 7455 3977 50  0000 C CNN
+F 2 "" H 7450 4150 50  0001 C CNN
+F 3 "" H 7450 4150 50  0001 C CNN
+	1    7450 4150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7300 3850 7450 3850
+Wire Wire Line
+	7450 3850 7450 4150
+NoConn ~ 7300 4050
+$Comp
+L Connector_Generic:Conn_01x04 J6
+U 1 1 5E783D8B
+P 2000 4100
+F 0 "J6" H 2080 4092 50  0000 L CNN
+F 1 "0530480410" H 2080 4001 50  0000 L CNN
+F 2 "_connectors:Molex-PicoBlade-4-Edge" H 2000 4100 50  0001 C CNN
+F 3 "~" H 2000 4100 50  0001 C CNN
+F 4 "WM1744-ND" H 2000 4100 50  0001 C CNN "digikey#"
+	1    2000 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J5
+U 1 1 5E784262
+P 1000 4100
+F 0 "J5" H 918 4417 50  0000 C CNN
+F 1 "0532610471" H 918 4326 50  0000 C CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal" H 1000 4100 50  0001 C CNN
+F 3 "~" H 1000 4100 50  0001 C CNN
+F 4 "WM7622TR-ND" H 1000 4100 50  0001 C CNN "digikey#"
+	1    1000 4100
+	-1   0    0    -1  
+$EndComp
+Text Notes 1550 3850 0    50   ~ 0
+through-hole, front plate side
+$Comp
+L Connector_Generic:Conn_01x14 J8
+U 1 1 5E78A3CD
+P 1000 5250
+F 0 "J8" H 918 6067 50  0000 C CNN
+F 1 "0532611471" H 918 5976 50  0000 C CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53261-1471_1x14-1MP_P1.25mm_Horizontal" H 1000 5250 50  0001 C CNN
+F 3 "~" H 1000 5250 50  0001 C CNN
+F 4 "WM7631CT-ND" H 1000 5250 50  0001 C CNN "digikey#"
+	1    1000 5250
+	-1   0    0    -1  
+$EndComp
+Text Label 1450 5750 0    50   ~ 0
+LED_TEAM_R
+Text Label 1450 5850 0    50   ~ 0
+LED_TEAM_G
+Text Label 1450 5950 0    50   ~ 0
+LED_TEAM_B
+Wire Wire Line
+	1200 5750 1450 5750
+Wire Wire Line
+	1450 5850 1200 5850
+Wire Wire Line
+	1200 5950 1450 5950
+$Comp
+L Connector_Generic:Conn_02x04_Odd_Even J4
+U 1 1 5E7A15C0
+P 4150 3350
+F 0 "J4" H 4200 3667 50  0000 C CNN
+F 1 "0878330821" H 4200 3576 50  0000 C CNN
+F 2 "_connectors:0878330821_02x03_pin_header" H 4150 3350 50  0001 C CNN
+F 3 "~" H 4150 3350 50  0001 C CNN
+F 4 "WM23634-ND" H 4150 3350 50  0001 C CNN "digikey#"
+	1    4150 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x07 J3
+U 1 1 5E7A6A06
+P 950 2750
+F 0 "J3" H 868 3267 50  0000 C CNN
+F 1 "0532610771" H 868 3176 50  0000 C CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53261-0771_1x07-1MP_P1.25mm_Horizontal" H 950 2750 50  0001 C CNN
+F 3 "~" H 950 2750 50  0001 C CNN
+F 4 "WM7625CT-ND" H 950 2750 50  0001 C CNN "digikey#"
+	1    950  2750
+	-1   0    0    -1  
+$EndComp
+Text Label 1400 2450 0    50   ~ 0
+DEBUG_VCC
+Text Label 1400 2550 0    50   ~ 0
+DEBUG_GND
+Text Label 1400 2650 0    50   ~ 0
+DEBUG_NRST
+Text Label 1400 2750 0    50   ~ 0
+DEBUG_SWDIO
+Text Label 1400 2850 0    50   ~ 0
+DEBUG_SWCLK
+Text Label 1400 2950 0    50   ~ 0
+DEBUG_TX
+Text Label 1400 3050 0    50   ~ 0
+DEBUG_RX
+Wire Wire Line
+	1150 2450 1400 2450
+Wire Wire Line
+	1150 2550 1400 2550
+Wire Wire Line
+	1150 2650 1400 2650
+Wire Wire Line
+	1400 2750 1150 2750
+Wire Wire Line
+	1150 2850 1400 2850
+Wire Wire Line
+	1400 2950 1150 2950
+Wire Wire Line
+	1150 3050 1400 3050
+Text Label 3850 3250 2    50   ~ 0
+DEBUG_VCC
+Text Label 3850 3350 2    50   ~ 0
+DEBUG_GND
+NoConn ~ 3950 3550
+Text Label 4550 3550 0    50   ~ 0
+DEBUG_NRST
+Text Label 4550 3250 0    50   ~ 0
+DEBUG_SWDIO
+Text Label 4550 3350 0    50   ~ 0
+DEBUG_SWCLK
+Text Label 3850 3450 2    50   ~ 0
+DEBUG_TX
+Text Label 4550 3450 0    50   ~ 0
+DEBUG_RX
+Wire Wire Line
+	3850 3250 3950 3250
+Wire Wire Line
+	3850 3350 3950 3350
+Wire Wire Line
+	3850 3450 3950 3450
+Wire Wire Line
+	4450 3250 4550 3250
+Wire Wire Line
+	4450 3350 4550 3350
+Wire Wire Line
+	4450 3450 4550 3450
+Wire Wire Line
+	4450 3550 4550 3550
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5E7E071F
+P 5800 6850
+F 0 "H1" H 5900 6896 50  0000 L CNN
+F 1 "M2" H 5900 6805 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO14580" H 5800 6850 50  0001 C CNN
+F 3 "~" H 5800 6850 50  0001 C CNN
+F 4 "1" H 5800 6850 50  0001 C CNN "DNP"
+	1    5800 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5E7E096F
+P 5800 7100
+F 0 "H2" H 5900 7146 50  0000 L CNN
+F 1 "M2" H 5900 7055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO14580" H 5800 7100 50  0001 C CNN
+F 3 "~" H 5800 7100 50  0001 C CNN
+F 4 "1" H 5800 7100 50  0001 C CNN "DNP"
+	1    5800 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VBUS #PWR01
+U 1 1 5E813087
+P 1550 900
+F 0 "#PWR01" H 1550 750 50  0001 C CNN
+F 1 "VBUS" H 1565 1073 50  0000 C CNN
+F 2 "" H 1550 900 50  0001 C CNN
+F 3 "" H 1550 900 50  0001 C CNN
+	1    1550 900 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 950  1550 950 
+Wire Wire Line
+	1550 950  1550 900 
+Text Label 1550 1050 0    50   ~ 0
+USB_D-
+Text Label 1550 1150 0    50   ~ 0
+USB_D+
+Wire Wire Line
+	1300 1050 1550 1050
+Wire Wire Line
+	1300 1150 1550 1150
+$Comp
+L power:VBUS #PWR02
+U 1 1 5E822405
+P 2750 850
+F 0 "#PWR02" H 2750 700 50  0001 C CNN
+F 1 "VBUS" H 2765 1023 50  0000 C CNN
+F 2 "" H 2750 850 50  0001 C CNN
+F 3 "" H 2750 850 50  0001 C CNN
+	1    2750 850 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2800 900  2750 900 
+Wire Wire Line
+	2750 900  2750 850 
+Text Label 2700 1000 2    50   ~ 0
+USB_D-
+Text Label 2700 1100 2    50   ~ 0
+USB_D+
+Wire Wire Line
+	2700 1100 2800 1100
+Wire Wire Line
+	2800 1000 2700 1000
+Text Label 1700 6450 2    50   ~ 0
+TX+
+Text Label 1700 6550 2    50   ~ 0
+TX-
+Text Label 1700 6650 2    50   ~ 0
+RX+
+Text Label 1700 6950 2    50   ~ 0
+RX-
+Text Label 9050 3850 2    50   ~ 0
+LED_TEAM_R
+Text Label 9050 4050 2    50   ~ 0
+LED_TEAM_G
+Text Label 9050 4250 2    50   ~ 0
+LED_TEAM_B
+$Comp
+L Device:R R7
+U 1 1 5E84BF0C
+P 9850 3850
+F 0 "R7" V 9643 3850 50  0000 C CNN
+F 1 "130R" V 9734 3850 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 9780 3850 50  0001 C CNN
+F 3 "~" H 9850 3850 50  0001 C CNN
+F 4 "311-130HRCT-ND" V 9850 3850 50  0001 C CNN "digikey#"
+	1    9850 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R8
+U 1 1 5E84C727
+P 9850 4050
+F 0 "R8" V 9965 4050 50  0000 C CNN
+F 1 "30R" V 10056 4050 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 9780 4050 50  0001 C CNN
+F 3 "~" H 9850 4050 50  0001 C CNN
+F 4 "311-30.0HRCT-ND" V 9850 4050 50  0001 C CNN "digikey#"
+	1    9850 4050
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R9
+U 1 1 5E84CD64
+P 9850 4400
+F 0 "R9" V 9965 4400 50  0000 C CNN
+F 1 "30R" V 10056 4400 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 9780 4400 50  0001 C CNN
+F 3 "~" H 9850 4400 50  0001 C CNN
+	1    9850 4400
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1200 4750 2100 4750
+$Comp
+L power:GND #PWR0101
+U 1 1 5E8D83A3
+P 10100 4650
+F 0 "#PWR0101" H 10100 4400 50  0001 C CNN
+F 1 "GND" H 10105 4477 50  0000 C CNN
+F 2 "" H 10100 4650 50  0001 C CNN
+F 3 "" H 10100 4650 50  0001 C CNN
+	1    10100 4650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10000 4400 10100 4400
+Connection ~ 10100 4400
+Wire Wire Line
+	10100 4400 10100 4650
+Wire Wire Line
+	10000 4050 10100 4050
+Connection ~ 10100 4050
+Wire Wire Line
+	10100 4050 10100 4400
+Wire Wire Line
+	10000 3850 10100 3850
+Connection ~ 10100 3850
+Wire Wire Line
+	10100 3850 10100 4050
+Wire Wire Line
+	9650 3850 9700 3850
+Wire Wire Line
+	9650 4050 9700 4050
+Wire Wire Line
+	9250 4250 9050 4250
+Wire Wire Line
+	9250 4050 9050 4050
+Wire Wire Line
+	9050 3850 9250 3850
+$Comp
+L led_rgb:CRGB1318FSE D7
+U 1 1 5E8B012E
+P 9450 4050
+F 0 "D7" H 9450 3675 50  0000 C CNN
+F 1 "CRGB1318FSE" H 9450 3584 50  0000 C CNN
+F 2 "_led_rgb:CRGB1318FSE-TM" H 9450 4000 50  0001 C CNN
+F 3 "http://www.stanley-components.com/php/downloaddatafile.php?rp=0,CRGB1318FSE-TM_e.pdf" H 9450 4000 50  0001 C CNN
+F 4 "404-1264-1-ND" H 9450 4050 50  0001 C CNN "digikey#"
+	1    9450 4050
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9700 4400 9700 4250
+Wire Wire Line
+	9700 4250 9650 4250
+Wire Wire Line
+	10100 3500 10100 3850
+Wire Wire Line
+	10100 3500 10100 3000
+Connection ~ 10100 3500
+Wire Wire Line
+	10000 3500 10100 3500
+Wire Wire Line
+	9050 3500 9250 3500
+Text Label 9050 3500 2    50   ~ 0
+LED_POWER
+Wire Wire Line
+	9550 3500 9700 3500
+$Comp
+L Device:R R6
+U 1 1 5E70310F
+P 9850 3500
+F 0 "R6" V 9643 3500 50  0000 C CNN
+F 1 "300R" V 9734 3500 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 9780 3500 50  0001 C CNN
+F 3 "~" H 9850 3500 50  0001 C CNN
+	1    9850 3500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D6
+U 1 1 5E703105
+P 9400 3500
+F 0 "D6" H 9393 3245 50  0000 C CNN
+F 1 "LED_RED" H 9393 3336 50  0000 C CNN
+F 2 "_LED_SMD:LED_0603_RightAngle" H 9400 3500 50  0001 C CNN
+F 3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-209/LTST-S270KFKT.pdf" H 9400 3500 50  0001 C CNN
+	1    9400 3500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J11
+U 1 1 5E9084A6
+P 1000 3500
+F 0 "J11" H 918 3817 50  0000 C CNN
+F 1 "0532610471" H 918 3726 50  0000 C CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal" H 1000 3500 50  0001 C CNN
+F 3 "~" H 1000 3500 50  0001 C CNN
+F 4 "WM7622TR-ND" H 1000 3500 50  0001 C CNN "digikey#"
+	1    1000 3500
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 3700 1350 3700
+Wire Wire Line
+	1350 3700 1350 4300
+Connection ~ 1350 4300
+Wire Wire Line
+	1350 4300 1200 4300
+Wire Wire Line
+	1200 3600 1400 3600
+Wire Wire Line
+	1400 3600 1400 4200
+Connection ~ 1400 4200
+Wire Wire Line
+	1400 4200 1800 4200
+Wire Wire Line
+	1200 3500 1450 3500
+Wire Wire Line
+	1450 3500 1450 4100
+Connection ~ 1450 4100
+Wire Wire Line
+	1450 4100 1200 4100
+Wire Wire Line
+	1200 3400 1500 3400
+Wire Wire Line
+	1500 3400 1500 4000
+Connection ~ 1500 4000
+Wire Wire Line
+	1500 4000 1800 4000
+Text Notes 800  4100 1    50   ~ 0
+CAN Bus (Debug)
+$Comp
+L cvracon:10118193-0001LF J2
+U 1 1 5E93C62A
+P 3150 1150
+F 0 "J2" H 3428 1203 60  0000 L CNN
+F 1 "10118193-0001LF" H 3428 1097 60  0000 L CNN
+F 2 "_connectors:_Micro-USB-AB-receptacle-SMT-th-no-slot" H 3150 1150 60  0001 C CNN
+F 3 "http://www.amphenol-icc.com/media/wysiwyg/files/drawing/10118193.pdf" H 3150 1150 60  0001 C CNN
+F 4 "609-4616-1-ND" H 3150 1150 50  0001 C CNN "digikey#"
+	1    3150 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x05 J1
+U 1 1 5E936FAC
+P 1100 1150
+F 0 "J1" H 1018 1567 50  0000 C CNN
+F 1 "Conn_01x05" H 1018 1476 50  0000 C CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53261-0571_1x05-1MP_P1.25mm_Horizontal" H 1100 1150 50  0001 C CNN
+F 3 "~" H 1100 1150 50  0001 C CNN
+F 4 "WM7623CT-ND" H 1100 1150 50  0001 C CNN "digikey#"
+	1    1100 1150
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 1350 1350 1350
+Wire Wire Line
+	1350 1350 1350 1400
+Connection ~ 1350 1350
+Text Notes 850  1600 1    50   ~ 0
+5 pin to avoid having\nsame connector as CAN
+Wire Wire Line
+	6750 3100 6900 3100
+Wire Wire Line
+	6750 3950 6900 3950
+Text Label 1450 5150 0    50   ~ 0
+LED_COMM
+Text Notes 3900 3950 0    50   ~ 0
+Female side is done with\n1x Molex 0511100851\n8x Molex 0873968051
+$EndSCHEMATC

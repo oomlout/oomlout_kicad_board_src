@@ -1,0 +1,1134 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:switches
+LIBS:relays
+LIBS:motors
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:Rpi
+LIBS:conn_reverse
+LIBS:DoorSpecial
+LIBS:DoorWiringChart-cache
+EELAYER 25 0
+EELAYER END
+$Descr B 17000 11000
+encoding utf-8
+Sheet 1 1
+Title "WAGZ Door Wiring Chart"
+Date "2018-06-10"
+Rev "A"
+Comp "Veenema Design Works"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Notes Line
+	8100 1400 8100 4350
+Wire Notes Line
+	8100 4350 10650 4350
+Wire Notes Line
+	10650 4350 10650 1400
+Wire Notes Line
+	10650 1400 8100 1400
+Text Notes 9000 1550 0    60   ~ 0
+Raspberry Pi
+Wire Notes Line
+	4450 1000 4450 2300
+Wire Notes Line
+	4450 2300 5000 2300
+Wire Notes Line
+	5000 2300 5000 1000
+Wire Notes Line
+	5000 1000 4450 1000
+Text Notes 4750 2150 1    60   ~ 0
+Camera Board (INSIDE)
+Wire Notes Line
+	4400 1200 4550 1200
+Wire Notes Line
+	4550 1200 4550 2150
+Wire Notes Line
+	4550 2150 4400 2150
+Wire Notes Line
+	4400 2150 4400 1200
+Wire Notes Line
+	4900 1600 4900 2150
+Wire Notes Line
+	4900 2150 5050 2150
+Wire Notes Line
+	5050 2150 5050 1600
+Wire Notes Line
+	5050 1600 4900 1600
+$Comp
+L Conn_01x03 J?
+U 1 1 5B1D1509
+P 4900 1300
+F 0 "J?" H 4900 1500 50  0001 C CNN
+F 1 "Conn_01x03" H 4900 1100 50  0001 C CNN
+F 2 "" H 4900 1300 50  0001 C CNN
+F 3 "" H 4900 1300 50  0001 C CNN
+	1    4900 1300
+	-1   0    0    1   
+$EndComp
+Text Notes 5100 1900 0    60   ~ 0
+TO RPI CAMERA CONN
+Wire Notes Line
+	9700 2800 10250 2800
+Wire Notes Line
+	10250 2800 10250 2650
+Wire Notes Line
+	10250 2650 9700 2650
+Wire Notes Line
+	9700 2650 9700 2800
+Text Notes 10600 2600 2    60   ~ 0
+TO INSIDE CAMERA BOARD
+Wire Notes Line
+	3350 1000 3350 2300
+Wire Notes Line
+	3350 2300 2800 2300
+Wire Notes Line
+	2800 2300 2800 1000
+Wire Notes Line
+	2800 1000 3350 1000
+Text Notes 3150 2200 1    60   ~ 0
+Camera Board (OUTSIDE)
+Wire Notes Line
+	3400 1200 3250 1200
+Wire Notes Line
+	3250 1200 3250 2150
+Wire Notes Line
+	3250 2150 3400 2150
+Wire Notes Line
+	3400 2150 3400 1200
+Wire Notes Line
+	2900 1600 2900 2150
+Wire Notes Line
+	2900 2150 2750 2150
+Wire Notes Line
+	2750 2150 2750 1600
+Wire Notes Line
+	2750 1600 2900 1600
+$Comp
+L Conn_01x03 J?
+U 1 1 5B1D1612
+P 2900 1300
+F 0 "J?" H 2900 1500 50  0001 C CNN
+F 1 "Conn_01x03" H 2900 1100 50  0001 C CNN
+F 2 "" H 2900 1300 50  0001 C CNN
+F 3 "" H 2900 1300 50  0001 C CNN
+	1    2900 1300
+	1    0    0    1   
+$EndComp
+Wire Notes Line
+	3300 1250 4500 1250
+Wire Notes Line
+	4500 1250 4500 2100
+Wire Notes Line
+	4500 2100 3300 2100
+Wire Notes Line
+	3300 2100 3300 1250
+Text Notes 3500 1800 0    60   ~ 0
+20 WIRE\nINVERTING RIBBON\nCABLE
+Wire Notes Line
+	750  1500 1650 1500
+Wire Notes Line
+	1650 1500 1650 2200
+Wire Notes Line
+	1650 2200 750  2200
+Wire Notes Line
+	750  2200 750  1500
+Text Notes 1000 1650 0    60   ~ 0
+CAMERA
+Wire Notes Line
+	1700 1600 1700 2150
+Wire Notes Line
+	1700 2150 1550 2150
+Wire Notes Line
+	1550 2150 1550 1600
+Wire Notes Line
+	1550 1600 1700 1600
+Wire Notes Line
+	1600 1650 1600 2100
+Wire Notes Line
+	1600 2100 2850 2100
+Wire Notes Line
+	2850 2100 2850 1650
+Wire Notes Line
+	2850 1650 1600 1650
+Text Notes 1900 2000 0    60   ~ 0
+15 WIRE\nNON-INVERTING\nRIBBON CABLE
+Wire Notes Line
+	750  750  750  1400
+Wire Notes Line
+	750  1400 1650 1400
+Wire Notes Line
+	1650 1400 1650 750 
+Wire Notes Line
+	1650 750  750  750 
+Text Notes 850  900  0    60   ~ 0
+MOTION SENSOR
+Wire Wire Line
+	2700 1400 2050 1400
+Wire Wire Line
+	2050 1400 2050 1300
+Wire Wire Line
+	2050 1300 1550 1300
+Wire Wire Line
+	2700 1300 2150 1300
+Wire Wire Line
+	2150 1300 2150 1200
+Wire Wire Line
+	2150 1200 1550 1200
+Wire Wire Line
+	2700 1200 2250 1200
+Wire Wire Line
+	2250 1200 2250 1100
+Wire Wire Line
+	2250 1100 1550 1100
+Text Notes 2300 1400 0    60   ~ 0
+RED
+Text Notes 2300 1300 0    60   ~ 0
+YELLOW
+Text Notes 2300 1200 0    60   ~ 0
+BLACK
+Text Notes 9750 3850 2    60   ~ 0
+TO CAMERA BOARD BLK
+Wire Wire Line
+	8650 3850 9750 3850
+Wire Wire Line
+	6850 4250 8150 4250
+Text Notes 6850 4250 0    60   ~ 0
+TO CAMERA BOARD RED
+Wire Wire Line
+	5100 1200 5450 1200
+Wire Wire Line
+	5100 1400 5450 1400
+Text Notes 5150 1400 0    60   ~ 0
+RED
+Text Notes 5150 1200 0    60   ~ 0
+BLACK
+Text Notes 5150 1300 0    60   ~ 0
+YELLOW
+Wire Wire Line
+	5100 1300 5450 1300
+Wire Wire Line
+	6850 2550 8150 2550
+Text Notes 8050 2550 2    60   ~ 0
+TO CAMERA BOARD YELLOW
+Wire Notes Line
+	2500 2800 2500 3850
+Wire Notes Line
+	2500 3850 3550 3850
+Wire Notes Line
+	3550 3850 3550 2800
+Wire Notes Line
+	3550 2800 2500 2800
+Wire Notes Line
+	1900 3100 1900 3650
+Wire Notes Line
+	1900 3650 750  3650
+Wire Notes Line
+	750  3650 750  3100
+Wire Notes Line
+	750  3100 1900 3100
+Text Notes 2650 2950 0    60   ~ 0
+BUTTON BOARD
+Text Notes 1050 3200 0    60   ~ 0
+LED STRIP
+$Comp
+L Conn_01x04 J?
+U 1 1 5B1D1C8D
+P 2600 3350
+F 0 "J?" H 2600 3550 50  0001 C CNN
+F 1 "Conn_01x04" H 2600 3050 50  0001 C CNN
+F 2 "" H 2600 3350 50  0001 C CNN
+F 3 "" H 2600 3350 50  0001 C CNN
+	1    2600 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Conn_01x04 J?
+U 1 1 5B1D1D5A
+P 3450 3200
+F 0 "J?" H 3450 3400 50  0001 C CNN
+F 1 "Conn_01x04" H 3450 2900 50  0001 C CNN
+F 2 "" H 3450 3200 50  0001 C CNN
+F 3 "" H 3450 3200 50  0001 C CNN
+	1    3450 3200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Conn_01x02 J?
+U 1 1 5B1D1D71
+P 3450 3700
+F 0 "J?" H 3450 3800 50  0001 C CNN
+F 1 "Conn_01x02" H 3450 3500 50  0001 C CNN
+F 2 "" H 3450 3700 50  0001 C CNN
+F 3 "" H 3450 3700 50  0001 C CNN
+	1    3450 3700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3650 3700 4050 3700
+Wire Wire Line
+	8150 2350 6850 2350
+Text Notes 6850 2350 0    60   ~ 0
+TO BUTTON BOARD BLACK
+Text Notes 4050 3700 2    60   ~ 0
+BLACK
+Wire Wire Line
+	3650 3200 4200 3200
+Wire Wire Line
+	3650 3100 4200 3100
+Wire Wire Line
+	3650 3000 4200 3000
+Text Notes 3650 3000 0    60   ~ 0
+BLACK
+Text Notes 5500 3450 2    60   ~ 0
+RED
+Text Notes 3650 3200 0    60   ~ 0
+BLUE
+Text Notes 3650 3100 0    60   ~ 0
+WHITE
+Wire Wire Line
+	1800 3550 2400 3550
+Wire Wire Line
+	1800 3450 2400 3450
+Wire Wire Line
+	1800 3350 2400 3350
+Wire Wire Line
+	1800 3250 2400 3250
+Text Notes 2050 3250 0    60   ~ 0
+RED
+Text Notes 2050 3350 0    60   ~ 0
+BLUE
+Text Notes 2050 3450 0    60   ~ 0
+WHITE
+Text Notes 2050 3550 0    60   ~ 0
+BLACK
+Wire Notes Line
+	4100 2800 4100 3400
+Wire Notes Line
+	4100 3400 5050 3400
+Wire Notes Line
+	5050 3400 5050 2800
+Wire Notes Line
+	5050 2800 4100 2800
+Text Notes 4500 2900 0    60   ~ 0
+PCA9306
+Wire Wire Line
+	4950 3300 5500 3300
+Wire Wire Line
+	4950 3200 5500 3200
+Wire Wire Line
+	4950 3100 5500 3100
+Wire Wire Line
+	4950 3000 5500 3000
+Text Notes 5500 3300 2    60   ~ 0
+YELLOW
+Text Notes 5500 3200 2    60   ~ 0
+BLUE
+Text Notes 5500 3100 2    60   ~ 0
+WHITE
+Text Notes 5500 3000 2    60   ~ 0
+BLACK
+Wire Wire Line
+	8650 4250 9750 4250
+Text Notes 9750 4250 2    60   ~ 0
+TO PCA9306 YELLOW
+Wire Wire Line
+	8650 3350 9750 3350
+Wire Wire Line
+	8650 3150 9750 3150
+Text Notes 9750 3350 2    60   ~ 0
+TO PCA9306 WHITE
+Text Notes 9750 3150 2    60   ~ 0
+TO PCA9306 BLUE
+Wire Wire Line
+	8150 4050 6850 4050
+Text Notes 6850 4050 0    60   ~ 0
+TO PCA9306 BLACK-GND
+$Comp
+L Conn_02x20_Odd_Even J?
+U 1 1 5B1D3CFB
+P 8450 3350
+F 0 "J?" H 8500 4350 50  0001 C CNN
+F 1 "Conn_02x20_Odd_Even" H 8500 2250 50  0001 C CNN
+F 2 "" H 8450 3350 50  0001 C CNN
+F 3 "" H 8450 3350 50  0001 C CNN
+	1    8450 3350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8150 4150 6850 4150
+Wire Wire Line
+	4200 3300 3950 3300
+Wire Wire Line
+	3950 3300 3950 3450
+Wire Wire Line
+	3950 3450 5500 3450
+Wire Wire Line
+	3650 3300 3850 3300
+Wire Wire Line
+	3850 3300 3850 3550
+Wire Wire Line
+	3850 3550 5500 3550
+Text Notes 5500 3550 2    60   ~ 0
+RED
+Text Notes 6850 4150 0    60   ~ 0
+TO PCA9306 RED-VREF2
+Text Notes 4900 3050 2    60   ~ 0
+GND
+Text Notes 4250 3050 0    60   ~ 0
+NC
+Wire Wire Line
+	3950 3000 3950 2750
+Wire Wire Line
+	3950 2750 5500 2750
+Connection ~ 3950 3000
+Text Notes 5500 2750 2    60   ~ 0
+BLACK
+Wire Wire Line
+	8150 3350 6850 3350
+Text Notes 6850 3350 0    60   ~ 0
+TO PCA9306 BLACK-NC
+Text Notes 4250 3150 0    60   ~ 0
+SDA2
+Text Notes 4250 3250 0    60   ~ 0
+SCL2
+Text Notes 4250 3350 0    60   ~ 0
+VREF2
+Text Notes 4900 3150 2    60   ~ 0
+SDA1
+Text Notes 4900 3250 2    60   ~ 0
+SCL1
+Text Notes 4900 3350 2    60   ~ 0
+VREF1
+$Comp
+L Conn_01x02 J?
+U 1 1 5B1D4160
+P 10550 4250
+F 0 "J?" H 10550 4350 50  0001 C CNN
+F 1 "Conn_01x02" H 10550 4050 50  0001 C CNN
+F 2 "" H 10550 4250 50  0001 C CNN
+F 3 "" H 10550 4250 50  0001 C CNN
+	1    10550 4250
+	-1   0    0    1   
+$EndComp
+Text Notes 10300 4300 0    60   ~ 0
+PP1
+Text Notes 10300 4200 0    60   ~ 0
+PP2
+Text Notes 11950 4300 2    60   ~ 0
+TO BUTTON BOARD RED
+Wire Notes Line
+	650  2550 6200 2550
+Wire Notes Line
+	6200 2550 6200 600 
+Wire Notes Line
+	650  600  16200 600 
+Wire Notes Line
+	650  600  650  8900
+Wire Notes Line
+	650  4050 5650 4050
+Wire Notes Line
+	5650 2550 5650 8900
+Wire Wire Line
+	2700 4650 3600 4650
+Wire Wire Line
+	2800 4450 2800 4650
+Wire Wire Line
+	2800 4450 3600 4450
+Connection ~ 2800 4650
+Wire Wire Line
+	2800 4550 3600 4550
+Connection ~ 2800 4550
+Wire Wire Line
+	2700 4850 3600 4850
+Wire Wire Line
+	2800 4850 2800 5050
+Wire Wire Line
+	2800 4950 3600 4950
+Connection ~ 2800 4850
+Wire Wire Line
+	2800 5050 3600 5050
+Connection ~ 2800 4950
+Wire Wire Line
+	2300 4650 1850 4650
+Wire Wire Line
+	2300 4850 1850 4850
+$Comp
+L Barrel_Jack_PJ037AH J?
+U 1 1 5B1D4A9F
+P 1550 4750
+F 0 "J?" H 1550 4960 50  0000 C CNN
+F 1 "Barrel_Jack_PJ037AH" H 1550 4575 50  0000 C CNN
+F 2 "" H 1600 4710 50  0001 C CNN
+F 3 "" H 1600 4710 50  0001 C CNN
+	1    1550 4750
+	1    0    0    -1  
+$EndComp
+Text Notes 2250 4650 2    60   ~ 0
+RED
+Text Notes 2250 4850 2    60   ~ 0
+BLACK
+$Comp
+L SW_DPST_ALT SW?
+U 1 1 5B1D4BB7
+P 2500 4750
+F 0 "SW?" H 2500 4950 50  0001 C CNN
+F 1 "SW_DPST_ALT" H 2500 4550 50  0001 C CNN
+F 2 "" H 2500 4750 50  0001 C CNN
+F 3 "" H 2500 4750 50  0001 C CNN
+	1    2500 4750
+	-1   0    0    1   
+$EndComp
+Text Notes 3600 4450 2    60   ~ 0
+RED-RPI
+Text Notes 3600 4550 2    60   ~ 0
+RED-DEVBRD
+Text Notes 3600 4650 2    60   ~ 0
+RED-CONV
+Text Notes 3600 4850 2    60   ~ 0
+BLACK-RPI
+Text Notes 3600 4950 2    60   ~ 0
+BLACK-DEVBRD
+Text Notes 3600 5050 2    60   ~ 0
+BLACK-CONV
+Text Notes 11950 4400 2    60   ~ 0
+TO SWITCH RED-1
+Wire Wire Line
+	10750 4150 10800 4150
+Wire Wire Line
+	10800 4150 10800 4100
+Wire Wire Line
+	10800 4100 11950 4100
+Wire Wire Line
+	10750 4250 10800 4250
+Wire Wire Line
+	10800 4250 10800 4400
+Wire Wire Line
+	10800 4300 11950 4300
+Wire Wire Line
+	10800 4400 11950 4400
+Connection ~ 10800 4300
+Text Notes 11950 4100 2    60   ~ 0
+TO SWITCH BLACK-4
+Wire Notes Line
+	2050 5350 3350 5350
+Wire Notes Line
+	3350 5350 3350 6000
+Wire Notes Line
+	3350 6000 2050 6000
+Wire Notes Line
+	2050 6000 2050 5350
+Text Notes 2300 5500 0    60   ~ 0
+DC/DC CONVERTER
+Wire Wire Line
+	1250 5750 2150 5750
+Wire Wire Line
+	1100 5550 2150 5550
+Wire Wire Line
+	3250 5550 4500 5550
+Text Notes 2200 5600 0    60   ~ 0
+1
+Text Notes 2200 5800 0    60   ~ 0
+2
+Text Notes 3150 5950 0    60   ~ 0
+3
+Text Notes 3150 5600 0    60   ~ 0
+4
+Text Notes 1250 5750 0    60   ~ 0
+TO SWITCH-RED
+Text Notes 1250 5450 0    60   ~ 0
+TO SWITCH-BLK
+Wire Wire Line
+	1100 6150 4500 6150
+Text Notes 4500 6150 2    60   ~ 0
+TO MOTOR DRIVER TB1-
+Text Notes 4500 5550 2    60   ~ 0
+TO MOTOR DRIVER TB1+
+Wire Notes Line
+	1250 7200 2600 7200
+Wire Notes Line
+	2600 7200 2600 8000
+Wire Notes Line
+	2600 8000 1250 8000
+Wire Notes Line
+	1250 8000 1250 7200
+$Comp
+L Conn_01x02 J?
+U 1 1 5B1D5F19
+P 2500 7450
+F 0 "J?" H 2500 7550 50  0001 C CNN
+F 1 "TB1" H 2500 7250 50  0000 C CNN
+F 2 "" H 2500 7450 50  0001 C CNN
+F 3 "" H 2500 7450 50  0001 C CNN
+	1    2500 7450
+	-1   0    0    1   
+$EndComp
+Text Notes 2050 7650 2    60   ~ 0
+MOTOR DRIVER
+$Comp
+L Conn_01x08 J?
+U 1 1 5B1D5F4A
+P 1800 7300
+F 0 "J?" H 1800 7700 50  0001 C CNN
+F 1 "Conn_01x08" H 1800 6800 50  0001 C CNN
+F 2 "" H 1800 7300 50  0001 C CNN
+F 3 "" H 1800 7300 50  0001 C CNN
+	1    1800 7300
+	0    1    1    0   
+$EndComp
+$Comp
+L Conn_01x08 J?
+U 1 1 5B1D5FB1
+P 1700 7900
+F 0 "J?" H 1700 8300 50  0001 C CNN
+F 1 "Conn_01x08" H 1700 7400 50  0001 C CNN
+F 2 "" H 1700 7900 50  0001 C CNN
+F 3 "" H 1700 7900 50  0001 C CNN
+	1    1700 7900
+	0    -1   -1   0   
+$EndComp
+Text Notes 2350 7500 0    60   ~ 0
+-
+Text Notes 2350 7400 0    60   ~ 0
++
+Text Notes 2350 7800 0    60   ~ 0
++
+Text Notes 2350 7900 0    60   ~ 0
+-
+$Comp
+L Conn_01x02 J?
+U 1 1 5B1D6132
+P 2500 7850
+F 0 "J?" H 2500 7950 50  0001 C CNN
+F 1 "OUT" H 2500 7650 50  0000 C CNN
+F 2 "" H 2500 7850 50  0001 C CNN
+F 3 "" H 2500 7850 50  0001 C CNN
+	1    2500 7850
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1100 6150 1100 5550
+Wire Wire Line
+	2000 5550 2000 5450
+Wire Wire Line
+	2000 5450 1250 5450
+Connection ~ 2000 5550
+Wire Wire Line
+	2700 7350 4000 7350
+Text Notes 4000 7450 2    60   ~ 0
+DC/DC BLACK
+Wire Wire Line
+	2700 7450 4000 7450
+Text Notes 4000 7350 2    60   ~ 0
+DC/DC RED
+Wire Wire Line
+	2700 7750 3150 7750
+Wire Wire Line
+	2700 7850 3150 7850
+$Comp
+L Motor_DC M?
+U 1 1 5B1D68B2
+P 5050 7950
+F 0 "M?" H 5150 8050 50  0000 L CNN
+F 1 "Motor_DC" H 5150 7750 50  0000 L TNN
+F 2 "" H 5050 7860 50  0001 C CNN
+F 3 "" H 5050 7860 50  0001 C CNN
+	1    5050 7950
+	1    0    0    -1  
+$EndComp
+Text Notes 2750 7750 0    60   ~ 0
+RED
+Text Notes 2750 7850 0    60   ~ 0
+BLACK
+$Comp
+L Conn_01x02 J?
+U 1 1 5B1D69EB
+P 4200 8050
+F 0 "J?" H 4200 8150 50  0001 C CNN
+F 1 "DOOR MOTOR MALE" H 4650 8000 50  0000 C CNN
+F 2 "" H 4200 8050 50  0001 C CNN
+F 3 "" H 4200 8050 50  0001 C CNN
+	1    4200 8050
+	-1   0    0    1   
+$EndComp
+Wire Notes Line
+	3250 7650 3250 8150
+Wire Notes Line
+	3250 8150 4300 8150
+Wire Notes Line
+	4300 8150 4300 7650
+Wire Notes Line
+	4300 7650 3250 7650
+Wire Wire Line
+	4400 7950 4700 7950
+Wire Wire Line
+	4700 7950 4700 7650
+Wire Wire Line
+	4700 7650 5050 7650
+Wire Wire Line
+	5050 7650 5050 7750
+Wire Wire Line
+	4400 8050 4700 8050
+Wire Wire Line
+	4700 8050 4700 8350
+Wire Wire Line
+	4700 8350 5050 8350
+Wire Wire Line
+	5050 8350 5050 8250
+$Comp
+L Conn_01x02_REVERSE J?
+U 1 1 5B1D6CCA
+P 3350 7750
+F 0 "J?" H 3350 7850 50  0001 C CNN
+F 1 "DOOR MOTOR FEMALE" H 3850 7700 50  0000 C CNN
+F 2 "" H 3350 7750 50  0001 C CNN
+F 3 "" H 3350 7750 50  0001 C CNN
+	1    3350 7750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 8100 2000 8650
+Wire Wire Line
+	2100 8100 2100 8650
+Wire Wire Line
+	1400 8100 1400 8650
+Wire Wire Line
+	2000 6550 2000 7100
+Text Notes 2150 7850 1    60   ~ 0
+IN1
+Text Notes 2050 7850 1    60   ~ 0
+IN2
+Text Notes 1950 7850 1    60   ~ 0
+NC
+Text Notes 1850 7850 1    60   ~ 0
+NC
+Text Notes 1750 7850 1    60   ~ 0
+NC
+Text Notes 1650 7850 1    60   ~ 0
+NC
+Text Notes 1550 7850 1    60   ~ 0
+NC
+Text Notes 1450 7850 1    60   ~ 0
+GND
+Text Notes 2150 7350 3    60   ~ 0
+SNS
+Text Notes 2050 7350 3    60   ~ 0
+SLP
+Text Notes 1950 7350 3    60   ~ 0
+FLT
+Text Notes 1850 7350 3    60   ~ 0
+NC
+Text Notes 1750 7350 3    60   ~ 0
+NC
+Text Notes 1650 7350 3    60   ~ 0
+NC
+Text Notes 1550 7350 3    60   ~ 0
+NC
+Text Notes 1450 7350 3    60   ~ 0
+GND
+Text Notes 2100 8650 1    60   ~ 0
+DEV-BLUE
+Text Notes 2000 8650 1    60   ~ 0
+DEV-WHITE
+Text Notes 1400 8650 1    60   ~ 0
+DEV-BLACK
+Text Notes 2000 6550 3    60   ~ 0
+DEV-GREEN
+$Comp
+L Conn_01x14 J?
+U 1 1 5B1D7535
+P 8250 7300
+F 0 "J?" H 8250 8000 50  0001 C CNN
+F 1 "Conn_01x14" H 8250 6500 50  0001 C CNN
+F 2 "" H 8250 7300 50  0001 C CNN
+F 3 "" H 8250 7300 50  0001 C CNN
+	1    8250 7300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Conn_01x06 J?
+U 1 1 5B1D75C2
+P 9400 7100
+F 0 "J?" H 9400 7400 50  0001 C CNN
+F 1 "Conn_01x06" H 9400 6700 50  0001 C CNN
+F 2 "" H 9400 7100 50  0001 C CNN
+F 3 "" H 9400 7100 50  0001 C CNN
+	1    9400 7100
+	-1   0    0    1   
+$EndComp
+Wire Notes Line
+	7050 7400 9500 7400
+Wire Notes Line
+	9500 7400 9500 6600
+Wire Notes Line
+	9500 6600 7050 6600
+Wire Notes Line
+	7050 6600 7050 7400
+Wire Wire Line
+	6250 6850 7150 6850
+Wire Wire Line
+	6250 7150 7150 7150
+Text Notes 6250 6850 0    60   ~ 0
+TO SWITCH-RED
+Text Notes 6250 7150 0    60   ~ 0
+TO SWITCH-BLK
+Text Notes 7200 6900 0    60   ~ 0
+VDD
+Text Notes 7200 7200 0    60   ~ 0
+GND
+Wire Wire Line
+	9600 7200 10400 7200
+Wire Wire Line
+	9600 7100 10400 7100
+Wire Wire Line
+	8950 7500 8950 8500
+Wire Wire Line
+	8650 7500 8650 8500
+Wire Wire Line
+	8350 7500 8350 8500
+Wire Wire Line
+	8250 7500 8250 8500
+Wire Wire Line
+	8350 7550 8450 7550
+Wire Wire Line
+	8450 7550 8450 8650
+Connection ~ 8350 7550
+Wire Wire Line
+	8900 6500 8900 6100
+Wire Wire Line
+	8800 6000 8800 6500
+Wire Wire Line
+	8700 5900 8700 6500
+$Comp
+L Conn_01x14_15THRU28 J?
+U 1 1 5B1D868A
+P 8400 6700
+F 0 "J?" H 8400 7400 50  0001 C CNN
+F 1 "Conn_01x14_15THRU28" H 8400 5900 50  0001 C CNN
+F 2 "" H 8400 6700 50  0001 C CNN
+F 3 "" H 8400 6700 50  0001 C CNN
+	1    8400 6700
+	0    1    1    0   
+$EndComp
+Text Notes 8000 7100 0    60   ~ 0
+DEV BOARD\n(MICROSTICK II)
+Text Notes 9150 5800 2    60   ~ 0
+RED
+Text Notes 8700 6100 3    60   ~ 0
+YELLOW
+Text Notes 8800 6100 3    60   ~ 0
+YELLOW
+Text Notes 8900 6100 3    60   ~ 0
+YELLOW
+Text Notes 8950 8500 1    60   ~ 0
+GREEN-MOTORCNTRL
+Text Notes 8650 8500 1    60   ~ 0
+WHITE-MOTORCNTRL
+Text Notes 8250 8500 1    60   ~ 0
+BLUE-MOTORCNTRL
+Text Notes 8350 8500 1    60   ~ 0
+BLACK-MOTORCNTRL
+Text Notes 9150 5700 2    60   ~ 0
+BLACK
+Wire Wire Line
+	8450 8650 6100 8650
+Wire Wire Line
+	6100 8650 6100 5700
+Wire Wire Line
+	8900 6100 9300 6100
+Wire Wire Line
+	8800 6000 9300 6000
+Wire Wire Line
+	8700 5900 9300 5900
+$Comp
+L Conn_01x05 J?
+U 1 1 5B1D90D6
+P 9500 5900
+F 0 "J?" H 9500 6200 50  0001 C CNN
+F 1 "Conn_01x05" H 9800 6050 50  0001 C CNN
+F 2 "" H 9500 5900 50  0001 C CNN
+F 3 "" H 9500 5900 50  0001 C CNN
+	1    9500 5900
+	1    0    0    -1  
+$EndComp
+Text Notes 9600 5800 0    60   ~ 0
+SWITCH HARNESS\nCONN FEMALE
+Text Notes 10550 6100 2    60   ~ 0
+SWITCH HARNESS\nCONN MALE
+Wire Wire Line
+	9300 5800 7700 5800
+Wire Wire Line
+	7700 5800 7700 6500
+Wire Wire Line
+	6100 5700 9300 5700
+Wire Notes Line
+	9400 5550 9400 6250
+Wire Notes Line
+	9400 6250 10750 6250
+Wire Notes Line
+	10750 6250 10750 5550
+Wire Notes Line
+	10750 5550 9400 5550
+$Comp
+L Conn_01x05_ALT J?
+U 1 1 5B1D957A
+P 10650 5900
+F 0 "J?" H 10650 6200 50  0001 C CNN
+F 1 "Conn_01x05_ALT" H 10650 5600 50  0001 C CNN
+F 2 "" H 10650 5900 50  0001 C CNN
+F 3 "" H 10650 5900 50  0001 C CNN
+	1    10650 5900
+	-1   0    0    1   
+$EndComp
+$Comp
+L SW_Reed_SPDT SW?
+U 1 1 5B1D95E3
+P 11750 6400
+F 0 "SW?" H 11750 6500 50  0000 C CNN
+F 1 "DOOR SWITCH (US5881LUA)" H 11050 6200 50  0000 L CNN
+F 2 "" H 11750 6400 50  0001 C CNN
+F 3 "" H 11750 6400 50  0001 C CNN
+	1    11750 6400
+	-1   0    0    1   
+$EndComp
+$Comp
+L SW_Reed_SPDT SW?
+U 1 1 5B1D96BB
+P 11750 6950
+F 0 "SW?" H 11750 7050 50  0000 C CNN
+F 1 "DEADBOLT SWITCH UP (AH1815-P-B)" H 10650 6750 50  0000 L CNN
+F 2 "" H 11750 6950 50  0001 C CNN
+F 3 "" H 11750 6950 50  0001 C CNN
+	1    11750 6950
+	-1   0    0    1   
+$EndComp
+$Comp
+L SW_Reed_SPDT SW?
+U 1 1 5B1D96F0
+P 11750 7450
+F 0 "SW?" H 11750 7550 50  0000 C CNN
+F 1 "DEADBOLT SWITCH DOWN (AH1815-P-B)" H 10550 7250 50  0000 L CNN
+F 2 "" H 11750 7450 50  0001 C CNN
+F 3 "" H 11750 7450 50  0001 C CNN
+	1    11750 7450
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	11450 6300 11300 6300
+Wire Wire Line
+	11300 6850 11450 6850
+Wire Wire Line
+	11300 7350 11450 7350
+Wire Wire Line
+	11300 5800 11300 7350
+Connection ~ 11300 6850
+Wire Wire Line
+	11300 5800 10850 5800
+Connection ~ 11300 6300
+Wire Wire Line
+	10850 5700 11200 5700
+Wire Wire Line
+	11200 5700 11200 7550
+Wire Wire Line
+	11200 6500 11450 6500
+Wire Wire Line
+	11200 7050 11450 7050
+Connection ~ 11200 6500
+Wire Wire Line
+	11200 7550 11450 7550
+Connection ~ 11200 7050
+Wire Wire Line
+	11950 6400 13050 6400
+Wire Wire Line
+	13050 6400 13050 6100
+Wire Wire Line
+	13050 6100 10850 6100
+Wire Wire Line
+	11950 6950 13150 6950
+Wire Wire Line
+	13150 6950 13150 6000
+Wire Wire Line
+	13150 6000 10850 6000
+Wire Wire Line
+	11950 7450 13250 7450
+Wire Wire Line
+	13250 7450 13250 5900
+Wire Wire Line
+	13250 5900 10850 5900
+Text Notes 10000 7200 2    60   ~ 0
+YELLOW
+Text Notes 10000 7100 2    60   ~ 0
+ORANGE
+Text Notes 10000 6800 2    60   ~ 0
+BLACK
+Text Notes 1000 3450 0    39   ~ 0
+SPARKFUN LUMENATI\n8-STICK
+Wire Notes Line
+	10450 1700 10750 1700
+Wire Notes Line
+	10750 1700 10750 2000
+Wire Notes Line
+	10750 2000 10450 2000
+Wire Notes Line
+	10450 2000 10450 1700
+Text Notes 10550 1900 1    39   ~ 0
+USB
+Wire Notes Line
+	10450 2050 10750 2050
+Wire Notes Line
+	10750 2050 10750 2350
+Wire Notes Line
+	10750 2350 10450 2350
+Wire Notes Line
+	10450 2350 10450 2050
+Text Notes 10550 2250 1    39   ~ 0
+USB
+Text Notes 10850 1850 0    39   ~ 0
+DEV BOARD FTDI
+Text Notes 10850 2200 0    39   ~ 0
+RFID FTDI
+Wire Notes Line
+	5650 6350 650  6350
+Wire Notes Line
+	650  8900 13550 8900
+Wire Notes Line
+	13550 8900 13550 5150
+Wire Notes Line
+	13550 5150 5650 5150
+Wire Notes Line
+	12300 600  12300 5150
+Wire Notes Line
+	12700 1550 13450 1550
+Wire Notes Line
+	13450 1550 13450 1950
+Wire Notes Line
+	13450 1950 12700 1950
+Wire Notes Line
+	12700 1950 12700 1550
+Text Notes 12800 1850 1    59   ~ 0
+FTDI
+$Comp
+L Conn_02x04_Odd_Even J?
+U 1 1 5B1DB2F5
+P 14550 1700
+F 0 "J?" H 14600 1900 50  0001 C CNN
+F 1 "Conn_02x04_Odd_Even" H 14600 1400 50  0001 C CNN
+F 2 "" H 14550 1700 50  0001 C CNN
+F 3 "" H 14550 1700 50  0001 C CNN
+	1    14550 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Conn_01x01 J?
+U 1 1 5B1DB352
+P 15300 1250
+F 0 "J?" H 15300 1350 50  0001 C CNN
+F 1 "Conn_01x01" H 15300 1150 50  0001 C CNN
+F 2 "" H 15300 1250 50  0001 C CNN
+F 3 "" H 15300 1250 50  0001 C CNN
+	1    15300 1250
+	-1   0    0    1   
+$EndComp
+Text Notes 14700 1000 0    60   ~ 0
+ANTENNA BOARD
+Wire Wire Line
+	14350 1600 13350 1600
+Wire Wire Line
+	14350 1700 13350 1700
+Wire Wire Line
+	14350 1800 13350 1800
+Wire Wire Line
+	14350 1900 13350 1900
+Wire Wire Line
+	14250 1900 14250 2100
+Wire Wire Line
+	14250 2100 14950 2100
+Wire Wire Line
+	14950 2100 14950 1900
+Wire Wire Line
+	14950 1900 14850 1900
+Connection ~ 14250 1900
+Wire Notes Line
+	14400 900  14400 2250
+Wire Notes Line
+	14400 2250 15450 2250
+Wire Notes Line
+	15450 2250 15450 900 
+Wire Notes Line
+	15450 900  14400 900 
+Text Notes 14250 1600 2    59   ~ 0
+ORANGE
+Text Notes 14250 1700 2    59   ~ 0
+YELLOW
+Text Notes 14250 1800 2    59   ~ 0
+BLACK
+Text Notes 14200 1900 2    59   ~ 0
+RED
+$Comp
+L Antenna ANT
+U 1 1 5B1DBDCD
+P 15900 900
+F 0 "ANT" H 15825 975 50  0000 R CNN
+F 1 "FXP.290" H 15825 900 50  0000 R CNN
+F 2 "" H 15900 900 50  0001 C CNN
+F 3 "" H 15900 900 50  0001 C CNN
+	1    15900 900 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15900 1100 15900 1250
+Wire Wire Line
+	15900 1250 15500 1250
+Text Notes 15550 1250 0    59   ~ 0
+BLACK
+Wire Notes Line
+	16200 600  16200 2500
+Wire Notes Line
+	16200 2500 12300 2500
+Wire Notes Line
+	11050 6850 10300 6850
+Wire Notes Line
+	10300 6850 10300 7250
+Wire Notes Line
+	10300 7250 11050 7250
+Wire Notes Line
+	11050 7250 11050 6850
+Text Notes 10950 7150 1    59   ~ 0
+FTDI
+Wire Wire Line
+	10400 6900 10100 6900
+Wire Wire Line
+	10100 6900 10100 6800
+Wire Wire Line
+	10100 6800 9600 6800
+$EndSCHEMATC

@@ -1,0 +1,547 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "SPI to WS2812"
+Date "2020-04-24"
+Rev "1.0"
+Comp "Aaron Williams"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L 74xx:74HC123 U1
+U 1 1 5F05FE9A
+P 3500 1800
+F 0 "U1" H 3500 2267 50 0000 C CNN
+F 1 "74HC123" H 3500 2176 50 0000 C CNN
+F 2 "Aaron:SOT-763-1" H 3500 1800 50 0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT123.pdf" H 3500 1800 50 0001 C CNN
+F 4 "Nexperia USA Inc." H 3500 1800 50 0001 C CNN "MFR"
+F 5 "74HC02BQ,115" H 3500 1800 50 0001 C CNN "MPN"
+F 6 "Digikey" H 3500 1800 50 0001 C CNN "SPR"
+F 7 "1727-4525-1-ND" H 3500 1800 50 0001 C CNN "SPN"
+F 8 "https://www.digikey.com/products/en/integrated-circuits-ics/logic-gates-and-inverters/705?k=74hc02&k=&pkeyword=74hc02&sv=0&pv7=2&pv1989=0&pv69=409393&pv16=97469&sf=1&quantity=&ColumnSort=0&page=1&stock=1&nstock=1&pageSize=500" H 3500 1800 50 0001 C CNN "SPURL"
+F 9 "Dual retriggerable monostable multivibrator with reset" H 0 0 50 0001 C CNN "DESC"
+	1    3500 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74HC123 U1
+U 2 1 5F061B5F
+P 3500 3100
+F 0 "U1" H 3500 3567 50 0000 C CNN
+F 1 "74HC123" H 3500 3476 50 0000 C CNN
+F 2 "" H 3500 3100 50 0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT123.pdf" H 3500 3100 50 0001 C CNN
+	2    3500 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74HC123 U1
+U 3 1 5F062223
+P 1250 1200
+F 0 "U1" H 1480 1246 50 0000 L CNN
+F 1 "74HC123" H 1480 1155 50 0000 L CNN
+F 2 "" H 1250 1200 50 0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT123.pdf" H 1250 1200 50 0001 C CNN
+	3    1250 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 5F067DAE
+P 2900 2100
+F 0 "#PWR0101" H 2900 1850 50 0001 C CNN
+F 1 "GND" H 2905 1927 50 0000 C CNN
+F 2 "" H 2900 2100 50 0001 C CNN
+F 3 "" H 2900 2100 50 0001 C CNN
+	1    2900 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5F068A55
+P 2850 3500
+F 0 "#PWR0102" H 2850 3250 50 0001 C CNN
+F 1 "GND" H 2855 3327 50 0000 C CNN
+F 2 "" H 2850 3500 50 0001 C CNN
+F 3 "" H 2850 3500 50 0001 C CNN
+	1    2850 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 5F06DC33
+P 2450 3000
+F 0 "C3" V 2300 3000 50 0000 C CNN
+F 1 "200pF" V 2600 3000 50 0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2488 2850 50 0001 C CNN
+F 3 "~" H 2450 3000 50 0001 C CNN
+F 4 "-" H 0 0 50 0001 C CNN "MFR"
+F 5 "-" H 0 0 50 0001 C CNN "MPN"
+F 6 "-" H 0 0 50 0001 C CNN "SPR"
+F 7 "-" H 0 0 50 0001 C CNN "SPN"
+F 8 "-" H 0 0 50 0001 C CNN "SPURL"
+F 9 "-" H 0 0 50 0001 C CNN "DESC"
+	1    2450 3000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 5F06DFB4
+P 2450 1700
+F 0 "C2" V 2300 1700 50 0000 C CNN
+F 1 "200pF" V 2600 1700 50 0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2488 1550 50 0001 C CNN
+F 3 "~" H 2450 1700 50 0001 C CNN
+F 4 "-" H 0 0 50 0001 C CNN "MFR"
+F 5 "-" H 0 0 50 0001 C CNN "MPN"
+F 6 "-" H 0 0 50 0001 C CNN "SPR"
+F 7 "-" H 0 0 50 0001 C CNN "SPN"
+F 8 "-" H 0 0 50 0001 C CNN "SPURL"
+F 9 "-" H 0 0 50 0001 C CNN "DESC"
+	1    2450 1700
+	0    1    1    0   
+$EndComp
+$Comp
+L power:VBUS #PWR0103
+U 1 1 5F070156
+P 850 700
+F 0 "#PWR0103" H 850 550 50 0001 C CNN
+F 1 "VBUS" H 865 873 50 0000 C CNN
+F 2 "" H 850 700 50 0001 C CNN
+F 3 "" H 850 700 50 0001 C CNN
+	1    850  700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 5F070957
+P 1250 1700
+F 0 "#PWR0104" H 1250 1450 50 0001 C CNN
+F 1 "GND" H 1255 1527 50 0000 C CNN
+F 2 "" H 1250 1700 50 0001 C CNN
+F 3 "" H 1250 1700 50 0001 C CNN
+	1    1250 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74HC02 U2
+U 1 1 5F071109
+P 4600 2450
+F 0 "U2" H 4600 2775 50 0000 C CNN
+F 1 "74HC02" H 4600 2684 50 0000 C CNN
+F 2 "Aaron:SOT-762-1" H 4600 2450 50 0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT02.pdf" H 4600 2450 50 0001 C CNN
+F 4 "Nexperia USA Inc." H 4600 2450 50 0001 C CNN "MFR"
+F 5 "74HC02BQ,115" H 4600 2450 50 0001 C CNN "MPN"
+F 6 "Digikey" H 4600 2450 50 0001 C CNN "SPR"
+F 7 "1727-4525-1-ND" H 4600 2450 50 0001 C CNN "SPN"
+F 8 "https://www.digikey.com/products/en/integrated-circuits-ics/logic-gates-and-inverters/705?k=74hc02&k=&pkeyword=74hc02&sv=0&pv7=2&pv1989=0&pv69=409393&pv16=97469&sf=1&quantity=&ColumnSort=0&page=1&stock=1&nstock=1&pageSize=500" H 4600 2450 50 0001 C CNN "SPURL"
+F 9 "Quad 2-input NOR gate" H 0 0 50 0001 C CNN "DESC"
+	1    4600 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74HC02 U2
+U 2 1 5F078ACE
+P 5200 2450
+F 0 "U2" H 5200 2775 50 0000 C CNN
+F 1 "74HC02" H 5200 2684 50 0000 C CNN
+F 2 "Aaron:SOT-762-1" H 5200 2450 50 0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT02.pdf" H 5200 2450 50 0001 C CNN
+F 4 "Nexperia USA Inc." H 5200 2450 50 0001 C CNN "MFR"
+F 5 "74HC02BQ,115" H 5200 2450 50 0001 C CNN "MPN"
+F 6 "Digikey" H 5200 2450 50 0001 C CNN "SPR"
+F 7 "1727-4525-1-ND" H 5200 2450 50 0001 C CNN "SPN"
+F 8 "https://www.digikey.com/products/en/integrated-circuits-ics/logic-gates-and-inverters/705?k=74hc02&k=&pkeyword=74hc02&sv=0&pv7=2&pv1989=0&pv69=409393&pv16=97469&sf=1&quantity=&ColumnSort=0&page=1&stock=1&nstock=1&pageSize=500" H 5200 2450 50 0001 C CNN "SPURL"
+F 9 "Quad 2-input NOR gate" H 0 0 50 0001 C CNN "DESC"
+	2    5200 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74HC02 U2
+U 3 1 5F07C157
+P 1750 2300
+F 0 "U2" H 1750 2625 50 0000 C CNN
+F 1 "74HC02" H 1750 2534 50 0000 C CNN
+F 2 "Aaron:SOT-762-1" H 1750 2300 50 0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT02.pdf" H 1750 2300 50 0001 C CNN
+F 4 "Nexperia USA Inc." H 0 0 50 0001 C CNN "MFR"
+F 5 "74HC02BQ,115" H 0 0 50 0001 C CNN "MPN"
+F 6 "Digikey" H 0 0 50 0001 C CNN "SPR"
+F 7 "1727-4525-1-ND" H 0 0 50 0001 C CNN "SPN"
+F 8 "https://www.digikey.com/products/en/integrated-circuits-ics/logic-gates-and-inverters/705?k=74hc02&k=&pkeyword=74hc02&sv=0&pv7=2&pv1989=0&pv69=409393&pv16=97469&sf=1&quantity=&ColumnSort=0&page=1&stock=1&nstock=1&pageSize=500" H 0 0 50 0001 C CNN "SPURL"
+F 9 "Quad 2-input NOR gate" H 0 0 50 0001 C CNN "DESC"
+	3    1750 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74HC02 U2
+U 4 1 5F07E5AF
+P 4850 3200
+F 0 "U2" H 4850 3525 50 0000 C CNN
+F 1 "74HC02" H 4850 3434 50 0000 C CNN
+F 2 "" H 4850 3200 50 0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 4850 3200 50 0001 C CNN
+	4    4850 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74xx:74HC02 U2
+U 5 1 5F081E92
+P 5400 1400
+F 0 "U2" H 5630 1446 50 0000 L CNN
+F 1 "74HC02" H 5630 1355 50 0000 L CNN
+F 2 "" H 5400 1400 50 0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74hc02" H 5400 1400 50 0001 C CNN
+	5    5400 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5F089A91
+P 2300 1350
+F 0 "R1" H 2370 1396 50 0000 L CNN
+F 1 "4.1K" H 2370 1305 50 0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 2230 1350 50 0001 C CNN
+F 3 "~" H 2300 1350 50 0001 C CNN
+F 4 "-" H 0 0 50 0001 C CNN "MFR"
+F 5 "-" H 0 0 50 0001 C CNN "MPN"
+F 6 "-" H 0 0 50 0001 C CNN "SPR"
+F 7 "-" H 0 0 50 0001 C CNN "SPN"
+F 8 "-" H 0 0 50 0001 C CNN "SPURL"
+F 9 "-" H 0 0 50 0001 C CNN "DESC"
+	1    2300 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5F08A8E2
+P 2300 2650
+F 0 "R2" H 2370 2696 50 0000 L CNN
+F 1 "9.1K" H 2370 2605 50 0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 2230 2650 50 0001 C CNN
+F 3 "~" H 2300 2650 50 0001 C CNN
+F 4 "-" H 0 0 50 0001 C CNN "MFR"
+F 5 "-" H 0 0 50 0001 C CNN "MPN"
+F 6 "-" H 0 0 50 0001 C CNN "SPR"
+F 7 "-" H 0 0 50 0001 C CNN "SPN"
+F 8 "-" H 0 0 50 0001 C CNN "SPURL"
+F 9 "-" H 0 0 50 0001 C CNN "DESC"
+	1    2300 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VBUS #PWR0105
+U 1 1 5F08AF8F
+P 2300 1200
+F 0 "#PWR0105" H 2300 1050 50 0001 C CNN
+F 1 "VBUS" H 2315 1373 50 0000 C CNN
+F 2 "" H 2300 1200 50 0001 C CNN
+F 3 "" H 2300 1200 50 0001 C CNN
+	1    2300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5F091591
+P 850 1200
+F 0 "C1" V 700 1200 50 0000 C CNN
+F 1 "0.1uF" V 1000 1200 50 0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 888 1050 50 0001 C CNN
+F 3 "~" H 850 1200 50 0001 C CNN
+F 4 "-" H 0 0 50 0001 C CNN "MFR"
+F 5 "-" H 0 0 50 0001 C CNN "MPN"
+F 6 "-" H 0 0 50 0001 C CNN "SPR"
+F 7 "-" H 0 0 50 0001 C CNN "SPN"
+F 8 "-" H 0 0 50 0001 C CNN "SPURL"
+F 9 "-" H 0 0 50 0001 C CNN "DESC"
+	1    850  1200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 5F094137
+P 4950 1400
+F 0 "C4" V 4800 1400 50 0000 C CNN
+F 1 "0.1uF" V 5100 1400 50 0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4988 1250 50 0001 C CNN
+F 3 "~" H 4950 1400 50 0001 C CNN
+F 4 "-" H 0 0 50 0001 C CNN "MFR"
+F 5 "-" H 0 0 50 0001 C CNN "MPN"
+F 6 "-" H 0 0 50 0001 C CNN "SPR"
+F 7 "-" H 0 0 50 0001 C CNN "SPN"
+F 8 "-" H 0 0 50 0001 C CNN "SPURL"
+F 9 "-" H 0 0 50 0001 C CNN "DESC"
+	1    4950 1400
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:VBUS #PWR0106
+U 1 1 5F094D65
+P 4950 900
+F 0 "#PWR0106" H 4950 750 50 0001 C CNN
+F 1 "VBUS" H 4965 1073 50 0000 C CNN
+F 2 "" H 4950 900 50 0001 C CNN
+F 3 "" H 4950 900 50 0001 C CNN
+	1    4950 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 5F096138
+P 5400 1900
+F 0 "#PWR0107" H 5400 1650 50 0001 C CNN
+F 1 "GND" H 5405 1727 50 0000 C CNN
+F 2 "" H 5400 1900 50 0001 C CNN
+F 3 "" H 5400 1900 50 0001 C CNN
+	1    5400 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VBUS #PWR0108
+U 1 1 5F099EF2
+P 2300 2500
+F 0 "#PWR0108" H 2300 2350 50 0001 C CNN
+F 1 "VBUS" H 2315 2673 50 0000 C CNN
+F 2 "" H 2300 2500 50 0001 C CNN
+F 3 "" H 2300 2500 50 0001 C CNN
+	1    2300 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VBUS #PWR0109
+U 1 1 5F0A0458
+P 1150 2100
+F 0 "#PWR0109" H 1150 1950 50 0001 C CNN
+F 1 "VBUS" H 1165 2273 50 0000 C CNN
+F 2 "" H 1150 2100 50 0001 C CNN
+F 3 "" H 1150 2100 50 0001 C CNN
+	1    1150 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x05 J1
+U 1 1 5F0A58F3
+P 700 2300
+F 0 "J1" H 618 2717 50 0000 C CNN
+F 1 "Conn_01x05" H 618 2626 50 0000 C CNN
+F 2 "Connector_PinHeader_1.27mm:PinHeader_1x05_P1.27mm_Vertical" H 700 2300 50 0001 C CNN
+F 3 "~" H 700 2300 50 0001 C CNN
+F 4 "-" H 0 0 50 0001 C CNN "MFR"
+F 5 "-" H 0 0 50 0001 C CNN "MPN"
+F 6 "-" H 0 0 50 0001 C CNN "SPR"
+F 7 "-" H 0 0 50 0001 C CNN "SPN"
+F 8 "-" H 0 0 50 0001 C CNN "SPURL"
+F 9 "-" H 0 0 50 0001 C CNN "DESC"
+	1    700  2300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0110
+U 1 1 5F0A5F40
+P 900 2500
+F 0 "#PWR0110" H 900 2250 50 0001 C CNN
+F 1 "GND" H 905 2327 50 0000 C CNN
+F 2 "" H 900 2500 50 0001 C CNN
+F 3 "" H 900 2500 50 0001 C CNN
+	1    900  2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x03 J2
+U 1 1 5F0AB5E7
+P 6100 2450
+F 0 "J2" H 6180 2492 50 0000 L CNN
+F 1 "Conn_01x03" H 6180 2401 50 0000 L CNN
+F 2 "Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Vertical" H 6100 2450 50 0001 C CNN
+F 3 "~" H 6100 2450 50 0001 C CNN
+F 4 "-" H 0 0 50 0001 C CNN "MFR"
+F 5 "-" H 0 0 50 0001 C CNN "MPN"
+F 6 "-" H 0 0 50 0001 C CNN "SPR"
+F 7 "-" H 0 0 50 0001 C CNN "SPN"
+F 8 "-" H 0 0 50 0001 C CNN "SPURL"
+F 9 "-" H 0 0 50 0001 C CNN "DESC"
+	1    6100 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VBUS #PWR0111
+U 1 1 5F0AC37B
+P 5750 1900
+F 0 "#PWR0111" H 5750 1750 50 0001 C CNN
+F 1 "VBUS" H 5765 2073 50 0000 C CNN
+F 2 "" H 5750 1900 50 0001 C CNN
+F 3 "" H 5750 1900 50 0001 C CNN
+	1    5750 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C5
+U 1 1 5F0AC8F9
+P 5750 2050
+F 0 "C5" V 5600 2050 50 0000 C CNN
+F 1 "1uF" V 5900 2050 50 0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5788 1900 50 0001 C CNN
+F 3 "~" H 5750 2050 50 0001 C CNN
+F 4 "-" H 0 0 50 0001 C CNN "MFR"
+F 5 "-" H 0 0 50 0001 C CNN "MPN"
+F 6 "-" H 0 0 50 0001 C CNN "SPR"
+F 7 "-" H 0 0 50 0001 C CNN "SPN"
+F 8 "-" H 0 0 50 0001 C CNN "SPURL"
+F 9 "-" H 0 0 50 0001 C CNN "DESC"
+	1    5750 2050
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0112
+U 1 1 5F0AFC7C
+P 5750 2550
+F 0 "#PWR0112" H 5750 2300 50 0001 C CNN
+F 1 "GND" H 5755 2377 50 0000 C CNN
+F 2 "" H 5750 2550 50 0001 C CNN
+F 3 "" H 5750 2550 50 0001 C CNN
+	1    5750 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0113
+U 1 1 5F0C9268
+P 4550 3300
+F 0 "#PWR0113" H 4550 3050 50 0001 C CNN
+F 1 "GND" H 4555 3127 50 0000 C CNN
+F 2 "" H 4550 3300 50 0001 C CNN
+F 3 "" H 4550 3300 50 0001 C CNN
+	1    4550 3300
+	1    0    0    -1  
+$EndComp
+Text Label 2500 2000 0    50   ~ 0
+CLK
+Text Label 4050 1600 0    50   ~ 0
+ZERO
+Text Label 4100 2900 0    50   ~ 0
+ONE
+Text Label 2550 2300 0    50   ~ 0
+~CLR
+Text Label 950  2400 0    50   ~ 0
+~CS
+Text Label 950  2200 0    50   ~ 0
+CLK
+Text Label 950  2300 0    50   ~ 0
+MOSI
+Text Label 5550 2450 0    50   ~ 0
+OUT
+Text Label 2550 1500 0    50   ~ 0
+SHORT_RC
+Text Label 2550 2800 0    50   ~ 0
+LONG_RC
+Wire Wire Line
+	2900 2100 2900 1900
+Wire Wire Line
+	2900 1900 3000 1900
+Wire Wire Line
+	3000 3200 2850 3200
+Wire Wire Line
+	2850 3200 2850 3500
+Wire Wire Line
+	3000 1700 2600 1700
+Wire Wire Line
+	3000 1600 3000 1500
+Wire Wire Line
+	3000 1500 2300 1500
+Wire Wire Line
+	2300 1500 2300 1700
+Wire Wire Line
+	2600 3000 3000 3000
+Wire Wire Line
+	2300 3000 2300 2800
+Wire Wire Line
+	2300 2800 3000 2800
+Wire Wire Line
+	3000 2800 3000 2900
+Wire Wire Line
+	4000 1600 4300 1600
+Wire Wire Line
+	4300 1600 4300 2350
+Wire Wire Line
+	4300 2550 4300 2900
+Wire Wire Line
+	4300 2900 4000 2900
+Wire Wire Line
+	4900 2350 4900 2450
+Wire Wire Line
+	4900 2450 4900 2550
+Wire Wire Line
+	850  1050 850  700 
+Wire Wire Line
+	850  700  1250 700 
+Wire Wire Line
+	850  1350 850  1700
+Wire Wire Line
+	850  1700 1250 1700
+Wire Wire Line
+	5400 900  4950 900 
+Wire Wire Line
+	4950 900  4950 1250
+Wire Wire Line
+	5400 1900 4950 1900
+Wire Wire Line
+	4950 1900 4950 1550
+Wire Wire Line
+	3500 2300 2050 2300
+Wire Wire Line
+	3500 3600 3500 3800
+Wire Wire Line
+	3500 3800 2050 3800
+Wire Wire Line
+	2050 3800 2050 2300
+Wire Wire Line
+	1150 2100 900  2100
+Wire Wire Line
+	900  2200 1150 2200
+Wire Wire Line
+	2500 2000 3000 2000
+Wire Wire Line
+	1250 3300 3000 3300
+Wire Wire Line
+	5750 1900 5900 1900
+Wire Wire Line
+	5900 1900 5900 2350
+Wire Wire Line
+	5900 2450 5500 2450
+Wire Wire Line
+	5750 2200 5750 2550
+Wire Wire Line
+	5750 2550 5900 2550
+Wire Wire Line
+	1450 2200 1450 2400
+Wire Wire Line
+	1250 2300 1250 3300
+Wire Wire Line
+	900  2300 1250 2300
+Wire Wire Line
+	1450 2400 900  2400
+Wire Wire Line
+	4550 3300 4550 3100
+Connection ~ 2300 1500
+Connection ~ 2300 2800
+Connection ~ 4900 2450
+Connection ~ 1250 1700
+Connection ~ 850  700 
+Connection ~ 4950 900 
+Connection ~ 5400 1900
+Connection ~ 2050 2300
+Connection ~ 5750 1900
+Connection ~ 5750 2550
+Connection ~ 1450 2400
+Connection ~ 4550 3300
+NoConn ~ 5150 3200
+NoConn ~ 4000 3300
+NoConn ~ 4000 2000
+$EndSCHEMATC

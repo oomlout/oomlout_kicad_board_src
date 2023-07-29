@@ -1,0 +1,107 @@
+allow_forking: true
+archive_url: https://api.github.com/repos/cvra/actuator-board/{archive_format}{/ref}
+archived: false
+assignees_url: https://api.github.com/repos/cvra/actuator-board/assignees{/user}
+blobs_url: https://api.github.com/repos/cvra/actuator-board/git/blobs{/sha}
+branches_url: https://api.github.com/repos/cvra/actuator-board/branches{/branch}
+clone_url: https://github.com/cvra/actuator-board.git
+collaborators_url: https://api.github.com/repos/cvra/actuator-board/collaborators{/collaborator}
+comments_url: https://api.github.com/repos/cvra/actuator-board/comments{/number}
+commits_url: https://api.github.com/repos/cvra/actuator-board/commits{/sha}
+compare_url: https://api.github.com/repos/cvra/actuator-board/compare/{base}...{head}
+contents_url: https://api.github.com/repos/cvra/actuator-board/contents/{+path}
+contributors_url: https://api.github.com/repos/cvra/actuator-board/contributors
+created_at: '2019-10-25T17:23:02Z'
+default_branch: master
+deployments_url: https://api.github.com/repos/cvra/actuator-board/deployments
+description: PCB for controlling our robot's RC servo and vacuum pump actuators including
+  sensor feedback.
+disabled: false
+downloads_url: https://api.github.com/repos/cvra/actuator-board/downloads
+events_url: https://api.github.com/repos/cvra/actuator-board/events
+fork: false
+forks: 0
+forks_count: 0
+forks_url: https://api.github.com/repos/cvra/actuator-board/forks
+full_name: cvra/actuator-board
+git_commits_url: https://api.github.com/repos/cvra/actuator-board/git/commits{/sha}
+git_refs_url: https://api.github.com/repos/cvra/actuator-board/git/refs{/sha}
+git_tags_url: https://api.github.com/repos/cvra/actuator-board/git/tags{/sha}
+git_url: git://github.com/cvra/actuator-board.git
+has_discussions: false
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: true
+has_wiki: true
+homepage: null
+hooks_url: https://api.github.com/repos/cvra/actuator-board/hooks
+html_url: https://github.com/cvra/actuator-board
+id: 217582571
+is_template: false
+issue_comment_url: https://api.github.com/repos/cvra/actuator-board/issues/comments{/number}
+issue_events_url: https://api.github.com/repos/cvra/actuator-board/issues/events{/number}
+issues_url: https://api.github.com/repos/cvra/actuator-board/issues{/number}
+keys_url: https://api.github.com/repos/cvra/actuator-board/keys{/key_id}
+labels_url: https://api.github.com/repos/cvra/actuator-board/labels{/name}
+language: null
+languages_url: https://api.github.com/repos/cvra/actuator-board/languages
+license:
+  key: other
+  name: Other
+  node_id: MDc6TGljZW5zZTA=
+  spdx_id: NOASSERTION
+  url: null
+merges_url: https://api.github.com/repos/cvra/actuator-board/merges
+milestones_url: https://api.github.com/repos/cvra/actuator-board/milestones{/number}
+mirror_url: null
+name: actuator-board
+node_id: MDEwOlJlcG9zaXRvcnkyMTc1ODI1NzE=
+notifications_url: https://api.github.com/repos/cvra/actuator-board/notifications{?since,all,participating}
+open_issues: 0
+open_issues_count: 0
+owner:
+  avatar_url: https://avatars.githubusercontent.com/u/5530328?v=4
+  events_url: https://api.github.com/users/cvra/events{/privacy}
+  followers_url: https://api.github.com/users/cvra/followers
+  following_url: https://api.github.com/users/cvra/following{/other_user}
+  gists_url: https://api.github.com/users/cvra/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/cvra
+  id: 5530328
+  login: cvra
+  node_id: MDEyOk9yZ2FuaXphdGlvbjU1MzAzMjg=
+  organizations_url: https://api.github.com/users/cvra/orgs
+  received_events_url: https://api.github.com/users/cvra/received_events
+  repos_url: https://api.github.com/users/cvra/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/cvra/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/cvra/subscriptions
+  type: Organization
+  url: https://api.github.com/users/cvra
+private: false
+projects_flat: projects_flat/cvra_actuator_board/version_current/working
+projects_folder: projects_folder/cvra/actuator-board/version_current/working
+pulls_url: https://api.github.com/repos/cvra/actuator-board/pulls{/number}
+pushed_at: '2020-03-15T00:02:24Z'
+releases_url: https://api.github.com/repos/cvra/actuator-board/releases{/id}
+size: 8162
+ssh_url: git@github.com:cvra/actuator-board.git
+stargazers_count: 1
+stargazers_url: https://api.github.com/repos/cvra/actuator-board/stargazers
+statuses_url: https://api.github.com/repos/cvra/actuator-board/statuses/{sha}
+subscribers_url: https://api.github.com/repos/cvra/actuator-board/subscribers
+subscription_url: https://api.github.com/repos/cvra/actuator-board/subscription
+svn_url: https://github.com/cvra/actuator-board
+tags_url: https://api.github.com/repos/cvra/actuator-board/tags
+teams_url: https://api.github.com/repos/cvra/actuator-board/teams
+topics:
+- kicad
+- robotics
+trees_url: https://api.github.com/repos/cvra/actuator-board/git/trees{/sha}
+updated_at: '2020-08-31T10:24:27Z'
+url: https://api.github.com/repos/cvra/actuator-board
+visibility: public
+watchers: 1
+watchers_count: 1
+web_commit_signoff_required: false
