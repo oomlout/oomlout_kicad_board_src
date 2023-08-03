@@ -1,0 +1,1038 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:D_Small D1
+U 1 1 60294422
+P 1900 3050
+F 0 "D1" V 1946 2980 50  0000 R CNN
+F 1 "D_Small" V 1855 2980 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 1900 3050 50  0001 C CNN
+F 3 "~" V 1900 3050 50  0001 C CNN
+	1    1900 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 60584A84
+P 9600 5200
+F 0 "#PWR0101" H 9600 4950 50  0001 C CNN
+F 1 "GND" H 9605 5072 50  0000 R CNN
+F 2 "" H 9600 5200 50  0001 C CNN
+F 3 "" H 9600 5200 50  0001 C CNN
+	1    9600 5200
+	1    0    0    -1  
+$EndComp
+Text GLabel 8500 3100 0    50   Input ~ 0
+col5
+Text GLabel 8500 3200 0    50   Input ~ 0
+col4
+Text GLabel 8500 3300 0    50   Input ~ 0
+col3
+Text GLabel 8500 3400 0    50   Input ~ 0
+col2
+Text GLabel 8500 3500 0    50   Input ~ 0
+col1
+Text GLabel 8500 3600 0    50   Input ~ 0
+col0
+Text GLabel 9200 5300 2    50   Input ~ 0
+TX
+$Comp
+L SparkFun-Boards:SPARKFUN_PRO_MICRO B1
+U 1 1 60F44570
+P 8950 3050
+F 0 "B1" H 8950 3854 45  0000 C CNN
+F 1 "SPARKFUN_PRO_MICRO" H 8950 3770 45  0000 C CNN
+F 2 "SparkFun Boards:SPARKFUN_PRO_MICRO" H 8950 3850 20  0001 C CNN
+F 3 "" H 8950 3050 50  0001 C CNN
+F 4 "XXX-00000" H 8950 3781 60  0001 C CNN "Field4"
+	1    8950 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW1
+U 1 1 60F49CC9
+P 2150 2900
+F 0 "SW1" H 2150 3185 50  0000 C CNN
+F 1 "SW_Push" H 2150 3094 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 2150 3100 50  0001 C CNN
+F 3 "~" H 2150 3100 50  0001 C CNN
+	1    2150 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 2900 1900 2900
+Wire Wire Line
+	1900 2900 1900 2950
+Wire Wire Line
+	2350 2900 2400 2900
+Wire Wire Line
+	2400 2900 2400 3550
+Wire Wire Line
+	1900 3150 1900 3200
+Wire Wire Line
+	1900 3200 2500 3200
+$Comp
+L Device:D_Small D2
+U 1 1 60F592CF
+P 1900 3700
+F 0 "D2" V 1946 3630 50  0000 R CNN
+F 1 "D_Small" V 1855 3630 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 1900 3700 50  0001 C CNN
+F 3 "~" V 1900 3700 50  0001 C CNN
+	1    1900 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW2
+U 1 1 60F592D5
+P 2150 3550
+F 0 "SW2" H 2150 3835 50  0000 C CNN
+F 1 "SW_Push" H 2150 3744 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 2150 3750 50  0001 C CNN
+F 3 "~" H 2150 3750 50  0001 C CNN
+	1    2150 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 3550 1900 3550
+Wire Wire Line
+	1900 3550 1900 3600
+Wire Wire Line
+	2350 3550 2400 3550
+Wire Wire Line
+	2400 3550 2400 4200
+Wire Wire Line
+	1900 3800 1900 3850
+Wire Wire Line
+	1900 3850 2500 3850
+$Comp
+L Device:D_Small D3
+U 1 1 60F5A481
+P 1900 4350
+F 0 "D3" V 1946 4280 50  0000 R CNN
+F 1 "D_Small" V 1855 4280 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 1900 4350 50  0001 C CNN
+F 3 "~" V 1900 4350 50  0001 C CNN
+	1    1900 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW3
+U 1 1 60F5A487
+P 2150 4200
+F 0 "SW3" H 2150 4485 50  0000 C CNN
+F 1 "SW_Push" H 2150 4394 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 2150 4400 50  0001 C CNN
+F 3 "~" H 2150 4400 50  0001 C CNN
+	1    2150 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 4200 1900 4200
+Wire Wire Line
+	1900 4200 1900 4250
+Wire Wire Line
+	2350 4200 2400 4200
+Wire Wire Line
+	2400 4200 2400 4600
+Wire Wire Line
+	1900 4450 1900 4500
+Wire Wire Line
+	1900 4500 2500 4500
+$Comp
+L Device:D_Small D17
+U 1 1 60F5C07D
+P 4300 5000
+F 0 "D17" V 4346 4930 50  0000 R CNN
+F 1 "D_Small" V 4255 4930 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 4300 5000 50  0001 C CNN
+F 3 "~" V 4300 5000 50  0001 C CNN
+	1    4300 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW17
+U 1 1 60F5C083
+P 4550 4850
+F 0 "SW17" H 4550 5135 50  0000 C CNN
+F 1 "SW_Push" H 4550 5044 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 4550 5050 50  0001 C CNN
+F 3 "~" H 4550 5050 50  0001 C CNN
+	1    4550 4850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4350 4850 4300 4850
+Wire Wire Line
+	4300 4850 4300 4900
+Wire Wire Line
+	4750 4850 4800 4850
+Wire Wire Line
+	4800 4850 4800 5250
+Wire Wire Line
+	4300 5100 4300 5150
+Wire Wire Line
+	4300 5150 4900 5150
+$Comp
+L Device:D_Small D4
+U 1 1 60F67650
+P 2500 3050
+F 0 "D4" V 2546 2980 50  0000 R CNN
+F 1 "D_Small" V 2455 2980 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 2500 3050 50  0001 C CNN
+F 3 "~" V 2500 3050 50  0001 C CNN
+	1    2500 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW4
+U 1 1 60F67656
+P 2750 2900
+F 0 "SW4" H 2750 3185 50  0000 C CNN
+F 1 "SW_Push" H 2750 3094 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 2750 3100 50  0001 C CNN
+F 3 "~" H 2750 3100 50  0001 C CNN
+	1    2750 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2550 2900 2500 2900
+Wire Wire Line
+	2500 2900 2500 2950
+Wire Wire Line
+	2950 2900 3000 2900
+Wire Wire Line
+	3000 2900 3000 3550
+Wire Wire Line
+	2500 3150 2500 3200
+Wire Wire Line
+	2500 3200 3100 3200
+$Comp
+L Device:D_Small D5
+U 1 1 60F67662
+P 2500 3700
+F 0 "D5" V 2546 3630 50  0000 R CNN
+F 1 "D_Small" V 2455 3630 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 2500 3700 50  0001 C CNN
+F 3 "~" V 2500 3700 50  0001 C CNN
+	1    2500 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW5
+U 1 1 60F67668
+P 2750 3550
+F 0 "SW5" H 2750 3835 50  0000 C CNN
+F 1 "SW_Push" H 2750 3744 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 2750 3750 50  0001 C CNN
+F 3 "~" H 2750 3750 50  0001 C CNN
+	1    2750 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2550 3550 2500 3550
+Wire Wire Line
+	2500 3550 2500 3600
+Wire Wire Line
+	2950 3550 3000 3550
+Wire Wire Line
+	3000 3550 3000 4200
+Wire Wire Line
+	2500 3800 2500 3850
+Wire Wire Line
+	2500 3850 3100 3850
+$Comp
+L Device:D_Small D6
+U 1 1 60F67674
+P 2500 4350
+F 0 "D6" V 2546 4280 50  0000 R CNN
+F 1 "D_Small" V 2455 4280 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 2500 4350 50  0001 C CNN
+F 3 "~" V 2500 4350 50  0001 C CNN
+	1    2500 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW6
+U 1 1 60F6767A
+P 2750 4200
+F 0 "SW6" H 2750 4485 50  0000 C CNN
+F 1 "SW_Push" H 2750 4394 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 2750 4400 50  0001 C CNN
+F 3 "~" H 2750 4400 50  0001 C CNN
+	1    2750 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2550 4200 2500 4200
+Wire Wire Line
+	2500 4200 2500 4250
+Wire Wire Line
+	2950 4200 3000 4200
+Wire Wire Line
+	3000 4200 3000 4600
+Wire Wire Line
+	2500 4450 2500 4500
+Wire Wire Line
+	2500 4500 3100 4500
+$Comp
+L Device:D_Small D7
+U 1 1 60F69EE2
+P 3100 3050
+F 0 "D7" V 3146 2980 50  0000 R CNN
+F 1 "D_Small" V 3055 2980 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 3100 3050 50  0001 C CNN
+F 3 "~" V 3100 3050 50  0001 C CNN
+	1    3100 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW7
+U 1 1 60F69EE8
+P 3350 2900
+F 0 "SW7" H 3350 3185 50  0000 C CNN
+F 1 "SW_Push" H 3350 3094 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 3350 3100 50  0001 C CNN
+F 3 "~" H 3350 3100 50  0001 C CNN
+	1    3350 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3150 2900 3100 2900
+Wire Wire Line
+	3100 2900 3100 2950
+Wire Wire Line
+	3550 2900 3600 2900
+Wire Wire Line
+	3600 2900 3600 3550
+Wire Wire Line
+	3100 3150 3100 3200
+Wire Wire Line
+	3100 3200 3700 3200
+$Comp
+L Device:D_Small D8
+U 1 1 60F69EF4
+P 3100 3700
+F 0 "D8" V 3146 3630 50  0000 R CNN
+F 1 "D_Small" V 3055 3630 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 3100 3700 50  0001 C CNN
+F 3 "~" V 3100 3700 50  0001 C CNN
+	1    3100 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW8
+U 1 1 60F69EFA
+P 3350 3550
+F 0 "SW8" H 3350 3835 50  0000 C CNN
+F 1 "SW_Push" H 3350 3744 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 3350 3750 50  0001 C CNN
+F 3 "~" H 3350 3750 50  0001 C CNN
+	1    3350 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3150 3550 3100 3550
+Wire Wire Line
+	3100 3550 3100 3600
+Wire Wire Line
+	3550 3550 3600 3550
+Wire Wire Line
+	3600 3550 3600 4200
+Wire Wire Line
+	3100 3800 3100 3850
+Wire Wire Line
+	3100 3850 3700 3850
+$Comp
+L Device:D_Small D9
+U 1 1 60F69F06
+P 3100 4350
+F 0 "D9" V 3146 4280 50  0000 R CNN
+F 1 "D_Small" V 3055 4280 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 3100 4350 50  0001 C CNN
+F 3 "~" V 3100 4350 50  0001 C CNN
+	1    3100 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW9
+U 1 1 60F69F0C
+P 3350 4200
+F 0 "SW9" H 3350 4485 50  0000 C CNN
+F 1 "SW_Push" H 3350 4394 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 3350 4400 50  0001 C CNN
+F 3 "~" H 3350 4400 50  0001 C CNN
+	1    3350 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3150 4200 3100 4200
+Wire Wire Line
+	3100 4200 3100 4250
+Wire Wire Line
+	3550 4200 3600 4200
+Wire Wire Line
+	3600 4200 3600 4600
+Wire Wire Line
+	3100 4450 3100 4500
+Wire Wire Line
+	3100 4500 3700 4500
+$Comp
+L Device:D_Small D10
+U 1 1 60F6E719
+P 3700 3050
+F 0 "D10" V 3746 2980 50  0000 R CNN
+F 1 "D_Small" V 3655 2980 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 3700 3050 50  0001 C CNN
+F 3 "~" V 3700 3050 50  0001 C CNN
+	1    3700 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW10
+U 1 1 60F6E71F
+P 3950 2900
+F 0 "SW10" H 3950 3185 50  0000 C CNN
+F 1 "SW_Push" H 3950 3094 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 3950 3100 50  0001 C CNN
+F 3 "~" H 3950 3100 50  0001 C CNN
+	1    3950 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 2900 3700 2900
+Wire Wire Line
+	3700 2900 3700 2950
+Wire Wire Line
+	4150 2900 4200 2900
+Wire Wire Line
+	4200 2900 4200 3550
+Wire Wire Line
+	3700 3150 3700 3200
+Wire Wire Line
+	3700 3200 4300 3200
+$Comp
+L Device:D_Small D11
+U 1 1 60F6E72B
+P 3700 3700
+F 0 "D11" V 3746 3630 50  0000 R CNN
+F 1 "D_Small" V 3655 3630 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 3700 3700 50  0001 C CNN
+F 3 "~" V 3700 3700 50  0001 C CNN
+	1    3700 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW11
+U 1 1 60F6E731
+P 3950 3550
+F 0 "SW11" H 3950 3835 50  0000 C CNN
+F 1 "SW_Push" H 3950 3744 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 3950 3750 50  0001 C CNN
+F 3 "~" H 3950 3750 50  0001 C CNN
+	1    3950 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 3550 3700 3550
+Wire Wire Line
+	3700 3550 3700 3600
+Wire Wire Line
+	4150 3550 4200 3550
+Wire Wire Line
+	4200 3550 4200 4200
+Wire Wire Line
+	3700 3800 3700 3850
+Wire Wire Line
+	3700 3850 4300 3850
+$Comp
+L Device:D_Small D12
+U 1 1 60F6E73D
+P 3700 4350
+F 0 "D12" V 3746 4280 50  0000 R CNN
+F 1 "D_Small" V 3655 4280 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 3700 4350 50  0001 C CNN
+F 3 "~" V 3700 4350 50  0001 C CNN
+	1    3700 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW12
+U 1 1 60F6E743
+P 3950 4200
+F 0 "SW12" H 3950 4485 50  0000 C CNN
+F 1 "SW_Push" H 3950 4394 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 3950 4400 50  0001 C CNN
+F 3 "~" H 3950 4400 50  0001 C CNN
+	1    3950 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 4200 3700 4200
+Wire Wire Line
+	3700 4200 3700 4250
+Wire Wire Line
+	4150 4200 4200 4200
+Wire Wire Line
+	4200 4200 4200 4850
+Wire Wire Line
+	3700 4450 3700 4500
+Wire Wire Line
+	3700 4500 4300 4500
+$Comp
+L Device:D_Small D14
+U 1 1 60F710AB
+P 4300 3050
+F 0 "D14" V 4346 2980 50  0000 R CNN
+F 1 "D_Small" V 4255 2980 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 4300 3050 50  0001 C CNN
+F 3 "~" V 4300 3050 50  0001 C CNN
+	1    4300 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW14
+U 1 1 60F710B1
+P 4550 2900
+F 0 "SW14" H 4550 3185 50  0000 C CNN
+F 1 "SW_Push" H 4550 3094 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 4550 3100 50  0001 C CNN
+F 3 "~" H 4550 3100 50  0001 C CNN
+	1    4550 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4350 2900 4300 2900
+Wire Wire Line
+	4300 2900 4300 2950
+Wire Wire Line
+	4750 2900 4800 2900
+Wire Wire Line
+	4800 2900 4800 3550
+Wire Wire Line
+	4300 3150 4300 3200
+Wire Wire Line
+	4300 3200 4900 3200
+$Comp
+L Device:D_Small D15
+U 1 1 60F710BD
+P 4300 3700
+F 0 "D15" V 4346 3630 50  0000 R CNN
+F 1 "D_Small" V 4255 3630 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 4300 3700 50  0001 C CNN
+F 3 "~" V 4300 3700 50  0001 C CNN
+	1    4300 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW15
+U 1 1 60F710C3
+P 4550 3550
+F 0 "SW15" H 4550 3835 50  0000 C CNN
+F 1 "SW_Push" H 4550 3744 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 4550 3750 50  0001 C CNN
+F 3 "~" H 4550 3750 50  0001 C CNN
+	1    4550 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4350 3550 4300 3550
+Wire Wire Line
+	4300 3550 4300 3600
+Wire Wire Line
+	4750 3550 4800 3550
+Wire Wire Line
+	4800 3550 4800 4200
+Wire Wire Line
+	4300 3800 4300 3850
+Wire Wire Line
+	4300 3850 4900 3850
+$Comp
+L Device:D_Small D16
+U 1 1 60F710CF
+P 4300 4350
+F 0 "D16" V 4346 4280 50  0000 R CNN
+F 1 "D_Small" V 4255 4280 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 4300 4350 50  0001 C CNN
+F 3 "~" V 4300 4350 50  0001 C CNN
+	1    4300 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW16
+U 1 1 60F710D5
+P 4550 4200
+F 0 "SW16" H 4550 4485 50  0000 C CNN
+F 1 "SW_Push" H 4550 4394 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 4550 4400 50  0001 C CNN
+F 3 "~" H 4550 4400 50  0001 C CNN
+	1    4550 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4350 4200 4300 4200
+Wire Wire Line
+	4300 4200 4300 4250
+Wire Wire Line
+	4750 4200 4800 4200
+Wire Wire Line
+	4800 4200 4800 4850
+Wire Wire Line
+	4300 4450 4300 4500
+Wire Wire Line
+	4300 4500 4900 4500
+$Comp
+L Device:D_Small D18
+U 1 1 60F75FE6
+P 4900 3050
+F 0 "D18" V 4946 2980 50  0000 R CNN
+F 1 "D_Small" V 4855 2980 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 4900 3050 50  0001 C CNN
+F 3 "~" V 4900 3050 50  0001 C CNN
+	1    4900 3050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW18
+U 1 1 60F75FEC
+P 5150 2900
+F 0 "SW18" H 5150 3185 50  0000 C CNN
+F 1 "SW_Push" H 5150 3094 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 5150 3100 50  0001 C CNN
+F 3 "~" H 5150 3100 50  0001 C CNN
+	1    5150 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 2900 4900 2900
+Wire Wire Line
+	4900 2900 4900 2950
+Wire Wire Line
+	5350 2900 5400 2900
+Wire Wire Line
+	5400 2900 5400 3550
+Wire Wire Line
+	4900 3150 4900 3200
+Wire Wire Line
+	4900 3200 5500 3200
+$Comp
+L Device:D_Small D19
+U 1 1 60F75FF8
+P 4900 3700
+F 0 "D19" V 4946 3630 50  0000 R CNN
+F 1 "D_Small" V 4855 3630 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 4900 3700 50  0001 C CNN
+F 3 "~" V 4900 3700 50  0001 C CNN
+	1    4900 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW19
+U 1 1 60F75FFE
+P 5150 3550
+F 0 "SW19" H 5150 3835 50  0000 C CNN
+F 1 "SW_Push" H 5150 3744 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 5150 3750 50  0001 C CNN
+F 3 "~" H 5150 3750 50  0001 C CNN
+	1    5150 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 3550 4900 3550
+Wire Wire Line
+	4900 3550 4900 3600
+Wire Wire Line
+	5350 3550 5400 3550
+Wire Wire Line
+	5400 3550 5400 4200
+Wire Wire Line
+	4900 3800 4900 3850
+Wire Wire Line
+	4900 3850 5500 3850
+$Comp
+L Device:D_Small D20
+U 1 1 60F7600A
+P 4900 4350
+F 0 "D20" V 4946 4280 50  0000 R CNN
+F 1 "D_Small" V 4855 4280 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 4900 4350 50  0001 C CNN
+F 3 "~" V 4900 4350 50  0001 C CNN
+	1    4900 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW20
+U 1 1 60F76010
+P 5150 4200
+F 0 "SW20" H 5150 4485 50  0000 C CNN
+F 1 "SW_Push" H 5150 4394 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 5150 4400 50  0001 C CNN
+F 3 "~" H 5150 4400 50  0001 C CNN
+	1    5150 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 4200 4900 4200
+Wire Wire Line
+	4900 4200 4900 4250
+Wire Wire Line
+	5350 4200 5400 4200
+Wire Wire Line
+	5400 4200 5400 4850
+Wire Wire Line
+	4900 4450 4900 4500
+Wire Wire Line
+	4900 4500 5500 4500
+$Comp
+L Device:D_Small D21
+U 1 1 60F7B846
+P 4900 5000
+F 0 "D21" V 4946 4930 50  0000 R CNN
+F 1 "D_Small" V 4855 4930 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 4900 5000 50  0001 C CNN
+F 3 "~" V 4900 5000 50  0001 C CNN
+	1    4900 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW21
+U 1 1 60F7B84C
+P 5150 4850
+F 0 "SW21" H 5150 5135 50  0000 C CNN
+F 1 "SW_Push" H 5150 5044 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 5150 5050 50  0001 C CNN
+F 3 "~" H 5150 5050 50  0001 C CNN
+	1    5150 4850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 4850 4900 4850
+Wire Wire Line
+	4900 4850 4900 4900
+Wire Wire Line
+	5350 4850 5400 4850
+Wire Wire Line
+	5400 4850 5400 5250
+Wire Wire Line
+	4900 5100 4900 5150
+Wire Wire Line
+	4900 5150 5500 5150
+Connection ~ 4800 4850
+Connection ~ 4900 5150
+$Comp
+L Device:D_Small D13
+U 1 1 60F8524E
+P 3700 5000
+F 0 "D13" V 3746 4930 50  0000 R CNN
+F 1 "D_Small" V 3655 4930 50  0000 R CNN
+F 2 "Diode_THT:D_T-1_P5.08mm_Horizontal" V 3700 5000 50  0001 C CNN
+F 3 "~" V 3700 5000 50  0001 C CNN
+	1    3700 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW13
+U 1 1 60F85254
+P 3950 4850
+F 0 "SW13" H 3950 5135 50  0000 C CNN
+F 1 "SW_Push" H 3950 5044 50  0000 C CNN
+F 2 "keyswitches:SW_PG1350_reversible" H 3950 5050 50  0001 C CNN
+F 3 "~" H 3950 5050 50  0001 C CNN
+	1    3950 4850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 4850 3700 4850
+Wire Wire Line
+	3700 4850 3700 4900
+Wire Wire Line
+	4150 4850 4200 4850
+Wire Wire Line
+	4200 4850 4200 5250
+Wire Wire Line
+	3700 5100 3700 5150
+Wire Wire Line
+	3700 5150 4300 5150
+Wire Wire Line
+	9200 5100 9600 5100
+Wire Wire Line
+	9600 5100 9600 5200
+NoConn ~ 9400 2700
+NoConn ~ 8500 2600
+NoConn ~ 9200 5200
+NoConn ~ 9400 3200
+NoConn ~ 9400 3100
+NoConn ~ 9400 3000
+NoConn ~ 9400 2900
+NoConn ~ 8500 3000
+NoConn ~ 8500 2900
+Text GLabel 2400 4600 0    50   Input ~ 0
+col0
+Connection ~ 2400 4200
+Text GLabel 3000 4600 0    50   Input ~ 0
+col1
+Connection ~ 3000 4200
+Text GLabel 3600 4600 0    50   Input ~ 0
+col2
+Connection ~ 3600 4200
+Text GLabel 4200 5250 0    50   Input ~ 0
+col3
+Connection ~ 4200 4850
+Text GLabel 4800 5250 0    50   Input ~ 0
+col4
+Text GLabel 5400 5250 0    50   Input ~ 0
+col5
+Connection ~ 5400 4850
+Text GLabel 5500 3200 2    50   Input ~ 0
+row0
+Text GLabel 5500 3850 2    50   Input ~ 0
+row1
+Text GLabel 5500 4500 2    50   Input ~ 0
+row2
+Text GLabel 5500 5150 2    50   Input ~ 0
+row3
+Connection ~ 2400 3550
+Connection ~ 2500 3200
+Connection ~ 2500 3850
+Connection ~ 2500 4500
+Connection ~ 3000 3550
+Connection ~ 3100 3200
+Connection ~ 3100 3850
+Connection ~ 3100 4500
+Connection ~ 3600 3550
+Connection ~ 3700 3200
+Connection ~ 3700 3850
+Connection ~ 3700 4500
+Connection ~ 4200 3550
+Connection ~ 4200 4200
+Connection ~ 4300 3200
+Connection ~ 4300 3850
+Connection ~ 4300 4500
+Connection ~ 4300 5150
+Connection ~ 4800 3550
+Connection ~ 4800 4200
+Connection ~ 4900 3200
+Connection ~ 4900 3850
+Connection ~ 4900 4500
+Connection ~ 5400 3550
+Connection ~ 5400 4200
+$Comp
+L Connector:AudioJack4 J1
+U 1 1 60F6E2DF
+P 9000 5200
+F 0 "J1" H 8957 5525 50  0000 C CNN
+F 1 "AudioJack4" H 8957 5434 50  0000 C CNN
+F 2 "Connector_Audio:Jack_3.5mm_PJ320D_Horizontal" H 9000 5200 50  0001 C CNN
+F 3 "~" H 9000 5200 50  0001 C CNN
+	1    9000 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9750 5400 9750 5300
+Wire Wire Line
+	9200 5400 9750 5400
+$Comp
+L power:+5V #PWR0102
+U 1 1 6073B1E4
+P 9750 5300
+F 0 "#PWR0102" H 9750 5150 50  0001 C CNN
+F 1 "+5V" H 9765 5428 50  0000 L CNN
+F 2 "" H 9750 5300 50  0001 C CNN
+F 3 "" H 9750 5300 50  0001 C CNN
+	1    9750 5300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8500 2500 8450 2500
+Wire Wire Line
+	8450 2500 8450 2100
+Wire Wire Line
+	8450 2100 8750 2100
+Wire Wire Line
+	9150 2100 9450 2100
+Wire Wire Line
+	9450 2500 9400 2500
+Wire Wire Line
+	8950 1900 8900 1900
+Wire Wire Line
+	8950 1950 8950 1900
+$Comp
+L Jumper:SolderJumper_3_Open JP2
+U 1 1 610AC0B4
+P 8950 2100
+F 0 "JP2" H 8800 1900 50  0000 C CNN
+F 1 "SolderJumper_3_Open" H 8450 2000 50  0000 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical" H 8950 2100 50  0001 C CNN
+F 3 "~" H 8950 2100 50  0001 C CNN
+	1    8950 2100
+	-1   0    0    1   
+$EndComp
+Text GLabel 8900 1900 0    50   Input ~ 0
+TX
+Wire Wire Line
+	9450 2100 9450 2500
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 610D70D9
+P 650 6900
+F 0 "H2" H 750 6946 50  0000 L CNN
+F 1 "MountingHole" H 750 6855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 650 6900 50  0001 C CNN
+F 3 "~" H 650 6900 50  0001 C CNN
+	1    650  6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 610D739A
+P 650 7050
+F 0 "H3" H 750 7096 50  0000 L CNN
+F 1 "MountingHole" H 750 7005 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 650 7050 50  0001 C CNN
+F 3 "~" H 650 7050 50  0001 C CNN
+	1    650  7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 610D7701
+P 650 7200
+F 0 "H4" H 750 7246 50  0000 L CNN
+F 1 "MountingHole" H 750 7155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 650 7200 50  0001 C CNN
+F 3 "~" H 650 7200 50  0001 C CNN
+	1    650  7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 610D79C7
+P 650 7350
+F 0 "H5" H 750 7396 50  0000 L CNN
+F 1 "MountingHole" H 750 7305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 650 7350 50  0001 C CNN
+F 3 "~" H 650 7350 50  0001 C CNN
+	1    650  7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 610D7BDD
+P 650 7500
+F 0 "H6" H 750 7546 50  0000 L CNN
+F 1 "MountingHole" H 750 7455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 650 7500 50  0001 C CNN
+F 3 "~" H 650 7500 50  0001 C CNN
+	1    650  7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 610D4E8E
+P 650 6750
+F 0 "H1" H 750 6796 50  0000 L CNN
+F 1 "MountingHole" H 750 6705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 650 6750 50  0001 C CNN
+F 3 "~" H 650 6750 50  0001 C CNN
+	1    650  6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 610F5E38
+P 650 7650
+F 0 "H7" H 750 7696 50  0000 L CNN
+F 1 "MountingHole" H 750 7605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 650 7650 50  0001 C CNN
+F 3 "~" H 650 7650 50  0001 C CNN
+	1    650  7650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8150 2800 8500 2800
+$Comp
+L power:+5V #PWR0104
+U 1 1 61137631
+P 9200 4200
+F 0 "#PWR0104" H 9200 4050 50  0001 C CNN
+F 1 "+5V" H 9215 4328 50  0000 L CNN
+F 2 "" H 9200 4200 50  0001 C CNN
+F 3 "" H 9200 4200 50  0001 C CNN
+	1    9200 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9200 4250 8950 4250
+Wire Wire Line
+	8950 4250 8950 4000
+Wire Wire Line
+	9400 2800 9700 2800
+Wire Wire Line
+	9200 4250 9200 4200
+$Comp
+L Jumper:SolderJumper_3_Open JP1
+U 1 1 61244109
+P 8950 3850
+F 0 "JP1" H 8800 3650 50  0000 C CNN
+F 1 "SolderJumper_3_Open" H 8450 3750 50  0000 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical" H 8950 3850 50  0001 C CNN
+F 3 "~" H 8950 3850 50  0001 C CNN
+	1    8950 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9700 2800 9700 3850
+Wire Wire Line
+	9700 3850 9150 3850
+Wire Wire Line
+	8150 2800 8150 3850
+Wire Wire Line
+	8150 3850 8750 3850
+Text GLabel 9400 3600 2    50   Input ~ 0
+row3
+Text GLabel 9400 3500 2    50   Input ~ 0
+row2
+Text GLabel 9400 3400 2    50   Input ~ 0
+row1
+Text GLabel 9400 3300 2    50   Input ~ 0
+row0
+$Comp
+L power:GND #PWR0103
+U 1 1 612D0105
+P 8050 2700
+F 0 "#PWR0103" H 8050 2450 50  0001 C CNN
+F 1 "GND" H 8055 2572 50  0000 R CNN
+F 2 "" H 8050 2700 50  0001 C CNN
+F 3 "" H 8050 2700 50  0001 C CNN
+	1    8050 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 612D15B1
+P 9600 2600
+F 0 "#PWR0105" H 9600 2350 50  0001 C CNN
+F 1 "GND" H 9605 2472 50  0000 R CNN
+F 2 "" H 9600 2600 50  0001 C CNN
+F 3 "" H 9600 2600 50  0001 C CNN
+	1    9600 2600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9400 2600 9600 2600
+Wire Wire Line
+	8500 2700 8050 2700
+$EndSCHEMATC

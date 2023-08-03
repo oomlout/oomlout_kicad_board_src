@@ -1,0 +1,470 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:freetronics_kicad_sch_lib
+LIBS:PiBreakPlus-cache
+EELAYER 24 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "PiBreak Plus"
+Date "28 Aug 2014"
+Rev "v1.0"
+Comp "TAPR Open Hardware License"
+Comment1 "(C) 2014 Freetronics Pty Ltd"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Notes 2150 1100 0    100  ~ 0
+Raspberry Pi B+ Connector
+Text Notes 5700 1100 0    100  ~ 0
+GPIO Breakout
+$Comp
+L CONN_8 P4
+U 1 1 52967F66
+P 8600 2000
+F 0 "P4" V 8550 2000 60  0000 C CNN
+F 1 "CONN_8" V 8650 2000 60  0000 C CNN
+F 2 "~" H 8600 2000 60  0000 C CNN
+F 3 "~" H 8600 2000 60  0000 C CNN
+	1    8600 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_8 P6
+U 1 1 52967F73
+P 9800 2000
+F 0 "P6" V 9750 2000 60  0000 C CNN
+F 1 "CONN_8" V 9850 2000 60  0000 C CNN
+F 2 "~" H 9800 2000 60  0000 C CNN
+F 3 "~" H 9800 2000 60  0000 C CNN
+	1    9800 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_8 P5
+U 1 1 52967F79
+P 9200 2000
+F 0 "P5" V 9150 2000 60  0000 C CNN
+F 1 "CONN_8" V 9250 2000 60  0000 C CNN
+F 2 "~" H 9200 2000 60  0000 C CNN
+F 3 "~" H 9200 2000 60  0000 C CNN
+	1    9200 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8250 1550 8250 2350
+Wire Wire Line
+	9450 1650 9450 2500
+Wire Wire Line
+	8850 1550 8850 2350
+Connection ~ 8850 2250
+Connection ~ 8850 2150
+Connection ~ 8850 2050
+Connection ~ 8850 1950
+Connection ~ 8850 1850
+Connection ~ 8850 1750
+Connection ~ 8850 1650
+Connection ~ 9450 2350
+Connection ~ 9450 2250
+Connection ~ 9450 2150
+Connection ~ 9450 2050
+Connection ~ 9450 1950
+Connection ~ 9450 1850
+Connection ~ 9450 1750
+Connection ~ 8250 2250
+Connection ~ 8250 2150
+Connection ~ 8250 2050
+Connection ~ 8250 1950
+Connection ~ 8250 1850
+Connection ~ 8250 1750
+Connection ~ 8250 1650
+$Comp
+L +5V #PWR4
+U 1 1 5296803C
+P 8250 1550
+F 0 "#PWR4" H 8250 1640 20  0001 C CNN
+F 1 "+5V" H 8250 1640 30  0000 C CNN
+F 2 "" H 8250 1550 60  0000 C CNN
+F 3 "" H 8250 1550 60  0000 C CNN
+	1    8250 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR5
+U 1 1 529680F0
+P 8850 1550
+F 0 "#PWR5" H 8850 1510 30  0001 C CNN
+F 1 "+3.3V" H 8850 1660 30  0000 C CNN
+F 2 "" H 8850 1550 60  0000 C CNN
+F 3 "" H 8850 1550 60  0000 C CNN
+	1    8850 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR6
+U 1 1 529681D3
+P 9450 2500
+F 0 "#PWR6" H 9450 2500 30  0001 C CNN
+F 1 "GND" H 9450 2430 30  0001 C CNN
+F 2 "" H 9450 2500 60  0000 C CNN
+F 3 "" H 9450 2500 60  0000 C CNN
+	1    9450 2500
+	1    0    0    -1  
+$EndComp
+Text Notes 8450 1100 0    100  ~ 0
+Power Breakouts
+$Comp
+L RASPBERRY_PI_PLUS_CON P1
+U 1 1 53D1CB8A
+P 3200 3100
+F 0 "P1" H 3700 1750 60  0000 C CNN
+F 1 "RASPBERRY_PI_PLUS_CON" H 3150 2150 60  0000 C CNN
+F 2 "" H 3350 3500 60  0000 C CNN
+F 3 "" H 3350 3500 60  0000 C CNN
+	1    3200 3100
+	1    0    0    -1  
+$EndComp
+Text Label 1950 1850 2    60   ~ 0
+GPIO2_SDA
+Text Label 1950 1950 2    60   ~ 0
+GPIO3_SCL
+Text Label 1950 2050 2    60   ~ 0
+GPIO4_GPCLK0
+Text Label 1450 2350 0    60   ~ 0
+GPIO7_CE1
+Wire Wire Line
+	1950 1850 1250 1850
+Wire Wire Line
+	1950 1950 1250 1950
+Wire Wire Line
+	1950 2050 1250 2050
+Wire Wire Line
+	1950 2350 1250 2350
+Wire Wire Line
+	1950 2450 1250 2450
+Wire Wire Line
+	1950 2550 1250 2550
+Wire Wire Line
+	1950 2650 1250 2650
+Wire Wire Line
+	1950 2750 1250 2750
+Wire Wire Line
+	1950 3050 1250 3050
+Wire Wire Line
+	1950 3150 1250 3150
+Wire Wire Line
+	1950 3350 1250 3350
+Wire Wire Line
+	1950 3450 1250 3450
+Wire Wire Line
+	1950 3950 1250 3950
+Wire Wire Line
+	1950 4050 1250 4050
+Wire Wire Line
+	1950 4150 1250 4150
+Wire Wire Line
+	1950 4250 1250 4250
+Wire Wire Line
+	1950 4350 1250 4350
+Text Label 1450 2450 0    60   ~ 0
+GPIO8_CE0
+Text Label 1950 2550 2    60   ~ 0
+GPIO9_MISO
+Text Label 1950 2650 2    60   ~ 0
+GPIO10_MOSI
+Text Label 1950 2750 2    60   ~ 0
+GPIO11_SCK
+Text Label 1400 3050 0    60   ~ 0
+GPIO14_TXD
+Text Label 1400 3150 0    60   ~ 0
+GPIO15_RXD
+Text Label 1950 3350 2    60   ~ 0
+GPIO17
+Text Label 1950 3450 2    60   ~ 0
+GPIO18_PCM_CLK
+Text Label 1950 3850 2    60   ~ 0
+GPIO22
+Text Label 1950 3950 2    60   ~ 0
+GPIO23
+Text Label 1950 4050 2    60   ~ 0
+GPIO24
+Text Label 1950 4150 2    60   ~ 0
+GPIO25
+Text Label 1950 4250 2    60   ~ 0
+GPIO26
+Wire Wire Line
+	1950 3850 1250 3850
+Wire Wire Line
+	1250 3750 1950 3750
+Wire Wire Line
+	1950 3650 1250 3650
+Wire Wire Line
+	1250 3550 1950 3550
+Wire Wire Line
+	1950 3250 1250 3250
+Wire Wire Line
+	1950 2950 1250 2950
+Wire Wire Line
+	1950 2850 1250 2850
+Wire Wire Line
+	1950 2250 1250 2250
+Wire Wire Line
+	1950 2150 1250 2150
+Text Label 1950 2150 2    60   ~ 0
+GPIO5
+Text Label 1950 2250 2    60   ~ 0
+GPIO6
+Text Label 1950 2850 2    60   ~ 0
+GPIO12
+Text Label 1950 2950 2    60   ~ 0
+GPIO13
+Text Label 1950 3550 2    60   ~ 0
+GPIO19
+Text Label 1950 3650 2    60   ~ 0
+GPIO20
+Text Label 1950 3750 2    60   ~ 0
+GPIO21
+Text Label 1950 4350 2    60   ~ 0
+GPIO27
+Text Label 1950 3250 2    60   ~ 0
+GPIO16
+Wire Wire Line
+	2850 4700 3550 4700
+Wire Wire Line
+	2850 4700 2850 4800
+$Comp
+L GND #PWR1
+U 1 1 53D1DC13
+P 2850 4800
+F 0 "#PWR1" H 2850 4800 30  0001 C CNN
+F 1 "GND" H 2850 4730 30  0001 C CNN
+F 2 "" H 2850 4800 60  0000 C CNN
+F 3 "" H 2850 4800 60  0000 C CNN
+	1    2850 4800
+	1    0    0    -1  
+$EndComp
+Connection ~ 2850 4700
+Connection ~ 2950 4700
+Connection ~ 3050 4700
+Connection ~ 3150 4700
+Connection ~ 3250 4700
+Connection ~ 3350 4700
+Connection ~ 3450 4700
+Connection ~ 3550 4700
+Connection ~ 3000 1500
+Wire Wire Line
+	3000 1500 3100 1500
+Wire Wire Line
+	3100 1500 3100 1350
+Wire Wire Line
+	3400 1500 3300 1500
+Wire Wire Line
+	3300 1500 3300 1350
+Connection ~ 3300 1500
+$Comp
+L +3.3V #PWR3
+U 1 1 53D1DEAA
+P 3300 1350
+F 0 "#PWR3" H 3300 1310 30  0001 C CNN
+F 1 "+3.3V" H 3300 1460 30  0000 C CNN
+F 2 "" H 3300 1350 60  0000 C CNN
+F 3 "" H 3300 1350 60  0000 C CNN
+	1    3300 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR2
+U 1 1 53D1DEC4
+P 3100 1350
+F 0 "#PWR2" H 3100 1440 20  0001 C CNN
+F 1 "+5V" H 3100 1440 30  0000 C CNN
+F 2 "" H 3100 1350 60  0000 C CNN
+F 3 "" H 3100 1350 60  0000 C CNN
+	1    3100 1350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4350 2000 4700 2000
+Wire Wire Line
+	4350 2100 4700 2100
+Text Label 4400 2000 0    60   ~ 0
+EEPROM_SDA
+Text Label 4400 2100 0    60   ~ 0
+EEPROM_SCL
+Text Label 6800 1400 2    60   ~ 0
+GPIO2_SDA
+Text Label 6800 1500 2    60   ~ 0
+GPIO3_SCL
+Text Label 6800 1600 2    60   ~ 0
+GPIO4_GPCLK0
+Text Label 6300 1900 0    60   ~ 0
+GPIO7_CE1
+Wire Wire Line
+	6800 1400 6100 1400
+Wire Wire Line
+	6800 1500 6100 1500
+Wire Wire Line
+	6800 1600 6100 1600
+Wire Wire Line
+	6800 1900 6100 1900
+Wire Wire Line
+	6800 2000 6100 2000
+Wire Wire Line
+	6800 2100 6100 2100
+Wire Wire Line
+	6800 2200 6100 2200
+Wire Wire Line
+	6800 2300 6100 2300
+Wire Wire Line
+	6800 2600 6100 2600
+Wire Wire Line
+	6800 2700 6100 2700
+Wire Wire Line
+	6800 2900 6100 2900
+Wire Wire Line
+	6800 3000 6100 3000
+Wire Wire Line
+	6750 3750 6050 3750
+Wire Wire Line
+	6750 3850 6050 3850
+Wire Wire Line
+	6750 3950 6050 3950
+Wire Wire Line
+	6750 4050 6050 4050
+Wire Wire Line
+	6750 4150 6050 4150
+Text Label 6300 2000 0    60   ~ 0
+GPIO8_CE0
+Text Label 6800 2100 2    60   ~ 0
+GPIO9_MISO
+Text Label 6800 2200 2    60   ~ 0
+GPIO10_MOSI
+Text Label 6800 2300 2    60   ~ 0
+GPIO11_SCK
+Text Label 6250 2600 0    60   ~ 0
+GPIO14_TXD
+Text Label 6250 2700 0    60   ~ 0
+GPIO15_RXD
+Text Label 6800 2900 2    60   ~ 0
+GPIO17
+Text Label 6800 3000 2    60   ~ 0
+GPIO18_PCM_CLK
+Text Label 6750 3650 2    60   ~ 0
+GPIO22
+Text Label 6750 3750 2    60   ~ 0
+GPIO23
+Text Label 6750 3850 2    60   ~ 0
+GPIO24
+Text Label 6750 3950 2    60   ~ 0
+GPIO25
+Text Label 6750 4050 2    60   ~ 0
+GPIO26
+Wire Wire Line
+	6750 3650 6050 3650
+Wire Wire Line
+	6100 3300 6800 3300
+Wire Wire Line
+	6800 3200 6100 3200
+Wire Wire Line
+	6100 3100 6800 3100
+Wire Wire Line
+	6800 2800 6100 2800
+Wire Wire Line
+	6800 2500 6100 2500
+Wire Wire Line
+	6800 2400 6100 2400
+Wire Wire Line
+	6800 1800 6100 1800
+Wire Wire Line
+	6800 1700 6100 1700
+Text Label 6800 1700 2    60   ~ 0
+GPIO5
+Text Label 6800 1800 2    60   ~ 0
+GPIO6
+Text Label 6800 2400 2    60   ~ 0
+GPIO12
+Text Label 6800 2500 2    60   ~ 0
+GPIO13
+Text Label 6800 3100 2    60   ~ 0
+GPIO19
+Text Label 6800 3200 2    60   ~ 0
+GPIO20
+Text Label 6800 3300 2    60   ~ 0
+GPIO21
+Text Label 6750 4150 2    60   ~ 0
+GPIO27
+Text Label 6800 2800 2    60   ~ 0
+GPIO16
+$Comp
+L CONN_20 P2
+U 1 1 53D19F1A
+P 5750 2350
+F 0 "P2" V 5700 2350 60  0000 C CNN
+F 1 "CONN_20" V 5800 2350 60  0000 C CNN
+F 2 "" H 5750 2350 60  0000 C CNN
+F 3 "" H 5750 2350 60  0000 C CNN
+	1    5750 2350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L CONN_6 P3
+U 1 1 53D19F58
+P 5700 3900
+F 0 "P3" V 5650 3900 60  0000 C CNN
+F 1 "CONN_6" V 5750 3900 60  0000 C CNN
+F 2 "" H 5700 3900 60  0000 C CNN
+F 3 "" H 5700 3900 60  0000 C CNN
+	1    5700 3900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L CONN_2 P7
+U 1 1 53D5A0F1
+P 5700 4550
+F 0 "P7" V 5650 4550 40  0000 C CNN
+F 1 "CONN_2" V 5750 4550 40  0000 C CNN
+F 2 "" H 5700 4550 60  0000 C CNN
+F 3 "" H 5700 4550 60  0000 C CNN
+	1    5700 4550
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	6050 4450 6400 4450
+Wire Wire Line
+	6050 4650 6400 4650
+Text Label 6100 4450 0    60   ~ 0
+EEPROM_SDA
+Text Label 6100 4650 0    60   ~ 0
+EEPROM_SCL
+$EndSCHEMATC

@@ -1,0 +1,1110 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:jakub
+LIBS:MicroFLiC_servo_solenoid_bottom-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 3 3
+Title "Flow Unit Shield"
+Date "19 Jun 2014"
+Rev "1.23"
+Comp "King's College London"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Notes 2200 700  0    60   ~ 0
+Dual open collector PWM shutter driver
+$Comp
+L C C2
+U 1 1 53A2B998
+P 2300 2800
+F 0 "C2" V 2400 3000 40  0000 R CNN
+F 1 "10n" V 2400 2700 40  0000 R CNN
+F 2 "Capacitors_SMD:C_0805" H 2338 2650 30  0001 C CNN
+F 3 "" H 2300 2800 60  0000 C CNN
+F 4 "MCU0805R103KCT" V 2300 2800 60  0001 C CNN "Part Number"
+F 5 "Multicomp" V 2300 2800 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 2300 2800 60  0001 C CNN "Package"
+F 7 "Farnell" H 2300 2800 60  0001 C CNN "Supplier"
+F 8 "9406352" V 2300 2800 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 2300 2800 60  0001 C CNN "Alt. Supplier"
+F 10 "710-885012207092" H 2300 2800 60  0001 C CNN "Alt. Order Code"
+F 11 "10nF/50V X7R 0805 ceramic capacitor" H 2300 2800 60  0001 C CNN "Note"
+	1    2300 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R4
+U 1 1 53A2B9D0
+P 2300 3000
+F 0 "R4" V 2400 3200 40  0000 R CNN
+F 1 "270k" V 2400 2900 40  0000 R CNN
+F 2 "Resistors_SMD:R_0805" V 2230 3000 30  0001 C CNN
+F 3 "" H 2300 3000 30  0000 C CNN
+F 4 "MCSR08X2703FTL" V 2300 3000 60  0001 C CNN "Part Number"
+F 5 "Multicomp" V 2300 3000 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 2300 3000 60  0001 C CNN "Package"
+F 7 "Farnell" H 2300 3000 60  0001 C CNN "Supplier"
+F 8 "2074426" V 2300 3000 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 2300 3000 60  0001 C CNN "Alt. Supplier"
+F 10 "ERJ-6ENF2703V" H 2300 3000 60  0001 C CNN "Alt. Order Code"
+F 11 "270kΩ/1% 0805 resistor" H 2300 3000 60  0001 C CNN "Note"
+	1    2300 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L GND #PWR016
+U 1 1 53A2BB0A
+P 1950 3300
+F 0 "#PWR016" H 1950 3300 30  0001 C CNN
+F 1 "GND" H 1950 3230 30  0001 C CNN
+F 2 "" H 1950 3300 60  0000 C CNN
+F 3 "" H 1950 3300 60  0000 C CNN
+	1    1950 3300
+	1    0    0    -1  
+$EndComp
+Text Notes 3700 3850 0    60   ~ 0
+Optional coil bounce supression diodes D5 and D6:\nDo not connect for fast shutter operation\nConnect for higher circuit reliability
+$Comp
+L C C4
+U 1 1 53A2CAC9
+P 3400 1750
+F 0 "C4" H 3550 1700 40  0000 L CNN
+F 1 "4u7/25V" H 3550 1800 40  0000 L CNN
+F 2 "Capacitors_SMD:C_0805" H 3438 1600 30  0001 C CNN
+F 3 "" H 3400 1750 60  0000 C CNN
+F 4 "GRM21BR61E475MA12L" H 3400 1750 60  0001 C CNN "Part Number"
+F 5 "Murata" H 3400 1750 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 3400 1750 60  0001 C CNN "Package"
+F 7 "Farnell" H 3400 1750 60  0001 C CNN "Supplier"
+F 8 "2362111" H 3400 1750 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 3400 1750 60  0001 C CNN "Alt. Supplier"
+F 10 "81-GRM21BR61E475MA2L" H 3400 1750 60  0001 C CNN "Alt. Order Code"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 3400 1750 60  0001 C CNN "Note"
+	1    3400 1750
+	-1   0    0    1   
+$EndComp
+$Comp
+L GND #PWR017
+U 1 1 53A2D1AD
+P 3400 2000
+F 0 "#PWR017" H 3400 2000 30  0001 C CNN
+F 1 "GND" H 3400 1930 30  0001 C CNN
+F 2 "" H 3400 2000 60  0000 C CNN
+F 3 "" H 3400 2000 60  0000 C CNN
+	1    3400 2000
+	1    0    0    -1  
+$EndComp
+Text HLabel 6700 3400 0    60   Input ~ 0
+SH_~LDAC
+Wire Wire Line
+	2150 2800 1950 2800
+Wire Wire Line
+	1950 2800 1950 3300
+Wire Wire Line
+	1950 3000 2150 3000
+Connection ~ 1950 3000
+Wire Wire Line
+	2700 3200 1300 3200
+Wire Wire Line
+	2450 3000 2700 3000
+Wire Wire Line
+	2700 2800 2450 2800
+Wire Wire Line
+	2700 2600 1300 2600
+Wire Wire Line
+	3400 1900 3400 2000
+Wire Wire Line
+	3400 1600 3400 1400
+Text Notes 2050 3550 0    60   ~ 0
+180k = 30 kHz\n270k = 15 kHz\n330k = 10 kHz
+Text Notes 1300 2850 0    60   ~ 0
+4n7 = 5 ms\n10n = 11 ms
+$Comp
+L +2V5 #PWR018
+U 1 1 554638F4
+P 5100 1300
+F 0 "#PWR018" H 5100 1150 60  0001 C CNN
+F 1 "+2V5" V 5100 1550 60  0000 C CNN
+F 2 "" H 5100 1300 60  0000 C CNN
+F 3 "" H 5100 1300 60  0000 C CNN
+	1    5100 1300
+	1    0    0    -1  
+$EndComp
+Connection ~ 5100 2600
+Text HLabel 5700 2600 2    60   Output ~ 0
+SHA_O/C
+$Comp
+L +5VP #PWR019
+U 1 1 55463911
+P 5200 1300
+F 0 "#PWR019" H 5200 1150 60  0001 C CNN
+F 1 "+5VP" V 5200 1550 60  0000 C CNN
+F 2 "" H 5200 1300 60  0000 C CNN
+F 3 "" H 5200 1300 60  0000 C CNN
+	1    5200 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L +12V #PWR020
+U 1 1 55463917
+P 5300 1300
+F 0 "#PWR020" H 5300 1150 60  0001 C CNN
+F 1 "+12V" V 5300 1550 60  0000 C CNN
+F 2 "" H 5300 1300 60  0000 C CNN
+F 3 "" H 5300 1300 60  0000 C CNN
+	1    5300 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C6
+U 1 1 55463929
+P 5400 2300
+F 0 "C6" H 5250 2250 40  0000 R CNN
+F 1 "4u7/25V" H 5250 2350 40  0000 R CNN
+F 2 "Capacitors_SMD:C_0805" H 5438 2150 30  0001 C CNN
+F 3 "" H 5400 2300 60  0000 C CNN
+F 4 "GRM21BR61E475MA12L" H 5400 2300 60  0001 C CNN "Part Number"
+F 5 "Murata" H 5400 2300 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 5400 2300 60  0001 C CNN "Package"
+F 7 "Farnell" H 5400 2300 60  0001 C CNN "Supplier"
+F 8 "2362111" H 5400 2300 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 5400 2300 60  0001 C CNN "Alt. Supplier"
+F 10 "81-GRM21BR61E475MA2L" H 5400 2300 60  0001 C CNN "Alt. Order Code"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 5400 2300 60  0001 C CNN "Note"
+	1    5400 2300
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5400 2450 5400 2700
+$Comp
+L GND #PWR021
+U 1 1 55463930
+P 5400 2700
+F 0 "#PWR021" H 5400 2700 30  0001 C CNN
+F 1 "GND" H 5400 2630 30  0001 C CNN
+F 2 "" H 5400 2700 60  0000 C CNN
+F 3 "" H 5400 2700 60  0000 C CNN
+	1    5400 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 1900 5100 2150
+Wire Wire Line
+	5400 2000 5400 2150
+Connection ~ 5400 2000
+Wire Wire Line
+	5100 2000 5700 2000
+Text HLabel 5700 2000 2    60   Output ~ 0
+SHA_PWR
+Text HLabel 7300 2950 0    60   BiDi ~ 0
+SDA_5V
+Text HLabel 7300 3100 0    60   Input ~ 0
+SCL_5V
+Wire Wire Line
+	7300 2950 8000 2950
+Wire Wire Line
+	7300 3100 8000 3100
+Text Label 7400 2950 0    60   ~ 0
+SDA_5V
+Text Label 7400 3100 0    60   ~ 0
+SCL_5V
+Text Label 6800 3400 0    60   ~ 0
+SH_~LDAC
+NoConn ~ 9600 3700
+Wire Wire Line
+	8800 4150 8800 4300
+Wire Wire Line
+	8800 2500 8800 2350
+$Comp
+L GND #PWR022
+U 1 1 55496B6C
+P 8800 4300
+F 0 "#PWR022" H 8800 4050 60  0001 C CNN
+F 1 "GND" H 8800 4150 60  0000 C CNN
+F 2 "" H 8800 4300 60  0000 C CNN
+F 3 "" H 8800 4300 60  0000 C CNN
+	1    8800 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9600 2950 10300 2950
+Wire Wire Line
+	9600 3100 10300 3100
+Wire Wire Line
+	9600 3250 10300 3250
+Wire Wire Line
+	9600 3400 10300 3400
+Text Label 9800 2950 0    60   ~ 0
+SH1_PWM
+Text Label 9800 3100 0    60   ~ 0
+SH2_PWM
+Text Label 9800 3250 0    60   ~ 0
+SH3_PWM
+Text Label 9800 3400 0    60   ~ 0
+SH4_PWM
+$Comp
+L C C9
+U 1 1 554980CC
+P 8800 5300
+F 0 "C9" V 8900 5500 40  0000 R CNN
+F 1 "100n" V 8900 5200 40  0000 R CNN
+F 2 "Capacitors_SMD:C_0805" H 8838 5150 30  0001 C CNN
+F 3 "" H 8800 5300 60  0000 C CNN
+F 4 "MC0805B104K250CT" V 8800 5300 60  0001 C CNN "Part Number"
+F 5 "Multicomp" V 8800 5300 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 8800 5300 60  0001 C CNN "Package"
+F 7 "Farnell" H 8800 5300 60  0001 C CNN "Supplier"
+F 8 "1759166" V 8800 5300 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 8800 5300 60  0001 C CNN "Alt. Supplier"
+F 10 "710-885012207098" H 8800 5300 60  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0805 ceramic capacitor" H 8800 5300 60  0001 C CNN "Note"
+	1    8800 5300
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8800 5450 8800 5650
+$Comp
+L GND #PWR023
+U 1 1 55498333
+P 8800 5650
+F 0 "#PWR023" H 8800 5400 60  0001 C CNN
+F 1 "GND" H 8800 5500 60  0000 C CNN
+F 2 "" H 8800 5650 60  0000 C CNN
+F 3 "" H 8800 5650 60  0000 C CNN
+	1    8800 5650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8800 5150 8800 4950
+Text Notes 8350 1900 0    60   ~ 0
+Shutter PWM control
+$Comp
+L DRV103 U2
+U 1 1 55498318
+P 3450 3050
+F 0 "U2" H 3400 3700 60  0000 C CNN
+F 1 "DRV103" H 3400 2700 60  0000 C CNN
+F 2 "Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm" H 3450 3050 60  0001 C CNN
+F 3 "" H 3450 3050 60  0000 C CNN
+F 4 "DRV103UG4" H 3450 3050 60  0001 C CNN "Part Number"
+F 5 "Texas Instruments" H 3450 3050 60  0001 C CNN "Manufacturer"
+F 6 "SOIC-8" H 3450 3050 60  0001 C CNN "Package"
+F 7 "Farnell" H 3450 3050 60  0001 C CNN "Supplier"
+F 8 "1206892" H 3450 3050 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 3450 3050 60  0001 C CNN "Alt. Supplier"
+F 10 "595-DRV103UG4" H 3450 3050 60  0001 C CNN "Alt. Order Code"
+F 11 "PWM low-side driver for solenoids" H 3450 3050 60  0001 C CNN "Note"
+	1    3450 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCP4728 U5
+U 1 1 5549D46D
+P 8800 3250
+F 0 "U5" H 8850 3850 60  0000 L CNN
+F 1 "MCP4728" H 8850 3750 60  0000 L CNN
+F 2 "Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm" H 8800 3250 60  0001 C CNN
+F 3 "" H 8800 3250 60  0000 C CNN
+F 4 "MCP4728-E/UN" H 8800 3250 60  0001 C CNN "Part Number"
+F 5 "Microchip" H 8800 3250 60  0001 C CNN "Manufacturer"
+F 6 "MSOP-10" H 8800 3250 60  0001 C CNN "Package"
+F 7 "Farnell" H 8800 3250 60  0001 C CNN "Supplier"
+F 8 "1800217" H 8800 3250 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 8800 3250 60  0001 C CNN "Alt. Supplier"
+F 10 "579-MCP4728-E/UN" H 8800 3250 60  0001 C CNN "Alt. Order Code"
+F 11 "12-bit quad digital-to-analog converter with EEPROM memory" H 8800 3250 60  0001 C CNN "Note"
+	1    8800 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED D1
+U 1 1 5567D38B
+P 4200 2300
+F 0 "D1" V 4200 2200 40  0000 R TNN
+F 1 "LED RED" V 4150 2200 40  0000 R CNN
+F 2 "LEDs:LED-1206" H 4200 2300 60  0001 C CNN
+F 3 "" H 4200 2300 60  0000 C CNN
+F 4 "HSMS-C150" H 4200 2300 60  0001 C CNN "Part Number"
+F 5 "Broadcom" V 4200 2300 60  0001 C CNN "Manufacturer"
+F 6 "1206" H 4200 2300 60  0001 C CNN "Package"
+F 7 "Farnell" H 4200 2300 60  0001 C CNN "Supplier"
+F 8 "2497366" H 4200 2300 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 4200 2300 60  0001 C CNN "Alt. Supplier"
+F 10 "630-HSMS-C150" H 4200 2300 60  0001 C CNN "Alt. Order Code"
+F 11 "Red 1206 LED" H 4200 2300 60  0001 C CNN "Note"
+	1    4200 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D3
+U 1 1 556888A1
+P 4600 1850
+F 0 "D3" V 4600 1750 40  0000 R TNN
+F 1 "LED YELLOW" V 4550 1750 40  0000 R CNN
+F 2 "LEDs:LED-1206" H 4600 1850 60  0001 C CNN
+F 3 "" H 4600 1850 60  0000 C CNN
+F 4 "HSMY-C150" H 4600 1850 60  0001 C CNN "Part Number"
+F 5 "Broadcom" V 4600 1850 60  0001 C CNN "Manufacturer"
+F 6 "1206" H 4600 1850 60  0001 C CNN "Package"
+F 7 "Farnell" H 4600 1850 60  0001 C CNN "Supplier"
+F 8 "2497382" H 4600 1850 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 4600 1850 60  0001 C CNN "Alt. Supplier"
+F 10 "630-HSMY-C150" H 4600 1850 60  0001 C CNN "Alt. Order Code"
+F 11 "Yellow 1206 LED" H 4600 1850 60  0001 C CNN "Note"
+	1    4600 1850
+	0    -1   -1   0   
+$EndComp
+Text Notes 4100 2350 1    60   ~ 0
+FAIL / OVERHEAT
+Text Notes 4500 2100 1    60   ~ 0
+ENGAGED
+$Comp
+L +5VP #PWR024
+U 1 1 5569B2B5
+P 8800 2350
+F 0 "#PWR024" H 8800 2200 60  0001 C CNN
+F 1 "+5VP" H 8800 2490 60  0000 C CNN
+F 2 "" H 8800 2350 60  0000 C CNN
+F 3 "" H 8800 2350 60  0000 C CNN
+	1    8800 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5VP #PWR025
+U 1 1 55697A42
+P 8800 4950
+F 0 "#PWR025" H 8800 4800 60  0001 C CNN
+F 1 "+5VP" H 8800 5090 60  0000 C CNN
+F 2 "" H 8800 4950 60  0000 C CNN
+F 3 "" H 8800 4950 60  0000 C CNN
+	1    8800 4950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 1300 5100 1400
+Wire Wire Line
+	5200 1300 5200 1400
+Wire Wire Line
+	5300 1300 5300 1400
+Connection ~ 5100 2000
+Wire Wire Line
+	5200 1900 5200 2000
+Connection ~ 5200 2000
+Wire Wire Line
+	4200 3000 4200 2500
+Wire Wire Line
+	4100 3000 4200 3000
+Wire Wire Line
+	4600 2200 4600 2050
+Wire Wire Line
+	5300 1900 5300 2000
+Connection ~ 5300 2000
+Wire Wire Line
+	4100 2600 5700 2600
+Wire Wire Line
+	5100 2600 5100 2450
+Wire Wire Line
+	4600 2600 4600 2500
+Connection ~ 4600 2600
+Wire Wire Line
+	4600 1100 4600 1150
+$Comp
+L +12V #PWR026
+U 1 1 556A00E7
+P 3400 1400
+F 0 "#PWR026" H 3400 1250 60  0001 C CNN
+F 1 "+12V" V 3400 1650 60  0000 C CNN
+F 2 "" H 3400 1400 60  0000 C CNN
+F 3 "" H 3400 1400 60  0000 C CNN
+	1    3400 1400
+	1    0    0    -1  
+$EndComp
+Text HLabel 1300 2600 0    60   Input ~ 0
+SH1
+Text Label 2700 2600 2    60   ~ 0
+SH1
+$Comp
+L GND #PWR027
+U 1 1 556A57C3
+P 1950 6700
+F 0 "#PWR027" H 1950 6700 30  0001 C CNN
+F 1 "GND" H 1950 6630 30  0001 C CNN
+F 2 "" H 1950 6700 60  0000 C CNN
+F 3 "" H 1950 6700 60  0000 C CNN
+	1    1950 6700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 6200 1950 6200
+Wire Wire Line
+	1950 6200 1950 6700
+Wire Wire Line
+	1950 6400 2150 6400
+Connection ~ 1950 6400
+Wire Wire Line
+	2700 6600 1300 6600
+Wire Wire Line
+	2450 6400 2700 6400
+Wire Wire Line
+	2700 6200 2450 6200
+Text Notes 2050 6950 0    60   ~ 0
+180k = 30 kHz\n270k = 15 kHz\n330k = 10 kHz
+Text Notes 1300 6250 0    60   ~ 0
+4n7 = 5 ms\n10n = 11 ms
+$Comp
+L +2V5 #PWR028
+U 1 1 556A57EA
+P 5100 4700
+F 0 "#PWR028" H 5100 4550 60  0001 C CNN
+F 1 "+2V5" V 5100 4950 60  0000 C CNN
+F 2 "" H 5100 4700 60  0000 C CNN
+F 3 "" H 5100 4700 60  0000 C CNN
+	1    5100 4700
+	1    0    0    -1  
+$EndComp
+Connection ~ 5100 6000
+Text HLabel 5700 6000 2    60   Output ~ 0
+SHB_O/C
+$Comp
+L +5VP #PWR029
+U 1 1 556A57F2
+P 5200 4700
+F 0 "#PWR029" H 5200 4550 60  0001 C CNN
+F 1 "+5VP" V 5200 4950 60  0000 C CNN
+F 2 "" H 5200 4700 60  0000 C CNN
+F 3 "" H 5200 4700 60  0000 C CNN
+	1    5200 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L +12V #PWR030
+U 1 1 556A57F8
+P 5300 4700
+F 0 "#PWR030" H 5300 4550 60  0001 C CNN
+F 1 "+12V" V 5300 4950 60  0000 C CNN
+F 2 "" H 5300 4700 60  0000 C CNN
+F 3 "" H 5300 4700 60  0000 C CNN
+	1    5300 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 5850 5400 6100
+$Comp
+L GND #PWR031
+U 1 1 556A5805
+P 5400 6100
+F 0 "#PWR031" H 5400 6100 30  0001 C CNN
+F 1 "GND" H 5400 6030 30  0001 C CNN
+F 2 "" H 5400 6100 60  0000 C CNN
+F 3 "" H 5400 6100 60  0000 C CNN
+	1    5400 6100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 5300 5100 5550
+Wire Wire Line
+	5400 5400 5400 5550
+Connection ~ 5400 5400
+Wire Wire Line
+	5100 5400 5700 5400
+Text HLabel 5700 5400 2    60   Output ~ 0
+SHB_PWR
+Text Label 1400 6600 0    60   ~ 0
+SH2_PWM
+$Comp
+L CONN_02X03 P12
+U 1 1 556A5830
+P 5200 5050
+F 0 "P12" H 5200 5250 50  0000 C CNN
+F 1 "2x3 header strip R/A" H 5300 4800 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Angled_2x03" H 5200 3850 60  0001 C CNN
+F 3 "" H 5200 3850 60  0000 C CNN
+F 4 "2213R-06G" H 5200 5050 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 5200 5050 60  0001 C CNN "Manufacturer"
+F 6 "DIL-6" H 5200 5050 60  0001 C CNN "Package"
+F 7 "Farnell" H 5200 5050 60  0001 C CNN "Supplier"
+F 8 "1593449" H 5200 5050 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 5200 5050 60  0001 C CNN "Alt. Supplier"
+F 10 "517-9612065604AR" H 5200 5050 60  0001 C CNN "Alt. Order Code"
+F 11 "2x3 right-angle header strip" H 5200 5050 60  0001 C CNN "Note"
+	1    5200 5050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5100 4700 5100 4800
+Wire Wire Line
+	5200 4700 5200 4800
+Wire Wire Line
+	5300 4700 5300 4800
+Connection ~ 5100 5400
+Wire Wire Line
+	5200 5300 5200 5400
+Connection ~ 5200 5400
+Wire Wire Line
+	4200 6400 4200 5900
+Wire Wire Line
+	4100 6400 4200 6400
+Wire Wire Line
+	5300 5300 5300 5400
+Connection ~ 5300 5400
+Wire Wire Line
+	4100 6000 5700 6000
+Wire Wire Line
+	5100 6000 5100 5850
+Wire Wire Line
+	4600 6000 4600 5900
+Connection ~ 4600 6000
+Text HLabel 1300 6000 0    60   Input ~ 0
+SH2
+Wire Wire Line
+	2700 6000 1300 6000
+Text Label 1400 3200 0    60   ~ 0
+SH1_PWM
+Text HLabel 10300 3250 2    60   BiDi ~ 0
+SH3_PWM
+Text HLabel 10300 3400 2    60   BiDi ~ 0
+SH4_PWM
+Text Label 4200 6350 1    60   ~ 0
+FAIL_B
+Text Label 4200 2950 1    60   ~ 0
+FAIL_A
+Text Label 2700 6200 2    60   ~ 0
+DB
+Text Label 2700 6400 2    60   ~ 0
+OB
+Text Label 2700 3000 2    60   ~ 0
+OA
+Text Label 2700 2800 2    60   ~ 0
+DA
+Text Label 4200 2100 1    60   ~ 0
+FA
+Text Label 4600 2200 1    60   ~ 0
+EA2
+Wire Wire Line
+	6700 3400 7200 3400
+$Comp
+L R R5
+U 1 1 55C0F844
+P 2300 6400
+F 0 "R5" V 2400 6600 40  0000 R CNN
+F 1 "270k" V 2400 6300 40  0000 R CNN
+F 2 "Resistors_SMD:R_0805" V 2230 6400 30  0001 C CNN
+F 3 "" H 2300 6400 30  0000 C CNN
+F 4 "MCSR08X2703FTL" V 2300 6400 60  0001 C CNN "Part Number"
+F 5 "Multicomp" V 2300 6400 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 2300 6400 60  0001 C CNN "Package"
+F 7 "Farnell" H 2300 6400 60  0001 C CNN "Supplier"
+F 8 "2074426" V 2300 6400 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 2300 6400 60  0001 C CNN "Alt. Supplier"
+F 10 "ERJ-6ENF2703V" H 2300 6400 60  0001 C CNN "Alt. Order Code"
+F 11 "270kΩ/1% 0805 resistor" H 2300 6400 60  0001 C CNN "Note"
+	1    2300 6400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L DRV103 U3
+U 1 1 55C1018D
+P 3450 6450
+F 0 "U3" H 3400 7100 60  0000 C CNN
+F 1 "DRV103" H 3400 6100 60  0000 C CNN
+F 2 "Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm" H 3450 6450 60  0001 C CNN
+F 3 "" H 3450 6450 60  0000 C CNN
+F 4 "DRV103UG4" H 3450 6450 60  0001 C CNN "Part Number"
+F 5 "Texas Instruments" H 3450 6450 60  0001 C CNN "Manufacturer"
+F 6 "SOIC-8" H 3450 6450 60  0001 C CNN "Package"
+F 7 "Farnell" H 3450 6450 60  0001 C CNN "Supplier"
+F 8 "1206892" H 3450 6450 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 3450 6450 60  0001 C CNN "Alt. Supplier"
+F 10 "595-DRV103UG4" H 3450 6450 60  0001 C CNN "Alt. Order Code"
+F 11 "PWM low-side driver for solenoids" H 3450 6450 60  0001 C CNN "Note"
+	1    3450 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C7
+U 1 1 55C117E9
+P 5400 5700
+F 0 "C7" H 5250 5650 40  0000 R CNN
+F 1 "4u7/25V" H 5250 5750 40  0000 R CNN
+F 2 "Capacitors_SMD:C_0805" H 5438 5550 30  0001 C CNN
+F 3 "" H 5400 5700 60  0000 C CNN
+F 4 "GRM21BR61E475MA12L" H 5400 5700 60  0001 C CNN "Part Number"
+F 5 "Murata" H 5400 5700 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 5400 5700 60  0001 C CNN "Package"
+F 7 "Farnell" H 5400 5700 60  0001 C CNN "Supplier"
+F 8 "2362111" H 5400 5700 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 5400 5700 60  0001 C CNN "Alt. Supplier"
+F 10 "81-GRM21BR61E475MA2L" H 5400 5700 60  0001 C CNN "Alt. Order Code"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 5400 5700 60  0001 C CNN "Note"
+	1    5400 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_02X03 P11
+U 1 1 55C120EA
+P 5200 1650
+F 0 "P11" H 5200 1850 50  0000 C CNN
+F 1 "2x3 header strip R/A" H 5300 1400 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Angled_2x03" H 5200 450 60  0001 C CNN
+F 3 "" H 5200 450 60  0000 C CNN
+F 4 "2213R-06G" H 5200 1650 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 5200 1650 60  0001 C CNN "Manufacturer"
+F 6 "DIL-6" H 5200 1650 60  0001 C CNN "Package"
+F 7 "Farnell" H 5200 1650 60  0001 C CNN "Supplier"
+F 8 "1593449" H 5200 1650 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 5200 1650 60  0001 C CNN "Alt. Supplier"
+F 10 "517-9612065604AR" H 5200 1650 60  0001 C CNN "Alt. Order Code"
+F 11 "2x3 right-angle header strip" H 5200 1650 60  0001 C CNN "Note"
+	1    5200 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L C C3
+U 1 1 55C273E1
+P 2300 6200
+F 0 "C3" V 2400 6400 40  0000 R CNN
+F 1 "10n" V 2400 6100 40  0000 R CNN
+F 2 "Capacitors_SMD:C_0805" H 2338 6050 30  0001 C CNN
+F 3 "" H 2300 6200 60  0000 C CNN
+F 4 "MCU0805R103KCT" V 2300 6200 60  0001 C CNN "Part Number"
+F 5 "Multicomp" V 2300 6200 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 2300 6200 60  0001 C CNN "Package"
+F 7 "Farnell" H 2300 6200 60  0001 C CNN "Supplier"
+F 8 "9406352" V 2300 6200 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 2300 6200 60  0001 C CNN "Alt. Supplier"
+F 10 "710-885012207092" H 2300 6200 60  0001 C CNN "Alt. Order Code"
+F 11 "10nF/50V X7R 0805 ceramic capacitor" H 2300 6200 60  0001 C CNN "Note"
+	1    2300 6200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8000 3400 7900 3400
+Text Label 2700 6000 2    60   ~ 0
+SH2
+$Comp
+L D D7
+U 1 1 56D2E38C
+P 5100 2300
+F 0 "D7" H 5100 2200 50  0000 C CNN
+F 1 "1N4148" H 5100 2400 50  0000 C CNN
+F 2 "jakub:SOD-323" H 5100 2300 50  0001 C CNN
+F 3 "" H 5100 2300 50  0000 C CNN
+F 4 "1N4148WS" H 5100 2300 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 5100 2300 60  0001 C CNN "Manufacturer"
+F 6 "SOD-323" H 5100 2300 60  0001 C CNN "Package"
+F 7 "Farnell" H 5100 2300 60  0001 C CNN "Supplier"
+F 8 "1466524" H 5100 2300 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 5100 2300 60  0001 C CNN "Alt. Supplier"
+F 10 "512-1N4148WS" H 5100 2300 60  0001 C CNN "Alt. Order Code"
+F 11 "Optional small signal SOD-323 diode" H 5100 2300 60  0001 C CNN "Note"
+	1    5100 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L D D8
+U 1 1 56D2E634
+P 5100 5700
+F 0 "D8" H 5100 5600 50  0000 C CNN
+F 1 "1N4148" H 5100 5800 50  0000 C CNN
+F 2 "jakub:SOD-323" H 5100 5700 50  0001 C CNN
+F 3 "" H 5100 5700 50  0000 C CNN
+F 4 "1N4148WS" H 5100 5700 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 5100 5700 60  0001 C CNN "Manufacturer"
+F 6 "SOD-323" H 5100 5700 60  0001 C CNN "Package"
+F 7 "Farnell" H 5100 5700 60  0001 C CNN "Supplier"
+F 8 "1466524" H 5100 5700 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 5100 5700 60  0001 C CNN "Alt. Supplier"
+F 10 "512-1N4148WS" H 5100 5700 60  0001 C CNN "Alt. Order Code"
+F 11 "Optional small signal SOD-323 diode" H 5100 5700 60  0001 C CNN "Note"
+	1    5100 5700
+	0    1    1    0   
+$EndComp
+Text Notes 4900 2700 0    60   ~ 0
+Optional
+Text Notes 4900 6100 0    60   ~ 0
+Optional
+Text Notes 5550 1700 0    60   ~ 0
+Voltage selection
+Text Notes 5550 5100 0    60   ~ 0
+Voltage selection
+$Comp
+L D D4
+U 1 1 56EC7090
+P 4600 2350
+F 0 "D4" V 4650 2250 40  0000 R CNN
+F 1 "1N4148" V 4550 2250 40  0000 R CNN
+F 2 "jakub:SOD-323" H 4600 2350 50  0001 C CNN
+F 3 "" H 4600 2350 50  0000 C CNN
+F 4 "1N4148WS" H 4600 2350 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 4600 2350 60  0001 C CNN "Manufacturer"
+F 6 "SOD-323" H 4600 2350 60  0001 C CNN "Package"
+F 7 "Farnell" H 4600 2350 60  0001 C CNN "Supplier"
+F 8 "1466524" H 4600 2350 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 4600 2350 60  0001 C CNN "Alt. Supplier"
+F 10 "512-1N4148WS" H 4600 2350 60  0001 C CNN "Alt. Order Code"
+F 11 "Optional small signal SOD-323 diode" H 4600 2350 60  0001 C CNN "Note"
+	1    4600 2350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4600 1650 4600 1450
+Text Label 4600 1600 1    60   ~ 0
+EA1
+$Comp
+L C C5
+U 1 1 56ECB799
+P 3400 5150
+F 0 "C5" H 3550 5100 40  0000 L CNN
+F 1 "4u7/25V" H 3550 5200 40  0000 L CNN
+F 2 "Capacitors_SMD:C_0805" H 3438 5000 30  0001 C CNN
+F 3 "" H 3400 5150 60  0000 C CNN
+F 4 "GRM21BR61E475MA12L" H 3400 5150 60  0001 C CNN "Part Number"
+F 5 "Murata" H 3400 5150 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 3400 5150 60  0001 C CNN "Package"
+F 7 "Farnell" H 3400 5150 60  0001 C CNN "Supplier"
+F 8 "2362111" H 3400 5150 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 3400 5150 60  0001 C CNN "Alt. Supplier"
+F 10 "81-GRM21BR61E475MA2L" H 3400 5150 60  0001 C CNN "Alt. Order Code"
+F 11 "4.7μF/25V X5R 0805 ceramic capacitor" H 3400 5150 60  0001 C CNN "Note"
+	1    3400 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L GND #PWR032
+U 1 1 56ECB79F
+P 3400 5400
+F 0 "#PWR032" H 3400 5400 30  0001 C CNN
+F 1 "GND" H 3400 5330 30  0001 C CNN
+F 2 "" H 3400 5400 60  0000 C CNN
+F 3 "" H 3400 5400 60  0000 C CNN
+	1    3400 5400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 5300 3400 5400
+Wire Wire Line
+	3400 5000 3400 4800
+$Comp
+L +12V #PWR033
+U 1 1 56ECB7D6
+P 3400 4800
+F 0 "#PWR033" H 3400 4650 60  0001 C CNN
+F 1 "+12V" V 3400 5050 60  0000 C CNN
+F 2 "" H 3400 4800 60  0000 C CNN
+F 3 "" H 3400 4800 60  0000 C CNN
+	1    3400 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5VP #PWR034
+U 1 1 56ECD3C5
+P 4600 1100
+F 0 "#PWR034" H 4600 950 60  0001 C CNN
+F 1 "+5VP" V 4600 1350 60  0000 C CNN
+F 2 "" H 4600 1100 60  0000 C CNN
+F 3 "" H 4600 1100 60  0000 C CNN
+	1    4600 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED D2
+U 1 1 56ECDAD8
+P 4200 5700
+F 0 "D2" V 4200 5600 40  0000 R TNN
+F 1 "LED RED" V 4150 5600 40  0000 R CNN
+F 2 "LEDs:LED-1206" H 4200 5700 60  0001 C CNN
+F 3 "" H 4200 5700 60  0000 C CNN
+F 4 "HSMS-C150" H 4200 5700 60  0001 C CNN "Part Number"
+F 5 "Broadcom" V 4200 5700 60  0001 C CNN "Manufacturer"
+F 6 "1206" H 4200 5700 60  0001 C CNN "Package"
+F 7 "Farnell" H 4200 5700 60  0001 C CNN "Supplier"
+F 8 "2497366" H 4200 5700 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 4200 5700 60  0001 C CNN "Alt. Supplier"
+F 10 "630-HSMS-C150" H 4200 5700 60  0001 C CNN "Alt. Order Code"
+F 11 "Red 1206 LED" H 4200 5700 60  0001 C CNN "Note"
+	1    4200 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D5
+U 1 1 56ECDAE6
+P 4600 5250
+F 0 "D5" V 4600 5150 40  0000 R TNN
+F 1 "LED YELLOW" V 4550 5150 40  0000 R CNN
+F 2 "LEDs:LED-1206" H 4600 5250 60  0001 C CNN
+F 3 "" H 4600 5250 60  0000 C CNN
+F 4 "HSMY-C150" H 4600 5250 60  0001 C CNN "Part Number"
+F 5 "Broadcom" V 4600 5250 60  0001 C CNN "Manufacturer"
+F 6 "1206" H 4600 5250 60  0001 C CNN "Package"
+F 7 "Farnell" H 4600 5250 60  0001 C CNN "Supplier"
+F 8 "2497382" H 4600 5250 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 4600 5250 60  0001 C CNN "Alt. Supplier"
+F 10 "630-HSMY-C150" H 4600 5250 60  0001 C CNN "Alt. Order Code"
+F 11 "Yellow 1206 LED" H 4600 5250 60  0001 C CNN "Note"
+	1    4600 5250
+	0    -1   -1   0   
+$EndComp
+Text Notes 4500 5500 1    60   ~ 0
+ENGAGED
+Wire Wire Line
+	4600 5600 4600 5450
+Wire Wire Line
+	4200 5500 4200 5350
+Wire Wire Line
+	4600 4500 4600 4550
+Wire Wire Line
+	4200 4800 4200 5050
+Text Label 4200 5500 1    60   ~ 0
+FB
+Text Label 4600 5600 1    60   ~ 0
+EB2
+$Comp
+L D D6
+U 1 1 56ECDB0B
+P 4600 5750
+F 0 "D6" V 4650 5650 40  0000 R CNN
+F 1 "1N4148" V 4550 5650 40  0000 R CNN
+F 2 "jakub:SOD-323" H 4600 5750 50  0001 C CNN
+F 3 "" H 4600 5750 50  0000 C CNN
+F 4 "1N4148WS" H 4600 5750 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 4600 5750 60  0001 C CNN "Manufacturer"
+F 6 "SOD-323" H 4600 5750 60  0001 C CNN "Package"
+F 7 "Farnell" H 4600 5750 60  0001 C CNN "Supplier"
+F 8 "1466524" H 4600 5750 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 4600 5750 60  0001 C CNN "Alt. Supplier"
+F 10 "512-1N4148WS" H 4600 5750 60  0001 C CNN "Alt. Order Code"
+F 11 "Optional small signal SOD-323 diode" H 4600 5750 60  0001 C CNN "Note"
+	1    4600 5750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4600 5050 4600 4850
+Text Label 4600 5050 1    60   ~ 0
+EB1
+$Comp
+L +5VP #PWR035
+U 1 1 56ECDB15
+P 4600 4500
+F 0 "#PWR035" H 4600 4350 60  0001 C CNN
+F 1 "+5VP" V 4600 4750 60  0000 C CNN
+F 2 "" H 4600 4500 60  0000 C CNN
+F 3 "" H 4600 4500 60  0000 C CNN
+	1    4600 4500
+	1    0    0    -1  
+$EndComp
+Text Notes 4100 5750 1    60   ~ 0
+FAIL / OVERHEAT
+$Comp
+L R R9
+U 1 1 56ECDFAD
+P 4600 4700
+F 0 "R9" V 4750 4700 40  0000 C CNN
+F 1 "3k" V 4700 4700 40  0000 C CNN
+F 2 "Resistors_SMD:R_0805" V 4530 4700 30  0001 C CNN
+F 3 "" H 4600 4700 30  0000 C CNN
+F 4 "MC01W080513K" V 4600 4700 60  0001 C CNN "Part Number"
+F 5 "Multicomp" V 4600 4700 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 4600 4700 60  0001 C CNN "Package"
+F 7 "Farnell" H 4600 4700 60  0001 C CNN "Supplier"
+F 8 "9332995" V 4600 4700 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 4600 4700 60  0001 C CNN "Alt. Supplier"
+F 10 "667-ERJ-6GEYJ302V" H 4600 4700 60  0001 C CNN "Alt. Order Code"
+F 11 "3kΩ/1% 0805 resistor" H 4600 4700 60  0001 C CNN "Note"
+	1    4600 4700
+	-1   0    0    1   
+$EndComp
+$Comp
+L R R8
+U 1 1 56ECE169
+P 4600 1300
+F 0 "R8" V 4750 1300 40  0000 C CNN
+F 1 "3k" V 4700 1300 40  0000 C CNN
+F 2 "Resistors_SMD:R_0805" V 4530 1300 30  0001 C CNN
+F 3 "" H 4600 1300 30  0000 C CNN
+F 4 "MC01W080513K" V 4600 1300 60  0001 C CNN "Part Number"
+F 5 "Multicomp" V 4600 1300 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 4600 1300 60  0001 C CNN "Package"
+F 7 "Farnell" H 4600 1300 60  0001 C CNN "Supplier"
+F 8 "9332995" V 4600 1300 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 4600 1300 60  0001 C CNN "Alt. Supplier"
+F 10 "667-ERJ-6GEYJ302V" H 4600 1300 60  0001 C CNN "Alt. Order Code"
+F 11 "3kΩ/1% 0805 resistor" H 4600 1300 60  0001 C CNN "Note"
+	1    4600 1300
+	-1   0    0    1   
+$EndComp
+$Comp
+L 74HCT1G125 U4
+U 1 1 56ECF321
+P 7500 3400
+F 0 "U4" H 7500 3600 60  0000 C CNN
+F 1 "74HCT1G125" H 7500 3000 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-5" H 7500 3400 60  0001 C CNN
+F 3 "" H 7500 3400 60  0000 C CNN
+F 4 "SN74AHCT1G126DBVR" H 7500 3400 60  0001 C CNN "Part Number"
+F 5 "Texas Instruments" H 7500 3400 60  0001 C CNN "Manufacturer"
+F 6 "SOT23-5" H 7500 3400 60  0001 C CNN "Package"
+F 7 "Farnell" H 7500 3400 60  0001 C CNN "Supplier"
+F 8 "2342371" H 7500 3400 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 7500 3400 60  0001 C CNN "Alt. Supplier"
+F 10 "595-SNAHCT1G126DBVR" H 7500 3400 60  0001 C CNN "Alt. Order Code"
+F 11 "Single bus buffer gate with 3-state output" H 7500 3400 60  0001 C CNN "Note"
+	1    7500 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C8
+U 1 1 56ECF842
+P 7550 5300
+F 0 "C8" V 7650 5500 40  0000 R CNN
+F 1 "100n" V 7650 5200 40  0000 R CNN
+F 2 "Capacitors_SMD:C_0805" H 7588 5150 30  0001 C CNN
+F 3 "" H 7550 5300 60  0000 C CNN
+F 4 "MC0805B104K250CT" V 7550 5300 60  0001 C CNN "Part Number"
+F 5 "Multicomp" V 7550 5300 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 7550 5300 60  0001 C CNN "Package"
+F 7 "Farnell" H 7550 5300 60  0001 C CNN "Supplier"
+F 8 "1759166" V 7550 5300 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 7550 5300 60  0001 C CNN "Alt. Supplier"
+F 10 "710-885012207098" H 7550 5300 60  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0805 ceramic capacitor" H 7550 5300 60  0001 C CNN "Note"
+	1    7550 5300
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7550 5450 7550 5650
+$Comp
+L GND #PWR036
+U 1 1 56ECF849
+P 7550 5650
+F 0 "#PWR036" H 7550 5400 60  0001 C CNN
+F 1 "GND" H 7550 5500 60  0000 C CNN
+F 2 "" H 7550 5650 60  0000 C CNN
+F 3 "" H 7550 5650 60  0000 C CNN
+	1    7550 5650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7550 5150 7550 4950
+$Comp
+L +5VP #PWR037
+U 1 1 56ECF850
+P 7550 4950
+F 0 "#PWR037" H 7550 4800 60  0001 C CNN
+F 1 "+5VP" H 7550 5090 60  0000 C CNN
+F 2 "" H 7550 4950 60  0000 C CNN
+F 3 "" H 7550 4950 60  0000 C CNN
+	1    7550 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R7
+U 1 1 56ED0080
+P 4200 5200
+F 0 "R7" H 4100 5150 40  0000 R CNN
+F 1 "10k" H 4100 5250 40  0000 R CNN
+F 2 "Resistors_SMD:R_0805" V 4130 5200 30  0001 C CNN
+F 3 "" H 4200 5200 30  0000 C CNN
+F 4 "MCMR08X1002FTL" V 4200 5200 60  0001 C CNN "Part Number"
+F 5 "Multicomp" V 4200 5200 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 4200 5200 60  0001 C CNN "Package"
+F 7 "Farnell" H 4200 5200 60  0001 C CNN "Supplier"
+F 8 "2073607" V 4200 5200 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 4200 5200 60  0001 C CNN "Alt. Supplier"
+F 10 "71-CRCW0805-10K-E3" H 4200 5200 60  0001 C CNN "Alt. Order Code"
+F 11 "10kΩ/1% 0805 resistor" H 4200 5200 60  0001 C CNN "Note"
+	1    4200 5200
+	-1   0    0    1   
+$EndComp
+$Comp
+L +12V #PWR038
+U 1 1 56ED048B
+P 4200 4800
+F 0 "#PWR038" H 4200 4650 60  0001 C CNN
+F 1 "+12V" V 4200 5050 60  0000 C CNN
+F 2 "" H 4200 4800 60  0000 C CNN
+F 3 "" H 4200 4800 60  0000 C CNN
+	1    4200 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R6
+U 1 1 56ED0780
+P 4200 1800
+F 0 "R6" H 4100 1750 40  0000 R CNN
+F 1 "10k" H 4100 1850 40  0000 R CNN
+F 2 "Resistors_SMD:R_0805" V 4130 1800 30  0001 C CNN
+F 3 "" H 4200 1800 30  0000 C CNN
+F 4 "MCMR08X1002FTL" V 4200 1800 60  0001 C CNN "Part Number"
+F 5 "Multicomp" V 4200 1800 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 4200 1800 60  0001 C CNN "Package"
+F 7 "Farnell" H 4200 1800 60  0001 C CNN "Supplier"
+F 8 "2073607" V 4200 1800 60  0001 C CNN "Order Code"
+F 9 "Mouser" H 4200 1800 60  0001 C CNN "Alt. Supplier"
+F 10 "71-CRCW0805-10K-E3" H 4200 1800 60  0001 C CNN "Alt. Order Code"
+F 11 "10kΩ/1% 0805 resistor" H 4200 1800 60  0001 C CNN "Note"
+	1    4200 1800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4200 2100 4200 1950
+$Comp
+L +12V #PWR039
+U 1 1 56ED0EF8
+P 4200 1400
+F 0 "#PWR039" H 4200 1250 60  0001 C CNN
+F 1 "+12V" V 4200 1650 60  0000 C CNN
+F 2 "" H 4200 1400 60  0000 C CNN
+F 3 "" H 4200 1400 60  0000 C CNN
+	1    4200 1400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 1400 4200 1650
+$Comp
+L +5VP #PWR040
+U 1 1 56ED25A4
+P 7000 3650
+F 0 "#PWR040" H 7000 3500 60  0001 C CNN
+F 1 "+5VP" V 7000 3900 60  0000 C CNN
+F 2 "" H 7000 3650 60  0000 C CNN
+F 3 "" H 7000 3650 60  0000 C CNN
+	1    7000 3650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7200 3650 7000 3650
+$EndSCHEMATC

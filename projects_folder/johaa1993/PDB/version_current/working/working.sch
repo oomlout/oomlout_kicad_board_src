@@ -1,0 +1,238 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:dev_conn
+LIBS:dev_ic
+LIBS:dev_mosfet
+LIBS:dev_switch
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L IRFB7537PbF Q1
+U 1 1 58186445
+P 4850 3950
+F 0 "Q1" H 5050 4025 50  0000 L CNN
+F 1 "IRFB7537PbF" H 5050 3950 50  0000 L CNN
+F 2 "KiCad-Dev:my_TO-220_Neutral123_Horizontal_LargePads" H 5050 3875 50  0001 L CIN
+F 3 "http://www.infineon.com/dgdl/irfs7537pbf.pdf?fileId=5546d462533600a4015364c3ee2729cb" H 5050 3800 50  0001 L CNN
+	1    4850 3950
+	0    1    1    0   
+$EndComp
+$Comp
+L +BATT #PWR1
+U 1 1 581866AA
+P 1450 1300
+F 0 "#PWR1" H 1450 1150 50  0001 C CNN
+F 1 "+BATT" H 1450 1440 50  0000 C CNN
+F 2 "" H 1450 1300 50  0000 C CNN
+F 3 "" H 1450 1300 50  0000 C CNN
+	1    1450 1300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L GND #PWR2
+U 1 1 581868C3
+P 1450 4050
+F 0 "#PWR2" H 1450 3800 50  0001 C CNN
+F 1 "GND" H 1450 3900 50  0000 C CNN
+F 2 "" H 1450 4050 50  0000 C CNN
+F 3 "" H 1450 4050 50  0000 C CNN
+	1    1450 4050
+	0    1    1    0   
+$EndComp
+Text GLabel 7100 4050 2    60   Input ~ 0
+After_Load-
+Wire Wire Line
+	5050 4050 7100 4050
+Wire Wire Line
+	1450 4050 4650 4050
+Wire Wire Line
+	1450 1300 6900 1300
+$Comp
+L LM3490IM5-12/NOPB U2
+U 1 1 5818A68D
+P 3850 3250
+F 0 "U2" H 3800 3500 50  0000 L CNN
+F 1 "LM3490IM5-12/NOPB" H 4300 3400 50  0000 R CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-5" H 3850 2850 50  0001 C CIN
+F 3 "http://www.ti.com/lit/ds/symlink/lm3490.pdf" H 3850 2750 50  0001 C CNN
+	1    3850 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L NSI45020AT1G U1
+U 1 1 5818AFF2
+P 2750 2750
+F 0 "U1" H 2750 2600 60  0000 C CNN
+F 1 "NSI45020AT1G" H 2750 2900 60  0000 C CNN
+F 2 "Diodes_SMD:SOD-123" H 2000 2900 60  0001 C CNN
+F 3 "" H 2000 2900 60  0001 C CNN
+	1    2750 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L LED D1
+U 1 1 5818B0A5
+P 2750 3750
+F 0 "D1" H 2750 3850 50  0000 C CNN
+F 1 "LED" H 2750 3650 50  0000 C CNN
+F 2 "LEDs:LED_0805" H 2750 3750 50  0001 C CNN
+F 3 "" H 2750 3750 50  0000 C CNN
+	1    2750 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4400 3250 4800 3250
+Wire Wire Line
+	4800 3250 4800 3750
+Connection ~ 2750 1300
+Wire Wire Line
+	2750 3950 2750 4050
+Connection ~ 2750 4050
+Wire Wire Line
+	2750 3350 3300 3350
+Wire Wire Line
+	2750 3350 2750 3550
+Connection ~ 2750 3350
+Wire Wire Line
+	3300 3250 3100 3250
+Wire Wire Line
+	3100 3250 3100 1300
+Connection ~ 3100 1300
+$Comp
+L R R1
+U 1 1 5818B748
+P 4550 3650
+F 0 "R1" V 4630 3650 50  0000 C CNN
+F 1 "4.7k" V 4550 3650 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805" V 4480 3650 50  0001 C CNN
+F 3 "" H 4550 3650 50  0000 C CNN
+	1    4550 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4550 3500 4550 3250
+Connection ~ 4550 3250
+Wire Wire Line
+	4550 3800 4550 4050
+Connection ~ 4550 4050
+Wire Wire Line
+	3850 3550 3850 4050
+Connection ~ 3850 4050
+Wire Wire Line
+	1950 2550 2100 2550
+Wire Wire Line
+	2100 2550 2100 1300
+Connection ~ 2100 1300
+Wire Wire Line
+	1950 2650 2100 2650
+Wire Wire Line
+	2100 2650 2100 4050
+Connection ~ 2100 4050
+Wire Wire Line
+	6900 2650 6900 4050
+Connection ~ 6900 4050
+Wire Wire Line
+	7100 2650 6900 2650
+Wire Wire Line
+	7100 2550 6900 2550
+Wire Wire Line
+	6900 2550 6900 1300
+$Comp
+L CONN_01X02 P3
+U 1 1 5818C4A3
+P 2450 1750
+F 0 "P3" H 2450 1900 50  0000 C CNN
+F 1 "CONN_01X02" V 2550 1750 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 2450 1750 50  0001 C CNN
+F 3 "" H 2450 1750 50  0000 C CNN
+	1    2450 1750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2750 1800 2750 2150
+Wire Wire Line
+	2750 1800 2650 1800
+Wire Wire Line
+	2650 1700 2750 1700
+Wire Wire Line
+	2750 1700 2750 1300
+$Comp
+L R R2
+U 1 1 5818C95A
+P 3100 3700
+F 0 "R2" V 3180 3700 50  0000 C CNN
+F 1 "10k" V 3100 3700 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805" V 3030 3700 50  0001 C CNN
+F 3 "" H 3100 3700 50  0000 C CNN
+	1    3100 3700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3100 3550 3100 3350
+Connection ~ 3100 3350
+Wire Wire Line
+	3100 3850 3100 4050
+Connection ~ 3100 4050
+$Comp
+L CONN_XT60 P2
+U 1 1 581B5768
+P 7400 2600
+F 0 "P2" H 7400 2750 60  0000 C CNN
+F 1 "CONN_XT60" H 7400 2450 60  0000 C CNN
+F 2 "KiCad-Dev:XT60" H 7300 2750 60  0001 C CNN
+F 3 "" H 7300 2750 60  0001 C CNN
+	1    7400 2600
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_XT60 P1
+U 1 1 581B5929
+P 1650 2600
+F 0 "P1" H 1650 2750 60  0000 C CNN
+F 1 "CONN_XT60" H 1650 2450 60  0000 C CNN
+F 2 "KiCad-Dev:XT60" H 1550 2750 60  0001 C CNN
+F 3 "" H 1550 2750 60  0001 C CNN
+	1    1650 2600
+	1    0    0    1   
+$EndComp
+$EndSCHEMATC

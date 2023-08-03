@@ -1,0 +1,731 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Isolator:TLP2745 U1
+U 1 1 5D2F41DE
+P 3500 2700
+F 0 "U1" H 3650 3200 50  0000 L CNN
+F 1 "TLP2361" H 3650 3100 50  0000 L CNN
+F 2 "Package_SO:SO-6_4.4x3.6mm_P1.27mm" H 2800 2200 50  0001 L CIN
+F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=29405&prodName=TLP2745" H 3392 2715 50  0001 L CNN
+F 4 "TLP2361" H 3500 2700 50  0001 C CNN "Part Number"
+F 5 "Toshiba" H 3500 2700 50  0001 C CNN "Manufacturer"
+F 6 "SO6" H 3500 2700 50  0001 C CNN "Package"
+F 7 "Farnell" H 3500 2700 50  0001 C CNN "Supplier"
+F 8 "2524282" H 3500 2700 50  0001 C CNN "Order Code"
+F 9 "Single digital output optocoupler" H 3500 2700 50  0001 C CNN "Note"
+	1    3500 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:DIN-5_180degree J1
+U 1 1 5D2F5CDF
+P 1650 4100
+F 0 "J1" H 1650 3825 50  0000 C CNN
+F 1 "DIN-5" H 1650 3734 50  0000 C CNN
+F 2 "jakub:DIN5" H 1650 4100 50  0001 C CNN
+F 3 "http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf" H 1650 4100 50  0001 C CNN
+F 4 "MAB 5 SV" H 1650 4100 50  0001 C CNN "Part Number"
+F 5 "Hirschmann" H 1650 4100 50  0001 C CNN "Manufacturer"
+F 6 "PCB mount" H 1650 4100 50  0001 C CNN "Package"
+F 7 "Farnell" H 1650 4100 50  0001 C CNN "Supplier"
+F 8 "2901558" H 1650 4100 50  0001 C CNN "Order Code"
+F 9 "5 pole DIN connector panel-mounted through-hole PCB terminals" H 1650 4100 50  0001 C CNN "Note"
+	1    1650 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Isolator:TLP2745 U2
+U 1 1 5D2F7860
+P 5000 2700
+F 0 "U2" H 5150 3200 50  0000 L CNN
+F 1 "TLP2361" H 5150 3100 50  0000 L CNN
+F 2 "Package_SO:SO-6_4.4x3.6mm_P1.27mm" H 4300 2200 50  0001 L CIN
+F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=29405&prodName=TLP2745" H 4892 2715 50  0001 L CNN
+F 4 "TLP2361" H 5000 2700 50  0001 C CNN "Part Number"
+F 5 "Toshiba" H 5000 2700 50  0001 C CNN "Manufacturer"
+F 6 "SO6" H 5000 2700 50  0001 C CNN "Package"
+F 7 "Farnell" H 5000 2700 50  0001 C CNN "Supplier"
+F 8 "2524282" H 5000 2700 50  0001 C CNN "Order Code"
+F 9 "Single digital output optocoupler" H 5000 2700 50  0001 C CNN "Note"
+	1    5000 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Isolator:TLP2745 U3
+U 1 1 5D2FA988
+P 6500 2700
+F 0 "U3" H 6650 3200 50  0000 L CNN
+F 1 "TLP2361" H 6650 3100 50  0000 L CNN
+F 2 "Package_SO:SO-6_4.4x3.6mm_P1.27mm" H 5800 2200 50  0001 L CIN
+F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=29405&prodName=TLP2745" H 6392 2715 50  0001 L CNN
+F 4 "TLP2361" H 6500 2700 50  0001 C CNN "Part Number"
+F 5 "Toshiba" H 6500 2700 50  0001 C CNN "Manufacturer"
+F 6 "SO6" H 6500 2700 50  0001 C CNN "Package"
+F 7 "Farnell" H 6500 2700 50  0001 C CNN "Supplier"
+F 8 "2524282" H 6500 2700 50  0001 C CNN "Order Code"
+F 9 "Single digital output optocoupler" H 6500 2700 50  0001 C CNN "Note"
+	1    6500 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5D2FEBBE
+P 3000 2250
+F 0 "R1" H 3070 2296 50  0000 L CNN
+F 1 "680R" H 3070 2205 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 2930 2250 50  0001 C CNN
+F 3 "~" H 3000 2250 50  0001 C CNN
+F 4 "MCWR06X6800FTL" H 3000 2250 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 3000 2250 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 3000 2250 50  0001 C CNN "Package"
+F 7 "Farnell" H 3000 2250 50  0001 C CNN "Supplier"
+F 8 "2447419" H 3000 2250 50  0001 C CNN "Order Code"
+F 9 "680Ω/1% 0603 resistor" H 3000 2250 50  0001 C CNN "Note"
+	1    3000 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 2400 3000 2500
+Wire Wire Line
+	3000 2500 3100 2500
+Wire Wire Line
+	4500 2400 4500 2500
+Wire Wire Line
+	4500 2500 4600 2500
+Wire Wire Line
+	6000 2400 6000 2500
+Wire Wire Line
+	6000 2500 6100 2500
+$Comp
+L power:+5VA #PWR01
+U 1 1 5D300271
+P 3000 2000
+F 0 "#PWR01" H 3000 1850 50  0001 C CNN
+F 1 "+5VA" H 3015 2173 50  0000 C CNN
+F 2 "" H 3000 2000 50  0001 C CNN
+F 3 "" H 3000 2000 50  0001 C CNN
+	1    3000 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 2000 3000 2100
+$Comp
+L power:+5VA #PWR06
+U 1 1 5D3011D6
+P 4500 2000
+F 0 "#PWR06" H 4500 1850 50  0001 C CNN
+F 1 "+5VA" H 4515 2173 50  0000 C CNN
+F 2 "" H 4500 2000 50  0001 C CNN
+F 3 "" H 4500 2000 50  0001 C CNN
+	1    4500 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 2000 4500 2100
+$Comp
+L power:+5VA #PWR011
+U 1 1 5D3024B2
+P 6000 2000
+F 0 "#PWR011" H 6000 1850 50  0001 C CNN
+F 1 "+5VA" H 6015 2173 50  0000 C CNN
+F 2 "" H 6000 2000 50  0001 C CNN
+F 3 "" H 6000 2000 50  0001 C CNN
+	1    6000 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6000 2000 6000 2100
+Wire Wire Line
+	3100 2900 3000 2900
+Wire Wire Line
+	3000 2900 3000 3500
+Wire Wire Line
+	4600 2900 4500 2900
+Wire Wire Line
+	4500 2900 4500 3750
+Wire Wire Line
+	6100 2900 6000 2900
+Wire Wire Line
+	6000 2900 6000 4000
+Wire Wire Line
+	8100 2500 8000 2500
+Wire Wire Line
+	8000 2500 8000 2000
+$Comp
+L power:+5VA #PWR016
+U 1 1 5D303A15
+P 8000 2000
+F 0 "#PWR016" H 8000 1850 50  0001 C CNN
+F 1 "+5VA" H 8015 2173 50  0000 C CNN
+F 2 "" H 8000 2000 50  0001 C CNN
+F 3 "" H 8000 2000 50  0001 C CNN
+	1    8000 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 2700 8000 2700
+Wire Wire Line
+	8000 2700 8000 4500
+$Comp
+L power:+5V #PWR012
+U 1 1 5D30475A
+P 6500 2000
+F 0 "#PWR012" H 6500 1850 50  0001 C CNN
+F 1 "+5V" H 6515 2173 50  0000 C CNN
+F 2 "" H 6500 2000 50  0001 C CNN
+F 3 "" H 6500 2000 50  0001 C CNN
+	1    6500 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6500 2300 6500 2000
+$Comp
+L power:+5V #PWR07
+U 1 1 5D305BAF
+P 5000 2000
+F 0 "#PWR07" H 5000 1850 50  0001 C CNN
+F 1 "+5V" H 5015 2173 50  0000 C CNN
+F 2 "" H 5000 2000 50  0001 C CNN
+F 3 "" H 5000 2000 50  0001 C CNN
+	1    5000 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 2300 5000 2000
+$Comp
+L power:+5V #PWR02
+U 1 1 5D306417
+P 3500 2000
+F 0 "#PWR02" H 3500 1850 50  0001 C CNN
+F 1 "+5V" H 3515 2173 50  0000 C CNN
+F 2 "" H 3500 2000 50  0001 C CNN
+F 3 "" H 3500 2000 50  0001 C CNN
+	1    3500 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3500 2300 3500 2000
+$Comp
+L power:+5V #PWR017
+U 1 1 5D306F2A
+P 8800 2000
+F 0 "#PWR017" H 8800 1850 50  0001 C CNN
+F 1 "+5V" H 8815 2173 50  0000 C CNN
+F 2 "" H 8800 2000 50  0001 C CNN
+F 3 "" H 8800 2000 50  0001 C CNN
+	1    8800 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8800 2500 8800 2000
+Wire Wire Line
+	8700 2500 8800 2500
+$Comp
+L Device:R R4
+U 1 1 5D309461
+P 8800 2950
+F 0 "R4" H 8870 2996 50  0000 L CNN
+F 1 "1k5" H 8870 2905 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8730 2950 50  0001 C CNN
+F 3 "~" H 8800 2950 50  0001 C CNN
+F 4 "MCWR06X1501FTL" H 8800 2950 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 8800 2950 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 8800 2950 50  0001 C CNN "Package"
+F 7 "Farnell" H 8800 2950 50  0001 C CNN "Supplier"
+F 8 "2447279" H 8800 2950 50  0001 C CNN "Order Code"
+F 9 "Seeed OPL" H 8800 2950 50  0001 C CNN "Alt. Supplier"
+F 10 "301010189" H 8800 2950 50  0001 C CNN "Alt. Order Code"
+F 11 "1.5kΩ/1% 0603 resistor" H 8800 2950 50  0001 C CNN "Note"
+	1    8800 2950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8700 2700 8800 2700
+Wire Wire Line
+	8800 2700 8800 2800
+Wire Wire Line
+	8800 3100 8800 3500
+$Comp
+L power:GND #PWR018
+U 1 1 5D30AB0F
+P 8800 3500
+F 0 "#PWR018" H 8800 3250 50  0001 C CNN
+F 1 "GND" H 8805 3327 50  0000 C CNN
+F 2 "" H 8800 3500 50  0001 C CNN
+F 3 "" H 8800 3500 50  0001 C CNN
+	1    8800 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6500 3100 6500 3500
+Wire Wire Line
+	5000 3100 5000 3500
+Wire Wire Line
+	3500 3100 3500 3500
+$Comp
+L power:GND #PWR013
+U 1 1 5D30C2BC
+P 6500 3500
+F 0 "#PWR013" H 6500 3250 50  0001 C CNN
+F 1 "GND" H 6505 3327 50  0000 C CNN
+F 2 "" H 6500 3500 50  0001 C CNN
+F 3 "" H 6500 3500 50  0001 C CNN
+	1    6500 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR08
+U 1 1 5D30CA93
+P 5000 3500
+F 0 "#PWR08" H 5000 3250 50  0001 C CNN
+F 1 "GND" H 5005 3327 50  0000 C CNN
+F 2 "" H 5000 3500 50  0001 C CNN
+F 3 "" H 5000 3500 50  0001 C CNN
+	1    5000 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 5D30CD2C
+P 3500 3500
+F 0 "#PWR03" H 3500 3250 50  0001 C CNN
+F 1 "GND" H 3505 3327 50  0000 C CNN
+F 2 "" H 3500 3500 50  0001 C CNN
+F 3 "" H 3500 3500 50  0001 C CNN
+	1    3500 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR014
+U 1 1 5D31034D
+P 7000 3100
+F 0 "#PWR014" H 7000 2950 50  0001 C CNN
+F 1 "+5V" H 7015 3273 50  0000 C CNN
+F 2 "" H 7000 3100 50  0001 C CNN
+F 3 "" H 7000 3100 50  0001 C CNN
+	1    7000 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7000 3150 7000 3100
+$Comp
+L power:+5V #PWR09
+U 1 1 5D311C94
+P 5500 3100
+F 0 "#PWR09" H 5500 2950 50  0001 C CNN
+F 1 "+5V" H 5515 3273 50  0000 C CNN
+F 2 "" H 5500 3100 50  0001 C CNN
+F 3 "" H 5500 3100 50  0001 C CNN
+	1    5500 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5500 3150 5500 3100
+Wire Wire Line
+	5500 3450 5500 3500
+Wire Wire Line
+	7000 3450 7000 3500
+$Comp
+L power:GND #PWR015
+U 1 1 5D315606
+P 7000 3500
+F 0 "#PWR015" H 7000 3250 50  0001 C CNN
+F 1 "GND" H 7005 3327 50  0000 C CNN
+F 2 "" H 7000 3500 50  0001 C CNN
+F 3 "" H 7000 3500 50  0001 C CNN
+	1    7000 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR010
+U 1 1 5D315975
+P 5500 3500
+F 0 "#PWR010" H 5500 3250 50  0001 C CNN
+F 1 "GND" H 5505 3327 50  0000 C CNN
+F 2 "" H 5500 3500 50  0001 C CNN
+F 3 "" H 5500 3500 50  0001 C CNN
+	1    5500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 2700 4100 2700
+Wire Wire Line
+	4100 1100 8900 1100
+Wire Wire Line
+	8900 1200 5600 1200
+Wire Wire Line
+	5600 1200 5600 2700
+Wire Wire Line
+	5600 2700 5400 2700
+Wire Wire Line
+	6900 2700 7100 2700
+Wire Wire Line
+	7100 1300 8900 1300
+Wire Wire Line
+	8900 1400 8800 1400
+Wire Wire Line
+	8800 1400 8800 1500
+Wire Wire Line
+	8900 1000 8800 1000
+$Comp
+L power:+5V #PWR021
+U 1 1 5D32E7F3
+P 8800 900
+F 0 "#PWR021" H 8800 750 50  0001 C CNN
+F 1 "+5V" H 8815 1073 50  0000 C CNN
+F 2 "" H 8800 900 50  0001 C CNN
+F 3 "" H 8800 900 50  0001 C CNN
+	1    8800 900 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8800 900  8800 1000
+$Comp
+L power:GND #PWR022
+U 1 1 5D32EEF0
+P 8800 1500
+F 0 "#PWR022" H 8800 1250 50  0001 C CNN
+F 1 "GND" H 8805 1327 50  0000 C CNN
+F 2 "" H 8800 1500 50  0001 C CNN
+F 3 "" H 8800 1500 50  0001 C CNN
+	1    8800 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x05_Female J2
+U 1 1 5D32F6D0
+P 9100 1200
+F 0 "J2" H 8950 1650 50  0000 L CNN
+F 1 "5-Way Pin Header" H 8950 1550 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 9100 1200 50  0001 C CNN
+F 3 "~" H 9100 1200 50  0001 C CNN
+F 4 "2211S-05G" H 9100 1200 50  0001 C CNN "Part Number"
+F 5 "Mutlicomp" H 9100 1200 50  0001 C CNN "Manufacturer"
+F 6 "2.54mm Pitch" H 9100 1200 50  0001 C CNN "Package"
+F 7 "Farnell" H 9100 1200 50  0001 C CNN "Supplier"
+F 8 "1593414" H 9100 1200 50  0001 C CNN "Order Code"
+F 9 "5-way 2.54mm pitch pin header" H 9100 1200 50  0001 C CNN "Note"
+	1    9100 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 5D3300A6
+P 7650 2600
+F 0 "C4" H 7765 2646 50  0000 L CNN
+F 1 "4u7" H 7765 2555 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7688 2450 50  0001 C CNN
+F 3 "~" H 7650 2600 50  0001 C CNN
+F 4 "EMK107ABJ475KA-T" H 7650 2600 50  0001 C CNN "Part Number"
+F 5 "Taiyo Yuden" H 7650 2600 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 7650 2600 50  0001 C CNN "Package"
+F 7 "Farnell" H 7650 2600 50  0001 C CNN "Supplier"
+F 8 "2112741" H 7650 2600 50  0001 C CNN "Order Code"
+F 9 "4.7μF/16V 0603 X5R capacitor" H 7650 2600 50  0001 C CNN "Note"
+	1    7650 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR019
+U 1 1 5D3300B0
+P 7650 2350
+F 0 "#PWR019" H 7650 2200 50  0001 C CNN
+F 1 "+5V" H 7665 2523 50  0000 C CNN
+F 2 "" H 7650 2350 50  0001 C CNN
+F 3 "" H 7650 2350 50  0001 C CNN
+	1    7650 2350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7650 2450 7650 2350
+Wire Wire Line
+	7650 2750 7650 2850
+$Comp
+L power:GND #PWR020
+U 1 1 5D3300BC
+P 7650 2850
+F 0 "#PWR020" H 7650 2600 50  0001 C CNN
+F 1 "GND" H 7655 2677 50  0000 C CNN
+F 2 "" H 7650 2850 50  0001 C CNN
+F 3 "" H 7650 2850 50  0001 C CNN
+	1    7650 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 5D332A2B
+P 5500 3300
+F 0 "C2" H 5615 3346 50  0000 L CNN
+F 1 "100n" H 5615 3255 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5538 3150 50  0001 C CNN
+F 3 "~" H 5500 3300 50  0001 C CNN
+F 4 "MC0603B104K500" H 5500 3300 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 5500 3300 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 5500 3300 50  0001 C CNN "Package"
+F 7 "Farnell" H 5500 3300 50  0001 C CNN "Supplier"
+F 8 "1759122" H 5500 3300 50  0001 C CNN "Order Code"
+F 9 "Seeed OPL" H 5500 3300 50  0001 C CNN "Alt. Supplier"
+F 10 "302010138" H 5500 3300 50  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0603 ceramic capacitor" H 5500 3300 50  0001 C CNN "Note"
+	1    5500 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 5D333385
+P 7000 3300
+F 0 "C3" H 7115 3346 50  0000 L CNN
+F 1 "100n" H 7115 3255 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7038 3150 50  0001 C CNN
+F 3 "~" H 7000 3300 50  0001 C CNN
+F 4 "MC0603B104K500" H 7000 3300 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 7000 3300 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 7000 3300 50  0001 C CNN "Package"
+F 7 "Farnell" H 7000 3300 50  0001 C CNN "Supplier"
+F 8 "1759122" H 7000 3300 50  0001 C CNN "Order Code"
+F 9 "Seeed OPL" H 7000 3300 50  0001 C CNN "Alt. Supplier"
+F 10 "302010138" H 7000 3300 50  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0603 ceramic capacitor" H 7000 3300 50  0001 C CNN "Note"
+	1    7000 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5D333FBC
+P 4500 2250
+F 0 "R2" H 4570 2296 50  0000 L CNN
+F 1 "680R" H 4570 2205 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4430 2250 50  0001 C CNN
+F 3 "~" H 4500 2250 50  0001 C CNN
+F 4 "MCWR06X6800FTL" H 4500 2250 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 4500 2250 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 4500 2250 50  0001 C CNN "Package"
+F 7 "Farnell" H 4500 2250 50  0001 C CNN "Supplier"
+F 8 "2447419" H 4500 2250 50  0001 C CNN "Order Code"
+F 9 "680Ω/1% 0603 resistor" H 4500 2250 50  0001 C CNN "Note"
+	1    4500 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 5D3343BD
+P 6000 2250
+F 0 "R3" H 6070 2296 50  0000 L CNN
+F 1 "680R" H 6070 2205 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5930 2250 50  0001 C CNN
+F 3 "~" H 6000 2250 50  0001 C CNN
+F 4 "MCWR06X6800FTL" H 6000 2250 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 6000 2250 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 6000 2250 50  0001 C CNN "Package"
+F 7 "Farnell" H 6000 2250 50  0001 C CNN "Supplier"
+F 8 "2447419" H 6000 2250 50  0001 C CNN "Order Code"
+F 9 "680Ω/1% 0603 resistor" H 6000 2250 50  0001 C CNN "Note"
+	1    6000 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Isolator:LTV-356T U4
+U 1 1 5D341043
+P 8400 2600
+F 0 "U4" H 8400 2925 50  0000 C CNN
+F 1 "FODM8801" H 8400 2834 50  0000 C CNN
+F 2 "Package_SO:SO-4_4.4x2.3mm_P1.27mm" H 8200 2400 50  0001 L CIN
+F 3 "http://optoelectronics.liteon.com/upload/download/DS70-2001-010/S_110_LTV-356T%2020140520.pdf" H 8400 2600 50  0001 L CNN
+F 4 "FODM8801CR2" H 8400 2600 50  0001 C CNN "Part Number"
+F 5 "ON Semiconductor" H 8400 2600 50  0001 C CNN "Manufacturer"
+F 6 "MiniFlat" H 8400 2600 50  0001 C CNN "Package"
+F 7 "Farnell" H 8400 2600 50  0001 C CNN "Supplier"
+F 8 "2083193" H 8400 2600 50  0001 C CNN "Order Code"
+F 9 "High-Temperature Phototransistor Optocoupler" H 8400 2600 50  0001 C CNN "Note"
+	1    8400 2600
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1350 4000 1250 4000
+Wire Wire Line
+	1250 4000 1250 3500
+Wire Wire Line
+	1250 3500 3000 3500
+Text Label 2400 3500 0    50   ~ 0
+~CS_IN
+Wire Wire Line
+	1650 3800 1650 3750
+Wire Wire Line
+	1650 3750 4500 3750
+Text Label 2400 3750 0    50   ~ 0
+SCK_IN
+Text Label 2400 4000 0    50   ~ 0
+SDI_IN
+Wire Wire Line
+	1950 4100 2050 4100
+Wire Wire Line
+	2050 4100 2050 2500
+Wire Wire Line
+	1950 4000 6000 4000
+$Comp
+L power:+5VA #PWR0101
+U 1 1 5D3507ED
+P 2050 2000
+F 0 "#PWR0101" H 2050 1850 50  0001 C CNN
+F 1 "+5VA" H 2065 2173 50  0000 C CNN
+F 2 "" H 2050 2000 50  0001 C CNN
+F 3 "" H 2050 2000 50  0001 C CNN
+	1    2050 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1350 4100 1250 4100
+Wire Wire Line
+	1250 4100 1250 4500
+Text Label 2400 4500 0    50   ~ 0
+POWERON_OUT
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5D3562BE
+P 1900 2500
+F 0 "#FLG0101" H 1900 2575 50  0001 C CNN
+F 1 "PWR_FLAG" V 1900 2627 50  0000 L CNN
+F 2 "" H 1900 2500 50  0001 C CNN
+F 3 "~" H 1900 2500 50  0001 C CNN
+	1    1900 2500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1900 2500 2050 2500
+Connection ~ 2050 2500
+Wire Wire Line
+	2050 2500 2050 2000
+Wire Wire Line
+	1250 4500 8000 4500
+Text Label 7900 1100 0    50   ~ 0
+~CS_OUT
+Text Label 7900 1300 0    50   ~ 0
+SDI_OUT
+Text Label 7900 1200 0    50   ~ 0
+SCK_OUT
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5D372A24
+P 8250 3900
+F 0 "H1" H 8250 4050 50  0000 C CNN
+F 1 "3.2mm" H 8250 3750 50  0000 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 8250 3900 50  0001 C CNN
+F 3 "~" H 8250 3900 50  0001 C CNN
+	1    8250 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5D3741F9
+P 8600 3900
+F 0 "H2" H 8600 4050 50  0000 C CNN
+F 1 "3.2mm" H 8600 3750 50  0000 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 8600 3900 50  0001 C CNN
+F 3 "~" H 8600 3900 50  0001 C CNN
+	1    8600 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5D374824
+P 8250 4300
+F 0 "H3" H 8250 4450 50  0000 C CNN
+F 1 "3.2mm" H 8250 4150 50  0000 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 8250 4300 50  0001 C CNN
+F 3 "~" H 8250 4300 50  0001 C CNN
+	1    8250 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5D374AEC
+P 8600 4300
+F 0 "H4" H 8600 4450 50  0000 C CNN
+F 1 "3.2mm" H 8600 4150 50  0000 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 8600 4300 50  0001 C CNN
+F 3 "~" H 8600 4300 50  0001 C CNN
+	1    8600 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR05
+U 1 1 5D315CF8
+P 4000 3500
+F 0 "#PWR05" H 4000 3250 50  0001 C CNN
+F 1 "GND" H 4005 3327 50  0000 C CNN
+F 2 "" H 4000 3500 50  0001 C CNN
+F 3 "" H 4000 3500 50  0001 C CNN
+	1    4000 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4000 3450 4000 3500
+Wire Wire Line
+	4000 3150 4000 3100
+$Comp
+L power:+5V #PWR04
+U 1 1 5D31277D
+P 4000 3100
+F 0 "#PWR04" H 4000 2950 50  0001 C CNN
+F 1 "+5V" H 4015 3273 50  0000 C CNN
+F 2 "" H 4000 3100 50  0001 C CNN
+F 3 "" H 4000 3100 50  0001 C CNN
+	1    4000 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5D30D315
+P 4000 3300
+F 0 "C1" H 4115 3346 50  0000 L CNN
+F 1 "100n" H 4115 3255 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4038 3150 50  0001 C CNN
+F 3 "~" H 4000 3300 50  0001 C CNN
+F 4 "MC0603B104K500" H 4000 3300 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 4000 3300 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 4000 3300 50  0001 C CNN "Package"
+F 7 "Farnell" H 4000 3300 50  0001 C CNN "Supplier"
+F 8 "1759122" H 4000 3300 50  0001 C CNN "Order Code"
+F 9 "Seeed OPL" H 4000 3300 50  0001 C CNN "Alt. Supplier"
+F 10 "302010138" H 4000 3300 50  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0603 ceramic capacitor" H 4000 3300 50  0001 C CNN "Note"
+	1    4000 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7100 2700 7100 1300
+Wire Wire Line
+	4100 1100 4100 2700
+Text Notes 9200 1300 0    79   ~ 0
+DIGITAL\nPOTENTIOMETER
+Text Notes 1100 4700 0    79   ~ 0
+MCP CONTROL UNIT
+Wire Notes Line
+	1200 4550 9150 4550
+Wire Notes Line
+	9150 4550 9150 900 
+Wire Notes Line
+	9150 900  3500 900 
+Wire Notes Line
+	1200 1700 1200 4550
+Text Notes 3500 900  0    50   ~ 0
+Diecast Aluminium Enclosure 31 mm, 55.5 mm, 41 mm, Farnell, MC001135
+Wire Notes Line
+	3500 900  3500 1700
+Wire Notes Line
+	3500 1700 1200 1700
+$EndSCHEMATC

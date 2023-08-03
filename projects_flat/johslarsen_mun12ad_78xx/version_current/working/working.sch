@@ -1,0 +1,283 @@
+EESchema Schematic File Version 4
+LIBS:mun12ad_78xx-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_01x03 J1
+U 1 1 5BFA3BB4
+P 1700 1450
+F 0 "J1" V 1666 1262 50  0000 R CNN
+F 1 "Conn_01x03" V 1575 1262 50  0001 R CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 1700 1450 50  0001 C CNN
+F 3 "~" H 1700 1450 50  0001 C CNN
+	1    1700 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 5BFA3E85
+P 1300 1450
+F 0 "#PWR02" H 1300 1200 50  0001 C CNN
+F 1 "GND" H 1305 1277 50  0000 C CNN
+F 2 "" H 1300 1450 50  0001 C CNN
+F 3 "" H 1300 1450 50  0001 C CNN
+	1    1300 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 5BFA3F49
+P 2900 1350
+F 0 "R4" V 2693 1350 50  0000 C CNN
+F 1 "100k" V 2784 1350 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 2830 1350 50  0001 C CNN
+F 3 "~" H 2900 1350 50  0001 C CNN
+	1    2900 1350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5BFA3FF2
+P 1300 2200
+F 0 "R1" H 1370 2246 50  0000 L CNN
+F 1 "100k" H 1370 2155 50  0000 L CNN
+F 2 "Resistors_SMD:R_0603" V 1230 2200 50  0001 C CNN
+F 3 "~" H 1300 2200 50  0001 C CNN
+	1    1300 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5BFA40ED
+P 1300 2500
+F 0 "R2" H 1370 2546 50  0000 L CNN
+F 1 "13k7" H 1370 2455 50  0000 L CNN
+F 2 "Resistors_SMD:R_0603" V 1230 2500 50  0001 C CNN
+F 3 "~" H 1300 2500 50  0001 C CNN
+	1    1300 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 5BFA4576
+P 1600 2050
+F 0 "R3" H 1670 2096 50  0000 L CNN
+F 1 "100k" H 1670 2005 50  0000 L CNN
+F 2 "Resistors_SMD:R_0603" V 1530 2050 50  0001 C CNN
+F 3 "~" H 1600 2050 50  0001 C CNN
+	1    1600 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C1
+U 1 1 5BFA490A
+P 1700 2600
+F 0 "C1" H 1792 2646 50  0000 L CNN
+F 1 "OPEN" H 1792 2555 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 1700 2600 50  0001 C CNN
+F 3 "~" H 1700 2600 50  0001 C CNN
+	1    1700 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 5BFA4ACA
+P 2100 1350
+F 0 "C2" H 2215 1396 50  0000 L CNN
+F 1 "22u" H 2215 1305 50  0000 L CNN
+F 2 "Resistors_Universal:Resistor_SMDuniversal_0805to1206_HandSoldering" H 2138 1200 50  0001 C CNN
+F 3 "~" H 2100 1350 50  0001 C CNN
+	1    2100 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 5BFA4C00
+P 2500 1350
+F 0 "C3" H 2615 1396 50  0000 L CNN
+F 1 "47u" H 2615 1305 50  0000 L CNN
+F 2 "Resistors_Universal:Resistor_SMDuniversal_0805to1206_HandSoldering" H 2538 1200 50  0001 C CNN
+F 3 "~" H 2500 1350 50  0001 C CNN
+	1    2500 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR01
+U 1 1 5BFB032C
+P 1300 2050
+F 0 "#PWR01" H 1300 1900 50  0001 C CNN
+F 1 "+5V" H 1315 2223 50  0000 C CNN
+F 2 "" H 1300 2050 50  0001 C CNN
+F 3 "" H 1300 2050 50  0001 C CNN
+	1    1300 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR05
+U 1 1 5BFB2288
+P 2300 1500
+F 0 "#PWR05" H 2300 1250 50  0001 C CNN
+F 1 "GND" H 2305 1327 50  0000 C CNN
+F 2 "" H 2300 1500 50  0001 C CNN
+F 3 "" H 2300 1500 50  0001 C CNN
+	1    2300 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Power_Module_Cyntec_MUN12AD:MUN12AD03-SH A1
+U 1 1 5BFB3A6B
+P 2300 2250
+F 0 "A1" H 2300 2717 50  0000 C CNN
+F 1 "MUN12AD03-SH" H 2300 2626 50  0000 C CNN
+F 2 "Power_Module_SMD_Cyntec_MUN12AD:QFN-8-3EP_3.4x3.4x1.4mm_P0.8mm_Cyntec_MUN12AD03-SH" H 2300 2800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/Cyntec-MUN12AD03-SH_C218787.pdf" H 2050 2700 50  0001 C CNN
+	1    2300 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR04
+U 1 1 5BFB4FC1
+P 2200 2750
+F 0 "#PWR04" H 2200 2500 50  0001 C CNN
+F 1 "GND" H 2205 2577 50  0000 C CNN
+F 2 "" H 2200 2750 50  0001 C CNN
+F 3 "" H 2200 2750 50  0001 C CNN
+	1    2200 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR06
+U 1 1 5BFB5064
+P 2800 1200
+F 0 "#PWR06" H 2800 1050 50  0001 C CNN
+F 1 "+5V" H 2815 1373 50  0000 C CNN
+F 2 "" H 2800 1200 50  0001 C CNN
+F 3 "" H 2800 1200 50  0001 C CNN
+	1    2800 1200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2500 1200 2800 1200
+Connection ~ 2800 1200
+Wire Wire Line
+	2500 1500 2300 1500
+Wire Wire Line
+	2300 1500 2100 1500
+Connection ~ 2300 1500
+Wire Wire Line
+	2100 1200 1800 1200
+Connection ~ 1800 1200
+Wire Wire Line
+	1600 2250 1800 2250
+Wire Wire Line
+	1800 2350 1300 2350
+Connection ~ 1300 2350
+Wire Wire Line
+	1300 2650 1300 2750
+Wire Wire Line
+	1300 2050 1500 2050
+Wire Wire Line
+	1500 2050 1500 1550
+Connection ~ 1300 2050
+Text Label 1700 2350 0    50   ~ 0
+FB
+Text Label 1700 2250 0    50   ~ 0
+EN
+Text Label 1700 2500 0    50   ~ 0
+SS
+Wire Wire Line
+	1300 2750 1700 2750
+Text Label 2900 2350 1    50   ~ 0
+PGOOD
+Wire Wire Line
+	2900 2350 2800 2350
+Wire Wire Line
+	1700 2500 1800 2500
+Wire Wire Line
+	1700 2700 1700 2750
+Connection ~ 1700 2750
+Wire Wire Line
+	1700 2750 2200 2750
+Wire Wire Line
+	1800 1200 1800 1900
+Wire Wire Line
+	1600 2250 1600 2200
+Wire Wire Line
+	1600 1900 1800 1900
+Connection ~ 1800 1900
+Wire Wire Line
+	1800 1900 1800 2050
+$Comp
+L Device:LED D1
+U 1 1 5BFAF9A7
+P 2900 1650
+F 0 "D1" V 2938 1533 50  0000 R CNN
+F 1 "LED" V 2847 1533 50  0000 R CNN
+F 2 "LEDs:LED_0603" H 2900 1650 50  0001 C CNN
+F 3 "~" H 2900 1650 50  0001 C CNN
+	1    2900 1650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2800 1200 2800 2050
+Wire Wire Line
+	2900 1800 2900 2350
+Connection ~ 2200 2750
+Wire Wire Line
+	2800 1200 2900 1200
+$Comp
+L power:VCC #PWR03
+U 1 1 5BFB0370
+P 1800 1200
+F 0 "#PWR03" H 1800 1050 50  0001 C CNN
+F 1 "VCC" H 1817 1373 50  0000 C CNN
+F 2 "" H 1800 1200 50  0001 C CNN
+F 3 "" H 1800 1200 50  0001 C CNN
+	1    1800 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5BFB12CA
+P 1500 1200
+F 0 "#FLG0101" H 1500 1275 50  0001 C CNN
+F 1 "PWR_FLAG" H 1500 1374 50  0000 C CNN
+F 2 "" H 1500 1200 50  0001 C CNN
+F 3 "~" H 1500 1200 50  0001 C CNN
+	1    1500 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 5BFB2005
+P 1300 1450
+F 0 "#FLG0102" H 1300 1525 50  0001 C CNN
+F 1 "PWR_FLAG" H 1300 1624 50  0000 C CNN
+F 2 "" H 1300 1450 50  0001 C CNN
+F 3 "~" H 1300 1450 50  0001 C CNN
+	1    1300 1450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 1200 1500 1350
+Wire Wire Line
+	1500 1200 1800 1200
+Connection ~ 1500 1200
+Wire Wire Line
+	1500 1450 1300 1450
+Connection ~ 1300 1450
+Text Notes 2250 2950 0    50   ~ 0
+VOUT = 0.6 * (1 + R1/R2):\n  R2=13k7 => 5V\n  R2=22k1 => 3V3\n  R2=50k  => 1V8
+$EndSCHEMATC

@@ -1,0 +1,665 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L jakub:MIC2954 U1
+U 1 1 5FADFE0B
+P 4300 2100
+F 0 "U1" H 4300 2465 50  0000 C CNN
+F 1 "MIC2954" H 4300 2374 50  0000 C CNN
+F 2 "Package_SO:SO-8_3.9x4.9mm_P1.27mm" H 4100 1900 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/mic2954.pdf" H 4300 2373 50  0001 C CNN
+F 4 "Farnell" H 4300 2150 60  0001 C CNN "Supplier"
+F 5 "MIC2954-08YM" H 4300 2100 50  0001 C CNN "Part Number"
+F 6 "Micrel" H 4300 2100 50  0001 C CNN "Manufacturer"
+F 7 "SO-8" H 4300 2100 50  0001 C CNN "Package"
+F 8 "2510052" H 4300 2100 50  0001 C CNN "Order Code"
+F 9 "250mA low-dropout regulator" H 4300 2100 50  0001 C CNN "Note"
+	1    4300 2100
+	1    0    0    -1  
+$EndComp
+NoConn ~ 3800 2400
+NoConn ~ 3800 2600
+Wire Wire Line
+	4300 3000 4300 3100
+Wire Wire Line
+	3800 2200 3600 2200
+Wire Wire Line
+	3600 2200 3600 2300
+$Comp
+L power:GND #PWR05
+U 1 1 5FAE05EA
+P 3600 2300
+F 0 "#PWR05" H 3600 2050 50  0001 C CNN
+F 1 "GND" H 3605 2127 50  0000 C CNN
+F 2 "" H 3600 2300 50  0001 C CNN
+F 3 "" H 3600 2300 50  0001 C CNN
+	1    3600 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR07
+U 1 1 5FAE0707
+P 4300 3100
+F 0 "#PWR07" H 4300 2850 50  0001 C CNN
+F 1 "GND" H 4305 2927 50  0000 C CNN
+F 2 "" H 4300 3100 50  0001 C CNN
+F 3 "" H 4300 3100 50  0001 C CNN
+	1    4300 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 5FAE1374
+P 5350 2300
+F 0 "C3" H 5465 2346 50  0000 L CNN
+F 1 "100p" H 5465 2255 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5388 2150 50  0001 C CNN
+F 3 "~" H 5350 2300 50  0001 C CNN
+F 4 "MC0603B101K500CT" H 5350 2300 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 5350 2300 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 5350 2300 50  0001 C CNN "Package"
+F 7 "Farnell" H 5350 2300 50  0001 C CNN "Supplier"
+F 8 "2627425" H 5350 2300 50  0001 C CNN "Order Code"
+F 9 "100pF/50V 0603 ceramic capacitor X7R" H 5350 2300 50  0001 C CNN "Note"
+	1    5350 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 2150 5350 2000
+Wire Wire Line
+	5350 2000 4800 2000
+Wire Wire Line
+	5350 2450 5350 2600
+Wire Wire Line
+	5350 2600 4800 2600
+$Comp
+L Device:R R6
+U 1 1 5FAE1ED0
+P 5850 2300
+F 0 "R6" H 5920 2346 50  0000 L CNN
+F 1 "360k" H 5920 2255 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5780 2300 50  0001 C CNN
+F 3 "~" H 5850 2300 50  0001 C CNN
+F 4 "360kΩ 100mW 0603 resistor" H 5850 2300 50  0001 C CNN "Note"
+F 5 "MCWR06X3603FTL" H 5850 2300 50  0001 C CNN "Part Number"
+F 6 "Multicomp" H 5850 2300 50  0001 C CNN "Manufacturer"
+F 7 "0603" H 5850 2300 50  0001 C CNN "Package"
+F 8 "Farnell" H 5850 2300 50  0001 C CNN "Supplier"
+F 9 "2447347" H 5850 2300 50  0001 C CNN "Order Code"
+	1    5850 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5850 2150 5850 2000
+Wire Wire Line
+	5850 2000 5350 2000
+Connection ~ 5350 2000
+$Comp
+L Device:R R5
+U 1 1 5FAE331A
+P 5350 2850
+F 0 "R5" H 5420 2896 50  0000 L CNN
+F 1 "20k" H 5420 2805 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5280 2850 50  0001 C CNN
+F 3 "~" H 5350 2850 50  0001 C CNN
+F 4 "MCWR06X2002FTL" H 5350 2850 50  0001 C CNN "Part Number"
+F 5 "Farnell" H 5350 2850 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 5350 2850 50  0001 C CNN "Package"
+F 7 "Farnell" H 5350 2850 50  0001 C CNN "Supplier"
+F 8 "2447293" H 5350 2850 50  0001 C CNN "Order Code"
+F 9 "20kΩ 100mW 0603 resistor" H 5350 2850 50  0001 C CNN "Note"
+	1    5350 2850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 2600 5350 2700
+Connection ~ 5350 2600
+$Comp
+L power:GND #PWR08
+U 1 1 5FAE3FB5
+P 4300 4900
+F 0 "#PWR08" H 4300 4650 50  0001 C CNN
+F 1 "GND" H 4305 4727 50  0000 C CNN
+F 2 "" H 4300 4900 50  0001 C CNN
+F 3 "" H 4300 4900 50  0001 C CNN
+	1    4300 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5FAE4204
+P 3150 2250
+F 0 "C1" H 3265 2296 50  0000 L CNN
+F 1 "100n" H 3265 2205 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3188 2100 50  0001 C CNN
+F 3 "~" H 3150 2250 50  0001 C CNN
+F 4 "MC0603B104K500CT" H 3150 2250 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 3150 2250 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 3150 2250 50  0001 C CNN "Package"
+F 7 "Farnell" H 3150 2250 50  0001 C CNN "Supplier"
+F 8 "1759122" H 3150 2250 50  0001 C CNN "Order Code"
+F 9 "100nF/50V 0603 ceramic capacitor X7R" H 3150 2250 50  0001 C CNN "Note"
+	1    3150 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3800 2000 3500 2000
+Wire Wire Line
+	3150 2000 3150 2100
+Wire Wire Line
+	3150 2400 3150 2500
+$Comp
+L power:GND #PWR04
+U 1 1 5FAE4D69
+P 3150 2500
+F 0 "#PWR04" H 3150 2250 50  0001 C CNN
+F 1 "GND" H 3155 2327 50  0000 C CNN
+F 2 "" H 3150 2500 50  0001 C CNN
+F 3 "" H 3150 2500 50  0001 C CNN
+	1    3150 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+24V #PWR03
+U 1 1 5FAE53C7
+P 3150 1900
+F 0 "#PWR03" H 3150 1750 50  0001 C CNN
+F 1 "+24V" H 3165 2073 50  0000 C CNN
+F 2 "" H 3150 1900 50  0001 C CNN
+F 3 "" H 3150 1900 50  0001 C CNN
+	1    3150 1900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3150 1900 3150 2000
+Connection ~ 3150 2000
+$Comp
+L Device:C C4
+U 1 1 5FAE5F25
+P 6300 2300
+F 0 "C4" H 6415 2346 50  0000 L CNN
+F 1 "4u7/50V" H 6415 2255 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 6338 2150 50  0001 C CNN
+F 3 "~" H 6300 2300 50  0001 C CNN
+F 4 "GRM31CR71H475KA12L" H 6300 2300 50  0001 C CNN "Part Number"
+F 5 "Murata" H 6300 2300 50  0001 C CNN "Manufacturer"
+F 6 "1206" H 6300 2300 50  0001 C CNN "Package"
+F 7 "Farnell" H 6300 2300 50  0001 C CNN "Supplier"
+F 8 "1735545" H 6300 2300 50  0001 C CNN "Order Code"
+F 9 "4.7µF/50V X7R ceramic capacitor 1206" H 6300 2300 50  0001 C CNN "Note"
+	1    6300 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 2150 6300 2000
+Wire Wire Line
+	6300 2000 5850 2000
+Connection ~ 5850 2000
+Wire Wire Line
+	6300 2450 6300 2550
+$Comp
+L power:GND #PWR011
+U 1 1 5FAE6A10
+P 6300 2550
+F 0 "#PWR011" H 6300 2300 50  0001 C CNN
+F 1 "GND" H 6305 2377 50  0000 C CNN
+F 2 "" H 6300 2550 50  0001 C CNN
+F 3 "" H 6300 2550 50  0001 C CNN
+	1    6300 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4300 4900 4300 4750
+Wire Wire Line
+	4700 4200 5350 4200
+Wire Wire Line
+	5350 3000 5350 4200
+Wire Wire Line
+	4200 3900 4200 3800
+$Comp
+L power:+5V #PWR06
+U 1 1 5FAF1BAE
+P 4200 3700
+F 0 "#PWR06" H 4200 3550 50  0001 C CNN
+F 1 "+5V" H 4215 3873 50  0000 C CNN
+F 2 "" H 4200 3700 50  0001 C CNN
+F 3 "" H 4200 3700 50  0001 C CNN
+	1    4200 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 5FAF231F
+P 3500 4050
+F 0 "C2" H 3615 4096 50  0000 L CNN
+F 1 "100n" H 3615 4005 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3538 3900 50  0001 C CNN
+F 3 "~" H 3500 4050 50  0001 C CNN
+F 4 "MC0603B104K500CT" H 3500 4050 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 3500 4050 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 3500 4050 50  0001 C CNN "Package"
+F 7 "Farnell" H 3500 4050 50  0001 C CNN "Supplier"
+F 8 "1759122" H 3500 4050 50  0001 C CNN "Order Code"
+F 9 "100nf/50V 0603 ceramic capacitor X7R" H 3500 4050 50  0001 C CNN "Note"
+	1    3500 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 3800 3500 3800
+Connection ~ 4200 3800
+Wire Wire Line
+	4200 3800 4200 3700
+Wire Wire Line
+	3500 3900 3500 3800
+Wire Wire Line
+	3500 4750 4300 4750
+Connection ~ 4300 4750
+Wire Wire Line
+	4300 4750 4300 4600
+Connection ~ 3500 3800
+Connection ~ 6300 2000
+Wire Wire Line
+	5350 2600 5850 2600
+Wire Wire Line
+	5850 2600 5850 2450
+Text Notes 6350 1950 0    50   ~ 0
+19.0V - 23.5V\n21.0V (default)
+$Comp
+L Connector:Mini-DIN-6 JP1
+U 1 1 5FAF9EF5
+P 2000 4400
+F 0 "JP1" H 2000 4767 50  0000 C CNN
+F 1 "Mini-DIN-6" H 2000 4676 50  0000 C CNN
+F 2 "jakub:MiniDIN6way" H 2000 4400 50  0001 C CNN
+F 3 "http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf" H 2000 4400 50  0001 C CNN
+F 4 "PSG01567" H 2000 4400 50  0001 C CNN "Part Number"
+F 5 "Pro Signal" H 2000 4400 50  0001 C CNN "Manufacturer"
+F 6 "Chassis" H 2000 4400 50  0001 C CNN "Package"
+F 7 "Farnell" H 2000 4400 50  0001 C CNN "Supplier"
+F 8 "1280671" H 2000 4400 50  0001 C CNN "Order Code"
+F 9 "6way mini DIN Connector" H 2000 4400 50  0001 C CNN "Note"
+	1    2000 4400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2300 4300 2750 4300
+Wire Wire Line
+	2300 4500 3050 4500
+Wire Wire Line
+	3050 4500 3050 4400
+Wire Wire Line
+	3050 4400 3900 4400
+Wire Wire Line
+	2300 4400 2400 4400
+Wire Wire Line
+	2400 4400 2400 4700
+Wire Wire Line
+	3500 4200 3500 4750
+$Comp
+L power:GND #PWR01
+U 1 1 5FAFE96F
+P 2400 4700
+F 0 "#PWR01" H 2400 4450 50  0001 C CNN
+F 1 "GND" H 2405 4527 50  0000 C CNN
+F 2 "" H 2400 4700 50  0001 C CNN
+F 3 "" H 2400 4700 50  0001 C CNN
+	1    2400 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1700 4400 1600 4400
+Wire Wire Line
+	1600 4400 1600 3800
+Wire Wire Line
+	1600 3800 2750 3800
+$Comp
+L Potentiometer_Digital:MCP4018-xxxxLT U2
+U 1 1 5FB010B4
+P 4300 4300
+F 0 "U2" H 4300 4750 50  0000 L CNN
+F 1 "MCP4018-502" H 4300 4650 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-363_SC-70-6" H 4350 4050 50  0001 L CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/22147a.pdf" H 4350 3750 50  0001 L CNN
+F 4 "MCP4018T-502E/LT" H 4300 4300 50  0001 C CNN "Part Number"
+F 5 "Microchip" H 4300 4300 50  0001 C CNN "Manufacturer"
+F 6 "SC70-6" H 4300 4300 50  0001 C CNN "Package"
+F 7 "Farnell" H 4300 4300 50  0001 C CNN "Supplier"
+F 8 "1800210" H 4300 4300 50  0001 C CNN "Order Code"
+F 9 "7-bit single I2C digital POT with volatile memory" H 4300 4300 50  0001 C CNN "Note"
+	1    4300 4300
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4700 4100
+Text Notes 1800 5150 0    50   ~ 0
+cable 3400059
+Wire Wire Line
+	2700 2000 3150 2000
+$Comp
+L Connector:Barrel_Jack_Switch_Pin3Ring JP2
+U 1 1 5FB11308
+P 2400 2100
+F 0 "JP2" H 2457 2417 50  0000 C CNN
+F 1 "Barrel_Jack_Switch_Pin3Ring" H 2457 2326 50  0000 C CNN
+F 2 "jakub:2.1mmBarrelJackTop" H 2450 2060 50  0001 C CNN
+F 3 "~" H 2450 2060 50  0001 C CNN
+F 4 "FC681473" H 2400 2100 50  0001 C CNN "Part Number"
+F 5 "Cliff Electronic" H 2400 2100 50  0001 C CNN "Manufacturer"
+F 6 "Chassis" H 2400 2100 50  0001 C CNN "Package"
+F 7 "Farnell" H 2400 2100 50  0001 C CNN "Supplier"
+F 8 "2353931" H 2400 2100 50  0001 C CNN "Order Code"
+F 9 "2.1mm panel mounting DC socket" H 2400 2100 50  0001 C CNN "Note"
+	1    2400 2100
+	1    0    0    -1  
+$EndComp
+NoConn ~ 2700 2100
+Wire Wire Line
+	2700 2200 2800 2200
+Wire Wire Line
+	2800 2200 2800 2300
+$Comp
+L power:GND #PWR02
+U 1 1 5FB1347D
+P 2800 2300
+F 0 "#PWR02" H 2800 2050 50  0001 C CNN
+F 1 "GND" H 2805 2127 50  0000 C CNN
+F 2 "" H 2800 2300 50  0001 C CNN
+F 3 "" H 2800 2300 50  0001 C CNN
+	1    2800 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 2000 6850 2000
+Wire Wire Line
+	7500 2200 7400 2200
+Wire Wire Line
+	7400 2200 7400 2300
+$Comp
+L power:GND #PWR013
+U 1 1 5FB15A4D
+P 7400 2300
+F 0 "#PWR013" H 7400 2050 50  0001 C CNN
+F 1 "GND" H 7405 2127 50  0000 C CNN
+F 2 "" H 7400 2300 50  0001 C CNN
+F 3 "" H 7400 2300 50  0001 C CNN
+	1    7400 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 2100 7250 2100
+Wire Wire Line
+	7250 2100 7250 5250
+Wire Wire Line
+	7250 5250 1600 5250
+Wire Wire Line
+	1600 5250 1600 4500
+Wire Wire Line
+	1600 4500 1700 4500
+$Comp
+L power:PWR_FLAG #FLG01
+U 1 1 5FB2002B
+P 3500 1900
+F 0 "#FLG01" H 3500 1975 50  0001 C CNN
+F 1 "PWR_FLAG" H 3500 2073 50  0000 C CNN
+F 2 "" H 3500 1900 50  0001 C CNN
+F 3 "~" H 3500 1900 50  0001 C CNN
+	1    3500 1900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3500 1900 3500 2000
+Connection ~ 3500 2000
+Wire Wire Line
+	3500 2000 3150 2000
+$Comp
+L power:PWR_FLAG #FLG02
+U 1 1 5FB212E7
+P 3500 3700
+F 0 "#FLG02" H 3500 3775 50  0001 C CNN
+F 1 "PWR_FLAG" H 3500 3873 50  0000 C CNN
+F 2 "" H 3500 3700 50  0001 C CNN
+F 3 "~" H 3500 3700 50  0001 C CNN
+	1    3500 3700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3500 3700 3500 3800
+$Comp
+L power:PWR_FLAG #FLG03
+U 1 1 5FB2257E
+P 3500 4850
+F 0 "#FLG03" H 3500 4925 50  0001 C CNN
+F 1 "PWR_FLAG" H 3500 5023 50  0000 C CNN
+F 2 "" H 3500 4850 50  0001 C CNN
+F 3 "~" H 3500 4850 50  0001 C CNN
+	1    3500 4850
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3500 4850 3500 4750
+Connection ~ 3500 4750
+$Comp
+L Device:R R3
+U 1 1 5FB28AA5
+P 5000 1750
+F 0 "R3" H 5070 1796 50  0000 L CNN
+F 1 "82k" H 5070 1705 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4930 1750 50  0001 C CNN
+F 3 "~" H 5000 1750 50  0001 C CNN
+F 4 "MCWR06X8202FTL" H 5000 1750 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 5000 1750 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 5000 1750 50  0001 C CNN "Package"
+F 7 "Farnell" H 5000 1750 50  0001 C CNN "Supplier"
+F 8 "2447438" H 5000 1750 50  0001 C CNN "Order Code"
+F 9 "82kΩ 100mW 0603 resistor" H 5000 1750 50  0001 C CNN "Note"
+	1    5000 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 1600 5000 1500
+$Comp
+L power:+24V #PWR09
+U 1 1 5FB2D08E
+P 5000 1500
+F 0 "#PWR09" H 5000 1350 50  0001 C CNN
+F 1 "+24V" H 5015 1673 50  0000 C CNN
+F 2 "" H 5000 1500 50  0001 C CNN
+F 3 "" H 5000 1500 50  0001 C CNN
+	1    5000 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 5FB2D53E
+P 5000 3650
+F 0 "R4" H 5070 3696 50  0000 L CNN
+F 1 "24k" H 5070 3605 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4930 3650 50  0001 C CNN
+F 3 "~" H 5000 3650 50  0001 C CNN
+F 4 "20kΩ 100mW 0603 resistor" H 5000 3650 50  0001 C CNN "Note"
+F 5 "MCWR06X2002FTL" H 5000 3650 50  0001 C CNN "Part Number"
+F 6 "Multicomp" H 5000 3650 50  0001 C CNN "Manufacturer"
+F 7 "0603" H 5000 3650 50  0001 C CNN "Package"
+F 8 "Farnell" H 5000 3650 50  0001 C CNN "Supplier"
+F 9 "2447293" H 5000 3650 50  0001 C CNN "Order Code"
+	1    5000 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1700 4300 1500 4300
+Wire Wire Line
+	1500 4300 1500 3400
+Wire Wire Line
+	1500 3400 5000 3400
+Wire Wire Line
+	4800 2200 5000 2200
+Connection ~ 5000 2200
+Wire Wire Line
+	5000 2200 5000 1900
+Wire Wire Line
+	5000 3800 5000 3900
+$Comp
+L power:GND #PWR010
+U 1 1 5FB3641F
+P 5000 3900
+F 0 "#PWR010" H 5000 3650 50  0001 C CNN
+F 1 "GND" H 5005 3727 50  0000 C CNN
+F 2 "" H 5000 3900 50  0001 C CNN
+F 3 "" H 5000 3900 50  0001 C CNN
+	1    5000 3900
+	1    0    0    -1  
+$EndComp
+Text Label 1550 3400 0    50   ~ 0
+~ERR
+Text Label 5450 2000 0    50   ~ 0
+VREGOUT
+Text Label 3150 4300 0    50   ~ 0
+SCL
+Text Label 3150 4400 0    50   ~ 0
+SDA
+Text Label 3100 5250 0    50   ~ 0
+PWM
+$Comp
+L Device:R R7
+U 1 1 5FBD72C9
+P 6850 2300
+F 0 "R7" H 6920 2346 50  0000 L CNN
+F 1 "24k" H 6920 2255 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6780 2300 50  0001 C CNN
+F 3 "~" H 6850 2300 50  0001 C CNN
+F 4 "24kΩ 100mW 0603 resistor" H 6850 2300 50  0001 C CNN "Note"
+F 5 "MCWR06X2402FTL" H 6850 2300 50  0001 C CNN "Part Number"
+F 6 "Multicomp" H 6850 2300 50  0001 C CNN "Manufacturer"
+F 7 "0603" H 6850 2300 50  0001 C CNN "Package"
+F 8 "Farnell" H 6850 2300 50  0001 C CNN "Supplier"
+F 9 "2447308" H 6850 2300 50  0001 C CNN "Order Code"
+	1    6850 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6850 2150 6850 2000
+Connection ~ 6850 2000
+Wire Wire Line
+	6850 2000 7500 2000
+Wire Wire Line
+	6850 2450 6850 2550
+$Comp
+L power:GND #PWR012
+U 1 1 5FBDA3C1
+P 6850 2550
+F 0 "#PWR012" H 6850 2300 50  0001 C CNN
+F 1 "GND" H 6855 2377 50  0000 C CNN
+F 2 "" H 6850 2550 50  0001 C CNN
+F 3 "" H 6850 2550 50  0001 C CNN
+	1    6850 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5FBE101C
+P 3500 6000
+F 0 "H1" H 3600 6046 50  0000 L CNN
+F 1 "M2 Mounting Hole" H 3600 5955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 3500 6000 50  0001 C CNN
+F 3 "~" H 3500 6000 50  0001 C CNN
+	1    3500 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5FBE16DC
+P 3500 6500
+F 0 "H2" H 3600 6546 50  0000 L CNN
+F 1 "M2 Mounting Hole" H 3600 6455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 3500 6500 50  0001 C CNN
+F 3 "~" H 3500 6500 50  0001 C CNN
+	1    3500 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x03_Female JP3
+U 1 1 5FB13D6B
+P 7700 2100
+F 0 "JP3" H 7728 2126 50  0000 L CNN
+F 1 "KK_3way" H 7728 2035 50  0000 L CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" H 7700 2100 50  0001 C CNN
+F 3 "~" H 7700 2100 50  0001 C CNN
+F 4 "22-27-2031" H 7700 2100 50  0001 C CNN "Part Number"
+F 5 "Molex" H 7700 2100 50  0001 C CNN "Manufacturer"
+F 6 "2.54mm" H 7700 2100 50  0001 C CNN "Package"
+F 7 "Farnell" H 7700 2100 50  0001 C CNN "Supplier"
+F 8 "9731156" H 7700 2100 50  0001 C CNN "Order Code"
+F 9 "KK 254 Wire-to-Board Header" H 7700 2100 50  0001 C CNN "Note"
+	1    7700 2100
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	5000 2200 5000 3400
+$Comp
+L Device:R R1
+U 1 1 5FFE0D66
+P 2750 4050
+F 0 "R1" H 2820 4096 50  0000 L CNN
+F 1 "2k2" H 2820 4005 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 2680 4050 50  0001 C CNN
+F 3 "~" H 2750 4050 50  0001 C CNN
+F 4 "2.2kΩ 100mW 0603 resistor" H 2750 4050 50  0001 C CNN "Note"
+F 5 "MCWR06X2201FTL" H 2750 4050 50  0001 C CNN "Part Number"
+F 6 "Multicomp" H 2750 4050 50  0001 C CNN "Manufacturer"
+F 7 "0603" H 2750 4050 50  0001 C CNN "Package"
+F 8 "Farnell" H 2750 4050 50  0001 C CNN "Supplier"
+F 9 "2447320" H 2750 4050 50  0001 C CNN "Order Code"
+	1    2750 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2750 3900 2750 3800
+Connection ~ 2750 3800
+Wire Wire Line
+	2750 3800 3050 3800
+Wire Wire Line
+	3050 3900 3050 3800
+Connection ~ 3050 3800
+Wire Wire Line
+	3050 3800 3500 3800
+Wire Wire Line
+	3050 4200 3050 4400
+Connection ~ 3050 4400
+Wire Wire Line
+	2750 4200 2750 4300
+Connection ~ 2750 4300
+Wire Wire Line
+	2750 4300 3900 4300
+$Comp
+L Device:R R2
+U 1 1 5FFE7155
+P 3050 4050
+F 0 "R2" H 3120 4096 50  0000 L CNN
+F 1 "2k2" H 3120 4005 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 2980 4050 50  0001 C CNN
+F 3 "~" H 3050 4050 50  0001 C CNN
+F 4 "2.2kΩ 100mW 0603 resistor" H 3050 4050 50  0001 C CNN "Note"
+F 5 "MCWR06X2201FTL" H 3050 4050 50  0001 C CNN "Part Number"
+F 6 "Multicomp" H 3050 4050 50  0001 C CNN "Manufacturer"
+F 7 "0603" H 3050 4050 50  0001 C CNN "Package"
+F 8 "Farnell" H 3050 4050 50  0001 C CNN "Supplier"
+F 9 "2447320" H 3050 4050 50  0001 C CNN "Order Code"
+	1    3050 4050
+	1    0    0    -1  
+$EndComp
+Connection ~ 5000 3400
+Wire Wire Line
+	5000 3400 5000 3500
+$EndSCHEMATC

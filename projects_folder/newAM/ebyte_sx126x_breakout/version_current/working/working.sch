@@ -1,0 +1,170 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "ebyte SX1262 Breakout"
+Date ""
+Rev ""
+Comp "Alex Martens"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L E22-900M22S:E22-900M22S U1
+U 1 1 61B06B23
+P 5200 3850
+F 0 "U1" H 5450 4500 50  0000 C CNN
+F 1 "E22-900M22S" H 5650 4400 50  0000 C CNN
+F 2 "E22-900M22S:E22-900M22S" H 5200 3850 50  0001 L BNN
+F 3 "" H 5200 3850 50  0001 L BNN
+	1    5200 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x06 X2
+U 1 1 61B0A131
+P 3250 3400
+F 0 "X2" H 3168 2875 50  0000 C CNN
+F 1 "Conn_01x06" H 3168 2966 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 3250 3400 50  0001 C CNN
+F 3 "~" H 3250 3400 50  0001 C CNN
+	1    3250 3400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x06 X1
+U 1 1 61B0BA70
+P 3250 4350
+F 0 "X1" H 3168 3825 50  0000 C CNN
+F 1 "Conn_01x06" H 3168 3916 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 3250 4350 50  0001 C CNN
+F 3 "~" H 3250 4350 50  0001 C CNN
+	1    3250 4350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4700 3450 4350 3450
+Wire Wire Line
+	4350 3450 4350 3100
+Wire Wire Line
+	4350 3100 3450 3100
+Wire Wire Line
+	4700 3550 4250 3550
+Wire Wire Line
+	4250 3550 4250 3200
+Wire Wire Line
+	4250 3200 3450 3200
+Wire Wire Line
+	4700 3650 4150 3650
+Wire Wire Line
+	4150 3650 4150 3300
+Wire Wire Line
+	4150 3300 3450 3300
+Wire Wire Line
+	4700 3750 4050 3750
+Wire Wire Line
+	4050 3750 4050 3400
+Wire Wire Line
+	4050 3400 3450 3400
+Wire Wire Line
+	4700 3850 3950 3850
+Wire Wire Line
+	3950 3850 3950 3500
+Wire Wire Line
+	3950 3500 3450 3500
+Wire Wire Line
+	4700 3950 3850 3950
+Wire Wire Line
+	3850 3950 3850 3600
+Wire Wire Line
+	3850 3600 3450 3600
+Wire Wire Line
+	5700 4250 5800 4250
+Wire Wire Line
+	3450 4550 3850 4550
+Wire Wire Line
+	3850 4550 3850 4250
+Wire Wire Line
+	3850 4250 4700 4250
+$Comp
+L power:GND #PWR0101
+U 1 1 61B711C0
+P 3550 4700
+F 0 "#PWR0101" H 3550 4450 50  0001 C CNN
+F 1 "GND" H 3555 4527 50  0000 C CNN
+F 2 "" H 3550 4700 50  0001 C CNN
+F 3 "" H 3550 4700 50  0001 C CNN
+	1    3550 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 61B71EC0
+P 5200 4450
+F 0 "#PWR0102" H 5200 4200 50  0001 C CNN
+F 1 "GND" H 5205 4277 50  0000 C CNN
+F 2 "" H 5200 4450 50  0001 C CNN
+F 3 "" H 5200 4450 50  0001 C CNN
+	1    5200 4450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3450 4450 3550 4450
+Wire Wire Line
+	3550 4450 3550 4700
+$Comp
+L power:VCC #PWR0103
+U 1 1 61B739FF
+P 5200 3250
+F 0 "#PWR0103" H 5200 3100 50  0001 C CNN
+F 1 "VCC" H 5215 3423 50  0000 C CNN
+F 2 "" H 5200 3250 50  0001 C CNN
+F 3 "" H 5200 3250 50  0001 C CNN
+	1    5200 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0104
+U 1 1 61B745B3
+P 3550 3850
+F 0 "#PWR0104" H 3550 3700 50  0001 C CNN
+F 1 "VCC" H 3565 4023 50  0000 C CNN
+F 2 "" H 3550 3850 50  0001 C CNN
+F 3 "" H 3550 3850 50  0001 C CNN
+	1    3550 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3450 4350 3550 4350
+Wire Wire Line
+	3550 4350 3550 3850
+Wire Wire Line
+	3450 4250 3750 4250
+Wire Wire Line
+	3750 4250 3750 4700
+Wire Wire Line
+	3750 4700 5800 4700
+Wire Wire Line
+	5800 4250 5800 4700
+Wire Wire Line
+	3450 4150 4700 4150
+Wire Wire Line
+	4700 4050 3450 4050
+$Comp
+L Connector_Generic:Conn_01x01 X3
+U 1 1 61B77640
+P 6050 3450
+F 0 "X3" H 6130 3492 50  0000 L CNN
+F 1 "Conn_01x01" H 6130 3401 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 6050 3450 50  0001 C CNN
+F 3 "~" H 6050 3450 50  0001 C CNN
+	1    6050 3450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5700 3450 5850 3450
+$EndSCHEMATC

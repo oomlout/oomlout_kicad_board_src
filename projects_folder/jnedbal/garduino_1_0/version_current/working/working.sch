@@ -1,0 +1,807 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:jakub
+LIBS:guarduino-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 3 4
+Title "Guarduino Control Unit"
+Date "2016-09-30"
+Rev "1.0"
+Comp "Serious Play Ltd"
+Comment1 "Jakub Nedbal"
+Comment2 "License: CC-BY-SA"
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	1900 3400 2600 3400
+Text Label 1200 3400 0    60   ~ 0
+SENS0
+Text Label 1200 5300 0    60   ~ 0
+SENS1
+Wire Wire Line
+	2000 5300 2000 5400
+Connection ~ 2000 5300
+Wire Wire Line
+	2000 3500 2000 3400
+Connection ~ 2000 3400
+Wire Wire Line
+	2000 3800 2000 3900
+Wire Wire Line
+	2000 5800 2000 5700
+$Comp
+L GND #PWR077
+U 1 1 570B943A
+P 2000 3900
+F 0 "#PWR077" H 2000 3650 50  0001 C CNN
+F 1 "GND" H 2000 3750 50  0000 C CNN
+F 2 "" H 2000 3900 50  0000 C CNN
+F 3 "" H 2000 3900 50  0000 C CNN
+	1    2000 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR078
+U 1 1 570B9440
+P 2000 5800
+F 0 "#PWR078" H 2000 5550 50  0001 C CNN
+F 1 "GND" H 2000 5650 50  0000 C CNN
+F 2 "" H 2000 5800 50  0000 C CNN
+F 3 "" H 2000 5800 50  0000 C CNN
+	1    2000 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R19
+U 1 1 570B9453
+P 1750 3400
+F 0 "R19" V 1830 3400 50  0000 C CNN
+F 1 "1k5" V 1750 3400 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 1680 3400 50  0001 C CNN
+F 3 "" H 1750 3400 50  0000 C CNN
+F 4 "RC0603JR-071K5L" H 1750 3400 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 1750 3400 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 1750 3400 60  0001 C CNN "Package"
+F 7 "Farnell" H 1750 3400 60  0001 C CNN "Supplier"
+F 8 "9233407" H 1750 3400 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 1750 3400 60  0001 C CNN "Alt. Supplier"
+F 10 "301010114" H 1750 3400 60  0001 C CNN "Alt. Order Code"
+F 11 "1.5kΩ/1% 0603 resistor" H 1750 3400 60  0001 C CNN "Note"
+	1    1750 3400
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1600 3400 1100 3400
+Wire Wire Line
+	1100 5300 1600 5300
+Text Label 5200 3400 0    60   ~ 0
+SENS2
+Text Label 5200 5300 0    60   ~ 0
+SENS3
+Wire Wire Line
+	5600 3400 5100 3400
+Wire Wire Line
+	5100 5300 5600 5300
+$Comp
+L Q_PMOS_GSD Q10
+U 1 1 570B989B
+P 3600 2400
+F 0 "Q10" H 3800 2350 50  0000 L CNN
+F 1 "FDN340P" H 3800 2450 50  0000 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 3800 2500 50  0001 C CNN
+F 3 "" H 3600 2400 50  0000 C CNN
+F 4 "FDN340P" H 3600 2400 60  0001 C CNN "Part Number"
+F 5 "Fairchild Semiconductor" H 3600 2400 60  0001 C CNN "Manufacturer"
+F 6 "SOT-23" H 3600 2400 60  0001 C CNN "Package"
+F 7 "Farnell" H 3600 2400 60  0001 C CNN "Supplier"
+F 8 "9846310" H 3600 2400 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 3600 2400 60  0001 C CNN "Alt. Supplier"
+F 10 "305030026" H 3600 2400 60  0001 C CNN "Alt. Order Code"
+F 11 "Single P-channel logic level PowerTrench MOSFET" H 3600 2400 60  0001 C CNN "Note"
+	1    3600 2400
+	1    0    0    1   
+$EndComp
+$Comp
+L +3V3 #PWR079
+U 1 1 570B98A2
+P 3700 1800
+F 0 "#PWR079" H 3700 1650 50  0001 C CNN
+F 1 "+3V3" H 3700 1940 50  0000 C CNN
+F 2 "" H 3700 1800 50  0000 C CNN
+F 3 "" H 3700 1800 50  0000 C CNN
+	1    3700 1800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 1800 3700 2200
+Wire Wire Line
+	3700 1900 3300 1900
+Wire Wire Line
+	3300 1900 3300 2000
+Connection ~ 3700 1900
+Wire Wire Line
+	3300 2300 3300 2400
+Wire Wire Line
+	3200 2400 3400 2400
+Connection ~ 3300 2400
+Wire Wire Line
+	2900 2400 1100 2400
+Text Label 1800 2400 0    60   ~ 0
+~SENS
+Text HLabel 1100 2400 0    60   Input ~ 0
+~SENS
+Text HLabel 1100 3400 0    60   Output ~ 0
+SENS0
+Text HLabel 1100 5300 0    60   Output ~ 0
+SENS1
+Text HLabel 5100 3400 0    60   Output ~ 0
+SENS2
+Text HLabel 5100 5300 0    60   Output ~ 0
+SENS3
+$Comp
+L MCP9700 U4
+U 1 1 570BA209
+P 9300 3600
+F 0 "U4" H 9350 4100 60  0000 L CNN
+F 1 "MCP9700" H 9350 4000 60  0000 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 9300 3600 60  0001 C CNN
+F 3 "" H 9300 3600 60  0000 C CNN
+F 4 "MCP9700AT-E/TT" H 9300 3600 60  0001 C CNN "Part Number"
+F 5 "Microchip" H 9300 3600 60  0001 C CNN "Manufacturer"
+F 6 "SOT-23" H 9300 3600 60  0001 C CNN "Package"
+F 7 "Farnell" H 9300 3600 60  0001 C CNN "Supplier"
+F 8 "1605577" H 9300 3600 60  0001 C CNN "Order Code"
+F 9 "Low-power linear active thermistor IC" H 9300 3600 60  0001 C CNN "Note"
+	1    9300 3600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 2800 9300 3000
+$Comp
+L R R24
+U 1 1 570BA211
+P 9300 2650
+F 0 "R24" V 9380 2650 50  0000 C CNN
+F 1 "220R" V 9300 2650 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 9230 2650 50  0001 C CNN
+F 3 "" H 9300 2650 50  0000 C CNN
+F 4 "RC0603JR-07220RL" H 9300 2650 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 9300 2650 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 9300 2650 60  0001 C CNN "Package"
+F 7 "Farnell" H 9300 2650 60  0001 C CNN "Supplier"
+F 8 "9233296 " H 9300 2650 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 9300 2650 60  0001 C CNN "Alt. Supplier"
+F 10 "301010163" H 9300 2650 60  0001 C CNN "Alt. Order Code"
+F 11 "220Ω/1% 0603 resistor" H 9300 2650 60  0001 C CNN "Note"
+	1    9300 2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 2500 9300 2400
+$Comp
+L +3V3 #PWR080
+U 1 1 570BA219
+P 9300 2400
+F 0 "#PWR080" H 9300 2250 50  0001 C CNN
+F 1 "+3V3" H 9300 2540 50  0000 C CNN
+F 2 "" H 9300 2400 50  0000 C CNN
+F 3 "" H 9300 2400 50  0000 C CNN
+	1    9300 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8800 2400 8800 3000
+Wire Wire Line
+	8800 2900 9300 2900
+Connection ~ 9300 2900
+Wire Wire Line
+	9900 3600 10500 3600
+Text Label 10000 3600 0    60   ~ 0
+TEMP
+Wire Wire Line
+	8800 3300 8800 4300
+Wire Wire Line
+	8800 4300 9300 4300
+Wire Wire Line
+	9300 4200 9300 4400
+Connection ~ 9300 4300
+$Comp
+L GND #PWR081
+U 1 1 570BA22F
+P 9300 4400
+F 0 "#PWR081" H 9300 4150 50  0001 C CNN
+F 1 "GND" H 9300 4250 50  0000 C CNN
+F 2 "" H 9300 4400 50  0000 C CNN
+F 3 "" H 9300 4400 50  0000 C CNN
+	1    9300 4400
+	1    0    0    -1  
+$EndComp
+Text HLabel 10500 3600 2    60   Output ~ 0
+TEMP
+$Comp
+L D_Schottky D17
+U 1 1 570BCAD4
+P 3050 2400
+F 0 "D17" H 3050 2500 50  0000 C CNN
+F 1 "1N5819" H 3050 2300 50  0000 C CNN
+F 2 "Diodes_SMD:SMA_Standard" H 3050 2400 50  0001 C CNN
+F 3 "" H 3050 2400 50  0000 C CNN
+F 4 "1N5819HW-7-F" H 3050 2400 60  0001 C CNN "Part Number"
+F 5 "Diodes" H 3050 2400 60  0001 C CNN "Manufacturer"
+F 6 "DO-214AC" H 3050 2400 60  0001 C CNN "Package"
+F 7 "Farnell" H 3050 2400 60  0001 C CNN "Supplier"
+F 8 "1773475" H 3050 2400 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 3050 2400 60  0001 C CNN "Alt. Supplier"
+F 10 "304020027" H 3050 2400 60  0001 C CNN "Alt. Order Code"
+F 11 "Schottky rectifier 40 V 1 A SOD-123" H 3050 2400 60  0001 C CNN "Note"
+	1    3050 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C15
+U 1 1 573D55F8
+P 2000 3650
+F 0 "C15" H 2025 3750 50  0000 L CNN
+F 1 "100n" H 2025 3550 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 2038 3500 50  0001 C CNN
+F 3 "" H 2000 3650 50  0000 C CNN
+F 4 "CC0603KRX7R9BB104" H 2000 3650 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 2000 3650 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 2000 3650 60  0001 C CNN "Package"
+F 7 "Farnell" H 2000 3650 60  0001 C CNN "Supplier"
+F 8 "1362556" H 2000 3650 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 2000 3650 60  0001 C CNN "Alt. Supplier"
+F 10 "302010138" H 2000 3650 60  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0603 ceramic capacitor" H 2000 3650 60  0001 C CNN "Note"
+	1    2000 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C16
+U 1 1 573D576C
+P 2000 5550
+F 0 "C16" H 2025 5650 50  0000 L CNN
+F 1 "100n" H 2025 5450 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 2038 5400 50  0001 C CNN
+F 3 "" H 2000 5550 50  0000 C CNN
+F 4 "CC0603KRX7R9BB104" H 2000 5550 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 2000 5550 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 2000 5550 60  0001 C CNN "Package"
+F 7 "Farnell" H 2000 5550 60  0001 C CNN "Supplier"
+F 8 "1362556" H 2000 5550 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 2000 5550 60  0001 C CNN "Alt. Supplier"
+F 10 "302010138" H 2000 5550 60  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0603 ceramic capacitor" H 2000 5550 60  0001 C CNN "Note"
+	1    2000 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R20
+U 1 1 573D5CC1
+P 1750 5300
+F 0 "R20" V 1830 5300 50  0000 C CNN
+F 1 "1k5" V 1750 5300 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 1680 5300 50  0001 C CNN
+F 3 "" H 1750 5300 50  0000 C CNN
+F 4 "RC0603JR-071K5L" H 1750 5300 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 1750 5300 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 1750 5300 60  0001 C CNN "Package"
+F 7 "Farnell" H 1750 5300 60  0001 C CNN "Supplier"
+F 8 "9233407" H 1750 5300 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 1750 5300 60  0001 C CNN "Alt. Supplier"
+F 10 "301010114" H 1750 5300 60  0001 C CNN "Alt. Order Code"
+F 11 "1.5kΩ/1% 0603 resistor" H 1750 5300 60  0001 C CNN "Note"
+	1    1750 5300
+	0    1    1    0   
+$EndComp
+$Comp
+L C C23
+U 1 1 5748FBC0
+P 8800 3150
+F 0 "C23" H 8825 3250 50  0000 L CNN
+F 1 "1u" H 8825 3050 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 8838 3000 50  0001 C CNN
+F 3 "" H 8800 3150 50  0000 C CNN
+F 4 "CC0603KRX7R8BB105" H 8800 3150 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 8800 3150 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 8800 3150 60  0001 C CNN "Package"
+F 7 "Farnell" H 8800 3150 60  0001 C CNN "Supplier"
+F 8 "2496835" H 8800 3150 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 8800 3150 60  0001 C CNN "Alt. Supplier"
+F 10 "302010139" H 8800 3150 60  0001 C CNN "Alt. Order Code"
+F 11 "1µF/25V X7R 0603 ceramic capacitor" H 8800 3150 60  0001 C CNN "Note"
+	1    8800 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST-PJ-312 P11
+U 1 1 576A862F
+P 3000 3550
+F 0 "P11" H 2750 3600 50  0000 L BNN
+F 1 "3pin 3.5mm jack" H 2750 3500 50  0000 L TNN
+F 2 "jakub:SUNTECH_ST-PJ-312" H 3000 3550 50  0001 L CNN
+F 3 "" H 3000 3550 60  0000 C CNN
+F 4 "ST-PJ-312" H 3000 3550 60  0001 C CNN "Part Number"
+F 5 "Suntech" H 3000 3550 60  0001 C CNN "Manufacturer"
+F 6 "SMD" H 3000 3550 60  0001 C CNN "Package"
+F 7 "Farnell" H 3000 3550 60  0001 C CNN "Supplier"
+F 8 "Open Parts Library" H 3000 3550 60  0001 C CNN "Alt. Supplier"
+F 9 "320040007" H 3000 3550 60  0001 C CNN "Alt. Order Code"
+F 10 "3.5mm audio jack with switch" H 3000 3550 60  0001 C CNN "Note"
+	1    3000 3550
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3700 2600 3700 5700
+NoConn ~ 3400 4000
+NoConn ~ 2600 3900
+NoConn ~ 3400 5900
+NoConn ~ 2600 5800
+Wire Wire Line
+	1900 5300 2600 5300
+Connection ~ 3700 3800
+Wire Wire Line
+	2600 3200 2500 3200
+Wire Wire Line
+	2500 3200 2500 6200
+Wire Wire Line
+	2500 5100 2600 5100
+Wire Wire Line
+	3400 3100 3500 3100
+Wire Wire Line
+	3500 3100 3500 6200
+Wire Wire Line
+	3500 5000 3400 5000
+Connection ~ 3500 5000
+Connection ~ 2500 5100
+$Comp
+L GND #PWR082
+U 1 1 576A9D12
+P 3500 6200
+F 0 "#PWR082" H 3500 5950 50  0001 C CNN
+F 1 "GND" H 3500 6050 50  0000 C CNN
+F 2 "" H 3500 6200 50  0000 C CNN
+F 3 "" H 3500 6200 50  0000 C CNN
+	1    3500 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR083
+U 1 1 576A9D53
+P 2500 6200
+F 0 "#PWR083" H 2500 5950 50  0001 C CNN
+F 1 "GND" H 2500 6050 50  0000 C CNN
+F 2 "" H 2500 6200 50  0000 C CNN
+F 3 "" H 2500 6200 50  0000 C CNN
+	1    2500 6200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5900 3400 6600 3400
+Wire Wire Line
+	6000 5300 6000 5400
+Connection ~ 6000 5300
+Wire Wire Line
+	6000 3500 6000 3400
+Connection ~ 6000 3400
+Wire Wire Line
+	6000 3800 6000 3900
+Wire Wire Line
+	6000 5800 6000 5700
+$Comp
+L GND #PWR084
+U 1 1 576A9F33
+P 6000 3900
+F 0 "#PWR084" H 6000 3650 50  0001 C CNN
+F 1 "GND" H 6000 3750 50  0000 C CNN
+F 2 "" H 6000 3900 50  0000 C CNN
+F 3 "" H 6000 3900 50  0000 C CNN
+	1    6000 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR085
+U 1 1 576A9F39
+P 6000 5800
+F 0 "#PWR085" H 6000 5550 50  0001 C CNN
+F 1 "GND" H 6000 5650 50  0000 C CNN
+F 2 "" H 6000 5800 50  0000 C CNN
+F 3 "" H 6000 5800 50  0000 C CNN
+	1    6000 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R22
+U 1 1 576A9F47
+P 5750 3400
+F 0 "R22" V 5830 3400 50  0000 C CNN
+F 1 "1k5" V 5750 3400 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 5680 3400 50  0001 C CNN
+F 3 "" H 5750 3400 50  0000 C CNN
+F 4 "RC0603JR-071K5L" H 5750 3400 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 5750 3400 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 5750 3400 60  0001 C CNN "Package"
+F 7 "Farnell" H 5750 3400 60  0001 C CNN "Supplier"
+F 8 "9233407" H 5750 3400 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 5750 3400 60  0001 C CNN "Alt. Supplier"
+F 10 "301010114" H 5750 3400 60  0001 C CNN "Alt. Order Code"
+F 11 "1.5kΩ/1% 0603 resistor" H 5750 3400 60  0001 C CNN "Note"
+	1    5750 3400
+	0    1    1    0   
+$EndComp
+$Comp
+L C C19
+U 1 1 576A9F55
+P 6000 3650
+F 0 "C19" H 6025 3750 50  0000 L CNN
+F 1 "100n" H 6025 3550 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 6038 3500 50  0001 C CNN
+F 3 "" H 6000 3650 50  0000 C CNN
+F 4 "CC0603KRX7R9BB104" H 6000 3650 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 6000 3650 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 6000 3650 60  0001 C CNN "Package"
+F 7 "Farnell" H 6000 3650 60  0001 C CNN "Supplier"
+F 8 "1362556" H 6000 3650 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 6000 3650 60  0001 C CNN "Alt. Supplier"
+F 10 "302010138" H 6000 3650 60  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0603 ceramic capacitor" H 6000 3650 60  0001 C CNN "Note"
+	1    6000 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C20
+U 1 1 576A9F63
+P 6000 5550
+F 0 "C20" H 6025 5650 50  0000 L CNN
+F 1 "100n" H 6025 5450 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 6038 5400 50  0001 C CNN
+F 3 "" H 6000 5550 50  0000 C CNN
+F 4 "CC0603KRX7R9BB104" H 6000 5550 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 6000 5550 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 6000 5550 60  0001 C CNN "Package"
+F 7 "Farnell" H 6000 5550 60  0001 C CNN "Supplier"
+F 8 "1362556" H 6000 5550 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 6000 5550 60  0001 C CNN "Alt. Supplier"
+F 10 "302010138" H 6000 5550 60  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0603 ceramic capacitor" H 6000 5550 60  0001 C CNN "Note"
+	1    6000 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R23
+U 1 1 576A9F71
+P 5750 5300
+F 0 "R23" V 5830 5300 50  0000 C CNN
+F 1 "1k5" V 5750 5300 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 5680 5300 50  0001 C CNN
+F 3 "" H 5750 5300 50  0000 C CNN
+F 4 "RC0603JR-071K5L" H 5750 5300 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 5750 5300 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 5750 5300 60  0001 C CNN "Package"
+F 7 "Farnell" H 5750 5300 60  0001 C CNN "Supplier"
+F 8 "9233407" H 5750 5300 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 5750 5300 60  0001 C CNN "Alt. Supplier"
+F 10 "301010114" H 5750 5300 60  0001 C CNN "Alt. Order Code"
+F 11 "1.5kΩ/1% 0603 resistor" H 5750 5300 60  0001 C CNN "Note"
+	1    5750 5300
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7700 2700 7700 5700
+NoConn ~ 7400 4000
+NoConn ~ 6600 3900
+NoConn ~ 7400 5900
+NoConn ~ 6600 5800
+Wire Wire Line
+	5900 5300 6600 5300
+Connection ~ 7700 3800
+Wire Wire Line
+	6600 3200 6500 3200
+Wire Wire Line
+	6500 3200 6500 6200
+Wire Wire Line
+	6500 5100 6600 5100
+Wire Wire Line
+	7400 3100 7500 3100
+Wire Wire Line
+	7500 3100 7500 6200
+Wire Wire Line
+	7500 5000 7400 5000
+Connection ~ 7500 5000
+Connection ~ 6500 5100
+$Comp
+L GND #PWR086
+U 1 1 576A9F94
+P 7500 6200
+F 0 "#PWR086" H 7500 5950 50  0001 C CNN
+F 1 "GND" H 7500 6050 50  0000 C CNN
+F 2 "" H 7500 6200 50  0000 C CNN
+F 3 "" H 7500 6200 50  0000 C CNN
+	1    7500 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR087
+U 1 1 576A9F9A
+P 6500 6200
+F 0 "#PWR087" H 6500 5950 50  0001 C CNN
+F 1 "GND" H 6500 6050 50  0000 C CNN
+F 2 "" H 6500 6200 50  0000 C CNN
+F 3 "" H 6500 6200 50  0000 C CNN
+	1    6500 6200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 2700 7700 2700
+Connection ~ 3700 2700
+$Comp
+L ST-PJ-312 P12
+U 1 1 576AA5E8
+P 3000 5450
+F 0 "P12" H 2750 5500 50  0000 L BNN
+F 1 "3pin 3.5mm jack" H 2750 5400 50  0000 L TNN
+F 2 "jakub:SUNTECH_ST-PJ-312" H 3000 5450 50  0001 L CNN
+F 3 "" H 3000 5450 60  0000 C CNN
+F 4 "ST-PJ-312" H 3000 5450 60  0001 C CNN "Part Number"
+F 5 "Suntech" H 3000 5450 60  0001 C CNN "Manufacturer"
+F 6 "SMD" H 3000 5450 60  0001 C CNN "Package"
+F 7 "Farnell" H 3000 5450 60  0001 C CNN "Supplier"
+F 8 "Open Parts Library" H 3000 5450 60  0001 C CNN "Alt. Supplier"
+F 9 "320040007" H 3000 5450 60  0001 C CNN "Alt. Order Code"
+F 10 "3.5mm audio jack with switch" H 3000 5450 60  0001 C CNN "Note"
+	1    3000 5450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST-PJ-312 P14
+U 1 1 576AA684
+P 7000 5450
+F 0 "P14" H 6750 5500 50  0000 L BNN
+F 1 "3pin 3.5mm jack" H 6750 5400 50  0000 L TNN
+F 2 "jakub:SUNTECH_ST-PJ-312" H 7000 5450 50  0001 L CNN
+F 3 "" H 7000 5450 60  0000 C CNN
+F 4 "ST-PJ-312" H 7000 5450 60  0001 C CNN "Part Number"
+F 5 "Suntech" H 7000 5450 60  0001 C CNN "Manufacturer"
+F 6 "SMD" H 7000 5450 60  0001 C CNN "Package"
+F 7 "Farnell" H 7000 5450 60  0001 C CNN "Supplier"
+F 8 "Open Parts Library" H 7000 5450 60  0001 C CNN "Alt. Supplier"
+F 9 "320040007" H 7000 5450 60  0001 C CNN "Alt. Order Code"
+F 10 "3.5mm audio jack with switch" H 7000 5450 60  0001 C CNN "Note"
+	1    7000 5450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ST-PJ-312 P13
+U 1 1 576AA729
+P 7000 3550
+F 0 "P13" H 6750 3600 50  0000 L BNN
+F 1 "3pin 3.5mm jack" H 6750 3500 50  0000 L TNN
+F 2 "jakub:SUNTECH_ST-PJ-312" H 7000 3550 50  0001 L CNN
+F 3 "" H 7000 3550 60  0000 C CNN
+F 4 "ST-PJ-312" H 7000 3550 60  0001 C CNN "Part Number"
+F 5 "Suntech" H 7000 3550 60  0001 C CNN "Manufacturer"
+F 6 "SMD" H 7000 3550 60  0001 C CNN "Package"
+F 7 "Farnell" H 7000 3550 60  0001 C CNN "Supplier"
+F 8 "Open Parts Library" H 7000 3550 60  0001 C CNN "Alt. Supplier"
+F 9 "320040007" H 7000 3550 60  0001 C CNN "Alt. Order Code"
+F 10 "3.5mm audio jack with switch" H 7000 3550 60  0001 C CNN "Note"
+	1    7000 3550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PWR_FLAG #FLG088
+U 1 1 576C4726
+P 8800 2400
+F 0 "#FLG088" H 8800 2495 50  0001 C CNN
+F 1 "PWR_FLAG" H 8800 2580 50  0000 C CNN
+F 2 "" H 8800 2400 50  0000 C CNN
+F 3 "" H 8800 2400 50  0000 C CNN
+	1    8800 2400
+	1    0    0    -1  
+$EndComp
+Connection ~ 8800 2900
+$Comp
+L R R21
+U 1 1 576C75A8
+P 3300 2150
+F 0 "R21" V 3380 2150 50  0000 C CNN
+F 1 "560k" V 3300 2150 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 3230 2150 50  0001 C CNN
+F 3 "" H 3300 2150 50  0000 C CNN
+F 4 "RC0603JR-07560KL" H 3300 2150 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 3300 2150 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 3300 2150 60  0001 C CNN "Package"
+F 7 "Farnell" H 3300 2150 60  0001 C CNN "Supplier"
+F 8 "9233717" H 3300 2150 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 3300 2150 60  0001 C CNN "Alt. Supplier"
+F 10 "301010230" H 3300 2150 60  0001 C CNN "Alt. Order Code"
+F 11 "560kΩ/5% 0603 resistor" H 3300 2150 60  0001 C CNN "Note"
+	1    3300 2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 4200 3900 4300
+$Comp
+L GND #PWR089
+U 1 1 576C76A8
+P 3900 4300
+F 0 "#PWR089" H 3900 4050 50  0001 C CNN
+F 1 "GND" H 3900 4150 50  0000 C CNN
+F 2 "" H 3900 4300 50  0000 C CNN
+F 3 "" H 3900 4300 50  0000 C CNN
+	1    3900 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C17
+U 1 1 576C76B6
+P 3900 4050
+F 0 "C17" H 3925 4150 50  0000 L CNN
+F 1 "100n" H 3925 3950 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 3938 3900 50  0001 C CNN
+F 3 "" H 3900 4050 50  0000 C CNN
+F 4 "CC0603KRX7R9BB104" H 3900 4050 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 3900 4050 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 3900 4050 60  0001 C CNN "Package"
+F 7 "Farnell" H 3900 4050 60  0001 C CNN "Supplier"
+F 8 "1362556" H 3900 4050 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 3900 4050 60  0001 C CNN "Alt. Supplier"
+F 10 "302010138" H 3900 4050 60  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0603 ceramic capacitor" H 3900 4050 60  0001 C CNN "Note"
+	1    3900 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 3800 3900 3800
+Wire Wire Line
+	3900 3800 3900 3900
+Wire Wire Line
+	3900 6100 3900 6200
+$Comp
+L GND #PWR090
+U 1 1 576C78A3
+P 3900 6200
+F 0 "#PWR090" H 3900 5950 50  0001 C CNN
+F 1 "GND" H 3900 6050 50  0000 C CNN
+F 2 "" H 3900 6200 50  0000 C CNN
+F 3 "" H 3900 6200 50  0000 C CNN
+	1    3900 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C18
+U 1 1 576C78B1
+P 3900 5950
+F 0 "C18" H 3925 6050 50  0000 L CNN
+F 1 "100n" H 3925 5850 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 3938 5800 50  0001 C CNN
+F 3 "" H 3900 5950 50  0000 C CNN
+F 4 "CC0603KRX7R9BB104" H 3900 5950 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 3900 5950 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 3900 5950 60  0001 C CNN "Package"
+F 7 "Farnell" H 3900 5950 60  0001 C CNN "Supplier"
+F 8 "1362556" H 3900 5950 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 3900 5950 60  0001 C CNN "Alt. Supplier"
+F 10 "302010138" H 3900 5950 60  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0603 ceramic capacitor" H 3900 5950 60  0001 C CNN "Note"
+	1    3900 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 5700 3900 5700
+Wire Wire Line
+	3900 5700 3900 5800
+Wire Wire Line
+	7900 6100 7900 6200
+$Comp
+L GND #PWR091
+U 1 1 576C7960
+P 7900 6200
+F 0 "#PWR091" H 7900 5950 50  0001 C CNN
+F 1 "GND" H 7900 6050 50  0000 C CNN
+F 2 "" H 7900 6200 50  0000 C CNN
+F 3 "" H 7900 6200 50  0000 C CNN
+	1    7900 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C22
+U 1 1 576C796E
+P 7900 5950
+F 0 "C22" H 7925 6050 50  0000 L CNN
+F 1 "100n" H 7925 5850 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 7938 5800 50  0001 C CNN
+F 3 "" H 7900 5950 50  0000 C CNN
+F 4 "CC0603KRX7R9BB104" H 7900 5950 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 7900 5950 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 7900 5950 60  0001 C CNN "Package"
+F 7 "Farnell" H 7900 5950 60  0001 C CNN "Supplier"
+F 8 "1362556" H 7900 5950 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 7900 5950 60  0001 C CNN "Alt. Supplier"
+F 10 "302010138" H 7900 5950 60  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0603 ceramic capacitor" H 7900 5950 60  0001 C CNN "Note"
+	1    7900 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7400 5700 7900 5700
+Wire Wire Line
+	7900 5700 7900 5800
+Wire Wire Line
+	7900 4200 7900 4300
+$Comp
+L GND #PWR092
+U 1 1 576C79F9
+P 7900 4300
+F 0 "#PWR092" H 7900 4050 50  0001 C CNN
+F 1 "GND" H 7900 4150 50  0000 C CNN
+F 2 "" H 7900 4300 50  0000 C CNN
+F 3 "" H 7900 4300 50  0000 C CNN
+	1    7900 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C21
+U 1 1 576C7A07
+P 7900 4050
+F 0 "C21" H 7925 4150 50  0000 L CNN
+F 1 "100n" H 7925 3950 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 7938 3900 50  0001 C CNN
+F 3 "" H 7900 4050 50  0000 C CNN
+F 4 "CC0603KRX7R9BB104" H 7900 4050 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 7900 4050 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 7900 4050 60  0001 C CNN "Package"
+F 7 "Farnell" H 7900 4050 60  0001 C CNN "Supplier"
+F 8 "1362556" H 7900 4050 60  0001 C CNN "Order Code"
+F 9 "Open Parts Library" H 7900 4050 60  0001 C CNN "Alt. Supplier"
+F 10 "302010138" H 7900 4050 60  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0603 ceramic capacitor" H 7900 4050 60  0001 C CNN "Note"
+	1    7900 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7400 3800 7900 3800
+Wire Wire Line
+	7900 3800 7900 3900
+Connection ~ 7700 5700
+Connection ~ 3700 5700
+Text Notes 750  1300 0    60   ~ 0
+SENSORS\nUp to four external sensors powered by 3.3V can be connected through 3.5mm audio jacks.\nThe power supply to the sensors is controlled by the Arduino to conserve power and minimize electrolytic damage to moisture sensors.\nThe idea is to probe the sensors only at pre-programmed intervals.\nThere is a temperature sensor on board to allow following the temperature. This might be particularly useful to turn-off watering or draining the pipes during frosts.
+Text Notes 3200 1550 0    60   ~ 0
+SENSOR POWER SWITCH
+Text Notes 4050 2100 0    60   ~ 0
+FOUR EXTERANAL SENSOR CONNECTORS
+Text Notes 8700 2100 0    60   ~ 0
+TEMPERATURE SENSOR
+$EndSCHEMATC

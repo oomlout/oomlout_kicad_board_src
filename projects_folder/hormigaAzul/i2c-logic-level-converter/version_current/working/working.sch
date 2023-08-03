@@ -1,0 +1,270 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L power:+5V #PWR01
+U 1 1 578E5D69
+P 2900 1650
+F 0 "#PWR01" H 2900 1500 50  0001 C CNN
+F 1 "+5V" H 2900 1790 50  0000 C CNN
+F 2 "" H 2900 1650 50  0000 C CNN
+F 3 "" H 2900 1650 50  0000 C CNN
+	1    2900 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 1950 2900 1950
+Wire Wire Line
+	5400 1950 5200 1950
+Wire Wire Line
+	2700 1650 2900 1650
+Wire Wire Line
+	2700 1850 3200 1850
+Wire Wire Line
+	2700 1750 3400 1750
+Wire Wire Line
+	4350 1750 4700 1750
+Wire Wire Line
+	3900 1850 4500 1850
+$Comp
+L power:+3.3V #PWR05
+U 1 1 578E6160
+P 4300 2050
+F 0 "#PWR05" H 4300 1900 50  0001 C CNN
+F 1 "+3.3V" H 4300 2190 50  0000 C CNN
+F 2 "" H 4300 2050 50  0000 C CNN
+F 3 "" H 4300 2050 50  0000 C CNN
+	1    4300 2050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4150 2050 4300 2050
+$Comp
+L power:+3.3V #PWR06
+U 1 1 578E6195
+P 3850 2150
+F 0 "#PWR06" H 3850 2000 50  0001 C CNN
+F 1 "+3.3V" H 3850 2290 50  0000 C CNN
+F 2 "" H 3850 2150 50  0000 C CNN
+F 3 "" H 3850 2150 50  0000 C CNN
+	1    3850 2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 2150 3850 2150
+Wire Wire Line
+	4500 1650 4500 1850
+Connection ~ 4500 1850
+Wire Wire Line
+	4700 1650 4700 1750
+Connection ~ 4700 1750
+Wire Wire Line
+	3200 1650 3200 1850
+Connection ~ 3200 1850
+Wire Wire Line
+	3400 1650 3400 1750
+Connection ~ 3400 1750
+$Comp
+L power:+3.3V #PWR07
+U 1 1 578E632A
+P 4700 1200
+F 0 "#PWR07" H 4700 1050 50  0001 C CNN
+F 1 "+3.3V" H 4700 1340 50  0000 C CNN
+F 2 "" H 4700 1200 50  0000 C CNN
+F 3 "" H 4700 1200 50  0000 C CNN
+	1    4700 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR08
+U 1 1 578E634D
+P 4500 1200
+F 0 "#PWR08" H 4500 1050 50  0001 C CNN
+F 1 "+3.3V" H 4500 1340 50  0000 C CNN
+F 2 "" H 4500 1200 50  0000 C CNN
+F 3 "" H 4500 1200 50  0000 C CNN
+	1    4500 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR09
+U 1 1 578E6370
+P 3200 1250
+F 0 "#PWR09" H 3200 1100 50  0001 C CNN
+F 1 "+5V" H 3200 1390 50  0000 C CNN
+F 2 "" H 3200 1250 50  0000 C CNN
+F 3 "" H 3200 1250 50  0000 C CNN
+	1    3200 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR010
+U 1 1 578E6393
+P 3400 1250
+F 0 "#PWR010" H 3400 1100 50  0001 C CNN
+F 1 "+5V" H 3400 1390 50  0000 C CNN
+F 2 "" H 3400 1250 50  0000 C CNN
+F 3 "" H 3400 1250 50  0000 C CNN
+	1    3400 1250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3200 1250 3200 1350
+Wire Wire Line
+	3400 1350 3400 1250
+Wire Wire Line
+	4500 1200 4500 1350
+Wire Wire Line
+	4700 1200 4700 1350
+Text Label 2750 1750 0    60   ~ 0
+SDA_5V
+Text Label 2750 1850 0    60   ~ 0
+SCL_5V
+Text Label 5000 1750 0    60   ~ 0
+SDA_3.3V
+Text Label 5000 1850 0    60   ~ 0
+SCL_3.3V
+Wire Wire Line
+	4500 1850 5400 1850
+Wire Wire Line
+	4700 1750 5400 1750
+Wire Wire Line
+	3200 1850 3500 1850
+Wire Wire Line
+	3400 1750 3950 1750
+$Comp
+L Transistor_FET:2N7000 Q1
+U 1 1 61809E19
+P 3700 1950
+F 0 "Q1" V 4042 1950 50  0000 C CNN
+F 1 "2N7000" V 3951 1950 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-92_Wide" H 3900 1875 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 3700 1950 50  0001 L CNN
+	1    3700 1950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Transistor_FET:2N7000 Q2
+U 1 1 6180BB1C
+P 4150 1850
+F 0 "Q2" V 4492 1850 50  0000 C CNN
+F 1 "2N7000" V 4401 1850 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-92_Wide" H 4350 1775 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 4150 1850 50  0001 L CNN
+	1    4150 1850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 6180C9B5
+P 3200 1500
+F 0 "R1" H 3050 1500 50  0000 L CNN
+F 1 "2K2" V 3200 1425 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3130 1500 50  0001 C CNN
+F 3 "~" H 3200 1500 50  0001 C CNN
+	1    3200 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 6180D653
+P 3400 1500
+F 0 "R2" H 3250 1500 50  0000 L CNN
+F 1 "2K2" V 3400 1425 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 3330 1500 50  0001 C CNN
+F 3 "~" H 3400 1500 50  0001 C CNN
+	1    3400 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 6180D855
+P 4500 1500
+F 0 "R3" H 4350 1500 50  0000 L CNN
+F 1 "2K2" V 4500 1425 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4430 1500 50  0001 C CNN
+F 3 "~" H 4500 1500 50  0001 C CNN
+	1    4500 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 6180DCCC
+P 4700 1500
+F 0 "R4" H 4550 1500 50  0000 L CNN
+F 1 "2K2" V 4700 1425 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4630 1500 50  0001 C CNN
+F 3 "~" H 4700 1500 50  0001 C CNN
+	1    4700 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 61809BFB
+P 2900 1950
+F 0 "#PWR0101" H 2900 1700 50  0001 C CNN
+F 1 "GND" H 2905 1777 50  0000 C CNN
+F 2 "" H 2900 1950 50  0001 C CNN
+F 3 "" H 2900 1950 50  0001 C CNN
+	1    2900 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 6180A511
+P 5200 1950
+F 0 "#PWR0102" H 5200 1700 50  0001 C CNN
+F 1 "GND" H 5205 1777 50  0000 C CNN
+F 2 "" H 5200 1950 50  0001 C CNN
+F 3 "" H 5200 1950 50  0001 C CNN
+	1    5200 1950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 1650 5250 1650
+$Comp
+L power:+3.3V #PWR0103
+U 1 1 6180ABEA
+P 5250 1650
+F 0 "#PWR0103" H 5250 1500 50  0001 C CNN
+F 1 "+3.3V" H 5265 1823 50  0000 C CNN
+F 2 "" H 5250 1650 50  0001 C CNN
+F 3 "" H 5250 1650 50  0001 C CNN
+	1    5250 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x04_Male J1
+U 1 1 6180C812
+P 2500 1750
+F 0 "J1" H 2608 2031 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 2608 1940 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 2500 1750 50  0001 C CNN
+F 3 "~" H 2500 1750 50  0001 C CNN
+	1    2500 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x04_Male J2
+U 1 1 6180E8E0
+P 5600 1750
+F 0 "J2" H 5708 2031 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 5708 1940 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 5600 1750 50  0001 C CNN
+F 3 "~" H 5600 1750 50  0001 C CNN
+	1    5600 1750
+	-1   0    0    -1  
+$EndComp
+$EndSCHEMATC

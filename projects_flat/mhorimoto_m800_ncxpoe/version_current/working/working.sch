@@ -1,0 +1,410 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 11774 8671
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Label 6250 5050 0    70   ~ 0
+PSEBUS[1..4]
+Wire Wire Line
+	5800 6400 6150 6400
+Text Label 5900 6400 0    10   ~ 0
+PSEBUS2
+Wire Wire Line
+	6600 3600 6350 3600
+Text Label 6350 3600 0    10   ~ 0
+PSEBUS2
+Wire Wire Line
+	5800 6500 6150 6500
+Text Label 5900 6500 0    10   ~ 0
+PSEBUS1
+Wire Wire Line
+	6600 3500 6350 3500
+Text Label 6350 3500 0    10   ~ 0
+PSEBUS1
+Wire Wire Line
+	5800 6300 6150 6300
+Text Label 5900 6300 0    10   ~ 0
+PSEBUS3
+Wire Wire Line
+	6600 3700 6350 3700
+Text Label 6350 3700 0    10   ~ 0
+PSEBUS3
+Wire Wire Line
+	5800 6000 6150 6000
+Text Label 5900 6000 0    10   ~ 0
+PSEBUS4
+Wire Wire Line
+	6600 4000 6350 4000
+Text Label 6350 4000 0    10   ~ 0
+PSEBUS4
+Wire Wire Line
+	6600 3900 6500 3900
+Wire Wire Line
+	6500 3900 6500 3800
+Wire Wire Line
+	6500 3800 6500 2800
+Wire Wire Line
+	6600 3800 6500 3800
+Wire Wire Line
+	5550 2800 5800 2800
+Wire Wire Line
+	5800 3200 5800 2800
+Connection ~ 6500 3800
+Connection ~ 5800 2800
+Wire Wire Line
+	3950 4100 4400 4100
+Wire Wire Line
+	5800 4100 6000 4100
+Wire Wire Line
+	6500 4100 6600 4100
+Wire Wire Line
+	6500 4100 6500 4200
+Wire Wire Line
+	6500 4200 6600 4200
+Wire Wire Line
+	5800 3500 5800 4100
+Connection ~ 6500 4100
+Connection ~ 5800 4100
+Entry Wire Line
+	6150 6400 6250 6500
+Entry Wire Line
+	6150 6500 6250 6600
+Entry Wire Line
+	6250 3600 6350 3700
+Entry Wire Line
+	6150 6300 6250 6400
+Entry Wire Line
+	6250 3600 6350 3700
+Entry Wire Line
+	6150 6000 6250 6100
+Entry Wire Line
+	6250 3900 6350 4000
+$Comp
+L Connector_Generic:Conn_01x02 CN12
+U 1 1 BABD3B2F
+P 3750 4000
+F 0 "CN12" H 3850 4000 51  0000 L BNN
+F 1 "02-XH-A" H 3590 4060 59  0001 L BNN
+F 2 "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" H 3750 4000 50  0001 C CNN
+F 3 "" H 3750 4000 50  0001 C CNN
+	1    3750 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 CN11
+U 1 1 A8B04D1A
+P 3550 1350
+F 0 "CN11" H 3590 1320 51  0000 L BNN
+F 1 "02-XH-A" H 3390 1410 59  0001 L BNN
+F 2 "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" H 3550 1350 50  0001 C CNN
+F 3 "" H 3550 1350 50  0001 C CNN
+	1    3550 1350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:Polyfuse F11
+U 1 1 6A689A17
+P 4650 2900
+F 0 "F11" V 4600 2800 59  0000 L BNN
+F 1 "LVR040" V 4800 2750 59  0000 L BNN
+F 2 "Fuse:Fuse_BelFuse_0ZRE0033FF_L11.4mm_W3.8mm" H 4650 2900 50  0001 C CNN
+F 3 "https://html.alldatasheet.jp/html-pdf/346655/MACOM/LVR040/149/1/LVR040.html" H 4650 2900 50  0001 C CNN
+	1    4650 2900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Varistor_US RV11
+U 1 1 371C5F19
+P 5800 3350
+F 0 "RV11" H 5550 3450 59  0000 L BNN
+F 1 "TNR10V471K" H 5200 3100 59  0000 L BNN
+F 2 "Varistor:RV_Disc_D12mm_W3.9mm_P7.5mm" H 5800 3350 50  0001 C CNN
+F 3 "" H 5800 3350 50  0001 C CNN
+	1    5800 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L 001-eagle-import:A4L-LOC #FRAME1
+U 1 1 73DA64CA
+P 900 7100
+F 0 "#FRAME1" H 900 7100 50  0001 C CNN
+F 1 "A4L-LOC" H 900 7100 50  0001 C CNN
+F 2 "" H 900 7100 50  0001 C CNN
+F 3 "" H 900 7100 50  0001 C CNN
+	1    900  7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Relay:G5LE-1 K11
+U 1 1 E90442EA
+P 5250 2700
+F 0 "K11" V 4800 3100 59  0000 R BNN
+F 1 "JQC-3FF" V 4900 3350 59  0000 R BNN
+F 2 "Relay_THT:Relay_SPDT_Omron-G5LE-1" H 5250 2700 50  0001 C CNN
+F 3 "" H 5250 2700 50  0001 C CNN
+	1    5250 2700
+	0    1    1    0   
+$EndComp
+Text Notes 6700 3300 0    59   ~ 0
+C-00159
+Text Notes 7500 6900 0    215  ~ 0
+Model-800\nNCxPoE
+$Comp
+L Connector:RJ45 J11
+U 1 1 5F2DC0A3
+P 7000 3800
+F 0 "J11" H 6670 3804 50  0000 R CNN
+F 1 "RJ45" H 6670 3895 50  0000 R CNN
+F 2 "HOLLY:RJ45_Neltron_7810-8P8C" V 7000 3825 50  0001 C CNN
+F 3 "~" V 7000 3825 50  0001 C CNN
+	1    7000 3800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:RJ45 J12
+U 1 1 5F2DD143
+P 5400 6200
+F 0 "J12" H 5457 6867 50  0000 C CNN
+F 1 "RJ45" H 5457 6776 50  0000 C CNN
+F 2 "HOLLY:RJ45_Neltron_7810-8P8C" V 5400 6225 50  0001 C CNN
+F 3 "~" V 5400 6225 50  0001 C CNN
+	1    5400 6200
+	1    0    0    -1  
+$EndComp
+Entry Wire Line
+	6250 3400 6350 3500
+Entry Wire Line
+	6250 3500 6350 3600
+$Comp
+L Device:R_US R11
+U 1 1 5F314B94
+P 5400 1350
+F 0 "R11" V 5350 1250 59  0000 L BNN
+F 1 "4.7k" V 5500 1250 59  0000 L BNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" H 5400 1350 50  0001 C CNN
+F 3 "" H 5400 1350 50  0001 C CNN
+	1    5400 1350
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:1N4007 D11
+U 1 1 5F3153B6
+P 4250 1350
+F 0 "D11" H 4150 1400 59  0000 L BNN
+F 1 "1N4007" H 4150 1200 59  0000 L BNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 4250 1350 50  0001 C CNN
+F 3 "" H 4250 1350 50  0001 C CNN
+	1    4250 1350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:CP C12
+U 1 1 5F316273
+P 5050 1500
+F 0 "C12" H 5000 1750 59  0000 L BNN
+F 1 "35V/2200uF" H 4900 1850 59  0000 L BNN
+F 2 "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" H 5050 1500 50  0001 C CNN
+F 3 "" H 5050 1500 50  0001 C CNN
+	1    5050 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 2900 4100 2900
+Wire Wire Line
+	4100 4000 3950 4000
+Wire Wire Line
+	4800 2900 4950 2900
+Wire Wire Line
+	5800 2800 6000 2800
+Wire Wire Line
+	5550 2500 5800 2500
+Wire Wire Line
+	5800 2600 6100 2600
+Wire Wire Line
+	7600 2600 7600 4550
+Wire Wire Line
+	7600 4550 6500 4550
+Wire Wire Line
+	6500 4550 6500 4200
+Connection ~ 6500 4200
+Wire Wire Line
+	6350 1550 6450 1550
+Wire Wire Line
+	6450 1550 6450 1950
+Wire Wire Line
+	6450 1950 4100 1950
+Wire Wire Line
+	4100 1950 4100 2900
+Wire Wire Line
+	4950 2500 4650 2500
+Wire Wire Line
+	4650 2100 6100 2100
+Wire Wire Line
+	6550 2100 6550 1350
+Wire Wire Line
+	6550 1350 6350 1350
+$Comp
+L Diode:1N4007 D12
+U 1 1 5F3EA239
+P 6100 2350
+F 0 "D12" V 6000 2400 59  0000 L BNN
+F 1 "1N4007" V 6100 2450 59  0000 L BNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 6100 2350 50  0001 C CNN
+F 3 "" H 6100 2350 50  0001 C CNN
+	1    6100 2350
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6100 2200 6100 2100
+Connection ~ 6100 2100
+Wire Wire Line
+	6100 2100 6550 2100
+Wire Wire Line
+	6100 2500 6100 2600
+Connection ~ 6100 2600
+Wire Wire Line
+	6100 2600 7600 2600
+Wire Wire Line
+	4650 2500 4650 2100
+Wire Wire Line
+	5800 2500 5800 2600
+$Comp
+L Relay_SolidState:TLP222A U11
+U 1 1 5F446CBD
+P 6050 1450
+F 0 "U11" H 6050 1775 50  0000 C CNN
+F 1 "TLP222A" H 6050 1684 50  0000 C CNN
+F 2 "Package_DIP:DIP-4_W7.62mm" H 5850 1250 50  0001 L CIN
+F 3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=17036&prodName=TLP222A" H 6050 1450 50  0001 L CNN
+	1    6050 1450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5750 1350 5550 1350
+Wire Wire Line
+	5250 1350 5050 1350
+Connection ~ 5050 1350
+Wire Wire Line
+	5050 1350 4650 1350
+$Comp
+L Device:CP C11
+U 1 1 5F65760B
+P 4650 1500
+F 0 "C11" H 4500 1750 59  0000 L BNN
+F 1 "35V/10uF" H 4400 1850 59  0000 L BNN
+F 2 "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" H 4650 1500 50  0001 C CNN
+F 3 "" H 4650 1500 50  0001 C CNN
+	1    4650 1500
+	1    0    0    -1  
+$EndComp
+Connection ~ 4650 1350
+Wire Wire Line
+	4650 1350 4400 1350
+Wire Wire Line
+	5750 1550 5200 1550
+Wire Wire Line
+	5200 1550 5200 1650
+Wire Wire Line
+	5200 1650 5050 1650
+Wire Wire Line
+	4100 1650 4100 1450
+Wire Wire Line
+	4100 1450 3750 1450
+Connection ~ 4650 1650
+Wire Wire Line
+	4650 1650 4100 1650
+Connection ~ 5050 1650
+Wire Wire Line
+	5050 1650 4650 1650
+Wire Wire Line
+	3750 1350 4100 1350
+NoConn ~ 5800 5800
+NoConn ~ 5800 5900
+NoConn ~ 5800 6100
+NoConn ~ 5800 6200
+NoConn ~ 5550 3000
+NoConn ~ 2150 -2900
+$Comp
+L Device:EMI_Filter_LCL FL11
+U 1 1 5EFFF09E
+P 4200 3450
+F 0 "FL11" V 4246 3630 50  0000 L CNN
+F 1 "0.1uF DDS1" V 4155 3630 50  0000 L CNN
+F 2 "HOLLY:DSS1" V 4200 3450 50  0001 C CNN
+F 3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb" V 4200 3450 50  0001 C CNN
+	1    4200 3450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4100 2900 4100 3150
+Connection ~ 4100 2900
+Wire Wire Line
+	4100 3750 4100 4000
+Wire Wire Line
+	4300 3450 4400 3450
+Wire Wire Line
+	4400 3450 4400 4100
+Connection ~ 4400 4100
+Wire Wire Line
+	4400 4100 5800 4100
+$Comp
+L Device:R_US R12
+U 1 1 5F072746
+P 6000 3100
+F 0 "R12" H 6068 3146 50  0000 L CNN
+F 1 "R_US" H 6068 3055 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6040 3090 50  0001 C CNN
+F 3 "~" H 6000 3100 50  0001 C CNN
+	1    6000 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D13
+U 1 1 5F07A34A
+P 6000 3650
+F 0 "D13" V 6150 3600 50  0000 R CNN
+F 1 "LED" V 6050 3600 50  0000 R CNN
+F 2 "LED_THT:LED_D3.0mm" H 6000 3650 50  0001 C CNN
+F 3 "~" H 6000 3650 50  0001 C CNN
+	1    6000 3650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6000 2950 6000 2800
+Connection ~ 6000 2800
+Wire Wire Line
+	6000 2800 6500 2800
+Wire Wire Line
+	6000 3250 6000 3500
+Wire Wire Line
+	6000 3800 6000 4100
+Connection ~ 6000 4100
+Wire Wire Line
+	6000 4100 6500 4100
+Text Notes 2650 5100 0    500  ~ 0
+PSE SIDE
+Text Notes 6900 3550 0    50   ~ 0
+TO PD
+Text Notes 3100 1500 0    50   ~ 0
+PSE CTRL
+Text Notes 3250 4150 0    50   ~ 0
+PSE POWER
+Text Label 7000 2600 0    50   ~ 0
+PSE_GND
+Text Label 6400 2800 0    50   ~ 0
+PSE_PWR
+Text Label 4800 4100 0    50   ~ 0
+PSE_GND
+Wire Bus Line
+	6250 3400 6250 6600
+$EndSCHEMATC

@@ -1,0 +1,412 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:ts925
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L TS925 U1
+U 1 1 574F16BD
+P 2950 1650
+F 0 "U1" H 3000 1850 60  0000 C CNN
+F 1 "TS925" H 3100 1450 50  0000 C CNN
+F 2 "Housings_SSOP:SSOP-16_4.4x5.2mm_Pitch0.65mm" H 2950 1650 60  0001 C CNN
+F 3 "" H 2950 1650 60  0000 C CNN
+	1    2950 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L TS925 U1
+U 2 1 574F174B
+P 2950 2850
+F 0 "U1" H 3000 3050 60  0000 C CNN
+F 1 "TS925" H 3100 2650 50  0000 C CNN
+F 2 "Housings_SSOP:SSOP-16_4.4x5.2mm_Pitch0.65mm" H 2950 2850 60  0001 C CNN
+F 3 "" H 2950 2850 60  0000 C CNN
+	2    2950 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L TS925 U1
+U 3 1 574F1772
+P 2950 4100
+F 0 "U1" H 3000 4300 60  0000 C CNN
+F 1 "TS925" H 3100 3900 50  0000 C CNN
+F 2 "Housings_SSOP:SSOP-16_4.4x5.2mm_Pitch0.65mm" H 2950 4100 60  0001 C CNN
+F 3 "" H 2950 4100 60  0000 C CNN
+	3    2950 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L TS925 U1
+U 4 1 574F17EC
+P 2950 5400
+F 0 "U1" H 3000 5600 60  0000 C CNN
+F 1 "TS925" H 3100 5200 50  0000 C CNN
+F 2 "Housings_SSOP:SSOP-16_4.4x5.2mm_Pitch0.65mm" H 2950 5400 60  0001 C CNN
+F 3 "" H 2950 5400 60  0000 C CNN
+	4    2950 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L TS925 U1
+U 5 1 574F1871
+P 2950 6550
+F 0 "U1" H 3000 6750 60  0000 C CNN
+F 1 "TS925" H 3100 6350 50  0000 C CNN
+F 2 "Housings_SSOP:SSOP-16_4.4x5.2mm_Pitch0.65mm" H 2950 6550 60  0001 C CNN
+F 3 "" H 2950 6550 60  0000 C CNN
+	5    2950 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR01
+U 1 1 574F1996
+P 2850 850
+F 0 "#PWR01" H 2850 700 50  0001 C CNN
+F 1 "VCC" H 2850 1000 50  0000 C CNN
+F 2 "" H 2850 850 50  0000 C CNN
+F 3 "" H 2850 850 50  0000 C CNN
+	1    2850 850 
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR02
+U 1 1 574F1A00
+P 4150 1350
+F 0 "#PWR02" H 4150 1100 50  0001 C CNN
+F 1 "GND" H 4150 1200 50  0000 C CNN
+F 2 "" H 4150 1350 50  0000 C CNN
+F 3 "" H 4150 1350 50  0000 C CNN
+	1    4150 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C5
+U 1 1 574F1AD7
+P 3900 1100
+F 0 "C5" H 3925 1200 50  0000 L CNN
+F 1 "100n" H 3950 1000 50  0000 L CNN
+F 2 "footprints:SMD0805-CAP-M" H 3938 950 50  0001 C CNN
+F 3 "" H 3900 1100 50  0000 C CNN
+	1    3900 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C6
+U 1 1 574F1B30
+P 4150 1100
+F 0 "C6" H 4175 1200 50  0000 L CNN
+F 1 "10u" H 4175 1000 50  0000 L CNN
+F 2 "footprints:SMD0805-CAP-M" H 4188 950 50  0001 C CNN
+F 3 "" H 4150 1100 50  0000 C CNN
+	1    4150 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR03
+U 1 1 574F1C35
+P 2850 2150
+F 0 "#PWR03" H 2850 1900 50  0001 C CNN
+F 1 "GND" H 2850 2000 50  0000 C CNN
+F 2 "" H 2850 2150 50  0000 C CNN
+F 3 "" H 2850 2150 50  0000 C CNN
+	1    2850 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR04
+U 1 1 574F1C9F
+P 3900 1350
+F 0 "#PWR04" H 3900 1100 50  0001 C CNN
+F 1 "GND" H 3900 1200 50  0000 C CNN
+F 2 "" H 3900 1350 50  0000 C CNN
+F 3 "" H 3900 1350 50  0000 C CNN
+	1    3900 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X08 P1
+U 1 1 574F1D11
+P 1250 1900
+F 0 "P1" H 1250 2350 50  0000 C CNN
+F 1 "CONN_01X08" V 1350 1900 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x08" H 1250 1900 50  0001 C CNN
+F 3 "" H 1250 1900 50  0000 C CNN
+	1    1250 1900
+	-1   0    0    -1  
+$EndComp
+Text Label 3650 1650 0    60   ~ 0
+1
+Text Label 2300 1750 0    60   ~ 0
+2
+Text Label 2300 1500 0    60   ~ 0
+3
+Wire Wire Line
+	2850 850  2850 1250
+Wire Wire Line
+	3900 1250 3900 1350
+Wire Wire Line
+	4150 900  4150 950 
+Wire Wire Line
+	2850 900  4150 900 
+Connection ~ 2850 900 
+Wire Wire Line
+	3900 950  3900 900 
+Connection ~ 3900 900 
+Wire Wire Line
+	2850 2050 2850 2150
+Wire Wire Line
+	4150 1250 4150 1350
+Wire Wire Line
+	3450 1650 3650 1650
+Wire Wire Line
+	2450 1550 2300 1550
+Wire Wire Line
+	2450 1750 2300 1750
+Wire Wire Line
+	3450 2850 3650 2850
+Wire Wire Line
+	2450 2750 2300 2750
+Wire Wire Line
+	2450 2950 2300 2950
+Text Label 2300 2750 0    60   ~ 0
+5
+Text Label 2300 2950 0    60   ~ 0
+6
+Text Label 3650 2850 0    60   ~ 0
+7
+Wire Wire Line
+	3450 4100 3650 4100
+Wire Wire Line
+	2450 4200 2250 4200
+Wire Wire Line
+	2450 4000 2250 4000
+Text Label 2250 4200 0    60   ~ 0
+11
+Text Label 2250 4000 0    60   ~ 0
+12
+Text Label 3650 4100 0    60   ~ 0
+10
+Wire Wire Line
+	3650 5400 3450 5400
+Wire Wire Line
+	2450 5300 2250 5300
+Wire Wire Line
+	2450 5500 2250 5500
+Text Label 3650 5400 0    60   ~ 0
+16
+Text Label 2250 5300 0    60   ~ 0
+14
+Text Label 2250 5500 0    60   ~ 0
+15
+Text Label 2950 900  0    60   ~ 0
+4
+Text Label 2900 2100 0    60   ~ 0
+13
+Wire Wire Line
+	2900 2100 2850 2100
+Connection ~ 2850 2100
+Wire Wire Line
+	1450 1550 1600 1550
+Wire Wire Line
+	1450 1650 1600 1650
+Wire Wire Line
+	1600 1750 1450 1750
+Wire Wire Line
+	1450 1950 1600 1950
+Wire Wire Line
+	1600 2050 1450 2050
+Wire Wire Line
+	1450 2150 1600 2150
+Wire Wire Line
+	1600 2250 1450 2250
+Text Label 1600 1550 0    60   ~ 0
+1
+Text Label 1600 1650 0    60   ~ 0
+2
+Text Label 1600 1750 0    60   ~ 0
+3
+Text Label 1600 2250 0    60   ~ 0
+8
+Text Label 1600 1950 0    60   ~ 0
+5
+Text Label 1600 2050 0    60   ~ 0
+6
+Text Label 1600 2150 0    60   ~ 0
+7
+Wire Wire Line
+	1450 1850 1600 1850
+Text Label 1600 1850 0    60   ~ 0
+4
+$Comp
+L CONN_01X08 P2
+U 1 1 574F26A5
+P 1250 3350
+F 0 "P2" H 1250 3800 50  0000 C CNN
+F 1 "CONN_01X08" V 1350 3350 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x08" H 1250 3350 50  0001 C CNN
+F 3 "" H 1250 3350 50  0000 C CNN
+	1    1250 3350
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 3000 1600 3000
+Wire Wire Line
+	1450 3100 1600 3100
+Wire Wire Line
+	1600 3200 1450 3200
+Wire Wire Line
+	1450 3400 1600 3400
+Wire Wire Line
+	1600 3500 1450 3500
+Wire Wire Line
+	1450 3600 1600 3600
+Wire Wire Line
+	1600 3700 1450 3700
+Text Label 1600 3000 0    60   ~ 0
+9
+Text Label 1600 3100 0    60   ~ 0
+10
+Text Label 1600 3200 0    60   ~ 0
+11
+Text Label 1600 3700 0    60   ~ 0
+16
+Text Label 1600 3400 0    60   ~ 0
+13
+Text Label 1600 3500 0    60   ~ 0
+14
+Text Label 1600 3600 0    60   ~ 0
+15
+Wire Wire Line
+	1450 3300 1600 3300
+Text Label 1600 3300 0    60   ~ 0
+12
+$Comp
+L C C2
+U 1 1 574F28F5
+P 3550 1850
+F 0 "C2" H 3575 1950 50  0000 L CNN
+F 1 "47p" H 3575 1750 50  0000 L CNN
+F 2 "footprints:SMD0805-CAP-M" H 3588 1700 50  0001 C CNN
+F 3 "" H 3550 1850 50  0000 C CNN
+	1    3550 1850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3550 1700 3550 1650
+Connection ~ 3550 1650
+Wire Wire Line
+	3550 2000 3550 2050
+Wire Wire Line
+	3550 2050 3300 2050
+Text Label 3300 2050 0    60   ~ 0
+2
+$Comp
+L C C3
+U 1 1 574F2A98
+P 3550 3050
+F 0 "C3" H 3575 3150 50  0000 L CNN
+F 1 "47p" H 3575 2950 50  0000 L CNN
+F 2 "footprints:SMD0805-CAP-M" H 3588 2900 50  0001 C CNN
+F 3 "" H 3550 3050 50  0000 C CNN
+	1    3550 3050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3550 2850 3550 2900
+Connection ~ 3550 2850
+Wire Wire Line
+	3550 3200 3550 3350
+Wire Wire Line
+	3550 3350 3300 3350
+Text Label 3300 3350 0    60   ~ 0
+6
+$Comp
+L C C4
+U 1 1 574F2BCB
+P 3550 4350
+F 0 "C4" H 3575 4450 50  0000 L CNN
+F 1 "47p" H 3575 4250 50  0000 L CNN
+F 2 "footprints:SMD0805-CAP-M" H 3588 4200 50  0001 C CNN
+F 3 "" H 3550 4350 50  0000 C CNN
+	1    3550 4350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3550 4100 3550 4200
+Connection ~ 3550 4100
+Wire Wire Line
+	3550 4500 3550 4650
+Wire Wire Line
+	3550 4650 3300 4650
+Text Label 3300 4650 0    60   ~ 0
+11
+$Comp
+L C C1
+U 1 1 574F2DC4
+P 3500 5600
+F 0 "C1" H 3525 5700 50  0000 L CNN
+F 1 "47p" H 3525 5500 50  0000 L CNN
+F 2 "footprints:SMD0805-CAP-M" H 3538 5450 50  0001 C CNN
+F 3 "" H 3500 5600 50  0000 C CNN
+	1    3500 5600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3500 5750 3500 5900
+Wire Wire Line
+	3500 5900 3250 5900
+Wire Wire Line
+	3500 5450 3500 5400
+Connection ~ 3500 5400
+Text Label 3250 5900 0    60   ~ 0
+15
+Wire Wire Line
+	3400 6550 3600 6550
+Wire Wire Line
+	2500 6550 2300 6550
+Text Label 2300 6550 0    60   ~ 0
+9
+Text Label 3600 6550 0    60   ~ 0
+8
+$EndSCHEMATC

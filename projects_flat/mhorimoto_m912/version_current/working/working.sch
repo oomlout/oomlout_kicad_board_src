@@ -1,0 +1,137 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "LED Display board for SOPi Front panel"
+Date "2021-03-30"
+Rev "1.00"
+Comp "HOLLY&Co.,Ltd."
+Comment1 "Design by M.Horimoto"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_01x04 J1
+U 1 1 6061EE6E
+P 4100 3400
+F 0 "J1" H 4018 2975 50  0000 C CNN
+F 1 "Conn_01x04" H 4018 3066 50  0000 C CNN
+F 2 "Connectors_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical" H 4100 3400 50  0001 C CNN
+F 3 "~" H 4100 3400 50  0001 C CNN
+	1    4100 3400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED D3
+U 1 1 60620FFA
+P 5800 4300
+F 0 "D3" V 5839 4182 50  0000 R CNN
+F 1 "LED" V 5748 4182 50  0000 R CNN
+F 2 "LED_THT:LED_D3.0mm" H 5800 4300 50  0001 C CNN
+F 3 "~" H 5800 4300 50  0001 C CNN
+	1    5800 4300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D2
+U 1 1 606249C3
+P 6400 4300
+F 0 "D2" V 6439 4182 50  0000 R CNN
+F 1 "LED" V 6348 4182 50  0000 R CNN
+F 2 "LED_THT:LED_D3.0mm" H 6400 4300 50  0001 C CNN
+F 3 "~" H 6400 4300 50  0001 C CNN
+	1    6400 4300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 60624E9E
+P 6950 4300
+F 0 "D1" V 6989 4182 50  0000 R CNN
+F 1 "LED" V 6898 4182 50  0000 R CNN
+F 2 "LED_THT:LED_D3.0mm" H 6950 4300 50  0001 C CNN
+F 3 "~" H 6950 4300 50  0001 C CNN
+	1    6950 4300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R3
+U 1 1 606257AB
+P 5800 3850
+F 0 "R3" H 5868 3896 50  0000 L CNN
+F 1 "1k" H 5868 3805 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 5840 3840 50  0001 C CNN
+F 3 "~" H 5800 3850 50  0001 C CNN
+	1    5800 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_US R2
+U 1 1 606262BB
+P 6400 3850
+F 0 "R2" H 6468 3896 50  0000 L CNN
+F 1 "1k" H 6468 3805 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 6440 3840 50  0001 C CNN
+F 3 "~" H 6400 3850 50  0001 C CNN
+	1    6400 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_US R1
+U 1 1 60626A53
+P 6950 3850
+F 0 "R1" H 7018 3896 50  0000 L CNN
+F 1 "1k" H 7018 3805 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 6990 3840 50  0001 C CNN
+F 3 "~" H 6950 3850 50  0001 C CNN
+	1    6950 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6950 4000 6950 4150
+Wire Wire Line
+	6400 4000 6400 4150
+Wire Wire Line
+	5800 4000 5800 4150
+Wire Wire Line
+	4300 3200 5800 3200
+Wire Wire Line
+	6950 3700 6950 3200
+Wire Wire Line
+	6400 3700 6400 3200
+Connection ~ 6400 3200
+Wire Wire Line
+	6400 3200 6950 3200
+Wire Wire Line
+	5800 3700 5800 3200
+Connection ~ 5800 3200
+Wire Wire Line
+	5800 3200 6400 3200
+Wire Wire Line
+	4300 3500 4400 3500
+Wire Wire Line
+	4400 3500 4400 4900
+Wire Wire Line
+	4400 4900 6950 4900
+Wire Wire Line
+	6950 4900 6950 4450
+Wire Wire Line
+	4300 3400 4500 3400
+Wire Wire Line
+	4500 3400 4500 4800
+Wire Wire Line
+	4500 4800 6400 4800
+Wire Wire Line
+	6400 4800 6400 4450
+Wire Wire Line
+	4300 3300 4600 3300
+Wire Wire Line
+	4600 3300 4600 4700
+Wire Wire Line
+	4600 4700 5800 4700
+Wire Wire Line
+	5800 4700 5800 4450
+$EndSCHEMATC

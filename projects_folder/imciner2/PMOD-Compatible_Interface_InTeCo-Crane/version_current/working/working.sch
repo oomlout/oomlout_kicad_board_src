@@ -1,0 +1,799 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:Amplifiers
+LIBS:Connectors
+LIBS:DataStorage
+LIBS:Diodes
+LIBS:LogicDevices
+LIBS:Microprocessors
+LIBS:MiscellaneousDevices
+LIBS:Passives
+LIBS:PMOD
+LIBS:PowerComponents
+LIBS:RepeaterParts
+LIBS:RF_OEM_Parts
+LIBS:Sensors
+LIBS:Snickerdoodle
+LIBS:TransistorParts
+LIBS:Crane_Interface-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L PMOD_DUAL J1
+U 1 1 5BB33620
+P 950 1300
+F 0 "J1" H 950 1700 60  0000 C CNN
+F 1 "PMOD_DUAL" H 950 900 60  0000 C CNN
+F 2 "Digilent:PMOD_DOUBLE_MALE" H 1100 1300 60  0001 C CNN
+F 3 "" H 1100 1300 60  0000 C CNN
+F 4 "61301221021" H 2500 1300 60  0001 C CNN "ManufacturerNumber"
+F 5 "732-5354-ND" H 2500 1300 60  0001 C CNN "DigikeyNumber"
+F 6 "Wurth Electronics Inc." H 2500 1300 60  0001 C CNN "ManufacturerName"
+	1    950  1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L PMOD_DUAL J1
+U 2 1 5BB33793
+P 2500 1300
+F 0 "J1" H 2500 1700 60  0000 C CNN
+F 1 "PMOD_DUAL" H 2500 900 60  0000 C CNN
+F 2 "Digilent:PMOD_DOUBLE_MALE" H 2650 1300 60  0001 C CNN
+F 3 "" H 2650 1300 60  0000 C CNN
+F 4 "61301221021" H 2500 1300 60  0001 C CNN "ManufacturerNumber"
+F 5 "732-5354-ND" H 2500 1300 60  0001 C CNN "DigikeyNumber"
+F 6 "Wurth Electronics Inc." H 2500 1300 60  0001 C CNN "ManufacturerName"
+	2    2500 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L PMOD_DUAL J1
+U 3 1 5BB337AC
+P 2500 2250
+F 0 "J1" H 2500 2650 60  0000 C CNN
+F 1 "PMOD_DUAL" H 2500 1850 60  0000 C CNN
+F 2 "Digilent:PMOD_DOUBLE_MALE" H 2650 2250 60  0001 C CNN
+F 3 "" H 2650 2250 60  0000 C CNN
+F 4 "61301221021" H 2500 1300 60  0001 C CNN "ManufacturerNumber"
+F 5 "732-5354-ND" H 2500 1300 60  0001 C CNN "DigikeyNumber"
+F 6 "Wurth Electronics Inc." H 2500 1300 60  0001 C CNN "ManufacturerName"
+	3    2500 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L PMOD_DUAL J2
+U 1 1 5BB3382B
+P 950 2300
+F 0 "J2" H 950 2700 60  0000 C CNN
+F 1 "PMOD_DUAL" H 950 1900 60  0000 C CNN
+F 2 "Digilent:PMOD_DOUBLE_MALE" H 1100 2300 60  0001 C CNN
+F 3 "" H 1100 2300 60  0000 C CNN
+F 4 "61301221021" H 2500 1300 60  0001 C CNN "ManufacturerNumber"
+F 5 "732-5354-ND" H 2500 1300 60  0001 C CNN "DigikeyNumber"
+F 6 "Wurth Electronics Inc." H 2500 1300 60  0001 C CNN "ManufacturerName"
+	1    950  2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L PMOD_DUAL J2
+U 2 1 5BB338B2
+P 3650 1300
+F 0 "J2" H 3650 1700 60  0000 C CNN
+F 1 "PMOD_DUAL" H 3650 900 60  0000 C CNN
+F 2 "Digilent:PMOD_DOUBLE_MALE" H 3800 1300 60  0001 C CNN
+F 3 "" H 3800 1300 60  0000 C CNN
+F 4 "61301221021" H 3650 1300 60  0001 C CNN "ManufacturerNumber"
+F 5 "732-5354-ND" H 3650 1300 60  0001 C CNN "DigikeyNumber"
+F 6 "Wurth Electronics Inc." H 3650 1300 60  0001 C CNN "ManufacturerName"
+	2    3650 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L PMOD_DUAL J2
+U 3 1 5BB338D3
+P 3650 2300
+F 0 "J2" H 3650 2700 60  0000 C CNN
+F 1 "PMOD_DUAL" H 3650 1900 60  0000 C CNN
+F 2 "Digilent:PMOD_DOUBLE_MALE" H 3800 2300 60  0001 C CNN
+F 3 "" H 3800 2300 60  0000 C CNN
+F 4 "61301221021" H 2500 1300 60  0001 C CNN "ManufacturerNumber"
+F 5 "732-5354-ND" H 2500 1300 60  0001 C CNN "DigikeyNumber"
+F 6 "Wurth Electronics Inc." H 2500 1300 60  0001 C CNN "ManufacturerName"
+	3    3650 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L PMOD_DUAL J3
+U 1 1 5BB3394E
+P 950 3300
+F 0 "J3" H 950 3700 60  0000 C CNN
+F 1 "PMOD_DUAL" H 950 2900 60  0000 C CNN
+F 2 "Digilent:PMOD_DOUBLE_MALE" H 1100 3300 60  0001 C CNN
+F 3 "" H 1100 3300 60  0000 C CNN
+F 4 "61301221021" H 2500 1300 60  0001 C CNN "ManufacturerNumber"
+F 5 "732-5354-ND" H 2500 1300 60  0001 C CNN "DigikeyNumber"
+F 6 "Wurth Electronics Inc." H 2500 1300 60  0001 C CNN "ManufacturerName"
+	1    950  3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L PMOD_DUAL J3
+U 2 1 5BB3399F
+P 4800 1300
+F 0 "J3" H 4800 1700 60  0000 C CNN
+F 1 "PMOD_DUAL" H 4800 900 60  0000 C CNN
+F 2 "Digilent:PMOD_DOUBLE_MALE" H 4950 1300 60  0001 C CNN
+F 3 "" H 4950 1300 60  0000 C CNN
+F 4 "61301221021" H 4800 1300 60  0001 C CNN "ManufacturerNumber"
+F 5 "732-5354-ND" H 4800 1300 60  0001 C CNN "DigikeyNumber"
+F 6 "Wurth Electronics Inc." H 4800 1300 60  0001 C CNN "ManufacturerName"
+	2    4800 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L PMOD_DUAL J3
+U 3 1 5BB339CA
+P 4800 2300
+F 0 "J3" H 4800 2700 60  0000 C CNN
+F 1 "PMOD_DUAL" H 4800 1900 60  0000 C CNN
+F 2 "Digilent:PMOD_DOUBLE_MALE" H 4950 2300 60  0001 C CNN
+F 3 "" H 4950 2300 60  0000 C CNN
+F 4 "61301221021" H 2500 1300 60  0001 C CNN "ManufacturerNumber"
+F 5 "732-5354-ND" H 2500 1300 60  0001 C CNN "DigikeyNumber"
+F 6 "Wurth Electronics Inc." H 2500 1300 60  0001 C CNN "ManufacturerName"
+	3    4800 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L PMOD_DUAL J4
+U 1 1 5BB33A37
+P 950 4250
+F 0 "J4" H 950 4650 60  0000 C CNN
+F 1 "PMOD_DUAL" H 950 3850 60  0000 C CNN
+F 2 "Digilent:PMOD_DOUBLE_MALE" H 1100 4250 60  0001 C CNN
+F 3 "" H 1100 4250 60  0000 C CNN
+F 4 "61301221021" H 2500 1300 60  0001 C CNN "ManufacturerNumber"
+F 5 "732-5354-ND" H 2500 1300 60  0001 C CNN "DigikeyNumber"
+F 6 "Wurth Electronics Inc." H 2500 1300 60  0001 C CNN "ManufacturerName"
+	1    950  4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L PMOD_DUAL J4
+U 2 1 5BB33A60
+P 5950 1300
+F 0 "J4" H 5950 1700 60  0000 C CNN
+F 1 "PMOD_DUAL" H 5950 900 60  0000 C CNN
+F 2 "Digilent:PMOD_DOUBLE_MALE" H 6100 1300 60  0001 C CNN
+F 3 "" H 6100 1300 60  0000 C CNN
+F 4 "61301221021" H 5950 1300 60  0001 C CNN "ManufacturerNumber"
+F 5 "732-5354-ND" H 5950 1300 60  0001 C CNN "DigikeyNumber"
+F 6 "Wurth Electronics Inc." H 5950 1300 60  0001 C CNN "ManufacturerName"
+	2    5950 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L PMOD_DUAL J4
+U 3 1 5BB33A9B
+P 5950 2300
+F 0 "J4" H 5950 2700 60  0000 C CNN
+F 1 "PMOD_DUAL" H 5950 1900 60  0000 C CNN
+F 2 "Digilent:PMOD_DOUBLE_MALE" H 6100 2300 60  0001 C CNN
+F 3 "" H 6100 2300 60  0000 C CNN
+F 4 "61301221021" H 2500 1300 60  0001 C CNN "ManufacturerNumber"
+F 5 "732-5354-ND" H 2500 1300 60  0001 C CNN "DigikeyNumber"
+F 6 "Wurth Electronics Inc." H 2500 1300 60  0001 C CNN "ManufacturerName"
+	3    5950 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_040 P1
+U 1 1 5BB3942A
+P 8100 1850
+F 0 "P1" H 8100 2600 60  0000 C CNN
+F 1 "CONN_040" H 8100 1050 60  0000 C CNN
+F 2 "Connectors:CONN_2.54mm_2x20" H 8100 1250 60  0001 C CNN
+F 3 "" H 8100 1250 60  0000 C CNN
+F 4 "SBH11-PBPC-D20-ST-BK" H 8100 1850 60  0001 C CNN "ManufacturerNumber"
+F 5 "S9175-ND" H 8100 1850 60  0001 C CNN "DigikeyNumber"
+F 6 "Sullins Connector Solutions" H 8100 1850 60  0001 C CNN "ManufacturerName"
+	1    8100 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_040 P1
+U 2 1 5BB394B5
+P 8100 3600
+F 0 "P1" H 8100 4350 60  0000 C CNN
+F 1 "CONN_040" H 8100 2800 60  0000 C CNN
+F 2 "Connectors:CONN_2.54mm_2x20" H 8100 3000 60  0001 C CNN
+F 3 "" H 8100 3000 60  0000 C CNN
+F 4 "SBH11-PBPC-D20-ST-BK" H 8100 1850 60  0001 C CNN "ManufacturerNumber"
+F 5 "S9175-ND" H 8100 1850 60  0001 C CNN "DigikeyNumber"
+F 6 "Sullins Connector Solutions" H 8100 1850 60  0001 C CNN "ManufacturerName"
+	2    8100 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_040 P1
+U 3 1 5BB39556
+P 9550 1900
+F 0 "P1" H 9550 2650 60  0000 C CNN
+F 1 "CONN_040" H 9550 1100 60  0000 C CNN
+F 2 "Connectors:CONN_2.54mm_2x20" H 9550 1300 60  0001 C CNN
+F 3 "" H 9550 1300 60  0000 C CNN
+F 4 "SBH11-PBPC-D20-ST-BK" H 8100 1850 60  0001 C CNN "ManufacturerNumber"
+F 5 "S9175-ND" H 8100 1850 60  0001 C CNN "DigikeyNumber"
+F 6 "Sullins Connector Solutions" H 8100 1850 60  0001 C CNN "ManufacturerName"
+	3    9550 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_040 P1
+U 4 1 5BB395E1
+P 9550 3650
+F 0 "P1" H 9550 4400 60  0000 C CNN
+F 1 "CONN_040" H 9550 2850 60  0000 C CNN
+F 2 "Connectors:CONN_2.54mm_2x20" H 9550 3050 60  0001 C CNN
+F 3 "" H 9550 3050 60  0000 C CNN
+F 4 "SBH11-PBPC-D20-ST-BK" H 8100 1850 60  0001 C CNN "ManufacturerNumber"
+F 5 "S9175-ND" H 8100 1850 60  0001 C CNN "DigikeyNumber"
+F 6 "Sullins Connector Solutions" H 8100 1850 60  0001 C CNN "ManufacturerName"
+	4    9550 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR01
+U 1 1 5BB3977C
+P 1300 4500
+F 0 "#PWR01" H 1300 4250 50  0001 C CNN
+F 1 "GND" H 1300 4350 50  0000 C CNN
+F 2 "" H 1300 4500 50  0000 C CNN
+F 3 "" H 1300 4500 50  0000 C CNN
+	1    1300 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR02
+U 1 1 5BB397E0
+P 1300 3550
+F 0 "#PWR02" H 1300 3300 50  0001 C CNN
+F 1 "GND" H 1300 3400 50  0000 C CNN
+F 2 "" H 1300 3550 50  0000 C CNN
+F 3 "" H 1300 3550 50  0000 C CNN
+	1    1300 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR03
+U 1 1 5BB39814
+P 1300 2550
+F 0 "#PWR03" H 1300 2300 50  0001 C CNN
+F 1 "GND" H 1300 2400 50  0000 C CNN
+F 2 "" H 1300 2550 50  0000 C CNN
+F 3 "" H 1300 2550 50  0000 C CNN
+	1    1300 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR04
+U 1 1 5BB39878
+P 1300 1550
+F 0 "#PWR04" H 1300 1300 50  0001 C CNN
+F 1 "GND" H 1300 1400 50  0000 C CNN
+F 2 "" H 1300 1550 50  0000 C CNN
+F 3 "" H 1300 1550 50  0000 C CNN
+	1    1300 1550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1200 4450 1300 4450
+Wire Wire Line
+	1300 4350 1300 4500
+Wire Wire Line
+	1200 4350 1300 4350
+Connection ~ 1300 4450
+Wire Wire Line
+	1200 1400 1300 1400
+Wire Wire Line
+	1300 1400 1300 1550
+Wire Wire Line
+	1200 1500 1300 1500
+Connection ~ 1300 1500
+Wire Wire Line
+	1200 2500 1300 2500
+Wire Wire Line
+	1300 2400 1300 2550
+Wire Wire Line
+	1200 2400 1300 2400
+Connection ~ 1300 2500
+Wire Wire Line
+	1200 3400 1300 3400
+Wire Wire Line
+	1300 3400 1300 3550
+Wire Wire Line
+	1200 3500 1300 3500
+Connection ~ 1300 3500
+Wire Wire Line
+	1300 4150 1200 4150
+Wire Wire Line
+	1300 4000 1300 4150
+Wire Wire Line
+	1200 4050 1300 4050
+Connection ~ 1300 4050
+$Comp
+L +3V3 #PWR05
+U 1 1 5BB3A0D1
+P 10450 4350
+F 0 "#PWR05" H 10450 4200 50  0001 C CNN
+F 1 "+3V3" H 10450 4490 50  0000 C CNN
+F 2 "" H 10450 4350 50  0000 C CNN
+F 3 "" H 10450 4350 50  0000 C CNN
+	1    10450 4350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10450 4350 9750 4350
+$Comp
+L GND #PWR06
+U 1 1 5BB3A1FF
+P 8400 2650
+F 0 "#PWR06" H 8400 2400 50  0001 C CNN
+F 1 "GND" H 8400 2500 50  0000 C CNN
+F 2 "" H 8400 2650 50  0000 C CNN
+F 3 "" H 8400 2650 50  0000 C CNN
+	1    8400 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR07
+U 1 1 5BB3A36C
+P 8400 4400
+F 0 "#PWR07" H 8400 4150 50  0001 C CNN
+F 1 "GND" H 8400 4250 50  0000 C CNN
+F 2 "" H 8400 4400 50  0000 C CNN
+F 3 "" H 8400 4400 50  0000 C CNN
+	1    8400 4400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8300 3100 8400 3100
+Wire Wire Line
+	8400 3100 8400 4400
+Wire Wire Line
+	8300 3400 8400 3400
+Connection ~ 8400 3400
+Wire Wire Line
+	8300 3700 8400 3700
+Connection ~ 8400 3700
+Wire Wire Line
+	8300 4000 8400 4000
+Connection ~ 8400 4000
+Wire Wire Line
+	8300 4300 8400 4300
+Connection ~ 8400 4300
+$Comp
+L +5V #PWR08
+U 1 1 5BB3A5DF
+P 10300 4200
+F 0 "#PWR08" H 10300 4050 50  0001 C CNN
+F 1 "+5V" H 10300 4340 50  0000 C CNN
+F 2 "" H 10300 4200 50  0000 C CNN
+F 3 "" H 10300 4200 50  0000 C CNN
+	1    10300 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9750 4200 10300 4200
+$Comp
+L GND #PWR09
+U 1 1 5BB3A66A
+P 9950 4450
+F 0 "#PWR09" H 9950 4200 50  0001 C CNN
+F 1 "GND" H 9950 4300 50  0000 C CNN
+F 2 "" H 9950 4450 50  0000 C CNN
+F 3 "" H 9950 4450 50  0000 C CNN
+	1    9950 4450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9950 3750 9950 4450
+Wire Wire Line
+	9950 4050 9750 4050
+Wire Wire Line
+	9750 3900 9950 3900
+Connection ~ 9950 4050
+Text Label 8450 1200 0    60   ~ 0
+X_ENC_A
+Text Label 8450 1500 0    60   ~ 0
+X_ENC_B
+Text Label 8450 1800 0    60   ~ 0
+Y_ENC_A
+Text Label 8450 2100 0    60   ~ 0
+Y_ENC_B
+Text Label 8450 2400 0    60   ~ 0
+AX_ENC_A
+Wire Wire Line
+	8450 2400 8300 2400
+Wire Wire Line
+	8450 2100 8300 2100
+Wire Wire Line
+	8300 1800 8450 1800
+Wire Wire Line
+	8450 1500 8300 1500
+Wire Wire Line
+	8300 1200 8450 1200
+Text Label 8450 2950 0    60   ~ 0
+AX_ENC_B
+Text Label 8450 3250 0    60   ~ 0
+AY_ENC_A
+Text Label 8450 3550 0    60   ~ 0
+AY_ENC_B
+Text Label 8450 3850 0    60   ~ 0
+Z_ENC_A_USB
+Text Label 8450 4150 0    60   ~ 0
+Z_ENC_B_USB
+Text Label 9900 1250 0    60   ~ 0
+Z_SWITCH
+Text Label 9900 1400 0    60   ~ 0
+X_SWITCH
+Text Label 9900 1550 0    60   ~ 0
+Y_SWITCH
+Text Label 9900 1700 0    60   ~ 0
+Z_THERM
+Text Label 9900 1850 0    60   ~ 0
+Z_PWM
+Text Label 9900 2000 0    60   ~ 0
+Z_BRAKE
+Text Label 9900 2150 0    60   ~ 0
+Z_DIR
+Text Label 9900 2300 0    60   ~ 0
+Y_THERM
+Text Label 9900 2450 0    60   ~ 0
+Y_PWM
+Text Label 9900 2600 0    60   ~ 0
+Y_BRAKE
+Text Label 9900 3000 0    60   ~ 0
+Y_DIR
+Text Label 9900 3150 0    60   ~ 0
+X_THERM
+Text Label 9900 3300 0    60   ~ 0
+X_PWM
+Text Label 9900 3450 0    60   ~ 0
+X_BRAKE
+Text Label 9900 3600 0    60   ~ 0
+X_DIR
+Wire Wire Line
+	8450 2950 8300 2950
+Wire Wire Line
+	8300 3250 8450 3250
+Wire Wire Line
+	8450 3550 8300 3550
+Wire Wire Line
+	8300 3850 8450 3850
+Wire Wire Line
+	8300 4150 8450 4150
+Wire Wire Line
+	9750 1250 9900 1250
+Wire Wire Line
+	9900 1400 9750 1400
+Wire Wire Line
+	9750 1550 9900 1550
+Wire Wire Line
+	9900 1700 9750 1700
+Wire Wire Line
+	9750 1850 9900 1850
+Wire Wire Line
+	9750 2000 9900 2000
+Wire Wire Line
+	9900 2150 9750 2150
+Wire Wire Line
+	9750 2300 9900 2300
+Wire Wire Line
+	9900 2450 9750 2450
+Wire Wire Line
+	9750 2600 9900 2600
+Wire Wire Line
+	9900 3000 9750 3000
+Wire Wire Line
+	9750 3150 9900 3150
+Wire Wire Line
+	9900 3300 9750 3300
+Wire Wire Line
+	9750 3450 9900 3450
+Wire Wire Line
+	9900 3600 9750 3600
+Wire Wire Line
+	9750 3750 9950 3750
+Text Notes 8750 800  0    60   ~ 0
+Crane Connector
+Text Notes 800  650  0    60   ~ 0
+PMOD Power
+Wire Notes Line
+	7400 500  7400 4700
+Wire Notes Line
+	7400 4700 11200 4700
+Wire Notes Line
+	1600 500  1600 6050
+Wire Notes Line
+	1600 4800 500  4800
+Text Notes 2350 700  0    60   ~ 0
+PMOD 1
+Text Notes 3500 700  0    60   ~ 0
+PMOD 2
+Text Notes 4650 700  0    60   ~ 0
+PMOD 3
+Text Notes 5800 700  0    60   ~ 0
+PMOD 4
+$Comp
+L VCC #PWR010
+U 1 1 5BB4C510
+P 1300 4000
+F 0 "#PWR010" H 1300 3850 50  0001 C CNN
+F 1 "VCC" H 1300 4150 50  0000 C CNN
+F 2 "" H 1300 4000 50  0000 C CNN
+F 3 "" H 1300 4000 50  0000 C CNN
+	1    1300 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_003 P2
+U 1 1 5BB4C9D8
+P 850 5650
+F 0 "P2" H 850 5900 60  0000 C CNN
+F 1 "CONN_003" H 850 5400 60  0000 C CNN
+F 2 "Connectors:CONN_2.54mm_1x03" H 850 5650 60  0001 C CNN
+F 3 "" H 850 5650 60  0000 C CNN
+F 4 "61300311121" H 850 5650 60  0001 C CNN "ManufacturerNumber"
+F 5 "732-5316-ND" H 850 5650 60  0001 C CNN "DigikeyNumber"
+F 6 "Wurth Electronics" H 850 5650 60  0001 C CNN "ManufacturerName"
+	1    850  5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR014
+U 1 1 5BB4CA57
+P 1300 5600
+F 0 "#PWR014" H 1300 5450 50  0001 C CNN
+F 1 "VCC" H 1300 5750 50  0000 C CNN
+F 2 "" H 1300 5600 50  0000 C CNN
+F 3 "" H 1300 5600 50  0000 C CNN
+	1    1300 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3V3 #PWR015
+U 1 1 5BB4CA8D
+P 1150 5450
+F 0 "#PWR015" H 1150 5300 50  0001 C CNN
+F 1 "+3V3" H 1150 5590 50  0000 C CNN
+F 2 "" H 1150 5450 50  0000 C CNN
+F 3 "" H 1150 5450 50  0000 C CNN
+	1    1150 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR016
+U 1 1 5BB4CAC3
+P 1450 5750
+F 0 "#PWR016" H 1450 5600 50  0001 C CNN
+F 1 "+5V" H 1450 5890 50  0000 C CNN
+F 2 "" H 1450 5750 50  0000 C CNN
+F 3 "" H 1450 5750 50  0000 C CNN
+	1    1450 5750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1150 5450 1150 5500
+Wire Wire Line
+	1150 5500 1050 5500
+Wire Wire Line
+	1050 5650 1300 5650
+Wire Wire Line
+	1300 5650 1300 5600
+Wire Wire Line
+	1450 5750 1450 5800
+Wire Wire Line
+	1450 5800 1050 5800
+Text Notes 750  5100 0    60   ~ 0
+Voltage Selector
+Wire Notes Line
+	1600 6050 500  6050
+Text Label 8450 1350 0    60   ~ 0
+Z_ENC_A_PCI
+Text Label 8450 1650 0    60   ~ 0
+Z_ENC_B_PCI
+Wire Wire Line
+	8300 1350 8450 1350
+Wire Wire Line
+	8450 1650 8300 1650
+Wire Wire Line
+	8300 1950 8400 1950
+Wire Wire Line
+	8400 1950 8400 2650
+Wire Wire Line
+	8300 2250 8400 2250
+Connection ~ 8400 2250
+Wire Wire Line
+	8300 2550 8400 2550
+Connection ~ 8400 2550
+Connection ~ 9950 3900
+Text Label 2800 5200 0    60   ~ 0
+Z_ENC_A_PCI
+Text Label 2800 5800 0    60   ~ 0
+Z_ENC_A_USB
+Text Label 2800 5500 0    60   ~ 0
+Z_ENC_A
+Text Label 2800 5050 0    60   ~ 0
+Z_ENC_B_PCI
+Text Label 2800 5350 0    60   ~ 0
+Z_ENC_B
+Text Label 2800 5650 0    60   ~ 0
+Z_ENC_B_USB
+Text Label 6300 2250 0    60   ~ 0
+X_ENC_A
+Text Label 6300 2150 0    60   ~ 0
+X_ENC_B
+Text Label 5150 2250 0    60   ~ 0
+Y_ENC_A
+Text Label 5150 2150 0    60   ~ 0
+Y_ENC_B
+Text Label 2850 1150 0    60   ~ 0
+AX_ENC_A
+Text Label 2850 1250 0    60   ~ 0
+AX_ENC_B
+Text Label 2850 1350 0    60   ~ 0
+AY_ENC_A
+Text Label 2850 1450 0    60   ~ 0
+AY_ENC_B
+$Comp
+L CONN_006 P3
+U 1 1 5BB50392
+P 2500 5400
+F 0 "P3" H 2500 5850 60  0000 C CNN
+F 1 "CONN_006" H 2500 4900 60  0000 C CNN
+F 2 "Connectors:CONN_2.54mm_2x03" H 2500 5450 60  0001 C CNN
+F 3 "" H 2500 5450 60  0000 C CNN
+F 4 "67997-206HLF" H 2500 5400 60  0001 C CNN "ManufacturerNumber"
+F 5 "609-3234-ND" H 2500 5400 60  0001 C CNN "DigikeyNumber"
+F 6 "Amphenol FCI" H 2500 5400 60  0001 C CNN "ManufacturerName"
+	1    2500 5400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2800 5050 2700 5050
+Wire Wire Line
+	2700 5200 2800 5200
+Wire Wire Line
+	2800 5350 2700 5350
+Wire Wire Line
+	2700 5500 2800 5500
+Wire Wire Line
+	2800 5650 2700 5650
+Wire Wire Line
+	2700 5800 2800 5800
+Text Label 6300 2350 0    60   ~ 0
+X_SWITCH
+Text Label 6300 1150 0    60   ~ 0
+X_THERM
+Text Label 6300 1250 0    60   ~ 0
+X_PWM
+Text Label 6300 1450 0    60   ~ 0
+X_DIR
+Text Label 6300 1350 0    60   ~ 0
+X_BRAKE
+Text Label 5150 2350 0    60   ~ 0
+Y_SWITCH
+Text Label 5150 1150 0    60   ~ 0
+Y_THERM
+Text Label 5150 1250 0    60   ~ 0
+Y_PWM
+Text Label 5150 1450 0    60   ~ 0
+Y_DIR
+Text Label 5150 1350 0    60   ~ 0
+Y_BRAKE
+Text Label 4000 1250 0    60   ~ 0
+Z_PWM
+Text Label 4000 1450 0    60   ~ 0
+Z_DIR
+Text Label 4000 1350 0    60   ~ 0
+Z_BRAKE
+Text Label 4000 1150 0    60   ~ 0
+Z_THERM
+Text Label 4000 2250 0    60   ~ 0
+Z_ENC_A
+Text Label 4000 2150 0    60   ~ 0
+Z_ENC_B
+Text Label 4000 2350 0    60   ~ 0
+Z_SWITCH
+Wire Wire Line
+	2750 1150 2850 1150
+Wire Wire Line
+	2850 1250 2750 1250
+Wire Wire Line
+	2750 1350 2850 1350
+Wire Wire Line
+	2850 1450 2750 1450
+Wire Wire Line
+	4000 1150 3900 1150
+Wire Wire Line
+	3900 1250 4000 1250
+Wire Wire Line
+	4000 1350 3900 1350
+Wire Wire Line
+	3900 1450 4000 1450
+Wire Wire Line
+	4000 2150 3900 2150
+Wire Wire Line
+	3900 2250 4000 2250
+Wire Wire Line
+	4000 2350 3900 2350
+Wire Wire Line
+	5150 2350 5050 2350
+Wire Wire Line
+	5050 2250 5150 2250
+Wire Wire Line
+	5150 2150 5050 2150
+Wire Wire Line
+	5050 1450 5150 1450
+Wire Wire Line
+	5150 1350 5050 1350
+Wire Wire Line
+	5050 1250 5150 1250
+Wire Wire Line
+	5150 1150 5050 1150
+Wire Wire Line
+	6300 1150 6200 1150
+Wire Wire Line
+	6200 1250 6300 1250
+Wire Wire Line
+	6300 1350 6200 1350
+Wire Wire Line
+	6200 1450 6300 1450
+Wire Wire Line
+	6300 2150 6200 2150
+Wire Wire Line
+	6200 2250 6300 2250
+Wire Wire Line
+	6300 2350 6200 2350
+$EndSCHEMATC

@@ -1,0 +1,411 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L eurocad:EURO_PWR_2x8 H1
+U 1 1 600D54BE
+P 5250 2950
+F 0 "H1" H 5250 3547 60  0000 C CNN
+F 1 "EURO_PWR_2x8" H 5250 3441 60  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical" H 5350 3100 60  0001 C CNN
+F 3 "" H 5350 3100 60  0000 C CNN
+	1    5250 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Miasma_IO_smd-cache:Thonk J1
+U 1 1 600DFD0F
+P 5100 4450
+F 0 "J1" H 5108 4797 60  0000 C CNN
+F 1 "Thonk" H 5108 4691 60  0000 C CNN
+F 2 "chillpizza:THONKICONN_mill" H 5100 4450 60  0001 C CNN
+F 3 "" H 5100 4450 60  0000 C CNN
+	1    5100 4450
+	1    0    0    -1  
+$EndComp
+NoConn ~ 5400 4450
+$Comp
+L power:GND #PWR0101
+U 1 1 600E106D
+P 5600 4100
+F 0 "#PWR0101" H 5600 3850 50  0001 C CNN
+F 1 "GND" H 5605 3927 50  0000 C CNN
+F 2 "" H 5600 4100 50  0001 C CNN
+F 3 "" H 5600 4100 50  0001 C CNN
+	1    5600 4100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 600E2135
+P 5600 4400
+F 0 "R1" H 5670 4446 50  0000 L CNN
+F 1 "10k" H 5670 4355 50  0000 L CNN
+F 2 "Resistors_Universal:Resistor_SMD+THTuniversal_0805to1206_RM10_HandSoldering" V 5530 4400 50  0001 C CNN
+F 3 "~" H 5600 4400 50  0001 C CNN
+	1    5600 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 600E2D9A
+P 7150 4400
+F 0 "R2" H 7220 4446 50  0000 L CNN
+F 1 "1k" H 7220 4355 50  0000 L CNN
+F 2 "Resistors_Universal:Resistor_SMD+THTuniversal_0805to1206_RM10_HandSoldering" V 7080 4400 50  0001 C CNN
+F 3 "~" H 7150 4400 50  0001 C CNN
+	1    7150 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPDT SW2
+U 1 1 600E321E
+P 7150 3900
+F 0 "SW2" V 7196 3712 50  0000 R CNN
+F 1 "SW_SPDT" V 7105 3712 50  0000 R CNN
+F 2 "digikey-footprints:Toggle_Switch_100SP1T1B4M2QE" H 7150 3900 50  0001 C CNN
+F 3 "~" H 7150 3900 50  0001 C CNN
+	1    7150 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 600E5E5A
+P 4600 3100
+F 0 "#PWR0102" H 4600 2850 50  0001 C CNN
+F 1 "GND" V 4605 2972 50  0000 R CNN
+F 2 "" H 4600 3100 50  0001 C CNN
+F 3 "" H 4600 3100 50  0001 C CNN
+	1    4600 3100
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 600E5F95
+P 5900 3100
+F 0 "#PWR0103" H 5900 2850 50  0001 C CNN
+F 1 "GND" V 5905 2972 50  0000 R CNN
+F 2 "" H 5900 3100 50  0001 C CNN
+F 3 "" H 5900 3100 50  0001 C CNN
+	1    5900 3100
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 5600 2600
+NoConn ~ 5600 2700
+NoConn ~ 4900 2700
+NoConn ~ 4900 2600
+NoConn ~ 5600 3300
+NoConn ~ 4900 3300
+Wire Wire Line
+	5600 3100 5750 3100
+Wire Wire Line
+	5600 3000 5750 3000
+Wire Wire Line
+	5750 3000 5750 3100
+Connection ~ 5750 3100
+Wire Wire Line
+	5750 3100 5900 3100
+Wire Wire Line
+	5600 3200 5750 3200
+Wire Wire Line
+	5750 3200 5750 3100
+Wire Wire Line
+	4900 3100 4750 3100
+Wire Wire Line
+	4900 3000 4750 3000
+Wire Wire Line
+	4750 3000 4750 3100
+Connection ~ 4750 3100
+Wire Wire Line
+	4750 3100 4600 3100
+Wire Wire Line
+	4900 3200 4750 3200
+Wire Wire Line
+	4750 3200 4750 3100
+Wire Wire Line
+	7150 4100 7150 4250
+Wire Wire Line
+	5600 4100 5600 4200
+Wire Wire Line
+	5600 4200 5400 4200
+Wire Wire Line
+	5400 4200 5400 4350
+Connection ~ 5600 4200
+Wire Wire Line
+	5600 4200 5600 4250
+Wire Wire Line
+	5400 4550 5600 4550
+Connection ~ 5600 4550
+$Comp
+L power:+5V #PWR0104
+U 1 1 600EAF34
+P 5900 2700
+F 0 "#PWR0104" H 5900 2550 50  0001 C CNN
+F 1 "+5V" V 5915 2828 50  0000 L CNN
+F 2 "" H 5900 2700 50  0001 C CNN
+F 3 "" H 5900 2700 50  0001 C CNN
+	1    5900 2700
+	0    1    1    0   
+$EndComp
+$Comp
+L Miasma_IO_smd-cache:+12V #PWR0105
+U 1 1 600EB0EE
+P 5900 2900
+F 0 "#PWR0105" H 5900 2750 50  0001 C CNN
+F 1 "+12V" V 5915 3028 50  0000 L CNN
+F 2 "" H 5900 2900 50  0000 C CNN
+F 3 "" H 5900 2900 50  0000 C CNN
+	1    5900 2900
+	0    1    1    0   
+$EndComp
+$Comp
+L Miasma_IO_smd-cache:+12V #PWR0106
+U 1 1 600ECF12
+P 4600 2900
+F 0 "#PWR0106" H 4600 2750 50  0001 C CNN
+F 1 "+12V" V 4615 3028 50  0000 L CNN
+F 2 "" H 4600 2900 50  0000 C CNN
+F 3 "" H 4600 2900 50  0000 C CNN
+	1    4600 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR0107
+U 1 1 600ED106
+P 4600 2700
+F 0 "#PWR0107" H 4600 2550 50  0001 C CNN
+F 1 "+5V" V 4615 2828 50  0000 L CNN
+F 2 "" H 4600 2700 50  0001 C CNN
+F 3 "" H 4600 2700 50  0001 C CNN
+	1    4600 2700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5600 2900 5900 2900
+Wire Wire Line
+	5600 2800 5750 2800
+Wire Wire Line
+	5750 2800 5750 2700
+Wire Wire Line
+	5750 2700 5900 2700
+Wire Wire Line
+	4900 2900 4600 2900
+Wire Wire Line
+	4900 2800 4750 2800
+Wire Wire Line
+	4750 2800 4750 2700
+Wire Wire Line
+	4750 2700 4600 2700
+$Comp
+L power:+5V #PWR0108
+U 1 1 600EE340
+P 7050 3500
+F 0 "#PWR0108" H 7050 3350 50  0001 C CNN
+F 1 "+5V" H 7065 3673 50  0000 C CNN
+F 2 "" H 7050 3500 50  0001 C CNN
+F 3 "" H 7050 3500 50  0001 C CNN
+	1    7050 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Miasma_IO_smd-cache:+12V #PWR0109
+U 1 1 600EE4F7
+P 7250 3500
+F 0 "#PWR0109" H 7250 3350 50  0001 C CNN
+F 1 "+12V" H 7265 3673 50  0000 C CNN
+F 2 "" H 7250 3500 50  0000 C CNN
+F 3 "" H 7250 3500 50  0000 C CNN
+	1    7250 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7050 3700 7050 3500
+Wire Wire Line
+	7250 3700 7250 3500
+$Comp
+L eurocad:EURO_PWR_2x8 H_SMD1
+U 1 1 600F40C0
+P 5250 1650
+F 0 "H_SMD1" H 5250 2247 60  0000 C CNN
+F 1 "EURO_PWR_2x8" H 5250 2141 60  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical_SMD" H 5350 1800 60  0001 C CNN
+F 3 "" H 5350 1800 60  0000 C CNN
+	1    5250 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0110
+U 1 1 600F40C6
+P 4600 1800
+F 0 "#PWR0110" H 4600 1550 50  0001 C CNN
+F 1 "GND" V 4605 1672 50  0000 R CNN
+F 2 "" H 4600 1800 50  0001 C CNN
+F 3 "" H 4600 1800 50  0001 C CNN
+	1    4600 1800
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0111
+U 1 1 600F40CC
+P 5900 1800
+F 0 "#PWR0111" H 5900 1550 50  0001 C CNN
+F 1 "GND" V 5905 1672 50  0000 R CNN
+F 2 "" H 5900 1800 50  0001 C CNN
+F 3 "" H 5900 1800 50  0001 C CNN
+	1    5900 1800
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 5600 1300
+NoConn ~ 5600 1400
+NoConn ~ 4900 1400
+NoConn ~ 4900 1300
+NoConn ~ 5600 2000
+NoConn ~ 4900 2000
+Wire Wire Line
+	5600 1800 5750 1800
+Wire Wire Line
+	5600 1700 5750 1700
+Wire Wire Line
+	5750 1700 5750 1800
+Connection ~ 5750 1800
+Wire Wire Line
+	5750 1800 5900 1800
+Wire Wire Line
+	5600 1900 5750 1900
+Wire Wire Line
+	5750 1900 5750 1800
+Wire Wire Line
+	4900 1800 4750 1800
+Wire Wire Line
+	4900 1700 4750 1700
+Wire Wire Line
+	4750 1700 4750 1800
+Connection ~ 4750 1800
+Wire Wire Line
+	4750 1800 4600 1800
+Wire Wire Line
+	4900 1900 4750 1900
+Wire Wire Line
+	4750 1900 4750 1800
+$Comp
+L power:+5V #PWR0112
+U 1 1 600F40E6
+P 5900 1400
+F 0 "#PWR0112" H 5900 1250 50  0001 C CNN
+F 1 "+5V" V 5915 1528 50  0000 L CNN
+F 2 "" H 5900 1400 50  0001 C CNN
+F 3 "" H 5900 1400 50  0001 C CNN
+	1    5900 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L Miasma_IO_smd-cache:+12V #PWR0113
+U 1 1 600F40EC
+P 5900 1600
+F 0 "#PWR0113" H 5900 1450 50  0001 C CNN
+F 1 "+12V" V 5915 1728 50  0000 L CNN
+F 2 "" H 5900 1600 50  0000 C CNN
+F 3 "" H 5900 1600 50  0000 C CNN
+	1    5900 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L Miasma_IO_smd-cache:+12V #PWR0114
+U 1 1 600F40F2
+P 4600 1600
+F 0 "#PWR0114" H 4600 1450 50  0001 C CNN
+F 1 "+12V" V 4615 1728 50  0000 L CNN
+F 2 "" H 4600 1600 50  0000 C CNN
+F 3 "" H 4600 1600 50  0000 C CNN
+	1    4600 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR0115
+U 1 1 600F40F8
+P 4600 1400
+F 0 "#PWR0115" H 4600 1250 50  0001 C CNN
+F 1 "+5V" V 4615 1528 50  0000 L CNN
+F 2 "" H 4600 1400 50  0001 C CNN
+F 3 "" H 4600 1400 50  0001 C CNN
+	1    4600 1400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5600 1600 5900 1600
+Wire Wire Line
+	5600 1500 5750 1500
+Wire Wire Line
+	5750 1500 5750 1400
+Wire Wire Line
+	5750 1400 5900 1400
+Wire Wire Line
+	4900 1600 4600 1600
+Wire Wire Line
+	4900 1500 4750 1500
+Wire Wire Line
+	4750 1500 4750 1400
+Wire Wire Line
+	4750 1400 4600 1400
+$Comp
+L dk_Pushbutton-Switches:KS-01Q-01_Obsolete SW1
+U 1 1 60112E82
+P 6400 4650
+F 0 "SW1" H 6400 4975 50  0000 C CNN
+F 1 "KS-01Q-01_Obsolete" H 6400 4884 50  0000 C CNN
+F 2 "digikey-footprints:PushButton_Round_D12mm_THT_KS-01Q-01" H 6600 4850 50  0001 L CNN
+F 3 "http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf" H 6600 4950 60  0001 L CNN
+F 4 "EG4791-ND" H 6600 5050 60  0001 L CNN "Digi-Key_PN"
+F 5 "KS-01Q-01" H 6600 5150 60  0001 L CNN "MPN"
+F 6 "Switches" H 6600 5250 60  0001 L CNN "Category"
+F 7 "Pushbutton Switches" H 6600 5350 60  0001 L CNN "Family"
+F 8 "http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf" H 6600 5450 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/e-switch/KS-01Q-01/EG4791-ND/2116270" H 6600 5550 60  0001 L CNN "DK_Detail_Page"
+F 10 "SWITCH PUSH SPST-NO 0.01A 35V" H 6600 5650 60  0001 L CNN "Description"
+F 11 "E-Switch" H 6600 5750 60  0001 L CNN "Manufacturer"
+F 12 "Obsolete NonStock" H 6600 5850 60  0001 L CNN "Status"
+	1    6400 4650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 4550 6700 4550
+Wire Wire Line
+	5600 4550 6100 4550
+Wire Wire Line
+	6200 4750 6100 4750
+Wire Wire Line
+	6100 4750 6100 4550
+Connection ~ 6100 4550
+Wire Wire Line
+	6100 4550 6200 4550
+Wire Wire Line
+	6600 4750 6700 4750
+Wire Wire Line
+	6700 4750 6700 4550
+Connection ~ 6700 4550
+Wire Wire Line
+	6700 4550 7150 4550
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 60126F53
+P 6300 7550
+F 0 "H2" H 6400 7596 50  0000 L CNN
+F 1 "MountingHole" H 6400 7505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 6300 7550 50  0001 C CNN
+F 3 "~" H 6300 7550 50  0001 C CNN
+	1    6300 7550
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

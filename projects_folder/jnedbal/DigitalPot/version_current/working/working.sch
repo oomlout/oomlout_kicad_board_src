@@ -1,0 +1,312 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Label 5100 1600 0    50   ~ 0
+~CS
+Text Label 5100 1700 0    50   ~ 0
+SCK
+Text Label 5100 1800 0    50   ~ 0
+SDI
+$Comp
+L Potentiometer_Digital:MCP41100 U1
+U 1 1 5D31FA69
+P 5500 3100
+F 0 "U1" H 5700 2500 50  0000 L CNN
+F 1 "MCP4161-104" H 5700 2400 50  0000 L CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 5500 3100 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/11195c.pdf" H 5500 3100 50  0001 C CNN
+F 4 "MCP4161-104E/SN" H 5500 3100 50  0001 C CNN "Part Number"
+F 5 "Microchip" H 5500 3100 50  0001 C CNN "Manufacturer"
+F 6 "SO-8" H 5500 3100 50  0001 C CNN "Package"
+F 7 "Mouser" H 5500 3100 50  0001 C CNN "Supplier"
+F 8 "579-MCP4161-104E/SN" H 5500 3100 50  0001 C CNN "Order Code"
+F 9 "8-bit single SPI digital POT with non-volatile memory" H 5500 3100 50  0001 C CNN "Note"
+	1    5500 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5750 2450 6000 2450
+Wire Wire Line
+	6000 2450 6000 2550
+Wire Wire Line
+	6000 2850 6000 3600
+Wire Wire Line
+	6000 3600 5600 3600
+Wire Wire Line
+	5600 3600 5500 3500
+Wire Wire Line
+	5750 2450 5500 2700
+Wire Wire Line
+	5500 3500 5500 3700
+Connection ~ 5500 3500
+Wire Wire Line
+	5500 2700 5500 2500
+Connection ~ 5500 2700
+$Comp
+L power:GND #PWR0103
+U 1 1 5D322174
+P 5500 3700
+F 0 "#PWR0103" H 5500 3450 50  0001 C CNN
+F 1 "GND" H 5505 3527 50  0000 C CNN
+F 2 "" H 5500 3700 50  0001 C CNN
+F 3 "" H 5500 3700 50  0001 C CNN
+	1    5500 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0104
+U 1 1 5D3225E5
+P 5500 2500
+F 0 "#PWR0104" H 5500 2350 50  0001 C CNN
+F 1 "+5V" H 5515 2673 50  0000 C CNN
+F 2 "" H 5500 2500 50  0001 C CNN
+F 3 "" H 5500 2500 50  0001 C CNN
+	1    5500 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 1800 5000 3100
+Wire Wire Line
+	5000 3100 5100 3100
+Wire Wire Line
+	5100 3000 4900 3000
+Wire Wire Line
+	4900 3000 4900 1700
+Wire Wire Line
+	4800 1600 4800 3200
+Wire Wire Line
+	4800 3200 5100 3200
+$Comp
+L Connector:Conn_01x03_Female J3
+U 1 1 5D323834
+P 7200 3100
+F 0 "J3" H 7050 3450 50  0000 L CNN
+F 1 "3-Way Pin Header" H 7050 3350 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 7200 3100 50  0001 C CNN
+F 3 "~" H 7200 3100 50  0001 C CNN
+F 4 "3-way 2.54mm pitch pin header" H 7200 3100 50  0001 C CNN "Note"
+F 5 "2211S-03G" H 7200 3100 50  0001 C CNN "Part Number"
+F 6 "Multicomp" H 7200 3100 50  0001 C CNN "Manufacturer"
+F 7 "2.54mm pitch" H 7200 3100 50  0001 C CNN "Package"
+F 8 "Farnell" H 7200 3100 50  0001 C CNN "Supplier"
+F 9 "1593411" H 7200 3100 50  0001 C CNN "Order Code"
+	1    7200 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5900 3000 7000 3000
+Wire Wire Line
+	7000 3100 5900 3100
+Wire Wire Line
+	5900 3200 7000 3200
+$Comp
+L Device:C C1
+U 1 1 5D324C2D
+P 4400 2750
+F 0 "C1" H 4515 2796 50  0000 L CNN
+F 1 "4u7" H 4515 2705 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4438 2600 50  0001 C CNN
+F 3 "~" H 4400 2750 50  0001 C CNN
+F 4 "EMK107ABJ475KA-T" H 4400 2750 50  0001 C CNN "Part Number"
+F 5 "Tayo Yuden" H 4400 2750 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 4400 2750 50  0001 C CNN "Package"
+F 7 "Farnell" H 4400 2750 50  0001 C CNN "Supplier"
+F 8 "2112741" H 4400 2750 50  0001 C CNN "Order Code"
+F 9 "4.7μF/16V 0603 X5R capacitor" H 4400 2750 50  0001 C CNN "Note"
+	1    4400 2750
+	1    0    0    -1  
+$EndComp
+Text Label 6650 3000 0    50   ~ 0
+PA
+Text Label 6650 3100 0    50   ~ 0
+PW
+Text Label 6650 3200 0    50   ~ 0
+PB
+$Comp
+L Connector:Conn_01x02_Female J1
+U 1 1 5D327A1D
+P 3700 2500
+F 0 "J1" H 3700 3000 50  0000 R CNN
+F 1 "2-Way Pin Header" H 3700 2900 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3700 2500 50  0001 C CNN
+F 3 "~" H 3700 2500 50  0001 C CNN
+F 4 "2-way 2.54mm pitch pin header" H 3700 2500 50  0001 C CNN "Note"
+F 5 "2211S-02G" H 3700 2500 50  0001 C CNN "Part Number"
+F 6 "Multicomp" H 3700 2500 50  0001 C CNN "Manufacturer"
+F 7 "2.54mm pitch" H 3700 2500 50  0001 C CNN "Package"
+F 8 "Farnell" H 3700 2500 50  0001 C CNN "Supplier"
+F 9 "1593412" H 3700 2500 50  0001 C CNN "Order Code"
+	1    3700 2500
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 2500 4000 2500
+Wire Wire Line
+	3900 2600 4000 2600
+Wire Wire Line
+	4000 2600 4000 3000
+Wire Wire Line
+	4000 3000 4400 3000
+Wire Wire Line
+	4400 2600 4400 2500
+Wire Wire Line
+	4400 2900 4400 3000
+$Comp
+L power:+5V #PWR0105
+U 1 1 5D32A2DD
+P 4400 2400
+F 0 "#PWR0105" H 4400 2250 50  0001 C CNN
+F 1 "+5V" H 4415 2573 50  0000 C CNN
+F 2 "" H 4400 2400 50  0001 C CNN
+F 3 "" H 4400 2400 50  0001 C CNN
+	1    4400 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4400 2400 4400 2500
+Connection ~ 4400 2500
+$Comp
+L power:GND #PWR0106
+U 1 1 5D32AC40
+P 4400 3100
+F 0 "#PWR0106" H 4400 2850 50  0001 C CNN
+F 1 "GND" H 4405 2927 50  0000 C CNN
+F 2 "" H 4400 3100 50  0001 C CNN
+F 3 "" H 4400 3100 50  0001 C CNN
+	1    4400 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4400 3100 4400 3000
+Connection ~ 4400 3000
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5D32B85E
+P 4000 2400
+F 0 "#FLG0101" H 4000 2475 50  0001 C CNN
+F 1 "PWR_FLAG" H 4000 2573 50  0000 C CNN
+F 2 "" H 4000 2400 50  0001 C CNN
+F 3 "~" H 4000 2400 50  0001 C CNN
+	1    4000 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 5D32BC2B
+P 4000 3100
+F 0 "#FLG0102" H 4000 3175 50  0001 C CNN
+F 1 "PWR_FLAG" H 4000 3273 50  0000 C CNN
+F 2 "" H 4000 3100 50  0001 C CNN
+F 3 "~" H 4000 3100 50  0001 C CNN
+	1    4000 3100
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4000 3100 4000 3000
+Connection ~ 4000 3000
+Wire Wire Line
+	4000 2400 4000 2500
+Connection ~ 4000 2500
+Wire Wire Line
+	4000 2500 4400 2500
+$Comp
+L Device:C C2
+U 1 1 5D322140
+P 6000 2700
+F 0 "C2" H 6115 2746 50  0000 L CNN
+F 1 "100n" H 6115 2655 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 6038 2550 50  0001 C CNN
+F 3 "~" H 6000 2700 50  0001 C CNN
+F 4 "MC0603B104K500" H 6000 2700 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 6000 2700 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 6000 2700 50  0001 C CNN "Package"
+F 7 "Farnell" H 6000 2700 50  0001 C CNN "Supplier"
+F 8 "1759122" H 6000 2700 50  0001 C CNN "Order Code"
+F 9 "OPL Seeed" H 6000 2700 50  0001 C CNN "Alt. Supplier"
+F 10 "302010138" H 6000 2700 50  0001 C CNN "Alt. Order Code"
+F 11 "100nF/50V X7R 0603 ceramic capacitor" H 6000 2700 50  0001 C CNN "Note"
+	1    6000 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5D32DB55
+P 6000 2050
+F 0 "H1" H 6100 2096 50  0000 L CNN
+F 1 "2.2mm" H 6100 2005 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 6000 2050 50  0001 C CNN
+F 3 "~" H 6000 2050 50  0001 C CNN
+	1    6000 2050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 1600 7000 1600
+Wire Wire Line
+	4900 1700 7000 1700
+$Comp
+L power:GND #PWR0102
+U 1 1 5D31F4FE
+P 6900 2000
+F 0 "#PWR0102" H 6900 1750 50  0001 C CNN
+F 1 "GND" H 6905 1827 50  0000 C CNN
+F 2 "" H 6900 2000 50  0001 C CNN
+F 3 "" H 6900 2000 50  0001 C CNN
+	1    6900 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 1900 6900 2000
+Wire Wire Line
+	7000 1900 6900 1900
+$Comp
+L power:+5V #PWR0101
+U 1 1 5D31EEE2
+P 6900 1400
+F 0 "#PWR0101" H 6900 1250 50  0001 C CNN
+F 1 "+5V" H 6915 1573 50  0000 C CNN
+F 2 "" H 6900 1400 50  0001 C CNN
+F 3 "" H 6900 1400 50  0001 C CNN
+	1    6900 1400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 1500 6900 1400
+Wire Wire Line
+	7000 1500 6900 1500
+Wire Wire Line
+	7000 1800 5000 1800
+$Comp
+L Connector:Conn_01x05_Female J2
+U 1 1 5D31C509
+P 7200 1700
+F 0 "J2" H 7050 2150 50  0000 L CNN
+F 1 "5-Way Pin Header" H 7050 2050 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 7200 1700 50  0001 C CNN
+F 3 "~" H 7200 1700 50  0001 C CNN
+F 4 "Multicomp" H 7200 1700 50  0001 C CNN "Part Number"
+F 5 "2.54mm pitch" H 7200 1700 50  0001 C CNN "Package"
+F 6 "Multicomp" H 7200 1700 50  0001 C CNN "Supplier"
+F 7 "1593414" H 7200 1700 50  0001 C CNN "Order Code"
+F 8 "5-way 2.54mm pitch pin header" H 7200 1700 50  0001 C CNN "Note"
+	1    7200 1700
+	1    0    0    -1  
+$EndComp
+Text Notes 7300 1800 0    79   ~ 0
+EXTERNAL\nOPTO-ISOLATOR
+Text Notes 7300 3200 0    79   ~ 0
+HV POWER\nSUPPLY
+Text Notes 3600 2650 2    79   ~ 0
+INTERNAL\n5V SUPPLY
+$EndSCHEMATC

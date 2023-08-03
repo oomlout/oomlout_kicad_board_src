@@ -1,0 +1,182 @@
+EESchema Schematic File Version 2  date Sat 11 May 2013 12:46:48 BST
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:rgbled
+LIBS:rgbled-cache
+EELAYER 25  0
+EELAYER END
+$Descr A4 11700 8267
+encoding utf-8
+Sheet 1 1
+Title ""
+Date "11 may 2013"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	4800 4700 4400 4700
+Connection ~ 7400 4200
+Wire Wire Line
+	5800 4200 7400 4200
+Wire Wire Line
+	4500 3500 4400 3500
+Wire Wire Line
+	4400 3500 4400 4200
+Wire Wire Line
+	4500 3300 4400 3300
+Wire Wire Line
+	4400 3300 4400 3100
+Wire Wire Line
+	4400 3100 3400 3100
+Wire Wire Line
+	3500 3800 3500 4000
+Wire Wire Line
+	3500 4000 4000 4000
+Wire Wire Line
+	4000 4000 4000 3700
+Wire Wire Line
+	4000 3700 4500 3700
+Wire Wire Line
+	4000 3600 4500 3600
+Wire Wire Line
+	7400 3400 7400 3300
+Wire Wire Line
+	7400 3300 7200 3300
+Wire Wire Line
+	7200 3800 7400 3800
+Wire Wire Line
+	7400 3800 7400 4700
+Wire Wire Line
+	4500 3400 4300 3400
+Wire Wire Line
+	4300 3400 4300 3200
+Wire Wire Line
+	4300 3200 3500 3200
+Wire Wire Line
+	3500 3200 3500 3400
+Wire Wire Line
+	3400 3100 3400 3600
+Wire Wire Line
+	3400 3600 3500 3600
+Wire Wire Line
+	4400 4700 4400 4600
+Wire Wire Line
+	4400 4200 5300 4200
+Wire Wire Line
+	7400 4700 7700 4700
+$Comp
+L CONNECTOR PB2
+U 1 1 518E2E70
+P 4800 4700
+F 0 "PB2" H 5150 4800 60  0000 C CNN
+F 1 "D+" H 5150 4600 70  0000 C CNN
+	1    4800 4700
+	0    1    1    0   
+$EndComp
+$Comp
+L CONNECTOR PB1
+U 1 1 518E2E2F
+P 7700 4700
+F 0 "PB1" H 8050 4800 70  0000 C CNN
+F 1 "G-" H 8050 4600 70  0000 C CNN
+	1    7700 4700
+	0    1    1    0   
+$EndComp
+$Comp
+L R R1
+U 1 1 518CFCD8
+P 5550 4200
+F 0 "R1" V 5630 4200 50  0000 C CNN
+F 1 "10k" V 5550 4200 50  0000 C CNN
+	1    5550 4200
+	0    1    1    0   
+$EndComp
+$Comp
+L DIODESCH D2
+U 1 1 518BD565
+P 4400 4400
+F 0 "D2" H 4400 4500 40  0000 C CNN
+F 1 "SCH" H 4400 4300 40  0000 C CNN
+F 2 "~" H 4400 4400 60  0000 C CNN
+	1    4400 4400
+	0    1    -1   0   
+$EndComp
+$Comp
+L RGB_LED D1
+U 1 1 518BA0FA
+P 3700 3600
+F 0 "D1" H 3700 3900 50  0000 C CNN
+F 1 "LED" H 3700 3300 50  0000 C CNN
+	1    3700 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L C C1
+U 1 1 518B98AB
+P 7400 3600
+F 0 "C1" H 7450 3700 50  0000 L CNN
+F 1 "10uF" H 7450 3500 50  0000 L CNN
+	1    7400 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONNECTOR P1
+U 1 1 518B983D
+P 7400 4700
+F 0 "P1" H 7750 4800 70  0000 C CNN
+F 1 "G-" H 7750 4600 70  0000 C CNN
+	1    7400 4700
+	0    1    1    0   
+$EndComp
+$Comp
+L CONNECTOR P2
+U 1 1 518B9835
+P 4400 4700
+F 0 "P2" H 4750 4800 70  0000 C CNN
+F 1 "D+" H 4750 4600 70  0000 C CNN
+	1    4400 4700
+	0    1    1    0   
+$EndComp
+$Comp
+L ATTINY25-SS IC1
+U 1 1 518B97BE
+P 4700 3200
+F 0 "IC1" H 4800 3250 60  0000 C CNN
+F 1 "AT25" H 6700 2450 60  0000 C CNN
+F 2 "SO8" H 4800 2450 60  0001 C CNN
+	1    4700 3200
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

@@ -1,0 +1,683 @@
+EESchema Schematic File Version 4
+LIBS:precharger-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MCU_Microchip_ATmega:ATmega328P-AU U1
+U 1 1 5CAEFEF8
+P 3050 3475
+F 0 "U1" H 3050 1889 50  0000 C CNN
+F 1 "ATmega328P-AU" H 3050 1798 50  0000 C CNN
+F 2 "Package_QFP:TQFP-32_7x7mm_P0.8mm" H 3050 3475 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf" H 3050 3475 50  0001 C CNN
+	1    3050 3475
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x20_Odd_Even J1
+U 1 1 5CAF03BB
+P 7750 2800
+F 0 "J1" H 7800 3917 50  0000 C CNN
+F 1 "Conn_02x20_Odd_Even" H 7800 3826 50  0000 C CNN
+F 2 "" H 7750 2800 50  0001 C CNN
+F 3 "~" H 7750 2800 50  0001 C CNN
+	1    7750 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R7
+U 1 1 5CAF05A4
+P 9025 3850
+F 0 "R7" H 9095 3896 50  0000 L CNN
+F 1 "100KΩ" H 9095 3805 50  0000 L CNN
+F 2 "" V 8955 3850 50  0001 C CNN
+F 3 "~" H 9025 3850 50  0001 C CNN
+	1    9025 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R8
+U 1 1 5CAF05DA
+P 9025 4150
+F 0 "R8" H 9095 4196 50  0000 L CNN
+F 1 "3.9KΩ" H 9095 4105 50  0000 L CNN
+F 2 "" V 8955 4150 50  0001 C CNN
+F 3 "~" H 9025 4150 50  0001 C CNN
+	1    9025 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 5CAF0667
+P 9025 4300
+F 0 "#PWR03" H 9025 4050 50  0001 C CNN
+F 1 "GND" H 9030 4127 50  0000 C CNN
+F 2 "" H 9025 4300 50  0001 C CNN
+F 3 "" H 9025 4300 50  0001 C CNN
+	1    9025 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9025 4000 8825 4000
+Connection ~ 9025 4000
+Text Label 8825 4000 2    50   ~ 0
+A1
+$Comp
+L Device:R R3
+U 1 1 5CAF0D53
+P 9025 2750
+F 0 "R3" H 9095 2796 50  0000 L CNN
+F 1 "100KΩ" H 9095 2705 50  0000 L CNN
+F 2 "" V 8955 2750 50  0001 C CNN
+F 3 "~" H 9025 2750 50  0001 C CNN
+	1    9025 2750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 5CAF0D59
+P 9025 3050
+F 0 "R4" H 9095 3096 50  0000 L CNN
+F 1 "3.9KΩ" H 9095 3005 50  0000 L CNN
+F 2 "" V 8955 3050 50  0001 C CNN
+F 3 "~" H 9025 3050 50  0001 C CNN
+	1    9025 3050
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 5CAF0D5F
+P 9025 3200
+F 0 "#PWR02" H 9025 2950 50  0001 C CNN
+F 1 "GND" H 9030 3027 50  0000 C CNN
+F 2 "" H 9025 3200 50  0001 C CNN
+F 3 "" H 9025 3200 50  0001 C CNN
+	1    9025 3200
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9025 2900 8625 2900
+Text Label 8625 2900 2    50   ~ 0
+A0
+Text Label 8275 4050 0    50   ~ 0
+V12v
+$Comp
+L Device:R R10
+U 1 1 5CAF10AB
+P 8275 4200
+F 0 "R10" H 8345 4246 50  0000 L CNN
+F 1 "6.81KΩ" H 8345 4155 50  0000 L CNN
+F 2 "" V 8205 4200 50  0001 C CNN
+F 3 "~" H 8275 4200 50  0001 C CNN
+	1    8275 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R13
+U 1 1 5CAF10B1
+P 8275 4500
+F 0 "R13" H 8345 4546 50  0000 L CNN
+F 1 "2KΩ" H 8345 4455 50  0000 L CNN
+F 2 "" V 8205 4500 50  0001 C CNN
+F 3 "~" H 8275 4500 50  0001 C CNN
+	1    8275 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR06
+U 1 1 5CAF10B7
+P 8275 4650
+F 0 "#PWR06" H 8275 4400 50  0001 C CNN
+F 1 "GND" H 8280 4477 50  0000 C CNN
+F 2 "" H 8275 4650 50  0001 C CNN
+F 3 "" H 8275 4650 50  0001 C CNN
+	1    8275 4650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8275 4350 8075 4350
+Connection ~ 8275 4350
+Text Label 8075 4350 2    50   ~ 0
+A2
+Text Label 7325 1900 2    50   ~ 0
+ContactorBLU
+Text Label 8275 2600 0    50   ~ 0
+Vbatt+
+Text Label 8300 2300 0    50   ~ 0
+ContactorBRN
+Wire Wire Line
+	8300 2300 8225 2300
+$Comp
+L Device:Fuse_Small F1
+U 1 1 5CAF1969
+P 8225 2400
+F 0 "F1" V 8179 2448 50  0000 L CNN
+F 1 "Fuse_Small" V 8270 2448 50  0000 L CNN
+F 2 "" H 8225 2400 50  0001 C CNN
+F 3 "~" H 8225 2400 50  0001 C CNN
+	1    8225 2400
+	0    1    1    0   
+$EndComp
+Connection ~ 8225 2300
+Wire Wire Line
+	8225 2300 8050 2300
+Wire Wire Line
+	8225 2500 8225 2600
+Connection ~ 8225 2600
+Wire Wire Line
+	8225 2600 8050 2600
+$Comp
+L Device:D_Schottky D1
+U 1 1 5CAF2385
+P 6525 1650
+F 0 "D1" V 6479 1729 50  0000 L CNN
+F 1 "1N5402" V 6570 1729 50  0000 L CNN
+F 2 "" H 6525 1650 50  0001 C CNN
+F 3 "~" H 6525 1650 50  0001 C CNN
+	1    6525 1650
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6525 1900 6525 1800
+Text Label 6525 1500 0    50   ~ 0
+Vbatt+
+$Comp
+L Transistor_BJT:BCX56 Q2
+U 1 1 5CAF2D58
+P 10025 4275
+F 0 "Q2" H 10216 4321 50  0000 L CNN
+F 1 "2SC5200" H 10216 4230 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-89-3" H 10225 4200 50  0001 L CIN
+F 3 "http://cache.nxp.com/documents/data_sheet/BCP56_BCX56_BC56PA.pdf?pspll=1" H 10025 4275 50  0001 L CNN
+	1    10025 4275
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6525 1900 7550 1900
+Wire Wire Line
+	6525 1500 9025 1500
+Wire Wire Line
+	9025 1500 9025 1800
+Wire Wire Line
+	8225 2600 9025 2600
+Connection ~ 9025 2600
+$Comp
+L power:GND #PWR04
+U 1 1 5CAF3C18
+P 10125 4475
+F 0 "#PWR04" H 10125 4225 50  0001 C CNN
+F 1 "GND" H 10130 4302 50  0000 C CNN
+F 2 "" H 10125 4475 50  0001 C CNN
+F 3 "" H 10125 4475 50  0001 C CNN
+	1    10125 4475
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:BCP51 Q3
+U 1 1 5CAF3D8D
+P 9925 2800
+F 0 "Q3" H 10115 2754 50  0000 L CNN
+F 1 "MJL4302A" H 9575 2650 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-223" H 10125 2725 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BC/BCP51.pdf" H 9925 2800 50  0001 L CNN
+	1    9925 2800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9825 2600 9275 2600
+Text Label 9575 2600 0    50   ~ 0
+Vbatt+
+Wire Wire Line
+	10125 2800 10125 3025
+Wire Wire Line
+	10125 3325 10125 3475
+$Comp
+L Device:R R6
+U 1 1 5CAF5CA7
+P 9675 3700
+F 0 "R6" V 9775 3650 50  0000 L CNN
+F 1 "1.5KΩ 15W" V 9575 3600 50  0000 L CNN
+F 2 "" V 9605 3700 50  0001 C CNN
+F 3 "~" H 9675 3700 50  0001 C CNN
+	1    9675 3700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9525 3700 9025 3700
+$Comp
+L Device:R R9
+U 1 1 5CAF7C18
+P 9825 4525
+F 0 "R9" H 9895 4571 50  0000 L CNN
+F 1 "820Ω" H 9895 4480 50  0000 L CNN
+F 2 "" V 9755 4525 50  0001 C CNN
+F 3 "~" H 9825 4525 50  0001 C CNN
+	1    9825 4525
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9825 4275 9825 4375
+Wire Wire Line
+	9825 4875 9825 4675
+$Comp
+L Transistor_BJT:BCX56 Q4
+U 1 1 5CAF84AD
+P 6575 3650
+F 0 "Q4" H 6766 3696 50  0000 L CNN
+F 1 "2SC5200" H 6300 3825 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-89-3" H 6775 3575 50  0001 L CIN
+F 3 "http://cache.nxp.com/documents/data_sheet/BCP56_BCX56_BC56PA.pdf?pspll=1" H 6575 3650 50  0001 L CNN
+	1    6575 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR05
+U 1 1 5CAF84B3
+P 6675 3850
+F 0 "#PWR05" H 6675 3600 50  0001 C CNN
+F 1 "GND" H 6680 3677 50  0000 C CNN
+F 2 "" H 6675 3850 50  0001 C CNN
+F 3 "" H 6675 3850 50  0001 C CNN
+	1    6675 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6675 3175 6675 3450
+$Comp
+L Device:R R12
+U 1 1 5CAF84BA
+P 6375 4375
+F 0 "R12" H 6445 4421 50  0000 L CNN
+F 1 "150Ω" H 6445 4330 50  0000 L CNN
+F 2 "" V 6305 4375 50  0001 C CNN
+F 3 "~" H 6375 4375 50  0001 C CNN
+	1    6375 4375
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6375 3650 6375 3750
+Wire Wire Line
+	6375 4725 6375 4525
+Text Label 6675 3175 0    50   ~ 0
+DCDCenable
+Connection ~ 9025 2900
+Wire Wire Line
+	7150 4150 7550 2100
+$Comp
+L power:VCC #PWR09
+U 1 1 5CAFAAB3
+P 7350 2200
+F 0 "#PWR09" H 7350 2050 50  0001 C CNN
+F 1 "VCC" V 7368 2327 50  0000 L CNN
+F 2 "" H 7350 2200 50  0001 C CNN
+F 3 "" H 7350 2200 50  0001 C CNN
+	1    7350 2200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7350 2200 7425 2200
+Text Label 7300 2575 2    50   ~ 0
+IsenseSig
+Wire Wire Line
+	7300 2425 8050 2500
+$Comp
+L Device:LED D2
+U 1 1 5CB018C3
+P 10125 3175
+F 0 "D2" V 10163 3057 50  0000 R CNN
+F 1 "RED LED" V 10072 3057 50  0000 R CNN
+F 2 "" H 10125 3175 50  0001 C CNN
+F 3 "~" H 10125 3175 50  0001 C CNN
+	1    10125 3175
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10125 3775 10125 4075
+$Comp
+L Device:R R5
+U 1 1 5CAF4273
+P 10125 3625
+F 0 "R5" H 10195 3671 50  0000 L CNN
+F 1 "30KΩ 1/2W" H 10195 3580 50  0000 L CNN
+F 2 "" V 10055 3625 50  0001 C CNN
+F 3 "~" H 10125 3625 50  0001 C CNN
+	1    10125 3625
+	1    0    0    -1  
+$EndComp
+$Comp
+L Regulator_Switching:CRE1S0505DC U2
+U 1 1 5CB05089
+P 10300 2000
+F 0 "U2" H 10300 2467 50  0000 C CNN
+F 1 "DCDC5Vout" H 10300 2376 50  0000 C CNN
+F 2 "Converters_DCDC_ACDC:DCDC-Conv_muRata_CRE1xxxxxxDC" H 10300 1650 50  0001 C CNN
+F 3 "http://power.murata.com/datasheet?/data/power/ncl/kdc_cre1.pdf" H 10300 1500 50  0001 C CNN
+	1    10300 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9800 1800 9025 1800
+Connection ~ 9025 1800
+Wire Wire Line
+	9025 1800 9025 2600
+$Comp
+L power:GND #PWR010
+U 1 1 5CB05672
+P 9800 2200
+F 0 "#PWR010" H 9800 1950 50  0001 C CNN
+F 1 "GND" H 9805 2027 50  0000 C CNN
+F 2 "" H 9800 2200 50  0001 C CNN
+F 3 "" H 9800 2200 50  0001 C CNN
+	1    9800 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR011
+U 1 1 5CB056F4
+P 10800 2200
+F 0 "#PWR011" H 10800 1950 50  0001 C CNN
+F 1 "GND" H 10805 2027 50  0000 C CNN
+F 2 "" H 10800 2200 50  0001 C CNN
+F 3 "" H 10800 2200 50  0001 C CNN
+	1    10800 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR07
+U 1 1 5CB05776
+P 10800 1800
+F 0 "#PWR07" H 10800 1650 50  0001 C CNN
+F 1 "VCC" H 10817 1973 50  0000 C CNN
+F 2 "" H 10800 1800 50  0001 C CNN
+F 3 "" H 10800 1800 50  0001 C CNN
+	1    10800 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D3
+U 1 1 5CB13078
+P 6375 3900
+F 0 "D3" V 6400 3700 50  0000 L CNN
+F 1 "GREEN LED" V 6475 3625 50  0000 L CNN
+F 2 "" H 6375 3900 50  0001 C CNN
+F 3 "~" H 6375 3900 50  0001 C CNN
+	1    6375 3900
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	6375 4225 6375 4050
+Text Label 9825 3300 3    50   ~ 0
+yellow
+$Comp
+L Device:C C2
+U 1 1 5CB1C851
+P 9275 2750
+F 0 "C2" H 9300 2825 50  0000 L CNN
+F 1 "0.1μF" H 9275 2675 50  0000 L CNN
+F 2 "" H 9313 2600 50  0001 C CNN
+F 3 "~" H 9275 2750 50  0001 C CNN
+	1    9275 2750
+	1    0    0    -1  
+$EndComp
+Connection ~ 9275 2600
+Wire Wire Line
+	9275 2600 9025 2600
+$Comp
+L power:GND #PWR013
+U 1 1 5CB1CA53
+P 9275 2900
+F 0 "#PWR013" H 9275 2650 50  0001 C CNN
+F 1 "GND" H 9280 2727 50  0000 C CNN
+F 2 "" H 9275 2900 50  0001 C CNN
+F 3 "" H 9275 2900 50  0001 C CNN
+	1    9275 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:LED D4
+U 1 1 5CB1D027
+P 9825 3150
+F 0 "D4" V 9875 3350 50  0000 R CNN
+F 1 "WHITE LED" V 9775 3600 50  0000 R CNN
+F 2 "" H 9825 3150 50  0001 C CNN
+F 3 "~" H 9825 3150 50  0001 C CNN
+	1    9825 3150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9825 3300 9825 3700
+Text Label 6675 3275 0    50   ~ 0
+green
+Text Label 6375 4725 2    50   ~ 0
+D12
+Text Label 6375 4600 0    50   ~ 0
+green
+Text Label 9825 4775 2    50   ~ 0
+yellow
+Text Label 9825 4875 0    50   ~ 0
+D13
+Text Label 9050 3700 0    50   ~ 0
+yellow
+Text Notes 8200 3600 0    50   ~ 0
+Motor Controller\nDCDC Converter
+Wire Wire Line
+	8425 3600 8425 3700
+Wire Wire Line
+	8425 3700 9025 3700
+Connection ~ 9025 3700
+Text Label 7300 2425 2    50   ~ 0
+A5
+Wire Wire Line
+	7300 2425 7300 2575
+Text Label 5725 1600 2    50   ~ 0
+D10
+$Comp
+L Device:Q_NMOS_SGD Q5
+U 1 1 5CB6720F
+P 7050 4350
+F 0 "Q5" H 7255 4396 50  0000 L CNN
+F 1 "2N7000" H 7255 4305 50  0000 L CNN
+F 2 "" H 7250 4450 50  0001 C CNN
+F 3 "~" H 7050 4350 50  0001 C CNN
+	1    7050 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR014
+U 1 1 5CB672F4
+P 7150 4550
+F 0 "#PWR014" H 7150 4300 50  0001 C CNN
+F 1 "GND" H 7155 4377 50  0000 C CNN
+F 2 "" H 7150 4550 50  0001 C CNN
+F 3 "" H 7150 4550 50  0001 C CNN
+	1    7150 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6850 4350 6850 4725
+Wire Wire Line
+	6850 4725 6375 4725
+Text Label 7425 2100 2    50   ~ 0
+IsenseVcc
+Wire Wire Line
+	7425 2100 7425 2200
+Connection ~ 7425 2200
+Wire Wire Line
+	7425 2200 7550 2200
+$Comp
+L Device:C C3
+U 1 1 5CB6A20D
+P 7450 4075
+F 0 "C3" H 7450 4150 50  0000 L CNN
+F 1 "0.1μF" H 7450 4000 50  0000 L CNN
+F 2 "" H 7488 3925 50  0001 C CNN
+F 3 "~" H 7450 4075 50  0001 C CNN
+	1    7450 4075
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR08
+U 1 1 5CB6A2E1
+P 7450 4225
+F 0 "#PWR08" H 7450 3975 50  0001 C CNN
+F 1 "GND" H 7525 4225 50  0000 C CNN
+F 2 "" H 7450 4225 50  0001 C CNN
+F 3 "" H 7450 4225 50  0001 C CNN
+	1    7450 4225
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7450 3925 7150 4150
+Connection ~ 7150 4150
+Text Notes 7225 4500 0    50   ~ 0
+to enable Isense
+Text Label 7150 4125 1    50   ~ 0
+IsenseGND
+$Comp
+L Device:Q_NMOS_SGD Q1
+U 1 1 5CBD2F56
+P 6425 2100
+F 0 "Q1" H 6630 2146 50  0000 L CNN
+F 1 "IPA60R400" H 6630 2055 50  0000 L CNN
+F 2 "" H 6625 2200 50  0001 C CNN
+F 3 "~" H 6425 2100 50  0001 C CNN
+	1    6425 2100
+	1    0    0    -1  
+$EndComp
+Connection ~ 6525 1900
+$Comp
+L power:GND #PWR01
+U 1 1 5CBD3FBA
+P 6525 2625
+F 0 "#PWR01" H 6525 2375 50  0001 C CNN
+F 1 "GND" H 6530 2452 50  0000 C CNN
+F 2 "" H 6525 2625 50  0001 C CNN
+F 3 "" H 6525 2625 50  0001 C CNN
+	1    6525 2625
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D6
+U 1 1 5CBD40AD
+P 5525 3150
+F 0 "D6" V 5563 3032 50  0000 R CNN
+F 1 "POWER RED LED" V 5472 3032 50  0000 R CNN
+F 2 "" H 5525 3150 50  0001 C CNN
+F 3 "~" H 5525 3150 50  0001 C CNN
+	1    5525 3150
+	0    1    -1   0   
+$EndComp
+$Comp
+L power:GND #PWR015
+U 1 1 5CBD430F
+P 5525 3300
+F 0 "#PWR015" H 5525 3050 50  0001 C CNN
+F 1 "GND" H 5530 3127 50  0000 C CNN
+F 2 "" H 5525 3300 50  0001 C CNN
+F 3 "" H 5525 3300 50  0001 C CNN
+	1    5525 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5CBD434E
+P 5525 2850
+F 0 "R2" H 5595 2896 50  0000 L CNN
+F 1 "360Ω" H 5595 2805 50  0000 L CNN
+F 2 "" V 5455 2850 50  0001 C CNN
+F 3 "~" H 5525 2850 50  0001 C CNN
+	1    5525 2850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR012
+U 1 1 5CBD440E
+P 5525 2700
+F 0 "#PWR012" H 5525 2550 50  0001 C CNN
+F 1 "VCC" H 5543 2827 50  0000 L CNN
+F 2 "" H 5525 2700 50  0001 C CNN
+F 3 "" H 5525 2700 50  0001 C CNN
+	1    5525 2700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 5CBD4E22
+P 6375 2400
+F 0 "C4" V 6500 2350 50  0000 L CNN
+F 1 "0.1μF" V 6575 2275 50  0000 L CNN
+F 2 "" H 6413 2250 50  0001 C CNN
+F 3 "~" H 6375 2400 50  0001 C CNN
+	1    6375 2400
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5775 3000 5525 3000
+Connection ~ 5525 3000
+$Comp
+L Device:C C1
+U 1 1 5CBD6548
+P 5725 1950
+F 0 "C1" H 5725 2025 50  0000 L CNN
+F 1 "0.1μF" H 5725 1875 50  0000 L CNN
+F 2 "" H 5763 1800 50  0001 C CNN
+F 3 "~" H 5725 1950 50  0001 C CNN
+	1    5725 1950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5725 1600 5725 1800
+$Comp
+L Device:D_Schottky D5
+U 1 1 5CBD79A7
+P 6225 2250
+F 0 "D5" V 6179 2329 50  0000 L CNN
+F 1 "1N5817" V 6270 2329 50  0000 L CNN
+F 2 "" H 6225 2250 50  0001 C CNN
+F 3 "~" H 6225 2250 50  0001 C CNN
+	1    6225 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5CBD81E3
+P 5775 2250
+F 0 "R1" H 5845 2296 50  0000 L CNN
+F 1 "100KΩ" H 5845 2205 50  0000 L CNN
+F 2 "" V 5705 2250 50  0001 C CNN
+F 3 "~" H 5775 2250 50  0001 C CNN
+	1    5775 2250
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5725 2100 5775 2100
+Connection ~ 6225 2100
+Connection ~ 5775 2100
+Wire Wire Line
+	5775 2100 6225 2100
+Wire Wire Line
+	6225 2400 5775 2400
+Wire Wire Line
+	5775 2400 5775 3000
+Connection ~ 5775 2400
+Text Label 5775 2900 0    50   ~ 0
+VtwoVolts
+Connection ~ 6525 2400
+Wire Wire Line
+	6525 2400 6525 2300
+Wire Wire Line
+	6525 2625 6525 2400
+Connection ~ 6225 2400
+$EndSCHEMATC

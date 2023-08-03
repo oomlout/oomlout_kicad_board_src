@@ -1,0 +1,21 @@
+Source:,/home/imcinerney/Documents/Github/PMOD-Compatible_Quadrature-Encoder/2-Hardware/SingleEncoder/SingleEncoder.sch
+Date:,Wed 11 Oct 2017 11:40:44 PM BST
+Tool:,Eeschema 4.0.6
+Generator:,/home/imcinerney/Documents/Github/KiCad-Libraries/BOM_Scripts/bom_csv_grouped_by_value.py
+Component Count:,23
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,DigikeyNumber,Manufacturer,ManufacturerNumber
+1,2,"AT1, AT2",TXB0101,LogicDevices:TXB0101,SMD:SOT-23-6,,296-21664-1-ND,Texas Instruments,TXB0101DBVR
+2,2,"C1, C2",15uF,Passives:CAP,SMD:SMD_0805,,445-14362-1-ND,TDK Corporation,C2012X5R1A156M085AC
+3,2,"C3, C4",2.2uF,Passives:CAP,SMD:SMD_0805,,311-3425-1-ND,Yageo,CC0805KRX5R6BB225
+4,2,"C5, C6",22uF,Passives:CAP,SMD:SMD_0805,,1276-6786-1-ND,"Samsung Electro-Mechanics America, Inc.",CL21A226KPCLRNC
+5,4,"C7, C8, C9, C10",0.1uF,Passives:CAP,SMD:SMD_0805,,311-1141-1-ND,Yageo,CC0805KRX7R8BB104
+6,1,D1,RED,Diodes:D_LED,LEDs:LED_1206,,754-1137-1-ND,Kingbright,APT3216EC
+7,2,"D2, D3",PLVA653A,Diodes:D_ZENER,Diodes:DIODE_SOT-23-3,,568-6472-1-ND,NXP,"PLVA653A,215"
+8,1,J1,PMOD_SINGLE,PMOD:PMOD_SINGLE,Connectors:PMOD_SINGLE_MALE,,609-3313-ND,FCI,68016-106HLF
+9,1,P1,CONN_01X06,SingleEncoder-cache:CONN_01X06,Connectors:DIN_CUI_SDS-50J,,CP-2350-ND,CUI Inc,SDS-50J
+10,1,P2,CONN_01X04,SingleEncoder-cache:CONN_01X04,Connectors:CONN_2.54mm_1x4,,,,
+11,1,R1,10k,Passives:RES,SMD:SMD_0805,,RMCF0805FT10K0CT-ND,Stackpole Electronics Inc,RMCF0805FT10K0
+12,1,R2,330,Passives:RES,SMD:SMD_0805,,P330CCT-ND,Panasonic Electronic Components,ERJ-6ENF3300V
+13,2,"R3, R4",220,Passives:RES,SMD:SMD_0805,,P220CCT-ND,Panasonic Electronic Components,ERJ-6ENF2200V
+14,1,U1,TPS60131,PowerComponents:TPS60131,SMD:SSOP_20_4.5mm_6.6mm_0.65mm_PWP,http://www.ti.com/lit/ds/symlink/tps60130.pdf,296-2272-5-ND,Texas Instruments,TPS60131PWP

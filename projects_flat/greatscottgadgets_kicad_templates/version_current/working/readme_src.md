@@ -1,0 +1,2 @@
+# templates
+KiCad project templates

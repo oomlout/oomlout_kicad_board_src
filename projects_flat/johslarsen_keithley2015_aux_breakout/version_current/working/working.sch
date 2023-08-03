@@ -1,0 +1,308 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:Integrated_Circuits
+LIBS:keithley2015_aux_breakout-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch_SPDT_x2 SW1
+U 1 1 57ED7FA8
+P 4100 2600
+F 0 "SW1" H 3900 2750 50  0000 C CNN
+F 1 "Switch_SPDT_x2" H 3850 2450 50  0000 C CNN
+F 2 "Switches:Latched_7x7mm_TL_2230" H 4100 2600 50  0001 C CNN
+F 3 "" H 4100 2600 50  0000 C CNN
+	1    4100 2600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L BNC P3
+U 1 1 57ED804A
+P 4550 2600
+F 0 "P3" H 4560 2720 50  0000 C CNN
+F 1 "BNC" V 4660 2540 50  0000 C CNN
+F 2 "Connectors:SMA_Board_Edge" H 4550 2600 50  0001 C CNN
+F 3 "" H 4550 2600 50  0000 C CNN
+	1    4550 2600
+	1    0    0    1   
+$EndComp
+$Comp
+L BNC P2
+U 1 1 57ED812B
+P 4550 1700
+F 0 "P2" H 4560 1820 50  0000 C CNN
+F 1 "BNC" V 4660 1640 50  0000 C CNN
+F 2 "Connectors:SMA_Board_Edge" H 4550 1700 50  0001 C CNN
+F 3 "" H 4550 1700 50  0000 C CNN
+	1    4550 1700
+	1    0    0    1   
+$EndComp
+$Comp
+L BNC P6
+U 1 1 57ED82CC
+P 2750 1700
+F 0 "P6" H 2760 1820 50  0000 C CNN
+F 1 "BNC" V 2860 1640 50  0000 C CNN
+F 2 "Connectors:SMA_Board_Edge" H 2750 1700 50  0001 C CNN
+F 3 "" H 2750 1700 50  0000 C CNN
+	1    2750 1700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L BNC P1
+U 1 1 57ED8319
+P 4550 1200
+F 0 "P1" H 4560 1320 50  0000 C CNN
+F 1 "BNC" V 4660 1140 50  0000 C CNN
+F 2 "Connectors:SMA_Board_Edge" H 4550 1200 50  0001 C CNN
+F 3 "" H 4550 1200 50  0000 C CNN
+	1    4550 1200
+	1    0    0    1   
+$EndComp
+$Comp
+L BNC P5
+U 1 1 57ED8357
+P 2750 1200
+F 0 "P5" H 2760 1320 50  0000 C CNN
+F 1 "BNC" V 2860 1140 50  0000 C CNN
+F 2 "Connectors:SMA_Board_Edge" H 2750 1200 50  0001 C CNN
+F 3 "" H 2750 1200 50  0000 C CNN
+	1    2750 1200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L BNC P4
+U 1 1 57ED839A
+P 4550 3800
+F 0 "P4" H 4560 3920 50  0000 C CNN
+F 1 "BNC" V 4660 3740 50  0000 C CNN
+F 2 "Connectors:SMA_Board_Edge" H 4550 3800 50  0001 C CNN
+F 3 "" H 4550 3800 50  0000 C CNN
+	1    4550 3800
+	1    0    0    1   
+$EndComp
+$Comp
+L Switch_SPDT_x2 SW2
+U 1 1 57ED9F5B
+P 4100 3800
+F 0 "SW2" H 3900 3950 50  0000 C CNN
+F 1 "Switch_SPDT_x2" H 3850 3650 50  0000 C CNN
+F 2 "Switches:Latched_7x7mm_TL_2230" H 4100 3800 50  0001 C CNN
+F 3 "" H 4100 3800 50  0000 C CNN
+	1    4100 3800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L CONN_02X02 P7
+U 1 1 57EDA45E
+P 2650 3300
+F 0 "P7" H 2650 3450 50  0000 C CNN
+F 1 "CONN_02X02" H 2650 3150 50  0000 C CNN
+F 2 "2.54mm_Pin_Headers:Edge_2x02" H 2650 2100 50  0001 C CNN
+F 3 "" H 2650 2100 50  0000 C CNN
+	1    2650 3300
+	1    0    0    1   
+$EndComp
+$Comp
+L NC7WZ04P6X U1
+U 1 1 57ED8E99
+P 3350 2500
+F 0 "U1" H 3500 2600 50  0000 C CNN
+F 1 "NC7WZ04P6X" H 3550 2400 50  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SC-70-6_Handsoldering" H 3350 2500 50  0001 C CNN
+F 3 "" H 3350 2500 50  0000 C CNN
+	1    3350 2500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L NC7WZ04P6X U1
+U 2 1 57ED8F34
+P 3350 3700
+F 0 "U1" H 3500 3800 50  0000 C CNN
+F 1 "NC7WZ04P6X" H 3550 3600 50  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SC-70-6_Handsoldering" H 3350 3700 50  0001 C CNN
+F 3 "" H 3350 3700 50  0000 C CNN
+	2    3350 3700
+	1    0    0    1   
+$EndComp
+$Comp
+L JUMPER JP3
+U 1 1 57ED8F9D
+P 2000 3600
+F 0 "JP3" H 2000 3750 50  0000 C CNN
+F 1 "JUMPER" H 2000 3520 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x02" H 2000 3600 50  0001 C CNN
+F 3 "" H 2000 3600 50  0000 C CNN
+	1    2000 3600
+	0    1    -1   0   
+$EndComp
+$Comp
+L JUMPER JP1
+U 1 1 57ED900E
+P 1700 3300
+F 0 "JP1" H 1700 3450 50  0000 C CNN
+F 1 "JUMPER" H 1700 3220 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x02" H 1700 3300 50  0001 C CNN
+F 3 "" H 1700 3300 50  0000 C CNN
+	1    1700 3300
+	1    0    0    1   
+$EndComp
+$Comp
+L JUMPER JP2
+U 1 1 57ED90A9
+P 2000 3000
+F 0 "JP2" H 2000 3150 50  0000 C CNN
+F 1 "JUMPER" H 2000 2920 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x02" H 2000 3000 50  0001 C CNN
+F 3 "" H 2000 3000 50  0000 C CNN
+	1    2000 3000
+	0    -1   1    0   
+$EndComp
+$Comp
+L BARREL_JACK P8
+U 1 1 57ED9FF5
+P 1100 3400
+F 0 "P8" H 1100 3650 50  0000 C CNN
+F 1 "BARREL_JACK" H 1100 3200 50  0000 C CNN
+F 2 "Connect:BARREL_JACK" H 1100 3400 50  0001 C CNN
+F 3 "" H 1100 3400 50  0000 C CNN
+	1    1100 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR01
+U 1 1 57EDCEB0
+P 1400 3700
+F 0 "#PWR01" H 1400 3450 50  0001 C CNN
+F 1 "GND" H 1400 3550 50  0000 C CNN
+F 2 "" H 1400 3700 50  0000 C CNN
+F 3 "" H 1400 3700 50  0000 C CNN
+	1    1400 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR02
+U 1 1 57EDD25A
+P 2400 3450
+F 0 "#PWR02" H 2400 3200 50  0001 C CNN
+F 1 "GND" H 2400 3300 50  0000 C CNN
+F 2 "" H 2400 3450 50  0000 C CNN
+F 3 "" H 2400 3450 50  0000 C CNN
+	1    2400 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR03
+U 1 1 57EDD3FF
+P 2000 3300
+F 0 "#PWR03" H 2000 3150 50  0001 C CNN
+F 1 "VCC" H 2000 3450 50  0000 C CNN
+F 2 "" H 2000 3300 50  0000 C CNN
+F 3 "" H 2000 3300 50  0000 C CNN
+	1    2000 3300
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR04
+U 1 1 57EDD6DF
+P 4800 3200
+F 0 "#PWR04" H 4800 2950 50  0001 C CNN
+F 1 "GND" H 4800 3050 50  0000 C CNN
+F 2 "" H 4800 3200 50  0000 C CNN
+F 3 "" H 4800 3200 50  0000 C CNN
+	1    4800 3200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2900 1200 4400 1200
+Wire Wire Line
+	2900 1700 4400 1700
+Connection ~ 2400 3350
+Wire Wire Line
+	2400 3250 2400 3450
+Connection ~ 2900 2700
+Connection ~ 2900 3900
+Wire Wire Line
+	4550 3200 4800 3200
+Wire Wire Line
+	4550 3600 4550 3200
+Connection ~ 2900 3700
+Wire Wire Line
+	3800 3900 2000 3900
+Wire Wire Line
+	2900 3350 2900 3900
+Wire Wire Line
+	2900 2500 2900 3250
+Wire Wire Line
+	2000 2700 3800 2700
+Connection ~ 4800 3200
+Wire Wire Line
+	4800 2300 4550 2300
+Wire Wire Line
+	4800 3200 4800 2300
+Wire Wire Line
+	1400 3500 1400 3700
+Wire Wire Line
+	4550 2300 4550 2400
+Connection ~ 2000 3300
+Wire Wire Line
+	2550 1900 2750 1900
+Wire Wire Line
+	2550 1500 2550 1900
+Wire Wire Line
+	2550 1400 2550 1000
+Wire Wire Line
+	2750 1400 2550 1400
+Wire Wire Line
+	2550 1000 4550 1000
+Wire Wire Line
+	4550 1500 2550 1500
+Text Label 3400 1200 0    60   ~ 0
+SINE
+Text Label 3250 1700 0    60   ~ 0
+INV/PULSE
+Text Label 2200 2700 0    60   ~ 0
+TRIGGER
+Text Label 2300 3900 0    60   ~ 0
+VMC
+$EndSCHEMATC

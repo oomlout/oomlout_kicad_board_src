@@ -1,0 +1,2987 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title "Pulse Stretcher"
+Date "2021-11-09"
+Rev "2"
+Comp "Jakub Nedbal"
+Comment1 "Creative Commons Attribution-ShareAlike 4.0 International License"
+Comment2 "This work is licensed under a"
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L jakub:MC100LVEL31 U4
+U 1 1 590C9745
+P 6100 5000
+F 0 "U4" H 6200 5650 60  0000 L CNN
+F 1 "MC100LVEL31" H 6200 5550 60  0000 L CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 6100 5000 60  0001 C CNN
+F 3 "" H 6100 5000 60  0001 C CNN
+F 4 "MC100LVEL31DG" H 6100 5000 60  0001 C CNN "Part Number"
+F 5 "ON Semiconductors" H 6100 5000 60  0001 C CNN "Manufacturer"
+F 6 "SO-8" H 6100 5000 60  0001 C CNN "Package"
+F 7 "Mouser" H 6100 5000 60  0001 C CNN "Supplier"
+F 8 "863-MC100LVEL31DG" H 6100 5000 60  0001 C CNN "Order Code"
+F 9 "3.3 V ECL D flip‐flop with set and reset" H 6100 5000 60  0001 C CNN "Note"
+F 10 "4.94" H 6100 5000 60  0001 C CNN "Price"
+	1    6100 5000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 4700 7200 4900
+$Comp
+L Device:R R14
+U 1 1 590C9886
+P 7000 4550
+F 0 "R14" V 7080 4550 50  0000 C CNN
+F 1 "49R9" V 7000 4550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6930 4550 50  0001 C CNN
+F 3 "" H 7000 4550 50  0000 C CNN
+F 4 "MCWR06X49R9FTL" H 7000 4550 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 7000 4550 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 7000 4550 60  0001 C CNN "Package"
+F 7 "Farnell" H 7000 4550 60  0001 C CNN "Supplier"
+F 8 "2447381" H 7000 4550 60  0001 C CNN "Order Code"
+F 9 "49.9Ω/1% 0603 resistor" H 7000 4550 60  0001 C CNN "Note"
+F 10 "0.003" H 7000 4550 60  0001 C CNN "Price"
+	1    7000 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7000 4400 7000 4300
+Wire Wire Line
+	7000 4300 7100 4300
+Wire Wire Line
+	7200 4300 7200 4400
+Connection ~ 7100 4300
+Wire Wire Line
+	6100 4300 6100 4200
+Wire Wire Line
+	8100 4500 8100 4400
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR023
+U 1 1 590C9A77
+P 6100 5800
+F 0 "#PWR023" H 6100 5550 50  0001 C CNN
+F 1 "GND" H 6100 5650 50  0000 C CNN
+F 2 "" H 6100 5800 50  0000 C CNN
+F 3 "" H 6100 5800 50  0000 C CNN
+	1    6100 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR032
+U 1 1 590C9A93
+P 8100 6000
+F 0 "#PWR032" H 8100 5750 50  0001 C CNN
+F 1 "GND" H 8100 5850 50  0000 C CNN
+F 2 "" H 8100 6000 50  0000 C CNN
+F 3 "" H 8100 6000 50  0000 C CNN
+	1    8100 6000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 6000 8100 5900
+Wire Wire Line
+	6100 5800 6100 5700
+Wire Wire Line
+	2900 5100 3100 5100
+$Comp
+L jakub:MAX1735 U1
+U 1 1 59102D9B
+P 3300 10200
+F 0 "U1" H 2900 10550 50  0000 L CNN
+F 1 "MAX1735" H 3350 10550 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-5" H 3300 10200 50  0001 C CNN
+F 3 "" H 3300 10200 50  0000 C CNN
+F 4 "MAX1735EUK50+T" H 3300 10200 60  0001 C CNN "Part Number"
+F 5 "Maxim" H 3300 10200 60  0001 C CNN "Manufacturer"
+F 6 "SOT23" H 3300 10200 60  0001 C CNN "Package"
+F 7 "Farnell" H 3300 10200 60  0001 C CNN "Supplier"
+F 8 "2519135" H 3300 10200 60  0001 C CNN "Order Code"
+F 9 "200mA negative-output low-dropout linear regulator in SOT23" H 3300 10200 60  0001 C CNN "Note"
+F 10 "1.85" H 3300 10200 60  0001 C CNN "Price"
+	1    3300 10200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 10000 2100 10200
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR04
+U 1 1 59102EA1
+P 2100 10200
+F 0 "#PWR04" H 2100 9950 50  0001 C CNN
+F 1 "GND" H 2100 10050 50  0000 C CNN
+F 2 "" H 2100 10200 50  0000 C CNN
+F 3 "" H 2100 10200 50  0000 C CNN
+	1    2100 10200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 59103062
+P 4200 10200
+F 0 "R6" V 4280 10200 50  0000 C CNN
+F 1 "47k" V 4200 10200 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4130 10200 50  0001 C CNN
+F 3 "" H 4200 10200 50  0000 C CNN
+F 4 "MCWR06X4702FTL" H 4200 10200 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 4200 10200 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 4200 10200 60  0001 C CNN "Package"
+F 7 "Farnell" H 4200 10200 60  0001 C CNN "Supplier"
+F 8 "2447376" H 4200 10200 60  0001 C CNN "Order Code"
+F 9 "47kΩ/1% 0603 resistor" H 4200 10200 60  0001 C CNN "Note"
+F 10 "0.003" H 4200 10200 60  0001 C CNN "Price"
+	1    4200 10200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 10000 4200 10000
+Wire Wire Line
+	4200 9900 4200 10000
+Wire Wire Line
+	3900 10400 4200 10400
+Wire Wire Line
+	4200 10350 4200 10400
+$Comp
+L Device:R R7
+U 1 1 59103259
+P 4200 10600
+F 0 "R7" V 4280 10600 50  0000 C CNN
+F 1 "33k" V 4200 10600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4130 10600 50  0001 C CNN
+F 3 "" H 4200 10600 50  0000 C CNN
+F 4 "MCWR06X3302FTL" H 4200 10600 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 4200 10600 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 4200 10600 60  0001 C CNN "Package"
+F 7 "Farnell" H 4200 10600 60  0001 C CNN "Supplier"
+F 8 "2447342" H 4200 10600 60  0001 C CNN "Order Code"
+F 9 "33kΩ/1% 0603 resistor" H 4200 10600 60  0001 C CNN "Note"
+F 10 "0.003" H 4200 10600 60  0001 C CNN "Price"
+	1    4200 10600
+	1    0    0    -1  
+$EndComp
+Connection ~ 4200 10400
+Wire Wire Line
+	3300 10800 3300 10700
+Wire Wire Line
+	4800 7000 4950 7000
+Wire Wire Line
+	4200 10800 4200 10750
+Wire Wire Line
+	4500 10000 4500 10250
+Connection ~ 4200 10000
+Wire Wire Line
+	4500 10800 4500 10550
+Connection ~ 4200 10800
+Wire Wire Line
+	4950 7500 4950 7400
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR013
+U 1 1 59104159
+P 4500 7600
+F 0 "#PWR013" H 4500 7350 50  0001 C CNN
+F 1 "GND" H 4500 7450 50  0000 C CNN
+F 2 "" H 4500 7600 50  0000 C CNN
+F 3 "" H 4500 7600 50  0000 C CNN
+	1    4500 7600
+	1    0    0    -1  
+$EndComp
+Connection ~ 3300 10800
+Connection ~ 4950 7000
+$Comp
+L pulse_stretcher-rescue:VPP-pulse_stretcher-rescue #PWR012
+U 1 1 591042EF
+P 4200 9900
+F 0 "#PWR012" H 4200 9750 50  0001 C CNN
+F 1 "VPP" H 4200 10050 50  0000 C CNN
+F 2 "" H 4200 9900 50  0000 C CNN
+F 3 "" H 4200 9900 50  0000 C CNN
+	1    4200 9900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Barrel_Jack_Switch J1
+U 1 1 591044DB
+P 1050 7200
+F 0 "J1" H 1050 7450 50  0000 C CNN
+F 1 "5VDC" H 1050 7000 50  0000 C CNN
+F 2 "jakub:BARREL_JACK" H 1050 7200 50  0001 C CNN
+F 3 "" H 1050 7200 50  0000 C CNN
+F 4 "FC681465" H 1050 7200 60  0001 C CNN "Part Number"
+F 5 "Cliff Electronics" H 1050 7200 60  0001 C CNN "Manufacturer"
+F 6 "2.1mm/2.5mm socket" H 1050 7200 60  0001 C CNN "Package"
+F 7 "Farnell" H 1050 7200 60  0001 C CNN "Supplier"
+F 8 "1854514" H 1050 7200 60  0001 C CNN "Order Code"
+F 9 "DC10L dual DC socket accepts 2.1mm & 2.5mm plugs" H 1050 7200 60  0001 C CNN "Note"
+F 10 "0.61" H 1050 7200 60  0001 C CNN "Price"
+	1    1050 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:PWR_FLAG-pulse_stretcher-rescue #FLG01
+U 1 1 5910475F
+P 3050 6900
+F 0 "#FLG01" H 3050 6975 50  0001 C CNN
+F 1 "PWR_FLAG" H 3050 7050 50  0000 C CNN
+F 2 "" H 3050 6900 50  0000 C CNN
+F 3 "" H 3050 6900 50  0000 C CNN
+	1    3050 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L jakub:SMA J2
+U 1 1 5910483A
+P 2750 5400
+F 0 "J2" H 2850 5750 60  0000 L CNN
+F 1 "SMA" H 2850 5650 60  0000 L CNN
+F 2 "jakub:SMA_5.0mm" H 2925 5570 50  0000 C CNN
+F 3 "" H 2750 5400 60  0000 C CNN
+F 4 "5-1814400-1" H 2750 5400 60  0001 C CNN "Part Number"
+F 5 "TE Connectivity" H 2750 5400 60  0001 C CNN "Manufacturer"
+F 6 "SMA R/A" H 2750 5400 60  0001 C CNN "Package"
+F 7 "Farnell" H 2750 5400 60  0001 C CNN "Supplier"
+F 8 "1248989" H 2750 5400 60  0001 C CNN "Order Code"
+F 9 "SMA coaxial right angle jack" H 2750 5400 60  0001 C CNN "Note"
+F 10 "1.91" H 2750 5400 60  0001 C CNN "Price"
+	1    2750 5400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 591048C7
+P 3100 5350
+F 0 "R2" V 3180 5350 50  0000 C CNN
+F 1 "100R" V 3100 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3030 5350 50  0001 C CNN
+F 3 "" H 3100 5350 50  0000 C CNN
+F 4 "MCWR06X1000FTL" H 3100 5350 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 3100 5350 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 3100 5350 60  0001 C CNN "Package"
+F 7 "Farnell" H 3100 5350 60  0001 C CNN "Supplier"
+F 8 "2447227" H 3100 5350 60  0001 C CNN "Order Code"
+F 9 "100Ω/1% 0603 resistor" H 3100 5350 60  0001 C CNN "Note"
+F 10 "0.003" H 3100 5350 60  0001 C CNN "Price"
+	1    3100 5350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3100 5200 3100 5100
+Connection ~ 3100 5100
+Wire Wire Line
+	3300 5200 3300 5100
+Connection ~ 3300 5100
+Wire Wire Line
+	3300 5600 3300 5500
+Wire Wire Line
+	3100 5600 3200 5600
+Wire Wire Line
+	3200 5600 3200 5700
+Wire Wire Line
+	3100 5500 3100 5600
+Connection ~ 3200 5600
+Wire Wire Line
+	2850 5400 2850 5300
+Wire Wire Line
+	2700 5400 2750 5400
+Wire Wire Line
+	2800 5400 2800 5300
+Wire Wire Line
+	2750 5300 2750 5400
+Connection ~ 2800 5400
+Connection ~ 2750 5400
+Connection ~ 2700 5400
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR05
+U 1 1 59104DBD
+P 2700 5700
+F 0 "#PWR05" H 2700 5450 50  0001 C CNN
+F 1 "GND" H 2700 5550 50  0000 C CNN
+F 2 "" H 2700 5700 50  0000 C CNN
+F 3 "" H 2700 5700 50  0000 C CNN
+	1    2700 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR06
+U 1 1 59104DF8
+P 3200 5700
+F 0 "#PWR06" H 3200 5450 50  0001 C CNN
+F 1 "GND" H 3200 5550 50  0000 C CNN
+F 2 "" H 3200 5700 50  0000 C CNN
+F 3 "" H 3200 5700 50  0000 C CNN
+	1    3200 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L jakub:SMA J3
+U 1 1 59104E33
+P 12800 5300
+F 0 "J3" H 12950 5700 60  0000 L CNN
+F 1 "SMA" H 12950 5550 60  0000 L CNN
+F 2 "jakub:SMA_5.0mm" H 12975 5470 50  0000 C CNN
+F 3 "" H 12800 5300 60  0000 C CNN
+F 4 "5-1814400-1" H 12800 5300 60  0001 C CNN "Part Number"
+F 5 "TE Connectivity" H 12800 5300 60  0001 C CNN "Manufacturer"
+F 6 "SMA R/A" H 12800 5300 60  0001 C CNN "Package"
+F 7 "Farnell" H 12800 5300 60  0001 C CNN "Supplier"
+F 8 "1248989" H 12800 5300 60  0001 C CNN "Order Code"
+F 9 "SMA coaxial right angle jack" H 12800 5300 60  0001 C CNN "Note"
+F 10 "1.91" H 12800 5300 60  0001 C CNN "Price"
+	1    12800 5300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12850 5200 12850 5300
+Wire Wire Line
+	12700 5300 12750 5300
+Wire Wire Line
+	12800 5300 12800 5200
+Wire Wire Line
+	12750 5200 12750 5300
+Connection ~ 12800 5300
+Connection ~ 12750 5300
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR053
+U 1 1 591050F1
+P 12850 5600
+F 0 "#PWR053" H 12850 5350 50  0001 C CNN
+F 1 "GND" H 12850 5450 50  0000 C CNN
+F 2 "" H 12850 5600 50  0000 C CNN
+F 3 "" H 12850 5600 50  0000 C CNN
+	1    12850 5600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12700 5200 12700 5300
+Connection ~ 12850 5300
+Wire Wire Line
+	2700 5300 2700 5400
+$Comp
+L pulse_stretcher-rescue:PWR_FLAG-pulse_stretcher-rescue #FLG02
+U 1 1 591056DE
+P 3050 7500
+F 0 "#FLG02" H 3050 7575 50  0001 C CNN
+F 1 "PWR_FLAG" H 3050 7650 50  0000 C CNN
+F 2 "" H 3050 7500 50  0000 C CNN
+F 3 "" H 3050 7500 50  0000 C CNN
+	1    3050 7500
+	-1   0    0    1   
+$EndComp
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR020
+U 1 1 59105D98
+P 5350 2700
+F 0 "#PWR020" H 5350 2450 50  0001 C CNN
+F 1 "GND" H 5350 2550 50  0000 C CNN
+F 2 "" H 5350 2700 50  0000 C CNN
+F 3 "" H 5350 2700 50  0000 C CNN
+	1    5350 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR034
+U 1 1 59105F42
+P 8500 2700
+F 0 "#PWR034" H 8500 2450 50  0001 C CNN
+F 1 "GND" H 8500 2550 50  0000 C CNN
+F 2 "" H 8500 2700 50  0000 C CNN
+F 3 "" H 8500 2700 50  0000 C CNN
+	1    8500 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 10400 2600 10400
+Wire Wire Line
+	2600 10400 2600 10000
+Connection ~ 2600 10000
+Wire Wire Line
+	8650 6800 8650 7000
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR036
+U 1 1 5AA65162
+P 8650 7000
+F 0 "#PWR036" H 8650 6750 50  0001 C CNN
+F 1 "GND" H 8650 6850 50  0000 C CNN
+F 2 "" H 8650 7000 50  0000 C CNN
+F 3 "" H 8650 7000 50  0000 C CNN
+	1    8650 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 5AAA89A3
+P 3300 5350
+F 0 "R3" V 3380 5350 50  0000 C CNN
+F 1 "100R" V 3300 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3230 5350 50  0001 C CNN
+F 3 "" H 3300 5350 50  0000 C CNN
+F 4 "MCWR06X1000FTL" H 3300 5350 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 3300 5350 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 3300 5350 60  0001 C CNN "Package"
+F 7 "Farnell" H 3300 5350 60  0001 C CNN "Supplier"
+F 8 "2447227" H 3300 5350 60  0001 C CNN "Order Code"
+F 9 "100Ω/1% 0603 resistor" H 3300 5350 60  0001 C CNN "Note"
+F 10 "0.003" H 3300 5350 60  0001 C CNN "Price"
+	1    3300 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR040
+U 1 1 5AAA8B48
+P 9500 7550
+F 0 "#PWR040" H 9500 7300 50  0001 C CNN
+F 1 "GND" H 9500 7400 50  0000 C CNN
+F 2 "" H 9500 7550 50  0000 C CNN
+F 3 "" H 9500 7550 50  0000 C CNN
+	1    9500 7550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9500 7050 9500 7100
+Wire Wire Line
+	9500 7450 9500 7500
+$Comp
+L Device:R R15
+U 1 1 5AAA8F88
+P 7200 4550
+F 0 "R15" V 7280 4550 50  0000 C CNN
+F 1 "49R9" V 7200 4550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7130 4550 50  0001 C CNN
+F 3 "" H 7200 4550 50  0000 C CNN
+F 4 "MCWR06X49R9FTL" H 7200 4550 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 7200 4550 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 7200 4550 60  0001 C CNN "Package"
+F 7 "Farnell" H 7200 4550 60  0001 C CNN "Supplier"
+F 8 "2447381" H 7200 4550 60  0001 C CNN "Order Code"
+F 9 "49.9Ω/1% 0603 resistor" H 7200 4550 60  0001 C CNN "Note"
+F 10 "0.003" H 7200 4550 60  0001 C CNN "Price"
+	1    7200 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5AAA9E47
+P 1700 7200
+F 0 "C1" H 1725 7300 50  0000 L CNN
+F 1 "10uV" H 1725 7100 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 1738 7050 50  0001 C CNN
+F 3 "" H 1700 7200 50  0000 C CNN
+F 4 "GMK316AB7106KL-TR" H 1700 7200 60  0001 C CNN "Part Number"
+F 5 "Taiyo Yuden" H 1700 7200 60  0001 C CNN "Manufacturer"
+F 6 "1206" H 1700 7200 60  0001 C CNN "Package"
+F 7 "Farnell" H 1700 7200 60  0001 C CNN "Supplier"
+F 8 "2309034" H 1700 7200 60  0001 C CNN "Order Code"
+F 9 "10μF/35V 1206 X7R capacitor" H 1700 7200 60  0001 C CNN "Note"
+F 10 "0.19" H 1700 7200 60  0001 C CNN "Price"
+	1    1700 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Regulator_Linear:LF33_TO252 U2
+U 1 1 5AAAA8A3
+P 4500 7000
+F 0 "U2" H 4200 7250 50  0000 L CNN
+F 1 "MCP1824ST-33" H 4200 7150 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 4500 6850 50  0001 L CNN
+F 3 "" H 4500 7150 50  0001 C CNN
+F 4 "MCP1824ST-3302E/DB" H 4500 7000 60  0001 C CNN "Part Number"
+F 5 "Microchip" H 4500 7000 60  0001 C CNN "Manufacturer"
+F 6 "SOT223" H 4500 7000 60  0001 C CNN "Package"
+F 7 "Farnell" H 4500 7000 60  0001 C CNN "Supplier"
+F 8 "1578379" H 4500 7000 60  0001 C CNN "Order Code"
+F 9 "3.3V 300 mA low voltage low quiescent current LDO regulator" H 4500 7000 60  0001 C CNN "Note"
+F 10 "0.4" H 4500 7000 60  0001 C CNN "Price"
+	1    4500 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C6
+U 1 1 5AAABF5D
+P 4100 7250
+F 0 "C6" H 4125 7350 50  0000 L CNN
+F 1 "1uC" H 4125 7150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4138 7100 50  0001 C CNN
+F 3 "" H 4100 7250 50  0000 C CNN
+F 4 "GRM188R61E105K" H 4100 7250 60  0001 C CNN "Part Number"
+F 5 "Murata" H 4100 7250 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 4100 7250 60  0001 C CNN "Package"
+F 7 "Farnell" H 4100 7250 60  0001 C CNN "Supplier"
+F 8 "1828802" H 4100 7250 60  0001 C CNN "Order Code"
+F 9 "1μF/16V/10mΩ capacitor" H 4100 7250 60  0001 C CNN "Note"
+F 10 "0.09" H 4100 7250 60  0001 C CNN "Price"
+	1    4100 7250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 4900 7200 4900
+Wire Wire Line
+	7000 5100 7500 5100
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR028
+U 1 1 5AAAE37B
+P 7450 2700
+F 0 "#PWR028" H 7450 2450 50  0001 C CNN
+F 1 "GND" H 7450 2550 50  0000 C CNN
+F 2 "" H 7450 2700 50  0000 C CNN
+F 3 "" H 7450 2700 50  0000 C CNN
+	1    7450 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:VPP-pulse_stretcher-rescue #PWR027
+U 1 1 5AAAE3D2
+P 7450 2200
+F 0 "#PWR027" H 7450 2050 50  0001 C CNN
+F 1 "VPP" H 7450 2350 50  0000 C CNN
+F 2 "" H 7450 2200 50  0000 C CNN
+F 3 "" H 7450 2200 50  0000 C CNN
+	1    7450 2200
+	1    0    0    -1  
+$EndComp
+Text Notes 3900 6500 0    60   ~ 0
+3.3V power supply
+Text Notes 2400 9550 0    60   ~ 0
+-3.0V power supply, (i.e. VPP=0.3V)
+Text Notes 7800 7900 0    60   ~ 0
+Delay Line\n74LVC1G240: 1-4ns delay\n74AUP1G240: 2.4-4.5ns delay
+Text Label 3400 5100 0    60   ~ 0
+INPUT
+Text Label 9650 5000 0    60   ~ 0
+OUTPUT
+Text Label 6850 4900 0    60   ~ 0
+Q
+Text Label 6850 5100 0    60   ~ 0
+~Q
+Text Label 3900 10400 0    60   ~ 0
+1.25V
+Text Notes 5700 3300 0    60   ~ 0
+PECL D flip-flop
+Text Notes 7750 3400 0    60   ~ 0
+PECL-to-LVTTL\nconverter
+Text Notes 1700 8050 0    60   ~ 0
+Mounting screws
+$Comp
+L Device:LED D1
+U 1 1 5AABC88B
+P 2050 7700
+F 0 "D1" H 2050 7600 50  0000 C CNN
+F 1 "green" H 2050 7800 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 2050 7700 50  0001 C CNN
+F 3 "" H 2050 7700 50  0000 C CNN
+F 4 "KPT-1608SECK" H 2050 7700 60  0001 C CNN "Part Number"
+F 5 "Kingbright" H 2050 7700 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 2050 7700 60  0001 C CNN "Package"
+F 7 "Farnell" H 2050 7700 60  0001 C CNN "Supplier"
+F 8 "2099222" H 2050 7700 60  0001 C CNN "Order Code"
+F 9 "1.6x0.8mm orange SMD chip LED" H 2050 7700 60  0001 C CNN "Note"
+F 10 "0.05" H 2050 7700 60  0001 C CNN "Price"
+	1    2050 7700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5AABC99B
+P 1700 7700
+F 0 "R1" V 1780 7700 50  0000 C CNN
+F 1 "1k0" V 1700 7700 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 1630 7700 50  0001 C CNN
+F 3 "" H 1700 7700 50  0000 C CNN
+F 4 "RC0603FR-071KL" H 1700 7700 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 1700 7700 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 1700 7700 60  0001 C CNN "Package"
+F 7 "Farnell" H 1700 7700 60  0001 C CNN "Supplier"
+F 8 "9238484" H 1700 7700 60  0001 C CNN "Order Code"
+F 9 "1.0kΩ/1% 0603 resistor" H 1700 7700 60  0001 C CNN "Note"
+F 10 "0.003" H 1700 7700 60  0001 C CNN "Price"
+	1    1700 7700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2300 7700 2200 7700
+Wire Wire Line
+	1900 7700 1850 7700
+Wire Wire Line
+	1550 7700 1450 7700
+Text Notes 1000 7900 1    60   ~ 0
+Indicator
+Wire Wire Line
+	9500 7500 9800 7500
+Wire Wire Line
+	9800 7500 9800 7450
+Connection ~ 9500 7500
+Wire Wire Line
+	9800 7150 9800 7100
+Wire Wire Line
+	9800 7100 9500 7100
+Connection ~ 9500 7100
+Wire Wire Line
+	5350 2200 5350 2250
+Wire Wire Line
+	5350 2600 5350 2650
+Wire Wire Line
+	5350 2650 5650 2650
+Wire Wire Line
+	5650 2650 5650 2600
+Connection ~ 5350 2650
+Wire Wire Line
+	5650 2300 5650 2250
+Wire Wire Line
+	5650 2250 5350 2250
+Connection ~ 5350 2250
+Wire Wire Line
+	7450 2200 7450 2250
+Wire Wire Line
+	7450 2600 7450 2650
+Wire Wire Line
+	7450 2650 7750 2650
+Wire Wire Line
+	7750 2650 7750 2600
+Connection ~ 7450 2650
+Wire Wire Line
+	7750 2300 7750 2250
+Wire Wire Line
+	7750 2250 7450 2250
+Connection ~ 7450 2250
+Wire Wire Line
+	8500 2200 8500 2250
+Wire Wire Line
+	8500 2600 8500 2650
+$Comp
+L Device:C C19
+U 1 1 5ACF0BCE
+P 8500 2450
+F 0 "C19" H 8525 2550 50  0000 L CNN
+F 1 "10n" H 8525 2350 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 8538 2300 50  0001 C CNN
+F 3 "" H 8500 2450 50  0000 C CNN
+F 4 "C0402C103K5RACTU" H 8500 2450 60  0001 C CNN "Part Number"
+F 5 "TDK" H 8500 2450 60  0001 C CNN "Manufacturer"
+F 6 "0402" H 8500 2450 60  0001 C CNN "Package"
+F 7 "Farnell" H 8500 2450 60  0001 C CNN "Supplier"
+F 8 "1414575" H 8500 2450 60  0001 C CNN "Order Code"
+F 9 "10nF/50V X7R 0402 ceramic capacitor" H 8500 2450 60  0001 C CNN "Note"
+	1    8500 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:C-pulse_stretcher-rescue C20
+U 1 1 5ACF0BDA
+P 8800 2450
+F 0 "C20" H 8825 2550 50  0000 L CNN
+F 1 "100n" H 8825 2350 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 8838 2300 50  0001 C CNN
+F 3 "" H 8800 2450 50  0000 C CNN
+F 4 "C1608X7R1H104M080AA" H 8800 2450 60  0001 C CNN "Part Number"
+F 5 "TDK" H 8800 2450 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 8800 2450 60  0001 C CNN "Package"
+F 7 "Farnell" H 8800 2450 60  0001 C CNN "Supplier"
+F 8 "2522004" H 8800 2450 60  0001 C CNN "Order Code"
+F 9 "100nF/50V X7R 0603 ceramic capacitor" H 8800 2450 60  0001 C CNN "Note"
+	1    8800 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8500 2650 8800 2650
+Wire Wire Line
+	8800 2650 8800 2600
+Connection ~ 8500 2650
+Wire Wire Line
+	8800 2300 8800 2250
+Wire Wire Line
+	8800 2250 8500 2250
+Connection ~ 8500 2250
+Wire Wire Line
+	7100 4300 7200 4300
+Wire Wire Line
+	12050 5000 12650 5000
+Wire Wire Line
+	4200 10400 4200 10450
+Wire Wire Line
+	4200 10000 4500 10000
+Wire Wire Line
+	4200 10000 4200 10050
+Wire Wire Line
+	4200 10800 4500 10800
+Wire Wire Line
+	4500 7500 4950 7500
+Wire Wire Line
+	3300 10800 4200 10800
+Wire Wire Line
+	4950 7000 4950 7100
+Wire Wire Line
+	3100 5100 3300 5100
+Wire Wire Line
+	3300 5100 3750 5100
+Wire Wire Line
+	3200 5600 3300 5600
+Wire Wire Line
+	2800 5400 2850 5400
+Wire Wire Line
+	2750 5400 2800 5400
+Wire Wire Line
+	2700 5400 2700 5700
+Wire Wire Line
+	12800 5300 12850 5300
+Wire Wire Line
+	12750 5300 12800 5300
+Wire Wire Line
+	12850 5300 12850 5600
+Wire Wire Line
+	2600 10000 2700 10000
+Wire Wire Line
+	9500 7500 9500 7550
+Wire Wire Line
+	9500 7100 9500 7150
+Wire Wire Line
+	5350 2650 5350 2700
+Wire Wire Line
+	5350 2250 5350 2300
+Wire Wire Line
+	7450 2650 7450 2700
+Wire Wire Line
+	7450 2250 7450 2300
+Wire Wire Line
+	8500 2650 8500 2700
+Wire Wire Line
+	8500 2250 8500 2300
+$Comp
+L Device:R R23
+U 1 1 618DDD22
+P 11800 5350
+F 0 "R23" V 11700 5350 50  0000 C CNN
+F 1 "300R" V 11800 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 11730 5350 50  0001 C CNN
+F 3 "~" H 11800 5350 50  0001 C CNN
+F 4 "MCWR04X3000FTL" H 11800 5350 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 11800 5350 50  0001 C CNN "Manufacturer"
+F 6 "0402" H 11800 5350 50  0001 C CNN "Package"
+F 7 "Farnell" H 11800 5350 50  0001 C CNN "Supplier"
+F 8 "2447155" H 11800 5350 50  0001 C CNN "Order Code"
+F 9 "300Ω/1% 0402 resistor" H 11800 5350 50  0001 C CNN "Note"
+	1    11800 5350
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R22
+U 1 1 618DDD2E
+P 11800 4650
+F 0 "R22" V 11700 4650 50  0000 C CNN
+F 1 "300R" V 11800 4650 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 11730 4650 50  0001 C CNN
+F 3 "~" H 11800 4650 50  0001 C CNN
+F 4 "MCWR04X3000FTL" H 11800 4650 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 11800 4650 50  0001 C CNN "Manufacturer"
+F 6 "0402" H 11800 4650 50  0001 C CNN "Package"
+F 7 "Farnell" H 11800 4650 50  0001 C CNN "Supplier"
+F 8 "2447155" H 11800 4650 50  0001 C CNN "Order Code"
+F 9 "300Ω/1% 0402 resistor" H 11800 4650 50  0001 C CNN "Note"
+	1    11800 4650
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R21
+U 1 1 618DDD3A
+P 11800 2750
+F 0 "R21" V 11700 2750 50  0000 C CNN
+F 1 "300R" V 11800 2750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 11730 2750 50  0001 C CNN
+F 3 "~" H 11800 2750 50  0001 C CNN
+F 4 "MCWR04X3000FTL" H 11800 2750 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 11800 2750 50  0001 C CNN "Manufacturer"
+F 6 "0402" H 11800 2750 50  0001 C CNN "Package"
+F 7 "Farnell" H 11800 2750 50  0001 C CNN "Supplier"
+F 8 "2447155" H 11800 2750 50  0001 C CNN "Order Code"
+F 9 "300Ω/1% 0402 resistor" H 11800 2750 50  0001 C CNN "Note"
+	1    11800 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR052
+U 1 1 618DDD40
+P 12500 2650
+F 0 "#PWR052" H 12500 2400 50  0001 C CNN
+F 1 "GND" H 12505 2477 50  0000 C CNN
+F 2 "" H 12500 2650 50  0001 C CNN
+F 3 "" H 12500 2650 50  0001 C CNN
+	1    12500 2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12500 2550 12500 2650
+Wire Wire Line
+	12500 2150 12500 2250
+$Comp
+L power:+2V5 #PWR051
+U 1 1 618DDD48
+P 12500 2150
+F 0 "#PWR051" H 12500 2000 50  0001 C CNN
+F 1 "+2V5" H 12515 2323 50  0000 C CNN
+F 2 "" H 12500 2150 50  0001 C CNN
+F 3 "" H 12500 2150 50  0001 C CNN
+	1    12500 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L jakub:74AUC2G04 U8
+U 1 1 618DDD7E
+P 10900 2050
+F 0 "U8" H 10950 2150 50  0000 L CNN
+F 1 "AUC2G04" H 10950 1950 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 10900 2050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 10900 2050 50  0001 C CNN
+F 4 "SN74AUC2G04DBVR" H 10900 2050 50  0001 C CNN "Part Number"
+F 5 "Texas Instruments" H 10900 2050 50  0001 C CNN "Manufacturer"
+F 6 "SOT-23-6" H 10900 2050 50  0001 C CNN "Package"
+F 7 "Mouser" H 10900 2050 50  0001 C CNN "Supplier"
+F 8 "595-SN74AUC2G04DBVR" H 10900 2050 50  0001 C CNN "Order Code"
+F 9 "Dual Inverter Gate" H 10900 2050 50  0001 C CNN "Note"
+	1    10900 2050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11000 1900 10900 1950
+Wire Wire Line
+	11000 1700 11000 1900
+Wire Wire Line
+	11050 1700 11000 1700
+Connection ~ 10900 1950
+Wire Wire Line
+	10950 1850 10900 1950
+$Comp
+L power:+2V5 #PWR041
+U 1 1 618DDD97
+P 10750 1700
+F 0 "#PWR041" H 10750 1550 50  0001 C CNN
+F 1 "+2V5" H 10765 1873 50  0000 C CNN
+F 2 "" H 10750 1700 50  0001 C CNN
+F 3 "" H 10750 1700 50  0001 C CNN
+	1    10750 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 618DDDBD
+P 11200 800
+AR Path="/5CFAE850/618DDDBD" Ref="C?"  Part="1" 
+AR Path="/5D0691D6/618DDDBD" Ref="C?"  Part="1" 
+AR Path="/618DDDBD" Ref="C26"  Part="1" 
+F 0 "C26" V 11050 800 50  0000 C CNN
+F 1 "100n" V 11350 800 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 11238 650 50  0001 C CNN
+F 3 "~" H 11200 800 50  0001 C CNN
+F 4 "C1608X7R1H104M080AA" H 11200 800 50  0001 C CNN "Part Number"
+F 5 "TDK" H 11200 800 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 11200 800 50  0001 C CNN "Package"
+F 7 "Farnell" H 11200 800 50  0001 C CNN "Supplier"
+F 8 "2522004" H 11200 800 50  0001 C CNN "Order Code"
+F 9 "100nF/50V X7R 0603 ceramic capacitor" H 11200 800 50  0001 C CNN "Note"
+F 10 "Seeed OPL" H 11200 800 50  0001 C CNN "Alt. Supplier"
+F 11 "302010138" H 11200 800 50  0001 C CNN "Alt. Order Code"
+	1    11200 800 
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	12050 2050 11950 2050
+Wire Wire Line
+	12050 2750 12050 2050
+Connection ~ 12050 2750
+Wire Wire Line
+	12050 2750 11950 2750
+Wire Wire Line
+	12050 4650 12050 5000
+Wire Wire Line
+	12050 4650 12050 2750
+Connection ~ 12050 4650
+Wire Wire Line
+	12050 4650 11950 4650
+Wire Wire Line
+	11950 5350 12050 5350
+$Comp
+L Device:R R20
+U 1 1 618DDDE3
+P 11800 2050
+F 0 "R20" V 11700 2050 50  0000 C CNN
+F 1 "300R" V 11800 2050 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 11730 2050 50  0001 C CNN
+F 3 "~" H 11800 2050 50  0001 C CNN
+F 4 "MCWR04X3000FTL" H 11800 2050 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 11800 2050 50  0001 C CNN "Manufacturer"
+F 6 "0402" H 11800 2050 50  0001 C CNN "Package"
+F 7 "Farnell" H 11800 2050 50  0001 C CNN "Supplier"
+F 8 "2447155" H 11800 2050 50  0001 C CNN "Order Code"
+F 9 "300Ω/1% 0402 resistor" H 11800 2050 50  0001 C CNN "Note"
+	1    11800 2050
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	10500 5350 10600 5350
+Wire Wire Line
+	10500 4650 10600 4650
+Connection ~ 10500 4650
+Wire Wire Line
+	10500 2750 10500 4650
+Wire Wire Line
+	10500 2050 10600 2050
+Wire Wire Line
+	10500 2750 10600 2750
+Connection ~ 10500 2750
+Wire Wire Line
+	10500 2050 10500 2750
+Wire Wire Line
+	11150 5350 11650 5350
+Wire Wire Line
+	11150 2750 11650 2750
+$Comp
+L power:GND #PWR046
+U 1 1 618DDE05
+P 10850 2350
+F 0 "#PWR046" H 10850 2100 50  0001 C CNN
+F 1 "GND" H 10855 2177 50  0000 C CNN
+F 2 "" H 10850 2350 50  0001 C CNN
+F 3 "" H 10850 2350 50  0001 C CNN
+	1    10850 2350
+	1    0    0    -1  
+$EndComp
+Connection ~ 10900 2150
+Wire Wire Line
+	10950 2300 10900 2150
+Wire Wire Line
+	11000 2200 10900 2150
+Wire Wire Line
+	11400 2200 11000 2200
+Wire Wire Line
+	11400 1700 11400 2200
+Wire Wire Line
+	11350 1700 11400 1700
+Wire Wire Line
+	11150 2050 11650 2050
+$Comp
+L Device:R R25
+U 1 1 618DDE19
+P 11800 8250
+F 0 "R25" V 11700 8250 50  0000 C CNN
+F 1 "300R" V 11800 8250 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 11730 8250 50  0001 C CNN
+F 3 "~" H 11800 8250 50  0001 C CNN
+F 4 "MCWR04X3000FTL" H 11800 8250 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 11800 8250 50  0001 C CNN "Manufacturer"
+F 6 "0402" H 11800 8250 50  0001 C CNN "Package"
+F 7 "Farnell" H 11800 8250 50  0001 C CNN "Supplier"
+F 8 "2447155" H 11800 8250 50  0001 C CNN "Order Code"
+F 9 "300Ω/1% 0402 resistor" H 11800 8250 50  0001 C CNN "Note"
+	1    11800 8250
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R24
+U 1 1 618DDE25
+P 11800 7550
+F 0 "R24" V 11700 7550 50  0000 C CNN
+F 1 "300R" V 11800 7550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 11730 7550 50  0001 C CNN
+F 3 "~" H 11800 7550 50  0001 C CNN
+F 4 "MCWR04X3000FTL" H 11800 7550 50  0001 C CNN "Part Number"
+F 5 "Multicomp" H 11800 7550 50  0001 C CNN "Manufacturer"
+F 6 "0402" H 11800 7550 50  0001 C CNN "Package"
+F 7 "Farnell" H 11800 7550 50  0001 C CNN "Supplier"
+F 8 "2447155" H 11800 7550 50  0001 C CNN "Order Code"
+F 9 "300Ω/1% 0402 resistor" H 11800 7550 50  0001 C CNN "Note"
+	1    11800 7550
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	11000 7400 10900 7450
+Wire Wire Line
+	11000 7200 11000 7400
+Wire Wire Line
+	11050 7200 11000 7200
+Connection ~ 10900 7450
+Wire Wire Line
+	10950 7350 10900 7450
+Wire Wire Line
+	10950 6750 10950 7350
+$Comp
+L power:+2V5 #PWR043
+U 1 1 618DDE45
+P 10750 7200
+F 0 "#PWR043" H 10750 7050 50  0001 C CNN
+F 1 "+2V5" H 10765 7373 50  0000 C CNN
+F 2 "" H 10750 7200 50  0001 C CNN
+F 3 "" H 10750 7200 50  0001 C CNN
+	1    10750 7200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12050 7550 12050 8250
+Wire Wire Line
+	12050 7550 12050 5350
+Connection ~ 12050 7550
+Wire Wire Line
+	12050 7550 11950 7550
+Wire Wire Line
+	11950 8250 12050 8250
+Wire Wire Line
+	10500 8250 10600 8250
+Wire Wire Line
+	10500 7550 10500 8250
+Wire Wire Line
+	10500 7550 10600 7550
+Connection ~ 10500 7550
+Wire Wire Line
+	10500 5350 10500 7550
+Wire Wire Line
+	11150 8250 11650 8250
+$Comp
+L power:GND #PWR048
+U 1 1 618DDE70
+P 10850 7850
+F 0 "#PWR048" H 10850 7600 50  0001 C CNN
+F 1 "GND" H 10855 7677 50  0000 C CNN
+F 2 "" H 10850 7850 50  0001 C CNN
+F 3 "" H 10850 7850 50  0001 C CNN
+	1    10850 7850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10900 7650 10850 7700
+Connection ~ 10900 7650
+Wire Wire Line
+	10950 7800 10900 7650
+Wire Wire Line
+	11500 7800 10950 7800
+Wire Wire Line
+	11500 6300 11500 7800
+Wire Wire Line
+	11350 6300 11500 6300
+Wire Wire Line
+	11000 7700 10900 7650
+Wire Wire Line
+	11400 7700 11000 7700
+Wire Wire Line
+	11400 7200 11400 7700
+Wire Wire Line
+	11350 7200 11400 7200
+Wire Wire Line
+	11150 7550 11650 7550
+Connection ~ 10500 5350
+Connection ~ 12050 5350
+$Comp
+L power:GND #PWR056
+U 1 1 618DDE85
+P 12900 2650
+F 0 "#PWR056" H 12900 2400 50  0001 C CNN
+F 1 "GND" H 12905 2477 50  0000 C CNN
+F 2 "" H 12900 2650 50  0001 C CNN
+F 3 "" H 12900 2650 50  0001 C CNN
+	1    12900 2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12900 2550 12900 2650
+Wire Wire Line
+	12900 2150 12900 2250
+$Comp
+L power:+2V5 #PWR055
+U 1 1 618DDE8D
+P 12900 2150
+F 0 "#PWR055" H 12900 2000 50  0001 C CNN
+F 1 "+2V5" H 12915 2323 50  0000 C CNN
+F 2 "" H 12900 2150 50  0001 C CNN
+F 3 "" H 12900 2150 50  0001 C CNN
+	1    12900 2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10750 1850 10900 1950
+Wire Wire Line
+	10750 1850 10750 1700
+$Comp
+L Device:C C28
+U 1 1 618DDEA9
+P 11200 1700
+F 0 "C28" V 11350 1700 50  0000 C CNN
+F 1 "1n" V 11050 1700 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 11238 1550 50  0001 C CNN
+F 3 "~" H 11200 1700 50  0001 C CNN
+F 4 "GRM1555C1H102JA01D" H 11200 1700 50  0001 C CNN "Part Number"
+F 5 "Murata" H 11200 1700 50  0001 C CNN "Manufacturer"
+F 6 "0402" H 11200 1700 50  0001 C CNN "Package"
+F 7 "Farnell" H 11200 1700 50  0001 C CNN "Supplier"
+F 8 "8819556" H 11200 1700 50  0001 C CNN "Order Code"
+F 9 "1nF/50V C0G/NP0 0402 ceramic capacitor" H 11200 1700 50  0001 C CNN "Note"
+	1    11200 1700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10900 800  11050 800 
+Wire Wire Line
+	11350 800  11500 800 
+Wire Wire Line
+	10900 7450 10750 7350
+Wire Wire Line
+	10750 7350 10750 7200
+Wire Wire Line
+	11500 800  11500 2300
+Wire Wire Line
+	10950 1850 10950 1250
+Wire Wire Line
+	10950 1250 11050 1250
+Wire Wire Line
+	10900 1950 10900 800 
+Wire Wire Line
+	11500 2300 10950 2300
+Wire Wire Line
+	11350 1250 11450 1250
+Wire Wire Line
+	11450 1250 11450 2250
+Wire Wire Line
+	11450 2250 11000 2250
+Wire Wire Line
+	11000 2250 10900 2150
+$Comp
+L Device:C C34
+U 1 1 618DDEC2
+P 11200 7200
+F 0 "C34" V 11350 7200 50  0000 C CNN
+F 1 "1n" V 11050 7200 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 11238 7050 50  0001 C CNN
+F 3 "~" H 11200 7200 50  0001 C CNN
+F 4 "GRM1555C1H102JA01D" H 11200 7200 50  0001 C CNN "Part Number"
+F 5 "Murata" H 11200 7200 50  0001 C CNN "Manufacturer"
+F 6 "0402" H 11200 7200 50  0001 C CNN "Package"
+F 7 "Farnell" H 11200 7200 50  0001 C CNN "Supplier"
+F 8 "8819556" H 11200 7200 50  0001 C CNN "Order Code"
+F 9 "1nF/50V C0G/NP0 0402 ceramic capacitor" H 11200 7200 50  0001 C CNN "Note"
+	1    11200 7200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11050 6750 10950 6750
+Wire Wire Line
+	11350 6750 11450 6750
+Wire Wire Line
+	11450 6750 11450 7750
+Wire Wire Line
+	11450 7750 11000 7750
+Wire Wire Line
+	11000 7750 10900 7650
+Wire Wire Line
+	10900 7450 10900 6300
+Wire Wire Line
+	10900 6300 11050 6300
+Wire Wire Line
+	10850 7700 10850 7850
+$Comp
+L Device:L_Core_Ferrite_Coupled_1423 L1
+U 1 1 6195BCF3
+P 2600 7200
+F 0 "L1" H 2600 7000 50  0000 C CNN
+F 1 "11uH" H 2600 7390 50  0000 C CNN
+F 2 "jakub:DR334A" H 2600 7200 50  0001 C CNN
+F 3 "~" H 2600 7200 50  0001 C CNN
+F 4 "DR334A-113BE" H 2600 7200 50  0001 C CNN "Part Number"
+F 5 "Bourns" H 2600 7200 50  0001 C CNN "Manufacturer"
+F 6 "SMD" H 2600 7200 50  0001 C CNN "Package"
+F 7 "Farnell" H 2600 7200 50  0001 C CNN "Supplier"
+F 8 "3563536" H 2600 7200 50  0001 C CNN "Order Code"
+F 9 "11 μH 0.5A common mode choke" H 2600 7200 50  0001 C CNN "Note"
+	1    2600 7200
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 61971095
+P 2050 7200
+F 0 "C2" H 2075 7300 50  0000 L CNN
+F 1 "10uV" H 2075 7100 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 2088 7050 50  0001 C CNN
+F 3 "" H 2050 7200 50  0000 C CNN
+F 4 "GMK316AB7106KL-TR" H 2050 7200 60  0001 C CNN "Part Number"
+F 5 "Taiyo Yuden" H 2050 7200 60  0001 C CNN "Manufacturer"
+F 6 "1206" H 2050 7200 60  0001 C CNN "Package"
+F 7 "Farnell" H 2050 7200 60  0001 C CNN "Supplier"
+F 8 "2309034" H 2050 7200 60  0001 C CNN "Order Code"
+F 9 "10μF/35V 1206 X7R capacitor" H 2050 7200 60  0001 C CNN "Note"
+F 10 "0.19" H 2050 7200 60  0001 C CNN "Price"
+	1    2050 7200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1350 7100 1450 7100
+Wire Wire Line
+	1700 7000 1700 7050
+Wire Wire Line
+	1700 7000 2050 7000
+Wire Wire Line
+	2050 7000 2050 7050
+Connection ~ 1700 7000
+Wire Wire Line
+	1350 7300 1550 7300
+Wire Wire Line
+	1550 7300 1550 7400
+Wire Wire Line
+	1550 7400 1700 7400
+Wire Wire Line
+	1700 7400 1700 7350
+Wire Wire Line
+	1700 7400 2050 7400
+Wire Wire Line
+	2050 7400 2050 7350
+Connection ~ 1700 7400
+Wire Wire Line
+	2050 7000 2300 7000
+Wire Wire Line
+	2300 7000 2300 7100
+Wire Wire Line
+	2300 7100 2400 7100
+Connection ~ 2050 7000
+Wire Wire Line
+	2400 7300 2300 7300
+Wire Wire Line
+	2300 7300 2300 7400
+Wire Wire Line
+	2300 7400 2050 7400
+Connection ~ 2050 7400
+$Comp
+L Device:C C3
+U 1 1 619C2436
+P 3050 7200
+F 0 "C3" H 3075 7300 50  0000 L CNN
+F 1 "10uV" H 3075 7100 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 3088 7050 50  0001 C CNN
+F 3 "" H 3050 7200 50  0000 C CNN
+F 4 "GMK316AB7106KL-TR" H 3050 7200 60  0001 C CNN "Part Number"
+F 5 "Taiyo Yuden" H 3050 7200 60  0001 C CNN "Manufacturer"
+F 6 "1206" H 3050 7200 60  0001 C CNN "Package"
+F 7 "Farnell" H 3050 7200 60  0001 C CNN "Supplier"
+F 8 "2309034" H 3050 7200 60  0001 C CNN "Order Code"
+F 9 "10μF/35V 1206 X7R capacitor" H 3050 7200 60  0001 C CNN "Note"
+F 10 "0.19" H 3050 7200 60  0001 C CNN "Price"
+	1    3050 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 619C2647
+P 3400 7200
+F 0 "C4" H 3425 7300 50  0000 L CNN
+F 1 "10uV" H 3425 7100 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 3438 7050 50  0001 C CNN
+F 3 "" H 3400 7200 50  0000 C CNN
+F 4 "GMK316AB7106KL-TR" H 3400 7200 60  0001 C CNN "Part Number"
+F 5 "Taiyo Yuden" H 3400 7200 60  0001 C CNN "Manufacturer"
+F 6 "1206" H 3400 7200 60  0001 C CNN "Package"
+F 7 "Farnell" H 3400 7200 60  0001 C CNN "Supplier"
+F 8 "2309034" H 3400 7200 60  0001 C CNN "Order Code"
+F 9 "10μF/35V 1206 X7R capacitor" H 3400 7200 60  0001 C CNN "Note"
+F 10 "0.19" H 3400 7200 60  0001 C CNN "Price"
+	1    3400 7200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2900 7000 3050 7000
+Wire Wire Line
+	3050 7000 3050 7050
+Wire Wire Line
+	3050 7000 3400 7000
+Wire Wire Line
+	3400 7000 3400 7050
+Connection ~ 3050 7000
+Wire Wire Line
+	2900 7400 3050 7400
+Wire Wire Line
+	3050 7400 3050 7350
+Wire Wire Line
+	3050 7400 3400 7400
+Wire Wire Line
+	3400 7400 3400 7350
+Connection ~ 3050 7400
+Connection ~ 3400 7000
+Connection ~ 3400 7400
+Wire Wire Line
+	2800 7100 2900 7100
+Wire Wire Line
+	2900 7100 2900 7000
+Wire Wire Line
+	2800 7300 2900 7300
+Wire Wire Line
+	2900 7300 2900 7400
+Wire Wire Line
+	3400 7000 3400 6900
+$Comp
+L power:+5V #PWR08
+U 1 1 61A062C6
+P 3400 6900
+F 0 "#PWR08" H 3400 6750 50  0001 C CNN
+F 1 "+5V" H 3415 7073 50  0000 C CNN
+F 2 "" H 3400 6900 50  0001 C CNN
+F 3 "" H 3400 6900 50  0001 C CNN
+	1    3400 6900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3050 6900 3050 7000
+Wire Wire Line
+	3400 7400 3400 7500
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR09
+U 1 1 61A2BEB5
+P 3400 7500
+F 0 "#PWR09" H 3400 7250 50  0001 C CNN
+F 1 "GND" H 3400 7350 50  0000 C CNN
+F 2 "" H 3400 7500 50  0000 C CNN
+F 3 "" H 3400 7500 50  0000 C CNN
+	1    3400 7500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3050 7400 3050 7500
+Wire Wire Line
+	3400 7000 3850 7000
+Wire Wire Line
+	4500 7300 4500 7500
+Wire Wire Line
+	4500 7500 4500 7600
+Connection ~ 4500 7500
+Wire Wire Line
+	4950 6900 4950 7000
+$Comp
+L power:+3V3 #PWR017
+U 1 1 61AA5019
+P 4950 6900
+F 0 "#PWR017" H 4950 6750 50  0001 C CNN
+F 1 "+3V3" H 4965 7073 50  0000 C CNN
+F 2 "" H 4950 6900 50  0001 C CNN
+F 3 "" H 4950 6900 50  0001 C CNN
+	1    4950 6900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 8600 4950 8600
+Wire Wire Line
+	4950 9100 4950 9000
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR014
+U 1 1 61B25FD1
+P 4500 9200
+F 0 "#PWR014" H 4500 8950 50  0001 C CNN
+F 1 "GND" H 4500 9050 50  0000 C CNN
+F 2 "" H 4500 9200 50  0000 C CNN
+F 3 "" H 4500 9200 50  0000 C CNN
+	1    4500 9200
+	1    0    0    -1  
+$EndComp
+Connection ~ 4950 8600
+$Comp
+L Device:C C7
+U 1 1 61B25FF4
+P 4100 8850
+F 0 "C7" H 4125 8950 50  0000 L CNN
+F 1 "1uC" H 4125 8750 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4138 8700 50  0001 C CNN
+F 3 "" H 4100 8850 50  0000 C CNN
+F 4 "GRM188R61E105K" H 4100 8850 60  0001 C CNN "Part Number"
+F 5 "Murata" H 4100 8850 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 4100 8850 60  0001 C CNN "Package"
+F 7 "Farnell" H 4100 8850 60  0001 C CNN "Supplier"
+F 8 "1828802" H 4100 8850 60  0001 C CNN "Order Code"
+F 9 "1μF/16V/10mΩ capacitor" H 4100 8850 60  0001 C CNN "Note"
+F 10 "0.09" H 4100 8850 60  0001 C CNN "Price"
+	1    4100 8850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 9100 4950 9100
+Wire Wire Line
+	4950 8600 4950 8700
+Wire Wire Line
+	4500 8900 4500 9100
+Wire Wire Line
+	4500 9100 4500 9200
+Connection ~ 4500 9100
+Wire Wire Line
+	4950 8500 4950 8600
+Wire Wire Line
+	3850 7000 3850 8600
+Connection ~ 3850 7000
+Wire Wire Line
+	3850 7000 4100 7000
+Wire Wire Line
+	3850 8600 4100 8600
+$Comp
+L power:+2V5 #PWR018
+U 1 1 61B5176D
+P 4950 8500
+F 0 "#PWR018" H 4950 8350 50  0001 C CNN
+F 1 "+2V5" H 4965 8673 50  0000 C CNN
+F 2 "" H 4950 8500 50  0001 C CNN
+F 3 "" H 4950 8500 50  0001 C CNN
+	1    4950 8500
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1350 7200
+$Comp
+L power:+3V3 #PWR07
+U 1 1 61B70930
+P 3300 10900
+F 0 "#PWR07" H 3300 10750 50  0001 C CNN
+F 1 "+3V3" H 3315 11073 50  0000 C CNN
+F 2 "" H 3300 10900 50  0001 C CNN
+F 3 "" H 3300 10900 50  0001 C CNN
+	1    3300 10900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3300 10800 3300 10900
+Text Notes 4150 8200 0    60   ~ 0
+2.5V power supply
+$Comp
+L jakub:SY100ELT21L U5
+U 1 1 61882F0C
+P 8100 5200
+F 0 "U5" H 8200 5850 60  0000 L CNN
+F 1 "SY100ELT21L" H 8200 5750 60  0000 L CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 8100 5200 60  0001 C CNN
+F 3 "" H 8100 5200 60  0001 C CNN
+F 4 "SY100ELT21LZG" H 8100 5200 50  0001 C CNN "Part Number"
+F 5 "Microchip" H 8100 5200 50  0001 C CNN "Manufacturer"
+F 6 "SO-8" H 8100 5200 50  0001 C CNN "Package"
+F 7 "Mouser" H 8100 5200 50  0001 C CNN "Supplier"
+F 8 "998-SY100ELT21LZG" H 8100 5200 50  0001 C CNN "Order Code"
+F 9 "3.3V differential LVPECL-to-LVTTL translator" H 8100 5200 50  0001 C CNN "Note"
+	1    8100 5200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8650 6500 8650 6700
+$Comp
+L power:+3V3 #PWR035
+U 1 1 61DF1947
+P 8650 6500
+F 0 "#PWR035" H 8650 6350 50  0001 C CNN
+F 1 "+3V3" H 8665 6673 50  0000 C CNN
+F 2 "" H 8650 6500 50  0001 C CNN
+F 3 "" H 8650 6500 50  0001 C CNN
+	1    8650 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR019
+U 1 1 61DF234C
+P 5350 2200
+F 0 "#PWR019" H 5350 2050 50  0001 C CNN
+F 1 "+3V3" H 5365 2373 50  0000 C CNN
+F 2 "" H 5350 2200 50  0001 C CNN
+F 3 "" H 5350 2200 50  0001 C CNN
+	1    5350 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR033
+U 1 1 61DF3BAF
+P 8500 2200
+F 0 "#PWR033" H 8500 2050 50  0001 C CNN
+F 1 "+3V3" H 8515 2373 50  0000 C CNN
+F 2 "" H 8500 2200 50  0001 C CNN
+F 3 "" H 8500 2200 50  0001 C CNN
+	1    8500 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R19
+U 1 1 61ED1507
+P 9150 5000
+F 0 "R19" V 9230 5000 50  0000 C CNN
+F 1 "27R" V 9150 5000 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 9080 5000 50  0001 C CNN
+F 3 "" H 9150 5000 50  0000 C CNN
+F 4 "MCWR06X27R0FTL" H 9150 5000 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 9150 5000 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 9150 5000 60  0001 C CNN "Package"
+F 7 "Farnell" H 9150 5000 60  0001 C CNN "Supplier"
+F 8 "2447316" H 9150 5000 60  0001 C CNN "Order Code"
+F 9 "27Ω/1% 0603 resistor" H 9150 5000 60  0001 C CNN "Note"
+F 10 "0.003" H 9150 5000 60  0001 C CNN "Price"
+	1    9150 5000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9400 5400 9400 5500
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR038
+U 1 1 61F6636C
+P 9400 5500
+F 0 "#PWR038" H 9400 5250 50  0001 C CNN
+F 1 "GND" H 9400 5350 50  0000 C CNN
+F 2 "" H 9400 5500 50  0000 C CNN
+F 3 "" H 9400 5500 50  0000 C CNN
+	1    9400 5500
+	1    0    0    -1  
+$EndComp
+Connection ~ 12050 5000
+Wire Wire Line
+	12050 5000 12050 5350
+Connection ~ 10500 5000
+Wire Wire Line
+	10500 5000 10500 5350
+Wire Wire Line
+	10500 4650 10500 5000
+$Comp
+L power:+3V3 #PWR022
+U 1 1 6202B310
+P 6100 4200
+F 0 "#PWR022" H 6100 4050 50  0001 C CNN
+F 1 "+3V3" H 6115 4373 50  0000 C CNN
+F 2 "" H 6100 4200 50  0001 C CNN
+F 3 "" H 6100 4200 50  0001 C CNN
+	1    6100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR031
+U 1 1 6202D3A0
+P 8100 4400
+F 0 "#PWR031" H 8100 4250 50  0001 C CNN
+F 1 "+3V3" H 8115 4573 50  0000 C CNN
+F 2 "" H 8100 4400 50  0001 C CNN
+F 3 "" H 8100 4400 50  0001 C CNN
+	1    8100 4400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8700 5400 8850 5400
+Wire Wire Line
+	8850 5400 8850 4000
+$Comp
+L pulse_stretcher-rescue:C-pulse_stretcher-rescue C21
+U 1 1 620A7626
+P 8850 3750
+F 0 "C21" H 8875 3850 50  0000 L CNN
+F 1 "10n" H 8875 3650 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 8888 3600 50  0001 C CNN
+F 3 "" H 8850 3750 50  0000 C CNN
+F 4 "C0402C103K5RACTU" H 8850 3750 60  0001 C CNN "Part Number"
+F 5 "TDK" H 8850 3750 60  0001 C CNN "Manufacturer"
+F 6 "0402" H 8850 3750 60  0001 C CNN "Package"
+F 7 "Farnell" H 8850 3750 60  0001 C CNN "Supplier"
+F 8 "1414575" H 8850 3750 60  0001 C CNN "Order Code"
+F 9 "10nF/50V X7R 0402 ceramic capacitor" H 8850 3750 60  0001 C CNN "Note"
+	1    8850 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8850 3900 8850 4000
+Connection ~ 8850 4000
+Wire Wire Line
+	8850 3600 8850 3500
+$Comp
+L power:+3V3 #PWR037
+U 1 1 620D194D
+P 8850 3500
+F 0 "#PWR037" H 8850 3350 50  0001 C CNN
+F 1 "+3V3" H 8865 3673 50  0000 C CNN
+F 2 "" H 8850 3500 50  0001 C CNN
+F 3 "" H 8850 3500 50  0001 C CNN
+	1    8850 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper:SolderJumper_3_Open JP1
+U 1 1 620D2343
+P 7450 3700
+F 0 "JP1" V 7500 3800 50  0000 L CNN
+F 1 "SolderJumper" V 7400 3800 50  0000 L CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm" H 7450 3700 50  0001 C CNN
+F 3 "~" H 7450 3700 50  0001 C CNN
+	1    7450 3700
+	0    1    -1   0   
+$EndComp
+$Comp
+L pulse_stretcher-rescue:VPP-pulse_stretcher-rescue #PWR029
+U 1 1 620D4B2A
+P 7450 3400
+F 0 "#PWR029" H 7450 3250 50  0001 C CNN
+F 1 "VPP" H 7450 3550 50  0000 C CNN
+F 2 "" H 7450 3400 50  0000 C CNN
+F 3 "" H 7450 3400 50  0000 C CNN
+	1    7450 3400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7450 3400 7450 3500
+Wire Wire Line
+	7450 3900 7450 4000
+Wire Wire Line
+	7450 4000 8850 4000
+Wire Wire Line
+	7300 3700 7100 3700
+Wire Wire Line
+	7100 3700 7100 4300
+Text Label 7100 4250 1    50   ~ 0
+TERMINATION
+Text Label 8400 4000 0    50   ~ 0
+VBB
+Text Label 12100 5000 0    50   ~ 0
+BUFFEREDOUT
+$Comp
+L Device:C C5
+U 1 1 6190F593
+P 3900 5100
+F 0 "C5" H 3925 5200 50  0000 L CNN
+F 1 "10n" H 3925 5000 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 3938 4950 50  0001 C CNN
+F 3 "" H 3900 5100 50  0000 C CNN
+F 4 "C0402C103K5RACTU" H 3900 5100 60  0001 C CNN "Part Number"
+F 5 "TDK" H 3900 5100 60  0001 C CNN "Manufacturer"
+F 6 "0402" H 3900 5100 60  0001 C CNN "Package"
+F 7 "Farnell" H 3900 5100 60  0001 C CNN "Supplier"
+F 8 "1414575" H 3900 5100 60  0001 C CNN "Order Code"
+F 9 "10nF/50V X7R 0402 ceramic capacitor" H 3900 5100 60  0001 C CNN "Note"
+	1    3900 5100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4050 5100 4150 5100
+$Comp
+L Device:R R5
+U 1 1 619131BC
+P 4150 5350
+F 0 "R5" V 4230 5350 50  0000 C CNN
+F 1 "2k2" V 4150 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4080 5350 50  0001 C CNN
+F 3 "" H 4150 5350 50  0000 C CNN
+F 4 "RC0603FR-072K2L" H 4150 5350 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 4150 5350 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 4150 5350 60  0001 C CNN "Package"
+F 7 "Farnell" H 4150 5350 60  0001 C CNN "Supplier"
+F 8 "9238522" H 4150 5350 60  0001 C CNN "Order Code"
+F 9 "2.2kΩ/1% 0603 resistor" H 4150 5350 60  0001 C CNN "Note"
+F 10 "0.003" H 4150 5350 60  0001 C CNN "Price"
+	1    4150 5350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4150 5200 4150 5100
+Connection ~ 4150 5100
+Wire Wire Line
+	4150 5100 5500 5100
+Wire Wire Line
+	4150 5100 4150 5000
+$Comp
+L Device:R R4
+U 1 1 61955C32
+P 4150 4850
+F 0 "R4" V 4230 4850 50  0000 C CNN
+F 1 "2k2" V 4150 4850 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4080 4850 50  0001 C CNN
+F 3 "" H 4150 4850 50  0000 C CNN
+F 4 "RC0603FR-072K2L" H 4150 4850 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 4150 4850 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 4150 4850 60  0001 C CNN "Package"
+F 7 "Farnell" H 4150 4850 60  0001 C CNN "Supplier"
+F 8 "9238522" H 4150 4850 60  0001 C CNN "Order Code"
+F 9 "2.2kΩ/1% 0603 resistor" H 4150 4850 60  0001 C CNN "Note"
+F 10 "0.003" H 4150 4850 60  0001 C CNN "Price"
+	1    4150 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR010
+U 1 1 619561B8
+P 4150 4600
+F 0 "#PWR010" H 4150 4450 50  0001 C CNN
+F 1 "+3V3" H 4165 4773 50  0000 C CNN
+F 2 "" H 4150 4600 50  0001 C CNN
+F 3 "" H 4150 4600 50  0001 C CNN
+	1    4150 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR011
+U 1 1 619568F2
+P 4150 5700
+F 0 "#PWR011" H 4150 5450 50  0001 C CNN
+F 1 "GND" H 4150 5550 50  0000 C CNN
+F 2 "" H 4150 5700 50  0000 C CNN
+F 3 "" H 4150 5700 50  0000 C CNN
+	1    4150 5700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4150 5500 4150 5700
+Wire Wire Line
+	4150 4600 4150 4700
+$Comp
+L Device:R R9
+U 1 1 6198516B
+P 4900 4250
+F 0 "R9" V 4980 4250 50  0000 C CNN
+F 1 "2k2" V 4900 4250 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4830 4250 50  0001 C CNN
+F 3 "" H 4900 4250 50  0000 C CNN
+F 4 "RC0603FR-072K2L" H 4900 4250 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 4900 4250 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 4900 4250 60  0001 C CNN "Package"
+F 7 "Farnell" H 4900 4250 60  0001 C CNN "Supplier"
+F 8 "9238522" H 4900 4250 60  0001 C CNN "Order Code"
+F 9 "2.2kΩ/1% 0603 resistor" H 4900 4250 60  0001 C CNN "Note"
+F 10 "0.003" H 4900 4250 60  0001 C CNN "Price"
+	1    4900 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR016
+U 1 1 6198556F
+P 4900 4500
+F 0 "#PWR016" H 4900 4250 50  0001 C CNN
+F 1 "GND" H 4900 4350 50  0000 C CNN
+F 2 "" H 4900 4500 50  0000 C CNN
+F 3 "" H 4900 4500 50  0000 C CNN
+	1    4900 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 4400 4900 4500
+$Comp
+L Device:R R8
+U 1 1 619B97A5
+P 4900 3750
+F 0 "R8" V 4980 3750 50  0000 C CNN
+F 1 "2k2" V 4900 3750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4830 3750 50  0001 C CNN
+F 3 "" H 4900 3750 50  0000 C CNN
+F 4 "RC0603FR-072K2L" H 4900 3750 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 4900 3750 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 4900 3750 60  0001 C CNN "Package"
+F 7 "Farnell" H 4900 3750 60  0001 C CNN "Supplier"
+F 8 "9238522" H 4900 3750 60  0001 C CNN "Order Code"
+F 9 "2.2kΩ/1% 0603 resistor" H 4900 3750 60  0001 C CNN "Note"
+F 10 "0.003" H 4900 3750 60  0001 C CNN "Price"
+	1    4900 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR015
+U 1 1 619B9A97
+P 4900 3500
+F 0 "#PWR015" H 4900 3350 50  0001 C CNN
+F 1 "+3V3" H 4915 3673 50  0000 C CNN
+F 2 "" H 4900 3500 50  0001 C CNN
+F 3 "" H 4900 3500 50  0001 C CNN
+	1    4900 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 3500 4900 3600
+Wire Wire Line
+	4900 3900 4900 4000
+Wire Wire Line
+	4900 4000 5200 4000
+Connection ~ 4900 4000
+Wire Wire Line
+	4900 4000 4900 4100
+Text Label 5200 4700 1    50   ~ 0
+LVPECL_LOW_1V65
+$Comp
+L Device:R R13
+U 1 1 61AFE53E
+P 6500 7000
+F 0 "R13" V 6580 7000 50  0000 C CNN
+F 1 "1k5" V 6500 7000 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6430 7000 50  0001 C CNN
+F 3 "" H 6500 7000 50  0000 C CNN
+F 4 "RC0603FR-071K5L" H 6500 7000 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 6500 7000 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 6500 7000 60  0001 C CNN "Package"
+F 7 "Farnell" H 6500 7000 60  0001 C CNN "Supplier"
+F 8 "9238506" H 6500 7000 60  0001 C CNN "Order Code"
+F 9 "1.5kΩ/1% 0603 resistor" H 6500 7000 60  0001 C CNN "Note"
+F 10 "0.003" H 6500 7000 60  0001 C CNN "Price"
+	1    6500 7000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6500 6850 6500 6750
+Connection ~ 6500 6750
+Wire Wire Line
+	6500 6750 6500 6650
+$Comp
+L Device:R R12
+U 1 1 61AFE553
+P 6500 6500
+F 0 "R12" V 6580 6500 50  0000 C CNN
+F 1 "1k0" V 6500 6500 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6430 6500 50  0001 C CNN
+F 3 "" H 6500 6500 50  0000 C CNN
+F 4 "RC0603FR-071KL" H 6500 6500 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 6500 6500 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 6500 6500 60  0001 C CNN "Package"
+F 7 "Farnell" H 6500 6500 60  0001 C CNN "Supplier"
+F 8 "9238484" H 6500 6500 60  0001 C CNN "Order Code"
+F 9 "1.0kΩ/1% 0603 resistor" H 6500 6500 60  0001 C CNN "Note"
+F 10 "0.003" H 6500 6500 60  0001 C CNN "Price"
+	1    6500 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR024
+U 1 1 61AFE55D
+P 6500 6250
+F 0 "#PWR024" H 6500 6100 50  0001 C CNN
+F 1 "+3V3" H 6515 6423 50  0000 C CNN
+F 2 "" H 6500 6250 50  0001 C CNN
+F 3 "" H 6500 6250 50  0001 C CNN
+	1    6500 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR025
+U 1 1 61AFE567
+P 6500 7350
+F 0 "#PWR025" H 6500 7100 50  0001 C CNN
+F 1 "GND" H 6500 7200 50  0000 C CNN
+F 2 "" H 6500 7350 50  0000 C CNN
+F 3 "" H 6500 7350 50  0000 C CNN
+	1    6500 7350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6500 7150 6500 7350
+Wire Wire Line
+	6500 6250 6500 6350
+Wire Wire Line
+	5200 4900 5500 4900
+Wire Wire Line
+	5200 4000 5200 4900
+Wire Wire Line
+	5200 4900 5200 5300
+Connection ~ 5200 4900
+Wire Wire Line
+	5200 5300 5500 5300
+Wire Wire Line
+	8700 5000 9000 5000
+Wire Wire Line
+	9300 5000 9400 5000
+Wire Wire Line
+	9400 5100 9400 5000
+Connection ~ 9400 5000
+Wire Wire Line
+	9400 5000 9650 5000
+Wire Wire Line
+	9650 5000 9650 6750
+Wire Wire Line
+	9650 6750 9000 6750
+Connection ~ 9650 5000
+Wire Wire Line
+	9650 5000 10500 5000
+$Comp
+L Device:R R18
+U 1 1 61CE2241
+P 8200 6750
+F 0 "R18" V 8280 6750 50  0000 C CNN
+F 1 "27R" V 8200 6750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8130 6750 50  0001 C CNN
+F 3 "" H 8200 6750 50  0000 C CNN
+F 4 "MCWR06X27R0FTL" H 8200 6750 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 8200 6750 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 8200 6750 60  0001 C CNN "Package"
+F 7 "Farnell" H 8200 6750 60  0001 C CNN "Supplier"
+F 8 "2447316" H 8200 6750 60  0001 C CNN "Order Code"
+F 9 "27Ω/1% 0603 resistor" H 8200 6750 60  0001 C CNN "Note"
+F 10 "0.003" H 8200 6750 60  0001 C CNN "Price"
+	1    8200 6750
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C17
+U 1 1 61CE2A55
+P 7950 7000
+F 0 "C17" H 7975 7100 50  0000 L CNN
+F 1 "20p" H 7975 6900 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7988 6850 50  0001 C CNN
+F 3 "" H 7950 7000 50  0000 C CNN
+F 4 "MC0603N200J500CT" H 7950 7000 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 7950 7000 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 7950 7000 60  0001 C CNN "Package"
+F 7 "Farnell" H 7950 7000 60  0001 C CNN "Supplier"
+F 8 "2627461" H 7950 7000 60  0001 C CNN "Order Code"
+F 9 "20pF/50V C0G 0603 ceramic capacitor" H 7950 7000 60  0001 C CNN "Note"
+	1    7950 7000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8450 6750 8350 6750
+Wire Wire Line
+	8050 6750 7950 6750
+Wire Wire Line
+	7950 6750 7950 6850
+Wire Wire Line
+	7950 7150 7950 7300
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR030
+U 1 1 61D17075
+P 7950 7300
+F 0 "#PWR030" H 7950 7050 50  0001 C CNN
+F 1 "GND" H 7950 7150 50  0000 C CNN
+F 2 "" H 7950 7300 50  0000 C CNN
+F 3 "" H 7950 7300 50  0000 C CNN
+	1    7950 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C14
+U 1 1 61D33FFF
+P 6850 6750
+F 0 "C14" H 6875 6850 50  0000 L CNN
+F 1 "10n" H 6875 6650 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 6888 6600 50  0001 C CNN
+F 3 "" H 6850 6750 50  0000 C CNN
+F 4 "C0402C103K5RACTU" H 6850 6750 60  0001 C CNN "Part Number"
+F 5 "TDK" H 6850 6750 60  0001 C CNN "Manufacturer"
+F 6 "0402" H 6850 6750 60  0001 C CNN "Package"
+F 7 "Farnell" H 6850 6750 60  0001 C CNN "Supplier"
+F 8 "1414575" H 6850 6750 60  0001 C CNN "Order Code"
+F 9 "10nF/50V X7R 0402 ceramic capacitor" H 6850 6750 60  0001 C CNN "Note"
+	1    6850 6750
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7000 6750 7350 6750
+Connection ~ 7950 6750
+Wire Wire Line
+	6700 6750 6500 6750
+Wire Wire Line
+	5500 4700 5400 4700
+Wire Wire Line
+	5400 4700 5400 6750
+Wire Wire Line
+	5400 6750 6250 6750
+Wire Wire Line
+	7000 4700 7000 5100
+Wire Wire Line
+	7200 4900 6700 4900
+Connection ~ 7200 4900
+Wire Wire Line
+	6700 5100 7000 5100
+Connection ~ 7000 5100
+Text Notes 12400 4650 0    50   ~ 0
+Pulses 1.25V into 50Ω
+$Comp
+L Regulator_Linear:LF33_TO252 U3
+U 1 1 61B25FE3
+P 4500 8600
+F 0 "U3" H 4200 8850 50  0000 L CNN
+F 1 "MCP1824ST-25" H 4200 8750 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 4500 8450 50  0001 L CNN
+F 3 "" H 4500 8750 50  0001 C CNN
+F 4 "MCP1824ST-2502E/DB" H 4500 8600 60  0001 C CNN "Part Number"
+F 5 "Microchip" H 4500 8600 60  0001 C CNN "Manufacturer"
+F 6 "SOT223" H 4500 8600 60  0001 C CNN "Package"
+F 7 "Farnell" H 4500 8600 60  0001 C CNN "Supplier"
+F 8 "1578377" H 4500 8600 60  0001 C CNN "Order Code"
+F 9 "2.5V 300 mA low voltage low quiescent current LDO regulator" H 4500 8600 60  0001 C CNN "Note"
+F 10 "0.4" H 4500 8600 60  0001 C CNN "Price"
+	1    4500 8600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C15
+U 1 1 618E4F33
+P 7450 2450
+F 0 "C15" H 7475 2550 50  0000 L CNN
+F 1 "10n" H 7475 2350 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 7488 2300 50  0001 C CNN
+F 3 "" H 7450 2450 50  0000 C CNN
+F 4 "C0402C103K5RACTU" H 7450 2450 60  0001 C CNN "Part Number"
+F 5 "TDK" H 7450 2450 60  0001 C CNN "Manufacturer"
+F 6 "0402" H 7450 2450 60  0001 C CNN "Package"
+F 7 "Farnell" H 7450 2450 60  0001 C CNN "Supplier"
+F 8 "1414575" H 7450 2450 60  0001 C CNN "Order Code"
+F 9 "10nF/50V X7R 0402 ceramic capacitor" H 7450 2450 60  0001 C CNN "Note"
+	1    7450 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:C-pulse_stretcher-rescue C16
+U 1 1 618E53FB
+P 7750 2450
+F 0 "C16" H 7775 2550 50  0000 L CNN
+F 1 "100n" H 7775 2350 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7788 2300 50  0001 C CNN
+F 3 "" H 7750 2450 50  0000 C CNN
+F 4 "C1608X7R1H104M080AA" H 7750 2450 60  0001 C CNN "Part Number"
+F 5 "TDK" H 7750 2450 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 7750 2450 60  0001 C CNN "Package"
+F 7 "Farnell" H 7750 2450 60  0001 C CNN "Supplier"
+F 8 "2522004" H 7750 2450 60  0001 C CNN "Order Code"
+F 9 "100nF/50V X7R 0603 ceramic capacitor" H 7750 2450 60  0001 C CNN "Note"
+	1    7750 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C12
+U 1 1 6191F729
+P 5350 2450
+F 0 "C12" H 5375 2550 50  0000 L CNN
+F 1 "10n" H 5375 2350 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 5388 2300 50  0001 C CNN
+F 3 "" H 5350 2450 50  0000 C CNN
+F 4 "C0402C103K5RACTU" H 5350 2450 60  0001 C CNN "Part Number"
+F 5 "TDK" H 5350 2450 60  0001 C CNN "Manufacturer"
+F 6 "0402" H 5350 2450 60  0001 C CNN "Package"
+F 7 "Farnell" H 5350 2450 60  0001 C CNN "Supplier"
+F 8 "1414575" H 5350 2450 60  0001 C CNN "Order Code"
+F 9 "10nF/50V X7R 0402 ceramic capacitor" H 5350 2450 60  0001 C CNN "Note"
+	1    5350 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:C-pulse_stretcher-rescue C13
+U 1 1 6191F735
+P 5650 2450
+F 0 "C13" H 5675 2550 50  0000 L CNN
+F 1 "100n" H 5675 2350 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5688 2300 50  0001 C CNN
+F 3 "" H 5650 2450 50  0000 C CNN
+F 4 "C1608X7R1H104M080AA" H 5650 2450 60  0001 C CNN "Part Number"
+F 5 "TDK" H 5650 2450 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 5650 2450 60  0001 C CNN "Package"
+F 7 "Farnell" H 5650 2450 60  0001 C CNN "Supplier"
+F 8 "2522004" H 5650 2450 60  0001 C CNN "Order Code"
+F 9 "100nF/50V X7R 0603 ceramic capacitor" H 5650 2450 60  0001 C CNN "Note"
+	1    5650 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C23
+U 1 1 61953C0F
+P 9500 7300
+F 0 "C23" H 9525 7400 50  0000 L CNN
+F 1 "10n" H 9525 7200 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 9538 7150 50  0001 C CNN
+F 3 "" H 9500 7300 50  0000 C CNN
+F 4 "C0402C103K5RACTU" H 9500 7300 60  0001 C CNN "Part Number"
+F 5 "TDK" H 9500 7300 60  0001 C CNN "Manufacturer"
+F 6 "0402" H 9500 7300 60  0001 C CNN "Package"
+F 7 "Farnell" H 9500 7300 60  0001 C CNN "Supplier"
+F 8 "1414575" H 9500 7300 60  0001 C CNN "Order Code"
+F 9 "10nF/50V X7R 0402 ceramic capacitor" H 9500 7300 60  0001 C CNN "Note"
+	1    9500 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:C-pulse_stretcher-rescue C24
+U 1 1 61953C1B
+P 9800 7300
+F 0 "C24" H 9825 7400 50  0000 L CNN
+F 1 "100n" H 9825 7200 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 9838 7150 50  0001 C CNN
+F 3 "" H 9800 7300 50  0000 C CNN
+F 4 "C1608X7R1H104M080AA" H 9800 7300 60  0001 C CNN "Part Number"
+F 5 "TDK" H 9800 7300 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 9800 7300 60  0001 C CNN "Package"
+F 7 "Farnell" H 9800 7300 60  0001 C CNN "Supplier"
+F 8 "2522004" H 9800 7300 60  0001 C CNN "Order Code"
+F 9 "100nF/50V X7R 0603 ceramic capacitor" H 9800 7300 60  0001 C CNN "Note"
+	1    9800 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C35
+U 1 1 61977A99
+P 12500 2400
+F 0 "C35" H 12525 2500 50  0000 L CNN
+F 1 "1uC" H 12525 2300 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 12538 2250 50  0001 C CNN
+F 3 "" H 12500 2400 50  0000 C CNN
+F 4 "GRM188R61E105K" H 12500 2400 60  0001 C CNN "Part Number"
+F 5 "Murata" H 12500 2400 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 12500 2400 60  0001 C CNN "Package"
+F 7 "Farnell" H 12500 2400 60  0001 C CNN "Supplier"
+F 8 "1828802" H 12500 2400 60  0001 C CNN "Order Code"
+F 9 "1μF/16V/10mΩ capacitor" H 12500 2400 60  0001 C CNN "Note"
+F 10 "0.09" H 12500 2400 60  0001 C CNN "Price"
+	1    12500 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C36
+U 1 1 619788A2
+P 12900 2400
+F 0 "C36" H 12925 2500 50  0000 L CNN
+F 1 "1uC" H 12925 2300 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 12938 2250 50  0001 C CNN
+F 3 "" H 12900 2400 50  0000 C CNN
+F 4 "GRM188R61E105K" H 12900 2400 60  0001 C CNN "Part Number"
+F 5 "Murata" H 12900 2400 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 12900 2400 60  0001 C CNN "Package"
+F 7 "Farnell" H 12900 2400 60  0001 C CNN "Supplier"
+F 8 "1828802" H 12900 2400 60  0001 C CNN "Order Code"
+F 9 "1μF/16V/10mΩ capacitor" H 12900 2400 60  0001 C CNN "Note"
+F 10 "0.09" H 12900 2400 60  0001 C CNN "Price"
+	1    12900 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C22
+U 1 1 61988908
+P 9400 5250
+F 0 "C22" H 9425 5350 50  0000 L CNN
+F 1 "20p" H 9425 5150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 9438 5100 50  0001 C CNN
+F 3 "" H 9400 5250 50  0000 C CNN
+F 4 "MC0603N200J500CT" H 9400 5250 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 9400 5250 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 9400 5250 60  0001 C CNN "Package"
+F 7 "Farnell" H 9400 5250 60  0001 C CNN "Supplier"
+F 8 "2627461" H 9400 5250 60  0001 C CNN "Order Code"
+F 9 "20pF/50V C0G 0603 ceramic capacitor" H 9400 5250 60  0001 C CNN "Note"
+	1    9400 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:C-pulse_stretcher-rescue C32
+U 1 1 61990786
+P 11200 6300
+F 0 "C32" V 11050 6300 50  0000 C CNN
+F 1 "100n" V 11350 6300 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 11238 6150 50  0001 C CNN
+F 3 "" H 11200 6300 50  0000 C CNN
+F 4 "C1608X7R1H104M080AA" H 11200 6300 60  0001 C CNN "Part Number"
+F 5 "TDK" H 11200 6300 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 11200 6300 60  0001 C CNN "Package"
+F 7 "Farnell" H 11200 6300 60  0001 C CNN "Supplier"
+F 8 "2522004" H 11200 6300 60  0001 C CNN "Order Code"
+F 9 "100nF/50V X7R 0603 ceramic capacitor" H 11200 6300 60  0001 C CNN "Note"
+	1    11200 6300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C33
+U 1 1 619935FC
+P 11200 6750
+F 0 "C33" V 11050 6750 50  0000 C CNN
+F 1 "10n" V 11350 6750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 11238 6600 50  0001 C CNN
+F 3 "" H 11200 6750 50  0000 C CNN
+F 4 "C0402C103K5RACTU" H 11200 6750 60  0001 C CNN "Part Number"
+F 5 "TDK" H 11200 6750 60  0001 C CNN "Manufacturer"
+F 6 "0402" H 11200 6750 60  0001 C CNN "Package"
+F 7 "Farnell" H 11200 6750 60  0001 C CNN "Supplier"
+F 8 "1414575" H 11200 6750 60  0001 C CNN "Order Code"
+F 9 "10nF/50V X7R 0402 ceramic capacitor" H 11200 6750 60  0001 C CNN "Note"
+	1    11200 6750
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C27
+U 1 1 61A71834
+P 11200 1250
+F 0 "C27" V 11050 1250 50  0000 C CNN
+F 1 "10n" V 11350 1250 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 11238 1100 50  0001 C CNN
+F 3 "" H 11200 1250 50  0000 C CNN
+F 4 "C0402C103K5RACTU" H 11200 1250 60  0001 C CNN "Part Number"
+F 5 "TDK" H 11200 1250 60  0001 C CNN "Manufacturer"
+F 6 "0402" H 11200 1250 60  0001 C CNN "Package"
+F 7 "Farnell" H 11200 1250 60  0001 C CNN "Supplier"
+F 8 "1414575" H 11200 1250 60  0001 C CNN "Order Code"
+F 9 "10nF/50V X7R 0402 ceramic capacitor" H 11200 1250 60  0001 C CNN "Note"
+	1    11200 1250
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	10850 2350 10850 2200
+Wire Wire Line
+	10850 2200 10900 2150
+$Comp
+L jakub:74AUC2G04 U8
+U 2 1 61B790B2
+P 10900 2750
+F 0 "U8" H 10950 2850 50  0000 L CNN
+F 1 "AUC2G04" H 10950 2650 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 10900 2750 50  0001 C CNN
+F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 10900 2750 50  0001 C CNN
+F 4 "SN74AUC2G04DBVR" H 10900 2750 50  0001 C CNN "Part Number"
+F 5 "Texas Instruments" H 10900 2750 50  0001 C CNN "Manufacturer"
+F 6 "SOT-23-6" H 10900 2750 50  0001 C CNN "Package"
+F 7 "Mouser" H 10900 2750 50  0001 C CNN "Supplier"
+F 8 "595-SN74AUC2G04DBVR" H 10900 2750 50  0001 C CNN "Order Code"
+F 9 "Dual Inverter Gate" H 10900 2750 50  0001 C CNN "Note"
+	2    10900 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L jakub:74AUC2G04 U9
+U 2 1 61B80EFB
+P 10900 5350
+F 0 "U9" H 10950 5450 50  0000 L CNN
+F 1 "AUC2G04" H 10950 5250 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 10900 5350 50  0001 C CNN
+F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 10900 5350 50  0001 C CNN
+F 4 "SN74AUC2G04DBVR" H 10900 5350 50  0001 C CNN "Part Number"
+F 5 "Texas Instruments" H 10900 5350 50  0001 C CNN "Manufacturer"
+F 6 "SOT-23-6" H 10900 5350 50  0001 C CNN "Package"
+F 7 "Mouser" H 10900 5350 50  0001 C CNN "Supplier"
+F 8 "595-SN74AUC2G04DBVR" H 10900 5350 50  0001 C CNN "Order Code"
+F 9 "Dual Inverter Gate" H 10900 5350 50  0001 C CNN "Note"
+	2    10900 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L jakub:74AUC2G04 U10
+U 1 1 61BC2269
+P 10900 7550
+F 0 "U10" H 10950 7650 50  0000 L CNN
+F 1 "AUC2G04" H 10950 7450 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 10900 7550 50  0001 C CNN
+F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 10900 7550 50  0001 C CNN
+F 4 "SN74AUC2G04DBVR" H 10900 7550 50  0001 C CNN "Part Number"
+F 5 "Texas Instruments" H 10900 7550 50  0001 C CNN "Manufacturer"
+F 6 "SOT-23-6" H 10900 7550 50  0001 C CNN "Package"
+F 7 "Mouser" H 10900 7550 50  0001 C CNN "Supplier"
+F 8 "595-SN74AUC2G04DBVR" H 10900 7550 50  0001 C CNN "Order Code"
+F 9 "Dual Inverter Gate" H 10900 7550 50  0001 C CNN "Note"
+	1    10900 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L jakub:74AUC2G04 U10
+U 2 1 61BC29A7
+P 10900 8250
+F 0 "U10" H 10950 8350 50  0000 L CNN
+F 1 "AUC2G04" H 10950 8150 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 10900 8250 50  0001 C CNN
+F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 10900 8250 50  0001 C CNN
+F 4 "SN74AUC2G04DBVR" H 10900 8250 50  0001 C CNN "Part Number"
+F 5 "Texas Instruments" H 10900 8250 50  0001 C CNN "Manufacturer"
+F 6 "SOT-23-6" H 10900 8250 50  0001 C CNN "Package"
+F 7 "Mouser" H 10900 8250 50  0001 C CNN "Supplier"
+F 8 "595-SN74AUC2G04DBVR" H 10900 8250 50  0001 C CNN "Order Code"
+F 9 "Dual Inverter Gate" H 10900 8250 50  0001 C CNN "Note"
+	2    10900 8250
+	1    0    0    -1  
+$EndComp
+$Comp
+L jakub:74AUC2G04 U9
+U 1 1 61C1626F
+P 10900 4650
+F 0 "U9" H 10950 4750 50  0000 L CNN
+F 1 "AUC2G04" H 10950 4550 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 10900 4650 50  0001 C CNN
+F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 10900 4650 50  0001 C CNN
+F 4 "SN74AUC2G04DBVR" H 10900 4650 50  0001 C CNN "Part Number"
+F 5 "Texas Instruments" H 10900 4650 50  0001 C CNN "Manufacturer"
+F 6 "SOT-23-6" H 10900 4650 50  0001 C CNN "Package"
+F 7 "Mouser" H 10900 4650 50  0001 C CNN "Supplier"
+F 8 "595-SN74AUC2G04DBVR" H 10900 4650 50  0001 C CNN "Order Code"
+F 9 "Dual Inverter Gate" H 10900 4650 50  0001 C CNN "Note"
+	1    10900 4650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11000 4500 10900 4550
+Wire Wire Line
+	11000 4300 11000 4500
+Wire Wire Line
+	11050 4300 11000 4300
+Connection ~ 10900 4550
+Wire Wire Line
+	10950 4450 10900 4550
+$Comp
+L power:+2V5 #PWR042
+U 1 1 61C16864
+P 10750 4300
+F 0 "#PWR042" H 10750 4150 50  0001 C CNN
+F 1 "+2V5" H 10765 4473 50  0000 C CNN
+F 2 "" H 10750 4300 50  0001 C CNN
+F 3 "" H 10750 4300 50  0001 C CNN
+	1    10750 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 61C16876
+P 11200 3400
+AR Path="/5CFAE850/61C16876" Ref="C?"  Part="1" 
+AR Path="/5D0691D6/61C16876" Ref="C?"  Part="1" 
+AR Path="/61C16876" Ref="C29"  Part="1" 
+F 0 "C29" V 11050 3400 50  0000 C CNN
+F 1 "100n" V 11350 3400 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 11238 3250 50  0001 C CNN
+F 3 "~" H 11200 3400 50  0001 C CNN
+F 4 "C1608X7R1H104M080AA" H 11200 3400 50  0001 C CNN "Part Number"
+F 5 "TDK" H 11200 3400 50  0001 C CNN "Manufacturer"
+F 6 "0603" H 11200 3400 50  0001 C CNN "Package"
+F 7 "Farnell" H 11200 3400 50  0001 C CNN "Supplier"
+F 8 "2522004" H 11200 3400 50  0001 C CNN "Order Code"
+F 9 "100nF/50V X7R 0603 ceramic capacitor" H 11200 3400 50  0001 C CNN "Note"
+F 10 "Seeed OPL" H 11200 3400 50  0001 C CNN "Alt. Supplier"
+F 11 "302010138" H 11200 3400 50  0001 C CNN "Alt. Order Code"
+	1    11200 3400
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR047
+U 1 1 61C16880
+P 10850 4950
+F 0 "#PWR047" H 10850 4700 50  0001 C CNN
+F 1 "GND" H 10855 4777 50  0000 C CNN
+F 2 "" H 10850 4950 50  0001 C CNN
+F 3 "" H 10850 4950 50  0001 C CNN
+	1    10850 4950
+	1    0    0    -1  
+$EndComp
+Connection ~ 10900 4750
+Wire Wire Line
+	10950 4900 10900 4750
+Wire Wire Line
+	11000 4800 10900 4750
+Wire Wire Line
+	11400 4800 11000 4800
+Wire Wire Line
+	11400 4300 11400 4800
+Wire Wire Line
+	11350 4300 11400 4300
+Wire Wire Line
+	10750 4450 10900 4550
+Wire Wire Line
+	10750 4450 10750 4300
+$Comp
+L Device:C C31
+U 1 1 61C16899
+P 11200 4300
+F 0 "C31" V 11350 4300 50  0000 C CNN
+F 1 "1n" V 11050 4300 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 11238 4150 50  0001 C CNN
+F 3 "~" H 11200 4300 50  0001 C CNN
+F 4 "GRM1555C1H102JA01D" H 11200 4300 50  0001 C CNN "Part Number"
+F 5 "Murata" H 11200 4300 50  0001 C CNN "Manufacturer"
+F 6 "0402" H 11200 4300 50  0001 C CNN "Package"
+F 7 "Farnell" H 11200 4300 50  0001 C CNN "Supplier"
+F 8 "8819556" H 11200 4300 50  0001 C CNN "Order Code"
+F 9 "1nF/50V C0G/NP0 0402 ceramic capacitor" H 11200 4300 50  0001 C CNN "Note"
+	1    11200 4300
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10900 3400 11050 3400
+Wire Wire Line
+	11350 3400 11500 3400
+Wire Wire Line
+	11500 3400 11500 4900
+Wire Wire Line
+	10950 4450 10950 3850
+Wire Wire Line
+	10950 3850 11050 3850
+Wire Wire Line
+	10900 4550 10900 3400
+Wire Wire Line
+	11500 4900 10950 4900
+Wire Wire Line
+	11350 3850 11450 3850
+Wire Wire Line
+	11450 3850 11450 4850
+Wire Wire Line
+	11450 4850 11000 4850
+Wire Wire Line
+	11000 4850 10900 4750
+$Comp
+L Device:C C30
+U 1 1 61C168B4
+P 11200 3850
+F 0 "C30" V 11050 3850 50  0000 C CNN
+F 1 "10n" V 11350 3850 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 11238 3700 50  0001 C CNN
+F 3 "" H 11200 3850 50  0000 C CNN
+F 4 "C0402C103K5RACTU" H 11200 3850 60  0001 C CNN "Part Number"
+F 5 "TDK" H 11200 3850 60  0001 C CNN "Manufacturer"
+F 6 "0402" H 11200 3850 60  0001 C CNN "Package"
+F 7 "Farnell" H 11200 3850 60  0001 C CNN "Supplier"
+F 8 "1414575" H 11200 3850 60  0001 C CNN "Order Code"
+F 9 "10nF/50V X7R 0402 ceramic capacitor" H 11200 3850 60  0001 C CNN "Note"
+	1    11200 3850
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	10850 4950 10850 4800
+Wire Wire Line
+	10850 4800 10900 4750
+Wire Wire Line
+	11150 4650 11650 4650
+$Comp
+L Device:C C18
+U 1 1 61E87BDF
+P 8200 2450
+F 0 "C18" H 8250 2550 50  0000 L CNN
+F 1 "1n" H 8250 2350 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 8238 2300 50  0001 C CNN
+F 3 "~" H 8200 2450 50  0001 C CNN
+F 4 "GRM1555C1H102JA01D" H 8200 2450 50  0001 C CNN "Part Number"
+F 5 "Murata" H 8200 2450 50  0001 C CNN "Manufacturer"
+F 6 "0402" H 8200 2450 50  0001 C CNN "Package"
+F 7 "Farnell" H 8200 2450 50  0001 C CNN "Supplier"
+F 8 "8819556" H 8200 2450 50  0001 C CNN "Order Code"
+F 9 "1nF/50V C0G/NP0 0402 ceramic capacitor" H 8200 2450 50  0001 C CNN "Note"
+	1    8200 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8500 2250 8200 2250
+Wire Wire Line
+	8200 2250 8200 2300
+Wire Wire Line
+	8200 2600 8200 2650
+Wire Wire Line
+	8200 2650 8500 2650
+$Comp
+L Device:C C11
+U 1 1 61EE98F0
+P 5050 2450
+F 0 "C11" H 5100 2550 50  0000 L CNN
+F 1 "1n" H 5100 2350 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 5088 2300 50  0001 C CNN
+F 3 "~" H 5050 2450 50  0001 C CNN
+F 4 "GRM1555C1H102JA01D" H 5050 2450 50  0001 C CNN "Part Number"
+F 5 "Murata" H 5050 2450 50  0001 C CNN "Manufacturer"
+F 6 "0402" H 5050 2450 50  0001 C CNN "Package"
+F 7 "Farnell" H 5050 2450 50  0001 C CNN "Supplier"
+F 8 "8819556" H 5050 2450 50  0001 C CNN "Order Code"
+F 9 "1nF/50V C0G/NP0 0402 ceramic capacitor" H 5050 2450 50  0001 C CNN "Note"
+	1    5050 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 2250 5050 2250
+Wire Wire Line
+	5050 2250 5050 2300
+Wire Wire Line
+	5050 2600 5050 2650
+Wire Wire Line
+	5050 2650 5350 2650
+$Comp
+L Device:R R16
+U 1 1 61A4BBCB
+P 7350 7000
+F 0 "R16" V 7430 7000 50  0000 C CNN
+F 1 "200R" V 7350 7000 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7280 7000 50  0001 C CNN
+F 3 "" H 7350 7000 50  0000 C CNN
+F 4 "RC0603FR-07200RL" H 7350 7000 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 7350 7000 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 7350 7000 60  0001 C CNN "Package"
+F 7 "Farnell" H 7350 7000 60  0001 C CNN "Supplier"
+F 8 "3495763" H 7350 7000 60  0001 C CNN "Order Code"
+F 9 "200Ω/1% 0603 resistor" H 7350 7000 60  0001 C CNN "Note"
+F 10 "0.003" H 7350 7000 60  0001 C CNN "Price"
+	1    7350 7000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7750 6750 7950 6750
+$Comp
+L Device:R R17
+U 1 1 61A7B393
+P 7600 6750
+F 0 "R17" V 7680 6750 50  0000 C CNN
+F 1 "750R" V 7600 6750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 7530 6750 50  0001 C CNN
+F 3 "" H 7600 6750 50  0000 C CNN
+F 4 "RC0603FR-07750RL" H 7600 6750 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 7600 6750 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 7600 6750 60  0001 C CNN "Package"
+F 7 "Farnell" H 7600 6750 60  0001 C CNN "Supplier"
+F 8 "3495907" H 7600 6750 60  0001 C CNN "Order Code"
+F 9 "750Ω/1% 0603 resistor" H 7600 6750 60  0001 C CNN "Note"
+F 10 "0.003" H 7600 6750 60  0001 C CNN "Price"
+	1    7600 6750
+	0    1    1    0   
+$EndComp
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR026
+U 1 1 61A7F679
+P 7350 7350
+F 0 "#PWR026" H 7350 7100 50  0001 C CNN
+F 1 "GND" H 7350 7200 50  0000 C CNN
+F 2 "" H 7350 7350 50  0000 C CNN
+F 3 "" H 7350 7350 50  0000 C CNN
+	1    7350 7350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7350 7150 7350 7350
+Wire Wire Line
+	7350 6850 7350 6750
+Connection ~ 7350 6750
+Wire Wire Line
+	7350 6750 7450 6750
+Wire Wire Line
+	2000 8250 2100 8250
+Wire Wire Line
+	2100 8250 2100 8500
+Wire Wire Line
+	2100 8500 2000 8500
+Wire Wire Line
+	2100 8500 2100 8750
+Wire Wire Line
+	2100 8750 2000 8750
+Connection ~ 2100 8500
+Wire Wire Line
+	2100 8750 2100 9000
+Wire Wire Line
+	2100 9000 2000 9000
+Connection ~ 2100 8750
+Wire Wire Line
+	2100 9000 2100 9100
+Connection ~ 2100 9000
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR03
+U 1 1 61BA0C4B
+P 2100 9100
+F 0 "#PWR03" H 2100 8850 50  0001 C CNN
+F 1 "GND" H 2100 8950 50  0000 C CNN
+F 2 "" H 2100 9100 50  0000 C CNN
+F 3 "" H 2100 9100 50  0000 C CNN
+	1    2100 9100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4100 7000 4100 7100
+Connection ~ 4100 7000
+Wire Wire Line
+	4100 7000 4200 7000
+Wire Wire Line
+	4500 7500 4100 7500
+Wire Wire Line
+	4100 7500 4100 7400
+Wire Wire Line
+	4100 8700 4100 8600
+Connection ~ 4100 8600
+Wire Wire Line
+	4100 8600 4200 8600
+Wire Wire Line
+	4100 9000 4100 9100
+Wire Wire Line
+	4100 9100 4500 9100
+$Comp
+L Device:C C9
+U 1 1 6196A3E8
+P 4950 7250
+F 0 "C9" H 4975 7350 50  0000 L CNN
+F 1 "4u7E" H 4975 7150 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 4988 7100 50  0001 C CNN
+F 3 "" H 4950 7250 50  0000 C CNN
+F 4 "C2012X5R1E475K125AB" H 4950 7250 60  0001 C CNN "Part Number"
+F 5 "TDK" H 4950 7250 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 4950 7250 60  0001 C CNN "Package"
+F 7 "Farnell" H 4950 7250 60  0001 C CNN "Supplier"
+F 8 "2309036" H 4950 7250 60  0001 C CNN "Order Code"
+F 9 "4.7μF/25V 0805 capacitor" H 4950 7250 60  0001 C CNN "Note"
+F 10 "0.09" H 4950 7250 60  0001 C CNN "Price"
+	1    4950 7250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C10
+U 1 1 6196BCB7
+P 4950 8850
+F 0 "C10" H 4975 8950 50  0000 L CNN
+F 1 "4u7E" H 4975 8750 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 4988 8700 50  0001 C CNN
+F 3 "" H 4950 8850 50  0000 C CNN
+F 4 "C2012X5R1E475K125AB" H 4950 8850 60  0001 C CNN "Part Number"
+F 5 "TDK" H 4950 8850 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 4950 8850 60  0001 C CNN "Package"
+F 7 "Farnell" H 4950 8850 60  0001 C CNN "Supplier"
+F 8 "2309036" H 4950 8850 60  0001 C CNN "Order Code"
+F 9 "4.7μF/25V 0805 capacitor" H 4950 8850 60  0001 C CNN "Note"
+F 10 "0.09" H 4950 8850 60  0001 C CNN "Price"
+	1    4950 8850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C8
+U 1 1 61970FEE
+P 4500 10400
+F 0 "C8" H 4525 10500 50  0000 L CNN
+F 1 "4u7E" H 4525 10300 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 4538 10250 50  0001 C CNN
+F 3 "" H 4500 10400 50  0000 C CNN
+F 4 "C2012X5R1E475K125AB" H 4500 10400 60  0001 C CNN "Part Number"
+F 5 "TDK" H 4500 10400 60  0001 C CNN "Manufacturer"
+F 6 "0805" H 4500 10400 60  0001 C CNN "Package"
+F 7 "Farnell" H 4500 10400 60  0001 C CNN "Supplier"
+F 8 "2309036" H 4500 10400 60  0001 C CNN "Order Code"
+F 9 "4.7μF/25V 0805 capacitor" H 4500 10400 60  0001 C CNN "Note"
+F 10 "0.09" H 4500 10400 60  0001 C CNN "Price"
+	1    4500 10400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 618FE095
+P 1900 8250
+F 0 "H1" V 1950 8450 50  0000 C CNN
+F 1 "M4" V 1850 8450 50  0000 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad" H 1900 8250 50  0001 C CNN
+F 3 "~" H 1900 8250 50  0001 C CNN
+	1    1900 8250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 61907DC5
+P 1900 8500
+F 0 "H2" V 1950 8700 50  0000 C CNN
+F 1 "M4" V 1850 8700 50  0000 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad" H 1900 8500 50  0001 C CNN
+F 3 "~" H 1900 8500 50  0001 C CNN
+	1    1900 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H3
+U 1 1 61908304
+P 1900 8750
+F 0 "H3" V 1950 8950 50  0000 C CNN
+F 1 "M4" V 1850 8950 50  0000 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad" H 1900 8750 50  0001 C CNN
+F 3 "~" H 1900 8750 50  0001 C CNN
+	1    1900 8750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H4
+U 1 1 619088EB
+P 1900 9000
+F 0 "H4" V 1950 9200 50  0000 C CNN
+F 1 "M4" V 1850 9200 50  0000 C CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4_Pad" H 1900 9000 50  0001 C CNN
+F 3 "~" H 1900 9000 50  0001 C CNN
+	1    1900 9000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3V3 #PWR039
+U 1 1 61E8680D
+P 9500 7050
+F 0 "#PWR039" H 9500 6900 50  0001 C CNN
+F 1 "+3V3" H 9515 7223 50  0000 C CNN
+F 2 "" H 9500 7050 50  0001 C CNN
+F 3 "" H 9500 7050 50  0001 C CNN
+	1    9500 7050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 10000 2600 10000
+$Comp
+L 74xGxx:74LVC1G240 U6
+U 1 1 61906649
+P 8700 6750
+F 0 "U6" H 8675 6575 50  0000 R CNN
+F 1 "74LVC1G240" H 8675 6484 50  0000 R CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-5" H 8700 6750 50  0001 C CNN
+F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 8700 6750 50  0001 C CNN
+F 4 "SN74LVC1G240DBVR" H 8700 6750 50  0001 C CNN "Part Number"
+F 5 "Texas Instruments" H 8700 6750 50  0001 C CNN "Manufacturer"
+F 6 "SOT-23-5" H 8700 6750 50  0001 C CNN "Package"
+F 7 "Farnell" H 8700 6750 50  0001 C CNN "Supplier"
+F 8 "3119613" H 8700 6750 50  0001 C CNN "Order Code"
+F 9 "Single Buffer/Driver With 3-State Output" H 8700 6750 50  0001 C CNN "Note"
+	1    8700 6750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L 74xGxx:74LVC1G34 U7
+U 1 1 6197F7DA
+P 10850 9000
+F 0 "U7" H 10800 9300 50  0000 R CNN
+F 1 "74LVC1G34" H 10800 9200 50  0000 R CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-5" H 10850 9000 50  0001 C CNN
+F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 10850 9000 50  0001 C CNN
+F 4 "SN74LVC1G34DBVT" H 10850 9000 50  0001 C CNN "Part Number"
+F 5 "Texas Insruments" H 10850 9000 50  0001 C CNN "Manufacturer"
+F 6 "SOT-23-5" H 10850 9000 50  0001 C CNN "Package"
+F 7 "Farnell" H 10850 9000 50  0001 C CNN "Supplier"
+F 8 "3119615" H 10850 9000 50  0001 C CNN "Order Code"
+F 9 "Single Buffer Gate" H 10850 9000 50  0001 C CNN "Note"
+	1    10850 9000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L jakub:SMA J4
+U 1 1 61A22FEE
+P 12800 9300
+F 0 "J4" H 12950 9700 60  0000 L CNN
+F 1 "SMA" H 12950 9550 60  0000 L CNN
+F 2 "jakub:SMA_5.0mm" H 12975 9470 50  0000 C CNN
+F 3 "" H 12800 9300 60  0000 C CNN
+F 4 "5-1814400-1" H 12800 9300 60  0001 C CNN "Part Number"
+F 5 "TE Connectivity" H 12800 9300 60  0001 C CNN "Manufacturer"
+F 6 "SMA R/A" H 12800 9300 60  0001 C CNN "Package"
+F 7 "Farnell" H 12800 9300 60  0001 C CNN "Supplier"
+F 8 "1248989" H 12800 9300 60  0001 C CNN "Order Code"
+F 9 "SMA coaxial right angle jack" H 12800 9300 60  0001 C CNN "Note"
+F 10 "1.91" H 12800 9300 60  0001 C CNN "Price"
+	1    12800 9300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12850 9200 12850 9300
+Wire Wire Line
+	12700 9300 12750 9300
+Wire Wire Line
+	12800 9300 12800 9200
+Wire Wire Line
+	12750 9200 12750 9300
+Connection ~ 12800 9300
+Connection ~ 12750 9300
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR054
+U 1 1 61A2380C
+P 12850 9600
+F 0 "#PWR054" H 12850 9350 50  0001 C CNN
+F 1 "GND" H 12850 9450 50  0000 C CNN
+F 2 "" H 12850 9600 50  0000 C CNN
+F 3 "" H 12850 9600 50  0000 C CNN
+	1    12850 9600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12700 9200 12700 9300
+Connection ~ 12850 9300
+Wire Wire Line
+	11150 9000 12200 9000
+Wire Wire Line
+	12800 9300 12850 9300
+Wire Wire Line
+	12750 9300 12800 9300
+Wire Wire Line
+	12850 9300 12850 9600
+Text Label 12300 9000 0    50   ~ 0
+~ENABLE
+Wire Wire Line
+	10850 8750 10850 8900
+$Comp
+L power:+3V3 #PWR049
+U 1 1 61A94C6D
+P 10850 8750
+F 0 "#PWR049" H 10850 8600 50  0001 C CNN
+F 1 "+3V3" H 10865 8923 50  0000 C CNN
+F 2 "" H 10850 8750 50  0001 C CNN
+F 3 "" H 10850 8750 50  0001 C CNN
+	1    10850 8750
+	1    0    0    -1  
+$EndComp
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR050
+U 1 1 61ABB069
+P 10850 9250
+F 0 "#PWR050" H 10850 9000 50  0001 C CNN
+F 1 "GND" H 10850 9100 50  0000 C CNN
+F 2 "" H 10850 9250 50  0000 C CNN
+F 3 "" H 10850 9250 50  0000 C CNN
+	1    10850 9250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10850 9100 10850 9250
+$Comp
+L Device:R R26
+U 1 1 61ADD29A
+P 12450 9300
+F 0 "R26" V 12530 9300 50  0000 C CNN
+F 1 "2k2" V 12450 9300 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 12380 9300 50  0001 C CNN
+F 3 "" H 12450 9300 50  0000 C CNN
+F 4 "RC0603FR-072K2L" H 12450 9300 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 12450 9300 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 12450 9300 60  0001 C CNN "Package"
+F 7 "Farnell" H 12450 9300 60  0001 C CNN "Supplier"
+F 8 "9238522" H 12450 9300 60  0001 C CNN "Order Code"
+F 9 "2.2kΩ/1% 0603 resistor" H 12450 9300 60  0001 C CNN "Note"
+F 10 "0.003" H 12450 9300 60  0001 C CNN "Price"
+	1    12450 9300
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	12700 9300 12600 9300
+Connection ~ 12700 9300
+Wire Wire Line
+	12300 9300 12200 9300
+Wire Wire Line
+	12200 9300 12200 9000
+Connection ~ 12200 9000
+Wire Wire Line
+	12200 9000 12650 9000
+Wire Wire Line
+	8700 6550 8700 6450
+Wire Wire Line
+	8700 6450 9250 6450
+Wire Wire Line
+	9250 6450 9250 9000
+Wire Wire Line
+	9250 9000 10600 9000
+$Comp
+L Device:R R11
+U 1 1 61B397F5
+P 6250 7000
+F 0 "R11" V 6330 7000 50  0000 C CNN
+F 1 "3k0" V 6250 7000 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6180 7000 50  0001 C CNN
+F 3 "" H 6250 7000 50  0000 C CNN
+F 4 "RC0603FR-073KL" H 6250 7000 60  0001 C CNN "Part Number"
+F 5 "Yageo" H 6250 7000 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 6250 7000 60  0001 C CNN "Package"
+F 7 "Farnell" H 6250 7000 60  0001 C CNN "Supplier"
+F 8 "3495834" H 6250 7000 60  0001 C CNN "Order Code"
+F 9 "3.0kΩ/1% 0603 resistor" H 6250 7000 60  0001 C CNN "Note"
+F 10 "0.003" H 6250 7000 60  0001 C CNN "Price"
+	1    6250 7000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9250 9000 6250 9000
+Wire Wire Line
+	6250 9000 6250 7150
+Connection ~ 9250 9000
+Wire Wire Line
+	6250 6850 6250 6750
+Connection ~ 6250 6750
+Wire Wire Line
+	6250 6750 6500 6750
+Text Label 9850 9000 0    50   ~ 0
+~ENABLEBUF
+Text Notes 6350 9500 0    60   ~ 0
+Enable input is active low.\nEnabled means the 3-state buffer U6 is enabled.\nEnabled means the SET signal is at 1650mV and output of U6 sets the flip-flop U4.\nDisabled means the 3-state buffer U6 is high-Z output.\nDisabled means the SET signal is at 2200mV and flip-flop U4 is always HIGH.\n
+$Comp
+L pulse_stretcher-rescue:GND-pulse_stretcher-rescue #PWR045
+U 1 1 61B9D238
+P 10750 10250
+F 0 "#PWR045" H 10750 10000 50  0001 C CNN
+F 1 "GND" H 10750 10100 50  0000 C CNN
+F 2 "" H 10750 10250 50  0000 C CNN
+F 3 "" H 10750 10250 50  0000 C CNN
+	1    10750 10250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C25
+U 1 1 61B9D92E
+P 10750 10000
+F 0 "C25" H 10775 10100 50  0000 L CNN
+F 1 "10n" H 10775 9900 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 10788 9850 50  0001 C CNN
+F 3 "" H 10750 10000 50  0000 C CNN
+F 4 "C0402C103K5RACTU" H 10750 10000 60  0001 C CNN "Part Number"
+F 5 "TDK" H 10750 10000 60  0001 C CNN "Manufacturer"
+F 6 "0402" H 10750 10000 60  0001 C CNN "Package"
+F 7 "Farnell" H 10750 10000 60  0001 C CNN "Supplier"
+F 8 "1414575" H 10750 10000 60  0001 C CNN "Order Code"
+F 9 "10nF/50V X7R 0402 ceramic capacitor" H 10750 10000 60  0001 C CNN "Note"
+	1    10750 10000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR044
+U 1 1 61B9D948
+P 10750 9750
+F 0 "#PWR044" H 10750 9600 50  0001 C CNN
+F 1 "+3V3" H 10765 9923 50  0000 C CNN
+F 2 "" H 10750 9750 50  0001 C CNN
+F 3 "" H 10750 9750 50  0001 C CNN
+	1    10750 9750
+	1    0    0    -1  
+$EndComp
+Text Notes 12550 8750 0    50   ~ 0
+Enable Input\nActive Low\nZ=2.2kΩ\nHigh 2V-5V
+Text Label 5750 6750 0    50   ~ 0
+SET
+Wire Wire Line
+	10750 9750 10750 9850
+Wire Wire Line
+	10750 10150 10750 10250
+$Comp
+L Device:LED D2
+U 1 1 61C57C22
+P 6000 8750
+F 0 "D2" H 6000 8850 50  0000 C CNN
+F 1 "orange" H 6000 8650 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 6000 8750 50  0001 C CNN
+F 3 "" H 6000 8750 50  0000 C CNN
+F 4 "KPT-1608SECK" H 6000 8750 60  0001 C CNN "Part Number"
+F 5 "Kingbright" H 6000 8750 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 6000 8750 60  0001 C CNN "Package"
+F 7 "Farnell" H 6000 8750 60  0001 C CNN "Supplier"
+F 8 "2099222" H 6000 8750 60  0001 C CNN "Order Code"
+F 9 "1.6x0.8mm orange SMD chip LED" H 6000 8750 60  0001 C CNN "Note"
+F 10 "0.05" H 6000 8750 60  0001 C CNN "Price"
+	1    6000 8750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R10
+U 1 1 61C583EB
+P 6000 8350
+F 0 "R10" V 6080 8350 50  0000 C CNN
+F 1 "1k0" V 6000 8350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5930 8350 50  0001 C CNN
+F 3 "" H 6000 8350 50  0000 C CNN
+F 4 "RC0603FR-071KL" H 6000 8350 60  0001 C CNN "Part Number"
+F 5 "Multicomp" H 6000 8350 60  0001 C CNN "Manufacturer"
+F 6 "0603" H 6000 8350 60  0001 C CNN "Package"
+F 7 "Farnell" H 6000 8350 60  0001 C CNN "Supplier"
+F 8 "9238484" H 6000 8350 60  0001 C CNN "Order Code"
+F 9 "1.0kΩ/1% 0603 resistor" H 6000 8350 60  0001 C CNN "Note"
+F 10 "0.003" H 6000 8350 60  0001 C CNN "Price"
+	1    6000 8350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6000 9000 6000 8900
+Wire Wire Line
+	6000 8600 6000 8500
+Wire Wire Line
+	6000 8200 6000 8100
+Text Notes 5800 7800 0    60   ~ 0
+~Enabled\nIndicator
+$Comp
+L power:+3V3 #PWR021
+U 1 1 61C58403
+P 6000 8100
+F 0 "#PWR021" H 6000 7950 50  0001 C CNN
+F 1 "+3V3" H 6015 8273 50  0000 C CNN
+F 2 "" H 6000 8100 50  0001 C CNN
+F 3 "" H 6000 8100 50  0001 C CNN
+	1    6000 8100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6000 9000 6250 9000
+Connection ~ 6250 9000
+Wire Wire Line
+	2300 7400 2300 7700
+Connection ~ 2300 7400
+Wire Wire Line
+	1450 7700 1450 7100
+Connection ~ 1450 7100
+Wire Wire Line
+	1450 7000 1450 7100
+Wire Wire Line
+	1450 7000 1700 7000
+Wire Notes Line
+	8900 4850 9600 4850
+Wire Notes Line
+	9600 4850 9600 5750
+Wire Notes Line
+	9600 5750 8900 5750
+Wire Notes Line
+	8900 5750 8900 4850
+Text Notes 8900 4800 0    50   ~ 0
+Optional\nUse 0Ω R19 to bypass
+$EndSCHEMATC
