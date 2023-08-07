@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dragonmux/glasgow/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dragonmux/glasgow/assignees{/user}
-blobs_url: https://api.github.com/repos/dragonmux/glasgow/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dragonmux/glasgow/branches{/branch}
-clone_url: https://github.com/dragonmux/glasgow.git
-collaborators_url: https://api.github.com/repos/dragonmux/glasgow/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dragonmux/glasgow/comments{/number}
-commits_url: https://api.github.com/repos/dragonmux/glasgow/commits{/sha}
-compare_url: https://api.github.com/repos/dragonmux/glasgow/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dragonmux/glasgow/contents/{+path}
-contributors_url: https://api.github.com/repos/dragonmux/glasgow/contributors
-created_at: '2020-08-26T21:07:47Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/dragonmux/glasgow/deployments
-description: Scots Army Knife for electronics
-disabled: false
-downloads_url: https://api.github.com/repos/dragonmux/glasgow/downloads
-events_url: https://api.github.com/repos/dragonmux/glasgow/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/dragonmux/glasgow/forks
-full_name: dragonmux/glasgow
-git_commits_url: https://api.github.com/repos/dragonmux/glasgow/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dragonmux/glasgow/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dragonmux/glasgow/git/tags{/sha}
-git_url: git://github.com/dragonmux/glasgow.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/dragonmux/glasgow/hooks
-html_url: https://github.com/dragonmux/glasgow
-id: 290604905
-is_template: false
-issue_comment_url: https://api.github.com/repos/dragonmux/glasgow/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dragonmux/glasgow/issues/events{/number}
-issues_url: https://api.github.com/repos/dragonmux/glasgow/issues{/number}
-keys_url: https://api.github.com/repos/dragonmux/glasgow/keys{/key_id}
-labels_url: https://api.github.com/repos/dragonmux/glasgow/labels{/name}
-language: Python
-languages_url: https://api.github.com/repos/dragonmux/glasgow/languages
-license:
-  key: 0bsd
-  name: BSD Zero Clause License
-  node_id: MDc6TGljZW5zZTM1
-  spdx_id: 0BSD
-  url: https://api.github.com/licenses/0bsd
-merges_url: https://api.github.com/repos/dragonmux/glasgow/merges
-milestones_url: https://api.github.com/repos/dragonmux/glasgow/milestones{/number}
-mirror_url: null
-name: glasgow
-node_id: MDEwOlJlcG9zaXRvcnkyOTA2MDQ5MDU=
-notifications_url: https://api.github.com/repos/dragonmux/glasgow/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/691140?v=4
-  events_url: https://api.github.com/users/dragonmux/events{/privacy}
-  followers_url: https://api.github.com/users/dragonmux/followers
-  following_url: https://api.github.com/users/dragonmux/following{/other_user}
-  gists_url: https://api.github.com/users/dragonmux/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dragonmux
-  id: 691140
-  login: dragonmux
-  node_id: MDQ6VXNlcjY5MTE0MA==
-  organizations_url: https://api.github.com/users/dragonmux/orgs
-  received_events_url: https://api.github.com/users/dragonmux/received_events
-  repos_url: https://api.github.com/users/dragonmux/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dragonmux/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dragonmux/subscriptions
-  type: User
-  url: https://api.github.com/users/dragonmux
-private: false
+links:
+  github_owner: dragonmux
+  github_repo_name: glasgow
+  github_src: https://github.com/dragonmux/glasgow
+  github_src_repo: https://github.com/dragonmux/glasgow
+  oomp_bot: dragonmux_glasgow
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/dragonmux_glasgow
+  oomp_doc: projects/dragonmux_glasgow/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/dragonmux_glasgow
+  oomp_src_flat: projects_flat/dragonmux_glasgow
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/dragonmux_glasgow
+  oomp_src_folder: projects_folder\dragonmux\glasgow\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\dragonmux\glasgow\version_current\working
+oomp_key: oomp_dragonmux_glasgow
+oomp_key_simple: dragonmux_glasgow
 projects_flat: projects_flat/dragonmux_glasgow/version_current/working
 projects_folder: projects_folder/dragonmux/glasgow/version_current/working
-pulls_url: https://api.github.com/repos/dragonmux/glasgow/pulls{/number}
-pushed_at: '2021-12-14T17:53:32Z'
-releases_url: https://api.github.com/repos/dragonmux/glasgow/releases{/id}
-size: 35416
-ssh_url: git@github.com:dragonmux/glasgow.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/dragonmux/glasgow/stargazers
-statuses_url: https://api.github.com/repos/dragonmux/glasgow/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dragonmux/glasgow/subscribers
-subscription_url: https://api.github.com/repos/dragonmux/glasgow/subscription
-svn_url: https://github.com/dragonmux/glasgow
-tags_url: https://api.github.com/repos/dragonmux/glasgow/tags
-teams_url: https://api.github.com/repos/dragonmux/glasgow/teams
-topics: []
-trees_url: https://api.github.com/repos/dragonmux/glasgow/git/trees{/sha}
-updated_at: '2021-12-30T01:43:21Z'
-url: https://api.github.com/repos/dragonmux/glasgow
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dragonmux/glasgow/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dragonmux/glasgow/assignees{/user}
+  blobs_url: https://api.github.com/repos/dragonmux/glasgow/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dragonmux/glasgow/branches{/branch}
+  clone_url: https://github.com/dragonmux/glasgow.git
+  collaborators_url: https://api.github.com/repos/dragonmux/glasgow/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dragonmux/glasgow/comments{/number}
+  commits_url: https://api.github.com/repos/dragonmux/glasgow/commits{/sha}
+  compare_url: https://api.github.com/repos/dragonmux/glasgow/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dragonmux/glasgow/contents/{+path}
+  contributors_url: https://api.github.com/repos/dragonmux/glasgow/contributors
+  created_at: '2020-08-26T21:07:47Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/dragonmux/glasgow/deployments
+  description: Scots Army Knife for electronics
+  disabled: false
+  downloads_url: https://api.github.com/repos/dragonmux/glasgow/downloads
+  events_url: https://api.github.com/repos/dragonmux/glasgow/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/dragonmux/glasgow/forks
+  full_name: dragonmux/glasgow
+  git_commits_url: https://api.github.com/repos/dragonmux/glasgow/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dragonmux/glasgow/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dragonmux/glasgow/git/tags{/sha}
+  git_url: git://github.com/dragonmux/glasgow.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/dragonmux/glasgow/hooks
+  html_url: https://github.com/dragonmux/glasgow
+  id: 290604905
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dragonmux/glasgow/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dragonmux/glasgow/issues/events{/number}
+  issues_url: https://api.github.com/repos/dragonmux/glasgow/issues{/number}
+  keys_url: https://api.github.com/repos/dragonmux/glasgow/keys{/key_id}
+  labels_url: https://api.github.com/repos/dragonmux/glasgow/labels{/name}
+  language: Python
+  languages_url: https://api.github.com/repos/dragonmux/glasgow/languages
+  license:
+    key: 0bsd
+    name: BSD Zero Clause License
+    node_id: MDc6TGljZW5zZTM1
+    spdx_id: 0BSD
+    url: https://api.github.com/licenses/0bsd
+  merges_url: https://api.github.com/repos/dragonmux/glasgow/merges
+  milestones_url: https://api.github.com/repos/dragonmux/glasgow/milestones{/number}
+  mirror_url: null
+  name: glasgow
+  node_id: MDEwOlJlcG9zaXRvcnkyOTA2MDQ5MDU=
+  notifications_url: https://api.github.com/repos/dragonmux/glasgow/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/691140?v=4
+    events_url: https://api.github.com/users/dragonmux/events{/privacy}
+    followers_url: https://api.github.com/users/dragonmux/followers
+    following_url: https://api.github.com/users/dragonmux/following{/other_user}
+    gists_url: https://api.github.com/users/dragonmux/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dragonmux
+    id: 691140
+    login: dragonmux
+    node_id: MDQ6VXNlcjY5MTE0MA==
+    organizations_url: https://api.github.com/users/dragonmux/orgs
+    received_events_url: https://api.github.com/users/dragonmux/received_events
+    repos_url: https://api.github.com/users/dragonmux/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dragonmux/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dragonmux/subscriptions
+    type: User
+    url: https://api.github.com/users/dragonmux
+  private: false
+  pulls_url: https://api.github.com/repos/dragonmux/glasgow/pulls{/number}
+  pushed_at: '2023-08-03T21:39:20Z'
+  releases_url: https://api.github.com/repos/dragonmux/glasgow/releases{/id}
+  size: 35812
+  ssh_url: git@github.com:dragonmux/glasgow.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/dragonmux/glasgow/stargazers
+  statuses_url: https://api.github.com/repos/dragonmux/glasgow/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dragonmux/glasgow/subscribers
+  subscription_url: https://api.github.com/repos/dragonmux/glasgow/subscription
+  svn_url: https://github.com/dragonmux/glasgow
+  tags_url: https://api.github.com/repos/dragonmux/glasgow/tags
+  teams_url: https://api.github.com/repos/dragonmux/glasgow/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dragonmux/glasgow/git/trees{/sha}
+  updated_at: '2021-12-30T01:43:21Z'
+  url: https://api.github.com/repos/dragonmux/glasgow
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

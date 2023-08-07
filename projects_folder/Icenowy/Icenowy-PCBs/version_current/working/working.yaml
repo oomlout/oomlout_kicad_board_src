@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/assignees{/user}
-blobs_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/branches{/branch}
-clone_url: https://github.com/Icenowy/Icenowy-PCBs.git
-collaborators_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/comments{/number}
-commits_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/commits{/sha}
-compare_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/contents/{+path}
-contributors_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/contributors
-created_at: '2018-07-30T01:59:51Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/deployments
-description: PCBs designed by Icenowy
-disabled: false
-downloads_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/downloads
-events_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/events
 file_sch_flat: projects_flat/icenowy_icenowy_pcbs/version_current/working/working.sch
 file_sch_folder: projects_folder/Icenowy/Icenowy-PCBs/version_current/working/working.sch
-fork: false
-forks: 8
-forks_count: 8
-forks_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/forks
-full_name: Icenowy/Icenowy-PCBs
-git_commits_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/git/tags{/sha}
-git_url: git://github.com/Icenowy/Icenowy-PCBs.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/hooks
-html_url: https://github.com/Icenowy/Icenowy-PCBs
-id: 142812283
-is_template: false
-issue_comment_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/issues/events{/number}
-issues_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/issues{/number}
-keys_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/keys{/key_id}
-labels_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/merges
-milestones_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/milestones{/number}
-mirror_url: null
-name: Icenowy-PCBs
-node_id: MDEwOlJlcG9zaXRvcnkxNDI4MTIyODM=
-notifications_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1916518?v=4
-  events_url: https://api.github.com/users/Icenowy/events{/privacy}
-  followers_url: https://api.github.com/users/Icenowy/followers
-  following_url: https://api.github.com/users/Icenowy/following{/other_user}
-  gists_url: https://api.github.com/users/Icenowy/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Icenowy
-  id: 1916518
-  login: Icenowy
-  node_id: MDQ6VXNlcjE5MTY1MTg=
-  organizations_url: https://api.github.com/users/Icenowy/orgs
-  received_events_url: https://api.github.com/users/Icenowy/received_events
-  repos_url: https://api.github.com/users/Icenowy/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Icenowy/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Icenowy/subscriptions
-  type: User
-  url: https://api.github.com/users/Icenowy
-private: false
+links:
+  github_owner: Icenowy
+  github_repo_name: Icenowy-PCBs
+  github_src: https://github.com/Icenowy/Icenowy-PCBs
+  github_src_repo: https://github.com/Icenowy/Icenowy-PCBs
+  oomp_bot: icenowy_icenowy_pcbs
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/icenowy_icenowy_pcbs
+  oomp_doc: projects/icenowy_icenowy_pcbs/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/icenowy_icenowy_pcbs
+  oomp_src_flat: projects_flat/icenowy_icenowy_pcbs
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/icenowy_icenowy_pcbs
+  oomp_src_folder: projects_folder\Icenowy\Icenowy-PCBs\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Icenowy\Icenowy-PCBs\version_current\working
+oomp_key: oomp_icenowy_icenowy_pcbs
+oomp_key_simple: icenowy_icenowy_pcbs
 projects_flat: projects_flat/icenowy_icenowy_pcbs/version_current/working
 projects_folder: projects_folder/Icenowy/Icenowy-PCBs/version_current/working
-pulls_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/pulls{/number}
-pushed_at: '2021-12-16T15:32:25Z'
-releases_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/releases{/id}
-size: 1588
-ssh_url: git@github.com:Icenowy/Icenowy-PCBs.git
-stargazers_count: 24
-stargazers_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/stargazers
-statuses_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/subscribers
-subscription_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/subscription
-svn_url: https://github.com/Icenowy/Icenowy-PCBs
-tags_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/tags
-teams_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/teams
-topics: []
-trees_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/git/trees{/sha}
-updated_at: '2022-02-01T00:07:52Z'
-url: https://api.github.com/repos/Icenowy/Icenowy-PCBs
-visibility: public
-watchers: 24
-watchers_count: 24
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/assignees{/user}
+  blobs_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/branches{/branch}
+  clone_url: https://github.com/Icenowy/Icenowy-PCBs.git
+  collaborators_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/comments{/number}
+  commits_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/commits{/sha}
+  compare_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/contents/{+path}
+  contributors_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/contributors
+  created_at: '2018-07-30T01:59:51Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/deployments
+  description: PCBs designed by Icenowy
+  disabled: false
+  downloads_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/downloads
+  events_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/events
+  fork: false
+  forks: 8
+  forks_count: 8
+  forks_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/forks
+  full_name: Icenowy/Icenowy-PCBs
+  git_commits_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/git/tags{/sha}
+  git_url: git://github.com/Icenowy/Icenowy-PCBs.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/hooks
+  html_url: https://github.com/Icenowy/Icenowy-PCBs
+  id: 142812283
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/issues/events{/number}
+  issues_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/issues{/number}
+  keys_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/keys{/key_id}
+  labels_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/merges
+  milestones_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/milestones{/number}
+  mirror_url: null
+  name: Icenowy-PCBs
+  node_id: MDEwOlJlcG9zaXRvcnkxNDI4MTIyODM=
+  notifications_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1916518?v=4
+    events_url: https://api.github.com/users/Icenowy/events{/privacy}
+    followers_url: https://api.github.com/users/Icenowy/followers
+    following_url: https://api.github.com/users/Icenowy/following{/other_user}
+    gists_url: https://api.github.com/users/Icenowy/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Icenowy
+    id: 1916518
+    login: Icenowy
+    node_id: MDQ6VXNlcjE5MTY1MTg=
+    organizations_url: https://api.github.com/users/Icenowy/orgs
+    received_events_url: https://api.github.com/users/Icenowy/received_events
+    repos_url: https://api.github.com/users/Icenowy/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Icenowy/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Icenowy/subscriptions
+    type: User
+    url: https://api.github.com/users/Icenowy
+  private: false
+  pulls_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/pulls{/number}
+  pushed_at: '2021-12-16T15:32:25Z'
+  releases_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/releases{/id}
+  size: 1588
+  ssh_url: git@github.com:Icenowy/Icenowy-PCBs.git
+  stargazers_count: 24
+  stargazers_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/stargazers
+  statuses_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/subscribers
+  subscription_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/subscription
+  svn_url: https://github.com/Icenowy/Icenowy-PCBs
+  tags_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/tags
+  teams_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Icenowy/Icenowy-PCBs/git/trees{/sha}
+  updated_at: '2022-02-01T00:07:52Z'
+  url: https://api.github.com/repos/Icenowy/Icenowy-PCBs
+  visibility: public
+  watchers: 24
+  watchers_count: 24
+  web_commit_signoff_required: false

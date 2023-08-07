@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/assignees{/user}
-blobs_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/branches{/branch}
-clone_url: https://github.com/Toroid-io/AccelerationDataLogger.git
-collaborators_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/comments{/number}
-commits_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/commits{/sha}
-compare_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/contents/{+path}
-contributors_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/contributors
-created_at: '2017-12-05T21:31:26Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/deployments
-description: An open source acceleration data logger board and software, using widely
-  available sensors
-disabled: false
-downloads_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/downloads
-events_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/forks
-full_name: Toroid-io/AccelerationDataLogger
-git_commits_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/git/tags{/sha}
-git_url: git://github.com/Toroid-io/AccelerationDataLogger.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/hooks
-html_url: https://github.com/Toroid-io/AccelerationDataLogger
-id: 113235176
-is_template: false
-issue_comment_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/issues/events{/number}
-issues_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/issues{/number}
-keys_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/keys{/key_id}
-labels_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/merges
-milestones_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/milestones{/number}
-mirror_url: null
-name: AccelerationDataLogger
-node_id: MDEwOlJlcG9zaXRvcnkxMTMyMzUxNzY=
-notifications_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/27782320?v=4
-  events_url: https://api.github.com/users/Toroid-io/events{/privacy}
-  followers_url: https://api.github.com/users/Toroid-io/followers
-  following_url: https://api.github.com/users/Toroid-io/following{/other_user}
-  gists_url: https://api.github.com/users/Toroid-io/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Toroid-io
-  id: 27782320
-  login: Toroid-io
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI3NzgyMzIw
-  organizations_url: https://api.github.com/users/Toroid-io/orgs
-  received_events_url: https://api.github.com/users/Toroid-io/received_events
-  repos_url: https://api.github.com/users/Toroid-io/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Toroid-io/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Toroid-io/subscriptions
-  type: Organization
-  url: https://api.github.com/users/Toroid-io
-private: false
+links:
+  github_owner: Toroid-io
+  github_repo_name: AccelerationDataLogger
+  github_src: https://github.com/Toroid-io/AccelerationDataLogger
+  github_src_repo: https://github.com/Toroid-io/AccelerationDataLogger
+  oomp_bot: projects_toroid_io_accelerationdatalogger
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_toroid_io_accelerationdatalogger
+  oomp_doc: projects/projects_flat_toroid_io_accelerationdatalogger/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_toroid_io_accelerationdatalogger
+  oomp_src_flat: projects_flat/projects_flat_toroid_io_accelerationdatalogger
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_toroid_io_accelerationdatalogger
+  oomp_src_folder: projects_flat\toroid_io_accelerationdatalogger\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\toroid_io_accelerationdatalogger\version_current\working
+oomp_key: oomp_projects_flat_toroid_io_accelerationdatalogger
+oomp_key_simple: projects_flat_toroid_io_accelerationdatalogger
 projects_flat: projects_flat/toroid_io_accelerationdatalogger/version_current/working
 projects_folder: projects_folder/Toroid-io/AccelerationDataLogger/version_current/working
-pulls_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/pulls{/number}
-pushed_at: '2018-01-19T17:16:28Z'
-releases_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/releases{/id}
-size: 958
-ssh_url: git@github.com:Toroid-io/AccelerationDataLogger.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/stargazers
-statuses_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/subscribers
-subscription_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/subscription
-svn_url: https://github.com/Toroid-io/AccelerationDataLogger
-tags_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/tags
-teams_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/teams
-topics: []
-trees_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/git/trees{/sha}
-updated_at: '2022-04-16T13:02:59Z'
-url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/assignees{/user}
+  blobs_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/branches{/branch}
+  clone_url: https://github.com/Toroid-io/AccelerationDataLogger.git
+  collaborators_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/comments{/number}
+  commits_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/commits{/sha}
+  compare_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/contents/{+path}
+  contributors_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/contributors
+  created_at: '2017-12-05T21:31:26Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/deployments
+  description: An open source acceleration data logger board and software, using widely
+    available sensors
+  disabled: false
+  downloads_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/downloads
+  events_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/forks
+  full_name: Toroid-io/AccelerationDataLogger
+  git_commits_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/git/tags{/sha}
+  git_url: git://github.com/Toroid-io/AccelerationDataLogger.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/hooks
+  html_url: https://github.com/Toroid-io/AccelerationDataLogger
+  id: 113235176
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/issues/events{/number}
+  issues_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/issues{/number}
+  keys_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/keys{/key_id}
+  labels_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/merges
+  milestones_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/milestones{/number}
+  mirror_url: null
+  name: AccelerationDataLogger
+  node_id: MDEwOlJlcG9zaXRvcnkxMTMyMzUxNzY=
+  notifications_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/27782320?v=4
+    events_url: https://api.github.com/users/Toroid-io/events{/privacy}
+    followers_url: https://api.github.com/users/Toroid-io/followers
+    following_url: https://api.github.com/users/Toroid-io/following{/other_user}
+    gists_url: https://api.github.com/users/Toroid-io/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Toroid-io
+    id: 27782320
+    login: Toroid-io
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI3NzgyMzIw
+    organizations_url: https://api.github.com/users/Toroid-io/orgs
+    received_events_url: https://api.github.com/users/Toroid-io/received_events
+    repos_url: https://api.github.com/users/Toroid-io/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Toroid-io/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Toroid-io/subscriptions
+    type: Organization
+    url: https://api.github.com/users/Toroid-io
+  private: false
+  pulls_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/pulls{/number}
+  pushed_at: '2018-01-19T17:16:28Z'
+  releases_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/releases{/id}
+  size: 958
+  ssh_url: git@github.com:Toroid-io/AccelerationDataLogger.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/stargazers
+  statuses_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/subscribers
+  subscription_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/subscription
+  svn_url: https://github.com/Toroid-io/AccelerationDataLogger
+  tags_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/tags
+  teams_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger/git/trees{/sha}
+  updated_at: '2022-04-16T13:02:59Z'
+  url: https://api.github.com/repos/Toroid-io/AccelerationDataLogger
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Arduino_Fio/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Arduino_Fio/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Arduino_Fio/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Arduino_Fio/branches{/branch}
-clone_url: https://github.com/sparkfun/Arduino_Fio.git
-collaborators_url: https://api.github.com/repos/sparkfun/Arduino_Fio/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Arduino_Fio/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Arduino_Fio/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Arduino_Fio/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Arduino_Fio/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Arduino_Fio/contributors
-created_at: '2015-10-06T15:19:05Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Arduino_Fio/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Arduino_Fio/downloads
-events_url: https://api.github.com/repos/sparkfun/Arduino_Fio/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/sparkfun/Arduino_Fio/forks
-full_name: sparkfun/Arduino_Fio
-git_commits_url: https://api.github.com/repos/sparkfun/Arduino_Fio/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Arduino_Fio/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Arduino_Fio/git/tags{/sha}
-git_url: git://github.com/sparkfun/Arduino_Fio.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/Arduino_Fio/hooks
-html_url: https://github.com/sparkfun/Arduino_Fio
-id: 43759043
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Arduino_Fio/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Arduino_Fio/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Arduino_Fio/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Arduino_Fio/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Arduino_Fio/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/sparkfun/Arduino_Fio/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/Arduino_Fio/merges
-milestones_url: https://api.github.com/repos/sparkfun/Arduino_Fio/milestones{/number}
-mirror_url: null
-name: Arduino_Fio
-node_id: MDEwOlJlcG9zaXRvcnk0Mzc1OTA0Mw==
-notifications_url: https://api.github.com/repos/sparkfun/Arduino_Fio/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Arduino_Fio
+  github_src: https://github.com/sparkfun/Arduino_Fio
+  github_src_repo: https://github.com/sparkfun/Arduino_Fio
+  oomp_bot: sparkfun_arduino_fio
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_arduino_fio
+  oomp_doc: projects/sparkfun_arduino_fio/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_arduino_fio
+  oomp_src_flat: projects_flat/sparkfun_arduino_fio
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_arduino_fio
+  oomp_src_folder: projects_folder\sparkfun\Arduino_Fio\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\Arduino_Fio\version_current\working
+oomp_key: oomp_sparkfun_arduino_fio
+oomp_key_simple: sparkfun_arduino_fio
+projects_flat: projects_flat/sparkfun_arduino_fio/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_arduino_fio/version_current/working
 projects_folder: projects_folder/sparkfun/Arduino_Fio/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Arduino_Fio/pulls{/number}
-pushed_at: '2016-03-02T23:19:42Z'
-releases_url: https://api.github.com/repos/sparkfun/Arduino_Fio/releases{/id}
-size: 197
-ssh_url: git@github.com:sparkfun/Arduino_Fio.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/sparkfun/Arduino_Fio/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Arduino_Fio/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Arduino_Fio/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Arduino_Fio/subscription
-svn_url: https://github.com/sparkfun/Arduino_Fio
-tags_url: https://api.github.com/repos/sparkfun/Arduino_Fio/tags
-teams_url: https://api.github.com/repos/sparkfun/Arduino_Fio/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/Arduino_Fio/git/trees{/sha}
-updated_at: '2018-12-06T23:08:41Z'
-url: https://api.github.com/repos/sparkfun/Arduino_Fio
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Arduino_Fio/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Arduino_Fio/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Arduino_Fio/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Arduino_Fio/branches{/branch}
+  clone_url: https://github.com/sparkfun/Arduino_Fio.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Arduino_Fio/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Arduino_Fio/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Arduino_Fio/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Arduino_Fio/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Arduino_Fio/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Arduino_Fio/contributors
+  created_at: '2015-10-06T15:19:05Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Arduino_Fio/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Arduino_Fio/downloads
+  events_url: https://api.github.com/repos/sparkfun/Arduino_Fio/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/sparkfun/Arduino_Fio/forks
+  full_name: sparkfun/Arduino_Fio
+  git_commits_url: https://api.github.com/repos/sparkfun/Arduino_Fio/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Arduino_Fio/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Arduino_Fio/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Arduino_Fio.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/Arduino_Fio/hooks
+  html_url: https://github.com/sparkfun/Arduino_Fio
+  id: 43759043
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Arduino_Fio/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Arduino_Fio/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Arduino_Fio/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Arduino_Fio/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Arduino_Fio/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/sparkfun/Arduino_Fio/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/Arduino_Fio/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Arduino_Fio/milestones{/number}
+  mirror_url: null
+  name: Arduino_Fio
+  node_id: MDEwOlJlcG9zaXRvcnk0Mzc1OTA0Mw==
+  notifications_url: https://api.github.com/repos/sparkfun/Arduino_Fio/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Arduino_Fio/pulls{/number}
+  pushed_at: '2016-03-02T23:19:42Z'
+  releases_url: https://api.github.com/repos/sparkfun/Arduino_Fio/releases{/id}
+  size: 197
+  ssh_url: git@github.com:sparkfun/Arduino_Fio.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/sparkfun/Arduino_Fio/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Arduino_Fio/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Arduino_Fio/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Arduino_Fio/subscription
+  svn_url: https://github.com/sparkfun/Arduino_Fio
+  tags_url: https://api.github.com/repos/sparkfun/Arduino_Fio/tags
+  teams_url: https://api.github.com/repos/sparkfun/Arduino_Fio/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/Arduino_Fio/git/trees{/sha}
+  updated_at: '2018-12-06T23:08:41Z'
+  url: https://api.github.com/repos/sparkfun/Arduino_Fio
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

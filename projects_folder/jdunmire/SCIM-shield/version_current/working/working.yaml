@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/jdunmire/SCIM-shield/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/jdunmire/SCIM-shield/assignees{/user}
-blobs_url: https://api.github.com/repos/jdunmire/SCIM-shield/git/blobs{/sha}
-branches_url: https://api.github.com/repos/jdunmire/SCIM-shield/branches{/branch}
-clone_url: https://github.com/jdunmire/SCIM-shield.git
-collaborators_url: https://api.github.com/repos/jdunmire/SCIM-shield/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/jdunmire/SCIM-shield/comments{/number}
-commits_url: https://api.github.com/repos/jdunmire/SCIM-shield/commits{/sha}
-compare_url: https://api.github.com/repos/jdunmire/SCIM-shield/compare/{base}...{head}
-contents_url: https://api.github.com/repos/jdunmire/SCIM-shield/contents/{+path}
-contributors_url: https://api.github.com/repos/jdunmire/SCIM-shield/contributors
-created_at: '2014-06-06T02:41:45Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/jdunmire/SCIM-shield/deployments
-description: Serial Capacitance/Inductance Meter shield for the Arduino
-disabled: false
-downloads_url: https://api.github.com/repos/jdunmire/SCIM-shield/downloads
-events_url: https://api.github.com/repos/jdunmire/SCIM-shield/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/jdunmire/SCIM-shield/forks
-full_name: jdunmire/SCIM-shield
-git_commits_url: https://api.github.com/repos/jdunmire/SCIM-shield/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/jdunmire/SCIM-shield/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/jdunmire/SCIM-shield/git/tags{/sha}
-git_url: git://github.com/jdunmire/SCIM-shield.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/jdunmire/SCIM-shield/hooks
-html_url: https://github.com/jdunmire/SCIM-shield
-id: 20549141
-is_template: false
-issue_comment_url: https://api.github.com/repos/jdunmire/SCIM-shield/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/jdunmire/SCIM-shield/issues/events{/number}
-issues_url: https://api.github.com/repos/jdunmire/SCIM-shield/issues{/number}
-keys_url: https://api.github.com/repos/jdunmire/SCIM-shield/keys{/key_id}
-labels_url: https://api.github.com/repos/jdunmire/SCIM-shield/labels{/name}
-language: CSS
-languages_url: https://api.github.com/repos/jdunmire/SCIM-shield/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/jdunmire/SCIM-shield/merges
-milestones_url: https://api.github.com/repos/jdunmire/SCIM-shield/milestones{/number}
-mirror_url: null
-name: SCIM-shield
-node_id: MDEwOlJlcG9zaXRvcnkyMDU0OTE0MQ==
-notifications_url: https://api.github.com/repos/jdunmire/SCIM-shield/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/292867?v=4
-  events_url: https://api.github.com/users/jdunmire/events{/privacy}
-  followers_url: https://api.github.com/users/jdunmire/followers
-  following_url: https://api.github.com/users/jdunmire/following{/other_user}
-  gists_url: https://api.github.com/users/jdunmire/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/jdunmire
-  id: 292867
-  login: jdunmire
-  node_id: MDQ6VXNlcjI5Mjg2Nw==
-  organizations_url: https://api.github.com/users/jdunmire/orgs
-  received_events_url: https://api.github.com/users/jdunmire/received_events
-  repos_url: https://api.github.com/users/jdunmire/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/jdunmire/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/jdunmire/subscriptions
-  type: User
-  url: https://api.github.com/users/jdunmire
-private: false
+links:
+  github_owner: jdunmire
+  github_repo_name: SCIM-shield
+  github_src: https://github.com/jdunmire/SCIM-shield
+  github_src_repo: https://github.com/jdunmire/SCIM-shield
+  oomp_bot: jdunmire_scim_shield
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/jdunmire_scim_shield
+  oomp_doc: projects/jdunmire_scim_shield/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/jdunmire_scim_shield
+  oomp_src_flat: projects_flat/jdunmire_scim_shield
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/jdunmire_scim_shield
+  oomp_src_folder: projects_folder\jdunmire\SCIM-shield\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\jdunmire\SCIM-shield\version_current\working
+oomp_key: oomp_jdunmire_scim_shield
+oomp_key_simple: jdunmire_scim_shield
 projects_flat: projects_flat/jdunmire_scim_shield/version_current/working
 projects_folder: projects_folder/jdunmire/SCIM-shield/version_current/working
-pulls_url: https://api.github.com/repos/jdunmire/SCIM-shield/pulls{/number}
-pushed_at: '2014-06-06T04:15:21Z'
-releases_url: https://api.github.com/repos/jdunmire/SCIM-shield/releases{/id}
-size: 28584
-ssh_url: git@github.com:jdunmire/SCIM-shield.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/jdunmire/SCIM-shield/stargazers
-statuses_url: https://api.github.com/repos/jdunmire/SCIM-shield/statuses/{sha}
-subscribers_url: https://api.github.com/repos/jdunmire/SCIM-shield/subscribers
-subscription_url: https://api.github.com/repos/jdunmire/SCIM-shield/subscription
-svn_url: https://github.com/jdunmire/SCIM-shield
-tags_url: https://api.github.com/repos/jdunmire/SCIM-shield/tags
-teams_url: https://api.github.com/repos/jdunmire/SCIM-shield/teams
-topics: []
-trees_url: https://api.github.com/repos/jdunmire/SCIM-shield/git/trees{/sha}
-updated_at: '2018-03-10T14:47:07Z'
-url: https://api.github.com/repos/jdunmire/SCIM-shield
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/jdunmire/SCIM-shield/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/jdunmire/SCIM-shield/assignees{/user}
+  blobs_url: https://api.github.com/repos/jdunmire/SCIM-shield/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/jdunmire/SCIM-shield/branches{/branch}
+  clone_url: https://github.com/jdunmire/SCIM-shield.git
+  collaborators_url: https://api.github.com/repos/jdunmire/SCIM-shield/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/jdunmire/SCIM-shield/comments{/number}
+  commits_url: https://api.github.com/repos/jdunmire/SCIM-shield/commits{/sha}
+  compare_url: https://api.github.com/repos/jdunmire/SCIM-shield/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/jdunmire/SCIM-shield/contents/{+path}
+  contributors_url: https://api.github.com/repos/jdunmire/SCIM-shield/contributors
+  created_at: '2014-06-06T02:41:45Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/jdunmire/SCIM-shield/deployments
+  description: Serial Capacitance/Inductance Meter shield for the Arduino
+  disabled: false
+  downloads_url: https://api.github.com/repos/jdunmire/SCIM-shield/downloads
+  events_url: https://api.github.com/repos/jdunmire/SCIM-shield/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/jdunmire/SCIM-shield/forks
+  full_name: jdunmire/SCIM-shield
+  git_commits_url: https://api.github.com/repos/jdunmire/SCIM-shield/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/jdunmire/SCIM-shield/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/jdunmire/SCIM-shield/git/tags{/sha}
+  git_url: git://github.com/jdunmire/SCIM-shield.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/jdunmire/SCIM-shield/hooks
+  html_url: https://github.com/jdunmire/SCIM-shield
+  id: 20549141
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/jdunmire/SCIM-shield/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/jdunmire/SCIM-shield/issues/events{/number}
+  issues_url: https://api.github.com/repos/jdunmire/SCIM-shield/issues{/number}
+  keys_url: https://api.github.com/repos/jdunmire/SCIM-shield/keys{/key_id}
+  labels_url: https://api.github.com/repos/jdunmire/SCIM-shield/labels{/name}
+  language: CSS
+  languages_url: https://api.github.com/repos/jdunmire/SCIM-shield/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/jdunmire/SCIM-shield/merges
+  milestones_url: https://api.github.com/repos/jdunmire/SCIM-shield/milestones{/number}
+  mirror_url: null
+  name: SCIM-shield
+  node_id: MDEwOlJlcG9zaXRvcnkyMDU0OTE0MQ==
+  notifications_url: https://api.github.com/repos/jdunmire/SCIM-shield/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/292867?v=4
+    events_url: https://api.github.com/users/jdunmire/events{/privacy}
+    followers_url: https://api.github.com/users/jdunmire/followers
+    following_url: https://api.github.com/users/jdunmire/following{/other_user}
+    gists_url: https://api.github.com/users/jdunmire/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/jdunmire
+    id: 292867
+    login: jdunmire
+    node_id: MDQ6VXNlcjI5Mjg2Nw==
+    organizations_url: https://api.github.com/users/jdunmire/orgs
+    received_events_url: https://api.github.com/users/jdunmire/received_events
+    repos_url: https://api.github.com/users/jdunmire/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/jdunmire/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/jdunmire/subscriptions
+    type: User
+    url: https://api.github.com/users/jdunmire
+  private: false
+  pulls_url: https://api.github.com/repos/jdunmire/SCIM-shield/pulls{/number}
+  pushed_at: '2014-06-06T04:15:21Z'
+  releases_url: https://api.github.com/repos/jdunmire/SCIM-shield/releases{/id}
+  size: 28584
+  ssh_url: git@github.com:jdunmire/SCIM-shield.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/jdunmire/SCIM-shield/stargazers
+  statuses_url: https://api.github.com/repos/jdunmire/SCIM-shield/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/jdunmire/SCIM-shield/subscribers
+  subscription_url: https://api.github.com/repos/jdunmire/SCIM-shield/subscription
+  svn_url: https://github.com/jdunmire/SCIM-shield
+  tags_url: https://api.github.com/repos/jdunmire/SCIM-shield/tags
+  teams_url: https://api.github.com/repos/jdunmire/SCIM-shield/teams
+  topics: []
+  trees_url: https://api.github.com/repos/jdunmire/SCIM-shield/git/trees{/sha}
+  updated_at: '2018-03-10T14:47:07Z'
+  url: https://api.github.com/repos/jdunmire/SCIM-shield
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

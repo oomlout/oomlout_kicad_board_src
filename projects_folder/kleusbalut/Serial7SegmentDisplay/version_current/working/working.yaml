@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/assignees{/user}
-blobs_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/git/blobs{/sha}
-branches_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/branches{/branch}
-clone_url: https://github.com/kleusbalut/Serial7SegmentDisplay.git
-collaborators_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/comments{/number}
-commits_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/commits{/sha}
-compare_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/compare/{base}...{head}
-contents_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/contents/{+path}
-contributors_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/contributors
-created_at: '2021-09-15T11:13:15Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/deployments
-description: 'Example code and board files for the Serial 7 Segment Display. '
-disabled: false
-downloads_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/downloads
-events_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/events
 file_brd_flat: projects_flat/kleusbalut_serial7segmentdisplay/version_current/working/working.brd
 file_brd_folder: projects_folder/kleusbalut/Serial7SegmentDisplay/version_current/working/working.brd
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/forks
-full_name: kleusbalut/Serial7SegmentDisplay
-git_commits_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/git/tags{/sha}
-git_url: git://github.com/kleusbalut/Serial7SegmentDisplay.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/products/11629
-hooks_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/hooks
-html_url: https://github.com/kleusbalut/Serial7SegmentDisplay
-id: 406729993
-is_template: false
-issue_comment_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/issues/events{/number}
-issues_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/issues{/number}
-keys_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/keys{/key_id}
-labels_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/languages
-license: null
-merges_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/merges
-milestones_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/milestones{/number}
-mirror_url: null
-name: Serial7SegmentDisplay
-node_id: MDEwOlJlcG9zaXRvcnk0MDY3Mjk5OTM=
-notifications_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/9697347?v=4
-  events_url: https://api.github.com/users/kleusbalut/events{/privacy}
-  followers_url: https://api.github.com/users/kleusbalut/followers
-  following_url: https://api.github.com/users/kleusbalut/following{/other_user}
-  gists_url: https://api.github.com/users/kleusbalut/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/kleusbalut
-  id: 9697347
-  login: kleusbalut
-  node_id: MDQ6VXNlcjk2OTczNDc=
-  organizations_url: https://api.github.com/users/kleusbalut/orgs
-  received_events_url: https://api.github.com/users/kleusbalut/received_events
-  repos_url: https://api.github.com/users/kleusbalut/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/kleusbalut/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/kleusbalut/subscriptions
-  type: User
-  url: https://api.github.com/users/kleusbalut
-private: false
+links:
+  github_owner: kleusbalut
+  github_repo_name: Serial7SegmentDisplay
+  github_src: https://github.com/kleusbalut/Serial7SegmentDisplay
+  github_src_repo: https://github.com/kleusbalut/Serial7SegmentDisplay
+  oomp_bot: kleusbalut_serial7segmentdisplay
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/kleusbalut_serial7segmentdisplay
+  oomp_doc: projects/kleusbalut_serial7segmentdisplay/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/kleusbalut_serial7segmentdisplay
+  oomp_src_flat: projects_flat/kleusbalut_serial7segmentdisplay
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/kleusbalut_serial7segmentdisplay
+  oomp_src_folder: projects_folder\kleusbalut\Serial7SegmentDisplay\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\kleusbalut\Serial7SegmentDisplay\version_current\working
+oomp_key: oomp_kleusbalut_serial7segmentdisplay
+oomp_key_simple: kleusbalut_serial7segmentdisplay
 projects_flat: projects_flat/kleusbalut_serial7segmentdisplay/version_current/working
 projects_folder: projects_folder/kleusbalut/Serial7SegmentDisplay/version_current/working
-pulls_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/pulls{/number}
-pushed_at: '2019-02-12T02:50:07Z'
-releases_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/releases{/id}
-size: 488
-ssh_url: git@github.com:kleusbalut/Serial7SegmentDisplay.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/stargazers
-statuses_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/statuses/{sha}
-subscribers_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/subscribers
-subscription_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/subscription
-svn_url: https://github.com/kleusbalut/Serial7SegmentDisplay
-tags_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/tags
-teams_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/teams
-topics: []
-trees_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/git/trees{/sha}
-updated_at: '2021-09-15T11:13:16Z'
-url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/assignees{/user}
+  blobs_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/branches{/branch}
+  clone_url: https://github.com/kleusbalut/Serial7SegmentDisplay.git
+  collaborators_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/comments{/number}
+  commits_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/commits{/sha}
+  compare_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/contents/{+path}
+  contributors_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/contributors
+  created_at: '2021-09-15T11:13:15Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/deployments
+  description: 'Example code and board files for the Serial 7 Segment Display. '
+  disabled: false
+  downloads_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/downloads
+  events_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/forks
+  full_name: kleusbalut/Serial7SegmentDisplay
+  git_commits_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/git/tags{/sha}
+  git_url: git://github.com/kleusbalut/Serial7SegmentDisplay.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/products/11629
+  hooks_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/hooks
+  html_url: https://github.com/kleusbalut/Serial7SegmentDisplay
+  id: 406729993
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/issues/events{/number}
+  issues_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/issues{/number}
+  keys_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/keys{/key_id}
+  labels_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/languages
+  license: null
+  merges_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/merges
+  milestones_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/milestones{/number}
+  mirror_url: null
+  name: Serial7SegmentDisplay
+  node_id: MDEwOlJlcG9zaXRvcnk0MDY3Mjk5OTM=
+  notifications_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/9697347?v=4
+    events_url: https://api.github.com/users/kleusbalut/events{/privacy}
+    followers_url: https://api.github.com/users/kleusbalut/followers
+    following_url: https://api.github.com/users/kleusbalut/following{/other_user}
+    gists_url: https://api.github.com/users/kleusbalut/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/kleusbalut
+    id: 9697347
+    login: kleusbalut
+    node_id: MDQ6VXNlcjk2OTczNDc=
+    organizations_url: https://api.github.com/users/kleusbalut/orgs
+    received_events_url: https://api.github.com/users/kleusbalut/received_events
+    repos_url: https://api.github.com/users/kleusbalut/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/kleusbalut/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/kleusbalut/subscriptions
+    type: User
+    url: https://api.github.com/users/kleusbalut
+  private: false
+  pulls_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/pulls{/number}
+  pushed_at: '2019-02-12T02:50:07Z'
+  releases_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/releases{/id}
+  size: 488
+  ssh_url: git@github.com:kleusbalut/Serial7SegmentDisplay.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/stargazers
+  statuses_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/subscribers
+  subscription_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/subscription
+  svn_url: https://github.com/kleusbalut/Serial7SegmentDisplay
+  tags_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/tags
+  teams_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/teams
+  topics: []
+  trees_url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay/git/trees{/sha}
+  updated_at: '2021-09-15T11:13:16Z'
+  url: https://api.github.com/repos/kleusbalut/Serial7SegmentDisplay
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

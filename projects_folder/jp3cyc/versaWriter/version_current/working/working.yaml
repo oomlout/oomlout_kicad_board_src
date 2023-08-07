@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/jp3cyc/versaWriter/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/jp3cyc/versaWriter/assignees{/user}
-blobs_url: https://api.github.com/repos/jp3cyc/versaWriter/git/blobs{/sha}
-branches_url: https://api.github.com/repos/jp3cyc/versaWriter/branches{/branch}
-clone_url: https://github.com/jp3cyc/versaWriter.git
-collaborators_url: https://api.github.com/repos/jp3cyc/versaWriter/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/jp3cyc/versaWriter/comments{/number}
-commits_url: https://api.github.com/repos/jp3cyc/versaWriter/commits{/sha}
-compare_url: https://api.github.com/repos/jp3cyc/versaWriter/compare/{base}...{head}
-contents_url: https://api.github.com/repos/jp3cyc/versaWriter/contents/{+path}
-contributors_url: https://api.github.com/repos/jp3cyc/versaWriter/contributors
-created_at: '2017-03-02T12:22:22Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/jp3cyc/versaWriter/deployments
-description: "\u30D0\u30FC\u30B5\u30E9\u30A4\u30BF\u30FC"
-disabled: false
-downloads_url: https://api.github.com/repos/jp3cyc/versaWriter/downloads
-events_url: https://api.github.com/repos/jp3cyc/versaWriter/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/jp3cyc/versaWriter/forks
-full_name: jp3cyc/versaWriter
-git_commits_url: https://api.github.com/repos/jp3cyc/versaWriter/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/jp3cyc/versaWriter/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/jp3cyc/versaWriter/git/tags{/sha}
-git_url: git://github.com/jp3cyc/versaWriter.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/jp3cyc/versaWriter/hooks
-html_url: https://github.com/jp3cyc/versaWriter
-id: 83674773
-is_template: false
-issue_comment_url: https://api.github.com/repos/jp3cyc/versaWriter/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/jp3cyc/versaWriter/issues/events{/number}
-issues_url: https://api.github.com/repos/jp3cyc/versaWriter/issues{/number}
-keys_url: https://api.github.com/repos/jp3cyc/versaWriter/keys{/key_id}
-labels_url: https://api.github.com/repos/jp3cyc/versaWriter/labels{/name}
-language: Arduino
-languages_url: https://api.github.com/repos/jp3cyc/versaWriter/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/jp3cyc/versaWriter/merges
-milestones_url: https://api.github.com/repos/jp3cyc/versaWriter/milestones{/number}
-mirror_url: null
-name: versaWriter
-node_id: MDEwOlJlcG9zaXRvcnk4MzY3NDc3Mw==
-notifications_url: https://api.github.com/repos/jp3cyc/versaWriter/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/22554912?v=4
-  events_url: https://api.github.com/users/jp3cyc/events{/privacy}
-  followers_url: https://api.github.com/users/jp3cyc/followers
-  following_url: https://api.github.com/users/jp3cyc/following{/other_user}
-  gists_url: https://api.github.com/users/jp3cyc/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/jp3cyc
-  id: 22554912
-  login: jp3cyc
-  node_id: MDQ6VXNlcjIyNTU0OTEy
-  organizations_url: https://api.github.com/users/jp3cyc/orgs
-  received_events_url: https://api.github.com/users/jp3cyc/received_events
-  repos_url: https://api.github.com/users/jp3cyc/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/jp3cyc/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/jp3cyc/subscriptions
-  type: User
-  url: https://api.github.com/users/jp3cyc
-private: false
+links:
+  github_owner: jp3cyc
+  github_repo_name: versaWriter
+  github_src: https://github.com/jp3cyc/versaWriter
+  github_src_repo: https://github.com/jp3cyc/versaWriter
+  oomp_bot: jp3cyc_versawriter
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/jp3cyc_versawriter
+  oomp_doc: projects/jp3cyc_versawriter/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/jp3cyc_versawriter
+  oomp_src_flat: projects_flat/jp3cyc_versawriter
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/jp3cyc_versawriter
+  oomp_src_folder: projects_folder\jp3cyc\versaWriter\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\jp3cyc\versaWriter\version_current\working
+oomp_key: oomp_jp3cyc_versawriter
+oomp_key_simple: jp3cyc_versawriter
 projects_flat: projects_flat/jp3cyc_versawriter/version_current/working
 projects_folder: projects_folder/jp3cyc/versaWriter/version_current/working
-pulls_url: https://api.github.com/repos/jp3cyc/versaWriter/pulls{/number}
-pushed_at: '2017-11-25T15:58:59Z'
-releases_url: https://api.github.com/repos/jp3cyc/versaWriter/releases{/id}
-size: 967
-ssh_url: git@github.com:jp3cyc/versaWriter.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/jp3cyc/versaWriter/stargazers
-statuses_url: https://api.github.com/repos/jp3cyc/versaWriter/statuses/{sha}
-subscribers_url: https://api.github.com/repos/jp3cyc/versaWriter/subscribers
-subscription_url: https://api.github.com/repos/jp3cyc/versaWriter/subscription
-svn_url: https://github.com/jp3cyc/versaWriter
-tags_url: https://api.github.com/repos/jp3cyc/versaWriter/tags
-teams_url: https://api.github.com/repos/jp3cyc/versaWriter/teams
-topics:
-- kicad
-- led-display
-trees_url: https://api.github.com/repos/jp3cyc/versaWriter/git/trees{/sha}
-updated_at: '2017-11-25T15:59:00Z'
-url: https://api.github.com/repos/jp3cyc/versaWriter
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/jp3cyc/versaWriter/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/jp3cyc/versaWriter/assignees{/user}
+  blobs_url: https://api.github.com/repos/jp3cyc/versaWriter/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/jp3cyc/versaWriter/branches{/branch}
+  clone_url: https://github.com/jp3cyc/versaWriter.git
+  collaborators_url: https://api.github.com/repos/jp3cyc/versaWriter/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/jp3cyc/versaWriter/comments{/number}
+  commits_url: https://api.github.com/repos/jp3cyc/versaWriter/commits{/sha}
+  compare_url: https://api.github.com/repos/jp3cyc/versaWriter/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/jp3cyc/versaWriter/contents/{+path}
+  contributors_url: https://api.github.com/repos/jp3cyc/versaWriter/contributors
+  created_at: '2017-03-02T12:22:22Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/jp3cyc/versaWriter/deployments
+  description: "\u30D0\u30FC\u30B5\u30E9\u30A4\u30BF\u30FC"
+  disabled: false
+  downloads_url: https://api.github.com/repos/jp3cyc/versaWriter/downloads
+  events_url: https://api.github.com/repos/jp3cyc/versaWriter/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/jp3cyc/versaWriter/forks
+  full_name: jp3cyc/versaWriter
+  git_commits_url: https://api.github.com/repos/jp3cyc/versaWriter/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/jp3cyc/versaWriter/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/jp3cyc/versaWriter/git/tags{/sha}
+  git_url: git://github.com/jp3cyc/versaWriter.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/jp3cyc/versaWriter/hooks
+  html_url: https://github.com/jp3cyc/versaWriter
+  id: 83674773
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/jp3cyc/versaWriter/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/jp3cyc/versaWriter/issues/events{/number}
+  issues_url: https://api.github.com/repos/jp3cyc/versaWriter/issues{/number}
+  keys_url: https://api.github.com/repos/jp3cyc/versaWriter/keys{/key_id}
+  labels_url: https://api.github.com/repos/jp3cyc/versaWriter/labels{/name}
+  language: Arduino
+  languages_url: https://api.github.com/repos/jp3cyc/versaWriter/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/jp3cyc/versaWriter/merges
+  milestones_url: https://api.github.com/repos/jp3cyc/versaWriter/milestones{/number}
+  mirror_url: null
+  name: versaWriter
+  node_id: MDEwOlJlcG9zaXRvcnk4MzY3NDc3Mw==
+  notifications_url: https://api.github.com/repos/jp3cyc/versaWriter/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/22554912?v=4
+    events_url: https://api.github.com/users/jp3cyc/events{/privacy}
+    followers_url: https://api.github.com/users/jp3cyc/followers
+    following_url: https://api.github.com/users/jp3cyc/following{/other_user}
+    gists_url: https://api.github.com/users/jp3cyc/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/jp3cyc
+    id: 22554912
+    login: jp3cyc
+    node_id: MDQ6VXNlcjIyNTU0OTEy
+    organizations_url: https://api.github.com/users/jp3cyc/orgs
+    received_events_url: https://api.github.com/users/jp3cyc/received_events
+    repos_url: https://api.github.com/users/jp3cyc/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/jp3cyc/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/jp3cyc/subscriptions
+    type: User
+    url: https://api.github.com/users/jp3cyc
+  private: false
+  pulls_url: https://api.github.com/repos/jp3cyc/versaWriter/pulls{/number}
+  pushed_at: '2017-11-25T15:58:59Z'
+  releases_url: https://api.github.com/repos/jp3cyc/versaWriter/releases{/id}
+  size: 967
+  ssh_url: git@github.com:jp3cyc/versaWriter.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/jp3cyc/versaWriter/stargazers
+  statuses_url: https://api.github.com/repos/jp3cyc/versaWriter/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/jp3cyc/versaWriter/subscribers
+  subscription_url: https://api.github.com/repos/jp3cyc/versaWriter/subscription
+  svn_url: https://github.com/jp3cyc/versaWriter
+  tags_url: https://api.github.com/repos/jp3cyc/versaWriter/tags
+  teams_url: https://api.github.com/repos/jp3cyc/versaWriter/teams
+  topics:
+  - kicad
+  - led-display
+  trees_url: https://api.github.com/repos/jp3cyc/versaWriter/git/trees{/sha}
+  updated_at: '2017-11-25T15:59:00Z'
+  url: https://api.github.com/repos/jp3cyc/versaWriter
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

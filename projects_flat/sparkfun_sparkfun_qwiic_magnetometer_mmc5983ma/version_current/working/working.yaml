@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/branches{/branch}
-clone_url: https://github.com/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA.git
-collaborators_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/contributors
-created_at: '2022-04-28T17:37:04Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/downloads
-events_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/forks
-full_name: sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA
-git_commits_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/git/tags{/sha}
-git_url: git://github.com/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/hooks
-html_url: https://github.com/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA
-id: 486691004
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/merges
-milestones_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/milestones{/number}
-mirror_url: null
-name: SparkFun_Qwiic_Magnetometer-MMC5983MA
-node_id: R_kgDOHQJQvA
-notifications_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: SparkFun_Qwiic_Magnetometer-MMC5983MA
+  github_src: https://github.com/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA
+  github_src_repo: https://github.com/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA
+  oomp_bot: projects_sparkfun_sparkfun_qwiic_magnetometer_mmc5983ma
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_sparkfun_qwiic_magnetometer_mmc5983ma
+  oomp_doc: projects/projects_flat_sparkfun_sparkfun_qwiic_magnetometer_mmc5983ma/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_sparkfun_qwiic_magnetometer_mmc5983ma
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_sparkfun_qwiic_magnetometer_mmc5983ma
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_sparkfun_qwiic_magnetometer_mmc5983ma
+  oomp_src_folder: projects_flat\sparkfun_sparkfun_qwiic_magnetometer_mmc5983ma\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_sparkfun_qwiic_magnetometer_mmc5983ma\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_sparkfun_qwiic_magnetometer_mmc5983ma
+oomp_key_simple: projects_flat_sparkfun_sparkfun_qwiic_magnetometer_mmc5983ma
+projects_flat: projects_flat/sparkfun_sparkfun_qwiic_magnetometer_mmc5983ma/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_sparkfun_qwiic_magnetometer_mmc5983ma/version_current/working
 projects_folder: projects_folder/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/pulls{/number}
-pushed_at: '2022-07-19T19:07:31Z'
-releases_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/releases{/id}
-size: 6974
-ssh_url: git@github.com:sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/subscription
-svn_url: https://github.com/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA
-tags_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/tags
-teams_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/git/trees{/sha}
-updated_at: '2022-07-21T22:09:29Z'
-url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/branches{/branch}
+  clone_url: https://github.com/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA.git
+  collaborators_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/contributors
+  created_at: '2022-04-28T17:37:04Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/downloads
+  events_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/forks
+  full_name: sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA
+  git_commits_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/git/tags{/sha}
+  git_url: git://github.com/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/hooks
+  html_url: https://github.com/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA
+  id: 486691004
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/merges
+  milestones_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/milestones{/number}
+  mirror_url: null
+  name: SparkFun_Qwiic_Magnetometer-MMC5983MA
+  node_id: R_kgDOHQJQvA
+  notifications_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/pulls{/number}
+  pushed_at: '2022-07-19T19:07:31Z'
+  releases_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/releases{/id}
+  size: 6974
+  ssh_url: git@github.com:sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/subscription
+  svn_url: https://github.com/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA
+  tags_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/tags
+  teams_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA/git/trees{/sha}
+  updated_at: '2022-07-21T22:09:29Z'
+  url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,102 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/assignees{/user}
-blobs_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/git/blobs{/sha}
-branches_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/branches{/branch}
-clone_url: https://github.com/coddingtonbear/gopro-dashcam-tender.git
-collaborators_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/comments{/number}
-commits_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/commits{/sha}
-compare_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/compare/{base}...{head}
-contents_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/contents/{+path}
-contributors_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/contributors
-created_at: '2017-10-17T03:49:33Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/deployments
-description: Clear out your GoPro's dashcam footage automatically at the end of the
-  day.
-disabled: false
-downloads_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/downloads
-events_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/events
 file_sch_flat: projects_flat/coddingtonbear_gopro_dashcam_tender/version_current/working/working.sch
 file_sch_folder: projects_folder/coddingtonbear/gopro-dashcam-tender/version_current/working/working.sch
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/forks
-full_name: coddingtonbear/gopro-dashcam-tender
-git_commits_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/git/tags{/sha}
-git_url: git://github.com/coddingtonbear/gopro-dashcam-tender.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/hooks
-html_url: https://github.com/coddingtonbear/gopro-dashcam-tender
-id: 107215033
-is_template: false
-issue_comment_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/issues/events{/number}
-issues_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/issues{/number}
-keys_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/keys{/key_id}
-labels_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/labels{/name}
-language: Arduino
-languages_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/languages
-license: null
-merges_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/merges
-milestones_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/milestones{/number}
-mirror_url: null
-name: gopro-dashcam-tender
-node_id: MDEwOlJlcG9zaXRvcnkxMDcyMTUwMzM=
-notifications_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/527661?v=4
-  events_url: https://api.github.com/users/coddingtonbear/events{/privacy}
-  followers_url: https://api.github.com/users/coddingtonbear/followers
-  following_url: https://api.github.com/users/coddingtonbear/following{/other_user}
-  gists_url: https://api.github.com/users/coddingtonbear/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/coddingtonbear
-  id: 527661
-  login: coddingtonbear
-  node_id: MDQ6VXNlcjUyNzY2MQ==
-  organizations_url: https://api.github.com/users/coddingtonbear/orgs
-  received_events_url: https://api.github.com/users/coddingtonbear/received_events
-  repos_url: https://api.github.com/users/coddingtonbear/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/coddingtonbear/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/coddingtonbear/subscriptions
-  type: User
-  url: https://api.github.com/users/coddingtonbear
-private: false
+links:
+  github_owner: coddingtonbear
+  github_repo_name: gopro-dashcam-tender
+  github_src: https://github.com/coddingtonbear/gopro-dashcam-tender
+  github_src_repo: https://github.com/coddingtonbear/gopro-dashcam-tender
+  oomp_bot: coddingtonbear_gopro_dashcam_tender
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/coddingtonbear_gopro_dashcam_tender
+  oomp_doc: projects/coddingtonbear_gopro_dashcam_tender/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/coddingtonbear_gopro_dashcam_tender
+  oomp_src_flat: projects_flat/coddingtonbear_gopro_dashcam_tender
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/coddingtonbear_gopro_dashcam_tender
+  oomp_src_folder: projects_folder\coddingtonbear\gopro-dashcam-tender\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\coddingtonbear\gopro-dashcam-tender\version_current\working
+oomp_key: oomp_coddingtonbear_gopro_dashcam_tender
+oomp_key_simple: coddingtonbear_gopro_dashcam_tender
 projects_flat: projects_flat/coddingtonbear_gopro_dashcam_tender/version_current/working
 projects_folder: projects_folder/coddingtonbear/gopro-dashcam-tender/version_current/working
-pulls_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/pulls{/number}
-pushed_at: '2017-10-26T17:05:20Z'
-releases_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/releases{/id}
-size: 84
-ssh_url: git@github.com:coddingtonbear/gopro-dashcam-tender.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/stargazers
-statuses_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/statuses/{sha}
-subscribers_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/subscribers
-subscription_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/subscription
-svn_url: https://github.com/coddingtonbear/gopro-dashcam-tender
-tags_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/tags
-teams_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/teams
-topics: []
-trees_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/git/trees{/sha}
-updated_at: '2018-04-02T16:28:02Z'
-url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/assignees{/user}
+  blobs_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/branches{/branch}
+  clone_url: https://github.com/coddingtonbear/gopro-dashcam-tender.git
+  collaborators_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/comments{/number}
+  commits_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/commits{/sha}
+  compare_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/contents/{+path}
+  contributors_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/contributors
+  created_at: '2017-10-17T03:49:33Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/deployments
+  description: Clear out your GoPro's dashcam footage automatically at the end of
+    the day.
+  disabled: false
+  downloads_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/downloads
+  events_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/forks
+  full_name: coddingtonbear/gopro-dashcam-tender
+  git_commits_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/git/tags{/sha}
+  git_url: git://github.com/coddingtonbear/gopro-dashcam-tender.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/hooks
+  html_url: https://github.com/coddingtonbear/gopro-dashcam-tender
+  id: 107215033
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/issues/events{/number}
+  issues_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/issues{/number}
+  keys_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/keys{/key_id}
+  labels_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/labels{/name}
+  language: Arduino
+  languages_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/languages
+  license: null
+  merges_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/merges
+  milestones_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/milestones{/number}
+  mirror_url: null
+  name: gopro-dashcam-tender
+  node_id: MDEwOlJlcG9zaXRvcnkxMDcyMTUwMzM=
+  notifications_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/527661?v=4
+    events_url: https://api.github.com/users/coddingtonbear/events{/privacy}
+    followers_url: https://api.github.com/users/coddingtonbear/followers
+    following_url: https://api.github.com/users/coddingtonbear/following{/other_user}
+    gists_url: https://api.github.com/users/coddingtonbear/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/coddingtonbear
+    id: 527661
+    login: coddingtonbear
+    node_id: MDQ6VXNlcjUyNzY2MQ==
+    organizations_url: https://api.github.com/users/coddingtonbear/orgs
+    received_events_url: https://api.github.com/users/coddingtonbear/received_events
+    repos_url: https://api.github.com/users/coddingtonbear/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/coddingtonbear/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/coddingtonbear/subscriptions
+    type: User
+    url: https://api.github.com/users/coddingtonbear
+  private: false
+  pulls_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/pulls{/number}
+  pushed_at: '2017-10-26T17:05:20Z'
+  releases_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/releases{/id}
+  size: 84
+  ssh_url: git@github.com:coddingtonbear/gopro-dashcam-tender.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/stargazers
+  statuses_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/subscribers
+  subscription_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/subscription
+  svn_url: https://github.com/coddingtonbear/gopro-dashcam-tender
+  tags_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/tags
+  teams_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/teams
+  topics: []
+  trees_url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender/git/trees{/sha}
+  updated_at: '2018-04-02T16:28:02Z'
+  url: https://api.github.com/repos/coddingtonbear/gopro-dashcam-tender
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

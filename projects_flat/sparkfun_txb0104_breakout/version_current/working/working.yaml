@@ -1,108 +1,125 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/branches{/branch}
-clone_url: https://github.com/sparkfun/TXB0104_breakout.git
-collaborators_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/contributors
-created_at: '2013-02-26T18:40:13Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/deployments
-description: TI's bidirectional level translation IC.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/downloads
-events_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_txb0104_breakout/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/TXB0104_breakout/version_current/working/working.brd
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/forks
-full_name: sparkfun/TXB0104_breakout
-git_commits_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/git/tags{/sha}
-git_url: git://github.com/sparkfun/TXB0104_breakout.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/hooks
-html_url: https://github.com/sparkfun/TXB0104_breakout
-id: 8439090
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/merges
-milestones_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/milestones{/number}
-mirror_url: null
-name: TXB0104_breakout
-node_id: MDEwOlJlcG9zaXRvcnk4NDM5MDkw
-notifications_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: TXB0104_breakout
+  github_src: https://github.com/sparkfun/TXB0104_breakout
+  github_src_repo: https://github.com/sparkfun/TXB0104_breakout
+  oomp_bot: projects_sparkfun_txb0104_breakout
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_txb0104_breakout
+  oomp_doc: projects/projects_flat_sparkfun_txb0104_breakout/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_txb0104_breakout
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_txb0104_breakout
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_txb0104_breakout
+  oomp_src_folder: projects_flat\sparkfun_txb0104_breakout\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_txb0104_breakout\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_txb0104_breakout
+oomp_key_simple: projects_flat_sparkfun_txb0104_breakout
+projects_flat: projects_flat/sparkfun_txb0104_breakout/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_txb0104_breakout/version_current/working
 projects_folder: projects_folder/sparkfun/TXB0104_breakout/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/pulls{/number}
-pushed_at: '2021-02-03T16:19:26Z'
-releases_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/releases{/id}
-size: 246
-ssh_url: git@github.com:sparkfun/TXB0104_breakout.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/subscription
-svn_url: https://github.com/sparkfun/TXB0104_breakout
-tags_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/tags
-teams_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/teams
-topics:
-- sparkfun
-- sparkfun-products
-trees_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/git/trees{/sha}
-updated_at: '2022-04-20T17:22:50Z'
-url: https://api.github.com/repos/sparkfun/TXB0104_breakout
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/branches{/branch}
+  clone_url: https://github.com/sparkfun/TXB0104_breakout.git
+  collaborators_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/contributors
+  created_at: '2013-02-26T18:40:13Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/deployments
+  description: TI's bidirectional level translation IC.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/downloads
+  events_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/forks
+  full_name: sparkfun/TXB0104_breakout
+  git_commits_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/git/tags{/sha}
+  git_url: git://github.com/sparkfun/TXB0104_breakout.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/hooks
+  html_url: https://github.com/sparkfun/TXB0104_breakout
+  id: 8439090
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/merges
+  milestones_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/milestones{/number}
+  mirror_url: null
+  name: TXB0104_breakout
+  node_id: MDEwOlJlcG9zaXRvcnk4NDM5MDkw
+  notifications_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/pulls{/number}
+  pushed_at: '2021-02-03T16:19:26Z'
+  releases_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/releases{/id}
+  size: 246
+  ssh_url: git@github.com:sparkfun/TXB0104_breakout.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/subscription
+  svn_url: https://github.com/sparkfun/TXB0104_breakout
+  tags_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/tags
+  teams_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/teams
+  topics:
+  - sparkfun
+  - sparkfun-products
+  trees_url: https://api.github.com/repos/sparkfun/TXB0104_breakout/git/trees{/sha}
+  updated_at: '2022-04-20T17:22:50Z'
+  url: https://api.github.com/repos/sparkfun/TXB0104_breakout
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

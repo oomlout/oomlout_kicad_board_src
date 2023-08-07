@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/branches{/branch}
-clone_url: https://github.com/sparkfunX/Qwiic_PT100_ADS122C04.git
-collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/comments{/number}
-commits_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/contributors
-created_at: '2020-05-13T07:37:22Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/deployments
-description: A Qwiic (I2C) Platinum Resistance Thermometer sensor (100 Ohm) based
-  on the TI ADS122C04 24-bit ADC
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/downloads
-events_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/forks
-full_name: sparkfunX/Qwiic_PT100_ADS122C04
-git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/git/tags{/sha}
-git_url: git://github.com/sparkfunX/Qwiic_PT100_ADS122C04.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/hooks
-html_url: https://github.com/sparkfunX/Qwiic_PT100_ADS122C04
-id: 263558765
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/issues{/number}
-keys_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/merges
-milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/milestones{/number}
-mirror_url: null
-name: Qwiic_PT100_ADS122C04
-node_id: MDEwOlJlcG9zaXRvcnkyNjM1NTg3NjU=
-notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
-  events_url: https://api.github.com/users/sparkfunX/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfunX/followers
-  following_url: https://api.github.com/users/sparkfunX/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfunX
-  id: 25487355
-  login: sparkfunX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
-  organizations_url: https://api.github.com/users/sparkfunX/orgs
-  received_events_url: https://api.github.com/users/sparkfunX/received_events
-  repos_url: https://api.github.com/users/sparkfunX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfunX
-private: false
+links:
+  github_owner: sparkfunX
+  github_repo_name: Qwiic_PT100_ADS122C04
+  github_src: https://github.com/sparkfunX/Qwiic_PT100_ADS122C04
+  github_src_repo: https://github.com/sparkfunX/Qwiic_PT100_ADS122C04
+  oomp_bot: projects_sparkfunx_qwiic_pt100_ads122c04
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfunx_qwiic_pt100_ads122c04
+  oomp_doc: projects/projects_flat_sparkfunx_qwiic_pt100_ads122c04/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfunx_qwiic_pt100_ads122c04
+  oomp_src_flat: projects_flat/projects_flat_sparkfunx_qwiic_pt100_ads122c04
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfunx_qwiic_pt100_ads122c04
+  oomp_src_folder: projects_flat\sparkfunx_qwiic_pt100_ads122c04\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfunx_qwiic_pt100_ads122c04\version_current\working
+oomp_key: oomp_projects_flat_sparkfunx_qwiic_pt100_ads122c04
+oomp_key_simple: projects_flat_sparkfunx_qwiic_pt100_ads122c04
 projects_flat: projects_flat/sparkfunx_qwiic_pt100_ads122c04/version_current/working
 projects_folder: projects_folder/sparkfunx/Qwiic_PT100_ADS122C04/version_current/working
-pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/pulls{/number}
-pushed_at: '2022-03-02T14:24:15Z'
-releases_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/releases{/id}
-size: 6374
-ssh_url: git@github.com:sparkfunX/Qwiic_PT100_ADS122C04.git
-stargazers_count: 6
-stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/stargazers
-statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/subscribers
-subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/subscription
-svn_url: https://github.com/sparkfunX/Qwiic_PT100_ADS122C04
-tags_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/tags
-teams_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/git/trees{/sha}
-updated_at: '2023-03-15T10:01:39Z'
-url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04
-visibility: public
-watchers: 6
-watchers_count: 6
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/branches{/branch}
+  clone_url: https://github.com/sparkfunX/Qwiic_PT100_ADS122C04.git
+  collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/contributors
+  created_at: '2020-05-13T07:37:22Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/deployments
+  description: A Qwiic (I2C) Platinum Resistance Thermometer sensor (100 Ohm) based
+    on the TI ADS122C04 24-bit ADC
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/downloads
+  events_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/forks
+  full_name: sparkfunX/Qwiic_PT100_ADS122C04
+  git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/git/tags{/sha}
+  git_url: git://github.com/sparkfunX/Qwiic_PT100_ADS122C04.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/hooks
+  html_url: https://github.com/sparkfunX/Qwiic_PT100_ADS122C04
+  id: 263558765
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/merges
+  milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/milestones{/number}
+  mirror_url: null
+  name: Qwiic_PT100_ADS122C04
+  node_id: MDEwOlJlcG9zaXRvcnkyNjM1NTg3NjU=
+  notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
+    events_url: https://api.github.com/users/sparkfunX/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfunX/followers
+    following_url: https://api.github.com/users/sparkfunX/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfunX
+    id: 25487355
+    login: sparkfunX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
+    organizations_url: https://api.github.com/users/sparkfunX/orgs
+    received_events_url: https://api.github.com/users/sparkfunX/received_events
+    repos_url: https://api.github.com/users/sparkfunX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfunX
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/pulls{/number}
+  pushed_at: '2022-03-02T14:24:15Z'
+  releases_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/releases{/id}
+  size: 6374
+  ssh_url: git@github.com:sparkfunX/Qwiic_PT100_ADS122C04.git
+  stargazers_count: 6
+  stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/stargazers
+  statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/subscribers
+  subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/subscription
+  svn_url: https://github.com/sparkfunX/Qwiic_PT100_ADS122C04
+  tags_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/tags
+  teams_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04/git/trees{/sha}
+  updated_at: '2023-03-15T10:01:39Z'
+  url: https://api.github.com/repos/sparkfunX/Qwiic_PT100_ADS122C04
+  visibility: public
+  watchers: 6
+  watchers_count: 6
+  web_commit_signoff_required: false

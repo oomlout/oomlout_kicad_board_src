@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/nppc/Mflight3/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/nppc/Mflight3/assignees{/user}
-blobs_url: https://api.github.com/repos/nppc/Mflight3/git/blobs{/sha}
-branches_url: https://api.github.com/repos/nppc/Mflight3/branches{/branch}
-clone_url: https://github.com/nppc/Mflight3.git
-collaborators_url: https://api.github.com/repos/nppc/Mflight3/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/nppc/Mflight3/comments{/number}
-commits_url: https://api.github.com/repos/nppc/Mflight3/commits{/sha}
-compare_url: https://api.github.com/repos/nppc/Mflight3/compare/{base}...{head}
-contents_url: https://api.github.com/repos/nppc/Mflight3/contents/{+path}
-contributors_url: https://api.github.com/repos/nppc/Mflight3/contributors
-created_at: '2019-12-15T21:54:43Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/nppc/Mflight3/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/nppc/Mflight3/downloads
-events_url: https://api.github.com/repos/nppc/Mflight3/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/nppc/Mflight3/forks
-full_name: nppc/Mflight3
-git_commits_url: https://api.github.com/repos/nppc/Mflight3/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/nppc/Mflight3/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/nppc/Mflight3/git/tags{/sha}
-git_url: git://github.com/nppc/Mflight3.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/nppc/Mflight3/hooks
-html_url: https://github.com/nppc/Mflight3
-id: 228258546
-is_template: false
-issue_comment_url: https://api.github.com/repos/nppc/Mflight3/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/nppc/Mflight3/issues/events{/number}
-issues_url: https://api.github.com/repos/nppc/Mflight3/issues{/number}
-keys_url: https://api.github.com/repos/nppc/Mflight3/keys{/key_id}
-labels_url: https://api.github.com/repos/nppc/Mflight3/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/nppc/Mflight3/languages
-license: null
-merges_url: https://api.github.com/repos/nppc/Mflight3/merges
-milestones_url: https://api.github.com/repos/nppc/Mflight3/milestones{/number}
-mirror_url: null
-name: Mflight3
-node_id: MDEwOlJlcG9zaXRvcnkyMjgyNTg1NDY=
-notifications_url: https://api.github.com/repos/nppc/Mflight3/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/10918485?v=4
-  events_url: https://api.github.com/users/nppc/events{/privacy}
-  followers_url: https://api.github.com/users/nppc/followers
-  following_url: https://api.github.com/users/nppc/following{/other_user}
-  gists_url: https://api.github.com/users/nppc/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/nppc
-  id: 10918485
-  login: nppc
-  node_id: MDQ6VXNlcjEwOTE4NDg1
-  organizations_url: https://api.github.com/users/nppc/orgs
-  received_events_url: https://api.github.com/users/nppc/received_events
-  repos_url: https://api.github.com/users/nppc/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/nppc/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/nppc/subscriptions
-  type: User
-  url: https://api.github.com/users/nppc
-private: false
+links:
+  github_owner: nppc
+  github_repo_name: Mflight3
+  github_src: https://github.com/nppc/Mflight3
+  github_src_repo: https://github.com/nppc/Mflight3
+  oomp_bot: projects_nppc_mflight3
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_nppc_mflight3
+  oomp_doc: projects/projects_flat_nppc_mflight3/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_nppc_mflight3
+  oomp_src_flat: projects_flat/projects_flat_nppc_mflight3
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_nppc_mflight3
+  oomp_src_folder: projects_flat\nppc_mflight3\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\nppc_mflight3\version_current\working
+oomp_key: oomp_projects_flat_nppc_mflight3
+oomp_key_simple: projects_flat_nppc_mflight3
 projects_flat: projects_flat/nppc_mflight3/version_current/working
 projects_folder: projects_folder/nppc/Mflight3/version_current/working
-pulls_url: https://api.github.com/repos/nppc/Mflight3/pulls{/number}
-pushed_at: '2019-12-18T22:12:15Z'
-releases_url: https://api.github.com/repos/nppc/Mflight3/releases{/id}
-size: 301
-ssh_url: git@github.com:nppc/Mflight3.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/nppc/Mflight3/stargazers
-statuses_url: https://api.github.com/repos/nppc/Mflight3/statuses/{sha}
-subscribers_url: https://api.github.com/repos/nppc/Mflight3/subscribers
-subscription_url: https://api.github.com/repos/nppc/Mflight3/subscription
-svn_url: https://github.com/nppc/Mflight3
-tags_url: https://api.github.com/repos/nppc/Mflight3/tags
-teams_url: https://api.github.com/repos/nppc/Mflight3/teams
-topics: []
-trees_url: https://api.github.com/repos/nppc/Mflight3/git/trees{/sha}
-updated_at: '2021-10-14T03:51:40Z'
-url: https://api.github.com/repos/nppc/Mflight3
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/nppc/Mflight3/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/nppc/Mflight3/assignees{/user}
+  blobs_url: https://api.github.com/repos/nppc/Mflight3/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/nppc/Mflight3/branches{/branch}
+  clone_url: https://github.com/nppc/Mflight3.git
+  collaborators_url: https://api.github.com/repos/nppc/Mflight3/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/nppc/Mflight3/comments{/number}
+  commits_url: https://api.github.com/repos/nppc/Mflight3/commits{/sha}
+  compare_url: https://api.github.com/repos/nppc/Mflight3/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/nppc/Mflight3/contents/{+path}
+  contributors_url: https://api.github.com/repos/nppc/Mflight3/contributors
+  created_at: '2019-12-15T21:54:43Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/nppc/Mflight3/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/nppc/Mflight3/downloads
+  events_url: https://api.github.com/repos/nppc/Mflight3/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/nppc/Mflight3/forks
+  full_name: nppc/Mflight3
+  git_commits_url: https://api.github.com/repos/nppc/Mflight3/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/nppc/Mflight3/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/nppc/Mflight3/git/tags{/sha}
+  git_url: git://github.com/nppc/Mflight3.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/nppc/Mflight3/hooks
+  html_url: https://github.com/nppc/Mflight3
+  id: 228258546
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/nppc/Mflight3/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/nppc/Mflight3/issues/events{/number}
+  issues_url: https://api.github.com/repos/nppc/Mflight3/issues{/number}
+  keys_url: https://api.github.com/repos/nppc/Mflight3/keys{/key_id}
+  labels_url: https://api.github.com/repos/nppc/Mflight3/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/nppc/Mflight3/languages
+  license: null
+  merges_url: https://api.github.com/repos/nppc/Mflight3/merges
+  milestones_url: https://api.github.com/repos/nppc/Mflight3/milestones{/number}
+  mirror_url: null
+  name: Mflight3
+  node_id: MDEwOlJlcG9zaXRvcnkyMjgyNTg1NDY=
+  notifications_url: https://api.github.com/repos/nppc/Mflight3/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/10918485?v=4
+    events_url: https://api.github.com/users/nppc/events{/privacy}
+    followers_url: https://api.github.com/users/nppc/followers
+    following_url: https://api.github.com/users/nppc/following{/other_user}
+    gists_url: https://api.github.com/users/nppc/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/nppc
+    id: 10918485
+    login: nppc
+    node_id: MDQ6VXNlcjEwOTE4NDg1
+    organizations_url: https://api.github.com/users/nppc/orgs
+    received_events_url: https://api.github.com/users/nppc/received_events
+    repos_url: https://api.github.com/users/nppc/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/nppc/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/nppc/subscriptions
+    type: User
+    url: https://api.github.com/users/nppc
+  private: false
+  pulls_url: https://api.github.com/repos/nppc/Mflight3/pulls{/number}
+  pushed_at: '2019-12-18T22:12:15Z'
+  releases_url: https://api.github.com/repos/nppc/Mflight3/releases{/id}
+  size: 301
+  ssh_url: git@github.com:nppc/Mflight3.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/nppc/Mflight3/stargazers
+  statuses_url: https://api.github.com/repos/nppc/Mflight3/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/nppc/Mflight3/subscribers
+  subscription_url: https://api.github.com/repos/nppc/Mflight3/subscription
+  svn_url: https://github.com/nppc/Mflight3
+  tags_url: https://api.github.com/repos/nppc/Mflight3/tags
+  teams_url: https://api.github.com/repos/nppc/Mflight3/teams
+  topics: []
+  trees_url: https://api.github.com/repos/nppc/Mflight3/git/trees{/sha}
+  updated_at: '2021-10-14T03:51:40Z'
+  url: https://api.github.com/repos/nppc/Mflight3
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dchwebb/Ball/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dchwebb/Ball/assignees{/user}
-blobs_url: https://api.github.com/repos/dchwebb/Ball/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dchwebb/Ball/branches{/branch}
-clone_url: https://github.com/dchwebb/Ball.git
-collaborators_url: https://api.github.com/repos/dchwebb/Ball/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dchwebb/Ball/comments{/number}
-commits_url: https://api.github.com/repos/dchwebb/Ball/commits{/sha}
-compare_url: https://api.github.com/repos/dchwebb/Ball/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dchwebb/Ball/contents/{+path}
-contributors_url: https://api.github.com/repos/dchwebb/Ball/contributors
-created_at: '2021-11-23T13:25:57Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/dchwebb/Ball/deployments
-description: Eurorack Bluetooth Low Energy remote controller
-disabled: false
-downloads_url: https://api.github.com/repos/dchwebb/Ball/downloads
-events_url: https://api.github.com/repos/dchwebb/Ball/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/dchwebb/Ball/forks
-full_name: dchwebb/Ball
-git_commits_url: https://api.github.com/repos/dchwebb/Ball/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dchwebb/Ball/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dchwebb/Ball/git/tags{/sha}
-git_url: git://github.com/dchwebb/Ball.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/dchwebb/Ball/hooks
-html_url: https://github.com/dchwebb/Ball
-id: 431110446
-is_template: false
-issue_comment_url: https://api.github.com/repos/dchwebb/Ball/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dchwebb/Ball/issues/events{/number}
-issues_url: https://api.github.com/repos/dchwebb/Ball/issues{/number}
-keys_url: https://api.github.com/repos/dchwebb/Ball/keys{/key_id}
-labels_url: https://api.github.com/repos/dchwebb/Ball/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/dchwebb/Ball/languages
-license: null
-merges_url: https://api.github.com/repos/dchwebb/Ball/merges
-milestones_url: https://api.github.com/repos/dchwebb/Ball/milestones{/number}
-mirror_url: null
-name: Ball
-node_id: R_kgDOGbI5Lg
-notifications_url: https://api.github.com/repos/dchwebb/Ball/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
-  events_url: https://api.github.com/users/dchwebb/events{/privacy}
-  followers_url: https://api.github.com/users/dchwebb/followers
-  following_url: https://api.github.com/users/dchwebb/following{/other_user}
-  gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dchwebb
-  id: 16348549
-  login: dchwebb
-  node_id: MDQ6VXNlcjE2MzQ4NTQ5
-  organizations_url: https://api.github.com/users/dchwebb/orgs
-  received_events_url: https://api.github.com/users/dchwebb/received_events
-  repos_url: https://api.github.com/users/dchwebb/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
-  type: User
-  url: https://api.github.com/users/dchwebb
-private: false
+links:
+  github_owner: dchwebb
+  github_repo_name: Ball
+  github_src: https://github.com/dchwebb/Ball
+  github_src_repo: https://github.com/dchwebb/Ball
+  oomp_bot: dchwebb_ball
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/dchwebb_ball
+  oomp_doc: projects/dchwebb_ball/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/dchwebb_ball
+  oomp_src_flat: projects_flat/dchwebb_ball
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/dchwebb_ball
+  oomp_src_folder: projects_folder\dchwebb\Ball\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\dchwebb\Ball\version_current\working
+oomp_key: oomp_dchwebb_ball
+oomp_key_simple: dchwebb_ball
 projects_flat: projects_flat/dchwebb_ball/version_current/working
 projects_folder: projects_folder/dchwebb/Ball/version_current/working
-pulls_url: https://api.github.com/repos/dchwebb/Ball/pulls{/number}
-pushed_at: '2022-06-28T11:09:58Z'
-releases_url: https://api.github.com/repos/dchwebb/Ball/releases{/id}
-size: 8889
-ssh_url: git@github.com:dchwebb/Ball.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/dchwebb/Ball/stargazers
-statuses_url: https://api.github.com/repos/dchwebb/Ball/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dchwebb/Ball/subscribers
-subscription_url: https://api.github.com/repos/dchwebb/Ball/subscription
-svn_url: https://github.com/dchwebb/Ball
-tags_url: https://api.github.com/repos/dchwebb/Ball/tags
-teams_url: https://api.github.com/repos/dchwebb/Ball/teams
-topics: []
-trees_url: https://api.github.com/repos/dchwebb/Ball/git/trees{/sha}
-updated_at: '2023-07-20T13:39:31Z'
-url: https://api.github.com/repos/dchwebb/Ball
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dchwebb/Ball/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dchwebb/Ball/assignees{/user}
+  blobs_url: https://api.github.com/repos/dchwebb/Ball/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dchwebb/Ball/branches{/branch}
+  clone_url: https://github.com/dchwebb/Ball.git
+  collaborators_url: https://api.github.com/repos/dchwebb/Ball/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dchwebb/Ball/comments{/number}
+  commits_url: https://api.github.com/repos/dchwebb/Ball/commits{/sha}
+  compare_url: https://api.github.com/repos/dchwebb/Ball/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dchwebb/Ball/contents/{+path}
+  contributors_url: https://api.github.com/repos/dchwebb/Ball/contributors
+  created_at: '2021-11-23T13:25:57Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/dchwebb/Ball/deployments
+  description: Eurorack Bluetooth Low Energy remote controller
+  disabled: false
+  downloads_url: https://api.github.com/repos/dchwebb/Ball/downloads
+  events_url: https://api.github.com/repos/dchwebb/Ball/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/dchwebb/Ball/forks
+  full_name: dchwebb/Ball
+  git_commits_url: https://api.github.com/repos/dchwebb/Ball/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dchwebb/Ball/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dchwebb/Ball/git/tags{/sha}
+  git_url: git://github.com/dchwebb/Ball.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/dchwebb/Ball/hooks
+  html_url: https://github.com/dchwebb/Ball
+  id: 431110446
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dchwebb/Ball/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dchwebb/Ball/issues/events{/number}
+  issues_url: https://api.github.com/repos/dchwebb/Ball/issues{/number}
+  keys_url: https://api.github.com/repos/dchwebb/Ball/keys{/key_id}
+  labels_url: https://api.github.com/repos/dchwebb/Ball/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/dchwebb/Ball/languages
+  license: null
+  merges_url: https://api.github.com/repos/dchwebb/Ball/merges
+  milestones_url: https://api.github.com/repos/dchwebb/Ball/milestones{/number}
+  mirror_url: null
+  name: Ball
+  node_id: R_kgDOGbI5Lg
+  notifications_url: https://api.github.com/repos/dchwebb/Ball/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
+    events_url: https://api.github.com/users/dchwebb/events{/privacy}
+    followers_url: https://api.github.com/users/dchwebb/followers
+    following_url: https://api.github.com/users/dchwebb/following{/other_user}
+    gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dchwebb
+    id: 16348549
+    login: dchwebb
+    node_id: MDQ6VXNlcjE2MzQ4NTQ5
+    organizations_url: https://api.github.com/users/dchwebb/orgs
+    received_events_url: https://api.github.com/users/dchwebb/received_events
+    repos_url: https://api.github.com/users/dchwebb/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
+    type: User
+    url: https://api.github.com/users/dchwebb
+  private: false
+  pulls_url: https://api.github.com/repos/dchwebb/Ball/pulls{/number}
+  pushed_at: '2022-06-28T11:09:58Z'
+  releases_url: https://api.github.com/repos/dchwebb/Ball/releases{/id}
+  size: 8889
+  ssh_url: git@github.com:dchwebb/Ball.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/dchwebb/Ball/stargazers
+  statuses_url: https://api.github.com/repos/dchwebb/Ball/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dchwebb/Ball/subscribers
+  subscription_url: https://api.github.com/repos/dchwebb/Ball/subscription
+  svn_url: https://github.com/dchwebb/Ball
+  tags_url: https://api.github.com/repos/dchwebb/Ball/tags
+  teams_url: https://api.github.com/repos/dchwebb/Ball/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dchwebb/Ball/git/trees{/sha}
+  updated_at: '2023-07-20T13:39:31Z'
+  url: https://api.github.com/repos/dchwebb/Ball
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

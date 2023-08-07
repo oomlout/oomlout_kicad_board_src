@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/branches{/branch}
-clone_url: https://github.com/OLIMEX/iCE40-ADC.git
-collaborators_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/contributors
-created_at: '2017-10-24T11:11:51Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/deployments
-description: Fast Analog-Digital-Converter (ADC) extension module for iCE40HX1K-EVB
-  or iCE40HX8K-EVB
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/downloads
-events_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/events
-fork: false
-forks: 4
-forks_count: 4
-forks_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/forks
-full_name: OLIMEX/iCE40-ADC
-git_commits_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/git/tags{/sha}
-git_url: git://github.com/OLIMEX/iCE40-ADC.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/hooks
-html_url: https://github.com/OLIMEX/iCE40-ADC
-id: 108115720
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/languages
-license:
-  key: apache-2.0
-  name: Apache License 2.0
-  node_id: MDc6TGljZW5zZTI=
-  spdx_id: Apache-2.0
-  url: https://api.github.com/licenses/apache-2.0
-merges_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/merges
-milestones_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/milestones{/number}
-mirror_url: null
-name: iCE40-ADC
-node_id: MDEwOlJlcG9zaXRvcnkxMDgxMTU3MjA=
-notifications_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: iCE40-ADC
+  github_src: https://github.com/OLIMEX/iCE40-ADC
+  github_src_repo: https://github.com/OLIMEX/iCE40-ADC
+  oomp_bot: olimex_ice40_adc
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/olimex_ice40_adc
+  oomp_doc: projects/olimex_ice40_adc/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/olimex_ice40_adc
+  oomp_src_flat: projects_flat/olimex_ice40_adc
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/olimex_ice40_adc
+  oomp_src_folder: projects_folder\OLIMEX\iCE40-ADC\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\OLIMEX\iCE40-ADC\version_current\working
+oomp_key: oomp_olimex_ice40_adc
+oomp_key_simple: olimex_ice40_adc
 projects_flat: projects_flat/olimex_ice40_adc/version_current/working
 projects_folder: projects_folder/OLIMEX/iCE40-ADC/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/pulls{/number}
-pushed_at: '2017-10-24T11:14:21Z'
-releases_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/releases{/id}
-size: 240
-ssh_url: git@github.com:OLIMEX/iCE40-ADC.git
-stargazers_count: 6
-stargazers_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/subscription
-svn_url: https://github.com/OLIMEX/iCE40-ADC
-tags_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/tags
-teams_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/git/trees{/sha}
-updated_at: '2022-01-26T05:06:27Z'
-url: https://api.github.com/repos/OLIMEX/iCE40-ADC
-visibility: public
-watchers: 6
-watchers_count: 6
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/branches{/branch}
+  clone_url: https://github.com/OLIMEX/iCE40-ADC.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/contributors
+  created_at: '2017-10-24T11:11:51Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/deployments
+  description: Fast Analog-Digital-Converter (ADC) extension module for iCE40HX1K-EVB
+    or iCE40HX8K-EVB
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/downloads
+  events_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/events
+  fork: false
+  forks: 4
+  forks_count: 4
+  forks_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/forks
+  full_name: OLIMEX/iCE40-ADC
+  git_commits_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/iCE40-ADC.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/hooks
+  html_url: https://github.com/OLIMEX/iCE40-ADC
+  id: 108115720
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/languages
+  license:
+    key: apache-2.0
+    name: Apache License 2.0
+    node_id: MDc6TGljZW5zZTI=
+    spdx_id: Apache-2.0
+    url: https://api.github.com/licenses/apache-2.0
+  merges_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/milestones{/number}
+  mirror_url: null
+  name: iCE40-ADC
+  node_id: MDEwOlJlcG9zaXRvcnkxMDgxMTU3MjA=
+  notifications_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/pulls{/number}
+  pushed_at: '2017-10-24T11:14:21Z'
+  releases_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/releases{/id}
+  size: 240
+  ssh_url: git@github.com:OLIMEX/iCE40-ADC.git
+  stargazers_count: 6
+  stargazers_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/subscription
+  svn_url: https://github.com/OLIMEX/iCE40-ADC
+  tags_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/tags
+  teams_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/iCE40-ADC/git/trees{/sha}
+  updated_at: '2022-01-26T05:06:27Z'
+  url: https://api.github.com/repos/OLIMEX/iCE40-ADC
+  visibility: public
+  watchers: 6
+  watchers_count: 6
+  web_commit_signoff_required: false

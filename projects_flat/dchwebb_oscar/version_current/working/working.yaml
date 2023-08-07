@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dchwebb/Oscar/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dchwebb/Oscar/assignees{/user}
-blobs_url: https://api.github.com/repos/dchwebb/Oscar/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dchwebb/Oscar/branches{/branch}
-clone_url: https://github.com/dchwebb/Oscar.git
-collaborators_url: https://api.github.com/repos/dchwebb/Oscar/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dchwebb/Oscar/comments{/number}
-commits_url: https://api.github.com/repos/dchwebb/Oscar/commits{/sha}
-compare_url: https://api.github.com/repos/dchwebb/Oscar/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dchwebb/Oscar/contents/{+path}
-contributors_url: https://api.github.com/repos/dchwebb/Oscar/contributors
-created_at: '2019-04-18T13:48:03Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/dchwebb/Oscar/deployments
-description: Eurorack 3 Channel Oscilloscope based on ARM STM32F446 MCU
-disabled: false
-downloads_url: https://api.github.com/repos/dchwebb/Oscar/downloads
-events_url: https://api.github.com/repos/dchwebb/Oscar/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/dchwebb/Oscar/forks
-full_name: dchwebb/Oscar
-git_commits_url: https://api.github.com/repos/dchwebb/Oscar/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dchwebb/Oscar/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dchwebb/Oscar/git/tags{/sha}
-git_url: git://github.com/dchwebb/Oscar.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/dchwebb/Oscar/hooks
-html_url: https://github.com/dchwebb/Oscar
-id: 182096007
-is_template: false
-issue_comment_url: https://api.github.com/repos/dchwebb/Oscar/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dchwebb/Oscar/issues/events{/number}
-issues_url: https://api.github.com/repos/dchwebb/Oscar/issues{/number}
-keys_url: https://api.github.com/repos/dchwebb/Oscar/keys{/key_id}
-labels_url: https://api.github.com/repos/dchwebb/Oscar/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/dchwebb/Oscar/languages
-license: null
-merges_url: https://api.github.com/repos/dchwebb/Oscar/merges
-milestones_url: https://api.github.com/repos/dchwebb/Oscar/milestones{/number}
-mirror_url: null
-name: Oscar
-node_id: MDEwOlJlcG9zaXRvcnkxODIwOTYwMDc=
-notifications_url: https://api.github.com/repos/dchwebb/Oscar/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
-  events_url: https://api.github.com/users/dchwebb/events{/privacy}
-  followers_url: https://api.github.com/users/dchwebb/followers
-  following_url: https://api.github.com/users/dchwebb/following{/other_user}
-  gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dchwebb
-  id: 16348549
-  login: dchwebb
-  node_id: MDQ6VXNlcjE2MzQ4NTQ5
-  organizations_url: https://api.github.com/users/dchwebb/orgs
-  received_events_url: https://api.github.com/users/dchwebb/received_events
-  repos_url: https://api.github.com/users/dchwebb/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
-  type: User
-  url: https://api.github.com/users/dchwebb
-private: false
+links:
+  github_owner: dchwebb
+  github_repo_name: Oscar
+  github_src: https://github.com/dchwebb/Oscar
+  github_src_repo: https://github.com/dchwebb/Oscar
+  oomp_bot: projects_dchwebb_oscar
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_dchwebb_oscar
+  oomp_doc: projects/projects_flat_dchwebb_oscar/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_dchwebb_oscar
+  oomp_src_flat: projects_flat/projects_flat_dchwebb_oscar
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_dchwebb_oscar
+  oomp_src_folder: projects_flat\dchwebb_oscar\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dchwebb_oscar\version_current\working
+oomp_key: oomp_projects_flat_dchwebb_oscar
+oomp_key_simple: projects_flat_dchwebb_oscar
 projects_flat: projects_flat/dchwebb_oscar/version_current/working
 projects_folder: projects_folder/dchwebb/Oscar/version_current/working
-pulls_url: https://api.github.com/repos/dchwebb/Oscar/pulls{/number}
-pushed_at: '2023-07-10T17:27:20Z'
-releases_url: https://api.github.com/repos/dchwebb/Oscar/releases{/id}
-size: 69855
-ssh_url: git@github.com:dchwebb/Oscar.git
-stargazers_count: 11
-stargazers_url: https://api.github.com/repos/dchwebb/Oscar/stargazers
-statuses_url: https://api.github.com/repos/dchwebb/Oscar/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dchwebb/Oscar/subscribers
-subscription_url: https://api.github.com/repos/dchwebb/Oscar/subscription
-svn_url: https://github.com/dchwebb/Oscar
-tags_url: https://api.github.com/repos/dchwebb/Oscar/tags
-teams_url: https://api.github.com/repos/dchwebb/Oscar/teams
-topics: []
-trees_url: https://api.github.com/repos/dchwebb/Oscar/git/trees{/sha}
-updated_at: '2023-07-27T04:03:52Z'
-url: https://api.github.com/repos/dchwebb/Oscar
-visibility: public
-watchers: 11
-watchers_count: 11
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dchwebb/Oscar/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dchwebb/Oscar/assignees{/user}
+  blobs_url: https://api.github.com/repos/dchwebb/Oscar/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dchwebb/Oscar/branches{/branch}
+  clone_url: https://github.com/dchwebb/Oscar.git
+  collaborators_url: https://api.github.com/repos/dchwebb/Oscar/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dchwebb/Oscar/comments{/number}
+  commits_url: https://api.github.com/repos/dchwebb/Oscar/commits{/sha}
+  compare_url: https://api.github.com/repos/dchwebb/Oscar/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dchwebb/Oscar/contents/{+path}
+  contributors_url: https://api.github.com/repos/dchwebb/Oscar/contributors
+  created_at: '2019-04-18T13:48:03Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/dchwebb/Oscar/deployments
+  description: Eurorack 3 Channel Oscilloscope based on ARM STM32F446 MCU
+  disabled: false
+  downloads_url: https://api.github.com/repos/dchwebb/Oscar/downloads
+  events_url: https://api.github.com/repos/dchwebb/Oscar/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/dchwebb/Oscar/forks
+  full_name: dchwebb/Oscar
+  git_commits_url: https://api.github.com/repos/dchwebb/Oscar/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dchwebb/Oscar/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dchwebb/Oscar/git/tags{/sha}
+  git_url: git://github.com/dchwebb/Oscar.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/dchwebb/Oscar/hooks
+  html_url: https://github.com/dchwebb/Oscar
+  id: 182096007
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dchwebb/Oscar/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dchwebb/Oscar/issues/events{/number}
+  issues_url: https://api.github.com/repos/dchwebb/Oscar/issues{/number}
+  keys_url: https://api.github.com/repos/dchwebb/Oscar/keys{/key_id}
+  labels_url: https://api.github.com/repos/dchwebb/Oscar/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/dchwebb/Oscar/languages
+  license: null
+  merges_url: https://api.github.com/repos/dchwebb/Oscar/merges
+  milestones_url: https://api.github.com/repos/dchwebb/Oscar/milestones{/number}
+  mirror_url: null
+  name: Oscar
+  node_id: MDEwOlJlcG9zaXRvcnkxODIwOTYwMDc=
+  notifications_url: https://api.github.com/repos/dchwebb/Oscar/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
+    events_url: https://api.github.com/users/dchwebb/events{/privacy}
+    followers_url: https://api.github.com/users/dchwebb/followers
+    following_url: https://api.github.com/users/dchwebb/following{/other_user}
+    gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dchwebb
+    id: 16348549
+    login: dchwebb
+    node_id: MDQ6VXNlcjE2MzQ4NTQ5
+    organizations_url: https://api.github.com/users/dchwebb/orgs
+    received_events_url: https://api.github.com/users/dchwebb/received_events
+    repos_url: https://api.github.com/users/dchwebb/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
+    type: User
+    url: https://api.github.com/users/dchwebb
+  private: false
+  pulls_url: https://api.github.com/repos/dchwebb/Oscar/pulls{/number}
+  pushed_at: '2023-07-10T17:27:20Z'
+  releases_url: https://api.github.com/repos/dchwebb/Oscar/releases{/id}
+  size: 69855
+  ssh_url: git@github.com:dchwebb/Oscar.git
+  stargazers_count: 11
+  stargazers_url: https://api.github.com/repos/dchwebb/Oscar/stargazers
+  statuses_url: https://api.github.com/repos/dchwebb/Oscar/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dchwebb/Oscar/subscribers
+  subscription_url: https://api.github.com/repos/dchwebb/Oscar/subscription
+  svn_url: https://github.com/dchwebb/Oscar
+  tags_url: https://api.github.com/repos/dchwebb/Oscar/tags
+  teams_url: https://api.github.com/repos/dchwebb/Oscar/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dchwebb/Oscar/git/trees{/sha}
+  updated_at: '2023-07-27T04:03:52Z'
+  url: https://api.github.com/repos/dchwebb/Oscar
+  visibility: public
+  watchers: 11
+  watchers_count: 11
+  web_commit_signoff_required: false

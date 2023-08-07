@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/audrentis/Clarice/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/audrentis/Clarice/assignees{/user}
-blobs_url: https://api.github.com/repos/audrentis/Clarice/git/blobs{/sha}
-branches_url: https://api.github.com/repos/audrentis/Clarice/branches{/branch}
-clone_url: https://github.com/audrentis/Clarice.git
-collaborators_url: https://api.github.com/repos/audrentis/Clarice/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/audrentis/Clarice/comments{/number}
-commits_url: https://api.github.com/repos/audrentis/Clarice/commits{/sha}
-compare_url: https://api.github.com/repos/audrentis/Clarice/compare/{base}...{head}
-contents_url: https://api.github.com/repos/audrentis/Clarice/contents/{+path}
-contributors_url: https://api.github.com/repos/audrentis/Clarice/contributors
-created_at: '2021-01-20T15:37:53Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/audrentis/Clarice/deployments
-description: 'An Alice layout PCB based on Yuktsi''s files '
-disabled: false
-downloads_url: https://api.github.com/repos/audrentis/Clarice/downloads
-events_url: https://api.github.com/repos/audrentis/Clarice/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/audrentis/Clarice/forks
-full_name: audrentis/Clarice
-git_commits_url: https://api.github.com/repos/audrentis/Clarice/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/audrentis/Clarice/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/audrentis/Clarice/git/tags{/sha}
-git_url: git://github.com/audrentis/Clarice.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/audrentis/Clarice/hooks
-html_url: https://github.com/audrentis/Clarice
-id: 331351196
-is_template: false
-issue_comment_url: https://api.github.com/repos/audrentis/Clarice/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/audrentis/Clarice/issues/events{/number}
-issues_url: https://api.github.com/repos/audrentis/Clarice/issues{/number}
-keys_url: https://api.github.com/repos/audrentis/Clarice/keys{/key_id}
-labels_url: https://api.github.com/repos/audrentis/Clarice/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/audrentis/Clarice/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/audrentis/Clarice/merges
-milestones_url: https://api.github.com/repos/audrentis/Clarice/milestones{/number}
-mirror_url: null
-name: Clarice
-node_id: MDEwOlJlcG9zaXRvcnkzMzEzNTExOTY=
-notifications_url: https://api.github.com/repos/audrentis/Clarice/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/62215791?v=4
-  events_url: https://api.github.com/users/audrentis/events{/privacy}
-  followers_url: https://api.github.com/users/audrentis/followers
-  following_url: https://api.github.com/users/audrentis/following{/other_user}
-  gists_url: https://api.github.com/users/audrentis/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/audrentis
-  id: 62215791
-  login: audrentis
-  node_id: MDQ6VXNlcjYyMjE1Nzkx
-  organizations_url: https://api.github.com/users/audrentis/orgs
-  received_events_url: https://api.github.com/users/audrentis/received_events
-  repos_url: https://api.github.com/users/audrentis/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/audrentis/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/audrentis/subscriptions
-  type: User
-  url: https://api.github.com/users/audrentis
-private: false
+links:
+  github_owner: audrentis
+  github_repo_name: Clarice
+  github_src: https://github.com/audrentis/Clarice
+  github_src_repo: https://github.com/audrentis/Clarice
+  oomp_bot: audrentis_clarice
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/audrentis_clarice
+  oomp_doc: projects/audrentis_clarice/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/audrentis_clarice
+  oomp_src_flat: projects_flat/audrentis_clarice
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/audrentis_clarice
+  oomp_src_folder: projects_folder\audrentis\Clarice\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\audrentis\Clarice\version_current\working
+oomp_key: oomp_audrentis_clarice
+oomp_key_simple: audrentis_clarice
 projects_flat: projects_flat/audrentis_clarice/version_current/working
 projects_folder: projects_folder/audrentis/Clarice/version_current/working
-pulls_url: https://api.github.com/repos/audrentis/Clarice/pulls{/number}
-pushed_at: '2021-04-03T20:48:59Z'
-releases_url: https://api.github.com/repos/audrentis/Clarice/releases{/id}
-size: 20247
-ssh_url: git@github.com:audrentis/Clarice.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/audrentis/Clarice/stargazers
-statuses_url: https://api.github.com/repos/audrentis/Clarice/statuses/{sha}
-subscribers_url: https://api.github.com/repos/audrentis/Clarice/subscribers
-subscription_url: https://api.github.com/repos/audrentis/Clarice/subscription
-svn_url: https://github.com/audrentis/Clarice
-tags_url: https://api.github.com/repos/audrentis/Clarice/tags
-teams_url: https://api.github.com/repos/audrentis/Clarice/teams
-topics: []
-trees_url: https://api.github.com/repos/audrentis/Clarice/git/trees{/sha}
-updated_at: '2023-07-24T13:28:56Z'
-url: https://api.github.com/repos/audrentis/Clarice
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/audrentis/Clarice/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/audrentis/Clarice/assignees{/user}
+  blobs_url: https://api.github.com/repos/audrentis/Clarice/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/audrentis/Clarice/branches{/branch}
+  clone_url: https://github.com/audrentis/Clarice.git
+  collaborators_url: https://api.github.com/repos/audrentis/Clarice/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/audrentis/Clarice/comments{/number}
+  commits_url: https://api.github.com/repos/audrentis/Clarice/commits{/sha}
+  compare_url: https://api.github.com/repos/audrentis/Clarice/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/audrentis/Clarice/contents/{+path}
+  contributors_url: https://api.github.com/repos/audrentis/Clarice/contributors
+  created_at: '2021-01-20T15:37:53Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/audrentis/Clarice/deployments
+  description: 'An Alice layout PCB based on Yuktsi''s files '
+  disabled: false
+  downloads_url: https://api.github.com/repos/audrentis/Clarice/downloads
+  events_url: https://api.github.com/repos/audrentis/Clarice/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/audrentis/Clarice/forks
+  full_name: audrentis/Clarice
+  git_commits_url: https://api.github.com/repos/audrentis/Clarice/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/audrentis/Clarice/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/audrentis/Clarice/git/tags{/sha}
+  git_url: git://github.com/audrentis/Clarice.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/audrentis/Clarice/hooks
+  html_url: https://github.com/audrentis/Clarice
+  id: 331351196
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/audrentis/Clarice/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/audrentis/Clarice/issues/events{/number}
+  issues_url: https://api.github.com/repos/audrentis/Clarice/issues{/number}
+  keys_url: https://api.github.com/repos/audrentis/Clarice/keys{/key_id}
+  labels_url: https://api.github.com/repos/audrentis/Clarice/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/audrentis/Clarice/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/audrentis/Clarice/merges
+  milestones_url: https://api.github.com/repos/audrentis/Clarice/milestones{/number}
+  mirror_url: null
+  name: Clarice
+  node_id: MDEwOlJlcG9zaXRvcnkzMzEzNTExOTY=
+  notifications_url: https://api.github.com/repos/audrentis/Clarice/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/62215791?v=4
+    events_url: https://api.github.com/users/audrentis/events{/privacy}
+    followers_url: https://api.github.com/users/audrentis/followers
+    following_url: https://api.github.com/users/audrentis/following{/other_user}
+    gists_url: https://api.github.com/users/audrentis/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/audrentis
+    id: 62215791
+    login: audrentis
+    node_id: MDQ6VXNlcjYyMjE1Nzkx
+    organizations_url: https://api.github.com/users/audrentis/orgs
+    received_events_url: https://api.github.com/users/audrentis/received_events
+    repos_url: https://api.github.com/users/audrentis/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/audrentis/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/audrentis/subscriptions
+    type: User
+    url: https://api.github.com/users/audrentis
+  private: false
+  pulls_url: https://api.github.com/repos/audrentis/Clarice/pulls{/number}
+  pushed_at: '2021-04-03T20:48:59Z'
+  releases_url: https://api.github.com/repos/audrentis/Clarice/releases{/id}
+  size: 20247
+  ssh_url: git@github.com:audrentis/Clarice.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/audrentis/Clarice/stargazers
+  statuses_url: https://api.github.com/repos/audrentis/Clarice/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/audrentis/Clarice/subscribers
+  subscription_url: https://api.github.com/repos/audrentis/Clarice/subscription
+  svn_url: https://github.com/audrentis/Clarice
+  tags_url: https://api.github.com/repos/audrentis/Clarice/tags
+  teams_url: https://api.github.com/repos/audrentis/Clarice/teams
+  topics: []
+  trees_url: https://api.github.com/repos/audrentis/Clarice/git/trees{/sha}
+  updated_at: '2023-07-24T13:28:56Z'
+  url: https://api.github.com/repos/audrentis/Clarice
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

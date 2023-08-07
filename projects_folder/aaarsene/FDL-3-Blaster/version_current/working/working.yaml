@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/assignees{/user}
-blobs_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/git/blobs{/sha}
-branches_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/branches{/branch}
-clone_url: https://github.com/aaarsene/FDL-3-Blaster.git
-collaborators_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/comments{/number}
-commits_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/commits{/sha}
-compare_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/compare/{base}...{head}
-contents_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/contents/{+path}
-contributors_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/contributors
-created_at: '2022-03-19T12:58:39Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/downloads
-events_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/forks
-full_name: aaarsene/FDL-3-Blaster
-git_commits_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/git/tags{/sha}
-git_url: git://github.com/aaarsene/FDL-3-Blaster.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: null
-hooks_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/hooks
-html_url: https://github.com/aaarsene/FDL-3-Blaster
-id: 471696077
-is_template: false
-issue_comment_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/issues/events{/number}
-issues_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/issues{/number}
-keys_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/keys{/key_id}
-labels_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/languages
-license: null
-merges_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/merges
-milestones_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/milestones{/number}
-mirror_url: null
-name: FDL-3-Blaster
-node_id: R_kgDOHB2CzQ
-notifications_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/7239085?v=4
-  events_url: https://api.github.com/users/aaarsene/events{/privacy}
-  followers_url: https://api.github.com/users/aaarsene/followers
-  following_url: https://api.github.com/users/aaarsene/following{/other_user}
-  gists_url: https://api.github.com/users/aaarsene/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/aaarsene
-  id: 7239085
-  login: aaarsene
-  node_id: MDQ6VXNlcjcyMzkwODU=
-  organizations_url: https://api.github.com/users/aaarsene/orgs
-  received_events_url: https://api.github.com/users/aaarsene/received_events
-  repos_url: https://api.github.com/users/aaarsene/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/aaarsene/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/aaarsene/subscriptions
-  type: User
-  url: https://api.github.com/users/aaarsene
-private: false
+links:
+  github_owner: aaarsene
+  github_repo_name: FDL-3-Blaster
+  github_src: https://github.com/aaarsene/FDL-3-Blaster
+  github_src_repo: https://github.com/aaarsene/FDL-3-Blaster
+  oomp_bot: aaarsene_fdl_3_blaster
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/aaarsene_fdl_3_blaster
+  oomp_doc: projects/aaarsene_fdl_3_blaster/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/aaarsene_fdl_3_blaster
+  oomp_src_flat: projects_flat/aaarsene_fdl_3_blaster
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/aaarsene_fdl_3_blaster
+  oomp_src_folder: projects_folder\aaarsene\FDL-3-Blaster\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\aaarsene\FDL-3-Blaster\version_current\working
+oomp_key: oomp_aaarsene_fdl_3_blaster
+oomp_key_simple: aaarsene_fdl_3_blaster
 projects_flat: projects_flat/aaarsene_fdl_3_blaster/version_current/working
 projects_folder: projects_folder/aaarsene/FDL-3-Blaster/version_current/working
-pulls_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/pulls{/number}
-pushed_at: '2022-03-19T12:58:56Z'
-releases_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/releases{/id}
-size: 137519
-ssh_url: git@github.com:aaarsene/FDL-3-Blaster.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/stargazers
-statuses_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/statuses/{sha}
-subscribers_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/subscribers
-subscription_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/subscription
-svn_url: https://github.com/aaarsene/FDL-3-Blaster
-tags_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/tags
-teams_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/teams
-topics: []
-trees_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/git/trees{/sha}
-updated_at: '2022-03-19T12:59:00Z'
-url: https://api.github.com/repos/aaarsene/FDL-3-Blaster
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/assignees{/user}
+  blobs_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/branches{/branch}
+  clone_url: https://github.com/aaarsene/FDL-3-Blaster.git
+  collaborators_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/comments{/number}
+  commits_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/commits{/sha}
+  compare_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/contents/{+path}
+  contributors_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/contributors
+  created_at: '2022-03-19T12:58:39Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/downloads
+  events_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/forks
+  full_name: aaarsene/FDL-3-Blaster
+  git_commits_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/git/tags{/sha}
+  git_url: git://github.com/aaarsene/FDL-3-Blaster.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/hooks
+  html_url: https://github.com/aaarsene/FDL-3-Blaster
+  id: 471696077
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/issues/events{/number}
+  issues_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/issues{/number}
+  keys_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/keys{/key_id}
+  labels_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/languages
+  license: null
+  merges_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/merges
+  milestones_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/milestones{/number}
+  mirror_url: null
+  name: FDL-3-Blaster
+  node_id: R_kgDOHB2CzQ
+  notifications_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/7239085?v=4
+    events_url: https://api.github.com/users/aaarsene/events{/privacy}
+    followers_url: https://api.github.com/users/aaarsene/followers
+    following_url: https://api.github.com/users/aaarsene/following{/other_user}
+    gists_url: https://api.github.com/users/aaarsene/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/aaarsene
+    id: 7239085
+    login: aaarsene
+    node_id: MDQ6VXNlcjcyMzkwODU=
+    organizations_url: https://api.github.com/users/aaarsene/orgs
+    received_events_url: https://api.github.com/users/aaarsene/received_events
+    repos_url: https://api.github.com/users/aaarsene/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/aaarsene/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/aaarsene/subscriptions
+    type: User
+    url: https://api.github.com/users/aaarsene
+  private: false
+  pulls_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/pulls{/number}
+  pushed_at: '2022-03-19T12:58:56Z'
+  releases_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/releases{/id}
+  size: 137519
+  ssh_url: git@github.com:aaarsene/FDL-3-Blaster.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/stargazers
+  statuses_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/subscribers
+  subscription_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/subscription
+  svn_url: https://github.com/aaarsene/FDL-3-Blaster
+  tags_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/tags
+  teams_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/teams
+  topics: []
+  trees_url: https://api.github.com/repos/aaarsene/FDL-3-Blaster/git/trees{/sha}
+  updated_at: '2022-03-19T12:59:00Z'
+  url: https://api.github.com/repos/aaarsene/FDL-3-Blaster
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

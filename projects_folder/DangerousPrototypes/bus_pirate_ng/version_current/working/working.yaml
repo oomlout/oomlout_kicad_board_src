@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/assignees{/user}
-blobs_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/git/blobs{/sha}
-branches_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/branches{/branch}
-clone_url: https://github.com/DangerousPrototypes/bus_pirate_ng.git
-collaborators_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/comments{/number}
-commits_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/commits{/sha}
-compare_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/compare/{base}...{head}
-contents_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/contents/{+path}
-contributors_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/contributors
-created_at: '2017-11-24T07:58:42Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/deployments
-description: Bus Pirate NG firmware and hardware
-disabled: false
-downloads_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/downloads
-events_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/events
-fork: false
-forks: 6
-forks_count: 6
-forks_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/forks
-full_name: DangerousPrototypes/bus_pirate_ng
-git_commits_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/git/tags{/sha}
-git_url: git://github.com/DangerousPrototypes/bus_pirate_ng.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/hooks
-html_url: https://github.com/DangerousPrototypes/bus_pirate_ng
-id: 111891672
-is_template: false
-issue_comment_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/issues/events{/number}
-issues_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/issues{/number}
-keys_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/keys{/key_id}
-labels_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/merges
-milestones_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/milestones{/number}
-mirror_url: null
-name: bus_pirate_ng
-node_id: MDEwOlJlcG9zaXRvcnkxMTE4OTE2NzI=
-notifications_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/notifications{?since,all,participating}
-open_issues: 7
-open_issues_count: 7
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/390299?v=4
-  events_url: https://api.github.com/users/DangerousPrototypes/events{/privacy}
-  followers_url: https://api.github.com/users/DangerousPrototypes/followers
-  following_url: https://api.github.com/users/DangerousPrototypes/following{/other_user}
-  gists_url: https://api.github.com/users/DangerousPrototypes/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/DangerousPrototypes
-  id: 390299
-  login: DangerousPrototypes
-  node_id: MDQ6VXNlcjM5MDI5OQ==
-  organizations_url: https://api.github.com/users/DangerousPrototypes/orgs
-  received_events_url: https://api.github.com/users/DangerousPrototypes/received_events
-  repos_url: https://api.github.com/users/DangerousPrototypes/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/DangerousPrototypes/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/DangerousPrototypes/subscriptions
-  type: User
-  url: https://api.github.com/users/DangerousPrototypes
-private: false
+links:
+  github_owner: DangerousPrototypes
+  github_repo_name: bus_pirate_ng
+  github_src: https://github.com/DangerousPrototypes/bus_pirate_ng
+  github_src_repo: https://github.com/DangerousPrototypes/bus_pirate_ng
+  oomp_bot: dangerousprototypes_bus_pirate_ng
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/dangerousprototypes_bus_pirate_ng
+  oomp_doc: projects/dangerousprototypes_bus_pirate_ng/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/dangerousprototypes_bus_pirate_ng
+  oomp_src_flat: projects_flat/dangerousprototypes_bus_pirate_ng
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/dangerousprototypes_bus_pirate_ng
+  oomp_src_folder: projects_folder\DangerousPrototypes\bus_pirate_ng\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\DangerousPrototypes\bus_pirate_ng\version_current\working
+oomp_key: oomp_dangerousprototypes_bus_pirate_ng
+oomp_key_simple: dangerousprototypes_bus_pirate_ng
 projects_flat: projects_flat/dangerousprototypes_bus_pirate_ng/version_current/working
 projects_folder: projects_folder/DangerousPrototypes/bus_pirate_ng/version_current/working
-pulls_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/pulls{/number}
-pushed_at: '2022-12-28T08:37:36Z'
-releases_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/releases{/id}
-size: 1032
-ssh_url: git@github.com:DangerousPrototypes/bus_pirate_ng.git
-stargazers_count: 37
-stargazers_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/stargazers
-statuses_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/statuses/{sha}
-subscribers_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/subscribers
-subscription_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/subscription
-svn_url: https://github.com/DangerousPrototypes/bus_pirate_ng
-tags_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/tags
-teams_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/teams
-topics: []
-trees_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/git/trees{/sha}
-updated_at: '2023-07-07T01:14:25Z'
-url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng
-visibility: public
-watchers: 37
-watchers_count: 37
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/assignees{/user}
+  blobs_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/branches{/branch}
+  clone_url: https://github.com/DangerousPrototypes/bus_pirate_ng.git
+  collaborators_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/comments{/number}
+  commits_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/commits{/sha}
+  compare_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/contents/{+path}
+  contributors_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/contributors
+  created_at: '2017-11-24T07:58:42Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/deployments
+  description: Bus Pirate NG firmware and hardware
+  disabled: false
+  downloads_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/downloads
+  events_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/events
+  fork: false
+  forks: 6
+  forks_count: 6
+  forks_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/forks
+  full_name: DangerousPrototypes/bus_pirate_ng
+  git_commits_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/git/tags{/sha}
+  git_url: git://github.com/DangerousPrototypes/bus_pirate_ng.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/hooks
+  html_url: https://github.com/DangerousPrototypes/bus_pirate_ng
+  id: 111891672
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/issues/events{/number}
+  issues_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/issues{/number}
+  keys_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/keys{/key_id}
+  labels_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/merges
+  milestones_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/milestones{/number}
+  mirror_url: null
+  name: bus_pirate_ng
+  node_id: MDEwOlJlcG9zaXRvcnkxMTE4OTE2NzI=
+  notifications_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/notifications{?since,all,participating}
+  open_issues: 7
+  open_issues_count: 7
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/390299?v=4
+    events_url: https://api.github.com/users/DangerousPrototypes/events{/privacy}
+    followers_url: https://api.github.com/users/DangerousPrototypes/followers
+    following_url: https://api.github.com/users/DangerousPrototypes/following{/other_user}
+    gists_url: https://api.github.com/users/DangerousPrototypes/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/DangerousPrototypes
+    id: 390299
+    login: DangerousPrototypes
+    node_id: MDQ6VXNlcjM5MDI5OQ==
+    organizations_url: https://api.github.com/users/DangerousPrototypes/orgs
+    received_events_url: https://api.github.com/users/DangerousPrototypes/received_events
+    repos_url: https://api.github.com/users/DangerousPrototypes/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/DangerousPrototypes/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/DangerousPrototypes/subscriptions
+    type: User
+    url: https://api.github.com/users/DangerousPrototypes
+  private: false
+  pulls_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/pulls{/number}
+  pushed_at: '2022-12-28T08:37:36Z'
+  releases_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/releases{/id}
+  size: 1032
+  ssh_url: git@github.com:DangerousPrototypes/bus_pirate_ng.git
+  stargazers_count: 37
+  stargazers_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/stargazers
+  statuses_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/subscribers
+  subscription_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/subscription
+  svn_url: https://github.com/DangerousPrototypes/bus_pirate_ng
+  tags_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/tags
+  teams_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/teams
+  topics: []
+  trees_url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng/git/trees{/sha}
+  updated_at: '2023-07-07T01:14:25Z'
+  url: https://api.github.com/repos/DangerousPrototypes/bus_pirate_ng
+  visibility: public
+  watchers: 37
+  watchers_count: 37
+  web_commit_signoff_required: false

@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/branches{/branch}
-clone_url: https://github.com/adafruit/Adafruit-PowerBoost-1000C.git
-collaborators_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/contributors
-created_at: '2015-08-14T18:19:50Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/deployments
-description: PCB files for Adafruit PowerBoost 1000C
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/downloads
-events_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/events
-fork: false
-forks: 23
-forks_count: 23
-forks_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/forks
-full_name: adafruit/Adafruit-PowerBoost-1000C
-git_commits_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/git/tags{/sha}
-git_url: git://github.com/adafruit/Adafruit-PowerBoost-1000C.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: null
-hooks_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/hooks
-html_url: https://github.com/adafruit/Adafruit-PowerBoost-1000C
-id: 40729837
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/merges
-milestones_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/milestones{/number}
-mirror_url: null
-name: Adafruit-PowerBoost-1000C
-node_id: MDEwOlJlcG9zaXRvcnk0MDcyOTgzNw==
-notifications_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: Adafruit-PowerBoost-1000C
+  github_src: https://github.com/adafruit/Adafruit-PowerBoost-1000C
+  github_src_repo: https://github.com/adafruit/Adafruit-PowerBoost-1000C
+  oomp_bot: adafruit_adafruit_powerboost_1000c
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adafruit_adafruit_powerboost_1000c
+  oomp_doc: projects/adafruit_adafruit_powerboost_1000c/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adafruit_adafruit_powerboost_1000c
+  oomp_src_flat: projects_flat/adafruit_adafruit_powerboost_1000c
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adafruit_adafruit_powerboost_1000c
+  oomp_src_folder: projects_folder\adafruit\Adafruit-PowerBoost-1000C\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adafruit\Adafruit-PowerBoost-1000C\version_current\working
+oomp_key: oomp_adafruit_adafruit_powerboost_1000c
+oomp_key_simple: adafruit_adafruit_powerboost_1000c
+projects_flat: projects_flat/adafruit_adafruit_powerboost_1000c/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_powerboost_1000c/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-PowerBoost-1000C/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/pulls{/number}
-pushed_at: '2021-06-23T14:25:48Z'
-releases_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/releases{/id}
-size: 771
-ssh_url: git@github.com:adafruit/Adafruit-PowerBoost-1000C.git
-stargazers_count: 46
-stargazers_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/stargazers
-statuses_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/subscribers
-subscription_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/subscription
-svn_url: https://github.com/adafruit/Adafruit-PowerBoost-1000C
-tags_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/tags
-teams_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/git/trees{/sha}
-updated_at: '2023-07-21T00:17:41Z'
-url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C
-visibility: public
-watchers: 46
-watchers_count: 46
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/branches{/branch}
+  clone_url: https://github.com/adafruit/Adafruit-PowerBoost-1000C.git
+  collaborators_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/contributors
+  created_at: '2015-08-14T18:19:50Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/deployments
+  description: PCB files for Adafruit PowerBoost 1000C
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/downloads
+  events_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/events
+  fork: false
+  forks: 23
+  forks_count: 23
+  forks_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/forks
+  full_name: adafruit/Adafruit-PowerBoost-1000C
+  git_commits_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/git/tags{/sha}
+  git_url: git://github.com/adafruit/Adafruit-PowerBoost-1000C.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/hooks
+  html_url: https://github.com/adafruit/Adafruit-PowerBoost-1000C
+  id: 40729837
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/merges
+  milestones_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/milestones{/number}
+  mirror_url: null
+  name: Adafruit-PowerBoost-1000C
+  node_id: MDEwOlJlcG9zaXRvcnk0MDcyOTgzNw==
+  notifications_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/pulls{/number}
+  pushed_at: '2021-06-23T14:25:48Z'
+  releases_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/releases{/id}
+  size: 771
+  ssh_url: git@github.com:adafruit/Adafruit-PowerBoost-1000C.git
+  stargazers_count: 47
+  stargazers_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/subscription
+  svn_url: https://github.com/adafruit/Adafruit-PowerBoost-1000C
+  tags_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/tags
+  teams_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C/git/trees{/sha}
+  updated_at: '2023-08-03T04:47:02Z'
+  url: https://api.github.com/repos/adafruit/Adafruit-PowerBoost-1000C
+  visibility: public
+  watchers: 47
+  watchers_count: 47
+  web_commit_signoff_required: false

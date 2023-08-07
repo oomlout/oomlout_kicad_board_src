@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/branches{/branch}
-clone_url: https://github.com/sparkfunX/Qwiic_Switch.git
-collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/comments{/number}
-commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/contributors
-created_at: '2019-06-11T17:09:49Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/deployments
-description: 'A Qwiic-compatible switch with a built-in LED, configurable I2C address,
-  interrupts, and FIFO queue. '
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/downloads
-events_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/forks
-full_name: sparkfunX/Qwiic_Switch
-git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/git/tags{/sha}
-git_url: git://github.com/sparkfunX/Qwiic_Switch.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/products/15591
-hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/hooks
-html_url: https://github.com/sparkfunX/Qwiic_Switch
-id: 191416119
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/issues{/number}
-keys_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/merges
-milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/milestones{/number}
-mirror_url: null
-name: Qwiic_Switch
-node_id: MDEwOlJlcG9zaXRvcnkxOTE0MTYxMTk=
-notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
-  events_url: https://api.github.com/users/sparkfunX/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfunX/followers
-  following_url: https://api.github.com/users/sparkfunX/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfunX
-  id: 25487355
-  login: sparkfunX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
-  organizations_url: https://api.github.com/users/sparkfunX/orgs
-  received_events_url: https://api.github.com/users/sparkfunX/received_events
-  repos_url: https://api.github.com/users/sparkfunX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfunX
-private: false
+links:
+  github_owner: sparkfunX
+  github_repo_name: Qwiic_Switch
+  github_src: https://github.com/sparkfunX/Qwiic_Switch
+  github_src_repo: https://github.com/sparkfunX/Qwiic_Switch
+  oomp_bot: projects_sparkfunx_qwiic_switch
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfunx_qwiic_switch
+  oomp_doc: projects/projects_flat_sparkfunx_qwiic_switch/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfunx_qwiic_switch
+  oomp_src_flat: projects_flat/projects_flat_sparkfunx_qwiic_switch
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfunx_qwiic_switch
+  oomp_src_folder: projects_flat\sparkfunx_qwiic_switch\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfunx_qwiic_switch\version_current\working
+oomp_key: oomp_projects_flat_sparkfunx_qwiic_switch
+oomp_key_simple: projects_flat_sparkfunx_qwiic_switch
 projects_flat: projects_flat/sparkfunx_qwiic_switch/version_current/working
 projects_folder: projects_folder/sparkfunx/Qwiic_Switch/version_current/working
-pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/pulls{/number}
-pushed_at: '2020-11-23T17:15:46Z'
-releases_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/releases{/id}
-size: 2867
-ssh_url: git@github.com:sparkfunX/Qwiic_Switch.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/stargazers
-statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/subscribers
-subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/subscription
-svn_url: https://github.com/sparkfunX/Qwiic_Switch
-tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/tags
-teams_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/git/trees{/sha}
-updated_at: '2020-11-23T17:15:48Z'
-url: https://api.github.com/repos/sparkfunX/Qwiic_Switch
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/branches{/branch}
+  clone_url: https://github.com/sparkfunX/Qwiic_Switch.git
+  collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/contributors
+  created_at: '2019-06-11T17:09:49Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/deployments
+  description: 'A Qwiic-compatible switch with a built-in LED, configurable I2C address,
+    interrupts, and FIFO queue. '
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/downloads
+  events_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/forks
+  full_name: sparkfunX/Qwiic_Switch
+  git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/git/tags{/sha}
+  git_url: git://github.com/sparkfunX/Qwiic_Switch.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/products/15591
+  hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/hooks
+  html_url: https://github.com/sparkfunX/Qwiic_Switch
+  id: 191416119
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/merges
+  milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/milestones{/number}
+  mirror_url: null
+  name: Qwiic_Switch
+  node_id: MDEwOlJlcG9zaXRvcnkxOTE0MTYxMTk=
+  notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
+    events_url: https://api.github.com/users/sparkfunX/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfunX/followers
+    following_url: https://api.github.com/users/sparkfunX/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfunX
+    id: 25487355
+    login: sparkfunX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
+    organizations_url: https://api.github.com/users/sparkfunX/orgs
+    received_events_url: https://api.github.com/users/sparkfunX/received_events
+    repos_url: https://api.github.com/users/sparkfunX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfunX
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/pulls{/number}
+  pushed_at: '2020-11-23T17:15:46Z'
+  releases_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/releases{/id}
+  size: 2867
+  ssh_url: git@github.com:sparkfunX/Qwiic_Switch.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/stargazers
+  statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/subscribers
+  subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/subscription
+  svn_url: https://github.com/sparkfunX/Qwiic_Switch
+  tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/tags
+  teams_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfunX/Qwiic_Switch/git/trees{/sha}
+  updated_at: '2020-11-23T17:15:48Z'
+  url: https://api.github.com/repos/sparkfunX/Qwiic_Switch
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

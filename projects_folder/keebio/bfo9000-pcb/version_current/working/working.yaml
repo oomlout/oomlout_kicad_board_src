@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/keebio/bfo9000-pcb/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/keebio/bfo9000-pcb/assignees{/user}
-blobs_url: https://api.github.com/repos/keebio/bfo9000-pcb/git/blobs{/sha}
-branches_url: https://api.github.com/repos/keebio/bfo9000-pcb/branches{/branch}
-clone_url: https://github.com/keebio/bfo9000-pcb.git
-collaborators_url: https://api.github.com/repos/keebio/bfo9000-pcb/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/keebio/bfo9000-pcb/comments{/number}
-commits_url: https://api.github.com/repos/keebio/bfo9000-pcb/commits{/sha}
-compare_url: https://api.github.com/repos/keebio/bfo9000-pcb/compare/{base}...{head}
-contents_url: https://api.github.com/repos/keebio/bfo9000-pcb/contents/{+path}
-contributors_url: https://api.github.com/repos/keebio/bfo9000-pcb/contributors
-created_at: '2023-02-07T21:07:45Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/keebio/bfo9000-pcb/deployments
-description: KiCAD Files for BFO-9000 PCB Design
-disabled: false
-downloads_url: https://api.github.com/repos/keebio/bfo9000-pcb/downloads
-events_url: https://api.github.com/repos/keebio/bfo9000-pcb/events
-fork: false
-forks: 6
-forks_count: 6
-forks_url: https://api.github.com/repos/keebio/bfo9000-pcb/forks
-full_name: keebio/bfo9000-pcb
-git_commits_url: https://api.github.com/repos/keebio/bfo9000-pcb/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/keebio/bfo9000-pcb/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/keebio/bfo9000-pcb/git/tags{/sha}
-git_url: git://github.com/keebio/bfo9000-pcb.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/keebio/bfo9000-pcb/hooks
-html_url: https://github.com/keebio/bfo9000-pcb
-id: 598808749
-is_template: false
-issue_comment_url: https://api.github.com/repos/keebio/bfo9000-pcb/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/keebio/bfo9000-pcb/issues/events{/number}
-issues_url: https://api.github.com/repos/keebio/bfo9000-pcb/issues{/number}
-keys_url: https://api.github.com/repos/keebio/bfo9000-pcb/keys{/key_id}
-labels_url: https://api.github.com/repos/keebio/bfo9000-pcb/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/keebio/bfo9000-pcb/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/keebio/bfo9000-pcb/merges
-milestones_url: https://api.github.com/repos/keebio/bfo9000-pcb/milestones{/number}
-mirror_url: null
-name: bfo9000-pcb
-node_id: R_kgDOI7EYrQ
-notifications_url: https://api.github.com/repos/keebio/bfo9000-pcb/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/29069092?v=4
-  events_url: https://api.github.com/users/keebio/events{/privacy}
-  followers_url: https://api.github.com/users/keebio/followers
-  following_url: https://api.github.com/users/keebio/following{/other_user}
-  gists_url: https://api.github.com/users/keebio/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/keebio
-  id: 29069092
-  login: keebio
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI5MDY5MDky
-  organizations_url: https://api.github.com/users/keebio/orgs
-  received_events_url: https://api.github.com/users/keebio/received_events
-  repos_url: https://api.github.com/users/keebio/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/keebio/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/keebio/subscriptions
-  type: Organization
-  url: https://api.github.com/users/keebio
-private: false
+links:
+  github_owner: keebio
+  github_repo_name: bfo9000-pcb
+  github_src: https://github.com/keebio/bfo9000-pcb
+  github_src_repo: https://github.com/keebio/bfo9000-pcb
+  oomp_bot: keebio_bfo9000_pcb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/keebio_bfo9000_pcb
+  oomp_doc: projects/keebio_bfo9000_pcb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/keebio_bfo9000_pcb
+  oomp_src_flat: projects_flat/keebio_bfo9000_pcb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/keebio_bfo9000_pcb
+  oomp_src_folder: projects_folder\keebio\bfo9000-pcb\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\keebio\bfo9000-pcb\version_current\working
+oomp_key: oomp_keebio_bfo9000_pcb
+oomp_key_simple: keebio_bfo9000_pcb
 projects_flat: projects_flat/keebio_bfo9000_pcb/version_current/working
 projects_folder: projects_folder/keebio/bfo9000-pcb/version_current/working
-pulls_url: https://api.github.com/repos/keebio/bfo9000-pcb/pulls{/number}
-pushed_at: '2023-02-13T20:03:49Z'
-releases_url: https://api.github.com/repos/keebio/bfo9000-pcb/releases{/id}
-size: 2631
-ssh_url: git@github.com:keebio/bfo9000-pcb.git
-stargazers_count: 6
-stargazers_url: https://api.github.com/repos/keebio/bfo9000-pcb/stargazers
-statuses_url: https://api.github.com/repos/keebio/bfo9000-pcb/statuses/{sha}
-subscribers_url: https://api.github.com/repos/keebio/bfo9000-pcb/subscribers
-subscription_url: https://api.github.com/repos/keebio/bfo9000-pcb/subscription
-svn_url: https://github.com/keebio/bfo9000-pcb
-tags_url: https://api.github.com/repos/keebio/bfo9000-pcb/tags
-teams_url: https://api.github.com/repos/keebio/bfo9000-pcb/teams
-topics: []
-trees_url: https://api.github.com/repos/keebio/bfo9000-pcb/git/trees{/sha}
-updated_at: '2023-07-09T12:07:12Z'
-url: https://api.github.com/repos/keebio/bfo9000-pcb
-visibility: public
-watchers: 6
-watchers_count: 6
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/keebio/bfo9000-pcb/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/keebio/bfo9000-pcb/assignees{/user}
+  blobs_url: https://api.github.com/repos/keebio/bfo9000-pcb/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/keebio/bfo9000-pcb/branches{/branch}
+  clone_url: https://github.com/keebio/bfo9000-pcb.git
+  collaborators_url: https://api.github.com/repos/keebio/bfo9000-pcb/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/keebio/bfo9000-pcb/comments{/number}
+  commits_url: https://api.github.com/repos/keebio/bfo9000-pcb/commits{/sha}
+  compare_url: https://api.github.com/repos/keebio/bfo9000-pcb/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/keebio/bfo9000-pcb/contents/{+path}
+  contributors_url: https://api.github.com/repos/keebio/bfo9000-pcb/contributors
+  created_at: '2023-02-07T21:07:45Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/keebio/bfo9000-pcb/deployments
+  description: KiCAD Files for BFO-9000 PCB Design
+  disabled: false
+  downloads_url: https://api.github.com/repos/keebio/bfo9000-pcb/downloads
+  events_url: https://api.github.com/repos/keebio/bfo9000-pcb/events
+  fork: false
+  forks: 6
+  forks_count: 6
+  forks_url: https://api.github.com/repos/keebio/bfo9000-pcb/forks
+  full_name: keebio/bfo9000-pcb
+  git_commits_url: https://api.github.com/repos/keebio/bfo9000-pcb/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/keebio/bfo9000-pcb/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/keebio/bfo9000-pcb/git/tags{/sha}
+  git_url: git://github.com/keebio/bfo9000-pcb.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/keebio/bfo9000-pcb/hooks
+  html_url: https://github.com/keebio/bfo9000-pcb
+  id: 598808749
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/keebio/bfo9000-pcb/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/keebio/bfo9000-pcb/issues/events{/number}
+  issues_url: https://api.github.com/repos/keebio/bfo9000-pcb/issues{/number}
+  keys_url: https://api.github.com/repos/keebio/bfo9000-pcb/keys{/key_id}
+  labels_url: https://api.github.com/repos/keebio/bfo9000-pcb/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/keebio/bfo9000-pcb/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/keebio/bfo9000-pcb/merges
+  milestones_url: https://api.github.com/repos/keebio/bfo9000-pcb/milestones{/number}
+  mirror_url: null
+  name: bfo9000-pcb
+  node_id: R_kgDOI7EYrQ
+  notifications_url: https://api.github.com/repos/keebio/bfo9000-pcb/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/29069092?v=4
+    events_url: https://api.github.com/users/keebio/events{/privacy}
+    followers_url: https://api.github.com/users/keebio/followers
+    following_url: https://api.github.com/users/keebio/following{/other_user}
+    gists_url: https://api.github.com/users/keebio/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/keebio
+    id: 29069092
+    login: keebio
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI5MDY5MDky
+    organizations_url: https://api.github.com/users/keebio/orgs
+    received_events_url: https://api.github.com/users/keebio/received_events
+    repos_url: https://api.github.com/users/keebio/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/keebio/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/keebio/subscriptions
+    type: Organization
+    url: https://api.github.com/users/keebio
+  private: false
+  pulls_url: https://api.github.com/repos/keebio/bfo9000-pcb/pulls{/number}
+  pushed_at: '2023-02-13T20:03:49Z'
+  releases_url: https://api.github.com/repos/keebio/bfo9000-pcb/releases{/id}
+  size: 2631
+  ssh_url: git@github.com:keebio/bfo9000-pcb.git
+  stargazers_count: 6
+  stargazers_url: https://api.github.com/repos/keebio/bfo9000-pcb/stargazers
+  statuses_url: https://api.github.com/repos/keebio/bfo9000-pcb/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/keebio/bfo9000-pcb/subscribers
+  subscription_url: https://api.github.com/repos/keebio/bfo9000-pcb/subscription
+  svn_url: https://github.com/keebio/bfo9000-pcb
+  tags_url: https://api.github.com/repos/keebio/bfo9000-pcb/tags
+  teams_url: https://api.github.com/repos/keebio/bfo9000-pcb/teams
+  topics: []
+  trees_url: https://api.github.com/repos/keebio/bfo9000-pcb/git/trees{/sha}
+  updated_at: '2023-07-09T12:07:12Z'
+  url: https://api.github.com/repos/keebio/bfo9000-pcb
+  visibility: public
+  watchers: 6
+  watchers_count: 6
+  web_commit_signoff_required: false

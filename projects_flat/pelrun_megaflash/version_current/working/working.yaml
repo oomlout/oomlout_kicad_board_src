@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/pelrun/megaflash/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/pelrun/megaflash/assignees{/user}
-blobs_url: https://api.github.com/repos/pelrun/megaflash/git/blobs{/sha}
-branches_url: https://api.github.com/repos/pelrun/megaflash/branches{/branch}
-clone_url: https://github.com/pelrun/megaflash.git
-collaborators_url: https://api.github.com/repos/pelrun/megaflash/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/pelrun/megaflash/comments{/number}
-commits_url: https://api.github.com/repos/pelrun/megaflash/commits{/sha}
-compare_url: https://api.github.com/repos/pelrun/megaflash/compare/{base}...{head}
-contents_url: https://api.github.com/repos/pelrun/megaflash/contents/{+path}
-contributors_url: https://api.github.com/repos/pelrun/megaflash/contributors
-created_at: '2014-04-17T15:07:44Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/pelrun/megaflash/deployments
-description: Reimplementation of Bryce's MegaFlash board for the CPC
-disabled: false
-downloads_url: https://api.github.com/repos/pelrun/megaflash/downloads
-events_url: https://api.github.com/repos/pelrun/megaflash/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/pelrun/megaflash/forks
-full_name: pelrun/megaflash
-git_commits_url: https://api.github.com/repos/pelrun/megaflash/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/pelrun/megaflash/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/pelrun/megaflash/git/tags{/sha}
-git_url: git://github.com/pelrun/megaflash.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/pelrun/megaflash/hooks
-html_url: https://github.com/pelrun/megaflash
-id: 18882604
-is_template: false
-issue_comment_url: https://api.github.com/repos/pelrun/megaflash/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/pelrun/megaflash/issues/events{/number}
-issues_url: https://api.github.com/repos/pelrun/megaflash/issues{/number}
-keys_url: https://api.github.com/repos/pelrun/megaflash/keys{/key_id}
-labels_url: https://api.github.com/repos/pelrun/megaflash/labels{/name}
-language: IDL
-languages_url: https://api.github.com/repos/pelrun/megaflash/languages
-license: null
-merges_url: https://api.github.com/repos/pelrun/megaflash/merges
-milestones_url: https://api.github.com/repos/pelrun/megaflash/milestones{/number}
-mirror_url: null
-name: megaflash
-node_id: MDEwOlJlcG9zaXRvcnkxODg4MjYwNA==
-notifications_url: https://api.github.com/repos/pelrun/megaflash/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/316223?v=4
-  events_url: https://api.github.com/users/pelrun/events{/privacy}
-  followers_url: https://api.github.com/users/pelrun/followers
-  following_url: https://api.github.com/users/pelrun/following{/other_user}
-  gists_url: https://api.github.com/users/pelrun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/pelrun
-  id: 316223
-  login: pelrun
-  node_id: MDQ6VXNlcjMxNjIyMw==
-  organizations_url: https://api.github.com/users/pelrun/orgs
-  received_events_url: https://api.github.com/users/pelrun/received_events
-  repos_url: https://api.github.com/users/pelrun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/pelrun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/pelrun/subscriptions
-  type: User
-  url: https://api.github.com/users/pelrun
-private: false
+links:
+  github_owner: pelrun
+  github_repo_name: megaflash
+  github_src: https://github.com/pelrun/megaflash
+  github_src_repo: https://github.com/pelrun/megaflash
+  oomp_bot: projects_pelrun_megaflash
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_pelrun_megaflash
+  oomp_doc: projects/projects_flat_pelrun_megaflash/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_pelrun_megaflash
+  oomp_src_flat: projects_flat/projects_flat_pelrun_megaflash
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_pelrun_megaflash
+  oomp_src_folder: projects_flat\pelrun_megaflash\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\pelrun_megaflash\version_current\working
+oomp_key: oomp_projects_flat_pelrun_megaflash
+oomp_key_simple: projects_flat_pelrun_megaflash
 projects_flat: projects_flat/pelrun_megaflash/version_current/working
 projects_folder: projects_folder/pelrun/megaflash/version_current/working
-pulls_url: https://api.github.com/repos/pelrun/megaflash/pulls{/number}
-pushed_at: '2014-04-23T11:22:19Z'
-releases_url: https://api.github.com/repos/pelrun/megaflash/releases{/id}
-size: 1576
-ssh_url: git@github.com:pelrun/megaflash.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/pelrun/megaflash/stargazers
-statuses_url: https://api.github.com/repos/pelrun/megaflash/statuses/{sha}
-subscribers_url: https://api.github.com/repos/pelrun/megaflash/subscribers
-subscription_url: https://api.github.com/repos/pelrun/megaflash/subscription
-svn_url: https://github.com/pelrun/megaflash
-tags_url: https://api.github.com/repos/pelrun/megaflash/tags
-teams_url: https://api.github.com/repos/pelrun/megaflash/teams
-topics: []
-trees_url: https://api.github.com/repos/pelrun/megaflash/git/trees{/sha}
-updated_at: '2014-04-23T11:22:20Z'
-url: https://api.github.com/repos/pelrun/megaflash
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/pelrun/megaflash/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/pelrun/megaflash/assignees{/user}
+  blobs_url: https://api.github.com/repos/pelrun/megaflash/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/pelrun/megaflash/branches{/branch}
+  clone_url: https://github.com/pelrun/megaflash.git
+  collaborators_url: https://api.github.com/repos/pelrun/megaflash/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/pelrun/megaflash/comments{/number}
+  commits_url: https://api.github.com/repos/pelrun/megaflash/commits{/sha}
+  compare_url: https://api.github.com/repos/pelrun/megaflash/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/pelrun/megaflash/contents/{+path}
+  contributors_url: https://api.github.com/repos/pelrun/megaflash/contributors
+  created_at: '2014-04-17T15:07:44Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/pelrun/megaflash/deployments
+  description: Reimplementation of Bryce's MegaFlash board for the CPC
+  disabled: false
+  downloads_url: https://api.github.com/repos/pelrun/megaflash/downloads
+  events_url: https://api.github.com/repos/pelrun/megaflash/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/pelrun/megaflash/forks
+  full_name: pelrun/megaflash
+  git_commits_url: https://api.github.com/repos/pelrun/megaflash/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/pelrun/megaflash/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/pelrun/megaflash/git/tags{/sha}
+  git_url: git://github.com/pelrun/megaflash.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/pelrun/megaflash/hooks
+  html_url: https://github.com/pelrun/megaflash
+  id: 18882604
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/pelrun/megaflash/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/pelrun/megaflash/issues/events{/number}
+  issues_url: https://api.github.com/repos/pelrun/megaflash/issues{/number}
+  keys_url: https://api.github.com/repos/pelrun/megaflash/keys{/key_id}
+  labels_url: https://api.github.com/repos/pelrun/megaflash/labels{/name}
+  language: IDL
+  languages_url: https://api.github.com/repos/pelrun/megaflash/languages
+  license: null
+  merges_url: https://api.github.com/repos/pelrun/megaflash/merges
+  milestones_url: https://api.github.com/repos/pelrun/megaflash/milestones{/number}
+  mirror_url: null
+  name: megaflash
+  node_id: MDEwOlJlcG9zaXRvcnkxODg4MjYwNA==
+  notifications_url: https://api.github.com/repos/pelrun/megaflash/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/316223?v=4
+    events_url: https://api.github.com/users/pelrun/events{/privacy}
+    followers_url: https://api.github.com/users/pelrun/followers
+    following_url: https://api.github.com/users/pelrun/following{/other_user}
+    gists_url: https://api.github.com/users/pelrun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/pelrun
+    id: 316223
+    login: pelrun
+    node_id: MDQ6VXNlcjMxNjIyMw==
+    organizations_url: https://api.github.com/users/pelrun/orgs
+    received_events_url: https://api.github.com/users/pelrun/received_events
+    repos_url: https://api.github.com/users/pelrun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/pelrun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/pelrun/subscriptions
+    type: User
+    url: https://api.github.com/users/pelrun
+  private: false
+  pulls_url: https://api.github.com/repos/pelrun/megaflash/pulls{/number}
+  pushed_at: '2014-04-23T11:22:19Z'
+  releases_url: https://api.github.com/repos/pelrun/megaflash/releases{/id}
+  size: 1576
+  ssh_url: git@github.com:pelrun/megaflash.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/pelrun/megaflash/stargazers
+  statuses_url: https://api.github.com/repos/pelrun/megaflash/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/pelrun/megaflash/subscribers
+  subscription_url: https://api.github.com/repos/pelrun/megaflash/subscription
+  svn_url: https://github.com/pelrun/megaflash
+  tags_url: https://api.github.com/repos/pelrun/megaflash/tags
+  teams_url: https://api.github.com/repos/pelrun/megaflash/teams
+  topics: []
+  trees_url: https://api.github.com/repos/pelrun/megaflash/git/trees{/sha}
+  updated_at: '2014-04-23T11:22:20Z'
+  url: https://api.github.com/repos/pelrun/megaflash
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

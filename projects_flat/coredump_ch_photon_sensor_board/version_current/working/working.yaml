@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/assignees{/user}
-blobs_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/git/blobs{/sha}
-branches_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/branches{/branch}
-clone_url: https://github.com/coredump-ch/photon-sensor-board.git
-collaborators_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/comments{/number}
-commits_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/commits{/sha}
-compare_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/compare/{base}...{head}
-contents_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/contents/{+path}
-contributors_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/contributors
-created_at: '2015-10-02T13:51:55Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/deployments
-description: A board to easily connect a Particle Photon with a DS18B20 temparature
-  sensor.
-disabled: false
-downloads_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/downloads
-events_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/forks
-full_name: coredump-ch/photon-sensor-board
-git_commits_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/git/tags{/sha}
-git_url: git://github.com/coredump-ch/photon-sensor-board.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/hooks
-html_url: https://github.com/coredump-ch/photon-sensor-board
-id: 43555425
-is_template: false
-issue_comment_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/issues/events{/number}
-issues_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/issues{/number}
-keys_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/keys{/key_id}
-labels_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/languages
-license: null
-merges_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/merges
-milestones_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/milestones{/number}
-mirror_url: null
-name: photon-sensor-board
-node_id: MDEwOlJlcG9zaXRvcnk0MzU1NTQyNQ==
-notifications_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5295118?v=4
-  events_url: https://api.github.com/users/coredump-ch/events{/privacy}
-  followers_url: https://api.github.com/users/coredump-ch/followers
-  following_url: https://api.github.com/users/coredump-ch/following{/other_user}
-  gists_url: https://api.github.com/users/coredump-ch/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/coredump-ch
-  id: 5295118
-  login: coredump-ch
-  node_id: MDEyOk9yZ2FuaXphdGlvbjUyOTUxMTg=
-  organizations_url: https://api.github.com/users/coredump-ch/orgs
-  received_events_url: https://api.github.com/users/coredump-ch/received_events
-  repos_url: https://api.github.com/users/coredump-ch/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/coredump-ch/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/coredump-ch/subscriptions
-  type: Organization
-  url: https://api.github.com/users/coredump-ch
-private: false
+links:
+  github_owner: coredump-ch
+  github_repo_name: photon-sensor-board
+  github_src: https://github.com/coredump-ch/photon-sensor-board
+  github_src_repo: https://github.com/coredump-ch/photon-sensor-board
+  oomp_bot: projects_coredump_ch_photon_sensor_board
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_coredump_ch_photon_sensor_board
+  oomp_doc: projects/projects_flat_coredump_ch_photon_sensor_board/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_coredump_ch_photon_sensor_board
+  oomp_src_flat: projects_flat/projects_flat_coredump_ch_photon_sensor_board
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_coredump_ch_photon_sensor_board
+  oomp_src_folder: projects_flat\coredump_ch_photon_sensor_board\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\coredump_ch_photon_sensor_board\version_current\working
+oomp_key: oomp_projects_flat_coredump_ch_photon_sensor_board
+oomp_key_simple: projects_flat_coredump_ch_photon_sensor_board
 projects_flat: projects_flat/coredump_ch_photon_sensor_board/version_current/working
 projects_folder: projects_folder/coredump-ch/photon-sensor-board/version_current/working
-pulls_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/pulls{/number}
-pushed_at: '2016-08-09T17:40:51Z'
-releases_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/releases{/id}
-size: 457
-ssh_url: git@github.com:coredump-ch/photon-sensor-board.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/stargazers
-statuses_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/statuses/{sha}
-subscribers_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/subscribers
-subscription_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/subscription
-svn_url: https://github.com/coredump-ch/photon-sensor-board
-tags_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/tags
-teams_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/teams
-topics: []
-trees_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/git/trees{/sha}
-updated_at: '2016-01-11T12:01:02Z'
-url: https://api.github.com/repos/coredump-ch/photon-sensor-board
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/assignees{/user}
+  blobs_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/branches{/branch}
+  clone_url: https://github.com/coredump-ch/photon-sensor-board.git
+  collaborators_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/comments{/number}
+  commits_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/commits{/sha}
+  compare_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/contents/{+path}
+  contributors_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/contributors
+  created_at: '2015-10-02T13:51:55Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/deployments
+  description: A board to easily connect a Particle Photon with a DS18B20 temparature
+    sensor.
+  disabled: false
+  downloads_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/downloads
+  events_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/forks
+  full_name: coredump-ch/photon-sensor-board
+  git_commits_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/git/tags{/sha}
+  git_url: git://github.com/coredump-ch/photon-sensor-board.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/hooks
+  html_url: https://github.com/coredump-ch/photon-sensor-board
+  id: 43555425
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/issues/events{/number}
+  issues_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/issues{/number}
+  keys_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/keys{/key_id}
+  labels_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/languages
+  license: null
+  merges_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/merges
+  milestones_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/milestones{/number}
+  mirror_url: null
+  name: photon-sensor-board
+  node_id: MDEwOlJlcG9zaXRvcnk0MzU1NTQyNQ==
+  notifications_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5295118?v=4
+    events_url: https://api.github.com/users/coredump-ch/events{/privacy}
+    followers_url: https://api.github.com/users/coredump-ch/followers
+    following_url: https://api.github.com/users/coredump-ch/following{/other_user}
+    gists_url: https://api.github.com/users/coredump-ch/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/coredump-ch
+    id: 5295118
+    login: coredump-ch
+    node_id: MDEyOk9yZ2FuaXphdGlvbjUyOTUxMTg=
+    organizations_url: https://api.github.com/users/coredump-ch/orgs
+    received_events_url: https://api.github.com/users/coredump-ch/received_events
+    repos_url: https://api.github.com/users/coredump-ch/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/coredump-ch/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/coredump-ch/subscriptions
+    type: Organization
+    url: https://api.github.com/users/coredump-ch
+  private: false
+  pulls_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/pulls{/number}
+  pushed_at: '2016-08-09T17:40:51Z'
+  releases_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/releases{/id}
+  size: 457
+  ssh_url: git@github.com:coredump-ch/photon-sensor-board.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/stargazers
+  statuses_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/subscribers
+  subscription_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/subscription
+  svn_url: https://github.com/coredump-ch/photon-sensor-board
+  tags_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/tags
+  teams_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/teams
+  topics: []
+  trees_url: https://api.github.com/repos/coredump-ch/photon-sensor-board/git/trees{/sha}
+  updated_at: '2016-01-11T12:01:02Z'
+  url: https://api.github.com/repos/coredump-ch/photon-sensor-board
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

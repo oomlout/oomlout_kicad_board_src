@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/MacroFab/Macro_Articles/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/MacroFab/Macro_Articles/assignees{/user}
-blobs_url: https://api.github.com/repos/MacroFab/Macro_Articles/git/blobs{/sha}
-branches_url: https://api.github.com/repos/MacroFab/Macro_Articles/branches{/branch}
-clone_url: https://github.com/MacroFab/Macro_Articles.git
-collaborators_url: https://api.github.com/repos/MacroFab/Macro_Articles/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/MacroFab/Macro_Articles/comments{/number}
-commits_url: https://api.github.com/repos/MacroFab/Macro_Articles/commits{/sha}
-compare_url: https://api.github.com/repos/MacroFab/Macro_Articles/compare/{base}...{head}
-contents_url: https://api.github.com/repos/MacroFab/Macro_Articles/contents/{+path}
-contributors_url: https://api.github.com/repos/MacroFab/Macro_Articles/contributors
-created_at: '2016-05-02T18:29:14Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/MacroFab/Macro_Articles/deployments
-description: 'Files for Articles written by MacroFab for the Engineering Blog.  '
-disabled: false
-downloads_url: https://api.github.com/repos/MacroFab/Macro_Articles/downloads
-events_url: https://api.github.com/repos/MacroFab/Macro_Articles/events
-fork: false
-forks: 6
-forks_count: 6
-forks_url: https://api.github.com/repos/MacroFab/Macro_Articles/forks
-full_name: MacroFab/Macro_Articles
-git_commits_url: https://api.github.com/repos/MacroFab/Macro_Articles/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/MacroFab/Macro_Articles/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/MacroFab/Macro_Articles/git/tags{/sha}
-git_url: git://github.com/MacroFab/Macro_Articles.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://macrofab.com/blog/engineering/
-hooks_url: https://api.github.com/repos/MacroFab/Macro_Articles/hooks
-html_url: https://github.com/MacroFab/Macro_Articles
-id: 57911454
-is_template: false
-issue_comment_url: https://api.github.com/repos/MacroFab/Macro_Articles/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/MacroFab/Macro_Articles/issues/events{/number}
-issues_url: https://api.github.com/repos/MacroFab/Macro_Articles/issues{/number}
-keys_url: https://api.github.com/repos/MacroFab/Macro_Articles/keys{/key_id}
-labels_url: https://api.github.com/repos/MacroFab/Macro_Articles/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/MacroFab/Macro_Articles/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/MacroFab/Macro_Articles/merges
-milestones_url: https://api.github.com/repos/MacroFab/Macro_Articles/milestones{/number}
-mirror_url: null
-name: Macro_Articles
-node_id: MDEwOlJlcG9zaXRvcnk1NzkxMTQ1NA==
-notifications_url: https://api.github.com/repos/MacroFab/Macro_Articles/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5633298?v=4
-  events_url: https://api.github.com/users/MacroFab/events{/privacy}
-  followers_url: https://api.github.com/users/MacroFab/followers
-  following_url: https://api.github.com/users/MacroFab/following{/other_user}
-  gists_url: https://api.github.com/users/MacroFab/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/MacroFab
-  id: 5633298
-  login: MacroFab
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU2MzMyOTg=
-  organizations_url: https://api.github.com/users/MacroFab/orgs
-  received_events_url: https://api.github.com/users/MacroFab/received_events
-  repos_url: https://api.github.com/users/MacroFab/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/MacroFab/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/MacroFab/subscriptions
-  type: Organization
-  url: https://api.github.com/users/MacroFab
-private: false
+links:
+  github_owner: MacroFab
+  github_repo_name: Macro_Articles
+  github_src: https://github.com/MacroFab/Macro_Articles
+  github_src_repo: https://github.com/MacroFab/Macro_Articles
+  oomp_bot: projects_macrofab_macro_articles
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_macrofab_macro_articles
+  oomp_doc: projects/projects_flat_macrofab_macro_articles/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_macrofab_macro_articles
+  oomp_src_flat: projects_flat/projects_flat_macrofab_macro_articles
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_macrofab_macro_articles
+  oomp_src_folder: projects_flat\macrofab_macro_articles\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\macrofab_macro_articles\version_current\working
+oomp_key: oomp_projects_flat_macrofab_macro_articles
+oomp_key_simple: projects_flat_macrofab_macro_articles
 projects_flat: projects_flat/macrofab_macro_articles/version_current/working
 projects_folder: projects_folder/MacroFab/Macro_Articles/version_current/working
-pulls_url: https://api.github.com/repos/MacroFab/Macro_Articles/pulls{/number}
-pushed_at: '2019-07-17T22:55:19Z'
-releases_url: https://api.github.com/repos/MacroFab/Macro_Articles/releases{/id}
-size: 16902
-ssh_url: git@github.com:MacroFab/Macro_Articles.git
-stargazers_count: 19
-stargazers_url: https://api.github.com/repos/MacroFab/Macro_Articles/stargazers
-statuses_url: https://api.github.com/repos/MacroFab/Macro_Articles/statuses/{sha}
-subscribers_url: https://api.github.com/repos/MacroFab/Macro_Articles/subscribers
-subscription_url: https://api.github.com/repos/MacroFab/Macro_Articles/subscription
-svn_url: https://github.com/MacroFab/Macro_Articles
-tags_url: https://api.github.com/repos/MacroFab/Macro_Articles/tags
-teams_url: https://api.github.com/repos/MacroFab/Macro_Articles/teams
-topics: []
-trees_url: https://api.github.com/repos/MacroFab/Macro_Articles/git/trees{/sha}
-updated_at: '2023-04-20T19:23:39Z'
-url: https://api.github.com/repos/MacroFab/Macro_Articles
-visibility: public
-watchers: 19
-watchers_count: 19
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/MacroFab/Macro_Articles/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/MacroFab/Macro_Articles/assignees{/user}
+  blobs_url: https://api.github.com/repos/MacroFab/Macro_Articles/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/MacroFab/Macro_Articles/branches{/branch}
+  clone_url: https://github.com/MacroFab/Macro_Articles.git
+  collaborators_url: https://api.github.com/repos/MacroFab/Macro_Articles/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/MacroFab/Macro_Articles/comments{/number}
+  commits_url: https://api.github.com/repos/MacroFab/Macro_Articles/commits{/sha}
+  compare_url: https://api.github.com/repos/MacroFab/Macro_Articles/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/MacroFab/Macro_Articles/contents/{+path}
+  contributors_url: https://api.github.com/repos/MacroFab/Macro_Articles/contributors
+  created_at: '2016-05-02T18:29:14Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/MacroFab/Macro_Articles/deployments
+  description: 'Files for Articles written by MacroFab for the Engineering Blog.  '
+  disabled: false
+  downloads_url: https://api.github.com/repos/MacroFab/Macro_Articles/downloads
+  events_url: https://api.github.com/repos/MacroFab/Macro_Articles/events
+  fork: false
+  forks: 6
+  forks_count: 6
+  forks_url: https://api.github.com/repos/MacroFab/Macro_Articles/forks
+  full_name: MacroFab/Macro_Articles
+  git_commits_url: https://api.github.com/repos/MacroFab/Macro_Articles/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/MacroFab/Macro_Articles/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/MacroFab/Macro_Articles/git/tags{/sha}
+  git_url: git://github.com/MacroFab/Macro_Articles.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://macrofab.com/blog/engineering/
+  hooks_url: https://api.github.com/repos/MacroFab/Macro_Articles/hooks
+  html_url: https://github.com/MacroFab/Macro_Articles
+  id: 57911454
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/MacroFab/Macro_Articles/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/MacroFab/Macro_Articles/issues/events{/number}
+  issues_url: https://api.github.com/repos/MacroFab/Macro_Articles/issues{/number}
+  keys_url: https://api.github.com/repos/MacroFab/Macro_Articles/keys{/key_id}
+  labels_url: https://api.github.com/repos/MacroFab/Macro_Articles/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/MacroFab/Macro_Articles/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/MacroFab/Macro_Articles/merges
+  milestones_url: https://api.github.com/repos/MacroFab/Macro_Articles/milestones{/number}
+  mirror_url: null
+  name: Macro_Articles
+  node_id: MDEwOlJlcG9zaXRvcnk1NzkxMTQ1NA==
+  notifications_url: https://api.github.com/repos/MacroFab/Macro_Articles/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5633298?v=4
+    events_url: https://api.github.com/users/MacroFab/events{/privacy}
+    followers_url: https://api.github.com/users/MacroFab/followers
+    following_url: https://api.github.com/users/MacroFab/following{/other_user}
+    gists_url: https://api.github.com/users/MacroFab/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/MacroFab
+    id: 5633298
+    login: MacroFab
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU2MzMyOTg=
+    organizations_url: https://api.github.com/users/MacroFab/orgs
+    received_events_url: https://api.github.com/users/MacroFab/received_events
+    repos_url: https://api.github.com/users/MacroFab/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/MacroFab/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/MacroFab/subscriptions
+    type: Organization
+    url: https://api.github.com/users/MacroFab
+  private: false
+  pulls_url: https://api.github.com/repos/MacroFab/Macro_Articles/pulls{/number}
+  pushed_at: '2019-07-17T22:55:19Z'
+  releases_url: https://api.github.com/repos/MacroFab/Macro_Articles/releases{/id}
+  size: 16902
+  ssh_url: git@github.com:MacroFab/Macro_Articles.git
+  stargazers_count: 19
+  stargazers_url: https://api.github.com/repos/MacroFab/Macro_Articles/stargazers
+  statuses_url: https://api.github.com/repos/MacroFab/Macro_Articles/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/MacroFab/Macro_Articles/subscribers
+  subscription_url: https://api.github.com/repos/MacroFab/Macro_Articles/subscription
+  svn_url: https://github.com/MacroFab/Macro_Articles
+  tags_url: https://api.github.com/repos/MacroFab/Macro_Articles/tags
+  teams_url: https://api.github.com/repos/MacroFab/Macro_Articles/teams
+  topics: []
+  trees_url: https://api.github.com/repos/MacroFab/Macro_Articles/git/trees{/sha}
+  updated_at: '2023-04-20T19:23:39Z'
+  url: https://api.github.com/repos/MacroFab/Macro_Articles
+  visibility: public
+  watchers: 19
+  watchers_count: 19
+  web_commit_signoff_required: false

@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/USBSerial/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/USBSerial/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/USBSerial/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/USBSerial/branches{/branch}
-clone_url: https://github.com/freetronics/USBSerial.git
-collaborators_url: https://api.github.com/repos/freetronics/USBSerial/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/USBSerial/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/USBSerial/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/USBSerial/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/USBSerial/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/USBSerial/contributors
-created_at: '2013-04-06T11:54:18Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/USBSerial/deployments
-description: Freetronics ATmega16U2 breakout board and USB-to-UART adapter
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/USBSerial/downloads
-events_url: https://api.github.com/repos/freetronics/USBSerial/events
-fork: true
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/freetronics/USBSerial/forks
-full_name: freetronics/USBSerial
-git_commits_url: https://api.github.com/repos/freetronics/USBSerial/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/USBSerial/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/USBSerial/git/tags{/sha}
-git_url: git://github.com/freetronics/USBSerial.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/freetronics/USBSerial/hooks
-html_url: https://github.com/freetronics/USBSerial
-id: 9259234
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/USBSerial/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/USBSerial/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/USBSerial/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/USBSerial/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/USBSerial/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/freetronics/USBSerial/languages
-license: null
-merges_url: https://api.github.com/repos/freetronics/USBSerial/merges
-milestones_url: https://api.github.com/repos/freetronics/USBSerial/milestones{/number}
-mirror_url: null
-name: USBSerial
-node_id: MDEwOlJlcG9zaXRvcnk5MjU5MjM0
-notifications_url: https://api.github.com/repos/freetronics/USBSerial/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: USBSerial
+  github_src: https://github.com/freetronics/USBSerial
+  github_src_repo: https://github.com/freetronics/USBSerial
+  oomp_bot: projects_freetronics_usbserial
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_freetronics_usbserial
+  oomp_doc: projects/projects_flat_freetronics_usbserial/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_freetronics_usbserial
+  oomp_src_flat: projects_flat/projects_flat_freetronics_usbserial
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_freetronics_usbserial
+  oomp_src_folder: projects_flat\freetronics_usbserial\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_usbserial\version_current\working
+oomp_key: oomp_projects_flat_freetronics_usbserial
+oomp_key_simple: projects_flat_freetronics_usbserial
 projects_flat: projects_flat/freetronics_usbserial/version_current/working
 projects_folder: projects_folder/freetronics/USBSerial/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/USBSerial/pulls{/number}
-pushed_at: '2018-11-04T11:29:12Z'
-releases_url: https://api.github.com/repos/freetronics/USBSerial/releases{/id}
-size: 609
-ssh_url: git@github.com:freetronics/USBSerial.git
-stargazers_count: 8
-stargazers_url: https://api.github.com/repos/freetronics/USBSerial/stargazers
-statuses_url: https://api.github.com/repos/freetronics/USBSerial/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/USBSerial/subscribers
-subscription_url: https://api.github.com/repos/freetronics/USBSerial/subscription
-svn_url: https://github.com/freetronics/USBSerial
-tags_url: https://api.github.com/repos/freetronics/USBSerial/tags
-teams_url: https://api.github.com/repos/freetronics/USBSerial/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/USBSerial/git/trees{/sha}
-updated_at: '2022-06-06T23:54:12Z'
-url: https://api.github.com/repos/freetronics/USBSerial
-visibility: public
-watchers: 8
-watchers_count: 8
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/USBSerial/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/USBSerial/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/USBSerial/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/USBSerial/branches{/branch}
+  clone_url: https://github.com/freetronics/USBSerial.git
+  collaborators_url: https://api.github.com/repos/freetronics/USBSerial/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/USBSerial/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/USBSerial/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/USBSerial/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/USBSerial/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/USBSerial/contributors
+  created_at: '2013-04-06T11:54:18Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/USBSerial/deployments
+  description: Freetronics ATmega16U2 breakout board and USB-to-UART adapter
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/USBSerial/downloads
+  events_url: https://api.github.com/repos/freetronics/USBSerial/events
+  fork: true
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/freetronics/USBSerial/forks
+  full_name: freetronics/USBSerial
+  git_commits_url: https://api.github.com/repos/freetronics/USBSerial/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/USBSerial/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/USBSerial/git/tags{/sha}
+  git_url: git://github.com/freetronics/USBSerial.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/freetronics/USBSerial/hooks
+  html_url: https://github.com/freetronics/USBSerial
+  id: 9259234
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/USBSerial/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/USBSerial/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/USBSerial/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/USBSerial/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/USBSerial/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/freetronics/USBSerial/languages
+  license: null
+  merges_url: https://api.github.com/repos/freetronics/USBSerial/merges
+  milestones_url: https://api.github.com/repos/freetronics/USBSerial/milestones{/number}
+  mirror_url: null
+  name: USBSerial
+  node_id: MDEwOlJlcG9zaXRvcnk5MjU5MjM0
+  notifications_url: https://api.github.com/repos/freetronics/USBSerial/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/USBSerial/pulls{/number}
+  pushed_at: '2018-11-04T11:29:12Z'
+  releases_url: https://api.github.com/repos/freetronics/USBSerial/releases{/id}
+  size: 609
+  ssh_url: git@github.com:freetronics/USBSerial.git
+  stargazers_count: 8
+  stargazers_url: https://api.github.com/repos/freetronics/USBSerial/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/USBSerial/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/USBSerial/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/USBSerial/subscription
+  svn_url: https://github.com/freetronics/USBSerial
+  tags_url: https://api.github.com/repos/freetronics/USBSerial/tags
+  teams_url: https://api.github.com/repos/freetronics/USBSerial/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/USBSerial/git/trees{/sha}
+  updated_at: '2022-06-06T23:54:12Z'
+  url: https://api.github.com/repos/freetronics/USBSerial
+  visibility: public
+  watchers: 8
+  watchers_count: 8
+  web_commit_signoff_required: false

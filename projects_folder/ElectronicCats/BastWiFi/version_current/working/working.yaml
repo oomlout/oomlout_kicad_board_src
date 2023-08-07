@@ -1,109 +1,125 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/BastWiFi/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/BastWiFi/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/BastWiFi/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/BastWiFi/branches{/branch}
-clone_url: https://github.com/ElectronicCats/BastWiFi.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/BastWiFi/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/BastWiFi/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/BastWiFi/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/BastWiFi/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/BastWiFi/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/BastWiFi/contributors
-created_at: '2020-04-25T21:31:41Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ElectronicCats/BastWiFi/deployments
-description: BastWiFi is all the best in the world format Feather and ESP32-S2!, Feather
-  pin to pin compatible with a USB port type C
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/BastWiFi/downloads
-events_url: https://api.github.com/repos/ElectronicCats/BastWiFi/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/ElectronicCats/BastWiFi/forks
-full_name: ElectronicCats/BastWiFi
-git_commits_url: https://api.github.com/repos/ElectronicCats/BastWiFi/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/BastWiFi/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/BastWiFi/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/BastWiFi.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: false
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ElectronicCats/BastWiFi/hooks
-html_url: https://github.com/ElectronicCats/BastWiFi
-id: 258878602
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/BastWiFi/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/BastWiFi/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/BastWiFi/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/BastWiFi/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/BastWiFi/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ElectronicCats/BastWiFi/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/ElectronicCats/BastWiFi/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/BastWiFi/milestones{/number}
-mirror_url: null
-name: BastWiFi
-node_id: MDEwOlJlcG9zaXRvcnkyNTg4Nzg2MDI=
-notifications_url: https://api.github.com/repos/ElectronicCats/BastWiFi/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: BastWiFi
+  github_src: https://github.com/ElectronicCats/BastWiFi
+  github_src_repo: https://github.com/ElectronicCats/BastWiFi
+  oomp_bot: electroniccats_bastwifi
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electroniccats_bastwifi
+  oomp_doc: projects/electroniccats_bastwifi/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electroniccats_bastwifi
+  oomp_src_flat: projects_flat/electroniccats_bastwifi
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electroniccats_bastwifi
+  oomp_src_folder: projects_folder\ElectronicCats\BastWiFi\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ElectronicCats\BastWiFi\version_current\working
+oomp_key: oomp_electroniccats_bastwifi
+oomp_key_simple: electroniccats_bastwifi
 projects_flat: projects_flat/electroniccats_bastwifi/version_current/working
 projects_folder: projects_folder/ElectronicCats/BastWiFi/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/BastWiFi/pulls{/number}
-pushed_at: '2022-10-24T16:46:16Z'
-releases_url: https://api.github.com/repos/ElectronicCats/BastWiFi/releases{/id}
-size: 5912
-ssh_url: git@github.com:ElectronicCats/BastWiFi.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/ElectronicCats/BastWiFi/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/BastWiFi/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/BastWiFi/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/BastWiFi/subscription
-svn_url: https://github.com/ElectronicCats/BastWiFi
-tags_url: https://api.github.com/repos/ElectronicCats/BastWiFi/tags
-teams_url: https://api.github.com/repos/ElectronicCats/BastWiFi/teams
-topics:
-- esp32
-- esp32-arduino
-- esp32-s2
-- esp32s2
-trees_url: https://api.github.com/repos/ElectronicCats/BastWiFi/git/trees{/sha}
-updated_at: '2023-02-10T05:03:38Z'
-url: https://api.github.com/repos/ElectronicCats/BastWiFi
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/BastWiFi/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/BastWiFi/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/BastWiFi/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/BastWiFi/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/BastWiFi.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/BastWiFi/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/BastWiFi/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/BastWiFi/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/BastWiFi/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/BastWiFi/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/BastWiFi/contributors
+  created_at: '2020-04-25T21:31:41Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ElectronicCats/BastWiFi/deployments
+  description: BastWiFi is all the best in the world format Feather and ESP32-S2!,
+    Feather pin to pin compatible with a USB port type C
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/BastWiFi/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/BastWiFi/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/ElectronicCats/BastWiFi/forks
+  full_name: ElectronicCats/BastWiFi
+  git_commits_url: https://api.github.com/repos/ElectronicCats/BastWiFi/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/BastWiFi/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/BastWiFi/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/BastWiFi.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: false
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ElectronicCats/BastWiFi/hooks
+  html_url: https://github.com/ElectronicCats/BastWiFi
+  id: 258878602
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/BastWiFi/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/BastWiFi/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/BastWiFi/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/BastWiFi/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/BastWiFi/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ElectronicCats/BastWiFi/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/ElectronicCats/BastWiFi/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/BastWiFi/milestones{/number}
+  mirror_url: null
+  name: BastWiFi
+  node_id: MDEwOlJlcG9zaXRvcnkyNTg4Nzg2MDI=
+  notifications_url: https://api.github.com/repos/ElectronicCats/BastWiFi/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/BastWiFi/pulls{/number}
+  pushed_at: '2022-10-24T16:46:16Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/BastWiFi/releases{/id}
+  size: 5912
+  ssh_url: git@github.com:ElectronicCats/BastWiFi.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/ElectronicCats/BastWiFi/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/BastWiFi/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/BastWiFi/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/BastWiFi/subscription
+  svn_url: https://github.com/ElectronicCats/BastWiFi
+  tags_url: https://api.github.com/repos/ElectronicCats/BastWiFi/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/BastWiFi/teams
+  topics:
+  - esp32
+  - esp32-arduino
+  - esp32-s2
+  - esp32s2
+  trees_url: https://api.github.com/repos/ElectronicCats/BastWiFi/git/trees{/sha}
+  updated_at: '2023-02-10T05:03:38Z'
+  url: https://api.github.com/repos/ElectronicCats/BastWiFi
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: true

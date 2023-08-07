@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/PatrickBaus/differential_lna/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/PatrickBaus/differential_lna/assignees{/user}
-blobs_url: https://api.github.com/repos/PatrickBaus/differential_lna/git/blobs{/sha}
-branches_url: https://api.github.com/repos/PatrickBaus/differential_lna/branches{/branch}
-clone_url: https://github.com/PatrickBaus/differential_lna.git
-collaborators_url: https://api.github.com/repos/PatrickBaus/differential_lna/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/PatrickBaus/differential_lna/comments{/number}
-commits_url: https://api.github.com/repos/PatrickBaus/differential_lna/commits{/sha}
-compare_url: https://api.github.com/repos/PatrickBaus/differential_lna/compare/{base}...{head}
-contents_url: https://api.github.com/repos/PatrickBaus/differential_lna/contents/{+path}
-contributors_url: https://api.github.com/repos/PatrickBaus/differential_lna/contributors
-created_at: '2023-05-02T09:17:59Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/PatrickBaus/differential_lna/deployments
-description: Low Noise Differential Amplifier
-disabled: false
-downloads_url: https://api.github.com/repos/PatrickBaus/differential_lna/downloads
-events_url: https://api.github.com/repos/PatrickBaus/differential_lna/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/PatrickBaus/differential_lna/forks
-full_name: PatrickBaus/differential_lna
-git_commits_url: https://api.github.com/repos/PatrickBaus/differential_lna/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/PatrickBaus/differential_lna/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/PatrickBaus/differential_lna/git/tags{/sha}
-git_url: git://github.com/PatrickBaus/differential_lna.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/PatrickBaus/differential_lna/hooks
-html_url: https://github.com/PatrickBaus/differential_lna
-id: 635241479
-is_template: false
-issue_comment_url: https://api.github.com/repos/PatrickBaus/differential_lna/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/PatrickBaus/differential_lna/issues/events{/number}
-issues_url: https://api.github.com/repos/PatrickBaus/differential_lna/issues{/number}
-keys_url: https://api.github.com/repos/PatrickBaus/differential_lna/keys{/key_id}
-labels_url: https://api.github.com/repos/PatrickBaus/differential_lna/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/PatrickBaus/differential_lna/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/PatrickBaus/differential_lna/merges
-milestones_url: https://api.github.com/repos/PatrickBaus/differential_lna/milestones{/number}
-mirror_url: null
-name: differential_lna
-node_id: R_kgDOJd0EBw
-notifications_url: https://api.github.com/repos/PatrickBaus/differential_lna/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/15003430?v=4
-  events_url: https://api.github.com/users/PatrickBaus/events{/privacy}
-  followers_url: https://api.github.com/users/PatrickBaus/followers
-  following_url: https://api.github.com/users/PatrickBaus/following{/other_user}
-  gists_url: https://api.github.com/users/PatrickBaus/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/PatrickBaus
-  id: 15003430
-  login: PatrickBaus
-  node_id: MDQ6VXNlcjE1MDAzNDMw
-  organizations_url: https://api.github.com/users/PatrickBaus/orgs
-  received_events_url: https://api.github.com/users/PatrickBaus/received_events
-  repos_url: https://api.github.com/users/PatrickBaus/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/PatrickBaus/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/PatrickBaus/subscriptions
-  type: User
-  url: https://api.github.com/users/PatrickBaus
-private: false
+links:
+  github_owner: PatrickBaus
+  github_repo_name: differential_lna
+  github_src: https://github.com/PatrickBaus/differential_lna
+  github_src_repo: https://github.com/PatrickBaus/differential_lna
+  oomp_bot: projects_patrickbaus_differential_lna
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_patrickbaus_differential_lna
+  oomp_doc: projects/projects_flat_patrickbaus_differential_lna/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_patrickbaus_differential_lna
+  oomp_src_flat: projects_flat/projects_flat_patrickbaus_differential_lna
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_patrickbaus_differential_lna
+  oomp_src_folder: projects_flat\patrickbaus_differential_lna\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\patrickbaus_differential_lna\version_current\working
+oomp_key: oomp_projects_flat_patrickbaus_differential_lna
+oomp_key_simple: projects_flat_patrickbaus_differential_lna
 projects_flat: projects_flat/patrickbaus_differential_lna/version_current/working
 projects_folder: projects_folder/PatrickBaus/differential_lna/version_current/working
-pulls_url: https://api.github.com/repos/PatrickBaus/differential_lna/pulls{/number}
-pushed_at: '2023-05-03T06:52:41Z'
-releases_url: https://api.github.com/repos/PatrickBaus/differential_lna/releases{/id}
-size: 2705
-ssh_url: git@github.com:PatrickBaus/differential_lna.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/PatrickBaus/differential_lna/stargazers
-statuses_url: https://api.github.com/repos/PatrickBaus/differential_lna/statuses/{sha}
-subscribers_url: https://api.github.com/repos/PatrickBaus/differential_lna/subscribers
-subscription_url: https://api.github.com/repos/PatrickBaus/differential_lna/subscription
-svn_url: https://github.com/PatrickBaus/differential_lna
-tags_url: https://api.github.com/repos/PatrickBaus/differential_lna/tags
-teams_url: https://api.github.com/repos/PatrickBaus/differential_lna/teams
-topics: []
-trees_url: https://api.github.com/repos/PatrickBaus/differential_lna/git/trees{/sha}
-updated_at: '2023-05-02T09:18:00Z'
-url: https://api.github.com/repos/PatrickBaus/differential_lna
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/PatrickBaus/differential_lna/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/PatrickBaus/differential_lna/assignees{/user}
+  blobs_url: https://api.github.com/repos/PatrickBaus/differential_lna/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/PatrickBaus/differential_lna/branches{/branch}
+  clone_url: https://github.com/PatrickBaus/differential_lna.git
+  collaborators_url: https://api.github.com/repos/PatrickBaus/differential_lna/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/PatrickBaus/differential_lna/comments{/number}
+  commits_url: https://api.github.com/repos/PatrickBaus/differential_lna/commits{/sha}
+  compare_url: https://api.github.com/repos/PatrickBaus/differential_lna/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/PatrickBaus/differential_lna/contents/{+path}
+  contributors_url: https://api.github.com/repos/PatrickBaus/differential_lna/contributors
+  created_at: '2023-05-02T09:17:59Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/PatrickBaus/differential_lna/deployments
+  description: Low Noise Differential Amplifier
+  disabled: false
+  downloads_url: https://api.github.com/repos/PatrickBaus/differential_lna/downloads
+  events_url: https://api.github.com/repos/PatrickBaus/differential_lna/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/PatrickBaus/differential_lna/forks
+  full_name: PatrickBaus/differential_lna
+  git_commits_url: https://api.github.com/repos/PatrickBaus/differential_lna/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/PatrickBaus/differential_lna/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/PatrickBaus/differential_lna/git/tags{/sha}
+  git_url: git://github.com/PatrickBaus/differential_lna.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/PatrickBaus/differential_lna/hooks
+  html_url: https://github.com/PatrickBaus/differential_lna
+  id: 635241479
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/PatrickBaus/differential_lna/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/PatrickBaus/differential_lna/issues/events{/number}
+  issues_url: https://api.github.com/repos/PatrickBaus/differential_lna/issues{/number}
+  keys_url: https://api.github.com/repos/PatrickBaus/differential_lna/keys{/key_id}
+  labels_url: https://api.github.com/repos/PatrickBaus/differential_lna/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/PatrickBaus/differential_lna/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/PatrickBaus/differential_lna/merges
+  milestones_url: https://api.github.com/repos/PatrickBaus/differential_lna/milestones{/number}
+  mirror_url: null
+  name: differential_lna
+  node_id: R_kgDOJd0EBw
+  notifications_url: https://api.github.com/repos/PatrickBaus/differential_lna/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/15003430?v=4
+    events_url: https://api.github.com/users/PatrickBaus/events{/privacy}
+    followers_url: https://api.github.com/users/PatrickBaus/followers
+    following_url: https://api.github.com/users/PatrickBaus/following{/other_user}
+    gists_url: https://api.github.com/users/PatrickBaus/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/PatrickBaus
+    id: 15003430
+    login: PatrickBaus
+    node_id: MDQ6VXNlcjE1MDAzNDMw
+    organizations_url: https://api.github.com/users/PatrickBaus/orgs
+    received_events_url: https://api.github.com/users/PatrickBaus/received_events
+    repos_url: https://api.github.com/users/PatrickBaus/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/PatrickBaus/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/PatrickBaus/subscriptions
+    type: User
+    url: https://api.github.com/users/PatrickBaus
+  private: false
+  pulls_url: https://api.github.com/repos/PatrickBaus/differential_lna/pulls{/number}
+  pushed_at: '2023-05-03T06:52:41Z'
+  releases_url: https://api.github.com/repos/PatrickBaus/differential_lna/releases{/id}
+  size: 2705
+  ssh_url: git@github.com:PatrickBaus/differential_lna.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/PatrickBaus/differential_lna/stargazers
+  statuses_url: https://api.github.com/repos/PatrickBaus/differential_lna/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/PatrickBaus/differential_lna/subscribers
+  subscription_url: https://api.github.com/repos/PatrickBaus/differential_lna/subscription
+  svn_url: https://github.com/PatrickBaus/differential_lna
+  tags_url: https://api.github.com/repos/PatrickBaus/differential_lna/tags
+  teams_url: https://api.github.com/repos/PatrickBaus/differential_lna/teams
+  topics: []
+  trees_url: https://api.github.com/repos/PatrickBaus/differential_lna/git/trees{/sha}
+  updated_at: '2023-05-02T09:18:00Z'
+  url: https://api.github.com/repos/PatrickBaus/differential_lna
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

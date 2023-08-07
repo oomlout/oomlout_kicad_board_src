@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/kiu/apa102nano/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/kiu/apa102nano/assignees{/user}
-blobs_url: https://api.github.com/repos/kiu/apa102nano/git/blobs{/sha}
-branches_url: https://api.github.com/repos/kiu/apa102nano/branches{/branch}
-clone_url: https://github.com/kiu/apa102nano.git
-collaborators_url: https://api.github.com/repos/kiu/apa102nano/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/kiu/apa102nano/comments{/number}
-commits_url: https://api.github.com/repos/kiu/apa102nano/commits{/sha}
-compare_url: https://api.github.com/repos/kiu/apa102nano/compare/{base}...{head}
-contents_url: https://api.github.com/repos/kiu/apa102nano/contents/{+path}
-contributors_url: https://api.github.com/repos/kiu/apa102nano/contributors
-created_at: '2022-02-12T20:41:38Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/kiu/apa102nano/deployments
-description: Arduino Nano Adapter for APA102 LED strips
-disabled: false
-downloads_url: https://api.github.com/repos/kiu/apa102nano/downloads
-events_url: https://api.github.com/repos/kiu/apa102nano/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/kiu/apa102nano/forks
-full_name: kiu/apa102nano
-git_commits_url: https://api.github.com/repos/kiu/apa102nano/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/kiu/apa102nano/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/kiu/apa102nano/git/tags{/sha}
-git_url: git://github.com/kiu/apa102nano.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/kiu/apa102nano/hooks
-html_url: https://github.com/kiu/apa102nano
-id: 458634548
-is_template: false
-issue_comment_url: https://api.github.com/repos/kiu/apa102nano/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/kiu/apa102nano/issues/events{/number}
-issues_url: https://api.github.com/repos/kiu/apa102nano/issues{/number}
-keys_url: https://api.github.com/repos/kiu/apa102nano/keys{/key_id}
-labels_url: https://api.github.com/repos/kiu/apa102nano/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/kiu/apa102nano/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/kiu/apa102nano/merges
-milestones_url: https://api.github.com/repos/kiu/apa102nano/milestones{/number}
-mirror_url: null
-name: apa102nano
-node_id: R_kgDOG1Y1NA
-notifications_url: https://api.github.com/repos/kiu/apa102nano/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/785968?v=4
-  events_url: https://api.github.com/users/kiu/events{/privacy}
-  followers_url: https://api.github.com/users/kiu/followers
-  following_url: https://api.github.com/users/kiu/following{/other_user}
-  gists_url: https://api.github.com/users/kiu/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/kiu
-  id: 785968
-  login: kiu
-  node_id: MDQ6VXNlcjc4NTk2OA==
-  organizations_url: https://api.github.com/users/kiu/orgs
-  received_events_url: https://api.github.com/users/kiu/received_events
-  repos_url: https://api.github.com/users/kiu/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/kiu/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/kiu/subscriptions
-  type: User
-  url: https://api.github.com/users/kiu
-private: false
+links:
+  github_owner: kiu
+  github_repo_name: apa102nano
+  github_src: https://github.com/kiu/apa102nano
+  github_src_repo: https://github.com/kiu/apa102nano
+  oomp_bot: projects_kiu_apa102nano
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_kiu_apa102nano
+  oomp_doc: projects/projects_flat_kiu_apa102nano/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_kiu_apa102nano
+  oomp_src_flat: projects_flat/projects_flat_kiu_apa102nano
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_kiu_apa102nano
+  oomp_src_folder: projects_flat\kiu_apa102nano\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\kiu_apa102nano\version_current\working
+oomp_key: oomp_projects_flat_kiu_apa102nano
+oomp_key_simple: projects_flat_kiu_apa102nano
 projects_flat: projects_flat/kiu_apa102nano/version_current/working
 projects_folder: projects_folder/kiu/apa102nano/version_current/working
-pulls_url: https://api.github.com/repos/kiu/apa102nano/pulls{/number}
-pushed_at: '2022-04-24T10:58:25Z'
-releases_url: https://api.github.com/repos/kiu/apa102nano/releases{/id}
-size: 13931
-ssh_url: git@github.com:kiu/apa102nano.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/kiu/apa102nano/stargazers
-statuses_url: https://api.github.com/repos/kiu/apa102nano/statuses/{sha}
-subscribers_url: https://api.github.com/repos/kiu/apa102nano/subscribers
-subscription_url: https://api.github.com/repos/kiu/apa102nano/subscription
-svn_url: https://github.com/kiu/apa102nano
-tags_url: https://api.github.com/repos/kiu/apa102nano/tags
-teams_url: https://api.github.com/repos/kiu/apa102nano/teams
-topics: []
-trees_url: https://api.github.com/repos/kiu/apa102nano/git/trees{/sha}
-updated_at: '2022-04-24T11:08:18Z'
-url: https://api.github.com/repos/kiu/apa102nano
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/kiu/apa102nano/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/kiu/apa102nano/assignees{/user}
+  blobs_url: https://api.github.com/repos/kiu/apa102nano/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/kiu/apa102nano/branches{/branch}
+  clone_url: https://github.com/kiu/apa102nano.git
+  collaborators_url: https://api.github.com/repos/kiu/apa102nano/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/kiu/apa102nano/comments{/number}
+  commits_url: https://api.github.com/repos/kiu/apa102nano/commits{/sha}
+  compare_url: https://api.github.com/repos/kiu/apa102nano/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/kiu/apa102nano/contents/{+path}
+  contributors_url: https://api.github.com/repos/kiu/apa102nano/contributors
+  created_at: '2022-02-12T20:41:38Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/kiu/apa102nano/deployments
+  description: Arduino Nano Adapter for APA102 LED strips
+  disabled: false
+  downloads_url: https://api.github.com/repos/kiu/apa102nano/downloads
+  events_url: https://api.github.com/repos/kiu/apa102nano/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/kiu/apa102nano/forks
+  full_name: kiu/apa102nano
+  git_commits_url: https://api.github.com/repos/kiu/apa102nano/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/kiu/apa102nano/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/kiu/apa102nano/git/tags{/sha}
+  git_url: git://github.com/kiu/apa102nano.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/kiu/apa102nano/hooks
+  html_url: https://github.com/kiu/apa102nano
+  id: 458634548
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/kiu/apa102nano/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/kiu/apa102nano/issues/events{/number}
+  issues_url: https://api.github.com/repos/kiu/apa102nano/issues{/number}
+  keys_url: https://api.github.com/repos/kiu/apa102nano/keys{/key_id}
+  labels_url: https://api.github.com/repos/kiu/apa102nano/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/kiu/apa102nano/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/kiu/apa102nano/merges
+  milestones_url: https://api.github.com/repos/kiu/apa102nano/milestones{/number}
+  mirror_url: null
+  name: apa102nano
+  node_id: R_kgDOG1Y1NA
+  notifications_url: https://api.github.com/repos/kiu/apa102nano/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/785968?v=4
+    events_url: https://api.github.com/users/kiu/events{/privacy}
+    followers_url: https://api.github.com/users/kiu/followers
+    following_url: https://api.github.com/users/kiu/following{/other_user}
+    gists_url: https://api.github.com/users/kiu/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/kiu
+    id: 785968
+    login: kiu
+    node_id: MDQ6VXNlcjc4NTk2OA==
+    organizations_url: https://api.github.com/users/kiu/orgs
+    received_events_url: https://api.github.com/users/kiu/received_events
+    repos_url: https://api.github.com/users/kiu/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/kiu/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/kiu/subscriptions
+    type: User
+    url: https://api.github.com/users/kiu
+  private: false
+  pulls_url: https://api.github.com/repos/kiu/apa102nano/pulls{/number}
+  pushed_at: '2022-04-24T10:58:25Z'
+  releases_url: https://api.github.com/repos/kiu/apa102nano/releases{/id}
+  size: 13931
+  ssh_url: git@github.com:kiu/apa102nano.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/kiu/apa102nano/stargazers
+  statuses_url: https://api.github.com/repos/kiu/apa102nano/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/kiu/apa102nano/subscribers
+  subscription_url: https://api.github.com/repos/kiu/apa102nano/subscription
+  svn_url: https://github.com/kiu/apa102nano
+  tags_url: https://api.github.com/repos/kiu/apa102nano/tags
+  teams_url: https://api.github.com/repos/kiu/apa102nano/teams
+  topics: []
+  trees_url: https://api.github.com/repos/kiu/apa102nano/git/trees{/sha}
+  updated_at: '2022-04-24T11:08:18Z'
+  url: https://api.github.com/repos/kiu/apa102nano
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

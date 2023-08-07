@@ -1,105 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/branches{/branch}
-clone_url: https://github.com/sparkfun/Thing_Plus_Dual-Port_Logging_Shield.git
-collaborators_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/contributors
-created_at: '2021-12-20T18:44:14Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/deployments
-description: A Thing Plus Shield providing access to a microSD card via both SPI and
-  USB
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/downloads
-events_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/forks
-full_name: sparkfun/Thing_Plus_Dual-Port_Logging_Shield
-git_commits_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/git/tags{/sha}
-git_url: git://github.com/sparkfun/Thing_Plus_Dual-Port_Logging_Shield.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/hooks
-html_url: https://github.com/sparkfun/Thing_Plus_Dual-Port_Logging_Shield
-id: 440273230
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/merges
-milestones_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/milestones{/number}
-mirror_url: null
-name: Thing_Plus_Dual-Port_Logging_Shield
-node_id: R_kgDOGj4JTg
-notifications_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Thing_Plus_Dual-Port_Logging_Shield
+  github_src: https://github.com/sparkfun/Thing_Plus_Dual-Port_Logging_Shield
+  github_src_repo: https://github.com/sparkfun/Thing_Plus_Dual-Port_Logging_Shield
+  oomp_bot: sparkfun_thing_plus_dual_port_logging_shield
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_thing_plus_dual_port_logging_shield
+  oomp_doc: projects/sparkfun_thing_plus_dual_port_logging_shield/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_thing_plus_dual_port_logging_shield
+  oomp_src_flat: projects_flat/sparkfun_thing_plus_dual_port_logging_shield
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_thing_plus_dual_port_logging_shield
+  oomp_src_folder: projects_folder\sparkfun\Thing_Plus_Dual-Port_Logging_Shield\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\Thing_Plus_Dual-Port_Logging_Shield\version_current\working
+oomp_key: oomp_sparkfun_thing_plus_dual_port_logging_shield
+oomp_key_simple: sparkfun_thing_plus_dual_port_logging_shield
+projects_flat: projects_flat/sparkfun_thing_plus_dual_port_logging_shield/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_thing_plus_dual_port_logging_shield/version_current/working
 projects_folder: projects_folder/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/pulls{/number}
-pushed_at: '2022-06-10T15:26:49Z'
-releases_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/releases{/id}
-size: 32260
-ssh_url: git@github.com:sparkfun/Thing_Plus_Dual-Port_Logging_Shield.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/subscription
-svn_url: https://github.com/sparkfun/Thing_Plus_Dual-Port_Logging_Shield
-tags_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/tags
-teams_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/git/trees{/sha}
-updated_at: '2022-06-22T18:29:21Z'
-url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/branches{/branch}
+  clone_url: https://github.com/sparkfun/Thing_Plus_Dual-Port_Logging_Shield.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/contributors
+  created_at: '2021-12-20T18:44:14Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/deployments
+  description: A Thing Plus Shield providing access to a microSD card via both SPI
+    and USB
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/downloads
+  events_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/forks
+  full_name: sparkfun/Thing_Plus_Dual-Port_Logging_Shield
+  git_commits_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Thing_Plus_Dual-Port_Logging_Shield.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/hooks
+  html_url: https://github.com/sparkfun/Thing_Plus_Dual-Port_Logging_Shield
+  id: 440273230
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/milestones{/number}
+  mirror_url: null
+  name: Thing_Plus_Dual-Port_Logging_Shield
+  node_id: R_kgDOGj4JTg
+  notifications_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/pulls{/number}
+  pushed_at: '2022-06-10T15:26:49Z'
+  releases_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/releases{/id}
+  size: 32260
+  ssh_url: git@github.com:sparkfun/Thing_Plus_Dual-Port_Logging_Shield.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/subscription
+  svn_url: https://github.com/sparkfun/Thing_Plus_Dual-Port_Logging_Shield
+  tags_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/tags
+  teams_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield/git/trees{/sha}
+  updated_at: '2022-06-22T18:29:21Z'
+  url: https://api.github.com/repos/sparkfun/Thing_Plus_Dual-Port_Logging_Shield
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

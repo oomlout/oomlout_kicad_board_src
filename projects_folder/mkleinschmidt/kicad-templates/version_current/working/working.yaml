@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/assignees{/user}
-blobs_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/git/blobs{/sha}
-branches_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/branches{/branch}
-clone_url: https://github.com/mkleinschmidt/kicad-templates.git
-collaborators_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/comments{/number}
-commits_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/commits{/sha}
-compare_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/compare/{base}...{head}
-contents_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/contents/{+path}
-contributors_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/contributors
-created_at: '2019-02-12T08:11:30Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/deployments
-description: KiCad project templates
-disabled: false
-downloads_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/downloads
-events_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/forks
-full_name: mkleinschmidt/kicad-templates
-git_commits_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/git/tags{/sha}
-git_url: git://github.com/mkleinschmidt/kicad-templates.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/hooks
-html_url: https://github.com/mkleinschmidt/kicad-templates
-id: 170278224
-is_template: false
-issue_comment_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/issues/events{/number}
-issues_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/issues{/number}
-keys_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/keys{/key_id}
-labels_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/merges
-milestones_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/milestones{/number}
-mirror_url: null
-name: kicad-templates
-node_id: MDEwOlJlcG9zaXRvcnkxNzAyNzgyMjQ=
-notifications_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1336384?v=4
-  events_url: https://api.github.com/users/mkleinschmidt/events{/privacy}
-  followers_url: https://api.github.com/users/mkleinschmidt/followers
-  following_url: https://api.github.com/users/mkleinschmidt/following{/other_user}
-  gists_url: https://api.github.com/users/mkleinschmidt/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/mkleinschmidt
-  id: 1336384
-  login: mkleinschmidt
-  node_id: MDQ6VXNlcjEzMzYzODQ=
-  organizations_url: https://api.github.com/users/mkleinschmidt/orgs
-  received_events_url: https://api.github.com/users/mkleinschmidt/received_events
-  repos_url: https://api.github.com/users/mkleinschmidt/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/mkleinschmidt/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/mkleinschmidt/subscriptions
-  type: User
-  url: https://api.github.com/users/mkleinschmidt
-private: false
+links:
+  github_owner: mkleinschmidt
+  github_repo_name: kicad-templates
+  github_src: https://github.com/mkleinschmidt/kicad-templates
+  github_src_repo: https://github.com/mkleinschmidt/kicad-templates
+  oomp_bot: mkleinschmidt_kicad_templates
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/mkleinschmidt_kicad_templates
+  oomp_doc: projects/mkleinschmidt_kicad_templates/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/mkleinschmidt_kicad_templates
+  oomp_src_flat: projects_flat/mkleinschmidt_kicad_templates
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/mkleinschmidt_kicad_templates
+  oomp_src_folder: projects_folder\mkleinschmidt\kicad-templates\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\mkleinschmidt\kicad-templates\version_current\working
+oomp_key: oomp_mkleinschmidt_kicad_templates
+oomp_key_simple: mkleinschmidt_kicad_templates
 projects_flat: projects_flat/mkleinschmidt_kicad_templates/version_current/working
 projects_folder: projects_folder/mkleinschmidt/kicad-templates/version_current/working
-pulls_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/pulls{/number}
-pushed_at: '2020-11-05T11:17:59Z'
-releases_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/releases{/id}
-size: 1637
-ssh_url: git@github.com:mkleinschmidt/kicad-templates.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/stargazers
-statuses_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/statuses/{sha}
-subscribers_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/subscribers
-subscription_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/subscription
-svn_url: https://github.com/mkleinschmidt/kicad-templates
-tags_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/tags
-teams_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/teams
-topics: []
-trees_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/git/trees{/sha}
-updated_at: '2020-11-05T11:18:03Z'
-url: https://api.github.com/repos/mkleinschmidt/kicad-templates
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/assignees{/user}
+  blobs_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/branches{/branch}
+  clone_url: https://github.com/mkleinschmidt/kicad-templates.git
+  collaborators_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/comments{/number}
+  commits_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/commits{/sha}
+  compare_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/contents/{+path}
+  contributors_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/contributors
+  created_at: '2019-02-12T08:11:30Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/deployments
+  description: KiCad project templates
+  disabled: false
+  downloads_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/downloads
+  events_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/forks
+  full_name: mkleinschmidt/kicad-templates
+  git_commits_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/git/tags{/sha}
+  git_url: git://github.com/mkleinschmidt/kicad-templates.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/hooks
+  html_url: https://github.com/mkleinschmidt/kicad-templates
+  id: 170278224
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/issues/events{/number}
+  issues_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/issues{/number}
+  keys_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/keys{/key_id}
+  labels_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/merges
+  milestones_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/milestones{/number}
+  mirror_url: null
+  name: kicad-templates
+  node_id: MDEwOlJlcG9zaXRvcnkxNzAyNzgyMjQ=
+  notifications_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1336384?v=4
+    events_url: https://api.github.com/users/mkleinschmidt/events{/privacy}
+    followers_url: https://api.github.com/users/mkleinschmidt/followers
+    following_url: https://api.github.com/users/mkleinschmidt/following{/other_user}
+    gists_url: https://api.github.com/users/mkleinschmidt/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/mkleinschmidt
+    id: 1336384
+    login: mkleinschmidt
+    node_id: MDQ6VXNlcjEzMzYzODQ=
+    organizations_url: https://api.github.com/users/mkleinschmidt/orgs
+    received_events_url: https://api.github.com/users/mkleinschmidt/received_events
+    repos_url: https://api.github.com/users/mkleinschmidt/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/mkleinschmidt/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/mkleinschmidt/subscriptions
+    type: User
+    url: https://api.github.com/users/mkleinschmidt
+  private: false
+  pulls_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/pulls{/number}
+  pushed_at: '2020-11-05T11:17:59Z'
+  releases_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/releases{/id}
+  size: 1637
+  ssh_url: git@github.com:mkleinschmidt/kicad-templates.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/stargazers
+  statuses_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/subscribers
+  subscription_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/subscription
+  svn_url: https://github.com/mkleinschmidt/kicad-templates
+  tags_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/tags
+  teams_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/teams
+  topics: []
+  trees_url: https://api.github.com/repos/mkleinschmidt/kicad-templates/git/trees{/sha}
+  updated_at: '2020-11-05T11:18:03Z'
+  url: https://api.github.com/repos/mkleinschmidt/kicad-templates
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/JoanTheSpark/OpenPi/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/JoanTheSpark/OpenPi/assignees{/user}
-blobs_url: https://api.github.com/repos/JoanTheSpark/OpenPi/git/blobs{/sha}
-branches_url: https://api.github.com/repos/JoanTheSpark/OpenPi/branches{/branch}
-clone_url: https://github.com/JoanTheSpark/OpenPi.git
-collaborators_url: https://api.github.com/repos/JoanTheSpark/OpenPi/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/JoanTheSpark/OpenPi/comments{/number}
-commits_url: https://api.github.com/repos/JoanTheSpark/OpenPi/commits{/sha}
-compare_url: https://api.github.com/repos/JoanTheSpark/OpenPi/compare/{base}...{head}
-contents_url: https://api.github.com/repos/JoanTheSpark/OpenPi/contents/{+path}
-contributors_url: https://api.github.com/repos/JoanTheSpark/OpenPi/contributors
-created_at: '2017-02-26T01:15:01Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/JoanTheSpark/OpenPi/deployments
-description: Cad files and docs related to OpenPi
-disabled: false
-downloads_url: https://api.github.com/repos/JoanTheSpark/OpenPi/downloads
-events_url: https://api.github.com/repos/JoanTheSpark/OpenPi/events
 file_5_flat: projects_flat/joanthespark_openpi/version_current/working/working.5
 file_5_folder: projects_folder/JoanTheSpark/OpenPi/version_current/working/working.5
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/JoanTheSpark/OpenPi/forks
-full_name: JoanTheSpark/OpenPi
-git_commits_url: https://api.github.com/repos/JoanTheSpark/OpenPi/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/JoanTheSpark/OpenPi/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/JoanTheSpark/OpenPi/git/tags{/sha}
-git_url: git://github.com/JoanTheSpark/OpenPi.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/JoanTheSpark/OpenPi/hooks
-html_url: https://github.com/JoanTheSpark/OpenPi
-id: 83174311
-is_template: false
-issue_comment_url: https://api.github.com/repos/JoanTheSpark/OpenPi/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/JoanTheSpark/OpenPi/issues/events{/number}
-issues_url: https://api.github.com/repos/JoanTheSpark/OpenPi/issues{/number}
-keys_url: https://api.github.com/repos/JoanTheSpark/OpenPi/keys{/key_id}
-labels_url: https://api.github.com/repos/JoanTheSpark/OpenPi/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/JoanTheSpark/OpenPi/languages
-license: null
-merges_url: https://api.github.com/repos/JoanTheSpark/OpenPi/merges
-milestones_url: https://api.github.com/repos/JoanTheSpark/OpenPi/milestones{/number}
-mirror_url: null
-name: OpenPi
-node_id: MDEwOlJlcG9zaXRvcnk4MzE3NDMxMQ==
-notifications_url: https://api.github.com/repos/JoanTheSpark/OpenPi/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/14078073?v=4
-  events_url: https://api.github.com/users/JoanTheSpark/events{/privacy}
-  followers_url: https://api.github.com/users/JoanTheSpark/followers
-  following_url: https://api.github.com/users/JoanTheSpark/following{/other_user}
-  gists_url: https://api.github.com/users/JoanTheSpark/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/JoanTheSpark
-  id: 14078073
-  login: JoanTheSpark
-  node_id: MDQ6VXNlcjE0MDc4MDcz
-  organizations_url: https://api.github.com/users/JoanTheSpark/orgs
-  received_events_url: https://api.github.com/users/JoanTheSpark/received_events
-  repos_url: https://api.github.com/users/JoanTheSpark/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/JoanTheSpark/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/JoanTheSpark/subscriptions
-  type: User
-  url: https://api.github.com/users/JoanTheSpark
-private: false
+links:
+  github_owner: JoanTheSpark
+  github_repo_name: OpenPi
+  github_src: https://github.com/JoanTheSpark/OpenPi
+  github_src_repo: https://github.com/JoanTheSpark/OpenPi
+  oomp_bot: projects_joanthespark_openpi
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_joanthespark_openpi
+  oomp_doc: projects/projects_flat_joanthespark_openpi/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_joanthespark_openpi
+  oomp_src_flat: projects_flat/projects_flat_joanthespark_openpi
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_joanthespark_openpi
+  oomp_src_folder: projects_flat\joanthespark_openpi\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\joanthespark_openpi\version_current\working
+oomp_key: oomp_projects_flat_joanthespark_openpi
+oomp_key_simple: projects_flat_joanthespark_openpi
 projects_flat: projects_flat/joanthespark_openpi/version_current/working
 projects_folder: projects_folder/JoanTheSpark/OpenPi/version_current/working
-pulls_url: https://api.github.com/repos/JoanTheSpark/OpenPi/pulls{/number}
-pushed_at: '2015-11-24T09:12:06Z'
-releases_url: https://api.github.com/repos/JoanTheSpark/OpenPi/releases{/id}
-size: 1987
-ssh_url: git@github.com:JoanTheSpark/OpenPi.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/JoanTheSpark/OpenPi/stargazers
-statuses_url: https://api.github.com/repos/JoanTheSpark/OpenPi/statuses/{sha}
-subscribers_url: https://api.github.com/repos/JoanTheSpark/OpenPi/subscribers
-subscription_url: https://api.github.com/repos/JoanTheSpark/OpenPi/subscription
-svn_url: https://github.com/JoanTheSpark/OpenPi
-tags_url: https://api.github.com/repos/JoanTheSpark/OpenPi/tags
-teams_url: https://api.github.com/repos/JoanTheSpark/OpenPi/teams
-topics: []
-trees_url: https://api.github.com/repos/JoanTheSpark/OpenPi/git/trees{/sha}
-updated_at: '2017-02-26T01:15:03Z'
-url: https://api.github.com/repos/JoanTheSpark/OpenPi
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/JoanTheSpark/OpenPi/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/JoanTheSpark/OpenPi/assignees{/user}
+  blobs_url: https://api.github.com/repos/JoanTheSpark/OpenPi/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/JoanTheSpark/OpenPi/branches{/branch}
+  clone_url: https://github.com/JoanTheSpark/OpenPi.git
+  collaborators_url: https://api.github.com/repos/JoanTheSpark/OpenPi/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/JoanTheSpark/OpenPi/comments{/number}
+  commits_url: https://api.github.com/repos/JoanTheSpark/OpenPi/commits{/sha}
+  compare_url: https://api.github.com/repos/JoanTheSpark/OpenPi/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/JoanTheSpark/OpenPi/contents/{+path}
+  contributors_url: https://api.github.com/repos/JoanTheSpark/OpenPi/contributors
+  created_at: '2017-02-26T01:15:01Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/JoanTheSpark/OpenPi/deployments
+  description: Cad files and docs related to OpenPi
+  disabled: false
+  downloads_url: https://api.github.com/repos/JoanTheSpark/OpenPi/downloads
+  events_url: https://api.github.com/repos/JoanTheSpark/OpenPi/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/JoanTheSpark/OpenPi/forks
+  full_name: JoanTheSpark/OpenPi
+  git_commits_url: https://api.github.com/repos/JoanTheSpark/OpenPi/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/JoanTheSpark/OpenPi/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/JoanTheSpark/OpenPi/git/tags{/sha}
+  git_url: git://github.com/JoanTheSpark/OpenPi.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/JoanTheSpark/OpenPi/hooks
+  html_url: https://github.com/JoanTheSpark/OpenPi
+  id: 83174311
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/JoanTheSpark/OpenPi/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/JoanTheSpark/OpenPi/issues/events{/number}
+  issues_url: https://api.github.com/repos/JoanTheSpark/OpenPi/issues{/number}
+  keys_url: https://api.github.com/repos/JoanTheSpark/OpenPi/keys{/key_id}
+  labels_url: https://api.github.com/repos/JoanTheSpark/OpenPi/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/JoanTheSpark/OpenPi/languages
+  license: null
+  merges_url: https://api.github.com/repos/JoanTheSpark/OpenPi/merges
+  milestones_url: https://api.github.com/repos/JoanTheSpark/OpenPi/milestones{/number}
+  mirror_url: null
+  name: OpenPi
+  node_id: MDEwOlJlcG9zaXRvcnk4MzE3NDMxMQ==
+  notifications_url: https://api.github.com/repos/JoanTheSpark/OpenPi/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/14078073?v=4
+    events_url: https://api.github.com/users/JoanTheSpark/events{/privacy}
+    followers_url: https://api.github.com/users/JoanTheSpark/followers
+    following_url: https://api.github.com/users/JoanTheSpark/following{/other_user}
+    gists_url: https://api.github.com/users/JoanTheSpark/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/JoanTheSpark
+    id: 14078073
+    login: JoanTheSpark
+    node_id: MDQ6VXNlcjE0MDc4MDcz
+    organizations_url: https://api.github.com/users/JoanTheSpark/orgs
+    received_events_url: https://api.github.com/users/JoanTheSpark/received_events
+    repos_url: https://api.github.com/users/JoanTheSpark/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/JoanTheSpark/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/JoanTheSpark/subscriptions
+    type: User
+    url: https://api.github.com/users/JoanTheSpark
+  private: false
+  pulls_url: https://api.github.com/repos/JoanTheSpark/OpenPi/pulls{/number}
+  pushed_at: '2015-11-24T09:12:06Z'
+  releases_url: https://api.github.com/repos/JoanTheSpark/OpenPi/releases{/id}
+  size: 1987
+  ssh_url: git@github.com:JoanTheSpark/OpenPi.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/JoanTheSpark/OpenPi/stargazers
+  statuses_url: https://api.github.com/repos/JoanTheSpark/OpenPi/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/JoanTheSpark/OpenPi/subscribers
+  subscription_url: https://api.github.com/repos/JoanTheSpark/OpenPi/subscription
+  svn_url: https://github.com/JoanTheSpark/OpenPi
+  tags_url: https://api.github.com/repos/JoanTheSpark/OpenPi/tags
+  teams_url: https://api.github.com/repos/JoanTheSpark/OpenPi/teams
+  topics: []
+  trees_url: https://api.github.com/repos/JoanTheSpark/OpenPi/git/trees{/sha}
+  updated_at: '2017-02-26T01:15:03Z'
+  url: https://api.github.com/repos/JoanTheSpark/OpenPi
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

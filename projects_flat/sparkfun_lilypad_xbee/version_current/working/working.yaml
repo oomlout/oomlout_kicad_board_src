@@ -1,101 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/branches{/branch}
-clone_url: https://github.com/sparkfun/LilyPad_XBee.git
-collaborators_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/contributors
-created_at: '2014-03-18T14:58:46Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/deployments
-description: LilyPad XBee breakout board available from SparkFun Electronics
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/downloads
-events_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_lilypad_xbee/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/LilyPad_XBee/version_current/working/working.brd
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/forks
-full_name: sparkfun/LilyPad_XBee
-git_commits_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/git/tags{/sha}
-git_url: git://github.com/sparkfun/LilyPad_XBee.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/hooks
-html_url: https://github.com/sparkfun/LilyPad_XBee
-id: 17870005
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/merges
-milestones_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/milestones{/number}
-mirror_url: null
-name: LilyPad_XBee
-node_id: MDEwOlJlcG9zaXRvcnkxNzg3MDAwNQ==
-notifications_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: LilyPad_XBee
+  github_src: https://github.com/sparkfun/LilyPad_XBee
+  github_src_repo: https://github.com/sparkfun/LilyPad_XBee
+  oomp_bot: projects_sparkfun_lilypad_xbee
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_lilypad_xbee
+  oomp_doc: projects/projects_flat_sparkfun_lilypad_xbee/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_lilypad_xbee
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_lilypad_xbee
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_lilypad_xbee
+  oomp_src_folder: projects_flat\sparkfun_lilypad_xbee\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lilypad_xbee\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_lilypad_xbee
+oomp_key_simple: projects_flat_sparkfun_lilypad_xbee
+projects_flat: projects_flat/sparkfun_lilypad_xbee/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lilypad_xbee/version_current/working
 projects_folder: projects_folder/sparkfun/LilyPad_XBee/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/pulls{/number}
-pushed_at: '2014-09-02T15:46:11Z'
-releases_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/releases{/id}
-size: 338
-ssh_url: git@github.com:sparkfun/LilyPad_XBee.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/subscription
-svn_url: https://github.com/sparkfun/LilyPad_XBee
-tags_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/tags
-teams_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/git/trees{/sha}
-updated_at: '2022-03-07T19:08:22Z'
-url: https://api.github.com/repos/sparkfun/LilyPad_XBee
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/branches{/branch}
+  clone_url: https://github.com/sparkfun/LilyPad_XBee.git
+  collaborators_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/contributors
+  created_at: '2014-03-18T14:58:46Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/deployments
+  description: LilyPad XBee breakout board available from SparkFun Electronics
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/downloads
+  events_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/forks
+  full_name: sparkfun/LilyPad_XBee
+  git_commits_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/git/tags{/sha}
+  git_url: git://github.com/sparkfun/LilyPad_XBee.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/hooks
+  html_url: https://github.com/sparkfun/LilyPad_XBee
+  id: 17870005
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/merges
+  milestones_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/milestones{/number}
+  mirror_url: null
+  name: LilyPad_XBee
+  node_id: MDEwOlJlcG9zaXRvcnkxNzg3MDAwNQ==
+  notifications_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/pulls{/number}
+  pushed_at: '2014-09-02T15:46:11Z'
+  releases_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/releases{/id}
+  size: 338
+  ssh_url: git@github.com:sparkfun/LilyPad_XBee.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/subscription
+  svn_url: https://github.com/sparkfun/LilyPad_XBee
+  tags_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/tags
+  teams_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/LilyPad_XBee/git/trees{/sha}
+  updated_at: '2022-03-07T19:08:22Z'
+  url: https://api.github.com/repos/sparkfun/LilyPad_XBee
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

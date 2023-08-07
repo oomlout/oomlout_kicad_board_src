@@ -1,102 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/russellmcc/dco/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/russellmcc/dco/assignees{/user}
-blobs_url: https://api.github.com/repos/russellmcc/dco/git/blobs{/sha}
-branches_url: https://api.github.com/repos/russellmcc/dco/branches{/branch}
-clone_url: https://github.com/russellmcc/dco.git
-collaborators_url: https://api.github.com/repos/russellmcc/dco/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/russellmcc/dco/comments{/number}
-commits_url: https://api.github.com/repos/russellmcc/dco/commits{/sha}
-compare_url: https://api.github.com/repos/russellmcc/dco/compare/{base}...{head}
-contents_url: https://api.github.com/repos/russellmcc/dco/contents/{+path}
-contributors_url: https://api.github.com/repos/russellmcc/dco/contributors
-created_at: '2012-12-24T17:22:44Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/russellmcc/dco/deployments
-description: design files for cost-conscious DCO module for eurorack format modular
-  synthesizers
-disabled: false
-downloads_url: https://api.github.com/repos/russellmcc/dco/downloads
-events_url: https://api.github.com/repos/russellmcc/dco/events
 file_sch_flat: projects_flat/russellmcc_dco/version_current/working/working.sch
 file_sch_folder: projects_folder/russellmcc/dco/version_current/working/working.sch
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/russellmcc/dco/forks
-full_name: russellmcc/dco
-git_commits_url: https://api.github.com/repos/russellmcc/dco/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/russellmcc/dco/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/russellmcc/dco/git/tags{/sha}
-git_url: git://github.com/russellmcc/dco.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/russellmcc/dco/hooks
-html_url: https://github.com/russellmcc/dco
-id: 7309883
-is_template: false
-issue_comment_url: https://api.github.com/repos/russellmcc/dco/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/russellmcc/dco/issues/events{/number}
-issues_url: https://api.github.com/repos/russellmcc/dco/issues{/number}
-keys_url: https://api.github.com/repos/russellmcc/dco/keys{/key_id}
-labels_url: https://api.github.com/repos/russellmcc/dco/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/russellmcc/dco/languages
-license: null
-merges_url: https://api.github.com/repos/russellmcc/dco/merges
-milestones_url: https://api.github.com/repos/russellmcc/dco/milestones{/number}
-mirror_url: null
-name: dco
-node_id: MDEwOlJlcG9zaXRvcnk3MzA5ODgz
-notifications_url: https://api.github.com/repos/russellmcc/dco/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/603279?v=4
-  events_url: https://api.github.com/users/russellmcc/events{/privacy}
-  followers_url: https://api.github.com/users/russellmcc/followers
-  following_url: https://api.github.com/users/russellmcc/following{/other_user}
-  gists_url: https://api.github.com/users/russellmcc/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/russellmcc
-  id: 603279
-  login: russellmcc
-  node_id: MDQ6VXNlcjYwMzI3OQ==
-  organizations_url: https://api.github.com/users/russellmcc/orgs
-  received_events_url: https://api.github.com/users/russellmcc/received_events
-  repos_url: https://api.github.com/users/russellmcc/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/russellmcc/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/russellmcc/subscriptions
-  type: User
-  url: https://api.github.com/users/russellmcc
-private: false
+links:
+  github_owner: russellmcc
+  github_repo_name: dco
+  github_src: https://github.com/russellmcc/dco
+  github_src_repo: https://github.com/russellmcc/dco
+  oomp_bot: russellmcc_dco
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/russellmcc_dco
+  oomp_doc: projects/russellmcc_dco/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/russellmcc_dco
+  oomp_src_flat: projects_flat/russellmcc_dco
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/russellmcc_dco
+  oomp_src_folder: projects_folder\russellmcc\dco\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\russellmcc\dco\version_current\working
+oomp_key: oomp_russellmcc_dco
+oomp_key_simple: russellmcc_dco
 projects_flat: projects_flat/russellmcc_dco/version_current/working
 projects_folder: projects_folder/russellmcc/dco/version_current/working
-pulls_url: https://api.github.com/repos/russellmcc/dco/pulls{/number}
-pushed_at: '2017-08-25T01:46:02Z'
-releases_url: https://api.github.com/repos/russellmcc/dco/releases{/id}
-size: 266
-ssh_url: git@github.com:russellmcc/dco.git
-stargazers_count: 29
-stargazers_url: https://api.github.com/repos/russellmcc/dco/stargazers
-statuses_url: https://api.github.com/repos/russellmcc/dco/statuses/{sha}
-subscribers_url: https://api.github.com/repos/russellmcc/dco/subscribers
-subscription_url: https://api.github.com/repos/russellmcc/dco/subscription
-svn_url: https://github.com/russellmcc/dco
-tags_url: https://api.github.com/repos/russellmcc/dco/tags
-teams_url: https://api.github.com/repos/russellmcc/dco/teams
-topics: []
-trees_url: https://api.github.com/repos/russellmcc/dco/git/trees{/sha}
-updated_at: '2022-08-21T08:43:47Z'
-url: https://api.github.com/repos/russellmcc/dco
-visibility: public
-watchers: 29
-watchers_count: 29
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/russellmcc/dco/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/russellmcc/dco/assignees{/user}
+  blobs_url: https://api.github.com/repos/russellmcc/dco/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/russellmcc/dco/branches{/branch}
+  clone_url: https://github.com/russellmcc/dco.git
+  collaborators_url: https://api.github.com/repos/russellmcc/dco/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/russellmcc/dco/comments{/number}
+  commits_url: https://api.github.com/repos/russellmcc/dco/commits{/sha}
+  compare_url: https://api.github.com/repos/russellmcc/dco/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/russellmcc/dco/contents/{+path}
+  contributors_url: https://api.github.com/repos/russellmcc/dco/contributors
+  created_at: '2012-12-24T17:22:44Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/russellmcc/dco/deployments
+  description: design files for cost-conscious DCO module for eurorack format modular
+    synthesizers
+  disabled: false
+  downloads_url: https://api.github.com/repos/russellmcc/dco/downloads
+  events_url: https://api.github.com/repos/russellmcc/dco/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/russellmcc/dco/forks
+  full_name: russellmcc/dco
+  git_commits_url: https://api.github.com/repos/russellmcc/dco/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/russellmcc/dco/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/russellmcc/dco/git/tags{/sha}
+  git_url: git://github.com/russellmcc/dco.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/russellmcc/dco/hooks
+  html_url: https://github.com/russellmcc/dco
+  id: 7309883
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/russellmcc/dco/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/russellmcc/dco/issues/events{/number}
+  issues_url: https://api.github.com/repos/russellmcc/dco/issues{/number}
+  keys_url: https://api.github.com/repos/russellmcc/dco/keys{/key_id}
+  labels_url: https://api.github.com/repos/russellmcc/dco/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/russellmcc/dco/languages
+  license: null
+  merges_url: https://api.github.com/repos/russellmcc/dco/merges
+  milestones_url: https://api.github.com/repos/russellmcc/dco/milestones{/number}
+  mirror_url: null
+  name: dco
+  node_id: MDEwOlJlcG9zaXRvcnk3MzA5ODgz
+  notifications_url: https://api.github.com/repos/russellmcc/dco/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/603279?v=4
+    events_url: https://api.github.com/users/russellmcc/events{/privacy}
+    followers_url: https://api.github.com/users/russellmcc/followers
+    following_url: https://api.github.com/users/russellmcc/following{/other_user}
+    gists_url: https://api.github.com/users/russellmcc/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/russellmcc
+    id: 603279
+    login: russellmcc
+    node_id: MDQ6VXNlcjYwMzI3OQ==
+    organizations_url: https://api.github.com/users/russellmcc/orgs
+    received_events_url: https://api.github.com/users/russellmcc/received_events
+    repos_url: https://api.github.com/users/russellmcc/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/russellmcc/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/russellmcc/subscriptions
+    type: User
+    url: https://api.github.com/users/russellmcc
+  private: false
+  pulls_url: https://api.github.com/repos/russellmcc/dco/pulls{/number}
+  pushed_at: '2017-08-25T01:46:02Z'
+  releases_url: https://api.github.com/repos/russellmcc/dco/releases{/id}
+  size: 266
+  ssh_url: git@github.com:russellmcc/dco.git
+  stargazers_count: 29
+  stargazers_url: https://api.github.com/repos/russellmcc/dco/stargazers
+  statuses_url: https://api.github.com/repos/russellmcc/dco/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/russellmcc/dco/subscribers
+  subscription_url: https://api.github.com/repos/russellmcc/dco/subscription
+  svn_url: https://github.com/russellmcc/dco
+  tags_url: https://api.github.com/repos/russellmcc/dco/tags
+  teams_url: https://api.github.com/repos/russellmcc/dco/teams
+  topics: []
+  trees_url: https://api.github.com/repos/russellmcc/dco/git/trees{/sha}
+  updated_at: '2022-08-21T08:43:47Z'
+  url: https://api.github.com/repos/russellmcc/dco
+  visibility: public
+  watchers: 29
+  watchers_count: 29
+  web_commit_signoff_required: false

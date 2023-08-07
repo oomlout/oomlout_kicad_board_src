@@ -1,112 +1,129 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Proto_Pedal/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Proto_Pedal/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Proto_Pedal/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Proto_Pedal/branches{/branch}
-clone_url: https://github.com/sparkfun/Proto_Pedal.git
-collaborators_url: https://api.github.com/repos/sparkfun/Proto_Pedal/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Proto_Pedal/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Proto_Pedal/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Proto_Pedal/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Proto_Pedal/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Proto_Pedal/contributors
-created_at: '2014-09-18T16:15:56Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Proto_Pedal/deployments
-description: Prototyping board combined with the fundamental parts of a guitar stompbox.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Proto_Pedal/downloads
-events_url: https://api.github.com/repos/sparkfun/Proto_Pedal/events
-fork: false
-forks: 6
-forks_count: 6
-forks_url: https://api.github.com/repos/sparkfun/Proto_Pedal/forks
-full_name: sparkfun/Proto_Pedal
-git_commits_url: https://api.github.com/repos/sparkfun/Proto_Pedal/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Proto_Pedal/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Proto_Pedal/git/tags{/sha}
-git_url: git://github.com/sparkfun/Proto_Pedal.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/Proto_Pedal/hooks
-html_url: https://github.com/sparkfun/Proto_Pedal
-id: 24195469
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Proto_Pedal/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Proto_Pedal/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Proto_Pedal/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Proto_Pedal/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Proto_Pedal/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/sparkfun/Proto_Pedal/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/Proto_Pedal/merges
-milestones_url: https://api.github.com/repos/sparkfun/Proto_Pedal/milestones{/number}
-mirror_url: null
-name: Proto_Pedal
-node_id: MDEwOlJlcG9zaXRvcnkyNDE5NTQ2OQ==
-notifications_url: https://api.github.com/repos/sparkfun/Proto_Pedal/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Proto_Pedal
+  github_src: https://github.com/sparkfun/Proto_Pedal
+  github_src_repo: https://github.com/sparkfun/Proto_Pedal
+  oomp_bot: projects_sparkfun_proto_pedal
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_proto_pedal
+  oomp_doc: projects/projects_flat_sparkfun_proto_pedal/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_proto_pedal
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_proto_pedal
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_proto_pedal
+  oomp_src_folder: projects_flat\sparkfun_proto_pedal\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_proto_pedal\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_proto_pedal
+oomp_key_simple: projects_flat_sparkfun_proto_pedal
+projects_flat: projects_flat/sparkfun_proto_pedal/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_proto_pedal/version_current/working
 projects_folder: projects_folder/sparkfun/Proto_Pedal/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Proto_Pedal/pulls{/number}
-pushed_at: '2016-09-23T19:41:09Z'
-releases_url: https://api.github.com/repos/sparkfun/Proto_Pedal/releases{/id}
-size: 1691
-ssh_url: git@github.com:sparkfun/Proto_Pedal.git
-stargazers_count: 28
-stargazers_url: https://api.github.com/repos/sparkfun/Proto_Pedal/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Proto_Pedal/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Proto_Pedal/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Proto_Pedal/subscription
-svn_url: https://github.com/sparkfun/Proto_Pedal
-tags_url: https://api.github.com/repos/sparkfun/Proto_Pedal/tags
-teams_url: https://api.github.com/repos/sparkfun/Proto_Pedal/teams
-topics:
-- audio-effect
-- breakout-board
-- diy-tool
-- enclosure
-- guitar-stompboxes
-- hardware
-- sparkfun-products
-- sparkfun-proto-pedal
-trees_url: https://api.github.com/repos/sparkfun/Proto_Pedal/git/trees{/sha}
-updated_at: '2023-07-26T13:05:19Z'
-url: https://api.github.com/repos/sparkfun/Proto_Pedal
-visibility: public
-watchers: 28
-watchers_count: 28
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Proto_Pedal/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Proto_Pedal/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Proto_Pedal/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Proto_Pedal/branches{/branch}
+  clone_url: https://github.com/sparkfun/Proto_Pedal.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Proto_Pedal/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Proto_Pedal/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Proto_Pedal/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Proto_Pedal/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Proto_Pedal/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Proto_Pedal/contributors
+  created_at: '2014-09-18T16:15:56Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Proto_Pedal/deployments
+  description: Prototyping board combined with the fundamental parts of a guitar stompbox.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Proto_Pedal/downloads
+  events_url: https://api.github.com/repos/sparkfun/Proto_Pedal/events
+  fork: false
+  forks: 6
+  forks_count: 6
+  forks_url: https://api.github.com/repos/sparkfun/Proto_Pedal/forks
+  full_name: sparkfun/Proto_Pedal
+  git_commits_url: https://api.github.com/repos/sparkfun/Proto_Pedal/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Proto_Pedal/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Proto_Pedal/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Proto_Pedal.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/Proto_Pedal/hooks
+  html_url: https://github.com/sparkfun/Proto_Pedal
+  id: 24195469
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Proto_Pedal/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Proto_Pedal/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Proto_Pedal/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Proto_Pedal/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Proto_Pedal/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/sparkfun/Proto_Pedal/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/Proto_Pedal/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Proto_Pedal/milestones{/number}
+  mirror_url: null
+  name: Proto_Pedal
+  node_id: MDEwOlJlcG9zaXRvcnkyNDE5NTQ2OQ==
+  notifications_url: https://api.github.com/repos/sparkfun/Proto_Pedal/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Proto_Pedal/pulls{/number}
+  pushed_at: '2016-09-23T19:41:09Z'
+  releases_url: https://api.github.com/repos/sparkfun/Proto_Pedal/releases{/id}
+  size: 1691
+  ssh_url: git@github.com:sparkfun/Proto_Pedal.git
+  stargazers_count: 28
+  stargazers_url: https://api.github.com/repos/sparkfun/Proto_Pedal/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Proto_Pedal/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Proto_Pedal/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Proto_Pedal/subscription
+  svn_url: https://github.com/sparkfun/Proto_Pedal
+  tags_url: https://api.github.com/repos/sparkfun/Proto_Pedal/tags
+  teams_url: https://api.github.com/repos/sparkfun/Proto_Pedal/teams
+  topics:
+  - audio-effect
+  - breakout-board
+  - diy-tool
+  - enclosure
+  - guitar-stompboxes
+  - hardware
+  - sparkfun-products
+  - sparkfun-proto-pedal
+  trees_url: https://api.github.com/repos/sparkfun/Proto_Pedal/git/trees{/sha}
+  updated_at: '2023-07-26T13:05:19Z'
+  url: https://api.github.com/repos/sparkfun/Proto_Pedal
+  visibility: public
+  watchers: 28
+  watchers_count: 28
+  web_commit_signoff_required: false

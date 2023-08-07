@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adamjvr/AVRBoard3/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adamjvr/AVRBoard3/assignees{/user}
-blobs_url: https://api.github.com/repos/adamjvr/AVRBoard3/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adamjvr/AVRBoard3/branches{/branch}
-clone_url: https://github.com/adamjvr/AVRBoard3.git
-collaborators_url: https://api.github.com/repos/adamjvr/AVRBoard3/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adamjvr/AVRBoard3/comments{/number}
-commits_url: https://api.github.com/repos/adamjvr/AVRBoard3/commits{/sha}
-compare_url: https://api.github.com/repos/adamjvr/AVRBoard3/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adamjvr/AVRBoard3/contents/{+path}
-contributors_url: https://api.github.com/repos/adamjvr/AVRBoard3/contributors
-created_at: '2014-04-26T19:30:39Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adamjvr/AVRBoard3/deployments
-description: Designed as the successor to my RBE2002 board, designed during the summer
-  of 2011.
-disabled: false
-downloads_url: https://api.github.com/repos/adamjvr/AVRBoard3/downloads
-events_url: https://api.github.com/repos/adamjvr/AVRBoard3/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/adamjvr/AVRBoard3/forks
-full_name: adamjvr/AVRBoard3
-git_commits_url: https://api.github.com/repos/adamjvr/AVRBoard3/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adamjvr/AVRBoard3/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adamjvr/AVRBoard3/git/tags{/sha}
-git_url: git://github.com/adamjvr/AVRBoard3.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adamjvr/AVRBoard3/hooks
-html_url: https://github.com/adamjvr/AVRBoard3
-id: 19186439
-is_template: false
-issue_comment_url: https://api.github.com/repos/adamjvr/AVRBoard3/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adamjvr/AVRBoard3/issues/events{/number}
-issues_url: https://api.github.com/repos/adamjvr/AVRBoard3/issues{/number}
-keys_url: https://api.github.com/repos/adamjvr/AVRBoard3/keys{/key_id}
-labels_url: https://api.github.com/repos/adamjvr/AVRBoard3/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adamjvr/AVRBoard3/languages
-license: null
-merges_url: https://api.github.com/repos/adamjvr/AVRBoard3/merges
-milestones_url: https://api.github.com/repos/adamjvr/AVRBoard3/milestones{/number}
-mirror_url: null
-name: AVRBoard3
-node_id: MDEwOlJlcG9zaXRvcnkxOTE4NjQzOQ==
-notifications_url: https://api.github.com/repos/adamjvr/AVRBoard3/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
-  events_url: https://api.github.com/users/adamjvr/events{/privacy}
-  followers_url: https://api.github.com/users/adamjvr/followers
-  following_url: https://api.github.com/users/adamjvr/following{/other_user}
-  gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adamjvr
-  id: 3782102
-  login: adamjvr
-  node_id: MDQ6VXNlcjM3ODIxMDI=
-  organizations_url: https://api.github.com/users/adamjvr/orgs
-  received_events_url: https://api.github.com/users/adamjvr/received_events
-  repos_url: https://api.github.com/users/adamjvr/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
-  type: User
-  url: https://api.github.com/users/adamjvr
-private: false
+links:
+  github_owner: adamjvr
+  github_repo_name: AVRBoard3
+  github_src: https://github.com/adamjvr/AVRBoard3
+  github_src_repo: https://github.com/adamjvr/AVRBoard3
+  oomp_bot: adamjvr_avrboard3
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adamjvr_avrboard3
+  oomp_doc: projects/adamjvr_avrboard3/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adamjvr_avrboard3
+  oomp_src_flat: projects_flat/adamjvr_avrboard3
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adamjvr_avrboard3
+  oomp_src_folder: projects_folder\adamjvr\AVRBoard3\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adamjvr\AVRBoard3\version_current\working
+oomp_key: oomp_adamjvr_avrboard3
+oomp_key_simple: adamjvr_avrboard3
 projects_flat: projects_flat/adamjvr_avrboard3/version_current/working
 projects_folder: projects_folder/adamjvr/AVRBoard3/version_current/working
-pulls_url: https://api.github.com/repos/adamjvr/AVRBoard3/pulls{/number}
-pushed_at: '2014-11-22T23:08:57Z'
-releases_url: https://api.github.com/repos/adamjvr/AVRBoard3/releases{/id}
-size: 412
-ssh_url: git@github.com:adamjvr/AVRBoard3.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/adamjvr/AVRBoard3/stargazers
-statuses_url: https://api.github.com/repos/adamjvr/AVRBoard3/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adamjvr/AVRBoard3/subscribers
-subscription_url: https://api.github.com/repos/adamjvr/AVRBoard3/subscription
-svn_url: https://github.com/adamjvr/AVRBoard3
-tags_url: https://api.github.com/repos/adamjvr/AVRBoard3/tags
-teams_url: https://api.github.com/repos/adamjvr/AVRBoard3/teams
-topics: []
-trees_url: https://api.github.com/repos/adamjvr/AVRBoard3/git/trees{/sha}
-updated_at: '2014-11-22T23:08:57Z'
-url: https://api.github.com/repos/adamjvr/AVRBoard3
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adamjvr/AVRBoard3/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adamjvr/AVRBoard3/assignees{/user}
+  blobs_url: https://api.github.com/repos/adamjvr/AVRBoard3/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adamjvr/AVRBoard3/branches{/branch}
+  clone_url: https://github.com/adamjvr/AVRBoard3.git
+  collaborators_url: https://api.github.com/repos/adamjvr/AVRBoard3/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adamjvr/AVRBoard3/comments{/number}
+  commits_url: https://api.github.com/repos/adamjvr/AVRBoard3/commits{/sha}
+  compare_url: https://api.github.com/repos/adamjvr/AVRBoard3/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adamjvr/AVRBoard3/contents/{+path}
+  contributors_url: https://api.github.com/repos/adamjvr/AVRBoard3/contributors
+  created_at: '2014-04-26T19:30:39Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adamjvr/AVRBoard3/deployments
+  description: Designed as the successor to my RBE2002 board, designed during the
+    summer of 2011.
+  disabled: false
+  downloads_url: https://api.github.com/repos/adamjvr/AVRBoard3/downloads
+  events_url: https://api.github.com/repos/adamjvr/AVRBoard3/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/adamjvr/AVRBoard3/forks
+  full_name: adamjvr/AVRBoard3
+  git_commits_url: https://api.github.com/repos/adamjvr/AVRBoard3/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adamjvr/AVRBoard3/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adamjvr/AVRBoard3/git/tags{/sha}
+  git_url: git://github.com/adamjvr/AVRBoard3.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adamjvr/AVRBoard3/hooks
+  html_url: https://github.com/adamjvr/AVRBoard3
+  id: 19186439
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adamjvr/AVRBoard3/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adamjvr/AVRBoard3/issues/events{/number}
+  issues_url: https://api.github.com/repos/adamjvr/AVRBoard3/issues{/number}
+  keys_url: https://api.github.com/repos/adamjvr/AVRBoard3/keys{/key_id}
+  labels_url: https://api.github.com/repos/adamjvr/AVRBoard3/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adamjvr/AVRBoard3/languages
+  license: null
+  merges_url: https://api.github.com/repos/adamjvr/AVRBoard3/merges
+  milestones_url: https://api.github.com/repos/adamjvr/AVRBoard3/milestones{/number}
+  mirror_url: null
+  name: AVRBoard3
+  node_id: MDEwOlJlcG9zaXRvcnkxOTE4NjQzOQ==
+  notifications_url: https://api.github.com/repos/adamjvr/AVRBoard3/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
+    events_url: https://api.github.com/users/adamjvr/events{/privacy}
+    followers_url: https://api.github.com/users/adamjvr/followers
+    following_url: https://api.github.com/users/adamjvr/following{/other_user}
+    gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adamjvr
+    id: 3782102
+    login: adamjvr
+    node_id: MDQ6VXNlcjM3ODIxMDI=
+    organizations_url: https://api.github.com/users/adamjvr/orgs
+    received_events_url: https://api.github.com/users/adamjvr/received_events
+    repos_url: https://api.github.com/users/adamjvr/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
+    type: User
+    url: https://api.github.com/users/adamjvr
+  private: false
+  pulls_url: https://api.github.com/repos/adamjvr/AVRBoard3/pulls{/number}
+  pushed_at: '2014-11-22T23:08:57Z'
+  releases_url: https://api.github.com/repos/adamjvr/AVRBoard3/releases{/id}
+  size: 412
+  ssh_url: git@github.com:adamjvr/AVRBoard3.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/adamjvr/AVRBoard3/stargazers
+  statuses_url: https://api.github.com/repos/adamjvr/AVRBoard3/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adamjvr/AVRBoard3/subscribers
+  subscription_url: https://api.github.com/repos/adamjvr/AVRBoard3/subscription
+  svn_url: https://github.com/adamjvr/AVRBoard3
+  tags_url: https://api.github.com/repos/adamjvr/AVRBoard3/tags
+  teams_url: https://api.github.com/repos/adamjvr/AVRBoard3/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adamjvr/AVRBoard3/git/trees{/sha}
+  updated_at: '2014-11-22T23:08:57Z'
+  url: https://api.github.com/repos/adamjvr/AVRBoard3
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

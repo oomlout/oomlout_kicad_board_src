@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/F6ITU/OpenRefMic/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/F6ITU/OpenRefMic/assignees{/user}
-blobs_url: https://api.github.com/repos/F6ITU/OpenRefMic/git/blobs{/sha}
-branches_url: https://api.github.com/repos/F6ITU/OpenRefMic/branches{/branch}
-clone_url: https://github.com/F6ITU/OpenRefMic.git
-collaborators_url: https://api.github.com/repos/F6ITU/OpenRefMic/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/F6ITU/OpenRefMic/comments{/number}
-commits_url: https://api.github.com/repos/F6ITU/OpenRefMic/commits{/sha}
-compare_url: https://api.github.com/repos/F6ITU/OpenRefMic/compare/{base}...{head}
-contents_url: https://api.github.com/repos/F6ITU/OpenRefMic/contents/{+path}
-contributors_url: https://api.github.com/repos/F6ITU/OpenRefMic/contributors
-created_at: '2022-07-02T18:50:08Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/F6ITU/OpenRefMic/deployments
-description: open hardware design for a high-performance low-cost measurement microphone
-disabled: false
-downloads_url: https://api.github.com/repos/F6ITU/OpenRefMic/downloads
-events_url: https://api.github.com/repos/F6ITU/OpenRefMic/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/F6ITU/OpenRefMic/forks
-full_name: F6ITU/OpenRefMic
-git_commits_url: https://api.github.com/repos/F6ITU/OpenRefMic/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/F6ITU/OpenRefMic/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/F6ITU/OpenRefMic/git/tags{/sha}
-git_url: git://github.com/F6ITU/OpenRefMic.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/F6ITU/OpenRefMic/hooks
-html_url: https://github.com/F6ITU/OpenRefMic
-id: 509837050
-is_template: false
-issue_comment_url: https://api.github.com/repos/F6ITU/OpenRefMic/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/F6ITU/OpenRefMic/issues/events{/number}
-issues_url: https://api.github.com/repos/F6ITU/OpenRefMic/issues{/number}
-keys_url: https://api.github.com/repos/F6ITU/OpenRefMic/keys{/key_id}
-labels_url: https://api.github.com/repos/F6ITU/OpenRefMic/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/F6ITU/OpenRefMic/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/F6ITU/OpenRefMic/merges
-milestones_url: https://api.github.com/repos/F6ITU/OpenRefMic/milestones{/number}
-mirror_url: null
-name: OpenRefMic
-node_id: R_kgDOHmN--g
-notifications_url: https://api.github.com/repos/F6ITU/OpenRefMic/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/19146590?v=4
-  events_url: https://api.github.com/users/F6ITU/events{/privacy}
-  followers_url: https://api.github.com/users/F6ITU/followers
-  following_url: https://api.github.com/users/F6ITU/following{/other_user}
-  gists_url: https://api.github.com/users/F6ITU/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/F6ITU
-  id: 19146590
-  login: F6ITU
-  node_id: MDQ6VXNlcjE5MTQ2NTkw
-  organizations_url: https://api.github.com/users/F6ITU/orgs
-  received_events_url: https://api.github.com/users/F6ITU/received_events
-  repos_url: https://api.github.com/users/F6ITU/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/F6ITU/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/F6ITU/subscriptions
-  type: User
-  url: https://api.github.com/users/F6ITU
-private: false
+links:
+  github_owner: F6ITU
+  github_repo_name: OpenRefMic
+  github_src: https://github.com/F6ITU/OpenRefMic
+  github_src_repo: https://github.com/F6ITU/OpenRefMic
+  oomp_bot: f6itu_openrefmic
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/f6itu_openrefmic
+  oomp_doc: projects/f6itu_openrefmic/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/f6itu_openrefmic
+  oomp_src_flat: projects_flat/f6itu_openrefmic
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/f6itu_openrefmic
+  oomp_src_folder: projects_folder\F6ITU\OpenRefMic\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\F6ITU\OpenRefMic\version_current\working
+oomp_key: oomp_f6itu_openrefmic
+oomp_key_simple: f6itu_openrefmic
 projects_flat: projects_flat/f6itu_openrefmic/version_current/working
 projects_folder: projects_folder/F6ITU/OpenRefMic/version_current/working
-pulls_url: https://api.github.com/repos/F6ITU/OpenRefMic/pulls{/number}
-pushed_at: '2022-06-23T23:42:07Z'
-releases_url: https://api.github.com/repos/F6ITU/OpenRefMic/releases{/id}
-size: 69006
-ssh_url: git@github.com:F6ITU/OpenRefMic.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/F6ITU/OpenRefMic/stargazers
-statuses_url: https://api.github.com/repos/F6ITU/OpenRefMic/statuses/{sha}
-subscribers_url: https://api.github.com/repos/F6ITU/OpenRefMic/subscribers
-subscription_url: https://api.github.com/repos/F6ITU/OpenRefMic/subscription
-svn_url: https://github.com/F6ITU/OpenRefMic
-tags_url: https://api.github.com/repos/F6ITU/OpenRefMic/tags
-teams_url: https://api.github.com/repos/F6ITU/OpenRefMic/teams
-topics: []
-trees_url: https://api.github.com/repos/F6ITU/OpenRefMic/git/trees{/sha}
-updated_at: '2022-07-02T18:44:20Z'
-url: https://api.github.com/repos/F6ITU/OpenRefMic
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/F6ITU/OpenRefMic/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/F6ITU/OpenRefMic/assignees{/user}
+  blobs_url: https://api.github.com/repos/F6ITU/OpenRefMic/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/F6ITU/OpenRefMic/branches{/branch}
+  clone_url: https://github.com/F6ITU/OpenRefMic.git
+  collaborators_url: https://api.github.com/repos/F6ITU/OpenRefMic/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/F6ITU/OpenRefMic/comments{/number}
+  commits_url: https://api.github.com/repos/F6ITU/OpenRefMic/commits{/sha}
+  compare_url: https://api.github.com/repos/F6ITU/OpenRefMic/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/F6ITU/OpenRefMic/contents/{+path}
+  contributors_url: https://api.github.com/repos/F6ITU/OpenRefMic/contributors
+  created_at: '2022-07-02T18:50:08Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/F6ITU/OpenRefMic/deployments
+  description: open hardware design for a high-performance low-cost measurement microphone
+  disabled: false
+  downloads_url: https://api.github.com/repos/F6ITU/OpenRefMic/downloads
+  events_url: https://api.github.com/repos/F6ITU/OpenRefMic/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/F6ITU/OpenRefMic/forks
+  full_name: F6ITU/OpenRefMic
+  git_commits_url: https://api.github.com/repos/F6ITU/OpenRefMic/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/F6ITU/OpenRefMic/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/F6ITU/OpenRefMic/git/tags{/sha}
+  git_url: git://github.com/F6ITU/OpenRefMic.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/F6ITU/OpenRefMic/hooks
+  html_url: https://github.com/F6ITU/OpenRefMic
+  id: 509837050
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/F6ITU/OpenRefMic/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/F6ITU/OpenRefMic/issues/events{/number}
+  issues_url: https://api.github.com/repos/F6ITU/OpenRefMic/issues{/number}
+  keys_url: https://api.github.com/repos/F6ITU/OpenRefMic/keys{/key_id}
+  labels_url: https://api.github.com/repos/F6ITU/OpenRefMic/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/F6ITU/OpenRefMic/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/F6ITU/OpenRefMic/merges
+  milestones_url: https://api.github.com/repos/F6ITU/OpenRefMic/milestones{/number}
+  mirror_url: null
+  name: OpenRefMic
+  node_id: R_kgDOHmN--g
+  notifications_url: https://api.github.com/repos/F6ITU/OpenRefMic/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/19146590?v=4
+    events_url: https://api.github.com/users/F6ITU/events{/privacy}
+    followers_url: https://api.github.com/users/F6ITU/followers
+    following_url: https://api.github.com/users/F6ITU/following{/other_user}
+    gists_url: https://api.github.com/users/F6ITU/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/F6ITU
+    id: 19146590
+    login: F6ITU
+    node_id: MDQ6VXNlcjE5MTQ2NTkw
+    organizations_url: https://api.github.com/users/F6ITU/orgs
+    received_events_url: https://api.github.com/users/F6ITU/received_events
+    repos_url: https://api.github.com/users/F6ITU/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/F6ITU/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/F6ITU/subscriptions
+    type: User
+    url: https://api.github.com/users/F6ITU
+  private: false
+  pulls_url: https://api.github.com/repos/F6ITU/OpenRefMic/pulls{/number}
+  pushed_at: '2022-06-23T23:42:07Z'
+  releases_url: https://api.github.com/repos/F6ITU/OpenRefMic/releases{/id}
+  size: 69006
+  ssh_url: git@github.com:F6ITU/OpenRefMic.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/F6ITU/OpenRefMic/stargazers
+  statuses_url: https://api.github.com/repos/F6ITU/OpenRefMic/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/F6ITU/OpenRefMic/subscribers
+  subscription_url: https://api.github.com/repos/F6ITU/OpenRefMic/subscription
+  svn_url: https://github.com/F6ITU/OpenRefMic
+  tags_url: https://api.github.com/repos/F6ITU/OpenRefMic/tags
+  teams_url: https://api.github.com/repos/F6ITU/OpenRefMic/teams
+  topics: []
+  trees_url: https://api.github.com/repos/F6ITU/OpenRefMic/git/trees{/sha}
+  updated_at: '2022-07-02T18:44:20Z'
+  url: https://api.github.com/repos/F6ITU/OpenRefMic
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

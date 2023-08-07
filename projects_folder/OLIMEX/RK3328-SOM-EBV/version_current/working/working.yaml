@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/branches{/branch}
-clone_url: https://github.com/OLIMEX/RK3328-SOM-EBV.git
-collaborators_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/contributors
-created_at: '2021-05-31T08:55:22Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/deployments
-description: Evaluation board for RK3328-SOM System on module with Quad Core ARM Cortex-A53
-  64 bit SOC
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/downloads
-events_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/forks
-full_name: OLIMEX/RK3328-SOM-EBV
-git_commits_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/git/tags{/sha}
-git_url: git://github.com/OLIMEX/RK3328-SOM-EBV.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/hooks
-html_url: https://github.com/OLIMEX/RK3328-SOM-EBV
-id: 372442993
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/merges
-milestones_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/milestones{/number}
-mirror_url: null
-name: RK3328-SOM-EBV
-node_id: MDEwOlJlcG9zaXRvcnkzNzI0NDI5OTM=
-notifications_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: RK3328-SOM-EBV
+  github_src: https://github.com/OLIMEX/RK3328-SOM-EBV
+  github_src_repo: https://github.com/OLIMEX/RK3328-SOM-EBV
+  oomp_bot: olimex_rk3328_som_ebv
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/olimex_rk3328_som_ebv
+  oomp_doc: projects/olimex_rk3328_som_ebv/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/olimex_rk3328_som_ebv
+  oomp_src_flat: projects_flat/olimex_rk3328_som_ebv
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/olimex_rk3328_som_ebv
+  oomp_src_folder: projects_folder\OLIMEX\RK3328-SOM-EBV\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\OLIMEX\RK3328-SOM-EBV\version_current\working
+oomp_key: oomp_olimex_rk3328_som_ebv
+oomp_key_simple: olimex_rk3328_som_ebv
 projects_flat: projects_flat/olimex_rk3328_som_ebv/version_current/working
 projects_folder: projects_folder/OLIMEX/RK3328-SOM-EBV/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/pulls{/number}
-pushed_at: '2021-05-31T13:20:11Z'
-releases_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/releases{/id}
-size: 6158
-ssh_url: git@github.com:OLIMEX/RK3328-SOM-EBV.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/subscription
-svn_url: https://github.com/OLIMEX/RK3328-SOM-EBV
-tags_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/tags
-teams_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/git/trees{/sha}
-updated_at: '2023-07-09T10:15:57Z'
-url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/branches{/branch}
+  clone_url: https://github.com/OLIMEX/RK3328-SOM-EBV.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/contributors
+  created_at: '2021-05-31T08:55:22Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/deployments
+  description: Evaluation board for RK3328-SOM System on module with Quad Core ARM
+    Cortex-A53 64 bit SOC
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/downloads
+  events_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/forks
+  full_name: OLIMEX/RK3328-SOM-EBV
+  git_commits_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/RK3328-SOM-EBV.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/hooks
+  html_url: https://github.com/OLIMEX/RK3328-SOM-EBV
+  id: 372442993
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/milestones{/number}
+  mirror_url: null
+  name: RK3328-SOM-EBV
+  node_id: MDEwOlJlcG9zaXRvcnkzNzI0NDI5OTM=
+  notifications_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/pulls{/number}
+  pushed_at: '2021-05-31T13:20:11Z'
+  releases_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/releases{/id}
+  size: 6158
+  ssh_url: git@github.com:OLIMEX/RK3328-SOM-EBV.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/subscription
+  svn_url: https://github.com/OLIMEX/RK3328-SOM-EBV
+  tags_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/tags
+  teams_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV/git/trees{/sha}
+  updated_at: '2023-07-09T10:15:57Z'
+  url: https://api.github.com/repos/OLIMEX/RK3328-SOM-EBV
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

@@ -1,101 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/branches{/branch}
-clone_url: https://github.com/sparkfun/NCP1402-3.3V.git
-collaborators_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/contributors
-created_at: '2014-02-19T16:51:54Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/deployments
-description: NCP1402- 3.3V Step Up Breakout available from SparkFun Electronics
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/downloads
-events_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/events
 file_3V_Breakout-Panel-v10_flat_folder: projects_flat_folder/sparkfun_ncp1402_3_3v/version_current/working/working.3V_Breakout-Panel-v10
 file_3V_Breakout-Panel-v10_folder: projects_folder/sparkfun/NCP1402-3.3V/version_current/working/working.3V_Breakout-Panel-v10
-fork: false
-forks: 4
-forks_count: 4
-forks_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/forks
-full_name: sparkfun/NCP1402-3.3V
-git_commits_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/git/tags{/sha}
-git_url: git://github.com/sparkfun/NCP1402-3.3V.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/hooks
-html_url: https://github.com/sparkfun/NCP1402-3.3V
-id: 16991381
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/merges
-milestones_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/milestones{/number}
-mirror_url: null
-name: NCP1402-3.3V
-node_id: MDEwOlJlcG9zaXRvcnkxNjk5MTM4MQ==
-notifications_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: NCP1402-3.3V
+  github_src: https://github.com/sparkfun/NCP1402-3.3V
+  github_src_repo: https://github.com/sparkfun/NCP1402-3.3V
+  oomp_bot: sparkfun_ncp1402_3_3v
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_ncp1402_3_3v
+  oomp_doc: projects/sparkfun_ncp1402_3_3v/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_ncp1402_3_3v
+  oomp_src_flat: projects_flat/sparkfun_ncp1402_3_3v
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_ncp1402_3_3v
+  oomp_src_folder: projects_folder\sparkfun\NCP1402-3.3V\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\NCP1402-3.3V\version_current\working
+oomp_key: oomp_sparkfun_ncp1402_3_3v
+oomp_key_simple: sparkfun_ncp1402_3_3v
+projects_flat: projects_flat/sparkfun_ncp1402_3_3v/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_ncp1402_3_3v/version_current/working
 projects_folder: projects_folder/sparkfun/NCP1402-3.3V/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/pulls{/number}
-pushed_at: '2014-08-07T22:12:56Z'
-releases_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/releases{/id}
-size: 320
-ssh_url: git@github.com:sparkfun/NCP1402-3.3V.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/subscription
-svn_url: https://github.com/sparkfun/NCP1402-3.3V
-tags_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/tags
-teams_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/git/trees{/sha}
-updated_at: '2017-05-15T05:54:09Z'
-url: https://api.github.com/repos/sparkfun/NCP1402-3.3V
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/branches{/branch}
+  clone_url: https://github.com/sparkfun/NCP1402-3.3V.git
+  collaborators_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/contributors
+  created_at: '2014-02-19T16:51:54Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/deployments
+  description: NCP1402- 3.3V Step Up Breakout available from SparkFun Electronics
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/downloads
+  events_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/events
+  fork: false
+  forks: 4
+  forks_count: 4
+  forks_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/forks
+  full_name: sparkfun/NCP1402-3.3V
+  git_commits_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/git/tags{/sha}
+  git_url: git://github.com/sparkfun/NCP1402-3.3V.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/hooks
+  html_url: https://github.com/sparkfun/NCP1402-3.3V
+  id: 16991381
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/merges
+  milestones_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/milestones{/number}
+  mirror_url: null
+  name: NCP1402-3.3V
+  node_id: MDEwOlJlcG9zaXRvcnkxNjk5MTM4MQ==
+  notifications_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/pulls{/number}
+  pushed_at: '2014-08-07T22:12:56Z'
+  releases_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/releases{/id}
+  size: 320
+  ssh_url: git@github.com:sparkfun/NCP1402-3.3V.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/subscription
+  svn_url: https://github.com/sparkfun/NCP1402-3.3V
+  tags_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/tags
+  teams_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/NCP1402-3.3V/git/trees{/sha}
+  updated_at: '2017-05-15T05:54:09Z'
+  url: https://api.github.com/repos/sparkfun/NCP1402-3.3V
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

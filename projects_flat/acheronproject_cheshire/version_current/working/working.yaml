@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/AcheronProject/Cheshire/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/AcheronProject/Cheshire/assignees{/user}
-blobs_url: https://api.github.com/repos/AcheronProject/Cheshire/git/blobs{/sha}
-branches_url: https://api.github.com/repos/AcheronProject/Cheshire/branches{/branch}
-clone_url: https://github.com/AcheronProject/Cheshire.git
-collaborators_url: https://api.github.com/repos/AcheronProject/Cheshire/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/AcheronProject/Cheshire/comments{/number}
-commits_url: https://api.github.com/repos/AcheronProject/Cheshire/commits{/sha}
-compare_url: https://api.github.com/repos/AcheronProject/Cheshire/compare/{base}...{head}
-contents_url: https://api.github.com/repos/AcheronProject/Cheshire/contents/{+path}
-contributors_url: https://api.github.com/repos/AcheronProject/Cheshire/contributors
-created_at: '2020-11-13T22:51:44Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/AcheronProject/Cheshire/deployments
-description: An Alice layout PCB powered by an STM32F072 MCU.
-disabled: false
-downloads_url: https://api.github.com/repos/AcheronProject/Cheshire/downloads
-events_url: https://api.github.com/repos/AcheronProject/Cheshire/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/AcheronProject/Cheshire/forks
-full_name: AcheronProject/Cheshire
-git_commits_url: https://api.github.com/repos/AcheronProject/Cheshire/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/AcheronProject/Cheshire/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/AcheronProject/Cheshire/git/tags{/sha}
-git_url: git://github.com/AcheronProject/Cheshire.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/AcheronProject/Cheshire/hooks
-html_url: https://github.com/AcheronProject/Cheshire
-id: 312701139
-is_template: false
-issue_comment_url: https://api.github.com/repos/AcheronProject/Cheshire/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/AcheronProject/Cheshire/issues/events{/number}
-issues_url: https://api.github.com/repos/AcheronProject/Cheshire/issues{/number}
-keys_url: https://api.github.com/repos/AcheronProject/Cheshire/keys{/key_id}
-labels_url: https://api.github.com/repos/AcheronProject/Cheshire/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/AcheronProject/Cheshire/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/AcheronProject/Cheshire/merges
-milestones_url: https://api.github.com/repos/AcheronProject/Cheshire/milestones{/number}
-mirror_url: null
-name: Cheshire
-node_id: MDEwOlJlcG9zaXRvcnkzMTI3MDExMzk=
-notifications_url: https://api.github.com/repos/AcheronProject/Cheshire/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
-  events_url: https://api.github.com/users/AcheronProject/events{/privacy}
-  followers_url: https://api.github.com/users/AcheronProject/followers
-  following_url: https://api.github.com/users/AcheronProject/following{/other_user}
-  gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/AcheronProject
-  id: 63755935
-  login: AcheronProject
-  node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
-  organizations_url: https://api.github.com/users/AcheronProject/orgs
-  received_events_url: https://api.github.com/users/AcheronProject/received_events
-  repos_url: https://api.github.com/users/AcheronProject/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
-  type: Organization
-  url: https://api.github.com/users/AcheronProject
-private: false
+links:
+  github_owner: AcheronProject
+  github_repo_name: Cheshire
+  github_src: https://github.com/AcheronProject/Cheshire
+  github_src_repo: https://github.com/AcheronProject/Cheshire
+  oomp_bot: projects_acheronproject_cheshire
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_acheronproject_cheshire
+  oomp_doc: projects/projects_flat_acheronproject_cheshire/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_acheronproject_cheshire
+  oomp_src_flat: projects_flat/projects_flat_acheronproject_cheshire
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_acheronproject_cheshire
+  oomp_src_folder: projects_flat\acheronproject_cheshire\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\acheronproject_cheshire\version_current\working
+oomp_key: oomp_projects_flat_acheronproject_cheshire
+oomp_key_simple: projects_flat_acheronproject_cheshire
 projects_flat: projects_flat/acheronproject_cheshire/version_current/working
 projects_folder: projects_folder/AcheronProject/Cheshire/version_current/working
-pulls_url: https://api.github.com/repos/AcheronProject/Cheshire/pulls{/number}
-pushed_at: '2021-01-15T06:35:57Z'
-releases_url: https://api.github.com/repos/AcheronProject/Cheshire/releases{/id}
-size: 99676
-ssh_url: git@github.com:AcheronProject/Cheshire.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/AcheronProject/Cheshire/stargazers
-statuses_url: https://api.github.com/repos/AcheronProject/Cheshire/statuses/{sha}
-subscribers_url: https://api.github.com/repos/AcheronProject/Cheshire/subscribers
-subscription_url: https://api.github.com/repos/AcheronProject/Cheshire/subscription
-svn_url: https://github.com/AcheronProject/Cheshire
-tags_url: https://api.github.com/repos/AcheronProject/Cheshire/tags
-teams_url: https://api.github.com/repos/AcheronProject/Cheshire/teams
-topics: []
-trees_url: https://api.github.com/repos/AcheronProject/Cheshire/git/trees{/sha}
-updated_at: '2022-04-20T02:17:39Z'
-url: https://api.github.com/repos/AcheronProject/Cheshire
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/AcheronProject/Cheshire/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/AcheronProject/Cheshire/assignees{/user}
+  blobs_url: https://api.github.com/repos/AcheronProject/Cheshire/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/AcheronProject/Cheshire/branches{/branch}
+  clone_url: https://github.com/AcheronProject/Cheshire.git
+  collaborators_url: https://api.github.com/repos/AcheronProject/Cheshire/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/AcheronProject/Cheshire/comments{/number}
+  commits_url: https://api.github.com/repos/AcheronProject/Cheshire/commits{/sha}
+  compare_url: https://api.github.com/repos/AcheronProject/Cheshire/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/AcheronProject/Cheshire/contents/{+path}
+  contributors_url: https://api.github.com/repos/AcheronProject/Cheshire/contributors
+  created_at: '2020-11-13T22:51:44Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/AcheronProject/Cheshire/deployments
+  description: An Alice layout PCB powered by an STM32F072 MCU.
+  disabled: false
+  downloads_url: https://api.github.com/repos/AcheronProject/Cheshire/downloads
+  events_url: https://api.github.com/repos/AcheronProject/Cheshire/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/AcheronProject/Cheshire/forks
+  full_name: AcheronProject/Cheshire
+  git_commits_url: https://api.github.com/repos/AcheronProject/Cheshire/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/AcheronProject/Cheshire/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/AcheronProject/Cheshire/git/tags{/sha}
+  git_url: git://github.com/AcheronProject/Cheshire.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/AcheronProject/Cheshire/hooks
+  html_url: https://github.com/AcheronProject/Cheshire
+  id: 312701139
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/AcheronProject/Cheshire/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/AcheronProject/Cheshire/issues/events{/number}
+  issues_url: https://api.github.com/repos/AcheronProject/Cheshire/issues{/number}
+  keys_url: https://api.github.com/repos/AcheronProject/Cheshire/keys{/key_id}
+  labels_url: https://api.github.com/repos/AcheronProject/Cheshire/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/AcheronProject/Cheshire/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/AcheronProject/Cheshire/merges
+  milestones_url: https://api.github.com/repos/AcheronProject/Cheshire/milestones{/number}
+  mirror_url: null
+  name: Cheshire
+  node_id: MDEwOlJlcG9zaXRvcnkzMTI3MDExMzk=
+  notifications_url: https://api.github.com/repos/AcheronProject/Cheshire/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+    events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+    followers_url: https://api.github.com/users/AcheronProject/followers
+    following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+    gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/AcheronProject
+    id: 63755935
+    login: AcheronProject
+    node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+    organizations_url: https://api.github.com/users/AcheronProject/orgs
+    received_events_url: https://api.github.com/users/AcheronProject/received_events
+    repos_url: https://api.github.com/users/AcheronProject/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+    type: Organization
+    url: https://api.github.com/users/AcheronProject
+  private: false
+  pulls_url: https://api.github.com/repos/AcheronProject/Cheshire/pulls{/number}
+  pushed_at: '2021-01-15T06:35:57Z'
+  releases_url: https://api.github.com/repos/AcheronProject/Cheshire/releases{/id}
+  size: 99676
+  ssh_url: git@github.com:AcheronProject/Cheshire.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/AcheronProject/Cheshire/stargazers
+  statuses_url: https://api.github.com/repos/AcheronProject/Cheshire/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/AcheronProject/Cheshire/subscribers
+  subscription_url: https://api.github.com/repos/AcheronProject/Cheshire/subscription
+  svn_url: https://github.com/AcheronProject/Cheshire
+  tags_url: https://api.github.com/repos/AcheronProject/Cheshire/tags
+  teams_url: https://api.github.com/repos/AcheronProject/Cheshire/teams
+  topics: []
+  trees_url: https://api.github.com/repos/AcheronProject/Cheshire/git/trees{/sha}
+  updated_at: '2022-04-20T02:17:39Z'
+  url: https://api.github.com/repos/AcheronProject/Cheshire
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

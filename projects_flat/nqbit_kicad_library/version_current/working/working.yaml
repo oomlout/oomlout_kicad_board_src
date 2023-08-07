@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/nqbit/kicad-library/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/nqbit/kicad-library/assignees{/user}
-blobs_url: https://api.github.com/repos/nqbit/kicad-library/git/blobs{/sha}
-branches_url: https://api.github.com/repos/nqbit/kicad-library/branches{/branch}
-clone_url: https://github.com/nqbit/kicad-library.git
-collaborators_url: https://api.github.com/repos/nqbit/kicad-library/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/nqbit/kicad-library/comments{/number}
-commits_url: https://api.github.com/repos/nqbit/kicad-library/commits{/sha}
-compare_url: https://api.github.com/repos/nqbit/kicad-library/compare/{base}...{head}
-contents_url: https://api.github.com/repos/nqbit/kicad-library/contents/{+path}
-contributors_url: https://api.github.com/repos/nqbit/kicad-library/contributors
-created_at: '2015-01-18T04:28:05Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/nqbit/kicad-library/deployments
-description: The schematic and 3D libraries supported by KiCad team.  Note that the
-  footprint libraries are the *.pretty repos themselves.
-disabled: false
-downloads_url: https://api.github.com/repos/nqbit/kicad-library/downloads
-events_url: https://api.github.com/repos/nqbit/kicad-library/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/nqbit/kicad-library/forks
-full_name: nqbit/kicad-library
-git_commits_url: https://api.github.com/repos/nqbit/kicad-library/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/nqbit/kicad-library/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/nqbit/kicad-library/git/tags{/sha}
-git_url: git://github.com/nqbit/kicad-library.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/nqbit/kicad-library/hooks
-html_url: https://github.com/nqbit/kicad-library
-id: 29415679
-is_template: false
-issue_comment_url: https://api.github.com/repos/nqbit/kicad-library/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/nqbit/kicad-library/issues/events{/number}
-issues_url: https://api.github.com/repos/nqbit/kicad-library/issues{/number}
-keys_url: https://api.github.com/repos/nqbit/kicad-library/keys{/key_id}
-labels_url: https://api.github.com/repos/nqbit/kicad-library/labels{/name}
-language: Prolog
-languages_url: https://api.github.com/repos/nqbit/kicad-library/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/nqbit/kicad-library/merges
-milestones_url: https://api.github.com/repos/nqbit/kicad-library/milestones{/number}
-mirror_url: null
-name: kicad-library
-node_id: MDEwOlJlcG9zaXRvcnkyOTQxNTY3OQ==
-notifications_url: https://api.github.com/repos/nqbit/kicad-library/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1446767?v=4
-  events_url: https://api.github.com/users/nqbit/events{/privacy}
-  followers_url: https://api.github.com/users/nqbit/followers
-  following_url: https://api.github.com/users/nqbit/following{/other_user}
-  gists_url: https://api.github.com/users/nqbit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/nqbit
-  id: 1446767
-  login: nqbit
-  node_id: MDQ6VXNlcjE0NDY3Njc=
-  organizations_url: https://api.github.com/users/nqbit/orgs
-  received_events_url: https://api.github.com/users/nqbit/received_events
-  repos_url: https://api.github.com/users/nqbit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/nqbit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/nqbit/subscriptions
-  type: User
-  url: https://api.github.com/users/nqbit
-private: false
+links:
+  github_owner: nqbit
+  github_repo_name: kicad-library
+  github_src: https://github.com/nqbit/kicad-library
+  github_src_repo: https://github.com/nqbit/kicad-library
+  oomp_bot: projects_nqbit_kicad_library
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_nqbit_kicad_library
+  oomp_doc: projects/projects_flat_nqbit_kicad_library/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_nqbit_kicad_library
+  oomp_src_flat: projects_flat/projects_flat_nqbit_kicad_library
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_nqbit_kicad_library
+  oomp_src_folder: projects_flat\nqbit_kicad_library\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\nqbit_kicad_library\version_current\working
+oomp_key: oomp_projects_flat_nqbit_kicad_library
+oomp_key_simple: projects_flat_nqbit_kicad_library
 projects_flat: projects_flat/nqbit_kicad_library/version_current/working
 projects_folder: projects_folder/nqbit/kicad-library/version_current/working
-pulls_url: https://api.github.com/repos/nqbit/kicad-library/pulls{/number}
-pushed_at: '2015-01-16T07:08:00Z'
-releases_url: https://api.github.com/repos/nqbit/kicad-library/releases{/id}
-size: 116801
-ssh_url: git@github.com:nqbit/kicad-library.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/nqbit/kicad-library/stargazers
-statuses_url: https://api.github.com/repos/nqbit/kicad-library/statuses/{sha}
-subscribers_url: https://api.github.com/repos/nqbit/kicad-library/subscribers
-subscription_url: https://api.github.com/repos/nqbit/kicad-library/subscription
-svn_url: https://github.com/nqbit/kicad-library
-tags_url: https://api.github.com/repos/nqbit/kicad-library/tags
-teams_url: https://api.github.com/repos/nqbit/kicad-library/teams
-topics: []
-trees_url: https://api.github.com/repos/nqbit/kicad-library/git/trees{/sha}
-updated_at: '2015-01-18T04:29:52Z'
-url: https://api.github.com/repos/nqbit/kicad-library
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/nqbit/kicad-library/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/nqbit/kicad-library/assignees{/user}
+  blobs_url: https://api.github.com/repos/nqbit/kicad-library/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/nqbit/kicad-library/branches{/branch}
+  clone_url: https://github.com/nqbit/kicad-library.git
+  collaborators_url: https://api.github.com/repos/nqbit/kicad-library/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/nqbit/kicad-library/comments{/number}
+  commits_url: https://api.github.com/repos/nqbit/kicad-library/commits{/sha}
+  compare_url: https://api.github.com/repos/nqbit/kicad-library/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/nqbit/kicad-library/contents/{+path}
+  contributors_url: https://api.github.com/repos/nqbit/kicad-library/contributors
+  created_at: '2015-01-18T04:28:05Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/nqbit/kicad-library/deployments
+  description: The schematic and 3D libraries supported by KiCad team.  Note that
+    the footprint libraries are the *.pretty repos themselves.
+  disabled: false
+  downloads_url: https://api.github.com/repos/nqbit/kicad-library/downloads
+  events_url: https://api.github.com/repos/nqbit/kicad-library/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/nqbit/kicad-library/forks
+  full_name: nqbit/kicad-library
+  git_commits_url: https://api.github.com/repos/nqbit/kicad-library/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/nqbit/kicad-library/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/nqbit/kicad-library/git/tags{/sha}
+  git_url: git://github.com/nqbit/kicad-library.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/nqbit/kicad-library/hooks
+  html_url: https://github.com/nqbit/kicad-library
+  id: 29415679
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/nqbit/kicad-library/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/nqbit/kicad-library/issues/events{/number}
+  issues_url: https://api.github.com/repos/nqbit/kicad-library/issues{/number}
+  keys_url: https://api.github.com/repos/nqbit/kicad-library/keys{/key_id}
+  labels_url: https://api.github.com/repos/nqbit/kicad-library/labels{/name}
+  language: Prolog
+  languages_url: https://api.github.com/repos/nqbit/kicad-library/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/nqbit/kicad-library/merges
+  milestones_url: https://api.github.com/repos/nqbit/kicad-library/milestones{/number}
+  mirror_url: null
+  name: kicad-library
+  node_id: MDEwOlJlcG9zaXRvcnkyOTQxNTY3OQ==
+  notifications_url: https://api.github.com/repos/nqbit/kicad-library/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1446767?v=4
+    events_url: https://api.github.com/users/nqbit/events{/privacy}
+    followers_url: https://api.github.com/users/nqbit/followers
+    following_url: https://api.github.com/users/nqbit/following{/other_user}
+    gists_url: https://api.github.com/users/nqbit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/nqbit
+    id: 1446767
+    login: nqbit
+    node_id: MDQ6VXNlcjE0NDY3Njc=
+    organizations_url: https://api.github.com/users/nqbit/orgs
+    received_events_url: https://api.github.com/users/nqbit/received_events
+    repos_url: https://api.github.com/users/nqbit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/nqbit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/nqbit/subscriptions
+    type: User
+    url: https://api.github.com/users/nqbit
+  private: false
+  pulls_url: https://api.github.com/repos/nqbit/kicad-library/pulls{/number}
+  pushed_at: '2015-01-16T07:08:00Z'
+  releases_url: https://api.github.com/repos/nqbit/kicad-library/releases{/id}
+  size: 116801
+  ssh_url: git@github.com:nqbit/kicad-library.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/nqbit/kicad-library/stargazers
+  statuses_url: https://api.github.com/repos/nqbit/kicad-library/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/nqbit/kicad-library/subscribers
+  subscription_url: https://api.github.com/repos/nqbit/kicad-library/subscription
+  svn_url: https://github.com/nqbit/kicad-library
+  tags_url: https://api.github.com/repos/nqbit/kicad-library/tags
+  teams_url: https://api.github.com/repos/nqbit/kicad-library/teams
+  topics: []
+  trees_url: https://api.github.com/repos/nqbit/kicad-library/git/trees{/sha}
+  updated_at: '2015-01-18T04:29:52Z'
+  url: https://api.github.com/repos/nqbit/kicad-library
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

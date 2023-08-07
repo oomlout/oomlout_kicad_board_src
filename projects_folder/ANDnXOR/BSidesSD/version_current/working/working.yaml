@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ANDnXOR/BSidesSD/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ANDnXOR/BSidesSD/assignees{/user}
-blobs_url: https://api.github.com/repos/ANDnXOR/BSidesSD/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ANDnXOR/BSidesSD/branches{/branch}
-clone_url: https://github.com/ANDnXOR/BSidesSD.git
-collaborators_url: https://api.github.com/repos/ANDnXOR/BSidesSD/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ANDnXOR/BSidesSD/comments{/number}
-commits_url: https://api.github.com/repos/ANDnXOR/BSidesSD/commits{/sha}
-compare_url: https://api.github.com/repos/ANDnXOR/BSidesSD/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ANDnXOR/BSidesSD/contents/{+path}
-contributors_url: https://api.github.com/repos/ANDnXOR/BSidesSD/contributors
-created_at: '2019-12-31T00:38:56Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ANDnXOR/BSidesSD/deployments
-description: Badge Project for BSides San Diego
-disabled: false
-downloads_url: https://api.github.com/repos/ANDnXOR/BSidesSD/downloads
-events_url: https://api.github.com/repos/ANDnXOR/BSidesSD/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ANDnXOR/BSidesSD/forks
-full_name: ANDnXOR/BSidesSD
-git_commits_url: https://api.github.com/repos/ANDnXOR/BSidesSD/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ANDnXOR/BSidesSD/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ANDnXOR/BSidesSD/git/tags{/sha}
-git_url: git://github.com/ANDnXOR/BSidesSD.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ANDnXOR/BSidesSD/hooks
-html_url: https://github.com/ANDnXOR/BSidesSD
-id: 230999463
-is_template: false
-issue_comment_url: https://api.github.com/repos/ANDnXOR/BSidesSD/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ANDnXOR/BSidesSD/issues/events{/number}
-issues_url: https://api.github.com/repos/ANDnXOR/BSidesSD/issues{/number}
-keys_url: https://api.github.com/repos/ANDnXOR/BSidesSD/keys{/key_id}
-labels_url: https://api.github.com/repos/ANDnXOR/BSidesSD/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ANDnXOR/BSidesSD/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/ANDnXOR/BSidesSD/merges
-milestones_url: https://api.github.com/repos/ANDnXOR/BSidesSD/milestones{/number}
-mirror_url: null
-name: BSidesSD
-node_id: MDEwOlJlcG9zaXRvcnkyMzA5OTk0NjM=
-notifications_url: https://api.github.com/repos/ANDnXOR/BSidesSD/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/17252957?v=4
-  events_url: https://api.github.com/users/ANDnXOR/events{/privacy}
-  followers_url: https://api.github.com/users/ANDnXOR/followers
-  following_url: https://api.github.com/users/ANDnXOR/following{/other_user}
-  gists_url: https://api.github.com/users/ANDnXOR/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ANDnXOR
-  id: 17252957
-  login: ANDnXOR
-  node_id: MDQ6VXNlcjE3MjUyOTU3
-  organizations_url: https://api.github.com/users/ANDnXOR/orgs
-  received_events_url: https://api.github.com/users/ANDnXOR/received_events
-  repos_url: https://api.github.com/users/ANDnXOR/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ANDnXOR/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ANDnXOR/subscriptions
-  type: User
-  url: https://api.github.com/users/ANDnXOR
-private: false
+links:
+  github_owner: ANDnXOR
+  github_repo_name: BSidesSD
+  github_src: https://github.com/ANDnXOR/BSidesSD
+  github_src_repo: https://github.com/ANDnXOR/BSidesSD
+  oomp_bot: andnxor_bsidessd
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/andnxor_bsidessd
+  oomp_doc: projects/andnxor_bsidessd/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/andnxor_bsidessd
+  oomp_src_flat: projects_flat/andnxor_bsidessd
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/andnxor_bsidessd
+  oomp_src_folder: projects_folder\ANDnXOR\BSidesSD\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ANDnXOR\BSidesSD\version_current\working
+oomp_key: oomp_andnxor_bsidessd
+oomp_key_simple: andnxor_bsidessd
 projects_flat: projects_flat/andnxor_bsidessd/version_current/working
 projects_folder: projects_folder/ANDnXOR/BSidesSD/version_current/working
-pulls_url: https://api.github.com/repos/ANDnXOR/BSidesSD/pulls{/number}
-pushed_at: '2019-12-31T00:44:09Z'
-releases_url: https://api.github.com/repos/ANDnXOR/BSidesSD/releases{/id}
-size: 1005
-ssh_url: git@github.com:ANDnXOR/BSidesSD.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ANDnXOR/BSidesSD/stargazers
-statuses_url: https://api.github.com/repos/ANDnXOR/BSidesSD/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ANDnXOR/BSidesSD/subscribers
-subscription_url: https://api.github.com/repos/ANDnXOR/BSidesSD/subscription
-svn_url: https://github.com/ANDnXOR/BSidesSD
-tags_url: https://api.github.com/repos/ANDnXOR/BSidesSD/tags
-teams_url: https://api.github.com/repos/ANDnXOR/BSidesSD/teams
-topics: []
-trees_url: https://api.github.com/repos/ANDnXOR/BSidesSD/git/trees{/sha}
-updated_at: '2019-12-31T00:38:58Z'
-url: https://api.github.com/repos/ANDnXOR/BSidesSD
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ANDnXOR/BSidesSD/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ANDnXOR/BSidesSD/assignees{/user}
+  blobs_url: https://api.github.com/repos/ANDnXOR/BSidesSD/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ANDnXOR/BSidesSD/branches{/branch}
+  clone_url: https://github.com/ANDnXOR/BSidesSD.git
+  collaborators_url: https://api.github.com/repos/ANDnXOR/BSidesSD/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ANDnXOR/BSidesSD/comments{/number}
+  commits_url: https://api.github.com/repos/ANDnXOR/BSidesSD/commits{/sha}
+  compare_url: https://api.github.com/repos/ANDnXOR/BSidesSD/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ANDnXOR/BSidesSD/contents/{+path}
+  contributors_url: https://api.github.com/repos/ANDnXOR/BSidesSD/contributors
+  created_at: '2019-12-31T00:38:56Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ANDnXOR/BSidesSD/deployments
+  description: Badge Project for BSides San Diego
+  disabled: false
+  downloads_url: https://api.github.com/repos/ANDnXOR/BSidesSD/downloads
+  events_url: https://api.github.com/repos/ANDnXOR/BSidesSD/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ANDnXOR/BSidesSD/forks
+  full_name: ANDnXOR/BSidesSD
+  git_commits_url: https://api.github.com/repos/ANDnXOR/BSidesSD/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ANDnXOR/BSidesSD/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ANDnXOR/BSidesSD/git/tags{/sha}
+  git_url: git://github.com/ANDnXOR/BSidesSD.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ANDnXOR/BSidesSD/hooks
+  html_url: https://github.com/ANDnXOR/BSidesSD
+  id: 230999463
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ANDnXOR/BSidesSD/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ANDnXOR/BSidesSD/issues/events{/number}
+  issues_url: https://api.github.com/repos/ANDnXOR/BSidesSD/issues{/number}
+  keys_url: https://api.github.com/repos/ANDnXOR/BSidesSD/keys{/key_id}
+  labels_url: https://api.github.com/repos/ANDnXOR/BSidesSD/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ANDnXOR/BSidesSD/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/ANDnXOR/BSidesSD/merges
+  milestones_url: https://api.github.com/repos/ANDnXOR/BSidesSD/milestones{/number}
+  mirror_url: null
+  name: BSidesSD
+  node_id: MDEwOlJlcG9zaXRvcnkyMzA5OTk0NjM=
+  notifications_url: https://api.github.com/repos/ANDnXOR/BSidesSD/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/17252957?v=4
+    events_url: https://api.github.com/users/ANDnXOR/events{/privacy}
+    followers_url: https://api.github.com/users/ANDnXOR/followers
+    following_url: https://api.github.com/users/ANDnXOR/following{/other_user}
+    gists_url: https://api.github.com/users/ANDnXOR/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ANDnXOR
+    id: 17252957
+    login: ANDnXOR
+    node_id: MDQ6VXNlcjE3MjUyOTU3
+    organizations_url: https://api.github.com/users/ANDnXOR/orgs
+    received_events_url: https://api.github.com/users/ANDnXOR/received_events
+    repos_url: https://api.github.com/users/ANDnXOR/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ANDnXOR/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ANDnXOR/subscriptions
+    type: User
+    url: https://api.github.com/users/ANDnXOR
+  private: false
+  pulls_url: https://api.github.com/repos/ANDnXOR/BSidesSD/pulls{/number}
+  pushed_at: '2019-12-31T00:44:09Z'
+  releases_url: https://api.github.com/repos/ANDnXOR/BSidesSD/releases{/id}
+  size: 1005
+  ssh_url: git@github.com:ANDnXOR/BSidesSD.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ANDnXOR/BSidesSD/stargazers
+  statuses_url: https://api.github.com/repos/ANDnXOR/BSidesSD/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ANDnXOR/BSidesSD/subscribers
+  subscription_url: https://api.github.com/repos/ANDnXOR/BSidesSD/subscription
+  svn_url: https://github.com/ANDnXOR/BSidesSD
+  tags_url: https://api.github.com/repos/ANDnXOR/BSidesSD/tags
+  teams_url: https://api.github.com/repos/ANDnXOR/BSidesSD/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ANDnXOR/BSidesSD/git/trees{/sha}
+  updated_at: '2019-12-31T00:38:58Z'
+  url: https://api.github.com/repos/ANDnXOR/BSidesSD
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

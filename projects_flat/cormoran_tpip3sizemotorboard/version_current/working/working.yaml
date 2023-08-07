@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/assignees{/user}
-blobs_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/git/blobs{/sha}
-branches_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/branches{/branch}
-clone_url: https://github.com/cormoran/TPIP3SizeMotorBoard.git
-collaborators_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/comments{/number}
-commits_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/commits{/sha}
-compare_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/compare/{base}...{head}
-contents_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/contents/{+path}
-contributors_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/contributors
-created_at: '2017-02-04T23:47:00Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/deployments
-description: ArduinoUnoCompatible Board for four wheel robot control (with TPIP3 image
-  board)
-disabled: false
-downloads_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/downloads
-events_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/forks
-full_name: cormoran/TPIP3SizeMotorBoard
-git_commits_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/git/tags{/sha}
-git_url: git://github.com/cormoran/TPIP3SizeMotorBoard.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/hooks
-html_url: https://github.com/cormoran/TPIP3SizeMotorBoard
-id: 80956491
-is_template: false
-issue_comment_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/issues/events{/number}
-issues_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/issues{/number}
-keys_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/keys{/key_id}
-labels_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/languages
-license: null
-merges_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/merges
-milestones_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/milestones{/number}
-mirror_url: null
-name: TPIP3SizeMotorBoard
-node_id: MDEwOlJlcG9zaXRvcnk4MDk1NjQ5MQ==
-notifications_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/7994064?v=4
-  events_url: https://api.github.com/users/cormoran/events{/privacy}
-  followers_url: https://api.github.com/users/cormoran/followers
-  following_url: https://api.github.com/users/cormoran/following{/other_user}
-  gists_url: https://api.github.com/users/cormoran/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/cormoran
-  id: 7994064
-  login: cormoran
-  node_id: MDQ6VXNlcjc5OTQwNjQ=
-  organizations_url: https://api.github.com/users/cormoran/orgs
-  received_events_url: https://api.github.com/users/cormoran/received_events
-  repos_url: https://api.github.com/users/cormoran/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/cormoran/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/cormoran/subscriptions
-  type: User
-  url: https://api.github.com/users/cormoran
-private: false
+links:
+  github_owner: cormoran
+  github_repo_name: TPIP3SizeMotorBoard
+  github_src: https://github.com/cormoran/TPIP3SizeMotorBoard
+  github_src_repo: https://github.com/cormoran/TPIP3SizeMotorBoard
+  oomp_bot: projects_cormoran_tpip3sizemotorboard
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_cormoran_tpip3sizemotorboard
+  oomp_doc: projects/projects_flat_cormoran_tpip3sizemotorboard/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_cormoran_tpip3sizemotorboard
+  oomp_src_flat: projects_flat/projects_flat_cormoran_tpip3sizemotorboard
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_cormoran_tpip3sizemotorboard
+  oomp_src_folder: projects_flat\cormoran_tpip3sizemotorboard\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\cormoran_tpip3sizemotorboard\version_current\working
+oomp_key: oomp_projects_flat_cormoran_tpip3sizemotorboard
+oomp_key_simple: projects_flat_cormoran_tpip3sizemotorboard
 projects_flat: projects_flat/cormoran_tpip3sizemotorboard/version_current/working
 projects_folder: projects_folder/cormoran/TPIP3SizeMotorBoard/version_current/working
-pulls_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/pulls{/number}
-pushed_at: '2017-02-05T04:43:14Z'
-releases_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/releases{/id}
-size: 7181
-ssh_url: git@github.com:cormoran/TPIP3SizeMotorBoard.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/stargazers
-statuses_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/statuses/{sha}
-subscribers_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/subscribers
-subscription_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/subscription
-svn_url: https://github.com/cormoran/TPIP3SizeMotorBoard
-tags_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/tags
-teams_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/teams
-topics: []
-trees_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/git/trees{/sha}
-updated_at: '2017-02-04T23:47:56Z'
-url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/assignees{/user}
+  blobs_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/branches{/branch}
+  clone_url: https://github.com/cormoran/TPIP3SizeMotorBoard.git
+  collaborators_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/comments{/number}
+  commits_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/commits{/sha}
+  compare_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/contents/{+path}
+  contributors_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/contributors
+  created_at: '2017-02-04T23:47:00Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/deployments
+  description: ArduinoUnoCompatible Board for four wheel robot control (with TPIP3
+    image board)
+  disabled: false
+  downloads_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/downloads
+  events_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/forks
+  full_name: cormoran/TPIP3SizeMotorBoard
+  git_commits_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/git/tags{/sha}
+  git_url: git://github.com/cormoran/TPIP3SizeMotorBoard.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/hooks
+  html_url: https://github.com/cormoran/TPIP3SizeMotorBoard
+  id: 80956491
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/issues/events{/number}
+  issues_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/issues{/number}
+  keys_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/keys{/key_id}
+  labels_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/languages
+  license: null
+  merges_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/merges
+  milestones_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/milestones{/number}
+  mirror_url: null
+  name: TPIP3SizeMotorBoard
+  node_id: MDEwOlJlcG9zaXRvcnk4MDk1NjQ5MQ==
+  notifications_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/7994064?v=4
+    events_url: https://api.github.com/users/cormoran/events{/privacy}
+    followers_url: https://api.github.com/users/cormoran/followers
+    following_url: https://api.github.com/users/cormoran/following{/other_user}
+    gists_url: https://api.github.com/users/cormoran/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/cormoran
+    id: 7994064
+    login: cormoran
+    node_id: MDQ6VXNlcjc5OTQwNjQ=
+    organizations_url: https://api.github.com/users/cormoran/orgs
+    received_events_url: https://api.github.com/users/cormoran/received_events
+    repos_url: https://api.github.com/users/cormoran/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/cormoran/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/cormoran/subscriptions
+    type: User
+    url: https://api.github.com/users/cormoran
+  private: false
+  pulls_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/pulls{/number}
+  pushed_at: '2017-02-05T04:43:14Z'
+  releases_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/releases{/id}
+  size: 7181
+  ssh_url: git@github.com:cormoran/TPIP3SizeMotorBoard.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/stargazers
+  statuses_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/subscribers
+  subscription_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/subscription
+  svn_url: https://github.com/cormoran/TPIP3SizeMotorBoard
+  tags_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/tags
+  teams_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/teams
+  topics: []
+  trees_url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard/git/trees{/sha}
+  updated_at: '2017-02-04T23:47:56Z'
+  url: https://api.github.com/repos/cormoran/TPIP3SizeMotorBoard
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/RedStick/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/RedStick/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/RedStick/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/RedStick/branches{/branch}
-clone_url: https://github.com/sparkfun/RedStick.git
-collaborators_url: https://api.github.com/repos/sparkfun/RedStick/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/RedStick/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/RedStick/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/RedStick/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/RedStick/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/RedStick/contributors
-created_at: '2015-09-21T17:19:52Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/RedStick/deployments
-description: Spawned from the BadgerStick for storefront production
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/RedStick/downloads
-events_url: https://api.github.com/repos/sparkfun/RedStick/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/sparkfun/RedStick/forks
-full_name: sparkfun/RedStick
-git_commits_url: https://api.github.com/repos/sparkfun/RedStick/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/RedStick/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/RedStick/git/tags{/sha}
-git_url: git://github.com/sparkfun/RedStick.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/RedStick/hooks
-html_url: https://github.com/sparkfun/RedStick
-id: 42881747
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/RedStick/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/RedStick/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/RedStick/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/RedStick/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/RedStick/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/sparkfun/RedStick/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/RedStick/merges
-milestones_url: https://api.github.com/repos/sparkfun/RedStick/milestones{/number}
-mirror_url: null
-name: RedStick
-node_id: MDEwOlJlcG9zaXRvcnk0Mjg4MTc0Nw==
-notifications_url: https://api.github.com/repos/sparkfun/RedStick/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: RedStick
+  github_src: https://github.com/sparkfun/RedStick
+  github_src_repo: https://github.com/sparkfun/RedStick
+  oomp_bot: sparkfun_redstick
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_redstick
+  oomp_doc: projects/sparkfun_redstick/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_redstick
+  oomp_src_flat: projects_flat/sparkfun_redstick
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_redstick
+  oomp_src_folder: projects_folder\sparkfun\RedStick\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\RedStick\version_current\working
+oomp_key: oomp_sparkfun_redstick
+oomp_key_simple: sparkfun_redstick
+projects_flat: projects_flat/sparkfun_redstick/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_redstick/version_current/working
 projects_folder: projects_folder/sparkfun/RedStick/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/RedStick/pulls{/number}
-pushed_at: '2020-05-29T20:29:28Z'
-releases_url: https://api.github.com/repos/sparkfun/RedStick/releases{/id}
-size: 4086
-ssh_url: git@github.com:sparkfun/RedStick.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/sparkfun/RedStick/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/RedStick/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/RedStick/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/RedStick/subscription
-svn_url: https://github.com/sparkfun/RedStick
-tags_url: https://api.github.com/repos/sparkfun/RedStick/tags
-teams_url: https://api.github.com/repos/sparkfun/RedStick/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/RedStick/git/trees{/sha}
-updated_at: '2020-05-29T20:29:30Z'
-url: https://api.github.com/repos/sparkfun/RedStick
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/RedStick/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/RedStick/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/RedStick/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/RedStick/branches{/branch}
+  clone_url: https://github.com/sparkfun/RedStick.git
+  collaborators_url: https://api.github.com/repos/sparkfun/RedStick/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/RedStick/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/RedStick/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/RedStick/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/RedStick/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/RedStick/contributors
+  created_at: '2015-09-21T17:19:52Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/RedStick/deployments
+  description: Spawned from the BadgerStick for storefront production
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/RedStick/downloads
+  events_url: https://api.github.com/repos/sparkfun/RedStick/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/sparkfun/RedStick/forks
+  full_name: sparkfun/RedStick
+  git_commits_url: https://api.github.com/repos/sparkfun/RedStick/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/RedStick/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/RedStick/git/tags{/sha}
+  git_url: git://github.com/sparkfun/RedStick.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/RedStick/hooks
+  html_url: https://github.com/sparkfun/RedStick
+  id: 42881747
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/RedStick/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/RedStick/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/RedStick/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/RedStick/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/RedStick/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/sparkfun/RedStick/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/RedStick/merges
+  milestones_url: https://api.github.com/repos/sparkfun/RedStick/milestones{/number}
+  mirror_url: null
+  name: RedStick
+  node_id: MDEwOlJlcG9zaXRvcnk0Mjg4MTc0Nw==
+  notifications_url: https://api.github.com/repos/sparkfun/RedStick/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/RedStick/pulls{/number}
+  pushed_at: '2020-05-29T20:29:28Z'
+  releases_url: https://api.github.com/repos/sparkfun/RedStick/releases{/id}
+  size: 4086
+  ssh_url: git@github.com:sparkfun/RedStick.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/sparkfun/RedStick/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/RedStick/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/RedStick/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/RedStick/subscription
+  svn_url: https://github.com/sparkfun/RedStick
+  tags_url: https://api.github.com/repos/sparkfun/RedStick/tags
+  teams_url: https://api.github.com/repos/sparkfun/RedStick/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/RedStick/git/trees{/sha}
+  updated_at: '2020-05-29T20:29:30Z'
+  url: https://api.github.com/repos/sparkfun/RedStick
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

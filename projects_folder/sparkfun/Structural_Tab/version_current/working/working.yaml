@@ -1,99 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Structural_Tab/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Structural_Tab/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Structural_Tab/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Structural_Tab/branches{/branch}
-clone_url: https://github.com/sparkfun/Structural_Tab.git
-collaborators_url: https://api.github.com/repos/sparkfun/Structural_Tab/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Structural_Tab/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Structural_Tab/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Structural_Tab/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Structural_Tab/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Structural_Tab/contributors
-created_at: '2013-05-07T18:36:58Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Structural_Tab/deployments
-description: 'Board files for structural tabs used at SparkFun for panelized designs. '
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Structural_Tab/downloads
-events_url: https://api.github.com/repos/sparkfun/Structural_Tab/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/sparkfun/Structural_Tab/forks
-full_name: sparkfun/Structural_Tab
-git_commits_url: https://api.github.com/repos/sparkfun/Structural_Tab/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Structural_Tab/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Structural_Tab/git/tags{/sha}
-git_url: git://github.com/sparkfun/Structural_Tab.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/Structural_Tab/hooks
-html_url: https://github.com/sparkfun/Structural_Tab
-id: 9918864
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Structural_Tab/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Structural_Tab/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Structural_Tab/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Structural_Tab/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Structural_Tab/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/sparkfun/Structural_Tab/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/Structural_Tab/merges
-milestones_url: https://api.github.com/repos/sparkfun/Structural_Tab/milestones{/number}
-mirror_url: null
-name: Structural_Tab
-node_id: MDEwOlJlcG9zaXRvcnk5OTE4ODY0
-notifications_url: https://api.github.com/repos/sparkfun/Structural_Tab/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Structural_Tab
+  github_src: https://github.com/sparkfun/Structural_Tab
+  github_src_repo: https://github.com/sparkfun/Structural_Tab
+  oomp_bot: sparkfun_structural_tab
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_structural_tab
+  oomp_doc: projects/sparkfun_structural_tab/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_structural_tab
+  oomp_src_flat: projects_flat/sparkfun_structural_tab
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_structural_tab
+  oomp_src_folder: projects_folder\sparkfun\Structural_Tab\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\Structural_Tab\version_current\working
+oomp_key: oomp_sparkfun_structural_tab
+oomp_key_simple: sparkfun_structural_tab
+projects_flat: projects_flat/sparkfun_structural_tab/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_structural_tab/version_current/working
 projects_folder: projects_folder/sparkfun/Structural_Tab/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Structural_Tab/pulls{/number}
-pushed_at: '2015-09-01T22:27:16Z'
-releases_url: https://api.github.com/repos/sparkfun/Structural_Tab/releases{/id}
-size: 118
-ssh_url: git@github.com:sparkfun/Structural_Tab.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/sparkfun/Structural_Tab/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Structural_Tab/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Structural_Tab/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Structural_Tab/subscription
-svn_url: https://github.com/sparkfun/Structural_Tab
-tags_url: https://api.github.com/repos/sparkfun/Structural_Tab/tags
-teams_url: https://api.github.com/repos/sparkfun/Structural_Tab/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/Structural_Tab/git/trees{/sha}
-updated_at: '2018-12-28T03:34:16Z'
-url: https://api.github.com/repos/sparkfun/Structural_Tab
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Structural_Tab/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Structural_Tab/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Structural_Tab/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Structural_Tab/branches{/branch}
+  clone_url: https://github.com/sparkfun/Structural_Tab.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Structural_Tab/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Structural_Tab/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Structural_Tab/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Structural_Tab/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Structural_Tab/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Structural_Tab/contributors
+  created_at: '2013-05-07T18:36:58Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Structural_Tab/deployments
+  description: 'Board files for structural tabs used at SparkFun for panelized designs. '
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Structural_Tab/downloads
+  events_url: https://api.github.com/repos/sparkfun/Structural_Tab/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/sparkfun/Structural_Tab/forks
+  full_name: sparkfun/Structural_Tab
+  git_commits_url: https://api.github.com/repos/sparkfun/Structural_Tab/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Structural_Tab/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Structural_Tab/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Structural_Tab.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/Structural_Tab/hooks
+  html_url: https://github.com/sparkfun/Structural_Tab
+  id: 9918864
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Structural_Tab/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Structural_Tab/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Structural_Tab/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Structural_Tab/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Structural_Tab/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/sparkfun/Structural_Tab/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/Structural_Tab/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Structural_Tab/milestones{/number}
+  mirror_url: null
+  name: Structural_Tab
+  node_id: MDEwOlJlcG9zaXRvcnk5OTE4ODY0
+  notifications_url: https://api.github.com/repos/sparkfun/Structural_Tab/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Structural_Tab/pulls{/number}
+  pushed_at: '2015-09-01T22:27:16Z'
+  releases_url: https://api.github.com/repos/sparkfun/Structural_Tab/releases{/id}
+  size: 118
+  ssh_url: git@github.com:sparkfun/Structural_Tab.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/sparkfun/Structural_Tab/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Structural_Tab/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Structural_Tab/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Structural_Tab/subscription
+  svn_url: https://github.com/sparkfun/Structural_Tab
+  tags_url: https://api.github.com/repos/sparkfun/Structural_Tab/tags
+  teams_url: https://api.github.com/repos/sparkfun/Structural_Tab/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/Structural_Tab/git/trees{/sha}
+  updated_at: '2018-12-28T03:34:16Z'
+  url: https://api.github.com/repos/sparkfun/Structural_Tab
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

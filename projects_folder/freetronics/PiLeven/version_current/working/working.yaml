@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/PiLeven/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/PiLeven/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/PiLeven/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/PiLeven/branches{/branch}
-clone_url: https://github.com/freetronics/PiLeven.git
-collaborators_url: https://api.github.com/repos/freetronics/PiLeven/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/PiLeven/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/PiLeven/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/PiLeven/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/PiLeven/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/PiLeven/contributors
-created_at: '2014-02-03T22:58:41Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/PiLeven/deployments
-description: PiLeven is an Arduino Uno compatible board (Freetronics Eleven based)
-  that plugs straight into a Raspberry Pi
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/PiLeven/downloads
-events_url: https://api.github.com/repos/freetronics/PiLeven/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/freetronics/PiLeven/forks
-full_name: freetronics/PiLeven
-git_commits_url: https://api.github.com/repos/freetronics/PiLeven/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/PiLeven/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/PiLeven/git/tags{/sha}
-git_url: git://github.com/freetronics/PiLeven.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: http://freetronics.com/pileven
-hooks_url: https://api.github.com/repos/freetronics/PiLeven/hooks
-html_url: https://github.com/freetronics/PiLeven
-id: 16495966
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/PiLeven/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/PiLeven/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/PiLeven/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/PiLeven/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/PiLeven/labels{/name}
-language: IDL
-languages_url: https://api.github.com/repos/freetronics/PiLeven/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/freetronics/PiLeven/merges
-milestones_url: https://api.github.com/repos/freetronics/PiLeven/milestones{/number}
-mirror_url: null
-name: PiLeven
-node_id: MDEwOlJlcG9zaXRvcnkxNjQ5NTk2Ng==
-notifications_url: https://api.github.com/repos/freetronics/PiLeven/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: PiLeven
+  github_src: https://github.com/freetronics/PiLeven
+  github_src_repo: https://github.com/freetronics/PiLeven
+  oomp_bot: freetronics_pileven
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/freetronics_pileven
+  oomp_doc: projects/freetronics_pileven/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/freetronics_pileven
+  oomp_src_flat: projects_flat/freetronics_pileven
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/freetronics_pileven
+  oomp_src_folder: projects_folder\freetronics\PiLeven\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\freetronics\PiLeven\version_current\working
+oomp_key: oomp_freetronics_pileven
+oomp_key_simple: freetronics_pileven
 projects_flat: projects_flat/freetronics_pileven/version_current/working
 projects_folder: projects_folder/freetronics/PiLeven/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/PiLeven/pulls{/number}
-pushed_at: '2014-11-21T01:09:45Z'
-releases_url: https://api.github.com/repos/freetronics/PiLeven/releases{/id}
-size: 2074
-ssh_url: git@github.com:freetronics/PiLeven.git
-stargazers_count: 6
-stargazers_url: https://api.github.com/repos/freetronics/PiLeven/stargazers
-statuses_url: https://api.github.com/repos/freetronics/PiLeven/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/PiLeven/subscribers
-subscription_url: https://api.github.com/repos/freetronics/PiLeven/subscription
-svn_url: https://github.com/freetronics/PiLeven
-tags_url: https://api.github.com/repos/freetronics/PiLeven/tags
-teams_url: https://api.github.com/repos/freetronics/PiLeven/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/PiLeven/git/trees{/sha}
-updated_at: '2022-01-02T10:08:25Z'
-url: https://api.github.com/repos/freetronics/PiLeven
-visibility: public
-watchers: 6
-watchers_count: 6
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/PiLeven/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/PiLeven/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/PiLeven/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/PiLeven/branches{/branch}
+  clone_url: https://github.com/freetronics/PiLeven.git
+  collaborators_url: https://api.github.com/repos/freetronics/PiLeven/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/PiLeven/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/PiLeven/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/PiLeven/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/PiLeven/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/PiLeven/contributors
+  created_at: '2014-02-03T22:58:41Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/PiLeven/deployments
+  description: PiLeven is an Arduino Uno compatible board (Freetronics Eleven based)
+    that plugs straight into a Raspberry Pi
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/PiLeven/downloads
+  events_url: https://api.github.com/repos/freetronics/PiLeven/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/freetronics/PiLeven/forks
+  full_name: freetronics/PiLeven
+  git_commits_url: https://api.github.com/repos/freetronics/PiLeven/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/PiLeven/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/PiLeven/git/tags{/sha}
+  git_url: git://github.com/freetronics/PiLeven.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: http://freetronics.com/pileven
+  hooks_url: https://api.github.com/repos/freetronics/PiLeven/hooks
+  html_url: https://github.com/freetronics/PiLeven
+  id: 16495966
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/PiLeven/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/PiLeven/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/PiLeven/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/PiLeven/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/PiLeven/labels{/name}
+  language: IDL
+  languages_url: https://api.github.com/repos/freetronics/PiLeven/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/freetronics/PiLeven/merges
+  milestones_url: https://api.github.com/repos/freetronics/PiLeven/milestones{/number}
+  mirror_url: null
+  name: PiLeven
+  node_id: MDEwOlJlcG9zaXRvcnkxNjQ5NTk2Ng==
+  notifications_url: https://api.github.com/repos/freetronics/PiLeven/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/PiLeven/pulls{/number}
+  pushed_at: '2014-11-21T01:09:45Z'
+  releases_url: https://api.github.com/repos/freetronics/PiLeven/releases{/id}
+  size: 2074
+  ssh_url: git@github.com:freetronics/PiLeven.git
+  stargazers_count: 6
+  stargazers_url: https://api.github.com/repos/freetronics/PiLeven/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/PiLeven/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/PiLeven/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/PiLeven/subscription
+  svn_url: https://github.com/freetronics/PiLeven
+  tags_url: https://api.github.com/repos/freetronics/PiLeven/tags
+  teams_url: https://api.github.com/repos/freetronics/PiLeven/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/PiLeven/git/trees{/sha}
+  updated_at: '2022-01-02T10:08:25Z'
+  url: https://api.github.com/repos/freetronics/PiLeven
+  visibility: public
+  watchers: 6
+  watchers_count: 6
+  web_commit_signoff_required: false

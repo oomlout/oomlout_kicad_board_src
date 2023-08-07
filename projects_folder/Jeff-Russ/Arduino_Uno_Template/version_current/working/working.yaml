@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/assignees{/user}
-blobs_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/branches{/branch}
-clone_url: https://github.com/Jeff-Russ/Arduino_Uno_Template.git
-collaborators_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/comments{/number}
-commits_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/commits{/sha}
-compare_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/contents/{+path}
-contributors_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/contributors
-created_at: '2018-08-08T03:03:48Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/deployments
-description: Kicad 5 Template with entire schematic and BOM for Arduino Uno R3
-disabled: false
-downloads_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/downloads
-events_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/forks
-full_name: Jeff-Russ/Arduino_Uno_Template
-git_commits_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/git/tags{/sha}
-git_url: git://github.com/Jeff-Russ/Arduino_Uno_Template.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/hooks
-html_url: https://github.com/Jeff-Russ/Arduino_Uno_Template
-id: 143954006
-is_template: false
-issue_comment_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/issues/events{/number}
-issues_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/issues{/number}
-keys_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/keys{/key_id}
-labels_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/languages
-license: null
-merges_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/merges
-milestones_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/milestones{/number}
-mirror_url: null
-name: Arduino_Uno_Template
-node_id: MDEwOlJlcG9zaXRvcnkxNDM5NTQwMDY=
-notifications_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6119723?v=4
-  events_url: https://api.github.com/users/Jeff-Russ/events{/privacy}
-  followers_url: https://api.github.com/users/Jeff-Russ/followers
-  following_url: https://api.github.com/users/Jeff-Russ/following{/other_user}
-  gists_url: https://api.github.com/users/Jeff-Russ/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Jeff-Russ
-  id: 6119723
-  login: Jeff-Russ
-  node_id: MDQ6VXNlcjYxMTk3MjM=
-  organizations_url: https://api.github.com/users/Jeff-Russ/orgs
-  received_events_url: https://api.github.com/users/Jeff-Russ/received_events
-  repos_url: https://api.github.com/users/Jeff-Russ/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Jeff-Russ/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Jeff-Russ/subscriptions
-  type: User
-  url: https://api.github.com/users/Jeff-Russ
-private: false
+links:
+  github_owner: Jeff-Russ
+  github_repo_name: Arduino_Uno_Template
+  github_src: https://github.com/Jeff-Russ/Arduino_Uno_Template
+  github_src_repo: https://github.com/Jeff-Russ/Arduino_Uno_Template
+  oomp_bot: jeff_russ_arduino_uno_template
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/jeff_russ_arduino_uno_template
+  oomp_doc: projects/jeff_russ_arduino_uno_template/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/jeff_russ_arduino_uno_template
+  oomp_src_flat: projects_flat/jeff_russ_arduino_uno_template
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/jeff_russ_arduino_uno_template
+  oomp_src_folder: projects_folder\Jeff-Russ\Arduino_Uno_Template\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Jeff-Russ\Arduino_Uno_Template\version_current\working
+oomp_key: oomp_jeff_russ_arduino_uno_template
+oomp_key_simple: jeff_russ_arduino_uno_template
 projects_flat: projects_flat/jeff_russ_arduino_uno_template/version_current/working
 projects_folder: projects_folder/Jeff-Russ/Arduino_Uno_Template/version_current/working
-pulls_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/pulls{/number}
-pushed_at: '2018-08-08T04:28:22Z'
-releases_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/releases{/id}
-size: 458
-ssh_url: git@github.com:Jeff-Russ/Arduino_Uno_Template.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/stargazers
-statuses_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/subscribers
-subscription_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/subscription
-svn_url: https://github.com/Jeff-Russ/Arduino_Uno_Template
-tags_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/tags
-teams_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/teams
-topics: []
-trees_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/git/trees{/sha}
-updated_at: '2019-04-25T02:19:41Z'
-url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/assignees{/user}
+  blobs_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/branches{/branch}
+  clone_url: https://github.com/Jeff-Russ/Arduino_Uno_Template.git
+  collaborators_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/comments{/number}
+  commits_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/commits{/sha}
+  compare_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/contents/{+path}
+  contributors_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/contributors
+  created_at: '2018-08-08T03:03:48Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/deployments
+  description: Kicad 5 Template with entire schematic and BOM for Arduino Uno R3
+  disabled: false
+  downloads_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/downloads
+  events_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/forks
+  full_name: Jeff-Russ/Arduino_Uno_Template
+  git_commits_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/git/tags{/sha}
+  git_url: git://github.com/Jeff-Russ/Arduino_Uno_Template.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/hooks
+  html_url: https://github.com/Jeff-Russ/Arduino_Uno_Template
+  id: 143954006
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/issues/events{/number}
+  issues_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/issues{/number}
+  keys_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/keys{/key_id}
+  labels_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/languages
+  license: null
+  merges_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/merges
+  milestones_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/milestones{/number}
+  mirror_url: null
+  name: Arduino_Uno_Template
+  node_id: MDEwOlJlcG9zaXRvcnkxNDM5NTQwMDY=
+  notifications_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6119723?v=4
+    events_url: https://api.github.com/users/Jeff-Russ/events{/privacy}
+    followers_url: https://api.github.com/users/Jeff-Russ/followers
+    following_url: https://api.github.com/users/Jeff-Russ/following{/other_user}
+    gists_url: https://api.github.com/users/Jeff-Russ/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Jeff-Russ
+    id: 6119723
+    login: Jeff-Russ
+    node_id: MDQ6VXNlcjYxMTk3MjM=
+    organizations_url: https://api.github.com/users/Jeff-Russ/orgs
+    received_events_url: https://api.github.com/users/Jeff-Russ/received_events
+    repos_url: https://api.github.com/users/Jeff-Russ/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Jeff-Russ/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Jeff-Russ/subscriptions
+    type: User
+    url: https://api.github.com/users/Jeff-Russ
+  private: false
+  pulls_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/pulls{/number}
+  pushed_at: '2018-08-08T04:28:22Z'
+  releases_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/releases{/id}
+  size: 458
+  ssh_url: git@github.com:Jeff-Russ/Arduino_Uno_Template.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/stargazers
+  statuses_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/subscribers
+  subscription_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/subscription
+  svn_url: https://github.com/Jeff-Russ/Arduino_Uno_Template
+  tags_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/tags
+  teams_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template/git/trees{/sha}
+  updated_at: '2019-04-25T02:19:41Z'
+  url: https://api.github.com/repos/Jeff-Russ/Arduino_Uno_Template
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

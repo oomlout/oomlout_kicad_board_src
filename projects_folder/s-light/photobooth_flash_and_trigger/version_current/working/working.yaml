@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/assignees{/user}
-blobs_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/git/blobs{/sha}
-branches_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/branches{/branch}
-clone_url: https://github.com/s-light/photobooth_flash_and_trigger.git
-collaborators_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/comments{/number}
-commits_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/commits{/sha}
-compare_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/compare/{base}...{head}
-contents_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/contents/{+path}
-contributors_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/contributors
-created_at: '2018-12-24T20:46:28Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/deployments
-description: Arduino sketch for a simple animated Flash and IR-Trigger
-disabled: false
-downloads_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/downloads
-events_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/forks
-full_name: s-light/photobooth_flash_and_trigger
-git_commits_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/git/tags{/sha}
-git_url: git://github.com/s-light/photobooth_flash_and_trigger.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/hooks
-html_url: https://github.com/s-light/photobooth_flash_and_trigger
-id: 163022543
-is_template: false
-issue_comment_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/issues/events{/number}
-issues_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/issues{/number}
-keys_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/keys{/key_id}
-labels_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/labels{/name}
-language: Python
-languages_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/merges
-milestones_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/milestones{/number}
-mirror_url: null
-name: photobooth_flash_and_trigger
-node_id: MDEwOlJlcG9zaXRvcnkxNjMwMjI1NDM=
-notifications_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1340319?v=4
-  events_url: https://api.github.com/users/s-light/events{/privacy}
-  followers_url: https://api.github.com/users/s-light/followers
-  following_url: https://api.github.com/users/s-light/following{/other_user}
-  gists_url: https://api.github.com/users/s-light/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/s-light
-  id: 1340319
-  login: s-light
-  node_id: MDQ6VXNlcjEzNDAzMTk=
-  organizations_url: https://api.github.com/users/s-light/orgs
-  received_events_url: https://api.github.com/users/s-light/received_events
-  repos_url: https://api.github.com/users/s-light/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/s-light/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/s-light/subscriptions
-  type: User
-  url: https://api.github.com/users/s-light
-private: false
+links:
+  github_owner: s-light
+  github_repo_name: photobooth_flash_and_trigger
+  github_src: https://github.com/s-light/photobooth_flash_and_trigger
+  github_src_repo: https://github.com/s-light/photobooth_flash_and_trigger
+  oomp_bot: s_light_photobooth_flash_and_trigger
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/s_light_photobooth_flash_and_trigger
+  oomp_doc: projects/s_light_photobooth_flash_and_trigger/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/s_light_photobooth_flash_and_trigger
+  oomp_src_flat: projects_flat/s_light_photobooth_flash_and_trigger
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/s_light_photobooth_flash_and_trigger
+  oomp_src_folder: projects_folder\s-light\photobooth_flash_and_trigger\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\s-light\photobooth_flash_and_trigger\version_current\working
+oomp_key: oomp_s_light_photobooth_flash_and_trigger
+oomp_key_simple: s_light_photobooth_flash_and_trigger
 projects_flat: projects_flat/s_light_photobooth_flash_and_trigger/version_current/working
 projects_folder: projects_folder/s-light/photobooth_flash_and_trigger/version_current/working
-pulls_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/pulls{/number}
-pushed_at: '2019-06-07T12:57:22Z'
-releases_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/releases{/id}
-size: 107
-ssh_url: git@github.com:s-light/photobooth_flash_and_trigger.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/stargazers
-statuses_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/statuses/{sha}
-subscribers_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/subscribers
-subscription_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/subscription
-svn_url: https://github.com/s-light/photobooth_flash_and_trigger
-tags_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/tags
-teams_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/teams
-topics: []
-trees_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/git/trees{/sha}
-updated_at: '2021-03-31T04:52:14Z'
-url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/assignees{/user}
+  blobs_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/branches{/branch}
+  clone_url: https://github.com/s-light/photobooth_flash_and_trigger.git
+  collaborators_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/comments{/number}
+  commits_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/commits{/sha}
+  compare_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/contents/{+path}
+  contributors_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/contributors
+  created_at: '2018-12-24T20:46:28Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/deployments
+  description: Arduino sketch for a simple animated Flash and IR-Trigger
+  disabled: false
+  downloads_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/downloads
+  events_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/forks
+  full_name: s-light/photobooth_flash_and_trigger
+  git_commits_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/git/tags{/sha}
+  git_url: git://github.com/s-light/photobooth_flash_and_trigger.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/hooks
+  html_url: https://github.com/s-light/photobooth_flash_and_trigger
+  id: 163022543
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/issues/events{/number}
+  issues_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/issues{/number}
+  keys_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/keys{/key_id}
+  labels_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/labels{/name}
+  language: Python
+  languages_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/merges
+  milestones_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/milestones{/number}
+  mirror_url: null
+  name: photobooth_flash_and_trigger
+  node_id: MDEwOlJlcG9zaXRvcnkxNjMwMjI1NDM=
+  notifications_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1340319?v=4
+    events_url: https://api.github.com/users/s-light/events{/privacy}
+    followers_url: https://api.github.com/users/s-light/followers
+    following_url: https://api.github.com/users/s-light/following{/other_user}
+    gists_url: https://api.github.com/users/s-light/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/s-light
+    id: 1340319
+    login: s-light
+    node_id: MDQ6VXNlcjEzNDAzMTk=
+    organizations_url: https://api.github.com/users/s-light/orgs
+    received_events_url: https://api.github.com/users/s-light/received_events
+    repos_url: https://api.github.com/users/s-light/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/s-light/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/s-light/subscriptions
+    type: User
+    url: https://api.github.com/users/s-light
+  private: false
+  pulls_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/pulls{/number}
+  pushed_at: '2019-06-07T12:57:22Z'
+  releases_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/releases{/id}
+  size: 107
+  ssh_url: git@github.com:s-light/photobooth_flash_and_trigger.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/stargazers
+  statuses_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/subscribers
+  subscription_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/subscription
+  svn_url: https://github.com/s-light/photobooth_flash_and_trigger
+  tags_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/tags
+  teams_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/teams
+  topics: []
+  trees_url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger/git/trees{/sha}
+  updated_at: '2021-03-31T04:52:14Z'
+  url: https://api.github.com/repos/s-light/photobooth_flash_and_trigger
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

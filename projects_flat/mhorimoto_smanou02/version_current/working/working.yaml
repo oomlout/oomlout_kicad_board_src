@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/mhorimoto/smanou02/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/mhorimoto/smanou02/assignees{/user}
-blobs_url: https://api.github.com/repos/mhorimoto/smanou02/git/blobs{/sha}
-branches_url: https://api.github.com/repos/mhorimoto/smanou02/branches{/branch}
-clone_url: https://github.com/mhorimoto/smanou02.git
-collaborators_url: https://api.github.com/repos/mhorimoto/smanou02/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/mhorimoto/smanou02/comments{/number}
-commits_url: https://api.github.com/repos/mhorimoto/smanou02/commits{/sha}
-compare_url: https://api.github.com/repos/mhorimoto/smanou02/compare/{base}...{head}
-contents_url: https://api.github.com/repos/mhorimoto/smanou02/contents/{+path}
-contributors_url: https://api.github.com/repos/mhorimoto/smanou02/contributors
-created_at: '2022-05-17T08:30:42Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/mhorimoto/smanou02/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/mhorimoto/smanou02/downloads
-events_url: https://api.github.com/repos/mhorimoto/smanou02/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/mhorimoto/smanou02/forks
-full_name: mhorimoto/smanou02
-git_commits_url: https://api.github.com/repos/mhorimoto/smanou02/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/mhorimoto/smanou02/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/mhorimoto/smanou02/git/tags{/sha}
-git_url: git://github.com/mhorimoto/smanou02.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/mhorimoto/smanou02/hooks
-html_url: https://github.com/mhorimoto/smanou02
-id: 493163106
-is_template: false
-issue_comment_url: https://api.github.com/repos/mhorimoto/smanou02/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/mhorimoto/smanou02/issues/events{/number}
-issues_url: https://api.github.com/repos/mhorimoto/smanou02/issues{/number}
-keys_url: https://api.github.com/repos/mhorimoto/smanou02/keys{/key_id}
-labels_url: https://api.github.com/repos/mhorimoto/smanou02/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/mhorimoto/smanou02/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/mhorimoto/smanou02/merges
-milestones_url: https://api.github.com/repos/mhorimoto/smanou02/milestones{/number}
-mirror_url: null
-name: smanou02
-node_id: R_kgDOHWUSYg
-notifications_url: https://api.github.com/repos/mhorimoto/smanou02/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3594832?v=4
-  events_url: https://api.github.com/users/mhorimoto/events{/privacy}
-  followers_url: https://api.github.com/users/mhorimoto/followers
-  following_url: https://api.github.com/users/mhorimoto/following{/other_user}
-  gists_url: https://api.github.com/users/mhorimoto/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/mhorimoto
-  id: 3594832
-  login: mhorimoto
-  node_id: MDQ6VXNlcjM1OTQ4MzI=
-  organizations_url: https://api.github.com/users/mhorimoto/orgs
-  received_events_url: https://api.github.com/users/mhorimoto/received_events
-  repos_url: https://api.github.com/users/mhorimoto/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/mhorimoto/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/mhorimoto/subscriptions
-  type: User
-  url: https://api.github.com/users/mhorimoto
-private: false
+links:
+  github_owner: mhorimoto
+  github_repo_name: smanou02
+  github_src: https://github.com/mhorimoto/smanou02
+  github_src_repo: https://github.com/mhorimoto/smanou02
+  oomp_bot: projects_mhorimoto_smanou02
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_mhorimoto_smanou02
+  oomp_doc: projects/projects_flat_mhorimoto_smanou02/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_mhorimoto_smanou02
+  oomp_src_flat: projects_flat/projects_flat_mhorimoto_smanou02
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_mhorimoto_smanou02
+  oomp_src_folder: projects_flat\mhorimoto_smanou02\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\mhorimoto_smanou02\version_current\working
+oomp_key: oomp_projects_flat_mhorimoto_smanou02
+oomp_key_simple: projects_flat_mhorimoto_smanou02
 projects_flat: projects_flat/mhorimoto_smanou02/version_current/working
 projects_folder: projects_folder/mhorimoto/smanou02/version_current/working
-pulls_url: https://api.github.com/repos/mhorimoto/smanou02/pulls{/number}
-pushed_at: '2022-05-17T08:40:19Z'
-releases_url: https://api.github.com/repos/mhorimoto/smanou02/releases{/id}
-size: 16395
-ssh_url: git@github.com:mhorimoto/smanou02.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/mhorimoto/smanou02/stargazers
-statuses_url: https://api.github.com/repos/mhorimoto/smanou02/statuses/{sha}
-subscribers_url: https://api.github.com/repos/mhorimoto/smanou02/subscribers
-subscription_url: https://api.github.com/repos/mhorimoto/smanou02/subscription
-svn_url: https://github.com/mhorimoto/smanou02
-tags_url: https://api.github.com/repos/mhorimoto/smanou02/tags
-teams_url: https://api.github.com/repos/mhorimoto/smanou02/teams
-topics: []
-trees_url: https://api.github.com/repos/mhorimoto/smanou02/git/trees{/sha}
-updated_at: '2022-05-17T08:30:42Z'
-url: https://api.github.com/repos/mhorimoto/smanou02
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/mhorimoto/smanou02/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/mhorimoto/smanou02/assignees{/user}
+  blobs_url: https://api.github.com/repos/mhorimoto/smanou02/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/mhorimoto/smanou02/branches{/branch}
+  clone_url: https://github.com/mhorimoto/smanou02.git
+  collaborators_url: https://api.github.com/repos/mhorimoto/smanou02/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/mhorimoto/smanou02/comments{/number}
+  commits_url: https://api.github.com/repos/mhorimoto/smanou02/commits{/sha}
+  compare_url: https://api.github.com/repos/mhorimoto/smanou02/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/mhorimoto/smanou02/contents/{+path}
+  contributors_url: https://api.github.com/repos/mhorimoto/smanou02/contributors
+  created_at: '2022-05-17T08:30:42Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/mhorimoto/smanou02/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/mhorimoto/smanou02/downloads
+  events_url: https://api.github.com/repos/mhorimoto/smanou02/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/mhorimoto/smanou02/forks
+  full_name: mhorimoto/smanou02
+  git_commits_url: https://api.github.com/repos/mhorimoto/smanou02/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/mhorimoto/smanou02/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/mhorimoto/smanou02/git/tags{/sha}
+  git_url: git://github.com/mhorimoto/smanou02.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/mhorimoto/smanou02/hooks
+  html_url: https://github.com/mhorimoto/smanou02
+  id: 493163106
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/mhorimoto/smanou02/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/mhorimoto/smanou02/issues/events{/number}
+  issues_url: https://api.github.com/repos/mhorimoto/smanou02/issues{/number}
+  keys_url: https://api.github.com/repos/mhorimoto/smanou02/keys{/key_id}
+  labels_url: https://api.github.com/repos/mhorimoto/smanou02/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/mhorimoto/smanou02/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/mhorimoto/smanou02/merges
+  milestones_url: https://api.github.com/repos/mhorimoto/smanou02/milestones{/number}
+  mirror_url: null
+  name: smanou02
+  node_id: R_kgDOHWUSYg
+  notifications_url: https://api.github.com/repos/mhorimoto/smanou02/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3594832?v=4
+    events_url: https://api.github.com/users/mhorimoto/events{/privacy}
+    followers_url: https://api.github.com/users/mhorimoto/followers
+    following_url: https://api.github.com/users/mhorimoto/following{/other_user}
+    gists_url: https://api.github.com/users/mhorimoto/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/mhorimoto
+    id: 3594832
+    login: mhorimoto
+    node_id: MDQ6VXNlcjM1OTQ4MzI=
+    organizations_url: https://api.github.com/users/mhorimoto/orgs
+    received_events_url: https://api.github.com/users/mhorimoto/received_events
+    repos_url: https://api.github.com/users/mhorimoto/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/mhorimoto/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/mhorimoto/subscriptions
+    type: User
+    url: https://api.github.com/users/mhorimoto
+  private: false
+  pulls_url: https://api.github.com/repos/mhorimoto/smanou02/pulls{/number}
+  pushed_at: '2022-05-17T08:40:19Z'
+  releases_url: https://api.github.com/repos/mhorimoto/smanou02/releases{/id}
+  size: 16395
+  ssh_url: git@github.com:mhorimoto/smanou02.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/mhorimoto/smanou02/stargazers
+  statuses_url: https://api.github.com/repos/mhorimoto/smanou02/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/mhorimoto/smanou02/subscribers
+  subscription_url: https://api.github.com/repos/mhorimoto/smanou02/subscription
+  svn_url: https://github.com/mhorimoto/smanou02
+  tags_url: https://api.github.com/repos/mhorimoto/smanou02/tags
+  teams_url: https://api.github.com/repos/mhorimoto/smanou02/teams
+  topics: []
+  trees_url: https://api.github.com/repos/mhorimoto/smanou02/git/trees{/sha}
+  updated_at: '2022-05-17T08:30:42Z'
+  url: https://api.github.com/repos/mhorimoto/smanou02
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

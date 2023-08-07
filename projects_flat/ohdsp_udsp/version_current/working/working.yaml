@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ohdsp/uDSP/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ohdsp/uDSP/assignees{/user}
-blobs_url: https://api.github.com/repos/ohdsp/uDSP/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ohdsp/uDSP/branches{/branch}
-clone_url: https://github.com/ohdsp/uDSP.git
-collaborators_url: https://api.github.com/repos/ohdsp/uDSP/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ohdsp/uDSP/comments{/number}
-commits_url: https://api.github.com/repos/ohdsp/uDSP/commits{/sha}
-compare_url: https://api.github.com/repos/ohdsp/uDSP/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ohdsp/uDSP/contents/{+path}
-contributors_url: https://api.github.com/repos/ohdsp/uDSP/contributors
-created_at: '2019-03-11T21:55:16Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ohdsp/uDSP/deployments
-description: A smaller DSP board supporting ADAU1450, ADAU1451, ADAU1452, ADAU1462,
-  ADAU1466 - open source hardware
-disabled: false
-downloads_url: https://api.github.com/repos/ohdsp/uDSP/downloads
-events_url: https://api.github.com/repos/ohdsp/uDSP/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/ohdsp/uDSP/forks
-full_name: ohdsp/uDSP
-git_commits_url: https://api.github.com/repos/ohdsp/uDSP/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ohdsp/uDSP/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ohdsp/uDSP/git/tags{/sha}
-git_url: git://github.com/ohdsp/uDSP.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ohdsp/uDSP/hooks
-html_url: https://github.com/ohdsp/uDSP
-id: 175089728
-is_template: false
-issue_comment_url: https://api.github.com/repos/ohdsp/uDSP/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ohdsp/uDSP/issues/events{/number}
-issues_url: https://api.github.com/repos/ohdsp/uDSP/issues{/number}
-keys_url: https://api.github.com/repos/ohdsp/uDSP/keys{/key_id}
-labels_url: https://api.github.com/repos/ohdsp/uDSP/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/ohdsp/uDSP/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/ohdsp/uDSP/merges
-milestones_url: https://api.github.com/repos/ohdsp/uDSP/milestones{/number}
-mirror_url: null
-name: uDSP
-node_id: MDEwOlJlcG9zaXRvcnkxNzUwODk3Mjg=
-notifications_url: https://api.github.com/repos/ohdsp/uDSP/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16755757?v=4
-  events_url: https://api.github.com/users/ohdsp/events{/privacy}
-  followers_url: https://api.github.com/users/ohdsp/followers
-  following_url: https://api.github.com/users/ohdsp/following{/other_user}
-  gists_url: https://api.github.com/users/ohdsp/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ohdsp
-  id: 16755757
-  login: ohdsp
-  node_id: MDQ6VXNlcjE2NzU1NzU3
-  organizations_url: https://api.github.com/users/ohdsp/orgs
-  received_events_url: https://api.github.com/users/ohdsp/received_events
-  repos_url: https://api.github.com/users/ohdsp/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ohdsp/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ohdsp/subscriptions
-  type: User
-  url: https://api.github.com/users/ohdsp
-private: false
+links:
+  github_owner: ohdsp
+  github_repo_name: uDSP
+  github_src: https://github.com/ohdsp/uDSP
+  github_src_repo: https://github.com/ohdsp/uDSP
+  oomp_bot: projects_ohdsp_udsp
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_ohdsp_udsp
+  oomp_doc: projects/projects_flat_ohdsp_udsp/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_ohdsp_udsp
+  oomp_src_flat: projects_flat/projects_flat_ohdsp_udsp
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_ohdsp_udsp
+  oomp_src_folder: projects_flat\ohdsp_udsp\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ohdsp_udsp\version_current\working
+oomp_key: oomp_projects_flat_ohdsp_udsp
+oomp_key_simple: projects_flat_ohdsp_udsp
 projects_flat: projects_flat/ohdsp_udsp/version_current/working
 projects_folder: projects_folder/ohdsp/uDSP/version_current/working
-pulls_url: https://api.github.com/repos/ohdsp/uDSP/pulls{/number}
-pushed_at: '2019-04-02T21:23:10Z'
-releases_url: https://api.github.com/repos/ohdsp/uDSP/releases{/id}
-size: 5768
-ssh_url: git@github.com:ohdsp/uDSP.git
-stargazers_count: 10
-stargazers_url: https://api.github.com/repos/ohdsp/uDSP/stargazers
-statuses_url: https://api.github.com/repos/ohdsp/uDSP/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ohdsp/uDSP/subscribers
-subscription_url: https://api.github.com/repos/ohdsp/uDSP/subscription
-svn_url: https://github.com/ohdsp/uDSP
-tags_url: https://api.github.com/repos/ohdsp/uDSP/tags
-teams_url: https://api.github.com/repos/ohdsp/uDSP/teams
-topics: []
-trees_url: https://api.github.com/repos/ohdsp/uDSP/git/trees{/sha}
-updated_at: '2023-04-28T02:14:14Z'
-url: https://api.github.com/repos/ohdsp/uDSP
-visibility: public
-watchers: 10
-watchers_count: 10
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ohdsp/uDSP/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ohdsp/uDSP/assignees{/user}
+  blobs_url: https://api.github.com/repos/ohdsp/uDSP/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ohdsp/uDSP/branches{/branch}
+  clone_url: https://github.com/ohdsp/uDSP.git
+  collaborators_url: https://api.github.com/repos/ohdsp/uDSP/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ohdsp/uDSP/comments{/number}
+  commits_url: https://api.github.com/repos/ohdsp/uDSP/commits{/sha}
+  compare_url: https://api.github.com/repos/ohdsp/uDSP/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ohdsp/uDSP/contents/{+path}
+  contributors_url: https://api.github.com/repos/ohdsp/uDSP/contributors
+  created_at: '2019-03-11T21:55:16Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ohdsp/uDSP/deployments
+  description: A smaller DSP board supporting ADAU1450, ADAU1451, ADAU1452, ADAU1462,
+    ADAU1466 - open source hardware
+  disabled: false
+  downloads_url: https://api.github.com/repos/ohdsp/uDSP/downloads
+  events_url: https://api.github.com/repos/ohdsp/uDSP/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/ohdsp/uDSP/forks
+  full_name: ohdsp/uDSP
+  git_commits_url: https://api.github.com/repos/ohdsp/uDSP/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ohdsp/uDSP/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ohdsp/uDSP/git/tags{/sha}
+  git_url: git://github.com/ohdsp/uDSP.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ohdsp/uDSP/hooks
+  html_url: https://github.com/ohdsp/uDSP
+  id: 175089728
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ohdsp/uDSP/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ohdsp/uDSP/issues/events{/number}
+  issues_url: https://api.github.com/repos/ohdsp/uDSP/issues{/number}
+  keys_url: https://api.github.com/repos/ohdsp/uDSP/keys{/key_id}
+  labels_url: https://api.github.com/repos/ohdsp/uDSP/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/ohdsp/uDSP/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/ohdsp/uDSP/merges
+  milestones_url: https://api.github.com/repos/ohdsp/uDSP/milestones{/number}
+  mirror_url: null
+  name: uDSP
+  node_id: MDEwOlJlcG9zaXRvcnkxNzUwODk3Mjg=
+  notifications_url: https://api.github.com/repos/ohdsp/uDSP/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16755757?v=4
+    events_url: https://api.github.com/users/ohdsp/events{/privacy}
+    followers_url: https://api.github.com/users/ohdsp/followers
+    following_url: https://api.github.com/users/ohdsp/following{/other_user}
+    gists_url: https://api.github.com/users/ohdsp/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ohdsp
+    id: 16755757
+    login: ohdsp
+    node_id: MDQ6VXNlcjE2NzU1NzU3
+    organizations_url: https://api.github.com/users/ohdsp/orgs
+    received_events_url: https://api.github.com/users/ohdsp/received_events
+    repos_url: https://api.github.com/users/ohdsp/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ohdsp/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ohdsp/subscriptions
+    type: User
+    url: https://api.github.com/users/ohdsp
+  private: false
+  pulls_url: https://api.github.com/repos/ohdsp/uDSP/pulls{/number}
+  pushed_at: '2019-04-02T21:23:10Z'
+  releases_url: https://api.github.com/repos/ohdsp/uDSP/releases{/id}
+  size: 5768
+  ssh_url: git@github.com:ohdsp/uDSP.git
+  stargazers_count: 10
+  stargazers_url: https://api.github.com/repos/ohdsp/uDSP/stargazers
+  statuses_url: https://api.github.com/repos/ohdsp/uDSP/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ohdsp/uDSP/subscribers
+  subscription_url: https://api.github.com/repos/ohdsp/uDSP/subscription
+  svn_url: https://github.com/ohdsp/uDSP
+  tags_url: https://api.github.com/repos/ohdsp/uDSP/tags
+  teams_url: https://api.github.com/repos/ohdsp/uDSP/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ohdsp/uDSP/git/trees{/sha}
+  updated_at: '2023-04-28T02:14:14Z'
+  url: https://api.github.com/repos/ohdsp/uDSP
+  visibility: public
+  watchers: 10
+  watchers_count: 10
+  web_commit_signoff_required: false

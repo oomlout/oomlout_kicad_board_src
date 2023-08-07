@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/F6ITU/1W_Amp/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/F6ITU/1W_Amp/assignees{/user}
-blobs_url: https://api.github.com/repos/F6ITU/1W_Amp/git/blobs{/sha}
-branches_url: https://api.github.com/repos/F6ITU/1W_Amp/branches{/branch}
-clone_url: https://github.com/F6ITU/1W_Amp.git
-collaborators_url: https://api.github.com/repos/F6ITU/1W_Amp/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/F6ITU/1W_Amp/comments{/number}
-commits_url: https://api.github.com/repos/F6ITU/1W_Amp/commits{/sha}
-compare_url: https://api.github.com/repos/F6ITU/1W_Amp/compare/{base}...{head}
-contents_url: https://api.github.com/repos/F6ITU/1W_Amp/contents/{+path}
-contributors_url: https://api.github.com/repos/F6ITU/1W_Amp/contributors
-created_at: '2016-05-19T12:15:51Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/F6ITU/1W_Amp/deployments
-description: 1W /20 dB RF linear amp
-disabled: false
-downloads_url: https://api.github.com/repos/F6ITU/1W_Amp/downloads
-events_url: https://api.github.com/repos/F6ITU/1W_Amp/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/F6ITU/1W_Amp/forks
-full_name: F6ITU/1W_Amp
-git_commits_url: https://api.github.com/repos/F6ITU/1W_Amp/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/F6ITU/1W_Amp/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/F6ITU/1W_Amp/git/tags{/sha}
-git_url: git://github.com/F6ITU/1W_Amp.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/F6ITU/1W_Amp/hooks
-html_url: https://github.com/F6ITU/1W_Amp
-id: 59203212
-is_template: false
-issue_comment_url: https://api.github.com/repos/F6ITU/1W_Amp/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/F6ITU/1W_Amp/issues/events{/number}
-issues_url: https://api.github.com/repos/F6ITU/1W_Amp/issues{/number}
-keys_url: https://api.github.com/repos/F6ITU/1W_Amp/keys{/key_id}
-labels_url: https://api.github.com/repos/F6ITU/1W_Amp/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/F6ITU/1W_Amp/languages
-license: null
-merges_url: https://api.github.com/repos/F6ITU/1W_Amp/merges
-milestones_url: https://api.github.com/repos/F6ITU/1W_Amp/milestones{/number}
-mirror_url: null
-name: 1W_Amp
-node_id: MDEwOlJlcG9zaXRvcnk1OTIwMzIxMg==
-notifications_url: https://api.github.com/repos/F6ITU/1W_Amp/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/19146590?v=4
-  events_url: https://api.github.com/users/F6ITU/events{/privacy}
-  followers_url: https://api.github.com/users/F6ITU/followers
-  following_url: https://api.github.com/users/F6ITU/following{/other_user}
-  gists_url: https://api.github.com/users/F6ITU/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/F6ITU
-  id: 19146590
-  login: F6ITU
-  node_id: MDQ6VXNlcjE5MTQ2NTkw
-  organizations_url: https://api.github.com/users/F6ITU/orgs
-  received_events_url: https://api.github.com/users/F6ITU/received_events
-  repos_url: https://api.github.com/users/F6ITU/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/F6ITU/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/F6ITU/subscriptions
-  type: User
-  url: https://api.github.com/users/F6ITU
-private: false
+links:
+  github_owner: F6ITU
+  github_repo_name: 1W_Amp
+  github_src: https://github.com/F6ITU/1W_Amp
+  github_src_repo: https://github.com/F6ITU/1W_Amp
+  oomp_bot: f6itu_1w_amp
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/f6itu_1w_amp
+  oomp_doc: projects/f6itu_1w_amp/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/f6itu_1w_amp
+  oomp_src_flat: projects_flat/f6itu_1w_amp
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/f6itu_1w_amp
+  oomp_src_folder: projects_folder\F6ITU\1W_Amp\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\F6ITU\1W_Amp\version_current\working
+oomp_key: oomp_f6itu_1w_amp
+oomp_key_simple: f6itu_1w_amp
 projects_flat: projects_flat/f6itu_1w_amp/version_current/working
 projects_folder: projects_folder/F6ITU/1W_Amp/version_current/working
-pulls_url: https://api.github.com/repos/F6ITU/1W_Amp/pulls{/number}
-pushed_at: '2017-02-01T11:06:55Z'
-releases_url: https://api.github.com/repos/F6ITU/1W_Amp/releases{/id}
-size: 1934
-ssh_url: git@github.com:F6ITU/1W_Amp.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/F6ITU/1W_Amp/stargazers
-statuses_url: https://api.github.com/repos/F6ITU/1W_Amp/statuses/{sha}
-subscribers_url: https://api.github.com/repos/F6ITU/1W_Amp/subscribers
-subscription_url: https://api.github.com/repos/F6ITU/1W_Amp/subscription
-svn_url: https://github.com/F6ITU/1W_Amp
-tags_url: https://api.github.com/repos/F6ITU/1W_Amp/tags
-teams_url: https://api.github.com/repos/F6ITU/1W_Amp/teams
-topics: []
-trees_url: https://api.github.com/repos/F6ITU/1W_Amp/git/trees{/sha}
-updated_at: '2018-09-27T15:18:55Z'
-url: https://api.github.com/repos/F6ITU/1W_Amp
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/F6ITU/1W_Amp/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/F6ITU/1W_Amp/assignees{/user}
+  blobs_url: https://api.github.com/repos/F6ITU/1W_Amp/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/F6ITU/1W_Amp/branches{/branch}
+  clone_url: https://github.com/F6ITU/1W_Amp.git
+  collaborators_url: https://api.github.com/repos/F6ITU/1W_Amp/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/F6ITU/1W_Amp/comments{/number}
+  commits_url: https://api.github.com/repos/F6ITU/1W_Amp/commits{/sha}
+  compare_url: https://api.github.com/repos/F6ITU/1W_Amp/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/F6ITU/1W_Amp/contents/{+path}
+  contributors_url: https://api.github.com/repos/F6ITU/1W_Amp/contributors
+  created_at: '2016-05-19T12:15:51Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/F6ITU/1W_Amp/deployments
+  description: 1W /20 dB RF linear amp
+  disabled: false
+  downloads_url: https://api.github.com/repos/F6ITU/1W_Amp/downloads
+  events_url: https://api.github.com/repos/F6ITU/1W_Amp/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/F6ITU/1W_Amp/forks
+  full_name: F6ITU/1W_Amp
+  git_commits_url: https://api.github.com/repos/F6ITU/1W_Amp/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/F6ITU/1W_Amp/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/F6ITU/1W_Amp/git/tags{/sha}
+  git_url: git://github.com/F6ITU/1W_Amp.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/F6ITU/1W_Amp/hooks
+  html_url: https://github.com/F6ITU/1W_Amp
+  id: 59203212
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/F6ITU/1W_Amp/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/F6ITU/1W_Amp/issues/events{/number}
+  issues_url: https://api.github.com/repos/F6ITU/1W_Amp/issues{/number}
+  keys_url: https://api.github.com/repos/F6ITU/1W_Amp/keys{/key_id}
+  labels_url: https://api.github.com/repos/F6ITU/1W_Amp/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/F6ITU/1W_Amp/languages
+  license: null
+  merges_url: https://api.github.com/repos/F6ITU/1W_Amp/merges
+  milestones_url: https://api.github.com/repos/F6ITU/1W_Amp/milestones{/number}
+  mirror_url: null
+  name: 1W_Amp
+  node_id: MDEwOlJlcG9zaXRvcnk1OTIwMzIxMg==
+  notifications_url: https://api.github.com/repos/F6ITU/1W_Amp/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/19146590?v=4
+    events_url: https://api.github.com/users/F6ITU/events{/privacy}
+    followers_url: https://api.github.com/users/F6ITU/followers
+    following_url: https://api.github.com/users/F6ITU/following{/other_user}
+    gists_url: https://api.github.com/users/F6ITU/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/F6ITU
+    id: 19146590
+    login: F6ITU
+    node_id: MDQ6VXNlcjE5MTQ2NTkw
+    organizations_url: https://api.github.com/users/F6ITU/orgs
+    received_events_url: https://api.github.com/users/F6ITU/received_events
+    repos_url: https://api.github.com/users/F6ITU/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/F6ITU/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/F6ITU/subscriptions
+    type: User
+    url: https://api.github.com/users/F6ITU
+  private: false
+  pulls_url: https://api.github.com/repos/F6ITU/1W_Amp/pulls{/number}
+  pushed_at: '2017-02-01T11:06:55Z'
+  releases_url: https://api.github.com/repos/F6ITU/1W_Amp/releases{/id}
+  size: 1934
+  ssh_url: git@github.com:F6ITU/1W_Amp.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/F6ITU/1W_Amp/stargazers
+  statuses_url: https://api.github.com/repos/F6ITU/1W_Amp/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/F6ITU/1W_Amp/subscribers
+  subscription_url: https://api.github.com/repos/F6ITU/1W_Amp/subscription
+  svn_url: https://github.com/F6ITU/1W_Amp
+  tags_url: https://api.github.com/repos/F6ITU/1W_Amp/tags
+  teams_url: https://api.github.com/repos/F6ITU/1W_Amp/teams
+  topics: []
+  trees_url: https://api.github.com/repos/F6ITU/1W_Amp/git/trees{/sha}
+  updated_at: '2018-09-27T15:18:55Z'
+  url: https://api.github.com/repos/F6ITU/1W_Amp
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

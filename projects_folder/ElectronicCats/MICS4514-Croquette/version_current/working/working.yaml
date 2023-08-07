@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/branches{/branch}
-clone_url: https://github.com/ElectronicCats/MICS4514-Croquette.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/contributors
-created_at: '2019-02-07T20:07:18Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/deployments
-description: MICS4514 Breakout board sensor for CO2 and NO2 only 3.3v
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/downloads
-events_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/forks
-full_name: ElectronicCats/MICS4514-Croquette
-git_commits_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/MICS4514-Croquette.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/hooks
-html_url: https://github.com/ElectronicCats/MICS4514-Croquette
-id: 169634763
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/languages
-license: null
-merges_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/milestones{/number}
-mirror_url: null
-name: MICS4514-Croquette
-node_id: MDEwOlJlcG9zaXRvcnkxNjk2MzQ3NjM=
-notifications_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: MICS4514-Croquette
+  github_src: https://github.com/ElectronicCats/MICS4514-Croquette
+  github_src_repo: https://github.com/ElectronicCats/MICS4514-Croquette
+  oomp_bot: electroniccats_mics4514_croquette
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electroniccats_mics4514_croquette
+  oomp_doc: projects/electroniccats_mics4514_croquette/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electroniccats_mics4514_croquette
+  oomp_src_flat: projects_flat/electroniccats_mics4514_croquette
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electroniccats_mics4514_croquette
+  oomp_src_folder: projects_folder\ElectronicCats\MICS4514-Croquette\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ElectronicCats\MICS4514-Croquette\version_current\working
+oomp_key: oomp_electroniccats_mics4514_croquette
+oomp_key_simple: electroniccats_mics4514_croquette
 projects_flat: projects_flat/electroniccats_mics4514_croquette/version_current/working
 projects_folder: projects_folder/ElectronicCats/MICS4514-Croquette/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/pulls{/number}
-pushed_at: '2020-04-24T19:49:23Z'
-releases_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/releases{/id}
-size: 1689
-ssh_url: git@github.com:ElectronicCats/MICS4514-Croquette.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/subscription
-svn_url: https://github.com/ElectronicCats/MICS4514-Croquette
-tags_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/tags
-teams_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/teams
-topics:
-- co2
-- croquette
-- electronic-cats
-- hardware
-- mics4514
-- no2
-- no2-sensor
-trees_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/git/trees{/sha}
-updated_at: '2020-04-24T19:49:25Z'
-url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/MICS4514-Croquette.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/contributors
+  created_at: '2019-02-07T20:07:18Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/deployments
+  description: MICS4514 Breakout board sensor for CO2 and NO2 only 3.3v
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/forks
+  full_name: ElectronicCats/MICS4514-Croquette
+  git_commits_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/MICS4514-Croquette.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/hooks
+  html_url: https://github.com/ElectronicCats/MICS4514-Croquette
+  id: 169634763
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/languages
+  license: null
+  merges_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/milestones{/number}
+  mirror_url: null
+  name: MICS4514-Croquette
+  node_id: MDEwOlJlcG9zaXRvcnkxNjk2MzQ3NjM=
+  notifications_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/pulls{/number}
+  pushed_at: '2020-04-24T19:49:23Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/releases{/id}
+  size: 1689
+  ssh_url: git@github.com:ElectronicCats/MICS4514-Croquette.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/subscription
+  svn_url: https://github.com/ElectronicCats/MICS4514-Croquette
+  tags_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/teams
+  topics:
+  - co2
+  - croquette
+  - electronic-cats
+  - hardware
+  - mics4514
+  - no2
+  - no2-sensor
+  trees_url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette/git/trees{/sha}
+  updated_at: '2020-04-24T19:49:25Z'
+  url: https://api.github.com/repos/ElectronicCats/MICS4514-Croquette
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: true

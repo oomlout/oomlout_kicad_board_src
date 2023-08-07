@@ -1,111 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/faultycat/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/faultycat/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/faultycat/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/faultycat/branches{/branch}
-clone_url: https://github.com/ElectronicCats/faultycat.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/faultycat/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/faultycat/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/faultycat/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/faultycat/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/faultycat/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/faultycat/contributors
-created_at: '2023-01-25T18:53:08Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/ElectronicCats/faultycat/deployments
-description: Faulty Cat is a low-cost Electromagnetic Fault Injection (EMFI) tool,
-  designed specifically for self-study and hobbiest research.
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/faultycat/downloads
-events_url: https://api.github.com/repos/ElectronicCats/faultycat/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ElectronicCats/faultycat/forks
-full_name: ElectronicCats/faultycat
-git_commits_url: https://api.github.com/repos/ElectronicCats/faultycat/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/faultycat/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/faultycat/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/faultycat.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ElectronicCats/faultycat/hooks
-html_url: https://github.com/ElectronicCats/faultycat
-id: 593328026
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/faultycat/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/faultycat/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/faultycat/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/faultycat/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/faultycat/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ElectronicCats/faultycat/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/ElectronicCats/faultycat/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/faultycat/milestones{/number}
-mirror_url: null
-name: faultycat
-node_id: R_kgDOI113mg
-notifications_url: https://api.github.com/repos/ElectronicCats/faultycat/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: faultycat
+  github_src: https://github.com/ElectronicCats/faultycat
+  github_src_repo: https://github.com/ElectronicCats/faultycat
+  oomp_bot: electroniccats_faultycat
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electroniccats_faultycat
+  oomp_doc: projects/electroniccats_faultycat/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electroniccats_faultycat
+  oomp_src_flat: projects_flat/electroniccats_faultycat
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electroniccats_faultycat
+  oomp_src_folder: projects_folder\ElectronicCats\faultycat\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ElectronicCats\faultycat\version_current\working
+oomp_key: oomp_electroniccats_faultycat
+oomp_key_simple: electroniccats_faultycat
 projects_flat: projects_flat/electroniccats_faultycat/version_current/working
 projects_folder: projects_folder/ElectronicCats/faultycat/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/faultycat/pulls{/number}
-pushed_at: '2023-07-26T18:39:57Z'
-releases_url: https://api.github.com/repos/ElectronicCats/faultycat/releases{/id}
-size: 4064
-ssh_url: git@github.com:ElectronicCats/faultycat.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/ElectronicCats/faultycat/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/faultycat/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/faultycat/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/faultycat/subscription
-svn_url: https://github.com/ElectronicCats/faultycat
-tags_url: https://api.github.com/repos/ElectronicCats/faultycat/tags
-teams_url: https://api.github.com/repos/ElectronicCats/faultycat/teams
-topics:
-- electromagnetic-fault-injection
-- emfi
-- hardware
-- rp2040
-- security
-- security-tools
-trees_url: https://api.github.com/repos/ElectronicCats/faultycat/git/trees{/sha}
-updated_at: '2023-07-22T15:04:14Z'
-url: https://api.github.com/repos/ElectronicCats/faultycat
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/faultycat/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/faultycat/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/faultycat/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/faultycat/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/faultycat.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/faultycat/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/faultycat/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/faultycat/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/faultycat/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/faultycat/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/faultycat/contributors
+  created_at: '2023-01-25T18:53:08Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/ElectronicCats/faultycat/deployments
+  description: Faulty Cat is a low-cost Electromagnetic Fault Injection (EMFI) tool,
+    designed specifically for self-study and hobbiest research.
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/faultycat/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/faultycat/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ElectronicCats/faultycat/forks
+  full_name: ElectronicCats/faultycat
+  git_commits_url: https://api.github.com/repos/ElectronicCats/faultycat/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/faultycat/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/faultycat/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/faultycat.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ElectronicCats/faultycat/hooks
+  html_url: https://github.com/ElectronicCats/faultycat
+  id: 593328026
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/faultycat/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/faultycat/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/faultycat/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/faultycat/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/faultycat/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ElectronicCats/faultycat/languages
+  license: null
+  merges_url: https://api.github.com/repos/ElectronicCats/faultycat/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/faultycat/milestones{/number}
+  mirror_url: null
+  name: faultycat
+  node_id: R_kgDOI113mg
+  notifications_url: https://api.github.com/repos/ElectronicCats/faultycat/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/faultycat/pulls{/number}
+  pushed_at: '2023-08-04T21:13:59Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/faultycat/releases{/id}
+  size: 4075
+  ssh_url: git@github.com:ElectronicCats/faultycat.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/ElectronicCats/faultycat/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/faultycat/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/faultycat/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/faultycat/subscription
+  svn_url: https://github.com/ElectronicCats/faultycat
+  tags_url: https://api.github.com/repos/ElectronicCats/faultycat/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/faultycat/teams
+  topics:
+  - electromagnetic-fault-injection
+  - emfi
+  - hardware
+  - rp2040
+  - security
+  - security-tools
+  trees_url: https://api.github.com/repos/ElectronicCats/faultycat/git/trees{/sha}
+  updated_at: '2023-07-22T15:04:14Z'
+  url: https://api.github.com/repos/ElectronicCats/faultycat
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: true

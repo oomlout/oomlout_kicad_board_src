@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ebastler/gh80-series/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ebastler/gh80-series/assignees{/user}
-blobs_url: https://api.github.com/repos/ebastler/gh80-series/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ebastler/gh80-series/branches{/branch}
-clone_url: https://github.com/ebastler/gh80-series.git
-collaborators_url: https://api.github.com/repos/ebastler/gh80-series/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ebastler/gh80-series/comments{/number}
-commits_url: https://api.github.com/repos/ebastler/gh80-series/commits{/sha}
-compare_url: https://api.github.com/repos/ebastler/gh80-series/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ebastler/gh80-series/contents/{+path}
-contributors_url: https://api.github.com/repos/ebastler/gh80-series/contributors
-created_at: '2020-10-03T13:58:49Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ebastler/gh80-series/deployments
-description: GH80-1800, GH80-3700 and GH80-3003 by Evy (aka anykeys.eu)
-disabled: false
-downloads_url: https://api.github.com/repos/ebastler/gh80-series/downloads
-events_url: https://api.github.com/repos/ebastler/gh80-series/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ebastler/gh80-series/forks
-full_name: ebastler/gh80-series
-git_commits_url: https://api.github.com/repos/ebastler/gh80-series/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ebastler/gh80-series/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ebastler/gh80-series/git/tags{/sha}
-git_url: git://github.com/ebastler/gh80-series.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ebastler/gh80-series/hooks
-html_url: https://github.com/ebastler/gh80-series
-id: 300892952
-is_template: false
-issue_comment_url: https://api.github.com/repos/ebastler/gh80-series/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ebastler/gh80-series/issues/events{/number}
-issues_url: https://api.github.com/repos/ebastler/gh80-series/issues{/number}
-keys_url: https://api.github.com/repos/ebastler/gh80-series/keys{/key_id}
-labels_url: https://api.github.com/repos/ebastler/gh80-series/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ebastler/gh80-series/languages
-license:
-  key: cc-by-sa-4.0
-  name: Creative Commons Attribution Share Alike 4.0 International
-  node_id: MDc6TGljZW5zZTI2
-  spdx_id: CC-BY-SA-4.0
-  url: https://api.github.com/licenses/cc-by-sa-4.0
-merges_url: https://api.github.com/repos/ebastler/gh80-series/merges
-milestones_url: https://api.github.com/repos/ebastler/gh80-series/milestones{/number}
-mirror_url: null
-name: gh80-series
-node_id: MDEwOlJlcG9zaXRvcnkzMDA4OTI5NTI=
-notifications_url: https://api.github.com/repos/ebastler/gh80-series/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/22500643?v=4
-  events_url: https://api.github.com/users/ebastler/events{/privacy}
-  followers_url: https://api.github.com/users/ebastler/followers
-  following_url: https://api.github.com/users/ebastler/following{/other_user}
-  gists_url: https://api.github.com/users/ebastler/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ebastler
-  id: 22500643
-  login: ebastler
-  node_id: MDQ6VXNlcjIyNTAwNjQz
-  organizations_url: https://api.github.com/users/ebastler/orgs
-  received_events_url: https://api.github.com/users/ebastler/received_events
-  repos_url: https://api.github.com/users/ebastler/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ebastler/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ebastler/subscriptions
-  type: User
-  url: https://api.github.com/users/ebastler
-private: false
+links:
+  github_owner: ebastler
+  github_repo_name: gh80-series
+  github_src: https://github.com/ebastler/gh80-series
+  github_src_repo: https://github.com/ebastler/gh80-series
+  oomp_bot: ebastler_gh80_series
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/ebastler_gh80_series
+  oomp_doc: projects/ebastler_gh80_series/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/ebastler_gh80_series
+  oomp_src_flat: projects_flat/ebastler_gh80_series
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/ebastler_gh80_series
+  oomp_src_folder: projects_folder\ebastler\gh80-series\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ebastler\gh80-series\version_current\working
+oomp_key: oomp_ebastler_gh80_series
+oomp_key_simple: ebastler_gh80_series
 projects_flat: projects_flat/ebastler_gh80_series/version_current/working
 projects_folder: projects_folder/ebastler/gh80-series/version_current/working
-pulls_url: https://api.github.com/repos/ebastler/gh80-series/pulls{/number}
-pushed_at: '2020-10-03T14:05:30Z'
-releases_url: https://api.github.com/repos/ebastler/gh80-series/releases{/id}
-size: 17328
-ssh_url: git@github.com:ebastler/gh80-series.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/ebastler/gh80-series/stargazers
-statuses_url: https://api.github.com/repos/ebastler/gh80-series/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ebastler/gh80-series/subscribers
-subscription_url: https://api.github.com/repos/ebastler/gh80-series/subscription
-svn_url: https://github.com/ebastler/gh80-series
-tags_url: https://api.github.com/repos/ebastler/gh80-series/tags
-teams_url: https://api.github.com/repos/ebastler/gh80-series/teams
-topics: []
-trees_url: https://api.github.com/repos/ebastler/gh80-series/git/trees{/sha}
-updated_at: '2022-11-23T23:32:01Z'
-url: https://api.github.com/repos/ebastler/gh80-series
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ebastler/gh80-series/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ebastler/gh80-series/assignees{/user}
+  blobs_url: https://api.github.com/repos/ebastler/gh80-series/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ebastler/gh80-series/branches{/branch}
+  clone_url: https://github.com/ebastler/gh80-series.git
+  collaborators_url: https://api.github.com/repos/ebastler/gh80-series/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ebastler/gh80-series/comments{/number}
+  commits_url: https://api.github.com/repos/ebastler/gh80-series/commits{/sha}
+  compare_url: https://api.github.com/repos/ebastler/gh80-series/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ebastler/gh80-series/contents/{+path}
+  contributors_url: https://api.github.com/repos/ebastler/gh80-series/contributors
+  created_at: '2020-10-03T13:58:49Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ebastler/gh80-series/deployments
+  description: GH80-1800, GH80-3700 and GH80-3003 by Evy (aka anykeys.eu)
+  disabled: false
+  downloads_url: https://api.github.com/repos/ebastler/gh80-series/downloads
+  events_url: https://api.github.com/repos/ebastler/gh80-series/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ebastler/gh80-series/forks
+  full_name: ebastler/gh80-series
+  git_commits_url: https://api.github.com/repos/ebastler/gh80-series/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ebastler/gh80-series/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ebastler/gh80-series/git/tags{/sha}
+  git_url: git://github.com/ebastler/gh80-series.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ebastler/gh80-series/hooks
+  html_url: https://github.com/ebastler/gh80-series
+  id: 300892952
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ebastler/gh80-series/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ebastler/gh80-series/issues/events{/number}
+  issues_url: https://api.github.com/repos/ebastler/gh80-series/issues{/number}
+  keys_url: https://api.github.com/repos/ebastler/gh80-series/keys{/key_id}
+  labels_url: https://api.github.com/repos/ebastler/gh80-series/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ebastler/gh80-series/languages
+  license:
+    key: cc-by-sa-4.0
+    name: Creative Commons Attribution Share Alike 4.0 International
+    node_id: MDc6TGljZW5zZTI2
+    spdx_id: CC-BY-SA-4.0
+    url: https://api.github.com/licenses/cc-by-sa-4.0
+  merges_url: https://api.github.com/repos/ebastler/gh80-series/merges
+  milestones_url: https://api.github.com/repos/ebastler/gh80-series/milestones{/number}
+  mirror_url: null
+  name: gh80-series
+  node_id: MDEwOlJlcG9zaXRvcnkzMDA4OTI5NTI=
+  notifications_url: https://api.github.com/repos/ebastler/gh80-series/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/22500643?v=4
+    events_url: https://api.github.com/users/ebastler/events{/privacy}
+    followers_url: https://api.github.com/users/ebastler/followers
+    following_url: https://api.github.com/users/ebastler/following{/other_user}
+    gists_url: https://api.github.com/users/ebastler/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ebastler
+    id: 22500643
+    login: ebastler
+    node_id: MDQ6VXNlcjIyNTAwNjQz
+    organizations_url: https://api.github.com/users/ebastler/orgs
+    received_events_url: https://api.github.com/users/ebastler/received_events
+    repos_url: https://api.github.com/users/ebastler/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ebastler/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ebastler/subscriptions
+    type: User
+    url: https://api.github.com/users/ebastler
+  private: false
+  pulls_url: https://api.github.com/repos/ebastler/gh80-series/pulls{/number}
+  pushed_at: '2020-10-03T14:05:30Z'
+  releases_url: https://api.github.com/repos/ebastler/gh80-series/releases{/id}
+  size: 17328
+  ssh_url: git@github.com:ebastler/gh80-series.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/ebastler/gh80-series/stargazers
+  statuses_url: https://api.github.com/repos/ebastler/gh80-series/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ebastler/gh80-series/subscribers
+  subscription_url: https://api.github.com/repos/ebastler/gh80-series/subscription
+  svn_url: https://github.com/ebastler/gh80-series
+  tags_url: https://api.github.com/repos/ebastler/gh80-series/tags
+  teams_url: https://api.github.com/repos/ebastler/gh80-series/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ebastler/gh80-series/git/trees{/sha}
+  updated_at: '2022-11-23T23:32:01Z'
+  url: https://api.github.com/repos/ebastler/gh80-series
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

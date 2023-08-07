@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/assignees{/user}
-blobs_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/git/blobs{/sha}
-branches_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/branches{/branch}
-clone_url: https://github.com/barafael/nucleo-stmorpho-kicad.git
-collaborators_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/comments{/number}
-commits_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/commits{/sha}
-compare_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/compare/{base}...{head}
-contents_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/contents/{+path}
-contributors_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/contributors
-created_at: '2019-11-09T10:18:26Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/downloads
-events_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/forks
-full_name: barafael/nucleo-stmorpho-kicad
-git_commits_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/git/tags{/sha}
-git_url: git://github.com/barafael/nucleo-stmorpho-kicad.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/hooks
-html_url: https://github.com/barafael/nucleo-stmorpho-kicad
-id: 220625121
-is_template: false
-issue_comment_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/issues/events{/number}
-issues_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/issues{/number}
-keys_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/keys{/key_id}
-labels_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/merges
-milestones_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/milestones{/number}
-mirror_url: null
-name: nucleo-stmorpho-kicad
-node_id: MDEwOlJlcG9zaXRvcnkyMjA2MjUxMjE=
-notifications_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6966738?v=4
-  events_url: https://api.github.com/users/barafael/events{/privacy}
-  followers_url: https://api.github.com/users/barafael/followers
-  following_url: https://api.github.com/users/barafael/following{/other_user}
-  gists_url: https://api.github.com/users/barafael/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/barafael
-  id: 6966738
-  login: barafael
-  node_id: MDQ6VXNlcjY5NjY3Mzg=
-  organizations_url: https://api.github.com/users/barafael/orgs
-  received_events_url: https://api.github.com/users/barafael/received_events
-  repos_url: https://api.github.com/users/barafael/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/barafael/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/barafael/subscriptions
-  type: User
-  url: https://api.github.com/users/barafael
-private: false
+links:
+  github_owner: barafael
+  github_repo_name: nucleo-stmorpho-kicad
+  github_src: https://github.com/barafael/nucleo-stmorpho-kicad
+  github_src_repo: https://github.com/barafael/nucleo-stmorpho-kicad
+  oomp_bot: barafael_nucleo_stmorpho_kicad
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/barafael_nucleo_stmorpho_kicad
+  oomp_doc: projects/barafael_nucleo_stmorpho_kicad/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/barafael_nucleo_stmorpho_kicad
+  oomp_src_flat: projects_flat/barafael_nucleo_stmorpho_kicad
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/barafael_nucleo_stmorpho_kicad
+  oomp_src_folder: projects_folder\barafael\nucleo-stmorpho-kicad\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\barafael\nucleo-stmorpho-kicad\version_current\working
+oomp_key: oomp_barafael_nucleo_stmorpho_kicad
+oomp_key_simple: barafael_nucleo_stmorpho_kicad
 projects_flat: projects_flat/barafael_nucleo_stmorpho_kicad/version_current/working
 projects_folder: projects_folder/barafael/nucleo-stmorpho-kicad/version_current/working
-pulls_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/pulls{/number}
-pushed_at: '2019-11-09T10:21:47Z'
-releases_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/releases{/id}
-size: 7
-ssh_url: git@github.com:barafael/nucleo-stmorpho-kicad.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/stargazers
-statuses_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/statuses/{sha}
-subscribers_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/subscribers
-subscription_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/subscription
-svn_url: https://github.com/barafael/nucleo-stmorpho-kicad
-tags_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/tags
-teams_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/teams
-topics: []
-trees_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/git/trees{/sha}
-updated_at: '2019-11-09T10:21:49Z'
-url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/assignees{/user}
+  blobs_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/branches{/branch}
+  clone_url: https://github.com/barafael/nucleo-stmorpho-kicad.git
+  collaborators_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/comments{/number}
+  commits_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/commits{/sha}
+  compare_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/contents/{+path}
+  contributors_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/contributors
+  created_at: '2019-11-09T10:18:26Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/downloads
+  events_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/forks
+  full_name: barafael/nucleo-stmorpho-kicad
+  git_commits_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/git/tags{/sha}
+  git_url: git://github.com/barafael/nucleo-stmorpho-kicad.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/hooks
+  html_url: https://github.com/barafael/nucleo-stmorpho-kicad
+  id: 220625121
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/issues/events{/number}
+  issues_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/issues{/number}
+  keys_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/keys{/key_id}
+  labels_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/merges
+  milestones_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/milestones{/number}
+  mirror_url: null
+  name: nucleo-stmorpho-kicad
+  node_id: MDEwOlJlcG9zaXRvcnkyMjA2MjUxMjE=
+  notifications_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6966738?v=4
+    events_url: https://api.github.com/users/barafael/events{/privacy}
+    followers_url: https://api.github.com/users/barafael/followers
+    following_url: https://api.github.com/users/barafael/following{/other_user}
+    gists_url: https://api.github.com/users/barafael/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/barafael
+    id: 6966738
+    login: barafael
+    node_id: MDQ6VXNlcjY5NjY3Mzg=
+    organizations_url: https://api.github.com/users/barafael/orgs
+    received_events_url: https://api.github.com/users/barafael/received_events
+    repos_url: https://api.github.com/users/barafael/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/barafael/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/barafael/subscriptions
+    type: User
+    url: https://api.github.com/users/barafael
+  private: false
+  pulls_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/pulls{/number}
+  pushed_at: '2019-11-09T10:21:47Z'
+  releases_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/releases{/id}
+  size: 7
+  ssh_url: git@github.com:barafael/nucleo-stmorpho-kicad.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/stargazers
+  statuses_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/subscribers
+  subscription_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/subscription
+  svn_url: https://github.com/barafael/nucleo-stmorpho-kicad
+  tags_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/tags
+  teams_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/teams
+  topics: []
+  trees_url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad/git/trees{/sha}
+  updated_at: '2019-11-09T10:21:49Z'
+  url: https://api.github.com/repos/barafael/nucleo-stmorpho-kicad
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

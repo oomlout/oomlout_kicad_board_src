@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adamjvr/AudioExperiments/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adamjvr/AudioExperiments/assignees{/user}
-blobs_url: https://api.github.com/repos/adamjvr/AudioExperiments/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adamjvr/AudioExperiments/branches{/branch}
-clone_url: https://github.com/adamjvr/AudioExperiments.git
-collaborators_url: https://api.github.com/repos/adamjvr/AudioExperiments/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adamjvr/AudioExperiments/comments{/number}
-commits_url: https://api.github.com/repos/adamjvr/AudioExperiments/commits{/sha}
-compare_url: https://api.github.com/repos/adamjvr/AudioExperiments/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adamjvr/AudioExperiments/contents/{+path}
-contributors_url: https://api.github.com/repos/adamjvr/AudioExperiments/contributors
-created_at: '2016-05-06T00:37:47Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adamjvr/AudioExperiments/deployments
-description: Audio Circuit Experiments, mostly two layer audio thingys..................
-disabled: false
-downloads_url: https://api.github.com/repos/adamjvr/AudioExperiments/downloads
-events_url: https://api.github.com/repos/adamjvr/AudioExperiments/events
 file_sch_flat: projects_flat/adamjvr_audioexperiments/version_current/working/working.sch
 file_sch_folder: projects_folder/adamjvr/AudioExperiments/version_current/working/working.sch
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/adamjvr/AudioExperiments/forks
-full_name: adamjvr/AudioExperiments
-git_commits_url: https://api.github.com/repos/adamjvr/AudioExperiments/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adamjvr/AudioExperiments/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adamjvr/AudioExperiments/git/tags{/sha}
-git_url: git://github.com/adamjvr/AudioExperiments.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adamjvr/AudioExperiments/hooks
-html_url: https://github.com/adamjvr/AudioExperiments
-id: 58169383
-is_template: false
-issue_comment_url: https://api.github.com/repos/adamjvr/AudioExperiments/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adamjvr/AudioExperiments/issues/events{/number}
-issues_url: https://api.github.com/repos/adamjvr/AudioExperiments/issues{/number}
-keys_url: https://api.github.com/repos/adamjvr/AudioExperiments/keys{/key_id}
-labels_url: https://api.github.com/repos/adamjvr/AudioExperiments/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adamjvr/AudioExperiments/languages
-license: null
-merges_url: https://api.github.com/repos/adamjvr/AudioExperiments/merges
-milestones_url: https://api.github.com/repos/adamjvr/AudioExperiments/milestones{/number}
-mirror_url: null
-name: AudioExperiments
-node_id: MDEwOlJlcG9zaXRvcnk1ODE2OTM4Mw==
-notifications_url: https://api.github.com/repos/adamjvr/AudioExperiments/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
-  events_url: https://api.github.com/users/adamjvr/events{/privacy}
-  followers_url: https://api.github.com/users/adamjvr/followers
-  following_url: https://api.github.com/users/adamjvr/following{/other_user}
-  gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adamjvr
-  id: 3782102
-  login: adamjvr
-  node_id: MDQ6VXNlcjM3ODIxMDI=
-  organizations_url: https://api.github.com/users/adamjvr/orgs
-  received_events_url: https://api.github.com/users/adamjvr/received_events
-  repos_url: https://api.github.com/users/adamjvr/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
-  type: User
-  url: https://api.github.com/users/adamjvr
-private: false
+links:
+  github_owner: adamjvr
+  github_repo_name: AudioExperiments
+  github_src: https://github.com/adamjvr/AudioExperiments
+  github_src_repo: https://github.com/adamjvr/AudioExperiments
+  oomp_bot: adamjvr_audioexperiments
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adamjvr_audioexperiments
+  oomp_doc: projects/adamjvr_audioexperiments/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adamjvr_audioexperiments
+  oomp_src_flat: projects_flat/adamjvr_audioexperiments
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adamjvr_audioexperiments
+  oomp_src_folder: projects_folder\adamjvr\AudioExperiments\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adamjvr\AudioExperiments\version_current\working
+oomp_key: oomp_adamjvr_audioexperiments
+oomp_key_simple: adamjvr_audioexperiments
 projects_flat: projects_flat/adamjvr_audioexperiments/version_current/working
 projects_folder: projects_folder/adamjvr/AudioExperiments/version_current/working
-pulls_url: https://api.github.com/repos/adamjvr/AudioExperiments/pulls{/number}
-pushed_at: '2019-11-30T07:39:07Z'
-releases_url: https://api.github.com/repos/adamjvr/AudioExperiments/releases{/id}
-size: 5306
-ssh_url: git@github.com:adamjvr/AudioExperiments.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/adamjvr/AudioExperiments/stargazers
-statuses_url: https://api.github.com/repos/adamjvr/AudioExperiments/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adamjvr/AudioExperiments/subscribers
-subscription_url: https://api.github.com/repos/adamjvr/AudioExperiments/subscription
-svn_url: https://github.com/adamjvr/AudioExperiments
-tags_url: https://api.github.com/repos/adamjvr/AudioExperiments/tags
-teams_url: https://api.github.com/repos/adamjvr/AudioExperiments/teams
-topics: []
-trees_url: https://api.github.com/repos/adamjvr/AudioExperiments/git/trees{/sha}
-updated_at: '2020-08-11T20:40:35Z'
-url: https://api.github.com/repos/adamjvr/AudioExperiments
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adamjvr/AudioExperiments/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adamjvr/AudioExperiments/assignees{/user}
+  blobs_url: https://api.github.com/repos/adamjvr/AudioExperiments/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adamjvr/AudioExperiments/branches{/branch}
+  clone_url: https://github.com/adamjvr/AudioExperiments.git
+  collaborators_url: https://api.github.com/repos/adamjvr/AudioExperiments/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adamjvr/AudioExperiments/comments{/number}
+  commits_url: https://api.github.com/repos/adamjvr/AudioExperiments/commits{/sha}
+  compare_url: https://api.github.com/repos/adamjvr/AudioExperiments/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adamjvr/AudioExperiments/contents/{+path}
+  contributors_url: https://api.github.com/repos/adamjvr/AudioExperiments/contributors
+  created_at: '2016-05-06T00:37:47Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adamjvr/AudioExperiments/deployments
+  description: Audio Circuit Experiments, mostly two layer audio thingys..................
+  disabled: false
+  downloads_url: https://api.github.com/repos/adamjvr/AudioExperiments/downloads
+  events_url: https://api.github.com/repos/adamjvr/AudioExperiments/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/adamjvr/AudioExperiments/forks
+  full_name: adamjvr/AudioExperiments
+  git_commits_url: https://api.github.com/repos/adamjvr/AudioExperiments/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adamjvr/AudioExperiments/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adamjvr/AudioExperiments/git/tags{/sha}
+  git_url: git://github.com/adamjvr/AudioExperiments.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adamjvr/AudioExperiments/hooks
+  html_url: https://github.com/adamjvr/AudioExperiments
+  id: 58169383
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adamjvr/AudioExperiments/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adamjvr/AudioExperiments/issues/events{/number}
+  issues_url: https://api.github.com/repos/adamjvr/AudioExperiments/issues{/number}
+  keys_url: https://api.github.com/repos/adamjvr/AudioExperiments/keys{/key_id}
+  labels_url: https://api.github.com/repos/adamjvr/AudioExperiments/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adamjvr/AudioExperiments/languages
+  license: null
+  merges_url: https://api.github.com/repos/adamjvr/AudioExperiments/merges
+  milestones_url: https://api.github.com/repos/adamjvr/AudioExperiments/milestones{/number}
+  mirror_url: null
+  name: AudioExperiments
+  node_id: MDEwOlJlcG9zaXRvcnk1ODE2OTM4Mw==
+  notifications_url: https://api.github.com/repos/adamjvr/AudioExperiments/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
+    events_url: https://api.github.com/users/adamjvr/events{/privacy}
+    followers_url: https://api.github.com/users/adamjvr/followers
+    following_url: https://api.github.com/users/adamjvr/following{/other_user}
+    gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adamjvr
+    id: 3782102
+    login: adamjvr
+    node_id: MDQ6VXNlcjM3ODIxMDI=
+    organizations_url: https://api.github.com/users/adamjvr/orgs
+    received_events_url: https://api.github.com/users/adamjvr/received_events
+    repos_url: https://api.github.com/users/adamjvr/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
+    type: User
+    url: https://api.github.com/users/adamjvr
+  private: false
+  pulls_url: https://api.github.com/repos/adamjvr/AudioExperiments/pulls{/number}
+  pushed_at: '2019-11-30T07:39:07Z'
+  releases_url: https://api.github.com/repos/adamjvr/AudioExperiments/releases{/id}
+  size: 5306
+  ssh_url: git@github.com:adamjvr/AudioExperiments.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/adamjvr/AudioExperiments/stargazers
+  statuses_url: https://api.github.com/repos/adamjvr/AudioExperiments/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adamjvr/AudioExperiments/subscribers
+  subscription_url: https://api.github.com/repos/adamjvr/AudioExperiments/subscription
+  svn_url: https://github.com/adamjvr/AudioExperiments
+  tags_url: https://api.github.com/repos/adamjvr/AudioExperiments/tags
+  teams_url: https://api.github.com/repos/adamjvr/AudioExperiments/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adamjvr/AudioExperiments/git/trees{/sha}
+  updated_at: '2020-08-11T20:40:35Z'
+  url: https://api.github.com/repos/adamjvr/AudioExperiments
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

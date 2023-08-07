@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/assignees{/user}
-blobs_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/git/blobs{/sha}
-branches_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/branches{/branch}
-clone_url: https://github.com/mkleinschmidt/Battlab-One.git
-collaborators_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/comments{/number}
-commits_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/commits{/sha}
-compare_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/compare/{base}...{head}
-contents_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/contents/{+path}
-contributors_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/contributors
-created_at: '2020-08-25T09:31:44Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/deployments
-description: 'A New Tool for Estimating and Optimizing Battery Life for Your Next
-  Internet of Things Project '
-disabled: false
-downloads_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/downloads
-events_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/forks
-full_name: mkleinschmidt/Battlab-One
-git_commits_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/git/tags{/sha}
-git_url: git://github.com/mkleinschmidt/Battlab-One.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/hooks
-html_url: https://github.com/mkleinschmidt/Battlab-One
-id: 290172952
-is_template: false
-issue_comment_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/issues/events{/number}
-issues_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/issues{/number}
-keys_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/keys{/key_id}
-labels_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/languages
-license: null
-merges_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/merges
-milestones_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/milestones{/number}
-mirror_url: null
-name: Battlab-One
-node_id: MDEwOlJlcG9zaXRvcnkyOTAxNzI5NTI=
-notifications_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1336384?v=4
-  events_url: https://api.github.com/users/mkleinschmidt/events{/privacy}
-  followers_url: https://api.github.com/users/mkleinschmidt/followers
-  following_url: https://api.github.com/users/mkleinschmidt/following{/other_user}
-  gists_url: https://api.github.com/users/mkleinschmidt/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/mkleinschmidt
-  id: 1336384
-  login: mkleinschmidt
-  node_id: MDQ6VXNlcjEzMzYzODQ=
-  organizations_url: https://api.github.com/users/mkleinschmidt/orgs
-  received_events_url: https://api.github.com/users/mkleinschmidt/received_events
-  repos_url: https://api.github.com/users/mkleinschmidt/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/mkleinschmidt/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/mkleinschmidt/subscriptions
-  type: User
-  url: https://api.github.com/users/mkleinschmidt
-private: false
+links:
+  github_owner: mkleinschmidt
+  github_repo_name: Battlab-One
+  github_src: https://github.com/mkleinschmidt/Battlab-One
+  github_src_repo: https://github.com/mkleinschmidt/Battlab-One
+  oomp_bot: mkleinschmidt_battlab_one
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/mkleinschmidt_battlab_one
+  oomp_doc: projects/mkleinschmidt_battlab_one/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/mkleinschmidt_battlab_one
+  oomp_src_flat: projects_flat/mkleinschmidt_battlab_one
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/mkleinschmidt_battlab_one
+  oomp_src_folder: projects_folder\mkleinschmidt\Battlab-One\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\mkleinschmidt\Battlab-One\version_current\working
+oomp_key: oomp_mkleinschmidt_battlab_one
+oomp_key_simple: mkleinschmidt_battlab_one
 projects_flat: projects_flat/mkleinschmidt_battlab_one/version_current/working
 projects_folder: projects_folder/mkleinschmidt/Battlab-One/version_current/working
-pulls_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/pulls{/number}
-pushed_at: '2020-08-23T14:09:42Z'
-releases_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/releases{/id}
-size: 10746
-ssh_url: git@github.com:mkleinschmidt/Battlab-One.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/stargazers
-statuses_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/statuses/{sha}
-subscribers_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/subscribers
-subscription_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/subscription
-svn_url: https://github.com/mkleinschmidt/Battlab-One
-tags_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/tags
-teams_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/teams
-topics: []
-trees_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/git/trees{/sha}
-updated_at: '2020-08-25T09:31:46Z'
-url: https://api.github.com/repos/mkleinschmidt/Battlab-One
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/assignees{/user}
+  blobs_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/branches{/branch}
+  clone_url: https://github.com/mkleinschmidt/Battlab-One.git
+  collaborators_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/comments{/number}
+  commits_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/commits{/sha}
+  compare_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/contents/{+path}
+  contributors_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/contributors
+  created_at: '2020-08-25T09:31:44Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/deployments
+  description: 'A New Tool for Estimating and Optimizing Battery Life for Your Next
+    Internet of Things Project '
+  disabled: false
+  downloads_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/downloads
+  events_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/forks
+  full_name: mkleinschmidt/Battlab-One
+  git_commits_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/git/tags{/sha}
+  git_url: git://github.com/mkleinschmidt/Battlab-One.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/hooks
+  html_url: https://github.com/mkleinschmidt/Battlab-One
+  id: 290172952
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/issues/events{/number}
+  issues_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/issues{/number}
+  keys_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/keys{/key_id}
+  labels_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/languages
+  license: null
+  merges_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/merges
+  milestones_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/milestones{/number}
+  mirror_url: null
+  name: Battlab-One
+  node_id: MDEwOlJlcG9zaXRvcnkyOTAxNzI5NTI=
+  notifications_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1336384?v=4
+    events_url: https://api.github.com/users/mkleinschmidt/events{/privacy}
+    followers_url: https://api.github.com/users/mkleinschmidt/followers
+    following_url: https://api.github.com/users/mkleinschmidt/following{/other_user}
+    gists_url: https://api.github.com/users/mkleinschmidt/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/mkleinschmidt
+    id: 1336384
+    login: mkleinschmidt
+    node_id: MDQ6VXNlcjEzMzYzODQ=
+    organizations_url: https://api.github.com/users/mkleinschmidt/orgs
+    received_events_url: https://api.github.com/users/mkleinschmidt/received_events
+    repos_url: https://api.github.com/users/mkleinschmidt/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/mkleinschmidt/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/mkleinschmidt/subscriptions
+    type: User
+    url: https://api.github.com/users/mkleinschmidt
+  private: false
+  pulls_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/pulls{/number}
+  pushed_at: '2020-08-23T14:09:42Z'
+  releases_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/releases{/id}
+  size: 10746
+  ssh_url: git@github.com:mkleinschmidt/Battlab-One.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/stargazers
+  statuses_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/subscribers
+  subscription_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/subscription
+  svn_url: https://github.com/mkleinschmidt/Battlab-One
+  tags_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/tags
+  teams_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/teams
+  topics: []
+  trees_url: https://api.github.com/repos/mkleinschmidt/Battlab-One/git/trees{/sha}
+  updated_at: '2020-08-25T09:31:46Z'
+  url: https://api.github.com/repos/mkleinschmidt/Battlab-One
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

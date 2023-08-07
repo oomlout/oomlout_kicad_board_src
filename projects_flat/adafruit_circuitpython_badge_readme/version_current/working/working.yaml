@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/branches{/branch}
-clone_url: https://github.com/adafruit/CircuitPython_Badge_README.git
-collaborators_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/contributors
-created_at: '2018-10-16T17:58:26Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/deployments
-description: A template README file for including with CircuitPython badges.
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/downloads
-events_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/forks
-full_name: adafruit/CircuitPython_Badge_README
-git_commits_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/git/tags{/sha}
-git_url: git://github.com/adafruit/CircuitPython_Badge_README.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: false
-has_wiki: false
-homepage: null
-hooks_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/hooks
-html_url: https://github.com/adafruit/CircuitPython_Badge_README
-id: 153330508
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/labels{/name}
-language: Python
-languages_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/languages
-license: null
-merges_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/merges
-milestones_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/milestones{/number}
-mirror_url: null
-name: CircuitPython_Badge_README
-node_id: MDEwOlJlcG9zaXRvcnkxNTMzMzA1MDg=
-notifications_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: CircuitPython_Badge_README
+  github_src: https://github.com/adafruit/CircuitPython_Badge_README
+  github_src_repo: https://github.com/adafruit/CircuitPython_Badge_README
+  oomp_bot: projects_adafruit_circuitpython_badge_readme
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_adafruit_circuitpython_badge_readme
+  oomp_doc: projects/projects_flat_adafruit_circuitpython_badge_readme/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_adafruit_circuitpython_badge_readme
+  oomp_src_flat: projects_flat/projects_flat_adafruit_circuitpython_badge_readme
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_adafruit_circuitpython_badge_readme
+  oomp_src_folder: projects_flat\adafruit_circuitpython_badge_readme\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_circuitpython_badge_readme\version_current\working
+oomp_key: oomp_projects_flat_adafruit_circuitpython_badge_readme
+oomp_key_simple: projects_flat_adafruit_circuitpython_badge_readme
 projects_flat: projects_flat/adafruit_circuitpython_badge_readme/version_current/working
 projects_folder: projects_folder/adafruit/CircuitPython_Badge_README/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/pulls{/number}
-pushed_at: '2021-02-02T19:13:08Z'
-releases_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/releases{/id}
-size: 39312
-ssh_url: git@github.com:adafruit/CircuitPython_Badge_README.git
-stargazers_count: 9
-stargazers_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/stargazers
-statuses_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/subscribers
-subscription_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/subscription
-svn_url: https://github.com/adafruit/CircuitPython_Badge_README
-tags_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/tags
-teams_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/git/trees{/sha}
-updated_at: '2021-02-01T03:17:49Z'
-url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README
-visibility: public
-watchers: 9
-watchers_count: 9
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/branches{/branch}
+  clone_url: https://github.com/adafruit/CircuitPython_Badge_README.git
+  collaborators_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/contributors
+  created_at: '2018-10-16T17:58:26Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/deployments
+  description: A template README file for including with CircuitPython badges.
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/downloads
+  events_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/forks
+  full_name: adafruit/CircuitPython_Badge_README
+  git_commits_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/git/tags{/sha}
+  git_url: git://github.com/adafruit/CircuitPython_Badge_README.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: false
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/hooks
+  html_url: https://github.com/adafruit/CircuitPython_Badge_README
+  id: 153330508
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/labels{/name}
+  language: Python
+  languages_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/languages
+  license: null
+  merges_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/merges
+  milestones_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/milestones{/number}
+  mirror_url: null
+  name: CircuitPython_Badge_README
+  node_id: MDEwOlJlcG9zaXRvcnkxNTMzMzA1MDg=
+  notifications_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/pulls{/number}
+  pushed_at: '2021-02-02T19:13:08Z'
+  releases_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/releases{/id}
+  size: 39312
+  ssh_url: git@github.com:adafruit/CircuitPython_Badge_README.git
+  stargazers_count: 9
+  stargazers_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/subscription
+  svn_url: https://github.com/adafruit/CircuitPython_Badge_README
+  tags_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/tags
+  teams_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README/git/trees{/sha}
+  updated_at: '2021-02-01T03:17:49Z'
+  url: https://api.github.com/repos/adafruit/CircuitPython_Badge_README
+  visibility: public
+  watchers: 9
+  watchers_count: 9
+  web_commit_signoff_required: false

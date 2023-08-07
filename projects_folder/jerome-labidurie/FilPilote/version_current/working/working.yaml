@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/jerome-labidurie/FilPilote/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/jerome-labidurie/FilPilote/assignees{/user}
-blobs_url: https://api.github.com/repos/jerome-labidurie/FilPilote/git/blobs{/sha}
-branches_url: https://api.github.com/repos/jerome-labidurie/FilPilote/branches{/branch}
-clone_url: https://github.com/jerome-labidurie/FilPilote.git
-collaborators_url: https://api.github.com/repos/jerome-labidurie/FilPilote/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/jerome-labidurie/FilPilote/comments{/number}
-commits_url: https://api.github.com/repos/jerome-labidurie/FilPilote/commits{/sha}
-compare_url: https://api.github.com/repos/jerome-labidurie/FilPilote/compare/{base}...{head}
-contents_url: https://api.github.com/repos/jerome-labidurie/FilPilote/contents/{+path}
-contributors_url: https://api.github.com/repos/jerome-labidurie/FilPilote/contributors
-created_at: '2015-09-20T17:14:07Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/jerome-labidurie/FilPilote/deployments
-description: "Interface de contr\xF4le du chauffage par Fil Pilote"
-disabled: false
-downloads_url: https://api.github.com/repos/jerome-labidurie/FilPilote/downloads
-events_url: https://api.github.com/repos/jerome-labidurie/FilPilote/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/jerome-labidurie/FilPilote/forks
-full_name: jerome-labidurie/FilPilote
-git_commits_url: https://api.github.com/repos/jerome-labidurie/FilPilote/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/jerome-labidurie/FilPilote/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/jerome-labidurie/FilPilote/git/tags{/sha}
-git_url: git://github.com/jerome-labidurie/FilPilote.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: http://dinask.eu/hardware/filpilote/
-hooks_url: https://api.github.com/repos/jerome-labidurie/FilPilote/hooks
-html_url: https://github.com/jerome-labidurie/FilPilote
-id: 42821718
-is_template: false
-issue_comment_url: https://api.github.com/repos/jerome-labidurie/FilPilote/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/jerome-labidurie/FilPilote/issues/events{/number}
-issues_url: https://api.github.com/repos/jerome-labidurie/FilPilote/issues{/number}
-keys_url: https://api.github.com/repos/jerome-labidurie/FilPilote/keys{/key_id}
-labels_url: https://api.github.com/repos/jerome-labidurie/FilPilote/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/jerome-labidurie/FilPilote/languages
-license:
-  key: gpl-2.0
-  name: GNU General Public License v2.0
-  node_id: MDc6TGljZW5zZTg=
-  spdx_id: GPL-2.0
-  url: https://api.github.com/licenses/gpl-2.0
-merges_url: https://api.github.com/repos/jerome-labidurie/FilPilote/merges
-milestones_url: https://api.github.com/repos/jerome-labidurie/FilPilote/milestones{/number}
-mirror_url: null
-name: FilPilote
-node_id: MDEwOlJlcG9zaXRvcnk0MjgyMTcxOA==
-notifications_url: https://api.github.com/repos/jerome-labidurie/FilPilote/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3443155?v=4
-  events_url: https://api.github.com/users/jerome-labidurie/events{/privacy}
-  followers_url: https://api.github.com/users/jerome-labidurie/followers
-  following_url: https://api.github.com/users/jerome-labidurie/following{/other_user}
-  gists_url: https://api.github.com/users/jerome-labidurie/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/jerome-labidurie
-  id: 3443155
-  login: jerome-labidurie
-  node_id: MDQ6VXNlcjM0NDMxNTU=
-  organizations_url: https://api.github.com/users/jerome-labidurie/orgs
-  received_events_url: https://api.github.com/users/jerome-labidurie/received_events
-  repos_url: https://api.github.com/users/jerome-labidurie/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/jerome-labidurie/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/jerome-labidurie/subscriptions
-  type: User
-  url: https://api.github.com/users/jerome-labidurie
-private: false
+links:
+  github_owner: jerome-labidurie
+  github_repo_name: FilPilote
+  github_src: https://github.com/jerome-labidurie/FilPilote
+  github_src_repo: https://github.com/jerome-labidurie/FilPilote
+  oomp_bot: jerome_labidurie_filpilote
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/jerome_labidurie_filpilote
+  oomp_doc: projects/jerome_labidurie_filpilote/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/jerome_labidurie_filpilote
+  oomp_src_flat: projects_flat/jerome_labidurie_filpilote
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/jerome_labidurie_filpilote
+  oomp_src_folder: projects_folder\jerome-labidurie\FilPilote\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\jerome-labidurie\FilPilote\version_current\working
+oomp_key: oomp_jerome_labidurie_filpilote
+oomp_key_simple: jerome_labidurie_filpilote
 projects_flat: projects_flat/jerome_labidurie_filpilote/version_current/working
 projects_folder: projects_folder/jerome-labidurie/FilPilote/version_current/working
-pulls_url: https://api.github.com/repos/jerome-labidurie/FilPilote/pulls{/number}
-pushed_at: '2020-09-15T12:54:53Z'
-releases_url: https://api.github.com/repos/jerome-labidurie/FilPilote/releases{/id}
-size: 1580
-ssh_url: git@github.com:jerome-labidurie/FilPilote.git
-stargazers_count: 7
-stargazers_url: https://api.github.com/repos/jerome-labidurie/FilPilote/stargazers
-statuses_url: https://api.github.com/repos/jerome-labidurie/FilPilote/statuses/{sha}
-subscribers_url: https://api.github.com/repos/jerome-labidurie/FilPilote/subscribers
-subscription_url: https://api.github.com/repos/jerome-labidurie/FilPilote/subscription
-svn_url: https://github.com/jerome-labidurie/FilPilote
-tags_url: https://api.github.com/repos/jerome-labidurie/FilPilote/tags
-teams_url: https://api.github.com/repos/jerome-labidurie/FilPilote/teams
-topics: []
-trees_url: https://api.github.com/repos/jerome-labidurie/FilPilote/git/trees{/sha}
-updated_at: '2022-12-20T10:41:52Z'
-url: https://api.github.com/repos/jerome-labidurie/FilPilote
-visibility: public
-watchers: 7
-watchers_count: 7
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/jerome-labidurie/FilPilote/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/jerome-labidurie/FilPilote/assignees{/user}
+  blobs_url: https://api.github.com/repos/jerome-labidurie/FilPilote/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/jerome-labidurie/FilPilote/branches{/branch}
+  clone_url: https://github.com/jerome-labidurie/FilPilote.git
+  collaborators_url: https://api.github.com/repos/jerome-labidurie/FilPilote/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/jerome-labidurie/FilPilote/comments{/number}
+  commits_url: https://api.github.com/repos/jerome-labidurie/FilPilote/commits{/sha}
+  compare_url: https://api.github.com/repos/jerome-labidurie/FilPilote/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/jerome-labidurie/FilPilote/contents/{+path}
+  contributors_url: https://api.github.com/repos/jerome-labidurie/FilPilote/contributors
+  created_at: '2015-09-20T17:14:07Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/jerome-labidurie/FilPilote/deployments
+  description: "Interface de contr\xF4le du chauffage par Fil Pilote"
+  disabled: false
+  downloads_url: https://api.github.com/repos/jerome-labidurie/FilPilote/downloads
+  events_url: https://api.github.com/repos/jerome-labidurie/FilPilote/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/jerome-labidurie/FilPilote/forks
+  full_name: jerome-labidurie/FilPilote
+  git_commits_url: https://api.github.com/repos/jerome-labidurie/FilPilote/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/jerome-labidurie/FilPilote/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/jerome-labidurie/FilPilote/git/tags{/sha}
+  git_url: git://github.com/jerome-labidurie/FilPilote.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: http://dinask.eu/hardware/filpilote/
+  hooks_url: https://api.github.com/repos/jerome-labidurie/FilPilote/hooks
+  html_url: https://github.com/jerome-labidurie/FilPilote
+  id: 42821718
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/jerome-labidurie/FilPilote/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/jerome-labidurie/FilPilote/issues/events{/number}
+  issues_url: https://api.github.com/repos/jerome-labidurie/FilPilote/issues{/number}
+  keys_url: https://api.github.com/repos/jerome-labidurie/FilPilote/keys{/key_id}
+  labels_url: https://api.github.com/repos/jerome-labidurie/FilPilote/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/jerome-labidurie/FilPilote/languages
+  license:
+    key: gpl-2.0
+    name: GNU General Public License v2.0
+    node_id: MDc6TGljZW5zZTg=
+    spdx_id: GPL-2.0
+    url: https://api.github.com/licenses/gpl-2.0
+  merges_url: https://api.github.com/repos/jerome-labidurie/FilPilote/merges
+  milestones_url: https://api.github.com/repos/jerome-labidurie/FilPilote/milestones{/number}
+  mirror_url: null
+  name: FilPilote
+  node_id: MDEwOlJlcG9zaXRvcnk0MjgyMTcxOA==
+  notifications_url: https://api.github.com/repos/jerome-labidurie/FilPilote/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3443155?v=4
+    events_url: https://api.github.com/users/jerome-labidurie/events{/privacy}
+    followers_url: https://api.github.com/users/jerome-labidurie/followers
+    following_url: https://api.github.com/users/jerome-labidurie/following{/other_user}
+    gists_url: https://api.github.com/users/jerome-labidurie/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/jerome-labidurie
+    id: 3443155
+    login: jerome-labidurie
+    node_id: MDQ6VXNlcjM0NDMxNTU=
+    organizations_url: https://api.github.com/users/jerome-labidurie/orgs
+    received_events_url: https://api.github.com/users/jerome-labidurie/received_events
+    repos_url: https://api.github.com/users/jerome-labidurie/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/jerome-labidurie/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/jerome-labidurie/subscriptions
+    type: User
+    url: https://api.github.com/users/jerome-labidurie
+  private: false
+  pulls_url: https://api.github.com/repos/jerome-labidurie/FilPilote/pulls{/number}
+  pushed_at: '2020-09-15T12:54:53Z'
+  releases_url: https://api.github.com/repos/jerome-labidurie/FilPilote/releases{/id}
+  size: 1580
+  ssh_url: git@github.com:jerome-labidurie/FilPilote.git
+  stargazers_count: 7
+  stargazers_url: https://api.github.com/repos/jerome-labidurie/FilPilote/stargazers
+  statuses_url: https://api.github.com/repos/jerome-labidurie/FilPilote/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/jerome-labidurie/FilPilote/subscribers
+  subscription_url: https://api.github.com/repos/jerome-labidurie/FilPilote/subscription
+  svn_url: https://github.com/jerome-labidurie/FilPilote
+  tags_url: https://api.github.com/repos/jerome-labidurie/FilPilote/tags
+  teams_url: https://api.github.com/repos/jerome-labidurie/FilPilote/teams
+  topics: []
+  trees_url: https://api.github.com/repos/jerome-labidurie/FilPilote/git/trees{/sha}
+  updated_at: '2022-12-20T10:41:52Z'
+  url: https://api.github.com/repos/jerome-labidurie/FilPilote
+  visibility: public
+  watchers: 7
+  watchers_count: 7
+  web_commit_signoff_required: false

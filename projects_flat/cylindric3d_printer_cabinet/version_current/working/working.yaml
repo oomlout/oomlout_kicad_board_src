@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/assignees{/user}
-blobs_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/branches{/branch}
-clone_url: https://github.com/Cylindric3D/printer_cabinet.git
-collaborators_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/comments{/number}
-commits_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/commits{/sha}
-compare_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/contents/{+path}
-contributors_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/contributors
-created_at: '2019-11-21T20:00:22Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/deployments
-description: 3D printer cabinet controller
-disabled: false
-downloads_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/downloads
-events_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/forks
-full_name: Cylindric3D/printer_cabinet
-git_commits_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/git/tags{/sha}
-git_url: git://github.com/Cylindric3D/printer_cabinet.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/hooks
-html_url: https://github.com/Cylindric3D/printer_cabinet
-id: 223254652
-is_template: false
-issue_comment_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/issues/events{/number}
-issues_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/issues{/number}
-keys_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/keys{/key_id}
-labels_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/labels{/name}
-language: Python
-languages_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/languages
-license:
-  key: apache-2.0
-  name: Apache License 2.0
-  node_id: MDc6TGljZW5zZTI=
-  spdx_id: Apache-2.0
-  url: https://api.github.com/licenses/apache-2.0
-merges_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/merges
-milestones_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/milestones{/number}
-mirror_url: null
-name: printer_cabinet
-node_id: MDEwOlJlcG9zaXRvcnkyMjMyNTQ2NTI=
-notifications_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5824441?v=4
-  events_url: https://api.github.com/users/Cylindric3D/events{/privacy}
-  followers_url: https://api.github.com/users/Cylindric3D/followers
-  following_url: https://api.github.com/users/Cylindric3D/following{/other_user}
-  gists_url: https://api.github.com/users/Cylindric3D/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Cylindric3D
-  id: 5824441
-  login: Cylindric3D
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU4MjQ0NDE=
-  organizations_url: https://api.github.com/users/Cylindric3D/orgs
-  received_events_url: https://api.github.com/users/Cylindric3D/received_events
-  repos_url: https://api.github.com/users/Cylindric3D/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Cylindric3D/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Cylindric3D/subscriptions
-  type: Organization
-  url: https://api.github.com/users/Cylindric3D
-private: false
+links:
+  github_owner: Cylindric3D
+  github_repo_name: printer_cabinet
+  github_src: https://github.com/Cylindric3D/printer_cabinet
+  github_src_repo: https://github.com/Cylindric3D/printer_cabinet
+  oomp_bot: projects_cylindric3d_printer_cabinet
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_cylindric3d_printer_cabinet
+  oomp_doc: projects/projects_flat_cylindric3d_printer_cabinet/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_cylindric3d_printer_cabinet
+  oomp_src_flat: projects_flat/projects_flat_cylindric3d_printer_cabinet
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_cylindric3d_printer_cabinet
+  oomp_src_folder: projects_flat\cylindric3d_printer_cabinet\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\cylindric3d_printer_cabinet\version_current\working
+oomp_key: oomp_projects_flat_cylindric3d_printer_cabinet
+oomp_key_simple: projects_flat_cylindric3d_printer_cabinet
 projects_flat: projects_flat/cylindric3d_printer_cabinet/version_current/working
 projects_folder: projects_folder/Cylindric3D/printer_cabinet/version_current/working
-pulls_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/pulls{/number}
-pushed_at: '2019-11-22T01:18:01Z'
-releases_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/releases{/id}
-size: 55
-ssh_url: git@github.com:Cylindric3D/printer_cabinet.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/stargazers
-statuses_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/subscribers
-subscription_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/subscription
-svn_url: https://github.com/Cylindric3D/printer_cabinet
-tags_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/tags
-teams_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/teams
-topics: []
-trees_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/git/trees{/sha}
-updated_at: '2023-03-24T11:54:30Z'
-url: https://api.github.com/repos/Cylindric3D/printer_cabinet
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/assignees{/user}
+  blobs_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/branches{/branch}
+  clone_url: https://github.com/Cylindric3D/printer_cabinet.git
+  collaborators_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/comments{/number}
+  commits_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/commits{/sha}
+  compare_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/contents/{+path}
+  contributors_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/contributors
+  created_at: '2019-11-21T20:00:22Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/deployments
+  description: 3D printer cabinet controller
+  disabled: false
+  downloads_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/downloads
+  events_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/forks
+  full_name: Cylindric3D/printer_cabinet
+  git_commits_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/git/tags{/sha}
+  git_url: git://github.com/Cylindric3D/printer_cabinet.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/hooks
+  html_url: https://github.com/Cylindric3D/printer_cabinet
+  id: 223254652
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/issues/events{/number}
+  issues_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/issues{/number}
+  keys_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/keys{/key_id}
+  labels_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/labels{/name}
+  language: Python
+  languages_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/languages
+  license:
+    key: apache-2.0
+    name: Apache License 2.0
+    node_id: MDc6TGljZW5zZTI=
+    spdx_id: Apache-2.0
+    url: https://api.github.com/licenses/apache-2.0
+  merges_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/merges
+  milestones_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/milestones{/number}
+  mirror_url: null
+  name: printer_cabinet
+  node_id: MDEwOlJlcG9zaXRvcnkyMjMyNTQ2NTI=
+  notifications_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5824441?v=4
+    events_url: https://api.github.com/users/Cylindric3D/events{/privacy}
+    followers_url: https://api.github.com/users/Cylindric3D/followers
+    following_url: https://api.github.com/users/Cylindric3D/following{/other_user}
+    gists_url: https://api.github.com/users/Cylindric3D/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Cylindric3D
+    id: 5824441
+    login: Cylindric3D
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU4MjQ0NDE=
+    organizations_url: https://api.github.com/users/Cylindric3D/orgs
+    received_events_url: https://api.github.com/users/Cylindric3D/received_events
+    repos_url: https://api.github.com/users/Cylindric3D/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Cylindric3D/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Cylindric3D/subscriptions
+    type: Organization
+    url: https://api.github.com/users/Cylindric3D
+  private: false
+  pulls_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/pulls{/number}
+  pushed_at: '2019-11-22T01:18:01Z'
+  releases_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/releases{/id}
+  size: 55
+  ssh_url: git@github.com:Cylindric3D/printer_cabinet.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/stargazers
+  statuses_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/subscribers
+  subscription_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/subscription
+  svn_url: https://github.com/Cylindric3D/printer_cabinet
+  tags_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/tags
+  teams_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Cylindric3D/printer_cabinet/git/trees{/sha}
+  updated_at: '2023-03-24T11:54:30Z'
+  url: https://api.github.com/repos/Cylindric3D/printer_cabinet
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ContextualElectronics/Central-Command/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ContextualElectronics/Central-Command/assignees{/user}
-blobs_url: https://api.github.com/repos/ContextualElectronics/Central-Command/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ContextualElectronics/Central-Command/branches{/branch}
-clone_url: https://github.com/ContextualElectronics/Central-Command.git
-collaborators_url: https://api.github.com/repos/ContextualElectronics/Central-Command/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ContextualElectronics/Central-Command/comments{/number}
-commits_url: https://api.github.com/repos/ContextualElectronics/Central-Command/commits{/sha}
-compare_url: https://api.github.com/repos/ContextualElectronics/Central-Command/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ContextualElectronics/Central-Command/contents/{+path}
-contributors_url: https://api.github.com/repos/ContextualElectronics/Central-Command/contributors
-created_at: '2015-10-11T19:43:16Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ContextualElectronics/Central-Command/deployments
-description: The centralized board that will control the roll with it project
-disabled: false
-downloads_url: https://api.github.com/repos/ContextualElectronics/Central-Command/downloads
-events_url: https://api.github.com/repos/ContextualElectronics/Central-Command/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/ContextualElectronics/Central-Command/forks
-full_name: ContextualElectronics/Central-Command
-git_commits_url: https://api.github.com/repos/ContextualElectronics/Central-Command/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ContextualElectronics/Central-Command/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ContextualElectronics/Central-Command/git/tags{/sha}
-git_url: git://github.com/ContextualElectronics/Central-Command.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ContextualElectronics/Central-Command/hooks
-html_url: https://github.com/ContextualElectronics/Central-Command
-id: 44066778
-is_template: false
-issue_comment_url: https://api.github.com/repos/ContextualElectronics/Central-Command/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ContextualElectronics/Central-Command/issues/events{/number}
-issues_url: https://api.github.com/repos/ContextualElectronics/Central-Command/issues{/number}
-keys_url: https://api.github.com/repos/ContextualElectronics/Central-Command/keys{/key_id}
-labels_url: https://api.github.com/repos/ContextualElectronics/Central-Command/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/ContextualElectronics/Central-Command/languages
-license: null
-merges_url: https://api.github.com/repos/ContextualElectronics/Central-Command/merges
-milestones_url: https://api.github.com/repos/ContextualElectronics/Central-Command/milestones{/number}
-mirror_url: null
-name: Central-Command
-node_id: MDEwOlJlcG9zaXRvcnk0NDA2Njc3OA==
-notifications_url: https://api.github.com/repos/ContextualElectronics/Central-Command/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5359486?v=4
-  events_url: https://api.github.com/users/ContextualElectronics/events{/privacy}
-  followers_url: https://api.github.com/users/ContextualElectronics/followers
-  following_url: https://api.github.com/users/ContextualElectronics/following{/other_user}
-  gists_url: https://api.github.com/users/ContextualElectronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ContextualElectronics
-  id: 5359486
-  login: ContextualElectronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjUzNTk0ODY=
-  organizations_url: https://api.github.com/users/ContextualElectronics/orgs
-  received_events_url: https://api.github.com/users/ContextualElectronics/received_events
-  repos_url: https://api.github.com/users/ContextualElectronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ContextualElectronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ContextualElectronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ContextualElectronics
-private: false
+links:
+  github_owner: ContextualElectronics
+  github_repo_name: Central-Command
+  github_src: https://github.com/ContextualElectronics/Central-Command
+  github_src_repo: https://github.com/ContextualElectronics/Central-Command
+  oomp_bot: projects_contextualelectronics_central_command
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_contextualelectronics_central_command
+  oomp_doc: projects/projects_flat_contextualelectronics_central_command/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_contextualelectronics_central_command
+  oomp_src_flat: projects_flat/projects_flat_contextualelectronics_central_command
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_contextualelectronics_central_command
+  oomp_src_folder: projects_flat\contextualelectronics_central_command\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\contextualelectronics_central_command\version_current\working
+oomp_key: oomp_projects_flat_contextualelectronics_central_command
+oomp_key_simple: projects_flat_contextualelectronics_central_command
 projects_flat: projects_flat/contextualelectronics_central_command/version_current/working
 projects_folder: projects_folder/ContextualElectronics/Central-Command/version_current/working
-pulls_url: https://api.github.com/repos/ContextualElectronics/Central-Command/pulls{/number}
-pushed_at: '2016-10-12T14:14:26Z'
-releases_url: https://api.github.com/repos/ContextualElectronics/Central-Command/releases{/id}
-size: 25926
-ssh_url: git@github.com:ContextualElectronics/Central-Command.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ContextualElectronics/Central-Command/stargazers
-statuses_url: https://api.github.com/repos/ContextualElectronics/Central-Command/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ContextualElectronics/Central-Command/subscribers
-subscription_url: https://api.github.com/repos/ContextualElectronics/Central-Command/subscription
-svn_url: https://github.com/ContextualElectronics/Central-Command
-tags_url: https://api.github.com/repos/ContextualElectronics/Central-Command/tags
-teams_url: https://api.github.com/repos/ContextualElectronics/Central-Command/teams
-topics: []
-trees_url: https://api.github.com/repos/ContextualElectronics/Central-Command/git/trees{/sha}
-updated_at: '2016-02-10T14:20:23Z'
-url: https://api.github.com/repos/ContextualElectronics/Central-Command
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ContextualElectronics/Central-Command/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ContextualElectronics/Central-Command/assignees{/user}
+  blobs_url: https://api.github.com/repos/ContextualElectronics/Central-Command/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ContextualElectronics/Central-Command/branches{/branch}
+  clone_url: https://github.com/ContextualElectronics/Central-Command.git
+  collaborators_url: https://api.github.com/repos/ContextualElectronics/Central-Command/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ContextualElectronics/Central-Command/comments{/number}
+  commits_url: https://api.github.com/repos/ContextualElectronics/Central-Command/commits{/sha}
+  compare_url: https://api.github.com/repos/ContextualElectronics/Central-Command/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ContextualElectronics/Central-Command/contents/{+path}
+  contributors_url: https://api.github.com/repos/ContextualElectronics/Central-Command/contributors
+  created_at: '2015-10-11T19:43:16Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ContextualElectronics/Central-Command/deployments
+  description: The centralized board that will control the roll with it project
+  disabled: false
+  downloads_url: https://api.github.com/repos/ContextualElectronics/Central-Command/downloads
+  events_url: https://api.github.com/repos/ContextualElectronics/Central-Command/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/ContextualElectronics/Central-Command/forks
+  full_name: ContextualElectronics/Central-Command
+  git_commits_url: https://api.github.com/repos/ContextualElectronics/Central-Command/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ContextualElectronics/Central-Command/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ContextualElectronics/Central-Command/git/tags{/sha}
+  git_url: git://github.com/ContextualElectronics/Central-Command.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ContextualElectronics/Central-Command/hooks
+  html_url: https://github.com/ContextualElectronics/Central-Command
+  id: 44066778
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ContextualElectronics/Central-Command/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ContextualElectronics/Central-Command/issues/events{/number}
+  issues_url: https://api.github.com/repos/ContextualElectronics/Central-Command/issues{/number}
+  keys_url: https://api.github.com/repos/ContextualElectronics/Central-Command/keys{/key_id}
+  labels_url: https://api.github.com/repos/ContextualElectronics/Central-Command/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/ContextualElectronics/Central-Command/languages
+  license: null
+  merges_url: https://api.github.com/repos/ContextualElectronics/Central-Command/merges
+  milestones_url: https://api.github.com/repos/ContextualElectronics/Central-Command/milestones{/number}
+  mirror_url: null
+  name: Central-Command
+  node_id: MDEwOlJlcG9zaXRvcnk0NDA2Njc3OA==
+  notifications_url: https://api.github.com/repos/ContextualElectronics/Central-Command/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5359486?v=4
+    events_url: https://api.github.com/users/ContextualElectronics/events{/privacy}
+    followers_url: https://api.github.com/users/ContextualElectronics/followers
+    following_url: https://api.github.com/users/ContextualElectronics/following{/other_user}
+    gists_url: https://api.github.com/users/ContextualElectronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ContextualElectronics
+    id: 5359486
+    login: ContextualElectronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjUzNTk0ODY=
+    organizations_url: https://api.github.com/users/ContextualElectronics/orgs
+    received_events_url: https://api.github.com/users/ContextualElectronics/received_events
+    repos_url: https://api.github.com/users/ContextualElectronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ContextualElectronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ContextualElectronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ContextualElectronics
+  private: false
+  pulls_url: https://api.github.com/repos/ContextualElectronics/Central-Command/pulls{/number}
+  pushed_at: '2016-10-12T14:14:26Z'
+  releases_url: https://api.github.com/repos/ContextualElectronics/Central-Command/releases{/id}
+  size: 25926
+  ssh_url: git@github.com:ContextualElectronics/Central-Command.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ContextualElectronics/Central-Command/stargazers
+  statuses_url: https://api.github.com/repos/ContextualElectronics/Central-Command/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ContextualElectronics/Central-Command/subscribers
+  subscription_url: https://api.github.com/repos/ContextualElectronics/Central-Command/subscription
+  svn_url: https://github.com/ContextualElectronics/Central-Command
+  tags_url: https://api.github.com/repos/ContextualElectronics/Central-Command/tags
+  teams_url: https://api.github.com/repos/ContextualElectronics/Central-Command/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ContextualElectronics/Central-Command/git/trees{/sha}
+  updated_at: '2016-02-10T14:20:23Z'
+  url: https://api.github.com/repos/ContextualElectronics/Central-Command
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

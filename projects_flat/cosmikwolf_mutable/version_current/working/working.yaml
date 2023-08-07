@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/cosmikwolf/mutable/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/cosmikwolf/mutable/assignees{/user}
-blobs_url: https://api.github.com/repos/cosmikwolf/mutable/git/blobs{/sha}
-branches_url: https://api.github.com/repos/cosmikwolf/mutable/branches{/branch}
-clone_url: https://github.com/cosmikwolf/mutable.git
-collaborators_url: https://api.github.com/repos/cosmikwolf/mutable/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/cosmikwolf/mutable/comments{/number}
-commits_url: https://api.github.com/repos/cosmikwolf/mutable/commits{/sha}
-compare_url: https://api.github.com/repos/cosmikwolf/mutable/compare/{base}...{head}
-contents_url: https://api.github.com/repos/cosmikwolf/mutable/contents/{+path}
-contributors_url: https://api.github.com/repos/cosmikwolf/mutable/contributors
-created_at: '2022-11-23T02:02:54Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/cosmikwolf/mutable/deployments
-description: An update to build Plaits updated to Python3 using Docker builds
-disabled: false
-downloads_url: https://api.github.com/repos/cosmikwolf/mutable/downloads
-events_url: https://api.github.com/repos/cosmikwolf/mutable/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/cosmikwolf/mutable/forks
-full_name: cosmikwolf/mutable
-git_commits_url: https://api.github.com/repos/cosmikwolf/mutable/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/cosmikwolf/mutable/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/cosmikwolf/mutable/git/tags{/sha}
-git_url: git://github.com/cosmikwolf/mutable.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/cosmikwolf/mutable/hooks
-html_url: https://github.com/cosmikwolf/mutable
-id: 569514973
-is_template: false
-issue_comment_url: https://api.github.com/repos/cosmikwolf/mutable/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/cosmikwolf/mutable/issues/events{/number}
-issues_url: https://api.github.com/repos/cosmikwolf/mutable/issues{/number}
-keys_url: https://api.github.com/repos/cosmikwolf/mutable/keys{/key_id}
-labels_url: https://api.github.com/repos/cosmikwolf/mutable/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/cosmikwolf/mutable/languages
-license: null
-merges_url: https://api.github.com/repos/cosmikwolf/mutable/merges
-milestones_url: https://api.github.com/repos/cosmikwolf/mutable/milestones{/number}
-mirror_url: null
-name: mutable
-node_id: R_kgDOIfIb3Q
-notifications_url: https://api.github.com/repos/cosmikwolf/mutable/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/8161308?v=4
-  events_url: https://api.github.com/users/cosmikwolf/events{/privacy}
-  followers_url: https://api.github.com/users/cosmikwolf/followers
-  following_url: https://api.github.com/users/cosmikwolf/following{/other_user}
-  gists_url: https://api.github.com/users/cosmikwolf/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/cosmikwolf
-  id: 8161308
-  login: cosmikwolf
-  node_id: MDQ6VXNlcjgxNjEzMDg=
-  organizations_url: https://api.github.com/users/cosmikwolf/orgs
-  received_events_url: https://api.github.com/users/cosmikwolf/received_events
-  repos_url: https://api.github.com/users/cosmikwolf/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/cosmikwolf/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/cosmikwolf/subscriptions
-  type: User
-  url: https://api.github.com/users/cosmikwolf
-private: false
+links:
+  github_owner: cosmikwolf
+  github_repo_name: mutable
+  github_src: https://github.com/cosmikwolf/mutable
+  github_src_repo: https://github.com/cosmikwolf/mutable
+  oomp_bot: projects_cosmikwolf_mutable
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_cosmikwolf_mutable
+  oomp_doc: projects/projects_flat_cosmikwolf_mutable/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_cosmikwolf_mutable
+  oomp_src_flat: projects_flat/projects_flat_cosmikwolf_mutable
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_cosmikwolf_mutable
+  oomp_src_folder: projects_flat\cosmikwolf_mutable\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\cosmikwolf_mutable\version_current\working
+oomp_key: oomp_projects_flat_cosmikwolf_mutable
+oomp_key_simple: projects_flat_cosmikwolf_mutable
 projects_flat: projects_flat/cosmikwolf_mutable/version_current/working
 projects_folder: projects_folder/cosmikwolf/mutable/version_current/working
-pulls_url: https://api.github.com/repos/cosmikwolf/mutable/pulls{/number}
-pushed_at: '2022-11-23T09:28:36Z'
-releases_url: https://api.github.com/repos/cosmikwolf/mutable/releases{/id}
-size: 53928
-ssh_url: git@github.com:cosmikwolf/mutable.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/cosmikwolf/mutable/stargazers
-statuses_url: https://api.github.com/repos/cosmikwolf/mutable/statuses/{sha}
-subscribers_url: https://api.github.com/repos/cosmikwolf/mutable/subscribers
-subscription_url: https://api.github.com/repos/cosmikwolf/mutable/subscription
-svn_url: https://github.com/cosmikwolf/mutable
-tags_url: https://api.github.com/repos/cosmikwolf/mutable/tags
-teams_url: https://api.github.com/repos/cosmikwolf/mutable/teams
-topics: []
-trees_url: https://api.github.com/repos/cosmikwolf/mutable/git/trees{/sha}
-updated_at: '2022-11-23T09:33:14Z'
-url: https://api.github.com/repos/cosmikwolf/mutable
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/cosmikwolf/mutable/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/cosmikwolf/mutable/assignees{/user}
+  blobs_url: https://api.github.com/repos/cosmikwolf/mutable/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/cosmikwolf/mutable/branches{/branch}
+  clone_url: https://github.com/cosmikwolf/mutable.git
+  collaborators_url: https://api.github.com/repos/cosmikwolf/mutable/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/cosmikwolf/mutable/comments{/number}
+  commits_url: https://api.github.com/repos/cosmikwolf/mutable/commits{/sha}
+  compare_url: https://api.github.com/repos/cosmikwolf/mutable/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/cosmikwolf/mutable/contents/{+path}
+  contributors_url: https://api.github.com/repos/cosmikwolf/mutable/contributors
+  created_at: '2022-11-23T02:02:54Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/cosmikwolf/mutable/deployments
+  description: An update to build Plaits updated to Python3 using Docker builds
+  disabled: false
+  downloads_url: https://api.github.com/repos/cosmikwolf/mutable/downloads
+  events_url: https://api.github.com/repos/cosmikwolf/mutable/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/cosmikwolf/mutable/forks
+  full_name: cosmikwolf/mutable
+  git_commits_url: https://api.github.com/repos/cosmikwolf/mutable/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/cosmikwolf/mutable/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/cosmikwolf/mutable/git/tags{/sha}
+  git_url: git://github.com/cosmikwolf/mutable.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/cosmikwolf/mutable/hooks
+  html_url: https://github.com/cosmikwolf/mutable
+  id: 569514973
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/cosmikwolf/mutable/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/cosmikwolf/mutable/issues/events{/number}
+  issues_url: https://api.github.com/repos/cosmikwolf/mutable/issues{/number}
+  keys_url: https://api.github.com/repos/cosmikwolf/mutable/keys{/key_id}
+  labels_url: https://api.github.com/repos/cosmikwolf/mutable/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/cosmikwolf/mutable/languages
+  license: null
+  merges_url: https://api.github.com/repos/cosmikwolf/mutable/merges
+  milestones_url: https://api.github.com/repos/cosmikwolf/mutable/milestones{/number}
+  mirror_url: null
+  name: mutable
+  node_id: R_kgDOIfIb3Q
+  notifications_url: https://api.github.com/repos/cosmikwolf/mutable/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/8161308?v=4
+    events_url: https://api.github.com/users/cosmikwolf/events{/privacy}
+    followers_url: https://api.github.com/users/cosmikwolf/followers
+    following_url: https://api.github.com/users/cosmikwolf/following{/other_user}
+    gists_url: https://api.github.com/users/cosmikwolf/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/cosmikwolf
+    id: 8161308
+    login: cosmikwolf
+    node_id: MDQ6VXNlcjgxNjEzMDg=
+    organizations_url: https://api.github.com/users/cosmikwolf/orgs
+    received_events_url: https://api.github.com/users/cosmikwolf/received_events
+    repos_url: https://api.github.com/users/cosmikwolf/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/cosmikwolf/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/cosmikwolf/subscriptions
+    type: User
+    url: https://api.github.com/users/cosmikwolf
+  private: false
+  pulls_url: https://api.github.com/repos/cosmikwolf/mutable/pulls{/number}
+  pushed_at: '2022-11-23T09:28:36Z'
+  releases_url: https://api.github.com/repos/cosmikwolf/mutable/releases{/id}
+  size: 53928
+  ssh_url: git@github.com:cosmikwolf/mutable.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/cosmikwolf/mutable/stargazers
+  statuses_url: https://api.github.com/repos/cosmikwolf/mutable/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/cosmikwolf/mutable/subscribers
+  subscription_url: https://api.github.com/repos/cosmikwolf/mutable/subscription
+  svn_url: https://github.com/cosmikwolf/mutable
+  tags_url: https://api.github.com/repos/cosmikwolf/mutable/tags
+  teams_url: https://api.github.com/repos/cosmikwolf/mutable/teams
+  topics: []
+  trees_url: https://api.github.com/repos/cosmikwolf/mutable/git/trees{/sha}
+  updated_at: '2022-11-23T09:33:14Z'
+  url: https://api.github.com/repos/cosmikwolf/mutable
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

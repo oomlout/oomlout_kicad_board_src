@@ -1,111 +1,128 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/branches{/branch}
-clone_url: https://github.com/sparkfun/Flexible_Grayscale_OLED.git
-collaborators_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/contributors
-created_at: '2018-02-01T20:59:24Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/deployments
-description: "This is a small flexible, grayscale OLED display. That\u2019s right,\
-  \ we said flexible. We\u2019ve been hearing about flexible displays for years, it\u2019\
-  s finally here! "
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/downloads
-events_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/events
 file_81_Grayscale_OLED_Breakout-Panel_v10_flat_folder: projects_flat_folder/sparkfun_flexible_grayscale_oled/version_current/working/working.81_Grayscale_OLED_Breakout-Panel_v10
 file_81_Grayscale_OLED_Breakout-Panel_v10_folder: projects_folder/sparkfun/Flexible_Grayscale_OLED/version_current/working/working.81_Grayscale_OLED_Breakout-Panel_v10
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/forks
-full_name: sparkfun/Flexible_Grayscale_OLED
-git_commits_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/git/tags{/sha}
-git_url: git://github.com/sparkfun/Flexible_Grayscale_OLED.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/
-hooks_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/hooks
-html_url: https://github.com/sparkfun/Flexible_Grayscale_OLED
-id: 119892961
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/merges
-milestones_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/milestones{/number}
-mirror_url: null
-name: Flexible_Grayscale_OLED
-node_id: MDEwOlJlcG9zaXRvcnkxMTk4OTI5NjE=
-notifications_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Flexible_Grayscale_OLED
+  github_src: https://github.com/sparkfun/Flexible_Grayscale_OLED
+  github_src_repo: https://github.com/sparkfun/Flexible_Grayscale_OLED
+  oomp_bot: projects_sparkfun_flexible_grayscale_oled
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_flexible_grayscale_oled
+  oomp_doc: projects/projects_flat_sparkfun_flexible_grayscale_oled/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_flexible_grayscale_oled
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_flexible_grayscale_oled
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_flexible_grayscale_oled
+  oomp_src_folder: projects_flat\sparkfun_flexible_grayscale_oled\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_flexible_grayscale_oled\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_flexible_grayscale_oled
+oomp_key_simple: projects_flat_sparkfun_flexible_grayscale_oled
+projects_flat: projects_flat/sparkfun_flexible_grayscale_oled/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_flexible_grayscale_oled/version_current/working
 projects_folder: projects_folder/sparkfun/Flexible_Grayscale_OLED/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/pulls{/number}
-pushed_at: '2020-12-15T16:47:31Z'
-releases_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/releases{/id}
-size: 4784
-ssh_url: git@github.com:sparkfun/Flexible_Grayscale_OLED.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/subscription
-svn_url: https://github.com/sparkfun/Flexible_Grayscale_OLED
-tags_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/tags
-teams_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/teams
-topics:
-- oled
-- sparkfun
-- sparkfun-products
-trees_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/git/trees{/sha}
-updated_at: '2020-12-15T16:47:33Z'
-url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/branches{/branch}
+  clone_url: https://github.com/sparkfun/Flexible_Grayscale_OLED.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/contributors
+  created_at: '2018-02-01T20:59:24Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/deployments
+  description: "This is a small flexible, grayscale OLED display. That\u2019s right,\
+    \ we said flexible. We\u2019ve been hearing about flexible displays for years,\
+    \ it\u2019s finally here! "
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/downloads
+  events_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/forks
+  full_name: sparkfun/Flexible_Grayscale_OLED
+  git_commits_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Flexible_Grayscale_OLED.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/
+  hooks_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/hooks
+  html_url: https://github.com/sparkfun/Flexible_Grayscale_OLED
+  id: 119892961
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/milestones{/number}
+  mirror_url: null
+  name: Flexible_Grayscale_OLED
+  node_id: MDEwOlJlcG9zaXRvcnkxMTk4OTI5NjE=
+  notifications_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/pulls{/number}
+  pushed_at: '2020-12-15T16:47:31Z'
+  releases_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/releases{/id}
+  size: 4784
+  ssh_url: git@github.com:sparkfun/Flexible_Grayscale_OLED.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/subscription
+  svn_url: https://github.com/sparkfun/Flexible_Grayscale_OLED
+  tags_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/tags
+  teams_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/teams
+  topics:
+  - oled
+  - sparkfun
+  - sparkfun-products
+  trees_url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED/git/trees{/sha}
+  updated_at: '2020-12-15T16:47:33Z'
+  url: https://api.github.com/repos/sparkfun/Flexible_Grayscale_OLED
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

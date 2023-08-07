@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/devbisme/KiField/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/devbisme/KiField/assignees{/user}
-blobs_url: https://api.github.com/repos/devbisme/KiField/git/blobs{/sha}
-branches_url: https://api.github.com/repos/devbisme/KiField/branches{/branch}
-clone_url: https://github.com/devbisme/KiField.git
-collaborators_url: https://api.github.com/repos/devbisme/KiField/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/devbisme/KiField/comments{/number}
-commits_url: https://api.github.com/repos/devbisme/KiField/commits{/sha}
-compare_url: https://api.github.com/repos/devbisme/KiField/compare/{base}...{head}
-contents_url: https://api.github.com/repos/devbisme/KiField/contents/{+path}
-contributors_url: https://api.github.com/repos/devbisme/KiField/contributors
-created_at: '2016-01-29T06:08:32Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/devbisme/KiField/deployments
-description: Edit/insert/delete part fields in KiCad schematics or libraries using
-  a spreadsheet.
-disabled: false
-downloads_url: https://api.github.com/repos/devbisme/KiField/downloads
-events_url: https://api.github.com/repos/devbisme/KiField/events
-fork: false
-forks: 27
-forks_count: 27
-forks_url: https://api.github.com/repos/devbisme/KiField/forks
-full_name: devbisme/KiField
-git_commits_url: https://api.github.com/repos/devbisme/KiField/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/devbisme/KiField/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/devbisme/KiField/git/tags{/sha}
-git_url: git://github.com/devbisme/KiField.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/devbisme/KiField/hooks
-html_url: https://github.com/devbisme/KiField
-id: 50641891
-is_template: false
-issue_comment_url: https://api.github.com/repos/devbisme/KiField/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/devbisme/KiField/issues/events{/number}
-issues_url: https://api.github.com/repos/devbisme/KiField/issues{/number}
-keys_url: https://api.github.com/repos/devbisme/KiField/keys{/key_id}
-labels_url: https://api.github.com/repos/devbisme/KiField/labels{/name}
-language: Python
-languages_url: https://api.github.com/repos/devbisme/KiField/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/devbisme/KiField/merges
-milestones_url: https://api.github.com/repos/devbisme/KiField/milestones{/number}
-mirror_url: null
-name: KiField
-node_id: MDEwOlJlcG9zaXRvcnk1MDY0MTg5MQ==
-notifications_url: https://api.github.com/repos/devbisme/KiField/notifications{?since,all,participating}
-open_issues: 18
-open_issues_count: 18
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/666592?v=4
-  events_url: https://api.github.com/users/devbisme/events{/privacy}
-  followers_url: https://api.github.com/users/devbisme/followers
-  following_url: https://api.github.com/users/devbisme/following{/other_user}
-  gists_url: https://api.github.com/users/devbisme/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/devbisme
-  id: 666592
-  login: devbisme
-  node_id: MDQ6VXNlcjY2NjU5Mg==
-  organizations_url: https://api.github.com/users/devbisme/orgs
-  received_events_url: https://api.github.com/users/devbisme/received_events
-  repos_url: https://api.github.com/users/devbisme/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/devbisme/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/devbisme/subscriptions
-  type: User
-  url: https://api.github.com/users/devbisme
-private: false
+links:
+  github_owner: devbisme
+  github_repo_name: KiField
+  github_src: https://github.com/devbisme/KiField
+  github_src_repo: https://github.com/devbisme/KiField
+  oomp_bot: devbisme_kifield
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/devbisme_kifield
+  oomp_doc: projects/devbisme_kifield/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/devbisme_kifield
+  oomp_src_flat: projects_flat/devbisme_kifield
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/devbisme_kifield
+  oomp_src_folder: projects_folder\devbisme\KiField\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\devbisme\KiField\version_current\working
+oomp_key: oomp_devbisme_kifield
+oomp_key_simple: devbisme_kifield
 projects_flat: projects_flat/devbisme_kifield/version_current/working
 projects_folder: projects_folder/devbisme/KiField/version_current/working
-pulls_url: https://api.github.com/repos/devbisme/KiField/pulls{/number}
-pushed_at: '2022-05-06T19:24:43Z'
-releases_url: https://api.github.com/repos/devbisme/KiField/releases{/id}
-size: 1459
-ssh_url: git@github.com:devbisme/KiField.git
-stargazers_count: 60
-stargazers_url: https://api.github.com/repos/devbisme/KiField/stargazers
-statuses_url: https://api.github.com/repos/devbisme/KiField/statuses/{sha}
-subscribers_url: https://api.github.com/repos/devbisme/KiField/subscribers
-subscription_url: https://api.github.com/repos/devbisme/KiField/subscription
-svn_url: https://github.com/devbisme/KiField
-tags_url: https://api.github.com/repos/devbisme/KiField/tags
-teams_url: https://api.github.com/repos/devbisme/KiField/teams
-topics: []
-trees_url: https://api.github.com/repos/devbisme/KiField/git/trees{/sha}
-updated_at: '2023-06-05T15:03:07Z'
-url: https://api.github.com/repos/devbisme/KiField
-visibility: public
-watchers: 60
-watchers_count: 60
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/devbisme/KiField/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/devbisme/KiField/assignees{/user}
+  blobs_url: https://api.github.com/repos/devbisme/KiField/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/devbisme/KiField/branches{/branch}
+  clone_url: https://github.com/devbisme/KiField.git
+  collaborators_url: https://api.github.com/repos/devbisme/KiField/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/devbisme/KiField/comments{/number}
+  commits_url: https://api.github.com/repos/devbisme/KiField/commits{/sha}
+  compare_url: https://api.github.com/repos/devbisme/KiField/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/devbisme/KiField/contents/{+path}
+  contributors_url: https://api.github.com/repos/devbisme/KiField/contributors
+  created_at: '2016-01-29T06:08:32Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/devbisme/KiField/deployments
+  description: Edit/insert/delete part fields in KiCad schematics or libraries using
+    a spreadsheet.
+  disabled: false
+  downloads_url: https://api.github.com/repos/devbisme/KiField/downloads
+  events_url: https://api.github.com/repos/devbisme/KiField/events
+  fork: false
+  forks: 27
+  forks_count: 27
+  forks_url: https://api.github.com/repos/devbisme/KiField/forks
+  full_name: devbisme/KiField
+  git_commits_url: https://api.github.com/repos/devbisme/KiField/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/devbisme/KiField/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/devbisme/KiField/git/tags{/sha}
+  git_url: git://github.com/devbisme/KiField.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/devbisme/KiField/hooks
+  html_url: https://github.com/devbisme/KiField
+  id: 50641891
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/devbisme/KiField/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/devbisme/KiField/issues/events{/number}
+  issues_url: https://api.github.com/repos/devbisme/KiField/issues{/number}
+  keys_url: https://api.github.com/repos/devbisme/KiField/keys{/key_id}
+  labels_url: https://api.github.com/repos/devbisme/KiField/labels{/name}
+  language: Python
+  languages_url: https://api.github.com/repos/devbisme/KiField/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/devbisme/KiField/merges
+  milestones_url: https://api.github.com/repos/devbisme/KiField/milestones{/number}
+  mirror_url: null
+  name: KiField
+  node_id: MDEwOlJlcG9zaXRvcnk1MDY0MTg5MQ==
+  notifications_url: https://api.github.com/repos/devbisme/KiField/notifications{?since,all,participating}
+  open_issues: 17
+  open_issues_count: 17
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/666592?v=4
+    events_url: https://api.github.com/users/devbisme/events{/privacy}
+    followers_url: https://api.github.com/users/devbisme/followers
+    following_url: https://api.github.com/users/devbisme/following{/other_user}
+    gists_url: https://api.github.com/users/devbisme/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/devbisme
+    id: 666592
+    login: devbisme
+    node_id: MDQ6VXNlcjY2NjU5Mg==
+    organizations_url: https://api.github.com/users/devbisme/orgs
+    received_events_url: https://api.github.com/users/devbisme/received_events
+    repos_url: https://api.github.com/users/devbisme/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/devbisme/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/devbisme/subscriptions
+    type: User
+    url: https://api.github.com/users/devbisme
+  private: false
+  pulls_url: https://api.github.com/repos/devbisme/KiField/pulls{/number}
+  pushed_at: '2022-05-06T19:24:43Z'
+  releases_url: https://api.github.com/repos/devbisme/KiField/releases{/id}
+  size: 1459
+  ssh_url: git@github.com:devbisme/KiField.git
+  stargazers_count: 59
+  stargazers_url: https://api.github.com/repos/devbisme/KiField/stargazers
+  statuses_url: https://api.github.com/repos/devbisme/KiField/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/devbisme/KiField/subscribers
+  subscription_url: https://api.github.com/repos/devbisme/KiField/subscription
+  svn_url: https://github.com/devbisme/KiField
+  tags_url: https://api.github.com/repos/devbisme/KiField/tags
+  teams_url: https://api.github.com/repos/devbisme/KiField/teams
+  topics: []
+  trees_url: https://api.github.com/repos/devbisme/KiField/git/trees{/sha}
+  updated_at: '2023-07-31T21:18:15Z'
+  url: https://api.github.com/repos/devbisme/KiField
+  visibility: public
+  watchers: 59
+  watchers_count: 59
+  web_commit_signoff_required: false

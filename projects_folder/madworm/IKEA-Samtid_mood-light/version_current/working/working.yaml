@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/assignees{/user}
-blobs_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/git/blobs{/sha}
-branches_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/branches{/branch}
-clone_url: https://github.com/madworm/IKEA-Samtid_mood-light.git
-collaborators_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/comments{/number}
-commits_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/commits{/sha}
-compare_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/compare/{base}...{head}
-contents_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/contents/{+path}
-contributors_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/contributors
-created_at: '2014-07-08T10:44:58Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/deployments
-description: 'LAYOUT FILES: Circular extension board for IKEA Samtid lamps.'
-disabled: false
-downloads_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/downloads
-events_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/forks
-full_name: madworm/IKEA-Samtid_mood-light
-git_commits_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/git/tags{/sha}
-git_url: git://github.com/madworm/IKEA-Samtid_mood-light.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/hooks
-html_url: https://github.com/madworm/IKEA-Samtid_mood-light
-id: 21609124
-is_template: false
-issue_comment_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/issues/events{/number}
-issues_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/issues{/number}
-keys_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/keys{/key_id}
-labels_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/languages
-license: null
-merges_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/merges
-milestones_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/milestones{/number}
-mirror_url: null
-name: IKEA-Samtid_mood-light
-node_id: MDEwOlJlcG9zaXRvcnkyMTYwOTEyNA==
-notifications_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
-  events_url: https://api.github.com/users/madworm/events{/privacy}
-  followers_url: https://api.github.com/users/madworm/followers
-  following_url: https://api.github.com/users/madworm/following{/other_user}
-  gists_url: https://api.github.com/users/madworm/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/madworm
-  id: 343894
-  login: madworm
-  node_id: MDQ6VXNlcjM0Mzg5NA==
-  organizations_url: https://api.github.com/users/madworm/orgs
-  received_events_url: https://api.github.com/users/madworm/received_events
-  repos_url: https://api.github.com/users/madworm/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/madworm/subscriptions
-  type: User
-  url: https://api.github.com/users/madworm
-private: false
+links:
+  github_owner: madworm
+  github_repo_name: IKEA-Samtid_mood-light
+  github_src: https://github.com/madworm/IKEA-Samtid_mood-light
+  github_src_repo: https://github.com/madworm/IKEA-Samtid_mood-light
+  oomp_bot: madworm_ikea_samtid_mood_light
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/madworm_ikea_samtid_mood_light
+  oomp_doc: projects/madworm_ikea_samtid_mood_light/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/madworm_ikea_samtid_mood_light
+  oomp_src_flat: projects_flat/madworm_ikea_samtid_mood_light
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/madworm_ikea_samtid_mood_light
+  oomp_src_folder: projects_folder\madworm\IKEA-Samtid_mood-light\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\madworm\IKEA-Samtid_mood-light\version_current\working
+oomp_key: oomp_madworm_ikea_samtid_mood_light
+oomp_key_simple: madworm_ikea_samtid_mood_light
 projects_flat: projects_flat/madworm_ikea_samtid_mood_light/version_current/working
 projects_folder: projects_folder/madworm/IKEA-Samtid_mood-light/version_current/working
-pulls_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/pulls{/number}
-pushed_at: '2015-07-12T14:07:21Z'
-releases_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/releases{/id}
-size: 31904
-ssh_url: git@github.com:madworm/IKEA-Samtid_mood-light.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/stargazers
-statuses_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/statuses/{sha}
-subscribers_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/subscribers
-subscription_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/subscription
-svn_url: https://github.com/madworm/IKEA-Samtid_mood-light
-tags_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/tags
-teams_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/teams
-topics: []
-trees_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/git/trees{/sha}
-updated_at: '2023-07-25T13:52:25Z'
-url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/assignees{/user}
+  blobs_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/branches{/branch}
+  clone_url: https://github.com/madworm/IKEA-Samtid_mood-light.git
+  collaborators_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/comments{/number}
+  commits_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/commits{/sha}
+  compare_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/contents/{+path}
+  contributors_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/contributors
+  created_at: '2014-07-08T10:44:58Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/deployments
+  description: 'LAYOUT FILES: Circular extension board for IKEA Samtid lamps.'
+  disabled: false
+  downloads_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/downloads
+  events_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/forks
+  full_name: madworm/IKEA-Samtid_mood-light
+  git_commits_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/git/tags{/sha}
+  git_url: git://github.com/madworm/IKEA-Samtid_mood-light.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/hooks
+  html_url: https://github.com/madworm/IKEA-Samtid_mood-light
+  id: 21609124
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/issues/events{/number}
+  issues_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/issues{/number}
+  keys_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/keys{/key_id}
+  labels_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/languages
+  license: null
+  merges_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/merges
+  milestones_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/milestones{/number}
+  mirror_url: null
+  name: IKEA-Samtid_mood-light
+  node_id: MDEwOlJlcG9zaXRvcnkyMTYwOTEyNA==
+  notifications_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
+    events_url: https://api.github.com/users/madworm/events{/privacy}
+    followers_url: https://api.github.com/users/madworm/followers
+    following_url: https://api.github.com/users/madworm/following{/other_user}
+    gists_url: https://api.github.com/users/madworm/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/madworm
+    id: 343894
+    login: madworm
+    node_id: MDQ6VXNlcjM0Mzg5NA==
+    organizations_url: https://api.github.com/users/madworm/orgs
+    received_events_url: https://api.github.com/users/madworm/received_events
+    repos_url: https://api.github.com/users/madworm/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/madworm/subscriptions
+    type: User
+    url: https://api.github.com/users/madworm
+  private: false
+  pulls_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/pulls{/number}
+  pushed_at: '2015-07-12T14:07:21Z'
+  releases_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/releases{/id}
+  size: 31904
+  ssh_url: git@github.com:madworm/IKEA-Samtid_mood-light.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/stargazers
+  statuses_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/subscribers
+  subscription_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/subscription
+  svn_url: https://github.com/madworm/IKEA-Samtid_mood-light
+  tags_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/tags
+  teams_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/teams
+  topics: []
+  trees_url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light/git/trees{/sha}
+  updated_at: '2023-07-25T13:52:25Z'
+  url: https://api.github.com/repos/madworm/IKEA-Samtid_mood-light
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

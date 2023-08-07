@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/aaarsene/CC45/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/aaarsene/CC45/assignees{/user}
-blobs_url: https://api.github.com/repos/aaarsene/CC45/git/blobs{/sha}
-branches_url: https://api.github.com/repos/aaarsene/CC45/branches{/branch}
-clone_url: https://github.com/aaarsene/CC45.git
-collaborators_url: https://api.github.com/repos/aaarsene/CC45/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/aaarsene/CC45/comments{/number}
-commits_url: https://api.github.com/repos/aaarsene/CC45/commits{/sha}
-compare_url: https://api.github.com/repos/aaarsene/CC45/compare/{base}...{head}
-contents_url: https://api.github.com/repos/aaarsene/CC45/contents/{+path}
-contributors_url: https://api.github.com/repos/aaarsene/CC45/contributors
-created_at: '2020-06-15T17:32:28Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/aaarsene/CC45/deployments
-description: 45% mechanical keyboard
-disabled: false
-downloads_url: https://api.github.com/repos/aaarsene/CC45/downloads
-events_url: https://api.github.com/repos/aaarsene/CC45/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/aaarsene/CC45/forks
-full_name: aaarsene/CC45
-git_commits_url: https://api.github.com/repos/aaarsene/CC45/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/aaarsene/CC45/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/aaarsene/CC45/git/tags{/sha}
-git_url: git://github.com/aaarsene/CC45.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/aaarsene/CC45/hooks
-html_url: https://github.com/aaarsene/CC45
-id: 272503170
-is_template: false
-issue_comment_url: https://api.github.com/repos/aaarsene/CC45/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/aaarsene/CC45/issues/events{/number}
-issues_url: https://api.github.com/repos/aaarsene/CC45/issues{/number}
-keys_url: https://api.github.com/repos/aaarsene/CC45/keys{/key_id}
-labels_url: https://api.github.com/repos/aaarsene/CC45/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/aaarsene/CC45/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/aaarsene/CC45/merges
-milestones_url: https://api.github.com/repos/aaarsene/CC45/milestones{/number}
-mirror_url: null
-name: CC45
-node_id: MDEwOlJlcG9zaXRvcnkyNzI1MDMxNzA=
-notifications_url: https://api.github.com/repos/aaarsene/CC45/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/7239085?v=4
-  events_url: https://api.github.com/users/aaarsene/events{/privacy}
-  followers_url: https://api.github.com/users/aaarsene/followers
-  following_url: https://api.github.com/users/aaarsene/following{/other_user}
-  gists_url: https://api.github.com/users/aaarsene/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/aaarsene
-  id: 7239085
-  login: aaarsene
-  node_id: MDQ6VXNlcjcyMzkwODU=
-  organizations_url: https://api.github.com/users/aaarsene/orgs
-  received_events_url: https://api.github.com/users/aaarsene/received_events
-  repos_url: https://api.github.com/users/aaarsene/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/aaarsene/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/aaarsene/subscriptions
-  type: User
-  url: https://api.github.com/users/aaarsene
-private: false
+links:
+  github_owner: aaarsene
+  github_repo_name: CC45
+  github_src: https://github.com/aaarsene/CC45
+  github_src_repo: https://github.com/aaarsene/CC45
+  oomp_bot: aaarsene_cc45
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/aaarsene_cc45
+  oomp_doc: projects/aaarsene_cc45/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/aaarsene_cc45
+  oomp_src_flat: projects_flat/aaarsene_cc45
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/aaarsene_cc45
+  oomp_src_folder: projects_folder\aaarsene\CC45\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\aaarsene\CC45\version_current\working
+oomp_key: oomp_aaarsene_cc45
+oomp_key_simple: aaarsene_cc45
 projects_flat: projects_flat/aaarsene_cc45/version_current/working
 projects_folder: projects_folder/aaarsene/CC45/version_current/working
-pulls_url: https://api.github.com/repos/aaarsene/CC45/pulls{/number}
-pushed_at: '2022-03-19T12:56:02Z'
-releases_url: https://api.github.com/repos/aaarsene/CC45/releases{/id}
-size: 5745
-ssh_url: git@github.com:aaarsene/CC45.git
-stargazers_count: 8
-stargazers_url: https://api.github.com/repos/aaarsene/CC45/stargazers
-statuses_url: https://api.github.com/repos/aaarsene/CC45/statuses/{sha}
-subscribers_url: https://api.github.com/repos/aaarsene/CC45/subscribers
-subscription_url: https://api.github.com/repos/aaarsene/CC45/subscription
-svn_url: https://github.com/aaarsene/CC45
-tags_url: https://api.github.com/repos/aaarsene/CC45/tags
-teams_url: https://api.github.com/repos/aaarsene/CC45/teams
-topics: []
-trees_url: https://api.github.com/repos/aaarsene/CC45/git/trees{/sha}
-updated_at: '2022-07-12T12:35:55Z'
-url: https://api.github.com/repos/aaarsene/CC45
-visibility: public
-watchers: 8
-watchers_count: 8
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/aaarsene/CC45/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/aaarsene/CC45/assignees{/user}
+  blobs_url: https://api.github.com/repos/aaarsene/CC45/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/aaarsene/CC45/branches{/branch}
+  clone_url: https://github.com/aaarsene/CC45.git
+  collaborators_url: https://api.github.com/repos/aaarsene/CC45/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/aaarsene/CC45/comments{/number}
+  commits_url: https://api.github.com/repos/aaarsene/CC45/commits{/sha}
+  compare_url: https://api.github.com/repos/aaarsene/CC45/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/aaarsene/CC45/contents/{+path}
+  contributors_url: https://api.github.com/repos/aaarsene/CC45/contributors
+  created_at: '2020-06-15T17:32:28Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/aaarsene/CC45/deployments
+  description: 45% mechanical keyboard
+  disabled: false
+  downloads_url: https://api.github.com/repos/aaarsene/CC45/downloads
+  events_url: https://api.github.com/repos/aaarsene/CC45/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/aaarsene/CC45/forks
+  full_name: aaarsene/CC45
+  git_commits_url: https://api.github.com/repos/aaarsene/CC45/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/aaarsene/CC45/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/aaarsene/CC45/git/tags{/sha}
+  git_url: git://github.com/aaarsene/CC45.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/aaarsene/CC45/hooks
+  html_url: https://github.com/aaarsene/CC45
+  id: 272503170
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/aaarsene/CC45/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/aaarsene/CC45/issues/events{/number}
+  issues_url: https://api.github.com/repos/aaarsene/CC45/issues{/number}
+  keys_url: https://api.github.com/repos/aaarsene/CC45/keys{/key_id}
+  labels_url: https://api.github.com/repos/aaarsene/CC45/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/aaarsene/CC45/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/aaarsene/CC45/merges
+  milestones_url: https://api.github.com/repos/aaarsene/CC45/milestones{/number}
+  mirror_url: null
+  name: CC45
+  node_id: MDEwOlJlcG9zaXRvcnkyNzI1MDMxNzA=
+  notifications_url: https://api.github.com/repos/aaarsene/CC45/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/7239085?v=4
+    events_url: https://api.github.com/users/aaarsene/events{/privacy}
+    followers_url: https://api.github.com/users/aaarsene/followers
+    following_url: https://api.github.com/users/aaarsene/following{/other_user}
+    gists_url: https://api.github.com/users/aaarsene/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/aaarsene
+    id: 7239085
+    login: aaarsene
+    node_id: MDQ6VXNlcjcyMzkwODU=
+    organizations_url: https://api.github.com/users/aaarsene/orgs
+    received_events_url: https://api.github.com/users/aaarsene/received_events
+    repos_url: https://api.github.com/users/aaarsene/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/aaarsene/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/aaarsene/subscriptions
+    type: User
+    url: https://api.github.com/users/aaarsene
+  private: false
+  pulls_url: https://api.github.com/repos/aaarsene/CC45/pulls{/number}
+  pushed_at: '2022-03-19T12:56:02Z'
+  releases_url: https://api.github.com/repos/aaarsene/CC45/releases{/id}
+  size: 5745
+  ssh_url: git@github.com:aaarsene/CC45.git
+  stargazers_count: 8
+  stargazers_url: https://api.github.com/repos/aaarsene/CC45/stargazers
+  statuses_url: https://api.github.com/repos/aaarsene/CC45/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/aaarsene/CC45/subscribers
+  subscription_url: https://api.github.com/repos/aaarsene/CC45/subscription
+  svn_url: https://github.com/aaarsene/CC45
+  tags_url: https://api.github.com/repos/aaarsene/CC45/tags
+  teams_url: https://api.github.com/repos/aaarsene/CC45/teams
+  topics: []
+  trees_url: https://api.github.com/repos/aaarsene/CC45/git/trees{/sha}
+  updated_at: '2022-07-12T12:35:55Z'
+  url: https://api.github.com/repos/aaarsene/CC45
+  visibility: public
+  watchers: 8
+  watchers_count: 8
+  web_commit_signoff_required: false

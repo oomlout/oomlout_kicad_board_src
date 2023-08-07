@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/LibreSolar/uext-esp32/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/LibreSolar/uext-esp32/assignees{/user}
-blobs_url: https://api.github.com/repos/LibreSolar/uext-esp32/git/blobs{/sha}
-branches_url: https://api.github.com/repos/LibreSolar/uext-esp32/branches{/branch}
-clone_url: https://github.com/LibreSolar/uext-esp32.git
-collaborators_url: https://api.github.com/repos/LibreSolar/uext-esp32/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/LibreSolar/uext-esp32/comments{/number}
-commits_url: https://api.github.com/repos/LibreSolar/uext-esp32/commits{/sha}
-compare_url: https://api.github.com/repos/LibreSolar/uext-esp32/compare/{base}...{head}
-contents_url: https://api.github.com/repos/LibreSolar/uext-esp32/contents/{+path}
-contributors_url: https://api.github.com/repos/LibreSolar/uext-esp32/contributors
-created_at: '2019-10-12T14:43:14Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/LibreSolar/uext-esp32/deployments
-description: UEXT module with ESP32 for WiFi / Bluetooth support
-disabled: false
-downloads_url: https://api.github.com/repos/LibreSolar/uext-esp32/downloads
-events_url: https://api.github.com/repos/LibreSolar/uext-esp32/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/LibreSolar/uext-esp32/forks
-full_name: LibreSolar/uext-esp32
-git_commits_url: https://api.github.com/repos/LibreSolar/uext-esp32/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/LibreSolar/uext-esp32/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/LibreSolar/uext-esp32/git/tags{/sha}
-git_url: git://github.com/LibreSolar/uext-esp32.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/LibreSolar/uext-esp32/hooks
-html_url: https://github.com/LibreSolar/uext-esp32
-id: 214663192
-is_template: false
-issue_comment_url: https://api.github.com/repos/LibreSolar/uext-esp32/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/LibreSolar/uext-esp32/issues/events{/number}
-issues_url: https://api.github.com/repos/LibreSolar/uext-esp32/issues{/number}
-keys_url: https://api.github.com/repos/LibreSolar/uext-esp32/keys{/key_id}
-labels_url: https://api.github.com/repos/LibreSolar/uext-esp32/labels{/name}
-language: KiCad Layout
-languages_url: https://api.github.com/repos/LibreSolar/uext-esp32/languages
-license:
-  key: cc-by-sa-4.0
-  name: Creative Commons Attribution Share Alike 4.0 International
-  node_id: MDc6TGljZW5zZTI2
-  spdx_id: CC-BY-SA-4.0
-  url: https://api.github.com/licenses/cc-by-sa-4.0
-merges_url: https://api.github.com/repos/LibreSolar/uext-esp32/merges
-milestones_url: https://api.github.com/repos/LibreSolar/uext-esp32/milestones{/number}
-mirror_url: null
-name: uext-esp32
-node_id: MDEwOlJlcG9zaXRvcnkyMTQ2NjMxOTI=
-notifications_url: https://api.github.com/repos/LibreSolar/uext-esp32/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/17674115?v=4
-  events_url: https://api.github.com/users/LibreSolar/events{/privacy}
-  followers_url: https://api.github.com/users/LibreSolar/followers
-  following_url: https://api.github.com/users/LibreSolar/following{/other_user}
-  gists_url: https://api.github.com/users/LibreSolar/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/LibreSolar
-  id: 17674115
-  login: LibreSolar
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE3Njc0MTE1
-  organizations_url: https://api.github.com/users/LibreSolar/orgs
-  received_events_url: https://api.github.com/users/LibreSolar/received_events
-  repos_url: https://api.github.com/users/LibreSolar/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/LibreSolar/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/LibreSolar/subscriptions
-  type: Organization
-  url: https://api.github.com/users/LibreSolar
-private: false
+links:
+  github_owner: LibreSolar
+  github_repo_name: uext-esp32
+  github_src: https://github.com/LibreSolar/uext-esp32
+  github_src_repo: https://github.com/LibreSolar/uext-esp32
+  oomp_bot: libresolar_uext_esp32
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/libresolar_uext_esp32
+  oomp_doc: projects/libresolar_uext_esp32/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/libresolar_uext_esp32
+  oomp_src_flat: projects_flat/libresolar_uext_esp32
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/libresolar_uext_esp32
+  oomp_src_folder: projects_folder\LibreSolar\uext-esp32\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\LibreSolar\uext-esp32\version_current\working
+oomp_key: oomp_libresolar_uext_esp32
+oomp_key_simple: libresolar_uext_esp32
 projects_flat: projects_flat/libresolar_uext_esp32/version_current/working
 projects_folder: projects_folder/LibreSolar/uext-esp32/version_current/working
-pulls_url: https://api.github.com/repos/LibreSolar/uext-esp32/pulls{/number}
-pushed_at: '2019-10-12T14:43:43Z'
-releases_url: https://api.github.com/repos/LibreSolar/uext-esp32/releases{/id}
-size: 345
-ssh_url: git@github.com:LibreSolar/uext-esp32.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/LibreSolar/uext-esp32/stargazers
-statuses_url: https://api.github.com/repos/LibreSolar/uext-esp32/statuses/{sha}
-subscribers_url: https://api.github.com/repos/LibreSolar/uext-esp32/subscribers
-subscription_url: https://api.github.com/repos/LibreSolar/uext-esp32/subscription
-svn_url: https://github.com/LibreSolar/uext-esp32
-tags_url: https://api.github.com/repos/LibreSolar/uext-esp32/tags
-teams_url: https://api.github.com/repos/LibreSolar/uext-esp32/teams
-topics: []
-trees_url: https://api.github.com/repos/LibreSolar/uext-esp32/git/trees{/sha}
-updated_at: '2022-12-05T15:44:11Z'
-url: https://api.github.com/repos/LibreSolar/uext-esp32
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/LibreSolar/uext-esp32/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/LibreSolar/uext-esp32/assignees{/user}
+  blobs_url: https://api.github.com/repos/LibreSolar/uext-esp32/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/LibreSolar/uext-esp32/branches{/branch}
+  clone_url: https://github.com/LibreSolar/uext-esp32.git
+  collaborators_url: https://api.github.com/repos/LibreSolar/uext-esp32/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/LibreSolar/uext-esp32/comments{/number}
+  commits_url: https://api.github.com/repos/LibreSolar/uext-esp32/commits{/sha}
+  compare_url: https://api.github.com/repos/LibreSolar/uext-esp32/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/LibreSolar/uext-esp32/contents/{+path}
+  contributors_url: https://api.github.com/repos/LibreSolar/uext-esp32/contributors
+  created_at: '2019-10-12T14:43:14Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/LibreSolar/uext-esp32/deployments
+  description: UEXT module with ESP32 for WiFi / Bluetooth support
+  disabled: false
+  downloads_url: https://api.github.com/repos/LibreSolar/uext-esp32/downloads
+  events_url: https://api.github.com/repos/LibreSolar/uext-esp32/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/LibreSolar/uext-esp32/forks
+  full_name: LibreSolar/uext-esp32
+  git_commits_url: https://api.github.com/repos/LibreSolar/uext-esp32/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/LibreSolar/uext-esp32/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/LibreSolar/uext-esp32/git/tags{/sha}
+  git_url: git://github.com/LibreSolar/uext-esp32.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/LibreSolar/uext-esp32/hooks
+  html_url: https://github.com/LibreSolar/uext-esp32
+  id: 214663192
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/LibreSolar/uext-esp32/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/LibreSolar/uext-esp32/issues/events{/number}
+  issues_url: https://api.github.com/repos/LibreSolar/uext-esp32/issues{/number}
+  keys_url: https://api.github.com/repos/LibreSolar/uext-esp32/keys{/key_id}
+  labels_url: https://api.github.com/repos/LibreSolar/uext-esp32/labels{/name}
+  language: KiCad Layout
+  languages_url: https://api.github.com/repos/LibreSolar/uext-esp32/languages
+  license:
+    key: cc-by-sa-4.0
+    name: Creative Commons Attribution Share Alike 4.0 International
+    node_id: MDc6TGljZW5zZTI2
+    spdx_id: CC-BY-SA-4.0
+    url: https://api.github.com/licenses/cc-by-sa-4.0
+  merges_url: https://api.github.com/repos/LibreSolar/uext-esp32/merges
+  milestones_url: https://api.github.com/repos/LibreSolar/uext-esp32/milestones{/number}
+  mirror_url: null
+  name: uext-esp32
+  node_id: MDEwOlJlcG9zaXRvcnkyMTQ2NjMxOTI=
+  notifications_url: https://api.github.com/repos/LibreSolar/uext-esp32/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/17674115?v=4
+    events_url: https://api.github.com/users/LibreSolar/events{/privacy}
+    followers_url: https://api.github.com/users/LibreSolar/followers
+    following_url: https://api.github.com/users/LibreSolar/following{/other_user}
+    gists_url: https://api.github.com/users/LibreSolar/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/LibreSolar
+    id: 17674115
+    login: LibreSolar
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE3Njc0MTE1
+    organizations_url: https://api.github.com/users/LibreSolar/orgs
+    received_events_url: https://api.github.com/users/LibreSolar/received_events
+    repos_url: https://api.github.com/users/LibreSolar/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/LibreSolar/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/LibreSolar/subscriptions
+    type: Organization
+    url: https://api.github.com/users/LibreSolar
+  private: false
+  pulls_url: https://api.github.com/repos/LibreSolar/uext-esp32/pulls{/number}
+  pushed_at: '2019-10-12T14:43:43Z'
+  releases_url: https://api.github.com/repos/LibreSolar/uext-esp32/releases{/id}
+  size: 345
+  ssh_url: git@github.com:LibreSolar/uext-esp32.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/LibreSolar/uext-esp32/stargazers
+  statuses_url: https://api.github.com/repos/LibreSolar/uext-esp32/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/LibreSolar/uext-esp32/subscribers
+  subscription_url: https://api.github.com/repos/LibreSolar/uext-esp32/subscription
+  svn_url: https://github.com/LibreSolar/uext-esp32
+  tags_url: https://api.github.com/repos/LibreSolar/uext-esp32/tags
+  teams_url: https://api.github.com/repos/LibreSolar/uext-esp32/teams
+  topics: []
+  trees_url: https://api.github.com/repos/LibreSolar/uext-esp32/git/trees{/sha}
+  updated_at: '2022-12-05T15:44:11Z'
+  url: https://api.github.com/repos/LibreSolar/uext-esp32
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

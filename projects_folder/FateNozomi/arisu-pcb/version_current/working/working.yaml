@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/FateNozomi/arisu-pcb/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/FateNozomi/arisu-pcb/assignees{/user}
-blobs_url: https://api.github.com/repos/FateNozomi/arisu-pcb/git/blobs{/sha}
-branches_url: https://api.github.com/repos/FateNozomi/arisu-pcb/branches{/branch}
-clone_url: https://github.com/FateNozomi/arisu-pcb.git
-collaborators_url: https://api.github.com/repos/FateNozomi/arisu-pcb/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/FateNozomi/arisu-pcb/comments{/number}
-commits_url: https://api.github.com/repos/FateNozomi/arisu-pcb/commits{/sha}
-compare_url: https://api.github.com/repos/FateNozomi/arisu-pcb/compare/{base}...{head}
-contents_url: https://api.github.com/repos/FateNozomi/arisu-pcb/contents/{+path}
-contributors_url: https://api.github.com/repos/FateNozomi/arisu-pcb/contributors
-created_at: '2019-03-23T10:17:25Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/FateNozomi/arisu-pcb/deployments
-description: PCB design files for Arisu Keyboard
-disabled: false
-downloads_url: https://api.github.com/repos/FateNozomi/arisu-pcb/downloads
-events_url: https://api.github.com/repos/FateNozomi/arisu-pcb/events
-fork: false
-forks: 104
-forks_count: 104
-forks_url: https://api.github.com/repos/FateNozomi/arisu-pcb/forks
-full_name: FateNozomi/arisu-pcb
-git_commits_url: https://api.github.com/repos/FateNozomi/arisu-pcb/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/FateNozomi/arisu-pcb/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/FateNozomi/arisu-pcb/git/tags{/sha}
-git_url: git://github.com/FateNozomi/arisu-pcb.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/FateNozomi/arisu-pcb/hooks
-html_url: https://github.com/FateNozomi/arisu-pcb
-id: 177274246
-is_template: false
-issue_comment_url: https://api.github.com/repos/FateNozomi/arisu-pcb/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/FateNozomi/arisu-pcb/issues/events{/number}
-issues_url: https://api.github.com/repos/FateNozomi/arisu-pcb/issues{/number}
-keys_url: https://api.github.com/repos/FateNozomi/arisu-pcb/keys{/key_id}
-labels_url: https://api.github.com/repos/FateNozomi/arisu-pcb/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/FateNozomi/arisu-pcb/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/FateNozomi/arisu-pcb/merges
-milestones_url: https://api.github.com/repos/FateNozomi/arisu-pcb/milestones{/number}
-mirror_url: null
-name: arisu-pcb
-node_id: MDEwOlJlcG9zaXRvcnkxNzcyNzQyNDY=
-notifications_url: https://api.github.com/repos/FateNozomi/arisu-pcb/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6317676?v=4
-  events_url: https://api.github.com/users/FateNozomi/events{/privacy}
-  followers_url: https://api.github.com/users/FateNozomi/followers
-  following_url: https://api.github.com/users/FateNozomi/following{/other_user}
-  gists_url: https://api.github.com/users/FateNozomi/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/FateNozomi
-  id: 6317676
-  login: FateNozomi
-  node_id: MDQ6VXNlcjYzMTc2NzY=
-  organizations_url: https://api.github.com/users/FateNozomi/orgs
-  received_events_url: https://api.github.com/users/FateNozomi/received_events
-  repos_url: https://api.github.com/users/FateNozomi/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/FateNozomi/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/FateNozomi/subscriptions
-  type: User
-  url: https://api.github.com/users/FateNozomi
-private: false
+links:
+  github_owner: FateNozomi
+  github_repo_name: arisu-pcb
+  github_src: https://github.com/FateNozomi/arisu-pcb
+  github_src_repo: https://github.com/FateNozomi/arisu-pcb
+  oomp_bot: fatenozomi_arisu_pcb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/fatenozomi_arisu_pcb
+  oomp_doc: projects/fatenozomi_arisu_pcb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/fatenozomi_arisu_pcb
+  oomp_src_flat: projects_flat/fatenozomi_arisu_pcb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/fatenozomi_arisu_pcb
+  oomp_src_folder: projects_folder\FateNozomi\arisu-pcb\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\FateNozomi\arisu-pcb\version_current\working
+oomp_key: oomp_fatenozomi_arisu_pcb
+oomp_key_simple: fatenozomi_arisu_pcb
 projects_flat: projects_flat/fatenozomi_arisu_pcb/version_current/working
 projects_folder: projects_folder/FateNozomi/arisu-pcb/version_current/working
-pulls_url: https://api.github.com/repos/FateNozomi/arisu-pcb/pulls{/number}
-pushed_at: '2020-10-20T05:05:52Z'
-releases_url: https://api.github.com/repos/FateNozomi/arisu-pcb/releases{/id}
-size: 1516
-ssh_url: git@github.com:FateNozomi/arisu-pcb.git
-stargazers_count: 244
-stargazers_url: https://api.github.com/repos/FateNozomi/arisu-pcb/stargazers
-statuses_url: https://api.github.com/repos/FateNozomi/arisu-pcb/statuses/{sha}
-subscribers_url: https://api.github.com/repos/FateNozomi/arisu-pcb/subscribers
-subscription_url: https://api.github.com/repos/FateNozomi/arisu-pcb/subscription
-svn_url: https://github.com/FateNozomi/arisu-pcb
-tags_url: https://api.github.com/repos/FateNozomi/arisu-pcb/tags
-teams_url: https://api.github.com/repos/FateNozomi/arisu-pcb/teams
-topics: []
-trees_url: https://api.github.com/repos/FateNozomi/arisu-pcb/git/trees{/sha}
-updated_at: '2023-07-24T17:54:07Z'
-url: https://api.github.com/repos/FateNozomi/arisu-pcb
-visibility: public
-watchers: 244
-watchers_count: 244
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/FateNozomi/arisu-pcb/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/FateNozomi/arisu-pcb/assignees{/user}
+  blobs_url: https://api.github.com/repos/FateNozomi/arisu-pcb/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/FateNozomi/arisu-pcb/branches{/branch}
+  clone_url: https://github.com/FateNozomi/arisu-pcb.git
+  collaborators_url: https://api.github.com/repos/FateNozomi/arisu-pcb/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/FateNozomi/arisu-pcb/comments{/number}
+  commits_url: https://api.github.com/repos/FateNozomi/arisu-pcb/commits{/sha}
+  compare_url: https://api.github.com/repos/FateNozomi/arisu-pcb/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/FateNozomi/arisu-pcb/contents/{+path}
+  contributors_url: https://api.github.com/repos/FateNozomi/arisu-pcb/contributors
+  created_at: '2019-03-23T10:17:25Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/FateNozomi/arisu-pcb/deployments
+  description: PCB design files for Arisu Keyboard
+  disabled: false
+  downloads_url: https://api.github.com/repos/FateNozomi/arisu-pcb/downloads
+  events_url: https://api.github.com/repos/FateNozomi/arisu-pcb/events
+  fork: false
+  forks: 104
+  forks_count: 104
+  forks_url: https://api.github.com/repos/FateNozomi/arisu-pcb/forks
+  full_name: FateNozomi/arisu-pcb
+  git_commits_url: https://api.github.com/repos/FateNozomi/arisu-pcb/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/FateNozomi/arisu-pcb/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/FateNozomi/arisu-pcb/git/tags{/sha}
+  git_url: git://github.com/FateNozomi/arisu-pcb.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/FateNozomi/arisu-pcb/hooks
+  html_url: https://github.com/FateNozomi/arisu-pcb
+  id: 177274246
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/FateNozomi/arisu-pcb/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/FateNozomi/arisu-pcb/issues/events{/number}
+  issues_url: https://api.github.com/repos/FateNozomi/arisu-pcb/issues{/number}
+  keys_url: https://api.github.com/repos/FateNozomi/arisu-pcb/keys{/key_id}
+  labels_url: https://api.github.com/repos/FateNozomi/arisu-pcb/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/FateNozomi/arisu-pcb/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/FateNozomi/arisu-pcb/merges
+  milestones_url: https://api.github.com/repos/FateNozomi/arisu-pcb/milestones{/number}
+  mirror_url: null
+  name: arisu-pcb
+  node_id: MDEwOlJlcG9zaXRvcnkxNzcyNzQyNDY=
+  notifications_url: https://api.github.com/repos/FateNozomi/arisu-pcb/notifications{?since,all,participating}
+  open_issues: 3
+  open_issues_count: 3
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6317676?v=4
+    events_url: https://api.github.com/users/FateNozomi/events{/privacy}
+    followers_url: https://api.github.com/users/FateNozomi/followers
+    following_url: https://api.github.com/users/FateNozomi/following{/other_user}
+    gists_url: https://api.github.com/users/FateNozomi/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/FateNozomi
+    id: 6317676
+    login: FateNozomi
+    node_id: MDQ6VXNlcjYzMTc2NzY=
+    organizations_url: https://api.github.com/users/FateNozomi/orgs
+    received_events_url: https://api.github.com/users/FateNozomi/received_events
+    repos_url: https://api.github.com/users/FateNozomi/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/FateNozomi/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/FateNozomi/subscriptions
+    type: User
+    url: https://api.github.com/users/FateNozomi
+  private: false
+  pulls_url: https://api.github.com/repos/FateNozomi/arisu-pcb/pulls{/number}
+  pushed_at: '2020-10-20T05:05:52Z'
+  releases_url: https://api.github.com/repos/FateNozomi/arisu-pcb/releases{/id}
+  size: 1516
+  ssh_url: git@github.com:FateNozomi/arisu-pcb.git
+  stargazers_count: 246
+  stargazers_url: https://api.github.com/repos/FateNozomi/arisu-pcb/stargazers
+  statuses_url: https://api.github.com/repos/FateNozomi/arisu-pcb/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/FateNozomi/arisu-pcb/subscribers
+  subscription_url: https://api.github.com/repos/FateNozomi/arisu-pcb/subscription
+  svn_url: https://github.com/FateNozomi/arisu-pcb
+  tags_url: https://api.github.com/repos/FateNozomi/arisu-pcb/tags
+  teams_url: https://api.github.com/repos/FateNozomi/arisu-pcb/teams
+  topics: []
+  trees_url: https://api.github.com/repos/FateNozomi/arisu-pcb/git/trees{/sha}
+  updated_at: '2023-07-31T15:09:37Z'
+  url: https://api.github.com/repos/FateNozomi/arisu-pcb
+  visibility: public
+  watchers: 246
+  watchers_count: 246
+  web_commit_signoff_required: false

@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/branches{/branch}
-clone_url: https://github.com/OLIMEX/S3-OLinuXino.git
-collaborators_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/contributors
-created_at: '2019-10-25T14:07:35Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/deployments
-description: IP Camera with S3 SOC from Allwinner, PoE Gigabit, LCD, micro SD, Flash
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/downloads
-events_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/events
-fork: false
-forks: 15
-forks_count: 15
-forks_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/forks
-full_name: OLIMEX/S3-OLinuXino
-git_commits_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/git/tags{/sha}
-git_url: git://github.com/OLIMEX/S3-OLinuXino.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/hooks
-html_url: https://github.com/OLIMEX/S3-OLinuXino
-id: 217547635
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/merges
-milestones_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/milestones{/number}
-mirror_url: null
-name: S3-OLinuXino
-node_id: MDEwOlJlcG9zaXRvcnkyMTc1NDc2MzU=
-notifications_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: S3-OLinuXino
+  github_src: https://github.com/OLIMEX/S3-OLinuXino
+  github_src_repo: https://github.com/OLIMEX/S3-OLinuXino
+  oomp_bot: projects_olimex_s3_olinuxino
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_olimex_s3_olinuxino
+  oomp_doc: projects/projects_flat_olimex_s3_olinuxino/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_olimex_s3_olinuxino
+  oomp_src_flat: projects_flat/projects_flat_olimex_s3_olinuxino
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_olimex_s3_olinuxino
+  oomp_src_folder: projects_flat\olimex_s3_olinuxino\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\olimex_s3_olinuxino\version_current\working
+oomp_key: oomp_projects_flat_olimex_s3_olinuxino
+oomp_key_simple: projects_flat_olimex_s3_olinuxino
 projects_flat: projects_flat/olimex_s3_olinuxino/version_current/working
 projects_folder: projects_folder/OLIMEX/S3-OLinuXino/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/pulls{/number}
-pushed_at: '2020-04-24T12:14:46Z'
-releases_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/releases{/id}
-size: 20912
-ssh_url: git@github.com:OLIMEX/S3-OLinuXino.git
-stargazers_count: 37
-stargazers_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/subscription
-svn_url: https://github.com/OLIMEX/S3-OLinuXino
-tags_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/tags
-teams_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/git/trees{/sha}
-updated_at: '2023-06-20T12:33:12Z'
-url: https://api.github.com/repos/OLIMEX/S3-OLinuXino
-visibility: public
-watchers: 37
-watchers_count: 37
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/branches{/branch}
+  clone_url: https://github.com/OLIMEX/S3-OLinuXino.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/contributors
+  created_at: '2019-10-25T14:07:35Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/deployments
+  description: IP Camera with S3 SOC from Allwinner, PoE Gigabit, LCD, micro SD, Flash
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/downloads
+  events_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/events
+  fork: false
+  forks: 15
+  forks_count: 15
+  forks_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/forks
+  full_name: OLIMEX/S3-OLinuXino
+  git_commits_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/S3-OLinuXino.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/hooks
+  html_url: https://github.com/OLIMEX/S3-OLinuXino
+  id: 217547635
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/milestones{/number}
+  mirror_url: null
+  name: S3-OLinuXino
+  node_id: MDEwOlJlcG9zaXRvcnkyMTc1NDc2MzU=
+  notifications_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/pulls{/number}
+  pushed_at: '2020-04-24T12:14:46Z'
+  releases_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/releases{/id}
+  size: 20912
+  ssh_url: git@github.com:OLIMEX/S3-OLinuXino.git
+  stargazers_count: 37
+  stargazers_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/subscription
+  svn_url: https://github.com/OLIMEX/S3-OLinuXino
+  tags_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/tags
+  teams_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/S3-OLinuXino/git/trees{/sha}
+  updated_at: '2023-06-20T12:33:12Z'
+  url: https://api.github.com/repos/OLIMEX/S3-OLinuXino
+  visibility: public
+  watchers: 37
+  watchers_count: 37
+  web_commit_signoff_required: false

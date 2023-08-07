@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/assignees{/user}
-blobs_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/git/blobs{/sha}
-branches_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/branches{/branch}
-clone_url: https://github.com/jerome-labidurie/DummyLoad.git
-collaborators_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/comments{/number}
-commits_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/commits{/sha}
-compare_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/compare/{base}...{head}
-contents_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/contents/{+path}
-contributors_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/contributors
-created_at: '2015-05-10T00:11:48Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/deployments
-description: Electronic constant current dummy load
-disabled: false
-downloads_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/downloads
-events_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/forks
-full_name: jerome-labidurie/DummyLoad
-git_commits_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/git/tags{/sha}
-git_url: git://github.com/jerome-labidurie/DummyLoad.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: http://dinask.eu/hardware/dummy-load/
-hooks_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/hooks
-html_url: https://github.com/jerome-labidurie/DummyLoad
-id: 35350431
-is_template: false
-issue_comment_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/issues/events{/number}
-issues_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/issues{/number}
-keys_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/keys{/key_id}
-labels_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/languages
-license:
-  key: gpl-2.0
-  name: GNU General Public License v2.0
-  node_id: MDc6TGljZW5zZTg=
-  spdx_id: GPL-2.0
-  url: https://api.github.com/licenses/gpl-2.0
-merges_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/merges
-milestones_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/milestones{/number}
-mirror_url: null
-name: DummyLoad
-node_id: MDEwOlJlcG9zaXRvcnkzNTM1MDQzMQ==
-notifications_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3443155?v=4
-  events_url: https://api.github.com/users/jerome-labidurie/events{/privacy}
-  followers_url: https://api.github.com/users/jerome-labidurie/followers
-  following_url: https://api.github.com/users/jerome-labidurie/following{/other_user}
-  gists_url: https://api.github.com/users/jerome-labidurie/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/jerome-labidurie
-  id: 3443155
-  login: jerome-labidurie
-  node_id: MDQ6VXNlcjM0NDMxNTU=
-  organizations_url: https://api.github.com/users/jerome-labidurie/orgs
-  received_events_url: https://api.github.com/users/jerome-labidurie/received_events
-  repos_url: https://api.github.com/users/jerome-labidurie/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/jerome-labidurie/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/jerome-labidurie/subscriptions
-  type: User
-  url: https://api.github.com/users/jerome-labidurie
-private: false
+links:
+  github_owner: jerome-labidurie
+  github_repo_name: DummyLoad
+  github_src: https://github.com/jerome-labidurie/DummyLoad
+  github_src_repo: https://github.com/jerome-labidurie/DummyLoad
+  oomp_bot: projects_jerome_labidurie_dummyload
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_jerome_labidurie_dummyload
+  oomp_doc: projects/projects_flat_jerome_labidurie_dummyload/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_jerome_labidurie_dummyload
+  oomp_src_flat: projects_flat/projects_flat_jerome_labidurie_dummyload
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_jerome_labidurie_dummyload
+  oomp_src_folder: projects_flat\jerome_labidurie_dummyload\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\jerome_labidurie_dummyload\version_current\working
+oomp_key: oomp_projects_flat_jerome_labidurie_dummyload
+oomp_key_simple: projects_flat_jerome_labidurie_dummyload
 projects_flat: projects_flat/jerome_labidurie_dummyload/version_current/working
 projects_folder: projects_folder/jerome-labidurie/DummyLoad/version_current/working
-pulls_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/pulls{/number}
-pushed_at: '2015-05-25T14:24:33Z'
-releases_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/releases{/id}
-size: 408
-ssh_url: git@github.com:jerome-labidurie/DummyLoad.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/stargazers
-statuses_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/statuses/{sha}
-subscribers_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/subscribers
-subscription_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/subscription
-svn_url: https://github.com/jerome-labidurie/DummyLoad
-tags_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/tags
-teams_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/teams
-topics: []
-trees_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/git/trees{/sha}
-updated_at: '2015-12-17T21:35:20Z'
-url: https://api.github.com/repos/jerome-labidurie/DummyLoad
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/assignees{/user}
+  blobs_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/branches{/branch}
+  clone_url: https://github.com/jerome-labidurie/DummyLoad.git
+  collaborators_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/comments{/number}
+  commits_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/commits{/sha}
+  compare_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/contents/{+path}
+  contributors_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/contributors
+  created_at: '2015-05-10T00:11:48Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/deployments
+  description: Electronic constant current dummy load
+  disabled: false
+  downloads_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/downloads
+  events_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/forks
+  full_name: jerome-labidurie/DummyLoad
+  git_commits_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/git/tags{/sha}
+  git_url: git://github.com/jerome-labidurie/DummyLoad.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: http://dinask.eu/hardware/dummy-load/
+  hooks_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/hooks
+  html_url: https://github.com/jerome-labidurie/DummyLoad
+  id: 35350431
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/issues/events{/number}
+  issues_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/issues{/number}
+  keys_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/keys{/key_id}
+  labels_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/languages
+  license:
+    key: gpl-2.0
+    name: GNU General Public License v2.0
+    node_id: MDc6TGljZW5zZTg=
+    spdx_id: GPL-2.0
+    url: https://api.github.com/licenses/gpl-2.0
+  merges_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/merges
+  milestones_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/milestones{/number}
+  mirror_url: null
+  name: DummyLoad
+  node_id: MDEwOlJlcG9zaXRvcnkzNTM1MDQzMQ==
+  notifications_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3443155?v=4
+    events_url: https://api.github.com/users/jerome-labidurie/events{/privacy}
+    followers_url: https://api.github.com/users/jerome-labidurie/followers
+    following_url: https://api.github.com/users/jerome-labidurie/following{/other_user}
+    gists_url: https://api.github.com/users/jerome-labidurie/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/jerome-labidurie
+    id: 3443155
+    login: jerome-labidurie
+    node_id: MDQ6VXNlcjM0NDMxNTU=
+    organizations_url: https://api.github.com/users/jerome-labidurie/orgs
+    received_events_url: https://api.github.com/users/jerome-labidurie/received_events
+    repos_url: https://api.github.com/users/jerome-labidurie/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/jerome-labidurie/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/jerome-labidurie/subscriptions
+    type: User
+    url: https://api.github.com/users/jerome-labidurie
+  private: false
+  pulls_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/pulls{/number}
+  pushed_at: '2015-05-25T14:24:33Z'
+  releases_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/releases{/id}
+  size: 408
+  ssh_url: git@github.com:jerome-labidurie/DummyLoad.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/stargazers
+  statuses_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/subscribers
+  subscription_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/subscription
+  svn_url: https://github.com/jerome-labidurie/DummyLoad
+  tags_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/tags
+  teams_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/teams
+  topics: []
+  trees_url: https://api.github.com/repos/jerome-labidurie/DummyLoad/git/trees{/sha}
+  updated_at: '2015-12-17T21:35:20Z'
+  url: https://api.github.com/repos/jerome-labidurie/DummyLoad
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

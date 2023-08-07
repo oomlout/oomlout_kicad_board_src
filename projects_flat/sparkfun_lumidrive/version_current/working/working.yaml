@@ -1,111 +1,128 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/LumiDrive/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/LumiDrive/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/LumiDrive/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/LumiDrive/branches{/branch}
-clone_url: https://github.com/sparkfun/LumiDrive.git
-collaborators_url: https://api.github.com/repos/sparkfun/LumiDrive/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/LumiDrive/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/LumiDrive/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/LumiDrive/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/LumiDrive/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/LumiDrive/contributors
-created_at: '2018-11-01T19:04:47Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/LumiDrive/deployments
-description: "The LumiDrive LED Driver is SparkFun\u2019s foray into all things Python\
-  \ on micro-controllers. "
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/LumiDrive/downloads
-events_url: https://api.github.com/repos/sparkfun/LumiDrive/events
 file_sch_flat_folder: projects_flat_folder/sparkfun_lumidrive/version_current/working/working.sch
 file_sch_folder: projects_folder/sparkfun/LumiDrive/version_current/working/working.sch
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfun/LumiDrive/forks
-full_name: sparkfun/LumiDrive
-git_commits_url: https://api.github.com/repos/sparkfun/LumiDrive/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/LumiDrive/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/LumiDrive/git/tags{/sha}
-git_url: git://github.com/sparkfun/LumiDrive.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com
-hooks_url: https://api.github.com/repos/sparkfun/LumiDrive/hooks
-html_url: https://github.com/sparkfun/LumiDrive
-id: 155762629
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/LumiDrive/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/LumiDrive/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/LumiDrive/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/LumiDrive/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/LumiDrive/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/LumiDrive/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/LumiDrive/merges
-milestones_url: https://api.github.com/repos/sparkfun/LumiDrive/milestones{/number}
-mirror_url: null
-name: LumiDrive
-node_id: MDEwOlJlcG9zaXRvcnkxNTU3NjI2Mjk=
-notifications_url: https://api.github.com/repos/sparkfun/LumiDrive/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: LumiDrive
+  github_src: https://github.com/sparkfun/LumiDrive
+  github_src_repo: https://github.com/sparkfun/LumiDrive
+  oomp_bot: projects_sparkfun_lumidrive
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_lumidrive
+  oomp_doc: projects/projects_flat_sparkfun_lumidrive/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_lumidrive
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_lumidrive
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_lumidrive
+  oomp_src_folder: projects_flat\sparkfun_lumidrive\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lumidrive\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_lumidrive
+oomp_key_simple: projects_flat_sparkfun_lumidrive
+projects_flat: projects_flat/sparkfun_lumidrive/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lumidrive/version_current/working
 projects_folder: projects_folder/sparkfun/LumiDrive/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/LumiDrive/pulls{/number}
-pushed_at: '2019-02-01T17:55:56Z'
-releases_url: https://api.github.com/repos/sparkfun/LumiDrive/releases{/id}
-size: 597
-ssh_url: git@github.com:sparkfun/LumiDrive.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/sparkfun/LumiDrive/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/LumiDrive/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/LumiDrive/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/LumiDrive/subscription
-svn_url: https://github.com/sparkfun/LumiDrive
-tags_url: https://api.github.com/repos/sparkfun/LumiDrive/tags
-teams_url: https://api.github.com/repos/sparkfun/LumiDrive/teams
-topics:
-- apa102
-- leds
-- sparkfun
-- sparkfun-products
-trees_url: https://api.github.com/repos/sparkfun/LumiDrive/git/trees{/sha}
-updated_at: '2023-03-12T16:11:22Z'
-url: https://api.github.com/repos/sparkfun/LumiDrive
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/LumiDrive/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/LumiDrive/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/LumiDrive/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/LumiDrive/branches{/branch}
+  clone_url: https://github.com/sparkfun/LumiDrive.git
+  collaborators_url: https://api.github.com/repos/sparkfun/LumiDrive/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/LumiDrive/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/LumiDrive/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/LumiDrive/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/LumiDrive/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/LumiDrive/contributors
+  created_at: '2018-11-01T19:04:47Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/LumiDrive/deployments
+  description: "The LumiDrive LED Driver is SparkFun\u2019s foray into all things\
+    \ Python on micro-controllers. "
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/LumiDrive/downloads
+  events_url: https://api.github.com/repos/sparkfun/LumiDrive/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfun/LumiDrive/forks
+  full_name: sparkfun/LumiDrive
+  git_commits_url: https://api.github.com/repos/sparkfun/LumiDrive/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/LumiDrive/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/LumiDrive/git/tags{/sha}
+  git_url: git://github.com/sparkfun/LumiDrive.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com
+  hooks_url: https://api.github.com/repos/sparkfun/LumiDrive/hooks
+  html_url: https://github.com/sparkfun/LumiDrive
+  id: 155762629
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/LumiDrive/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/LumiDrive/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/LumiDrive/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/LumiDrive/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/LumiDrive/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/LumiDrive/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/LumiDrive/merges
+  milestones_url: https://api.github.com/repos/sparkfun/LumiDrive/milestones{/number}
+  mirror_url: null
+  name: LumiDrive
+  node_id: MDEwOlJlcG9zaXRvcnkxNTU3NjI2Mjk=
+  notifications_url: https://api.github.com/repos/sparkfun/LumiDrive/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/LumiDrive/pulls{/number}
+  pushed_at: '2019-02-01T17:55:56Z'
+  releases_url: https://api.github.com/repos/sparkfun/LumiDrive/releases{/id}
+  size: 597
+  ssh_url: git@github.com:sparkfun/LumiDrive.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/sparkfun/LumiDrive/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/LumiDrive/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/LumiDrive/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/LumiDrive/subscription
+  svn_url: https://github.com/sparkfun/LumiDrive
+  tags_url: https://api.github.com/repos/sparkfun/LumiDrive/tags
+  teams_url: https://api.github.com/repos/sparkfun/LumiDrive/teams
+  topics:
+  - apa102
+  - leds
+  - sparkfun
+  - sparkfun-products
+  trees_url: https://api.github.com/repos/sparkfun/LumiDrive/git/trees{/sha}
+  updated_at: '2023-03-12T16:11:22Z'
+  url: https://api.github.com/repos/sparkfun/LumiDrive
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

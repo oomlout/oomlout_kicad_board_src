@@ -1,110 +1,126 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/branches{/branch}
-clone_url: https://github.com/ElectronicCats/Cat-Sink.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/contributors
-created_at: '2020-10-24T19:47:20Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/deployments
-description: A USB-C PD Sink up to 20V 5A based on the Cypress CYPD3177 USB PD Controller
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/downloads
-events_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/forks
-full_name: ElectronicCats/Cat-Sink
-git_commits_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/Cat-Sink.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: false
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/hooks
-html_url: https://github.com/ElectronicCats/Cat-Sink
-id: 306959447
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/milestones{/number}
-mirror_url: null
-name: Cat-Sink
-node_id: MDEwOlJlcG9zaXRvcnkzMDY5NTk0NDc=
-notifications_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: Cat-Sink
+  github_src: https://github.com/ElectronicCats/Cat-Sink
+  github_src_repo: https://github.com/ElectronicCats/Cat-Sink
+  oomp_bot: electroniccats_cat_sink
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electroniccats_cat_sink
+  oomp_doc: projects/electroniccats_cat_sink/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electroniccats_cat_sink
+  oomp_src_flat: projects_flat/electroniccats_cat_sink
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electroniccats_cat_sink
+  oomp_src_folder: projects_folder\ElectronicCats\Cat-Sink\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ElectronicCats\Cat-Sink\version_current\working
+oomp_key: oomp_electroniccats_cat_sink
+oomp_key_simple: electroniccats_cat_sink
 projects_flat: projects_flat/electroniccats_cat_sink/version_current/working
 projects_folder: projects_folder/ElectronicCats/Cat-Sink/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/pulls{/number}
-pushed_at: '2022-08-08T23:27:41Z'
-releases_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/releases{/id}
-size: 984
-ssh_url: git@github.com:ElectronicCats/Cat-Sink.git
-stargazers_count: 7
-stargazers_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/subscription
-svn_url: https://github.com/ElectronicCats/Cat-Sink
-tags_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/tags
-teams_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/teams
-topics:
-- cypd3177
-- pd
-- sink
-- usb
-- usb-c
-- usbpower
-trees_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/git/trees{/sha}
-updated_at: '2023-07-21T14:55:51Z'
-url: https://api.github.com/repos/ElectronicCats/Cat-Sink
-visibility: public
-watchers: 7
-watchers_count: 7
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/Cat-Sink.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/contributors
+  created_at: '2020-10-24T19:47:20Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/deployments
+  description: A USB-C PD Sink up to 20V 5A based on the Cypress CYPD3177 USB PD Controller
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/forks
+  full_name: ElectronicCats/Cat-Sink
+  git_commits_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/Cat-Sink.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: false
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/hooks
+  html_url: https://github.com/ElectronicCats/Cat-Sink
+  id: 306959447
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/milestones{/number}
+  mirror_url: null
+  name: Cat-Sink
+  node_id: MDEwOlJlcG9zaXRvcnkzMDY5NTk0NDc=
+  notifications_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/pulls{/number}
+  pushed_at: '2022-08-08T23:27:41Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/releases{/id}
+  size: 984
+  ssh_url: git@github.com:ElectronicCats/Cat-Sink.git
+  stargazers_count: 7
+  stargazers_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/subscription
+  svn_url: https://github.com/ElectronicCats/Cat-Sink
+  tags_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/teams
+  topics:
+  - cypd3177
+  - pd
+  - sink
+  - usb
+  - usb-c
+  - usbpower
+  trees_url: https://api.github.com/repos/ElectronicCats/Cat-Sink/git/trees{/sha}
+  updated_at: '2023-07-21T14:55:51Z'
+  url: https://api.github.com/repos/ElectronicCats/Cat-Sink
+  visibility: public
+  watchers: 7
+  watchers_count: 7
+  web_commit_signoff_required: true

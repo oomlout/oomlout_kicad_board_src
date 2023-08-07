@@ -1,109 +1,125 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/greatscottgadgets/hackrf/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/greatscottgadgets/hackrf/assignees{/user}
-blobs_url: https://api.github.com/repos/greatscottgadgets/hackrf/git/blobs{/sha}
-branches_url: https://api.github.com/repos/greatscottgadgets/hackrf/branches{/branch}
-clone_url: https://github.com/greatscottgadgets/hackrf.git
-collaborators_url: https://api.github.com/repos/greatscottgadgets/hackrf/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/greatscottgadgets/hackrf/comments{/number}
-commits_url: https://api.github.com/repos/greatscottgadgets/hackrf/commits{/sha}
-compare_url: https://api.github.com/repos/greatscottgadgets/hackrf/compare/{base}...{head}
-contents_url: https://api.github.com/repos/greatscottgadgets/hackrf/contents/{+path}
-contributors_url: https://api.github.com/repos/greatscottgadgets/hackrf/contributors
-created_at: '2012-03-10T18:31:42Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/greatscottgadgets/hackrf/deployments
-description: low cost software radio platform
-disabled: false
-downloads_url: https://api.github.com/repos/greatscottgadgets/hackrf/downloads
-events_url: https://api.github.com/repos/greatscottgadgets/hackrf/events
-fork: false
-forks: 1414
-forks_count: 1414
-forks_url: https://api.github.com/repos/greatscottgadgets/hackrf/forks
-full_name: greatscottgadgets/hackrf
-git_commits_url: https://api.github.com/repos/greatscottgadgets/hackrf/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/greatscottgadgets/hackrf/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/greatscottgadgets/hackrf/git/tags{/sha}
-git_url: git://github.com/greatscottgadgets/hackrf.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: https://greatscottgadgets.com/hackrf/
-hooks_url: https://api.github.com/repos/greatscottgadgets/hackrf/hooks
-html_url: https://github.com/greatscottgadgets/hackrf
-id: 3681392
-is_template: false
-issue_comment_url: https://api.github.com/repos/greatscottgadgets/hackrf/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/greatscottgadgets/hackrf/issues/events{/number}
-issues_url: https://api.github.com/repos/greatscottgadgets/hackrf/issues{/number}
-keys_url: https://api.github.com/repos/greatscottgadgets/hackrf/keys{/key_id}
-labels_url: https://api.github.com/repos/greatscottgadgets/hackrf/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/greatscottgadgets/hackrf/languages
-license:
-  key: gpl-2.0
-  name: GNU General Public License v2.0
-  node_id: MDc6TGljZW5zZTg=
-  spdx_id: GPL-2.0
-  url: https://api.github.com/licenses/gpl-2.0
-merges_url: https://api.github.com/repos/greatscottgadgets/hackrf/merges
-milestones_url: https://api.github.com/repos/greatscottgadgets/hackrf/milestones{/number}
-mirror_url: null
-name: hackrf
-node_id: MDEwOlJlcG9zaXRvcnkzNjgxMzky
-notifications_url: https://api.github.com/repos/greatscottgadgets/hackrf/notifications{?since,all,participating}
-open_issues: 74
-open_issues_count: 74
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5904722?v=4
-  events_url: https://api.github.com/users/greatscottgadgets/events{/privacy}
-  followers_url: https://api.github.com/users/greatscottgadgets/followers
-  following_url: https://api.github.com/users/greatscottgadgets/following{/other_user}
-  gists_url: https://api.github.com/users/greatscottgadgets/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/greatscottgadgets
-  id: 5904722
-  login: greatscottgadgets
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU5MDQ3MjI=
-  organizations_url: https://api.github.com/users/greatscottgadgets/orgs
-  received_events_url: https://api.github.com/users/greatscottgadgets/received_events
-  repos_url: https://api.github.com/users/greatscottgadgets/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/greatscottgadgets/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/greatscottgadgets/subscriptions
-  type: Organization
-  url: https://api.github.com/users/greatscottgadgets
-private: false
+links:
+  github_owner: greatscottgadgets
+  github_repo_name: hackrf
+  github_src: https://github.com/greatscottgadgets/hackrf
+  github_src_repo: https://github.com/greatscottgadgets/hackrf
+  oomp_bot: projects_greatscottgadgets_hackrf
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_greatscottgadgets_hackrf
+  oomp_doc: projects/projects_flat_greatscottgadgets_hackrf/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_greatscottgadgets_hackrf
+  oomp_src_flat: projects_flat/projects_flat_greatscottgadgets_hackrf
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_greatscottgadgets_hackrf
+  oomp_src_folder: projects_flat\greatscottgadgets_hackrf\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\greatscottgadgets_hackrf\version_current\working
+oomp_key: oomp_projects_flat_greatscottgadgets_hackrf
+oomp_key_simple: projects_flat_greatscottgadgets_hackrf
 projects_flat: projects_flat/greatscottgadgets_hackrf/version_current/working
 projects_folder: projects_folder/greatscottgadgets/hackrf/version_current/working
-pulls_url: https://api.github.com/repos/greatscottgadgets/hackrf/pulls{/number}
-pushed_at: '2023-07-14T23:59:21Z'
-releases_url: https://api.github.com/repos/greatscottgadgets/hackrf/releases{/id}
-size: 48117
-ssh_url: git@github.com:greatscottgadgets/hackrf.git
-stargazers_count: 5501
-stargazers_url: https://api.github.com/repos/greatscottgadgets/hackrf/stargazers
-statuses_url: https://api.github.com/repos/greatscottgadgets/hackrf/statuses/{sha}
-subscribers_url: https://api.github.com/repos/greatscottgadgets/hackrf/subscribers
-subscription_url: https://api.github.com/repos/greatscottgadgets/hackrf/subscription
-svn_url: https://github.com/greatscottgadgets/hackrf
-tags_url: https://api.github.com/repos/greatscottgadgets/hackrf/tags
-teams_url: https://api.github.com/repos/greatscottgadgets/hackrf/teams
-topics:
-- hackrf
-- hardware
-- radio
-- rf
-- sdr
-trees_url: https://api.github.com/repos/greatscottgadgets/hackrf/git/trees{/sha}
-updated_at: '2023-07-29T14:15:52Z'
-url: https://api.github.com/repos/greatscottgadgets/hackrf
-visibility: public
-watchers: 5501
-watchers_count: 5501
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/greatscottgadgets/hackrf/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/greatscottgadgets/hackrf/assignees{/user}
+  blobs_url: https://api.github.com/repos/greatscottgadgets/hackrf/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/greatscottgadgets/hackrf/branches{/branch}
+  clone_url: https://github.com/greatscottgadgets/hackrf.git
+  collaborators_url: https://api.github.com/repos/greatscottgadgets/hackrf/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/greatscottgadgets/hackrf/comments{/number}
+  commits_url: https://api.github.com/repos/greatscottgadgets/hackrf/commits{/sha}
+  compare_url: https://api.github.com/repos/greatscottgadgets/hackrf/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/greatscottgadgets/hackrf/contents/{+path}
+  contributors_url: https://api.github.com/repos/greatscottgadgets/hackrf/contributors
+  created_at: '2012-03-10T18:31:42Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/greatscottgadgets/hackrf/deployments
+  description: low cost software radio platform
+  disabled: false
+  downloads_url: https://api.github.com/repos/greatscottgadgets/hackrf/downloads
+  events_url: https://api.github.com/repos/greatscottgadgets/hackrf/events
+  fork: false
+  forks: 1414
+  forks_count: 1414
+  forks_url: https://api.github.com/repos/greatscottgadgets/hackrf/forks
+  full_name: greatscottgadgets/hackrf
+  git_commits_url: https://api.github.com/repos/greatscottgadgets/hackrf/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/greatscottgadgets/hackrf/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/greatscottgadgets/hackrf/git/tags{/sha}
+  git_url: git://github.com/greatscottgadgets/hackrf.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: https://greatscottgadgets.com/hackrf/
+  hooks_url: https://api.github.com/repos/greatscottgadgets/hackrf/hooks
+  html_url: https://github.com/greatscottgadgets/hackrf
+  id: 3681392
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/greatscottgadgets/hackrf/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/greatscottgadgets/hackrf/issues/events{/number}
+  issues_url: https://api.github.com/repos/greatscottgadgets/hackrf/issues{/number}
+  keys_url: https://api.github.com/repos/greatscottgadgets/hackrf/keys{/key_id}
+  labels_url: https://api.github.com/repos/greatscottgadgets/hackrf/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/greatscottgadgets/hackrf/languages
+  license:
+    key: gpl-2.0
+    name: GNU General Public License v2.0
+    node_id: MDc6TGljZW5zZTg=
+    spdx_id: GPL-2.0
+    url: https://api.github.com/licenses/gpl-2.0
+  merges_url: https://api.github.com/repos/greatscottgadgets/hackrf/merges
+  milestones_url: https://api.github.com/repos/greatscottgadgets/hackrf/milestones{/number}
+  mirror_url: null
+  name: hackrf
+  node_id: MDEwOlJlcG9zaXRvcnkzNjgxMzky
+  notifications_url: https://api.github.com/repos/greatscottgadgets/hackrf/notifications{?since,all,participating}
+  open_issues: 74
+  open_issues_count: 74
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5904722?v=4
+    events_url: https://api.github.com/users/greatscottgadgets/events{/privacy}
+    followers_url: https://api.github.com/users/greatscottgadgets/followers
+    following_url: https://api.github.com/users/greatscottgadgets/following{/other_user}
+    gists_url: https://api.github.com/users/greatscottgadgets/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/greatscottgadgets
+    id: 5904722
+    login: greatscottgadgets
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU5MDQ3MjI=
+    organizations_url: https://api.github.com/users/greatscottgadgets/orgs
+    received_events_url: https://api.github.com/users/greatscottgadgets/received_events
+    repos_url: https://api.github.com/users/greatscottgadgets/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/greatscottgadgets/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/greatscottgadgets/subscriptions
+    type: Organization
+    url: https://api.github.com/users/greatscottgadgets
+  private: false
+  pulls_url: https://api.github.com/repos/greatscottgadgets/hackrf/pulls{/number}
+  pushed_at: '2023-07-14T23:59:21Z'
+  releases_url: https://api.github.com/repos/greatscottgadgets/hackrf/releases{/id}
+  size: 48117
+  ssh_url: git@github.com:greatscottgadgets/hackrf.git
+  stargazers_count: 5515
+  stargazers_url: https://api.github.com/repos/greatscottgadgets/hackrf/stargazers
+  statuses_url: https://api.github.com/repos/greatscottgadgets/hackrf/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/greatscottgadgets/hackrf/subscribers
+  subscription_url: https://api.github.com/repos/greatscottgadgets/hackrf/subscription
+  svn_url: https://github.com/greatscottgadgets/hackrf
+  tags_url: https://api.github.com/repos/greatscottgadgets/hackrf/tags
+  teams_url: https://api.github.com/repos/greatscottgadgets/hackrf/teams
+  topics:
+  - hackrf
+  - hardware
+  - radio
+  - rf
+  - sdr
+  trees_url: https://api.github.com/repos/greatscottgadgets/hackrf/git/trees{/sha}
+  updated_at: '2023-08-06T08:19:31Z'
+  url: https://api.github.com/repos/greatscottgadgets/hackrf
+  visibility: public
+  watchers: 5515
+  watchers_count: 5515
+  web_commit_signoff_required: false

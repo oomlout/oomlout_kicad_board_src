@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/assignees{/user}
-blobs_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/branches{/branch}
-clone_url: https://github.com/Kazu-zamasu/SakuraIoT-Kicad-Module.git
-collaborators_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/comments{/number}
-commits_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/commits{/sha}
-compare_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/contents/{+path}
-contributors_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/contributors
-created_at: '2016-12-25T10:39:00Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/downloads
-events_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/forks
-full_name: Kazu-zamasu/SakuraIoT-Kicad-Module
-git_commits_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/git/tags{/sha}
-git_url: git://github.com/Kazu-zamasu/SakuraIoT-Kicad-Module.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/hooks
-html_url: https://github.com/Kazu-zamasu/SakuraIoT-Kicad-Module
-id: 77321338
-is_template: false
-issue_comment_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/issues/events{/number}
-issues_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/issues{/number}
-keys_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/keys{/key_id}
-labels_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/languages
-license: null
-merges_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/merges
-milestones_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/milestones{/number}
-mirror_url: null
-name: SakuraIoT-Kicad-Module
-node_id: MDEwOlJlcG9zaXRvcnk3NzMyMTMzOA==
-notifications_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/4456373?v=4
-  events_url: https://api.github.com/users/Kazu-zamasu/events{/privacy}
-  followers_url: https://api.github.com/users/Kazu-zamasu/followers
-  following_url: https://api.github.com/users/Kazu-zamasu/following{/other_user}
-  gists_url: https://api.github.com/users/Kazu-zamasu/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Kazu-zamasu
-  id: 4456373
-  login: Kazu-zamasu
-  node_id: MDQ6VXNlcjQ0NTYzNzM=
-  organizations_url: https://api.github.com/users/Kazu-zamasu/orgs
-  received_events_url: https://api.github.com/users/Kazu-zamasu/received_events
-  repos_url: https://api.github.com/users/Kazu-zamasu/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Kazu-zamasu/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Kazu-zamasu/subscriptions
-  type: User
-  url: https://api.github.com/users/Kazu-zamasu
-private: false
+links:
+  github_owner: Kazu-zamasu
+  github_repo_name: SakuraIoT-Kicad-Module
+  github_src: https://github.com/Kazu-zamasu/SakuraIoT-Kicad-Module
+  github_src_repo: https://github.com/Kazu-zamasu/SakuraIoT-Kicad-Module
+  oomp_bot: kazu_zamasu_sakuraiot_kicad_module
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/kazu_zamasu_sakuraiot_kicad_module
+  oomp_doc: projects/kazu_zamasu_sakuraiot_kicad_module/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/kazu_zamasu_sakuraiot_kicad_module
+  oomp_src_flat: projects_flat/kazu_zamasu_sakuraiot_kicad_module
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/kazu_zamasu_sakuraiot_kicad_module
+  oomp_src_folder: projects_folder\Kazu-zamasu\SakuraIoT-Kicad-Module\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Kazu-zamasu\SakuraIoT-Kicad-Module\version_current\working
+oomp_key: oomp_kazu_zamasu_sakuraiot_kicad_module
+oomp_key_simple: kazu_zamasu_sakuraiot_kicad_module
 projects_flat: projects_flat/kazu_zamasu_sakuraiot_kicad_module/version_current/working
 projects_folder: projects_folder/Kazu-zamasu/SakuraIoT-Kicad-Module/version_current/working
-pulls_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/pulls{/number}
-pushed_at: '2017-03-13T06:37:44Z'
-releases_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/releases{/id}
-size: 3
-ssh_url: git@github.com:Kazu-zamasu/SakuraIoT-Kicad-Module.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/stargazers
-statuses_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/subscribers
-subscription_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/subscription
-svn_url: https://github.com/Kazu-zamasu/SakuraIoT-Kicad-Module
-tags_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/tags
-teams_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/teams
-topics: []
-trees_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/git/trees{/sha}
-updated_at: '2016-12-25T10:41:16Z'
-url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/assignees{/user}
+  blobs_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/branches{/branch}
+  clone_url: https://github.com/Kazu-zamasu/SakuraIoT-Kicad-Module.git
+  collaborators_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/comments{/number}
+  commits_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/commits{/sha}
+  compare_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/contents/{+path}
+  contributors_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/contributors
+  created_at: '2016-12-25T10:39:00Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/downloads
+  events_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/forks
+  full_name: Kazu-zamasu/SakuraIoT-Kicad-Module
+  git_commits_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/git/tags{/sha}
+  git_url: git://github.com/Kazu-zamasu/SakuraIoT-Kicad-Module.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/hooks
+  html_url: https://github.com/Kazu-zamasu/SakuraIoT-Kicad-Module
+  id: 77321338
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/issues/events{/number}
+  issues_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/issues{/number}
+  keys_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/keys{/key_id}
+  labels_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/languages
+  license: null
+  merges_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/merges
+  milestones_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/milestones{/number}
+  mirror_url: null
+  name: SakuraIoT-Kicad-Module
+  node_id: MDEwOlJlcG9zaXRvcnk3NzMyMTMzOA==
+  notifications_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/4456373?v=4
+    events_url: https://api.github.com/users/Kazu-zamasu/events{/privacy}
+    followers_url: https://api.github.com/users/Kazu-zamasu/followers
+    following_url: https://api.github.com/users/Kazu-zamasu/following{/other_user}
+    gists_url: https://api.github.com/users/Kazu-zamasu/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Kazu-zamasu
+    id: 4456373
+    login: Kazu-zamasu
+    node_id: MDQ6VXNlcjQ0NTYzNzM=
+    organizations_url: https://api.github.com/users/Kazu-zamasu/orgs
+    received_events_url: https://api.github.com/users/Kazu-zamasu/received_events
+    repos_url: https://api.github.com/users/Kazu-zamasu/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Kazu-zamasu/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Kazu-zamasu/subscriptions
+    type: User
+    url: https://api.github.com/users/Kazu-zamasu
+  private: false
+  pulls_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/pulls{/number}
+  pushed_at: '2017-03-13T06:37:44Z'
+  releases_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/releases{/id}
+  size: 3
+  ssh_url: git@github.com:Kazu-zamasu/SakuraIoT-Kicad-Module.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/stargazers
+  statuses_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/subscribers
+  subscription_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/subscription
+  svn_url: https://github.com/Kazu-zamasu/SakuraIoT-Kicad-Module
+  tags_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/tags
+  teams_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module/git/trees{/sha}
+  updated_at: '2016-12-25T10:41:16Z'
+  url: https://api.github.com/repos/Kazu-zamasu/SakuraIoT-Kicad-Module
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

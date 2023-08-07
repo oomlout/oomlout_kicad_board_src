@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/nqbit/zephyr/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/nqbit/zephyr/assignees{/user}
-blobs_url: https://api.github.com/repos/nqbit/zephyr/git/blobs{/sha}
-branches_url: https://api.github.com/repos/nqbit/zephyr/branches{/branch}
-clone_url: https://github.com/nqbit/zephyr.git
-collaborators_url: https://api.github.com/repos/nqbit/zephyr/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/nqbit/zephyr/comments{/number}
-commits_url: https://api.github.com/repos/nqbit/zephyr/commits{/sha}
-compare_url: https://api.github.com/repos/nqbit/zephyr/compare/{base}...{head}
-contents_url: https://api.github.com/repos/nqbit/zephyr/contents/{+path}
-contributors_url: https://api.github.com/repos/nqbit/zephyr/contributors
-created_at: '2018-12-21T23:01:03Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/nqbit/zephyr/deployments
-description: Primary GIT Repository for the Zephyr Project
-disabled: false
-downloads_url: https://api.github.com/repos/nqbit/zephyr/downloads
-events_url: https://api.github.com/repos/nqbit/zephyr/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/nqbit/zephyr/forks
-full_name: nqbit/zephyr
-git_commits_url: https://api.github.com/repos/nqbit/zephyr/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/nqbit/zephyr/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/nqbit/zephyr/git/tags{/sha}
-git_url: git://github.com/nqbit/zephyr.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://docs.zephyrproject.org
-hooks_url: https://api.github.com/repos/nqbit/zephyr/hooks
-html_url: https://github.com/nqbit/zephyr
-id: 162764984
-is_template: false
-issue_comment_url: https://api.github.com/repos/nqbit/zephyr/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/nqbit/zephyr/issues/events{/number}
-issues_url: https://api.github.com/repos/nqbit/zephyr/issues{/number}
-keys_url: https://api.github.com/repos/nqbit/zephyr/keys{/key_id}
-labels_url: https://api.github.com/repos/nqbit/zephyr/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/nqbit/zephyr/languages
-license:
-  key: apache-2.0
-  name: Apache License 2.0
-  node_id: MDc6TGljZW5zZTI=
-  spdx_id: Apache-2.0
-  url: https://api.github.com/licenses/apache-2.0
-merges_url: https://api.github.com/repos/nqbit/zephyr/merges
-milestones_url: https://api.github.com/repos/nqbit/zephyr/milestones{/number}
-mirror_url: null
-name: zephyr
-node_id: MDEwOlJlcG9zaXRvcnkxNjI3NjQ5ODQ=
-notifications_url: https://api.github.com/repos/nqbit/zephyr/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1446767?v=4
-  events_url: https://api.github.com/users/nqbit/events{/privacy}
-  followers_url: https://api.github.com/users/nqbit/followers
-  following_url: https://api.github.com/users/nqbit/following{/other_user}
-  gists_url: https://api.github.com/users/nqbit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/nqbit
-  id: 1446767
-  login: nqbit
-  node_id: MDQ6VXNlcjE0NDY3Njc=
-  organizations_url: https://api.github.com/users/nqbit/orgs
-  received_events_url: https://api.github.com/users/nqbit/received_events
-  repos_url: https://api.github.com/users/nqbit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/nqbit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/nqbit/subscriptions
-  type: User
-  url: https://api.github.com/users/nqbit
-private: false
+links:
+  github_owner: nqbit
+  github_repo_name: zephyr
+  github_src: https://github.com/nqbit/zephyr
+  github_src_repo: https://github.com/nqbit/zephyr
+  oomp_bot: projects_nqbit_zephyr
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_nqbit_zephyr
+  oomp_doc: projects/projects_flat_nqbit_zephyr/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_nqbit_zephyr
+  oomp_src_flat: projects_flat/projects_flat_nqbit_zephyr
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_nqbit_zephyr
+  oomp_src_folder: projects_flat\nqbit_zephyr\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\nqbit_zephyr\version_current\working
+oomp_key: oomp_projects_flat_nqbit_zephyr
+oomp_key_simple: projects_flat_nqbit_zephyr
 projects_flat: projects_flat/nqbit_zephyr/version_current/working
 projects_folder: projects_folder/nqbit/zephyr/version_current/working
-pulls_url: https://api.github.com/repos/nqbit/zephyr/pulls{/number}
-pushed_at: '2018-12-21T22:26:49Z'
-releases_url: https://api.github.com/repos/nqbit/zephyr/releases{/id}
-size: 164357
-ssh_url: git@github.com:nqbit/zephyr.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/nqbit/zephyr/stargazers
-statuses_url: https://api.github.com/repos/nqbit/zephyr/statuses/{sha}
-subscribers_url: https://api.github.com/repos/nqbit/zephyr/subscribers
-subscription_url: https://api.github.com/repos/nqbit/zephyr/subscription
-svn_url: https://github.com/nqbit/zephyr
-tags_url: https://api.github.com/repos/nqbit/zephyr/tags
-teams_url: https://api.github.com/repos/nqbit/zephyr/teams
-topics: []
-trees_url: https://api.github.com/repos/nqbit/zephyr/git/trees{/sha}
-updated_at: '2018-12-21T23:01:56Z'
-url: https://api.github.com/repos/nqbit/zephyr
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/nqbit/zephyr/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/nqbit/zephyr/assignees{/user}
+  blobs_url: https://api.github.com/repos/nqbit/zephyr/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/nqbit/zephyr/branches{/branch}
+  clone_url: https://github.com/nqbit/zephyr.git
+  collaborators_url: https://api.github.com/repos/nqbit/zephyr/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/nqbit/zephyr/comments{/number}
+  commits_url: https://api.github.com/repos/nqbit/zephyr/commits{/sha}
+  compare_url: https://api.github.com/repos/nqbit/zephyr/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/nqbit/zephyr/contents/{+path}
+  contributors_url: https://api.github.com/repos/nqbit/zephyr/contributors
+  created_at: '2018-12-21T23:01:03Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/nqbit/zephyr/deployments
+  description: Primary GIT Repository for the Zephyr Project
+  disabled: false
+  downloads_url: https://api.github.com/repos/nqbit/zephyr/downloads
+  events_url: https://api.github.com/repos/nqbit/zephyr/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/nqbit/zephyr/forks
+  full_name: nqbit/zephyr
+  git_commits_url: https://api.github.com/repos/nqbit/zephyr/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/nqbit/zephyr/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/nqbit/zephyr/git/tags{/sha}
+  git_url: git://github.com/nqbit/zephyr.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://docs.zephyrproject.org
+  hooks_url: https://api.github.com/repos/nqbit/zephyr/hooks
+  html_url: https://github.com/nqbit/zephyr
+  id: 162764984
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/nqbit/zephyr/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/nqbit/zephyr/issues/events{/number}
+  issues_url: https://api.github.com/repos/nqbit/zephyr/issues{/number}
+  keys_url: https://api.github.com/repos/nqbit/zephyr/keys{/key_id}
+  labels_url: https://api.github.com/repos/nqbit/zephyr/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/nqbit/zephyr/languages
+  license:
+    key: apache-2.0
+    name: Apache License 2.0
+    node_id: MDc6TGljZW5zZTI=
+    spdx_id: Apache-2.0
+    url: https://api.github.com/licenses/apache-2.0
+  merges_url: https://api.github.com/repos/nqbit/zephyr/merges
+  milestones_url: https://api.github.com/repos/nqbit/zephyr/milestones{/number}
+  mirror_url: null
+  name: zephyr
+  node_id: MDEwOlJlcG9zaXRvcnkxNjI3NjQ5ODQ=
+  notifications_url: https://api.github.com/repos/nqbit/zephyr/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1446767?v=4
+    events_url: https://api.github.com/users/nqbit/events{/privacy}
+    followers_url: https://api.github.com/users/nqbit/followers
+    following_url: https://api.github.com/users/nqbit/following{/other_user}
+    gists_url: https://api.github.com/users/nqbit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/nqbit
+    id: 1446767
+    login: nqbit
+    node_id: MDQ6VXNlcjE0NDY3Njc=
+    organizations_url: https://api.github.com/users/nqbit/orgs
+    received_events_url: https://api.github.com/users/nqbit/received_events
+    repos_url: https://api.github.com/users/nqbit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/nqbit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/nqbit/subscriptions
+    type: User
+    url: https://api.github.com/users/nqbit
+  private: false
+  pulls_url: https://api.github.com/repos/nqbit/zephyr/pulls{/number}
+  pushed_at: '2018-12-21T22:26:49Z'
+  releases_url: https://api.github.com/repos/nqbit/zephyr/releases{/id}
+  size: 164357
+  ssh_url: git@github.com:nqbit/zephyr.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/nqbit/zephyr/stargazers
+  statuses_url: https://api.github.com/repos/nqbit/zephyr/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/nqbit/zephyr/subscribers
+  subscription_url: https://api.github.com/repos/nqbit/zephyr/subscription
+  svn_url: https://github.com/nqbit/zephyr
+  tags_url: https://api.github.com/repos/nqbit/zephyr/tags
+  teams_url: https://api.github.com/repos/nqbit/zephyr/teams
+  topics: []
+  trees_url: https://api.github.com/repos/nqbit/zephyr/git/trees{/sha}
+  updated_at: '2018-12-21T23:01:56Z'
+  url: https://api.github.com/repos/nqbit/zephyr
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

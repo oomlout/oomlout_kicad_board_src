@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dqmcdonald/9VAdapator/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dqmcdonald/9VAdapator/assignees{/user}
-blobs_url: https://api.github.com/repos/dqmcdonald/9VAdapator/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dqmcdonald/9VAdapator/branches{/branch}
-clone_url: https://github.com/dqmcdonald/9VAdapator.git
-collaborators_url: https://api.github.com/repos/dqmcdonald/9VAdapator/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dqmcdonald/9VAdapator/comments{/number}
-commits_url: https://api.github.com/repos/dqmcdonald/9VAdapator/commits{/sha}
-compare_url: https://api.github.com/repos/dqmcdonald/9VAdapator/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dqmcdonald/9VAdapator/contents/{+path}
-contributors_url: https://api.github.com/repos/dqmcdonald/9VAdapator/contributors
-created_at: '2015-01-25T22:30:10Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/dqmcdonald/9VAdapator/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/dqmcdonald/9VAdapator/downloads
-events_url: https://api.github.com/repos/dqmcdonald/9VAdapator/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/dqmcdonald/9VAdapator/forks
-full_name: dqmcdonald/9VAdapator
-git_commits_url: https://api.github.com/repos/dqmcdonald/9VAdapator/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dqmcdonald/9VAdapator/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dqmcdonald/9VAdapator/git/tags{/sha}
-git_url: git://github.com/dqmcdonald/9VAdapator.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/dqmcdonald/9VAdapator/hooks
-html_url: https://github.com/dqmcdonald/9VAdapator
-id: 29834282
-is_template: false
-issue_comment_url: https://api.github.com/repos/dqmcdonald/9VAdapator/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dqmcdonald/9VAdapator/issues/events{/number}
-issues_url: https://api.github.com/repos/dqmcdonald/9VAdapator/issues{/number}
-keys_url: https://api.github.com/repos/dqmcdonald/9VAdapator/keys{/key_id}
-labels_url: https://api.github.com/repos/dqmcdonald/9VAdapator/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/dqmcdonald/9VAdapator/languages
-license: null
-merges_url: https://api.github.com/repos/dqmcdonald/9VAdapator/merges
-milestones_url: https://api.github.com/repos/dqmcdonald/9VAdapator/milestones{/number}
-mirror_url: null
-name: 9VAdapator
-node_id: MDEwOlJlcG9zaXRvcnkyOTgzNDI4Mg==
-notifications_url: https://api.github.com/repos/dqmcdonald/9VAdapator/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1847673?v=4
-  events_url: https://api.github.com/users/dqmcdonald/events{/privacy}
-  followers_url: https://api.github.com/users/dqmcdonald/followers
-  following_url: https://api.github.com/users/dqmcdonald/following{/other_user}
-  gists_url: https://api.github.com/users/dqmcdonald/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dqmcdonald
-  id: 1847673
-  login: dqmcdonald
-  node_id: MDQ6VXNlcjE4NDc2NzM=
-  organizations_url: https://api.github.com/users/dqmcdonald/orgs
-  received_events_url: https://api.github.com/users/dqmcdonald/received_events
-  repos_url: https://api.github.com/users/dqmcdonald/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dqmcdonald/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dqmcdonald/subscriptions
-  type: User
-  url: https://api.github.com/users/dqmcdonald
-private: false
+links:
+  github_owner: dqmcdonald
+  github_repo_name: 9VAdapator
+  github_src: https://github.com/dqmcdonald/9VAdapator
+  github_src_repo: https://github.com/dqmcdonald/9VAdapator
+  oomp_bot: projects_dqmcdonald_9vadapator
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_dqmcdonald_9vadapator
+  oomp_doc: projects/projects_flat_dqmcdonald_9vadapator/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_dqmcdonald_9vadapator
+  oomp_src_flat: projects_flat/projects_flat_dqmcdonald_9vadapator
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_dqmcdonald_9vadapator
+  oomp_src_folder: projects_flat\dqmcdonald_9vadapator\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dqmcdonald_9vadapator\version_current\working
+oomp_key: oomp_projects_flat_dqmcdonald_9vadapator
+oomp_key_simple: projects_flat_dqmcdonald_9vadapator
 projects_flat: projects_flat/dqmcdonald_9vadapator/version_current/working
 projects_folder: projects_folder/dqmcdonald/9VAdapator/version_current/working
-pulls_url: https://api.github.com/repos/dqmcdonald/9VAdapator/pulls{/number}
-pushed_at: '2015-02-26T03:32:41Z'
-releases_url: https://api.github.com/repos/dqmcdonald/9VAdapator/releases{/id}
-size: 124
-ssh_url: git@github.com:dqmcdonald/9VAdapator.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/dqmcdonald/9VAdapator/stargazers
-statuses_url: https://api.github.com/repos/dqmcdonald/9VAdapator/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dqmcdonald/9VAdapator/subscribers
-subscription_url: https://api.github.com/repos/dqmcdonald/9VAdapator/subscription
-svn_url: https://github.com/dqmcdonald/9VAdapator
-tags_url: https://api.github.com/repos/dqmcdonald/9VAdapator/tags
-teams_url: https://api.github.com/repos/dqmcdonald/9VAdapator/teams
-topics: []
-trees_url: https://api.github.com/repos/dqmcdonald/9VAdapator/git/trees{/sha}
-updated_at: '2015-02-26T03:32:41Z'
-url: https://api.github.com/repos/dqmcdonald/9VAdapator
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dqmcdonald/9VAdapator/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dqmcdonald/9VAdapator/assignees{/user}
+  blobs_url: https://api.github.com/repos/dqmcdonald/9VAdapator/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dqmcdonald/9VAdapator/branches{/branch}
+  clone_url: https://github.com/dqmcdonald/9VAdapator.git
+  collaborators_url: https://api.github.com/repos/dqmcdonald/9VAdapator/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dqmcdonald/9VAdapator/comments{/number}
+  commits_url: https://api.github.com/repos/dqmcdonald/9VAdapator/commits{/sha}
+  compare_url: https://api.github.com/repos/dqmcdonald/9VAdapator/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dqmcdonald/9VAdapator/contents/{+path}
+  contributors_url: https://api.github.com/repos/dqmcdonald/9VAdapator/contributors
+  created_at: '2015-01-25T22:30:10Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/dqmcdonald/9VAdapator/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/dqmcdonald/9VAdapator/downloads
+  events_url: https://api.github.com/repos/dqmcdonald/9VAdapator/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/dqmcdonald/9VAdapator/forks
+  full_name: dqmcdonald/9VAdapator
+  git_commits_url: https://api.github.com/repos/dqmcdonald/9VAdapator/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dqmcdonald/9VAdapator/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dqmcdonald/9VAdapator/git/tags{/sha}
+  git_url: git://github.com/dqmcdonald/9VAdapator.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/dqmcdonald/9VAdapator/hooks
+  html_url: https://github.com/dqmcdonald/9VAdapator
+  id: 29834282
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dqmcdonald/9VAdapator/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dqmcdonald/9VAdapator/issues/events{/number}
+  issues_url: https://api.github.com/repos/dqmcdonald/9VAdapator/issues{/number}
+  keys_url: https://api.github.com/repos/dqmcdonald/9VAdapator/keys{/key_id}
+  labels_url: https://api.github.com/repos/dqmcdonald/9VAdapator/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/dqmcdonald/9VAdapator/languages
+  license: null
+  merges_url: https://api.github.com/repos/dqmcdonald/9VAdapator/merges
+  milestones_url: https://api.github.com/repos/dqmcdonald/9VAdapator/milestones{/number}
+  mirror_url: null
+  name: 9VAdapator
+  node_id: MDEwOlJlcG9zaXRvcnkyOTgzNDI4Mg==
+  notifications_url: https://api.github.com/repos/dqmcdonald/9VAdapator/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1847673?v=4
+    events_url: https://api.github.com/users/dqmcdonald/events{/privacy}
+    followers_url: https://api.github.com/users/dqmcdonald/followers
+    following_url: https://api.github.com/users/dqmcdonald/following{/other_user}
+    gists_url: https://api.github.com/users/dqmcdonald/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dqmcdonald
+    id: 1847673
+    login: dqmcdonald
+    node_id: MDQ6VXNlcjE4NDc2NzM=
+    organizations_url: https://api.github.com/users/dqmcdonald/orgs
+    received_events_url: https://api.github.com/users/dqmcdonald/received_events
+    repos_url: https://api.github.com/users/dqmcdonald/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dqmcdonald/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dqmcdonald/subscriptions
+    type: User
+    url: https://api.github.com/users/dqmcdonald
+  private: false
+  pulls_url: https://api.github.com/repos/dqmcdonald/9VAdapator/pulls{/number}
+  pushed_at: '2015-02-26T03:32:41Z'
+  releases_url: https://api.github.com/repos/dqmcdonald/9VAdapator/releases{/id}
+  size: 124
+  ssh_url: git@github.com:dqmcdonald/9VAdapator.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/dqmcdonald/9VAdapator/stargazers
+  statuses_url: https://api.github.com/repos/dqmcdonald/9VAdapator/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dqmcdonald/9VAdapator/subscribers
+  subscription_url: https://api.github.com/repos/dqmcdonald/9VAdapator/subscription
+  svn_url: https://github.com/dqmcdonald/9VAdapator
+  tags_url: https://api.github.com/repos/dqmcdonald/9VAdapator/tags
+  teams_url: https://api.github.com/repos/dqmcdonald/9VAdapator/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dqmcdonald/9VAdapator/git/trees{/sha}
+  updated_at: '2015-02-26T03:32:41Z'
+  url: https://api.github.com/repos/dqmcdonald/9VAdapator
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

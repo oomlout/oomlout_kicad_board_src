@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adamjvr/ESP-09-Test/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adamjvr/ESP-09-Test/assignees{/user}
-blobs_url: https://api.github.com/repos/adamjvr/ESP-09-Test/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adamjvr/ESP-09-Test/branches{/branch}
-clone_url: https://github.com/adamjvr/ESP-09-Test.git
-collaborators_url: https://api.github.com/repos/adamjvr/ESP-09-Test/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adamjvr/ESP-09-Test/comments{/number}
-commits_url: https://api.github.com/repos/adamjvr/ESP-09-Test/commits{/sha}
-compare_url: https://api.github.com/repos/adamjvr/ESP-09-Test/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adamjvr/ESP-09-Test/contents/{+path}
-contributors_url: https://api.github.com/repos/adamjvr/ESP-09-Test/contributors
-created_at: '2016-12-04T18:11:13Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adamjvr/ESP-09-Test/deployments
-description: A simple quick breakout board to test the functionality of the ESP-09
-  ESP8266 module
-disabled: false
-downloads_url: https://api.github.com/repos/adamjvr/ESP-09-Test/downloads
-events_url: https://api.github.com/repos/adamjvr/ESP-09-Test/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/adamjvr/ESP-09-Test/forks
-full_name: adamjvr/ESP-09-Test
-git_commits_url: https://api.github.com/repos/adamjvr/ESP-09-Test/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adamjvr/ESP-09-Test/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adamjvr/ESP-09-Test/git/tags{/sha}
-git_url: git://github.com/adamjvr/ESP-09-Test.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adamjvr/ESP-09-Test/hooks
-html_url: https://github.com/adamjvr/ESP-09-Test
-id: 75554929
-is_template: false
-issue_comment_url: https://api.github.com/repos/adamjvr/ESP-09-Test/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adamjvr/ESP-09-Test/issues/events{/number}
-issues_url: https://api.github.com/repos/adamjvr/ESP-09-Test/issues{/number}
-keys_url: https://api.github.com/repos/adamjvr/ESP-09-Test/keys{/key_id}
-labels_url: https://api.github.com/repos/adamjvr/ESP-09-Test/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/adamjvr/ESP-09-Test/languages
-license: null
-merges_url: https://api.github.com/repos/adamjvr/ESP-09-Test/merges
-milestones_url: https://api.github.com/repos/adamjvr/ESP-09-Test/milestones{/number}
-mirror_url: null
-name: ESP-09-Test
-node_id: MDEwOlJlcG9zaXRvcnk3NTU1NDkyOQ==
-notifications_url: https://api.github.com/repos/adamjvr/ESP-09-Test/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
-  events_url: https://api.github.com/users/adamjvr/events{/privacy}
-  followers_url: https://api.github.com/users/adamjvr/followers
-  following_url: https://api.github.com/users/adamjvr/following{/other_user}
-  gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adamjvr
-  id: 3782102
-  login: adamjvr
-  node_id: MDQ6VXNlcjM3ODIxMDI=
-  organizations_url: https://api.github.com/users/adamjvr/orgs
-  received_events_url: https://api.github.com/users/adamjvr/received_events
-  repos_url: https://api.github.com/users/adamjvr/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
-  type: User
-  url: https://api.github.com/users/adamjvr
-private: false
+links:
+  github_owner: adamjvr
+  github_repo_name: ESP-09-Test
+  github_src: https://github.com/adamjvr/ESP-09-Test
+  github_src_repo: https://github.com/adamjvr/ESP-09-Test
+  oomp_bot: adamjvr_esp_09_test
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adamjvr_esp_09_test
+  oomp_doc: projects/adamjvr_esp_09_test/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adamjvr_esp_09_test
+  oomp_src_flat: projects_flat/adamjvr_esp_09_test
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adamjvr_esp_09_test
+  oomp_src_folder: projects_folder\adamjvr\ESP-09-Test\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adamjvr\ESP-09-Test\version_current\working
+oomp_key: oomp_adamjvr_esp_09_test
+oomp_key_simple: adamjvr_esp_09_test
 projects_flat: projects_flat/adamjvr_esp_09_test/version_current/working
 projects_folder: projects_folder/adamjvr/ESP-09-Test/version_current/working
-pulls_url: https://api.github.com/repos/adamjvr/ESP-09-Test/pulls{/number}
-pushed_at: '2016-12-06T04:08:36Z'
-releases_url: https://api.github.com/repos/adamjvr/ESP-09-Test/releases{/id}
-size: 720
-ssh_url: git@github.com:adamjvr/ESP-09-Test.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/adamjvr/ESP-09-Test/stargazers
-statuses_url: https://api.github.com/repos/adamjvr/ESP-09-Test/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adamjvr/ESP-09-Test/subscribers
-subscription_url: https://api.github.com/repos/adamjvr/ESP-09-Test/subscription
-svn_url: https://github.com/adamjvr/ESP-09-Test
-tags_url: https://api.github.com/repos/adamjvr/ESP-09-Test/tags
-teams_url: https://api.github.com/repos/adamjvr/ESP-09-Test/teams
-topics: []
-trees_url: https://api.github.com/repos/adamjvr/ESP-09-Test/git/trees{/sha}
-updated_at: '2022-03-24T08:02:43Z'
-url: https://api.github.com/repos/adamjvr/ESP-09-Test
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adamjvr/ESP-09-Test/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adamjvr/ESP-09-Test/assignees{/user}
+  blobs_url: https://api.github.com/repos/adamjvr/ESP-09-Test/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adamjvr/ESP-09-Test/branches{/branch}
+  clone_url: https://github.com/adamjvr/ESP-09-Test.git
+  collaborators_url: https://api.github.com/repos/adamjvr/ESP-09-Test/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adamjvr/ESP-09-Test/comments{/number}
+  commits_url: https://api.github.com/repos/adamjvr/ESP-09-Test/commits{/sha}
+  compare_url: https://api.github.com/repos/adamjvr/ESP-09-Test/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adamjvr/ESP-09-Test/contents/{+path}
+  contributors_url: https://api.github.com/repos/adamjvr/ESP-09-Test/contributors
+  created_at: '2016-12-04T18:11:13Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adamjvr/ESP-09-Test/deployments
+  description: A simple quick breakout board to test the functionality of the ESP-09
+    ESP8266 module
+  disabled: false
+  downloads_url: https://api.github.com/repos/adamjvr/ESP-09-Test/downloads
+  events_url: https://api.github.com/repos/adamjvr/ESP-09-Test/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/adamjvr/ESP-09-Test/forks
+  full_name: adamjvr/ESP-09-Test
+  git_commits_url: https://api.github.com/repos/adamjvr/ESP-09-Test/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adamjvr/ESP-09-Test/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adamjvr/ESP-09-Test/git/tags{/sha}
+  git_url: git://github.com/adamjvr/ESP-09-Test.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adamjvr/ESP-09-Test/hooks
+  html_url: https://github.com/adamjvr/ESP-09-Test
+  id: 75554929
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adamjvr/ESP-09-Test/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adamjvr/ESP-09-Test/issues/events{/number}
+  issues_url: https://api.github.com/repos/adamjvr/ESP-09-Test/issues{/number}
+  keys_url: https://api.github.com/repos/adamjvr/ESP-09-Test/keys{/key_id}
+  labels_url: https://api.github.com/repos/adamjvr/ESP-09-Test/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/adamjvr/ESP-09-Test/languages
+  license: null
+  merges_url: https://api.github.com/repos/adamjvr/ESP-09-Test/merges
+  milestones_url: https://api.github.com/repos/adamjvr/ESP-09-Test/milestones{/number}
+  mirror_url: null
+  name: ESP-09-Test
+  node_id: MDEwOlJlcG9zaXRvcnk3NTU1NDkyOQ==
+  notifications_url: https://api.github.com/repos/adamjvr/ESP-09-Test/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
+    events_url: https://api.github.com/users/adamjvr/events{/privacy}
+    followers_url: https://api.github.com/users/adamjvr/followers
+    following_url: https://api.github.com/users/adamjvr/following{/other_user}
+    gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adamjvr
+    id: 3782102
+    login: adamjvr
+    node_id: MDQ6VXNlcjM3ODIxMDI=
+    organizations_url: https://api.github.com/users/adamjvr/orgs
+    received_events_url: https://api.github.com/users/adamjvr/received_events
+    repos_url: https://api.github.com/users/adamjvr/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
+    type: User
+    url: https://api.github.com/users/adamjvr
+  private: false
+  pulls_url: https://api.github.com/repos/adamjvr/ESP-09-Test/pulls{/number}
+  pushed_at: '2016-12-06T04:08:36Z'
+  releases_url: https://api.github.com/repos/adamjvr/ESP-09-Test/releases{/id}
+  size: 720
+  ssh_url: git@github.com:adamjvr/ESP-09-Test.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/adamjvr/ESP-09-Test/stargazers
+  statuses_url: https://api.github.com/repos/adamjvr/ESP-09-Test/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adamjvr/ESP-09-Test/subscribers
+  subscription_url: https://api.github.com/repos/adamjvr/ESP-09-Test/subscription
+  svn_url: https://github.com/adamjvr/ESP-09-Test
+  tags_url: https://api.github.com/repos/adamjvr/ESP-09-Test/tags
+  teams_url: https://api.github.com/repos/adamjvr/ESP-09-Test/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adamjvr/ESP-09-Test/git/trees{/sha}
+  updated_at: '2022-03-24T08:02:43Z'
+  url: https://api.github.com/repos/adamjvr/ESP-09-Test
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

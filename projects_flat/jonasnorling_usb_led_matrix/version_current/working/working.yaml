@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/assignees{/user}
-blobs_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/git/blobs{/sha}
-branches_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/branches{/branch}
-clone_url: https://github.com/JonasNorling/usb-led-matrix.git
-collaborators_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/comments{/number}
-commits_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/commits{/sha}
-compare_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/compare/{base}...{head}
-contents_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/contents/{+path}
-contributors_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/contributors
-created_at: '2021-03-14T07:57:29Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/deployments
-description: "8\xD78 LED matrix with STM32G4 and USB-C connector"
-disabled: false
-downloads_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/downloads
-events_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/forks
-full_name: JonasNorling/usb-led-matrix
-git_commits_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/git/tags{/sha}
-git_url: git://github.com/JonasNorling/usb-led-matrix.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/hooks
-html_url: https://github.com/JonasNorling/usb-led-matrix
-id: 347576914
-is_template: false
-issue_comment_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/issues/events{/number}
-issues_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/issues{/number}
-keys_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/keys{/key_id}
-labels_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/merges
-milestones_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/milestones{/number}
-mirror_url: null
-name: usb-led-matrix
-node_id: MDEwOlJlcG9zaXRvcnkzNDc1NzY5MTQ=
-notifications_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1885053?v=4
-  events_url: https://api.github.com/users/JonasNorling/events{/privacy}
-  followers_url: https://api.github.com/users/JonasNorling/followers
-  following_url: https://api.github.com/users/JonasNorling/following{/other_user}
-  gists_url: https://api.github.com/users/JonasNorling/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/JonasNorling
-  id: 1885053
-  login: JonasNorling
-  node_id: MDQ6VXNlcjE4ODUwNTM=
-  organizations_url: https://api.github.com/users/JonasNorling/orgs
-  received_events_url: https://api.github.com/users/JonasNorling/received_events
-  repos_url: https://api.github.com/users/JonasNorling/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/JonasNorling/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/JonasNorling/subscriptions
-  type: User
-  url: https://api.github.com/users/JonasNorling
-private: false
+links:
+  github_owner: JonasNorling
+  github_repo_name: usb-led-matrix
+  github_src: https://github.com/JonasNorling/usb-led-matrix
+  github_src_repo: https://github.com/JonasNorling/usb-led-matrix
+  oomp_bot: projects_jonasnorling_usb_led_matrix
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_jonasnorling_usb_led_matrix
+  oomp_doc: projects/projects_flat_jonasnorling_usb_led_matrix/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_jonasnorling_usb_led_matrix
+  oomp_src_flat: projects_flat/projects_flat_jonasnorling_usb_led_matrix
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_jonasnorling_usb_led_matrix
+  oomp_src_folder: projects_flat\jonasnorling_usb_led_matrix\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\jonasnorling_usb_led_matrix\version_current\working
+oomp_key: oomp_projects_flat_jonasnorling_usb_led_matrix
+oomp_key_simple: projects_flat_jonasnorling_usb_led_matrix
 projects_flat: projects_flat/jonasnorling_usb_led_matrix/version_current/working
 projects_folder: projects_folder/JonasNorling/usb-led-matrix/version_current/working
-pulls_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/pulls{/number}
-pushed_at: '2021-11-03T10:22:41Z'
-releases_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/releases{/id}
-size: 333
-ssh_url: git@github.com:JonasNorling/usb-led-matrix.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/stargazers
-statuses_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/statuses/{sha}
-subscribers_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/subscribers
-subscription_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/subscription
-svn_url: https://github.com/JonasNorling/usb-led-matrix
-tags_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/tags
-teams_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/teams
-topics: []
-trees_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/git/trees{/sha}
-updated_at: '2021-11-03T10:22:44Z'
-url: https://api.github.com/repos/JonasNorling/usb-led-matrix
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/assignees{/user}
+  blobs_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/branches{/branch}
+  clone_url: https://github.com/JonasNorling/usb-led-matrix.git
+  collaborators_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/comments{/number}
+  commits_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/commits{/sha}
+  compare_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/contents/{+path}
+  contributors_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/contributors
+  created_at: '2021-03-14T07:57:29Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/deployments
+  description: "8\xD78 LED matrix with STM32G4 and USB-C connector"
+  disabled: false
+  downloads_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/downloads
+  events_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/forks
+  full_name: JonasNorling/usb-led-matrix
+  git_commits_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/git/tags{/sha}
+  git_url: git://github.com/JonasNorling/usb-led-matrix.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/hooks
+  html_url: https://github.com/JonasNorling/usb-led-matrix
+  id: 347576914
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/issues/events{/number}
+  issues_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/issues{/number}
+  keys_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/keys{/key_id}
+  labels_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/merges
+  milestones_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/milestones{/number}
+  mirror_url: null
+  name: usb-led-matrix
+  node_id: MDEwOlJlcG9zaXRvcnkzNDc1NzY5MTQ=
+  notifications_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1885053?v=4
+    events_url: https://api.github.com/users/JonasNorling/events{/privacy}
+    followers_url: https://api.github.com/users/JonasNorling/followers
+    following_url: https://api.github.com/users/JonasNorling/following{/other_user}
+    gists_url: https://api.github.com/users/JonasNorling/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/JonasNorling
+    id: 1885053
+    login: JonasNorling
+    node_id: MDQ6VXNlcjE4ODUwNTM=
+    organizations_url: https://api.github.com/users/JonasNorling/orgs
+    received_events_url: https://api.github.com/users/JonasNorling/received_events
+    repos_url: https://api.github.com/users/JonasNorling/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/JonasNorling/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/JonasNorling/subscriptions
+    type: User
+    url: https://api.github.com/users/JonasNorling
+  private: false
+  pulls_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/pulls{/number}
+  pushed_at: '2021-11-03T10:22:41Z'
+  releases_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/releases{/id}
+  size: 333
+  ssh_url: git@github.com:JonasNorling/usb-led-matrix.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/stargazers
+  statuses_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/subscribers
+  subscription_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/subscription
+  svn_url: https://github.com/JonasNorling/usb-led-matrix
+  tags_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/tags
+  teams_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/teams
+  topics: []
+  trees_url: https://api.github.com/repos/JonasNorling/usb-led-matrix/git/trees{/sha}
+  updated_at: '2021-11-03T10:22:44Z'
+  url: https://api.github.com/repos/JonasNorling/usb-led-matrix
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

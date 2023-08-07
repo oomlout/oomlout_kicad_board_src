@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/{archive_format}{/ref}
-archived: true
-assignees_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/assignees{/user}
-blobs_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/git/blobs{/sha}
-branches_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/branches{/branch}
-clone_url: https://github.com/greatscottgadgets/greatfet-hardware.git
-collaborators_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/comments{/number}
-commits_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/commits{/sha}
-compare_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/compare/{base}...{head}
-contents_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/contents/{+path}
-contributors_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/contributors
-created_at: '2015-08-18T16:45:49Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/deployments
-description: 'This repository is deprecated. Go to:'
-disabled: false
-downloads_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/downloads
-events_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/events
 file_sch_flat: projects_flat/greatscottgadgets_greatfet_hardware/version_current/working/working.sch
 file_sch_folder: projects_folder/greatscottgadgets/greatfet-hardware/version_current/working/working.sch
-fork: false
-forks: 24
-forks_count: 24
-forks_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/forks
-full_name: greatscottgadgets/greatfet-hardware
-git_commits_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/git/tags{/sha}
-git_url: git://github.com/greatscottgadgets/greatfet-hardware.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: https://github.com/greatfet-hardware
-hooks_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/hooks
-html_url: https://github.com/greatscottgadgets/greatfet-hardware
-id: 40984456
-is_template: false
-issue_comment_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/issues/events{/number}
-issues_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/issues{/number}
-keys_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/keys{/key_id}
-labels_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/languages
-license:
-  key: bsd-3-clause
-  name: BSD 3-Clause "New" or "Revised" License
-  node_id: MDc6TGljZW5zZTU=
-  spdx_id: BSD-3-Clause
-  url: https://api.github.com/licenses/bsd-3-clause
-merges_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/merges
-milestones_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/milestones{/number}
-mirror_url: null
-name: greatfet-hardware
-node_id: MDEwOlJlcG9zaXRvcnk0MDk4NDQ1Ng==
-notifications_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5904722?v=4
-  events_url: https://api.github.com/users/greatscottgadgets/events{/privacy}
-  followers_url: https://api.github.com/users/greatscottgadgets/followers
-  following_url: https://api.github.com/users/greatscottgadgets/following{/other_user}
-  gists_url: https://api.github.com/users/greatscottgadgets/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/greatscottgadgets
-  id: 5904722
-  login: greatscottgadgets
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU5MDQ3MjI=
-  organizations_url: https://api.github.com/users/greatscottgadgets/orgs
-  received_events_url: https://api.github.com/users/greatscottgadgets/received_events
-  repos_url: https://api.github.com/users/greatscottgadgets/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/greatscottgadgets/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/greatscottgadgets/subscriptions
-  type: Organization
-  url: https://api.github.com/users/greatscottgadgets
-private: false
+links:
+  github_owner: greatscottgadgets
+  github_repo_name: greatfet-hardware
+  github_src: https://github.com/greatscottgadgets/greatfet-hardware
+  github_src_repo: https://github.com/greatscottgadgets/greatfet-hardware
+  oomp_bot: greatscottgadgets_greatfet_hardware
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/greatscottgadgets_greatfet_hardware
+  oomp_doc: projects/greatscottgadgets_greatfet_hardware/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/greatscottgadgets_greatfet_hardware
+  oomp_src_flat: projects_flat/greatscottgadgets_greatfet_hardware
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/greatscottgadgets_greatfet_hardware
+  oomp_src_folder: projects_folder\greatscottgadgets\greatfet-hardware\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\greatscottgadgets\greatfet-hardware\version_current\working
+oomp_key: oomp_greatscottgadgets_greatfet_hardware
+oomp_key_simple: greatscottgadgets_greatfet_hardware
 projects_flat: projects_flat/greatscottgadgets_greatfet_hardware/version_current/working
 projects_folder: projects_folder/greatscottgadgets/greatfet-hardware/version_current/working
-pulls_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/pulls{/number}
-pushed_at: '2019-05-27T23:56:53Z'
-releases_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/releases{/id}
-size: 3507
-ssh_url: git@github.com:greatscottgadgets/greatfet-hardware.git
-stargazers_count: 114
-stargazers_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/stargazers
-statuses_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/statuses/{sha}
-subscribers_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/subscribers
-subscription_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/subscription
-svn_url: https://github.com/greatscottgadgets/greatfet-hardware
-tags_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/tags
-teams_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/teams
-topics: []
-trees_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/git/trees{/sha}
-updated_at: '2023-07-25T14:27:01Z'
-url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware
-visibility: public
-watchers: 114
-watchers_count: 114
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/{archive_format}{/ref}
+  archived: true
+  assignees_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/assignees{/user}
+  blobs_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/branches{/branch}
+  clone_url: https://github.com/greatscottgadgets/greatfet-hardware.git
+  collaborators_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/comments{/number}
+  commits_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/commits{/sha}
+  compare_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/contents/{+path}
+  contributors_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/contributors
+  created_at: '2015-08-18T16:45:49Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/deployments
+  description: 'This repository is deprecated. Go to:'
+  disabled: false
+  downloads_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/downloads
+  events_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/events
+  fork: false
+  forks: 24
+  forks_count: 24
+  forks_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/forks
+  full_name: greatscottgadgets/greatfet-hardware
+  git_commits_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/git/tags{/sha}
+  git_url: git://github.com/greatscottgadgets/greatfet-hardware.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: https://github.com/greatfet-hardware
+  hooks_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/hooks
+  html_url: https://github.com/greatscottgadgets/greatfet-hardware
+  id: 40984456
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/issues/events{/number}
+  issues_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/issues{/number}
+  keys_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/keys{/key_id}
+  labels_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/languages
+  license:
+    key: bsd-3-clause
+    name: BSD 3-Clause "New" or "Revised" License
+    node_id: MDc6TGljZW5zZTU=
+    spdx_id: BSD-3-Clause
+    url: https://api.github.com/licenses/bsd-3-clause
+  merges_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/merges
+  milestones_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/milestones{/number}
+  mirror_url: null
+  name: greatfet-hardware
+  node_id: MDEwOlJlcG9zaXRvcnk0MDk4NDQ1Ng==
+  notifications_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5904722?v=4
+    events_url: https://api.github.com/users/greatscottgadgets/events{/privacy}
+    followers_url: https://api.github.com/users/greatscottgadgets/followers
+    following_url: https://api.github.com/users/greatscottgadgets/following{/other_user}
+    gists_url: https://api.github.com/users/greatscottgadgets/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/greatscottgadgets
+    id: 5904722
+    login: greatscottgadgets
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU5MDQ3MjI=
+    organizations_url: https://api.github.com/users/greatscottgadgets/orgs
+    received_events_url: https://api.github.com/users/greatscottgadgets/received_events
+    repos_url: https://api.github.com/users/greatscottgadgets/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/greatscottgadgets/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/greatscottgadgets/subscriptions
+    type: Organization
+    url: https://api.github.com/users/greatscottgadgets
+  private: false
+  pulls_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/pulls{/number}
+  pushed_at: '2019-05-27T23:56:53Z'
+  releases_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/releases{/id}
+  size: 3507
+  ssh_url: git@github.com:greatscottgadgets/greatfet-hardware.git
+  stargazers_count: 114
+  stargazers_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/stargazers
+  statuses_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/subscribers
+  subscription_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/subscription
+  svn_url: https://github.com/greatscottgadgets/greatfet-hardware
+  tags_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/tags
+  teams_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/teams
+  topics: []
+  trees_url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware/git/trees{/sha}
+  updated_at: '2023-07-25T14:27:01Z'
+  url: https://api.github.com/repos/greatscottgadgets/greatfet-hardware
+  visibility: public
+  watchers: 114
+  watchers_count: 114
+  web_commit_signoff_required: false

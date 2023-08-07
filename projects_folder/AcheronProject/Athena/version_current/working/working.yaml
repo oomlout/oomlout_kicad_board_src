@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/AcheronProject/Athena/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/AcheronProject/Athena/assignees{/user}
-blobs_url: https://api.github.com/repos/AcheronProject/Athena/git/blobs{/sha}
-branches_url: https://api.github.com/repos/AcheronProject/Athena/branches{/branch}
-clone_url: https://github.com/AcheronProject/Athena.git
-collaborators_url: https://api.github.com/repos/AcheronProject/Athena/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/AcheronProject/Athena/comments{/number}
-commits_url: https://api.github.com/repos/AcheronProject/Athena/commits{/sha}
-compare_url: https://api.github.com/repos/AcheronProject/Athena/compare/{base}...{head}
-contents_url: https://api.github.com/repos/AcheronProject/Athena/contents/{+path}
-contributors_url: https://api.github.com/repos/AcheronProject/Athena/contributors
-created_at: '2021-04-10T16:22:58Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/AcheronProject/Athena/deployments
-description: Athena is a "universal" TKL PCB powered by STM32 MCUs
-disabled: false
-downloads_url: https://api.github.com/repos/AcheronProject/Athena/downloads
-events_url: https://api.github.com/repos/AcheronProject/Athena/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/AcheronProject/Athena/forks
-full_name: AcheronProject/Athena
-git_commits_url: https://api.github.com/repos/AcheronProject/Athena/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/AcheronProject/Athena/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/AcheronProject/Athena/git/tags{/sha}
-git_url: git://github.com/AcheronProject/Athena.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/AcheronProject/Athena/hooks
-html_url: https://github.com/AcheronProject/Athena
-id: 356635639
-is_template: false
-issue_comment_url: https://api.github.com/repos/AcheronProject/Athena/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/AcheronProject/Athena/issues/events{/number}
-issues_url: https://api.github.com/repos/AcheronProject/Athena/issues{/number}
-keys_url: https://api.github.com/repos/AcheronProject/Athena/keys{/key_id}
-labels_url: https://api.github.com/repos/AcheronProject/Athena/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/AcheronProject/Athena/languages
-license: null
-merges_url: https://api.github.com/repos/AcheronProject/Athena/merges
-milestones_url: https://api.github.com/repos/AcheronProject/Athena/milestones{/number}
-mirror_url: null
-name: Athena
-node_id: MDEwOlJlcG9zaXRvcnkzNTY2MzU2Mzk=
-notifications_url: https://api.github.com/repos/AcheronProject/Athena/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
-  events_url: https://api.github.com/users/AcheronProject/events{/privacy}
-  followers_url: https://api.github.com/users/AcheronProject/followers
-  following_url: https://api.github.com/users/AcheronProject/following{/other_user}
-  gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/AcheronProject
-  id: 63755935
-  login: AcheronProject
-  node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
-  organizations_url: https://api.github.com/users/AcheronProject/orgs
-  received_events_url: https://api.github.com/users/AcheronProject/received_events
-  repos_url: https://api.github.com/users/AcheronProject/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
-  type: Organization
-  url: https://api.github.com/users/AcheronProject
-private: false
+links:
+  github_owner: AcheronProject
+  github_repo_name: Athena
+  github_src: https://github.com/AcheronProject/Athena
+  github_src_repo: https://github.com/AcheronProject/Athena
+  oomp_bot: acheronproject_athena
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/acheronproject_athena
+  oomp_doc: projects/acheronproject_athena/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/acheronproject_athena
+  oomp_src_flat: projects_flat/acheronproject_athena
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/acheronproject_athena
+  oomp_src_folder: projects_folder\AcheronProject\Athena\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\AcheronProject\Athena\version_current\working
+oomp_key: oomp_acheronproject_athena
+oomp_key_simple: acheronproject_athena
 projects_flat: projects_flat/acheronproject_athena/version_current/working
 projects_folder: projects_folder/AcheronProject/Athena/version_current/working
-pulls_url: https://api.github.com/repos/AcheronProject/Athena/pulls{/number}
-pushed_at: '2022-04-11T02:54:23Z'
-releases_url: https://api.github.com/repos/AcheronProject/Athena/releases{/id}
-size: 33219
-ssh_url: git@github.com:AcheronProject/Athena.git
-stargazers_count: 17
-stargazers_url: https://api.github.com/repos/AcheronProject/Athena/stargazers
-statuses_url: https://api.github.com/repos/AcheronProject/Athena/statuses/{sha}
-subscribers_url: https://api.github.com/repos/AcheronProject/Athena/subscribers
-subscription_url: https://api.github.com/repos/AcheronProject/Athena/subscription
-svn_url: https://github.com/AcheronProject/Athena
-tags_url: https://api.github.com/repos/AcheronProject/Athena/tags
-teams_url: https://api.github.com/repos/AcheronProject/Athena/teams
-topics: []
-trees_url: https://api.github.com/repos/AcheronProject/Athena/git/trees{/sha}
-updated_at: '2022-12-06T02:57:54Z'
-url: https://api.github.com/repos/AcheronProject/Athena
-visibility: public
-watchers: 17
-watchers_count: 17
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/AcheronProject/Athena/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/AcheronProject/Athena/assignees{/user}
+  blobs_url: https://api.github.com/repos/AcheronProject/Athena/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/AcheronProject/Athena/branches{/branch}
+  clone_url: https://github.com/AcheronProject/Athena.git
+  collaborators_url: https://api.github.com/repos/AcheronProject/Athena/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/AcheronProject/Athena/comments{/number}
+  commits_url: https://api.github.com/repos/AcheronProject/Athena/commits{/sha}
+  compare_url: https://api.github.com/repos/AcheronProject/Athena/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/AcheronProject/Athena/contents/{+path}
+  contributors_url: https://api.github.com/repos/AcheronProject/Athena/contributors
+  created_at: '2021-04-10T16:22:58Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/AcheronProject/Athena/deployments
+  description: Athena is a "universal" TKL PCB powered by STM32 MCUs
+  disabled: false
+  downloads_url: https://api.github.com/repos/AcheronProject/Athena/downloads
+  events_url: https://api.github.com/repos/AcheronProject/Athena/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/AcheronProject/Athena/forks
+  full_name: AcheronProject/Athena
+  git_commits_url: https://api.github.com/repos/AcheronProject/Athena/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/AcheronProject/Athena/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/AcheronProject/Athena/git/tags{/sha}
+  git_url: git://github.com/AcheronProject/Athena.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/AcheronProject/Athena/hooks
+  html_url: https://github.com/AcheronProject/Athena
+  id: 356635639
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/AcheronProject/Athena/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/AcheronProject/Athena/issues/events{/number}
+  issues_url: https://api.github.com/repos/AcheronProject/Athena/issues{/number}
+  keys_url: https://api.github.com/repos/AcheronProject/Athena/keys{/key_id}
+  labels_url: https://api.github.com/repos/AcheronProject/Athena/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/AcheronProject/Athena/languages
+  license: null
+  merges_url: https://api.github.com/repos/AcheronProject/Athena/merges
+  milestones_url: https://api.github.com/repos/AcheronProject/Athena/milestones{/number}
+  mirror_url: null
+  name: Athena
+  node_id: MDEwOlJlcG9zaXRvcnkzNTY2MzU2Mzk=
+  notifications_url: https://api.github.com/repos/AcheronProject/Athena/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+    events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+    followers_url: https://api.github.com/users/AcheronProject/followers
+    following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+    gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/AcheronProject
+    id: 63755935
+    login: AcheronProject
+    node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+    organizations_url: https://api.github.com/users/AcheronProject/orgs
+    received_events_url: https://api.github.com/users/AcheronProject/received_events
+    repos_url: https://api.github.com/users/AcheronProject/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+    type: Organization
+    url: https://api.github.com/users/AcheronProject
+  private: false
+  pulls_url: https://api.github.com/repos/AcheronProject/Athena/pulls{/number}
+  pushed_at: '2022-04-11T02:54:23Z'
+  releases_url: https://api.github.com/repos/AcheronProject/Athena/releases{/id}
+  size: 33219
+  ssh_url: git@github.com:AcheronProject/Athena.git
+  stargazers_count: 17
+  stargazers_url: https://api.github.com/repos/AcheronProject/Athena/stargazers
+  statuses_url: https://api.github.com/repos/AcheronProject/Athena/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/AcheronProject/Athena/subscribers
+  subscription_url: https://api.github.com/repos/AcheronProject/Athena/subscription
+  svn_url: https://github.com/AcheronProject/Athena
+  tags_url: https://api.github.com/repos/AcheronProject/Athena/tags
+  teams_url: https://api.github.com/repos/AcheronProject/Athena/teams
+  topics: []
+  trees_url: https://api.github.com/repos/AcheronProject/Athena/git/trees{/sha}
+  updated_at: '2022-12-06T02:57:54Z'
+  url: https://api.github.com/repos/AcheronProject/Athena
+  visibility: public
+  watchers: 17
+  watchers_count: 17
+  web_commit_signoff_required: false

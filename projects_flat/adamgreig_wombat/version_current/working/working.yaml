@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adamgreig/wombat/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adamgreig/wombat/assignees{/user}
-blobs_url: https://api.github.com/repos/adamgreig/wombat/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adamgreig/wombat/branches{/branch}
-clone_url: https://github.com/adamgreig/wombat.git
-collaborators_url: https://api.github.com/repos/adamgreig/wombat/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adamgreig/wombat/comments{/number}
-commits_url: https://api.github.com/repos/adamgreig/wombat/commits{/sha}
-compare_url: https://api.github.com/repos/adamgreig/wombat/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adamgreig/wombat/contents/{+path}
-contributors_url: https://api.github.com/repos/adamgreig/wombat/contributors
-created_at: '2011-10-08T19:26:44Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adamgreig/wombat/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/adamgreig/wombat/downloads
-events_url: https://api.github.com/repos/adamgreig/wombat/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/adamgreig/wombat/forks
-full_name: adamgreig/wombat
-git_commits_url: https://api.github.com/repos/adamgreig/wombat/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adamgreig/wombat/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adamgreig/wombat/git/tags{/sha}
-git_url: git://github.com/adamgreig/wombat.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/adamgreig/wombat/hooks
-html_url: https://github.com/adamgreig/wombat
-id: 2539634
-is_template: false
-issue_comment_url: https://api.github.com/repos/adamgreig/wombat/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adamgreig/wombat/issues/events{/number}
-issues_url: https://api.github.com/repos/adamgreig/wombat/issues{/number}
-keys_url: https://api.github.com/repos/adamgreig/wombat/keys{/key_id}
-labels_url: https://api.github.com/repos/adamgreig/wombat/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/adamgreig/wombat/languages
-license: null
-merges_url: https://api.github.com/repos/adamgreig/wombat/merges
-milestones_url: https://api.github.com/repos/adamgreig/wombat/milestones{/number}
-mirror_url: null
-name: wombat
-node_id: MDEwOlJlcG9zaXRvcnkyNTM5NjM0
-notifications_url: https://api.github.com/repos/adamgreig/wombat/notifications{?since,all,participating}
-open_issues: 33
-open_issues_count: 33
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/47219?v=4
-  events_url: https://api.github.com/users/adamgreig/events{/privacy}
-  followers_url: https://api.github.com/users/adamgreig/followers
-  following_url: https://api.github.com/users/adamgreig/following{/other_user}
-  gists_url: https://api.github.com/users/adamgreig/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adamgreig
-  id: 47219
-  login: adamgreig
-  node_id: MDQ6VXNlcjQ3MjE5
-  organizations_url: https://api.github.com/users/adamgreig/orgs
-  received_events_url: https://api.github.com/users/adamgreig/received_events
-  repos_url: https://api.github.com/users/adamgreig/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adamgreig/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adamgreig/subscriptions
-  type: User
-  url: https://api.github.com/users/adamgreig
-private: false
+links:
+  github_owner: adamgreig
+  github_repo_name: wombat
+  github_src: https://github.com/adamgreig/wombat
+  github_src_repo: https://github.com/adamgreig/wombat
+  oomp_bot: projects_adamgreig_wombat
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_adamgreig_wombat
+  oomp_doc: projects/projects_flat_adamgreig_wombat/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_adamgreig_wombat
+  oomp_src_flat: projects_flat/projects_flat_adamgreig_wombat
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_adamgreig_wombat
+  oomp_src_folder: projects_flat\adamgreig_wombat\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adamgreig_wombat\version_current\working
+oomp_key: oomp_projects_flat_adamgreig_wombat
+oomp_key_simple: projects_flat_adamgreig_wombat
 projects_flat: projects_flat/adamgreig_wombat/version_current/working
 projects_folder: projects_folder/adamgreig/wombat/version_current/working
-pulls_url: https://api.github.com/repos/adamgreig/wombat/pulls{/number}
-pushed_at: '2013-09-10T19:53:49Z'
-releases_url: https://api.github.com/repos/adamgreig/wombat/releases{/id}
-size: 2104
-ssh_url: git@github.com:adamgreig/wombat.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/adamgreig/wombat/stargazers
-statuses_url: https://api.github.com/repos/adamgreig/wombat/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adamgreig/wombat/subscribers
-subscription_url: https://api.github.com/repos/adamgreig/wombat/subscription
-svn_url: https://github.com/adamgreig/wombat
-tags_url: https://api.github.com/repos/adamgreig/wombat/tags
-teams_url: https://api.github.com/repos/adamgreig/wombat/teams
-topics: []
-trees_url: https://api.github.com/repos/adamgreig/wombat/git/trees{/sha}
-updated_at: '2014-01-09T22:34:27Z'
-url: https://api.github.com/repos/adamgreig/wombat
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adamgreig/wombat/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adamgreig/wombat/assignees{/user}
+  blobs_url: https://api.github.com/repos/adamgreig/wombat/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adamgreig/wombat/branches{/branch}
+  clone_url: https://github.com/adamgreig/wombat.git
+  collaborators_url: https://api.github.com/repos/adamgreig/wombat/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adamgreig/wombat/comments{/number}
+  commits_url: https://api.github.com/repos/adamgreig/wombat/commits{/sha}
+  compare_url: https://api.github.com/repos/adamgreig/wombat/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adamgreig/wombat/contents/{+path}
+  contributors_url: https://api.github.com/repos/adamgreig/wombat/contributors
+  created_at: '2011-10-08T19:26:44Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adamgreig/wombat/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/adamgreig/wombat/downloads
+  events_url: https://api.github.com/repos/adamgreig/wombat/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/adamgreig/wombat/forks
+  full_name: adamgreig/wombat
+  git_commits_url: https://api.github.com/repos/adamgreig/wombat/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adamgreig/wombat/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adamgreig/wombat/git/tags{/sha}
+  git_url: git://github.com/adamgreig/wombat.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/adamgreig/wombat/hooks
+  html_url: https://github.com/adamgreig/wombat
+  id: 2539634
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adamgreig/wombat/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adamgreig/wombat/issues/events{/number}
+  issues_url: https://api.github.com/repos/adamgreig/wombat/issues{/number}
+  keys_url: https://api.github.com/repos/adamgreig/wombat/keys{/key_id}
+  labels_url: https://api.github.com/repos/adamgreig/wombat/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/adamgreig/wombat/languages
+  license: null
+  merges_url: https://api.github.com/repos/adamgreig/wombat/merges
+  milestones_url: https://api.github.com/repos/adamgreig/wombat/milestones{/number}
+  mirror_url: null
+  name: wombat
+  node_id: MDEwOlJlcG9zaXRvcnkyNTM5NjM0
+  notifications_url: https://api.github.com/repos/adamgreig/wombat/notifications{?since,all,participating}
+  open_issues: 33
+  open_issues_count: 33
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/47219?v=4
+    events_url: https://api.github.com/users/adamgreig/events{/privacy}
+    followers_url: https://api.github.com/users/adamgreig/followers
+    following_url: https://api.github.com/users/adamgreig/following{/other_user}
+    gists_url: https://api.github.com/users/adamgreig/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adamgreig
+    id: 47219
+    login: adamgreig
+    node_id: MDQ6VXNlcjQ3MjE5
+    organizations_url: https://api.github.com/users/adamgreig/orgs
+    received_events_url: https://api.github.com/users/adamgreig/received_events
+    repos_url: https://api.github.com/users/adamgreig/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adamgreig/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adamgreig/subscriptions
+    type: User
+    url: https://api.github.com/users/adamgreig
+  private: false
+  pulls_url: https://api.github.com/repos/adamgreig/wombat/pulls{/number}
+  pushed_at: '2013-09-10T19:53:49Z'
+  releases_url: https://api.github.com/repos/adamgreig/wombat/releases{/id}
+  size: 2104
+  ssh_url: git@github.com:adamgreig/wombat.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/adamgreig/wombat/stargazers
+  statuses_url: https://api.github.com/repos/adamgreig/wombat/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adamgreig/wombat/subscribers
+  subscription_url: https://api.github.com/repos/adamgreig/wombat/subscription
+  svn_url: https://github.com/adamgreig/wombat
+  tags_url: https://api.github.com/repos/adamgreig/wombat/tags
+  teams_url: https://api.github.com/repos/adamgreig/wombat/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adamgreig/wombat/git/trees{/sha}
+  updated_at: '2014-01-09T22:34:27Z'
+  url: https://api.github.com/repos/adamgreig/wombat
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

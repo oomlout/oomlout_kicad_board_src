@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/assignees{/user}
-blobs_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/branches{/branch}
-clone_url: https://github.com/Kazu-zamasu/sakuraio-pcb-libraries.git
-collaborators_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/comments{/number}
-commits_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/commits{/sha}
-compare_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/contents/{+path}
-contributors_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/contributors
-created_at: '2016-12-25T10:43:12Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/deployments
-description: PCB Libraries for Sakura IoT Platform
-disabled: false
-downloads_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/downloads
-events_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/forks
-full_name: Kazu-zamasu/sakuraio-pcb-libraries
-git_commits_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/git/tags{/sha}
-git_url: git://github.com/Kazu-zamasu/sakuraio-pcb-libraries.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/hooks
-html_url: https://github.com/Kazu-zamasu/sakuraio-pcb-libraries
-id: 77321467
-is_template: false
-issue_comment_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/issues/events{/number}
-issues_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/issues{/number}
-keys_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/keys{/key_id}
-labels_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/languages
-license: null
-merges_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/merges
-milestones_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/milestones{/number}
-mirror_url: null
-name: sakuraio-pcb-libraries
-node_id: MDEwOlJlcG9zaXRvcnk3NzMyMTQ2Nw==
-notifications_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/4456373?v=4
-  events_url: https://api.github.com/users/Kazu-zamasu/events{/privacy}
-  followers_url: https://api.github.com/users/Kazu-zamasu/followers
-  following_url: https://api.github.com/users/Kazu-zamasu/following{/other_user}
-  gists_url: https://api.github.com/users/Kazu-zamasu/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Kazu-zamasu
-  id: 4456373
-  login: Kazu-zamasu
-  node_id: MDQ6VXNlcjQ0NTYzNzM=
-  organizations_url: https://api.github.com/users/Kazu-zamasu/orgs
-  received_events_url: https://api.github.com/users/Kazu-zamasu/received_events
-  repos_url: https://api.github.com/users/Kazu-zamasu/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Kazu-zamasu/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Kazu-zamasu/subscriptions
-  type: User
-  url: https://api.github.com/users/Kazu-zamasu
-private: false
+links:
+  github_owner: Kazu-zamasu
+  github_repo_name: sakuraio-pcb-libraries
+  github_src: https://github.com/Kazu-zamasu/sakuraio-pcb-libraries
+  github_src_repo: https://github.com/Kazu-zamasu/sakuraio-pcb-libraries
+  oomp_bot: kazu_zamasu_sakuraio_pcb_libraries
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/kazu_zamasu_sakuraio_pcb_libraries
+  oomp_doc: projects/kazu_zamasu_sakuraio_pcb_libraries/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/kazu_zamasu_sakuraio_pcb_libraries
+  oomp_src_flat: projects_flat/kazu_zamasu_sakuraio_pcb_libraries
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/kazu_zamasu_sakuraio_pcb_libraries
+  oomp_src_folder: projects_folder\Kazu-zamasu\sakuraio-pcb-libraries\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Kazu-zamasu\sakuraio-pcb-libraries\version_current\working
+oomp_key: oomp_kazu_zamasu_sakuraio_pcb_libraries
+oomp_key_simple: kazu_zamasu_sakuraio_pcb_libraries
 projects_flat: projects_flat/kazu_zamasu_sakuraio_pcb_libraries/version_current/working
 projects_folder: projects_folder/Kazu-zamasu/sakuraio-pcb-libraries/version_current/working
-pulls_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/pulls{/number}
-pushed_at: '2017-07-04T03:02:33Z'
-releases_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/releases{/id}
-size: 73
-ssh_url: git@github.com:Kazu-zamasu/sakuraio-pcb-libraries.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/stargazers
-statuses_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/subscribers
-subscription_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/subscription
-svn_url: https://github.com/Kazu-zamasu/sakuraio-pcb-libraries
-tags_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/tags
-teams_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/teams
-topics: []
-trees_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/git/trees{/sha}
-updated_at: '2016-12-25T10:46:54Z'
-url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/assignees{/user}
+  blobs_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/branches{/branch}
+  clone_url: https://github.com/Kazu-zamasu/sakuraio-pcb-libraries.git
+  collaborators_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/comments{/number}
+  commits_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/commits{/sha}
+  compare_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/contents/{+path}
+  contributors_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/contributors
+  created_at: '2016-12-25T10:43:12Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/deployments
+  description: PCB Libraries for Sakura IoT Platform
+  disabled: false
+  downloads_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/downloads
+  events_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/forks
+  full_name: Kazu-zamasu/sakuraio-pcb-libraries
+  git_commits_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/git/tags{/sha}
+  git_url: git://github.com/Kazu-zamasu/sakuraio-pcb-libraries.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/hooks
+  html_url: https://github.com/Kazu-zamasu/sakuraio-pcb-libraries
+  id: 77321467
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/issues/events{/number}
+  issues_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/issues{/number}
+  keys_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/keys{/key_id}
+  labels_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/languages
+  license: null
+  merges_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/merges
+  milestones_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/milestones{/number}
+  mirror_url: null
+  name: sakuraio-pcb-libraries
+  node_id: MDEwOlJlcG9zaXRvcnk3NzMyMTQ2Nw==
+  notifications_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/4456373?v=4
+    events_url: https://api.github.com/users/Kazu-zamasu/events{/privacy}
+    followers_url: https://api.github.com/users/Kazu-zamasu/followers
+    following_url: https://api.github.com/users/Kazu-zamasu/following{/other_user}
+    gists_url: https://api.github.com/users/Kazu-zamasu/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Kazu-zamasu
+    id: 4456373
+    login: Kazu-zamasu
+    node_id: MDQ6VXNlcjQ0NTYzNzM=
+    organizations_url: https://api.github.com/users/Kazu-zamasu/orgs
+    received_events_url: https://api.github.com/users/Kazu-zamasu/received_events
+    repos_url: https://api.github.com/users/Kazu-zamasu/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Kazu-zamasu/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Kazu-zamasu/subscriptions
+    type: User
+    url: https://api.github.com/users/Kazu-zamasu
+  private: false
+  pulls_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/pulls{/number}
+  pushed_at: '2017-07-04T03:02:33Z'
+  releases_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/releases{/id}
+  size: 73
+  ssh_url: git@github.com:Kazu-zamasu/sakuraio-pcb-libraries.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/stargazers
+  statuses_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/subscribers
+  subscription_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/subscription
+  svn_url: https://github.com/Kazu-zamasu/sakuraio-pcb-libraries
+  tags_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/tags
+  teams_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries/git/trees{/sha}
+  updated_at: '2016-12-25T10:46:54Z'
+  url: https://api.github.com/repos/Kazu-zamasu/sakuraio-pcb-libraries
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

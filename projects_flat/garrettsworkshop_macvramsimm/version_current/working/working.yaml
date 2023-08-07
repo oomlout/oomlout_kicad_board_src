@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/assignees{/user}
-blobs_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/git/blobs{/sha}
-branches_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/branches{/branch}
-clone_url: https://github.com/garrettsworkshop/MacVRAMSIMM.git
-collaborators_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/comments{/number}
-commits_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/commits{/sha}
-compare_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/compare/{base}...{head}
-contents_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/contents/{+path}
-contributors_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/contributors
-created_at: '2021-05-31T01:48:33Z'
-default_branch: dev
-deployments_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/deployments
-description: VRAM SIMM for 68k Macs and early Power Macintosh framebuffers
-disabled: false
-downloads_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/downloads
-events_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/forks
-full_name: garrettsworkshop/MacVRAMSIMM
-git_commits_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/git/tags{/sha}
-git_url: git://github.com/garrettsworkshop/MacVRAMSIMM.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/hooks
-html_url: https://github.com/garrettsworkshop/MacVRAMSIMM
-id: 372354156
-is_template: false
-issue_comment_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/issues/events{/number}
-issues_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/issues{/number}
-keys_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/keys{/key_id}
-labels_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/merges
-milestones_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/milestones{/number}
-mirror_url: null
-name: MacVRAMSIMM
-node_id: MDEwOlJlcG9zaXRvcnkzNzIzNTQxNTY=
-notifications_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
-  events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
-  followers_url: https://api.github.com/users/garrettsworkshop/followers
-  following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
-  gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/garrettsworkshop
-  id: 65582366
-  login: garrettsworkshop
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
-  organizations_url: https://api.github.com/users/garrettsworkshop/orgs
-  received_events_url: https://api.github.com/users/garrettsworkshop/received_events
-  repos_url: https://api.github.com/users/garrettsworkshop/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
-  type: Organization
-  url: https://api.github.com/users/garrettsworkshop
-private: false
+links:
+  github_owner: garrettsworkshop
+  github_repo_name: MacVRAMSIMM
+  github_src: https://github.com/garrettsworkshop/MacVRAMSIMM
+  github_src_repo: https://github.com/garrettsworkshop/MacVRAMSIMM
+  oomp_bot: projects_garrettsworkshop_macvramsimm
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_garrettsworkshop_macvramsimm
+  oomp_doc: projects/projects_flat_garrettsworkshop_macvramsimm/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_garrettsworkshop_macvramsimm
+  oomp_src_flat: projects_flat/projects_flat_garrettsworkshop_macvramsimm
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_garrettsworkshop_macvramsimm
+  oomp_src_folder: projects_flat\garrettsworkshop_macvramsimm\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\garrettsworkshop_macvramsimm\version_current\working
+oomp_key: oomp_projects_flat_garrettsworkshop_macvramsimm
+oomp_key_simple: projects_flat_garrettsworkshop_macvramsimm
 projects_flat: projects_flat/garrettsworkshop_macvramsimm/version_current/working
 projects_folder: projects_folder/garrettsworkshop/MacVRAMSIMM/version_current/working
-pulls_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/pulls{/number}
-pushed_at: '2023-03-06T19:42:31Z'
-releases_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/releases{/id}
-size: 5229
-ssh_url: git@github.com:garrettsworkshop/MacVRAMSIMM.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/stargazers
-statuses_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/statuses/{sha}
-subscribers_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/subscribers
-subscription_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/subscription
-svn_url: https://github.com/garrettsworkshop/MacVRAMSIMM
-tags_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/tags
-teams_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/teams
-topics: []
-trees_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/git/trees{/sha}
-updated_at: '2023-03-02T10:02:35Z'
-url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/assignees{/user}
+  blobs_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/branches{/branch}
+  clone_url: https://github.com/garrettsworkshop/MacVRAMSIMM.git
+  collaborators_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/comments{/number}
+  commits_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/commits{/sha}
+  compare_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/contents/{+path}
+  contributors_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/contributors
+  created_at: '2021-05-31T01:48:33Z'
+  default_branch: dev
+  deployments_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/deployments
+  description: VRAM SIMM for 68k Macs and early Power Macintosh framebuffers
+  disabled: false
+  downloads_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/downloads
+  events_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/forks
+  full_name: garrettsworkshop/MacVRAMSIMM
+  git_commits_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/git/tags{/sha}
+  git_url: git://github.com/garrettsworkshop/MacVRAMSIMM.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/hooks
+  html_url: https://github.com/garrettsworkshop/MacVRAMSIMM
+  id: 372354156
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/issues/events{/number}
+  issues_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/issues{/number}
+  keys_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/keys{/key_id}
+  labels_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/merges
+  milestones_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/milestones{/number}
+  mirror_url: null
+  name: MacVRAMSIMM
+  node_id: MDEwOlJlcG9zaXRvcnkzNzIzNTQxNTY=
+  notifications_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
+    events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
+    followers_url: https://api.github.com/users/garrettsworkshop/followers
+    following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
+    gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/garrettsworkshop
+    id: 65582366
+    login: garrettsworkshop
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
+    organizations_url: https://api.github.com/users/garrettsworkshop/orgs
+    received_events_url: https://api.github.com/users/garrettsworkshop/received_events
+    repos_url: https://api.github.com/users/garrettsworkshop/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
+    type: Organization
+    url: https://api.github.com/users/garrettsworkshop
+  private: false
+  pulls_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/pulls{/number}
+  pushed_at: '2023-03-06T19:42:31Z'
+  releases_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/releases{/id}
+  size: 5229
+  ssh_url: git@github.com:garrettsworkshop/MacVRAMSIMM.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/stargazers
+  statuses_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/subscribers
+  subscription_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/subscription
+  svn_url: https://github.com/garrettsworkshop/MacVRAMSIMM
+  tags_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/tags
+  teams_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/teams
+  topics: []
+  trees_url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM/git/trees{/sha}
+  updated_at: '2023-03-02T10:02:35Z'
+  url: https://api.github.com/repos/garrettsworkshop/MacVRAMSIMM
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

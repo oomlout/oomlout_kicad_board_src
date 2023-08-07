@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/DonutCables/mechkeys/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/DonutCables/mechkeys/assignees{/user}
-blobs_url: https://api.github.com/repos/DonutCables/mechkeys/git/blobs{/sha}
-branches_url: https://api.github.com/repos/DonutCables/mechkeys/branches{/branch}
-clone_url: https://github.com/DonutCables/mechkeys.git
-collaborators_url: https://api.github.com/repos/DonutCables/mechkeys/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/DonutCables/mechkeys/comments{/number}
-commits_url: https://api.github.com/repos/DonutCables/mechkeys/commits{/sha}
-compare_url: https://api.github.com/repos/DonutCables/mechkeys/compare/{base}...{head}
-contents_url: https://api.github.com/repos/DonutCables/mechkeys/contents/{+path}
-contributors_url: https://api.github.com/repos/DonutCables/mechkeys/contributors
-created_at: '2019-09-11T01:28:21Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/DonutCables/mechkeys/deployments
-description: Fork of mechkeys repository for preservation
-disabled: false
-downloads_url: https://api.github.com/repos/DonutCables/mechkeys/downloads
-events_url: https://api.github.com/repos/DonutCables/mechkeys/events
 file_sch_flat: projects_flat/donutcables_mechkeys/version_current/working/working.sch
 file_sch_folder: projects_folder/DonutCables/mechkeys/version_current/working/working.sch
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/DonutCables/mechkeys/forks
-full_name: DonutCables/mechkeys
-git_commits_url: https://api.github.com/repos/DonutCables/mechkeys/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/DonutCables/mechkeys/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/DonutCables/mechkeys/git/tags{/sha}
-git_url: git://github.com/DonutCables/mechkeys.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/DonutCables/mechkeys/hooks
-html_url: https://github.com/DonutCables/mechkeys
-id: 207695852
-is_template: false
-issue_comment_url: https://api.github.com/repos/DonutCables/mechkeys/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/DonutCables/mechkeys/issues/events{/number}
-issues_url: https://api.github.com/repos/DonutCables/mechkeys/issues{/number}
-keys_url: https://api.github.com/repos/DonutCables/mechkeys/keys{/key_id}
-labels_url: https://api.github.com/repos/DonutCables/mechkeys/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/DonutCables/mechkeys/languages
-license: null
-merges_url: https://api.github.com/repos/DonutCables/mechkeys/merges
-milestones_url: https://api.github.com/repos/DonutCables/mechkeys/milestones{/number}
-mirror_url: null
-name: mechkeys
-node_id: MDEwOlJlcG9zaXRvcnkyMDc2OTU4NTI=
-notifications_url: https://api.github.com/repos/DonutCables/mechkeys/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/19825893?v=4
-  events_url: https://api.github.com/users/DonutCables/events{/privacy}
-  followers_url: https://api.github.com/users/DonutCables/followers
-  following_url: https://api.github.com/users/DonutCables/following{/other_user}
-  gists_url: https://api.github.com/users/DonutCables/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/DonutCables
-  id: 19825893
-  login: DonutCables
-  node_id: MDQ6VXNlcjE5ODI1ODkz
-  organizations_url: https://api.github.com/users/DonutCables/orgs
-  received_events_url: https://api.github.com/users/DonutCables/received_events
-  repos_url: https://api.github.com/users/DonutCables/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/DonutCables/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/DonutCables/subscriptions
-  type: User
-  url: https://api.github.com/users/DonutCables
-private: false
+links:
+  github_owner: DonutCables
+  github_repo_name: mechkeys
+  github_src: https://github.com/DonutCables/mechkeys
+  github_src_repo: https://github.com/DonutCables/mechkeys
+  oomp_bot: donutcables_mechkeys
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/donutcables_mechkeys
+  oomp_doc: projects/donutcables_mechkeys/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/donutcables_mechkeys
+  oomp_src_flat: projects_flat/donutcables_mechkeys
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/donutcables_mechkeys
+  oomp_src_folder: projects_folder\DonutCables\mechkeys\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\DonutCables\mechkeys\version_current\working
+oomp_key: oomp_donutcables_mechkeys
+oomp_key_simple: donutcables_mechkeys
 projects_flat: projects_flat/donutcables_mechkeys/version_current/working
 projects_folder: projects_folder/DonutCables/mechkeys/version_current/working
-pulls_url: https://api.github.com/repos/DonutCables/mechkeys/pulls{/number}
-pushed_at: '2017-08-11T21:19:28Z'
-releases_url: https://api.github.com/repos/DonutCables/mechkeys/releases{/id}
-size: 757
-ssh_url: git@github.com:DonutCables/mechkeys.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/DonutCables/mechkeys/stargazers
-statuses_url: https://api.github.com/repos/DonutCables/mechkeys/statuses/{sha}
-subscribers_url: https://api.github.com/repos/DonutCables/mechkeys/subscribers
-subscription_url: https://api.github.com/repos/DonutCables/mechkeys/subscription
-svn_url: https://github.com/DonutCables/mechkeys
-tags_url: https://api.github.com/repos/DonutCables/mechkeys/tags
-teams_url: https://api.github.com/repos/DonutCables/mechkeys/teams
-topics: []
-trees_url: https://api.github.com/repos/DonutCables/mechkeys/git/trees{/sha}
-updated_at: '2019-10-16T01:03:40Z'
-url: https://api.github.com/repos/DonutCables/mechkeys
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/DonutCables/mechkeys/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/DonutCables/mechkeys/assignees{/user}
+  blobs_url: https://api.github.com/repos/DonutCables/mechkeys/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/DonutCables/mechkeys/branches{/branch}
+  clone_url: https://github.com/DonutCables/mechkeys.git
+  collaborators_url: https://api.github.com/repos/DonutCables/mechkeys/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/DonutCables/mechkeys/comments{/number}
+  commits_url: https://api.github.com/repos/DonutCables/mechkeys/commits{/sha}
+  compare_url: https://api.github.com/repos/DonutCables/mechkeys/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/DonutCables/mechkeys/contents/{+path}
+  contributors_url: https://api.github.com/repos/DonutCables/mechkeys/contributors
+  created_at: '2019-09-11T01:28:21Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/DonutCables/mechkeys/deployments
+  description: Fork of mechkeys repository for preservation
+  disabled: false
+  downloads_url: https://api.github.com/repos/DonutCables/mechkeys/downloads
+  events_url: https://api.github.com/repos/DonutCables/mechkeys/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/DonutCables/mechkeys/forks
+  full_name: DonutCables/mechkeys
+  git_commits_url: https://api.github.com/repos/DonutCables/mechkeys/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/DonutCables/mechkeys/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/DonutCables/mechkeys/git/tags{/sha}
+  git_url: git://github.com/DonutCables/mechkeys.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/DonutCables/mechkeys/hooks
+  html_url: https://github.com/DonutCables/mechkeys
+  id: 207695852
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/DonutCables/mechkeys/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/DonutCables/mechkeys/issues/events{/number}
+  issues_url: https://api.github.com/repos/DonutCables/mechkeys/issues{/number}
+  keys_url: https://api.github.com/repos/DonutCables/mechkeys/keys{/key_id}
+  labels_url: https://api.github.com/repos/DonutCables/mechkeys/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/DonutCables/mechkeys/languages
+  license: null
+  merges_url: https://api.github.com/repos/DonutCables/mechkeys/merges
+  milestones_url: https://api.github.com/repos/DonutCables/mechkeys/milestones{/number}
+  mirror_url: null
+  name: mechkeys
+  node_id: MDEwOlJlcG9zaXRvcnkyMDc2OTU4NTI=
+  notifications_url: https://api.github.com/repos/DonutCables/mechkeys/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/19825893?v=4
+    events_url: https://api.github.com/users/DonutCables/events{/privacy}
+    followers_url: https://api.github.com/users/DonutCables/followers
+    following_url: https://api.github.com/users/DonutCables/following{/other_user}
+    gists_url: https://api.github.com/users/DonutCables/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/DonutCables
+    id: 19825893
+    login: DonutCables
+    node_id: MDQ6VXNlcjE5ODI1ODkz
+    organizations_url: https://api.github.com/users/DonutCables/orgs
+    received_events_url: https://api.github.com/users/DonutCables/received_events
+    repos_url: https://api.github.com/users/DonutCables/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/DonutCables/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/DonutCables/subscriptions
+    type: User
+    url: https://api.github.com/users/DonutCables
+  private: false
+  pulls_url: https://api.github.com/repos/DonutCables/mechkeys/pulls{/number}
+  pushed_at: '2017-08-11T21:19:28Z'
+  releases_url: https://api.github.com/repos/DonutCables/mechkeys/releases{/id}
+  size: 757
+  ssh_url: git@github.com:DonutCables/mechkeys.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/DonutCables/mechkeys/stargazers
+  statuses_url: https://api.github.com/repos/DonutCables/mechkeys/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/DonutCables/mechkeys/subscribers
+  subscription_url: https://api.github.com/repos/DonutCables/mechkeys/subscription
+  svn_url: https://github.com/DonutCables/mechkeys
+  tags_url: https://api.github.com/repos/DonutCables/mechkeys/tags
+  teams_url: https://api.github.com/repos/DonutCables/mechkeys/teams
+  topics: []
+  trees_url: https://api.github.com/repos/DonutCables/mechkeys/git/trees{/sha}
+  updated_at: '2019-10-16T01:03:40Z'
+  url: https://api.github.com/repos/DonutCables/mechkeys
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

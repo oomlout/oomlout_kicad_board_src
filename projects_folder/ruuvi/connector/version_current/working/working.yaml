@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ruuvi/connector/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ruuvi/connector/assignees{/user}
-blobs_url: https://api.github.com/repos/ruuvi/connector/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ruuvi/connector/branches{/branch}
-clone_url: https://github.com/ruuvi/connector.git
-collaborators_url: https://api.github.com/repos/ruuvi/connector/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ruuvi/connector/comments{/number}
-commits_url: https://api.github.com/repos/ruuvi/connector/commits{/sha}
-compare_url: https://api.github.com/repos/ruuvi/connector/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ruuvi/connector/contents/{+path}
-contributors_url: https://api.github.com/repos/ruuvi/connector/contributors
-created_at: '2019-07-11T11:14:24Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ruuvi/connector/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/ruuvi/connector/downloads
-events_url: https://api.github.com/repos/ruuvi/connector/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/ruuvi/connector/forks
-full_name: ruuvi/connector
-git_commits_url: https://api.github.com/repos/ruuvi/connector/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ruuvi/connector/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ruuvi/connector/git/tags{/sha}
-git_url: git://github.com/ruuvi/connector.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ruuvi/connector/hooks
-html_url: https://github.com/ruuvi/connector
-id: 196379551
-is_template: true
-issue_comment_url: https://api.github.com/repos/ruuvi/connector/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ruuvi/connector/issues/events{/number}
-issues_url: https://api.github.com/repos/ruuvi/connector/issues{/number}
-keys_url: https://api.github.com/repos/ruuvi/connector/keys{/key_id}
-labels_url: https://api.github.com/repos/ruuvi/connector/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ruuvi/connector/languages
-license: null
-merges_url: https://api.github.com/repos/ruuvi/connector/merges
-milestones_url: https://api.github.com/repos/ruuvi/connector/milestones{/number}
-mirror_url: null
-name: connector
-node_id: MDEwOlJlcG9zaXRvcnkxOTYzNzk1NTE=
-notifications_url: https://api.github.com/repos/ruuvi/connector/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/12087190?v=4
-  events_url: https://api.github.com/users/ruuvi/events{/privacy}
-  followers_url: https://api.github.com/users/ruuvi/followers
-  following_url: https://api.github.com/users/ruuvi/following{/other_user}
-  gists_url: https://api.github.com/users/ruuvi/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ruuvi
-  id: 12087190
-  login: ruuvi
-  node_id: MDEyOk9yZ2FuaXphdGlvbjEyMDg3MTkw
-  organizations_url: https://api.github.com/users/ruuvi/orgs
-  received_events_url: https://api.github.com/users/ruuvi/received_events
-  repos_url: https://api.github.com/users/ruuvi/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ruuvi/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ruuvi/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ruuvi
-private: false
+links:
+  github_owner: ruuvi
+  github_repo_name: connector
+  github_src: https://github.com/ruuvi/connector
+  github_src_repo: https://github.com/ruuvi/connector
+  oomp_bot: ruuvi_connector
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/ruuvi_connector
+  oomp_doc: projects/ruuvi_connector/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/ruuvi_connector
+  oomp_src_flat: projects_flat/ruuvi_connector
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/ruuvi_connector
+  oomp_src_folder: projects_folder\ruuvi\connector\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ruuvi\connector\version_current\working
+oomp_key: oomp_ruuvi_connector
+oomp_key_simple: ruuvi_connector
 projects_flat: projects_flat/ruuvi_connector/version_current/working
 projects_folder: projects_folder/ruuvi/connector/version_current/working
-pulls_url: https://api.github.com/repos/ruuvi/connector/pulls{/number}
-pushed_at: '2021-06-23T07:31:00Z'
-releases_url: https://api.github.com/repos/ruuvi/connector/releases{/id}
-size: 2174
-ssh_url: git@github.com:ruuvi/connector.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/ruuvi/connector/stargazers
-statuses_url: https://api.github.com/repos/ruuvi/connector/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ruuvi/connector/subscribers
-subscription_url: https://api.github.com/repos/ruuvi/connector/subscription
-svn_url: https://github.com/ruuvi/connector
-tags_url: https://api.github.com/repos/ruuvi/connector/tags
-teams_url: https://api.github.com/repos/ruuvi/connector/teams
-topics: []
-trees_url: https://api.github.com/repos/ruuvi/connector/git/trees{/sha}
-updated_at: '2022-04-04T21:21:58Z'
-url: https://api.github.com/repos/ruuvi/connector
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ruuvi/connector/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ruuvi/connector/assignees{/user}
+  blobs_url: https://api.github.com/repos/ruuvi/connector/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ruuvi/connector/branches{/branch}
+  clone_url: https://github.com/ruuvi/connector.git
+  collaborators_url: https://api.github.com/repos/ruuvi/connector/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ruuvi/connector/comments{/number}
+  commits_url: https://api.github.com/repos/ruuvi/connector/commits{/sha}
+  compare_url: https://api.github.com/repos/ruuvi/connector/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ruuvi/connector/contents/{+path}
+  contributors_url: https://api.github.com/repos/ruuvi/connector/contributors
+  created_at: '2019-07-11T11:14:24Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ruuvi/connector/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/ruuvi/connector/downloads
+  events_url: https://api.github.com/repos/ruuvi/connector/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/ruuvi/connector/forks
+  full_name: ruuvi/connector
+  git_commits_url: https://api.github.com/repos/ruuvi/connector/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ruuvi/connector/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ruuvi/connector/git/tags{/sha}
+  git_url: git://github.com/ruuvi/connector.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ruuvi/connector/hooks
+  html_url: https://github.com/ruuvi/connector
+  id: 196379551
+  is_template: true
+  issue_comment_url: https://api.github.com/repos/ruuvi/connector/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ruuvi/connector/issues/events{/number}
+  issues_url: https://api.github.com/repos/ruuvi/connector/issues{/number}
+  keys_url: https://api.github.com/repos/ruuvi/connector/keys{/key_id}
+  labels_url: https://api.github.com/repos/ruuvi/connector/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ruuvi/connector/languages
+  license: null
+  merges_url: https://api.github.com/repos/ruuvi/connector/merges
+  milestones_url: https://api.github.com/repos/ruuvi/connector/milestones{/number}
+  mirror_url: null
+  name: connector
+  node_id: MDEwOlJlcG9zaXRvcnkxOTYzNzk1NTE=
+  notifications_url: https://api.github.com/repos/ruuvi/connector/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/12087190?v=4
+    events_url: https://api.github.com/users/ruuvi/events{/privacy}
+    followers_url: https://api.github.com/users/ruuvi/followers
+    following_url: https://api.github.com/users/ruuvi/following{/other_user}
+    gists_url: https://api.github.com/users/ruuvi/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ruuvi
+    id: 12087190
+    login: ruuvi
+    node_id: MDEyOk9yZ2FuaXphdGlvbjEyMDg3MTkw
+    organizations_url: https://api.github.com/users/ruuvi/orgs
+    received_events_url: https://api.github.com/users/ruuvi/received_events
+    repos_url: https://api.github.com/users/ruuvi/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ruuvi/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ruuvi/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ruuvi
+  private: false
+  pulls_url: https://api.github.com/repos/ruuvi/connector/pulls{/number}
+  pushed_at: '2021-06-23T07:31:00Z'
+  releases_url: https://api.github.com/repos/ruuvi/connector/releases{/id}
+  size: 2174
+  ssh_url: git@github.com:ruuvi/connector.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/ruuvi/connector/stargazers
+  statuses_url: https://api.github.com/repos/ruuvi/connector/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ruuvi/connector/subscribers
+  subscription_url: https://api.github.com/repos/ruuvi/connector/subscription
+  svn_url: https://github.com/ruuvi/connector
+  tags_url: https://api.github.com/repos/ruuvi/connector/tags
+  teams_url: https://api.github.com/repos/ruuvi/connector/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ruuvi/connector/git/trees{/sha}
+  updated_at: '2022-04-04T21:21:58Z'
+  url: https://api.github.com/repos/ruuvi/connector
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

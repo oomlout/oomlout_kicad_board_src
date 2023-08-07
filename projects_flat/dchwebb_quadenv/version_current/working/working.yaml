@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dchwebb/QuadEnv/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dchwebb/QuadEnv/assignees{/user}
-blobs_url: https://api.github.com/repos/dchwebb/QuadEnv/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dchwebb/QuadEnv/branches{/branch}
-clone_url: https://github.com/dchwebb/QuadEnv.git
-collaborators_url: https://api.github.com/repos/dchwebb/QuadEnv/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dchwebb/QuadEnv/comments{/number}
-commits_url: https://api.github.com/repos/dchwebb/QuadEnv/commits{/sha}
-compare_url: https://api.github.com/repos/dchwebb/QuadEnv/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dchwebb/QuadEnv/contents/{+path}
-contributors_url: https://api.github.com/repos/dchwebb/QuadEnv/contributors
-created_at: '2023-03-04T10:39:16Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/dchwebb/QuadEnv/deployments
-description: Eurorack Modular Quad Polyphonic Envelope
-disabled: false
-downloads_url: https://api.github.com/repos/dchwebb/QuadEnv/downloads
-events_url: https://api.github.com/repos/dchwebb/QuadEnv/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/dchwebb/QuadEnv/forks
-full_name: dchwebb/QuadEnv
-git_commits_url: https://api.github.com/repos/dchwebb/QuadEnv/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dchwebb/QuadEnv/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dchwebb/QuadEnv/git/tags{/sha}
-git_url: git://github.com/dchwebb/QuadEnv.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/dchwebb/QuadEnv/hooks
-html_url: https://github.com/dchwebb/QuadEnv
-id: 609490820
-is_template: false
-issue_comment_url: https://api.github.com/repos/dchwebb/QuadEnv/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dchwebb/QuadEnv/issues/events{/number}
-issues_url: https://api.github.com/repos/dchwebb/QuadEnv/issues{/number}
-keys_url: https://api.github.com/repos/dchwebb/QuadEnv/keys{/key_id}
-labels_url: https://api.github.com/repos/dchwebb/QuadEnv/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/dchwebb/QuadEnv/languages
-license: null
-merges_url: https://api.github.com/repos/dchwebb/QuadEnv/merges
-milestones_url: https://api.github.com/repos/dchwebb/QuadEnv/milestones{/number}
-mirror_url: null
-name: QuadEnv
-node_id: R_kgDOJFQXhA
-notifications_url: https://api.github.com/repos/dchwebb/QuadEnv/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
-  events_url: https://api.github.com/users/dchwebb/events{/privacy}
-  followers_url: https://api.github.com/users/dchwebb/followers
-  following_url: https://api.github.com/users/dchwebb/following{/other_user}
-  gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dchwebb
-  id: 16348549
-  login: dchwebb
-  node_id: MDQ6VXNlcjE2MzQ4NTQ5
-  organizations_url: https://api.github.com/users/dchwebb/orgs
-  received_events_url: https://api.github.com/users/dchwebb/received_events
-  repos_url: https://api.github.com/users/dchwebb/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
-  type: User
-  url: https://api.github.com/users/dchwebb
-private: false
+links:
+  github_owner: dchwebb
+  github_repo_name: QuadEnv
+  github_src: https://github.com/dchwebb/QuadEnv
+  github_src_repo: https://github.com/dchwebb/QuadEnv
+  oomp_bot: projects_dchwebb_quadenv
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_dchwebb_quadenv
+  oomp_doc: projects/projects_flat_dchwebb_quadenv/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_dchwebb_quadenv
+  oomp_src_flat: projects_flat/projects_flat_dchwebb_quadenv
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_dchwebb_quadenv
+  oomp_src_folder: projects_flat\dchwebb_quadenv\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dchwebb_quadenv\version_current\working
+oomp_key: oomp_projects_flat_dchwebb_quadenv
+oomp_key_simple: projects_flat_dchwebb_quadenv
 projects_flat: projects_flat/dchwebb_quadenv/version_current/working
 projects_folder: projects_folder/dchwebb/QuadEnv/version_current/working
-pulls_url: https://api.github.com/repos/dchwebb/QuadEnv/pulls{/number}
-pushed_at: '2023-07-15T10:10:00Z'
-releases_url: https://api.github.com/repos/dchwebb/QuadEnv/releases{/id}
-size: 11021
-ssh_url: git@github.com:dchwebb/QuadEnv.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/dchwebb/QuadEnv/stargazers
-statuses_url: https://api.github.com/repos/dchwebb/QuadEnv/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dchwebb/QuadEnv/subscribers
-subscription_url: https://api.github.com/repos/dchwebb/QuadEnv/subscription
-svn_url: https://github.com/dchwebb/QuadEnv
-tags_url: https://api.github.com/repos/dchwebb/QuadEnv/tags
-teams_url: https://api.github.com/repos/dchwebb/QuadEnv/teams
-topics: []
-trees_url: https://api.github.com/repos/dchwebb/QuadEnv/git/trees{/sha}
-updated_at: '2023-07-20T13:34:08Z'
-url: https://api.github.com/repos/dchwebb/QuadEnv
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dchwebb/QuadEnv/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dchwebb/QuadEnv/assignees{/user}
+  blobs_url: https://api.github.com/repos/dchwebb/QuadEnv/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dchwebb/QuadEnv/branches{/branch}
+  clone_url: https://github.com/dchwebb/QuadEnv.git
+  collaborators_url: https://api.github.com/repos/dchwebb/QuadEnv/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dchwebb/QuadEnv/comments{/number}
+  commits_url: https://api.github.com/repos/dchwebb/QuadEnv/commits{/sha}
+  compare_url: https://api.github.com/repos/dchwebb/QuadEnv/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dchwebb/QuadEnv/contents/{+path}
+  contributors_url: https://api.github.com/repos/dchwebb/QuadEnv/contributors
+  created_at: '2023-03-04T10:39:16Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/dchwebb/QuadEnv/deployments
+  description: Eurorack Modular Quad Polyphonic Envelope
+  disabled: false
+  downloads_url: https://api.github.com/repos/dchwebb/QuadEnv/downloads
+  events_url: https://api.github.com/repos/dchwebb/QuadEnv/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/dchwebb/QuadEnv/forks
+  full_name: dchwebb/QuadEnv
+  git_commits_url: https://api.github.com/repos/dchwebb/QuadEnv/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dchwebb/QuadEnv/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dchwebb/QuadEnv/git/tags{/sha}
+  git_url: git://github.com/dchwebb/QuadEnv.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/dchwebb/QuadEnv/hooks
+  html_url: https://github.com/dchwebb/QuadEnv
+  id: 609490820
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dchwebb/QuadEnv/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dchwebb/QuadEnv/issues/events{/number}
+  issues_url: https://api.github.com/repos/dchwebb/QuadEnv/issues{/number}
+  keys_url: https://api.github.com/repos/dchwebb/QuadEnv/keys{/key_id}
+  labels_url: https://api.github.com/repos/dchwebb/QuadEnv/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/dchwebb/QuadEnv/languages
+  license: null
+  merges_url: https://api.github.com/repos/dchwebb/QuadEnv/merges
+  milestones_url: https://api.github.com/repos/dchwebb/QuadEnv/milestones{/number}
+  mirror_url: null
+  name: QuadEnv
+  node_id: R_kgDOJFQXhA
+  notifications_url: https://api.github.com/repos/dchwebb/QuadEnv/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
+    events_url: https://api.github.com/users/dchwebb/events{/privacy}
+    followers_url: https://api.github.com/users/dchwebb/followers
+    following_url: https://api.github.com/users/dchwebb/following{/other_user}
+    gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dchwebb
+    id: 16348549
+    login: dchwebb
+    node_id: MDQ6VXNlcjE2MzQ4NTQ5
+    organizations_url: https://api.github.com/users/dchwebb/orgs
+    received_events_url: https://api.github.com/users/dchwebb/received_events
+    repos_url: https://api.github.com/users/dchwebb/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
+    type: User
+    url: https://api.github.com/users/dchwebb
+  private: false
+  pulls_url: https://api.github.com/repos/dchwebb/QuadEnv/pulls{/number}
+  pushed_at: '2023-07-15T10:10:00Z'
+  releases_url: https://api.github.com/repos/dchwebb/QuadEnv/releases{/id}
+  size: 11021
+  ssh_url: git@github.com:dchwebb/QuadEnv.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/dchwebb/QuadEnv/stargazers
+  statuses_url: https://api.github.com/repos/dchwebb/QuadEnv/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dchwebb/QuadEnv/subscribers
+  subscription_url: https://api.github.com/repos/dchwebb/QuadEnv/subscription
+  svn_url: https://github.com/dchwebb/QuadEnv
+  tags_url: https://api.github.com/repos/dchwebb/QuadEnv/tags
+  teams_url: https://api.github.com/repos/dchwebb/QuadEnv/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dchwebb/QuadEnv/git/trees{/sha}
+  updated_at: '2023-07-20T13:34:08Z'
+  url: https://api.github.com/repos/dchwebb/QuadEnv
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

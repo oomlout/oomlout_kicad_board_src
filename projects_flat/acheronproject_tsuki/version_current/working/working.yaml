@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/AcheronProject/Tsuki/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/AcheronProject/Tsuki/assignees{/user}
-blobs_url: https://api.github.com/repos/AcheronProject/Tsuki/git/blobs{/sha}
-branches_url: https://api.github.com/repos/AcheronProject/Tsuki/branches{/branch}
-clone_url: https://github.com/AcheronProject/Tsuki.git
-collaborators_url: https://api.github.com/repos/AcheronProject/Tsuki/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/AcheronProject/Tsuki/comments{/number}
-commits_url: https://api.github.com/repos/AcheronProject/Tsuki/commits{/sha}
-compare_url: https://api.github.com/repos/AcheronProject/Tsuki/compare/{base}...{head}
-contents_url: https://api.github.com/repos/AcheronProject/Tsuki/contents/{+path}
-contributors_url: https://api.github.com/repos/AcheronProject/Tsuki/contributors
-created_at: '2019-09-27T04:31:49Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/AcheronProject/Tsuki/deployments
-description: 60% keyboard PCB featuring a wide array of layouts powered by STM32F072
-disabled: false
-downloads_url: https://api.github.com/repos/AcheronProject/Tsuki/downloads
-events_url: https://api.github.com/repos/AcheronProject/Tsuki/events
-fork: false
-forks: 5
-forks_count: 5
-forks_url: https://api.github.com/repos/AcheronProject/Tsuki/forks
-full_name: AcheronProject/Tsuki
-git_commits_url: https://api.github.com/repos/AcheronProject/Tsuki/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/AcheronProject/Tsuki/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/AcheronProject/Tsuki/git/tags{/sha}
-git_url: git://github.com/AcheronProject/Tsuki.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/AcheronProject/Tsuki/hooks
-html_url: https://github.com/AcheronProject/Tsuki
-id: 211236557
-is_template: false
-issue_comment_url: https://api.github.com/repos/AcheronProject/Tsuki/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/AcheronProject/Tsuki/issues/events{/number}
-issues_url: https://api.github.com/repos/AcheronProject/Tsuki/issues{/number}
-keys_url: https://api.github.com/repos/AcheronProject/Tsuki/keys{/key_id}
-labels_url: https://api.github.com/repos/AcheronProject/Tsuki/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/AcheronProject/Tsuki/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/AcheronProject/Tsuki/merges
-milestones_url: https://api.github.com/repos/AcheronProject/Tsuki/milestones{/number}
-mirror_url: null
-name: Tsuki
-node_id: MDEwOlJlcG9zaXRvcnkyMTEyMzY1NTc=
-notifications_url: https://api.github.com/repos/AcheronProject/Tsuki/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
-  events_url: https://api.github.com/users/AcheronProject/events{/privacy}
-  followers_url: https://api.github.com/users/AcheronProject/followers
-  following_url: https://api.github.com/users/AcheronProject/following{/other_user}
-  gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/AcheronProject
-  id: 63755935
-  login: AcheronProject
-  node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
-  organizations_url: https://api.github.com/users/AcheronProject/orgs
-  received_events_url: https://api.github.com/users/AcheronProject/received_events
-  repos_url: https://api.github.com/users/AcheronProject/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
-  type: Organization
-  url: https://api.github.com/users/AcheronProject
-private: false
+links:
+  github_owner: AcheronProject
+  github_repo_name: Tsuki
+  github_src: https://github.com/AcheronProject/Tsuki
+  github_src_repo: https://github.com/AcheronProject/Tsuki
+  oomp_bot: projects_acheronproject_tsuki
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_acheronproject_tsuki
+  oomp_doc: projects/projects_flat_acheronproject_tsuki/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_acheronproject_tsuki
+  oomp_src_flat: projects_flat/projects_flat_acheronproject_tsuki
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_acheronproject_tsuki
+  oomp_src_folder: projects_flat\acheronproject_tsuki\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\acheronproject_tsuki\version_current\working
+oomp_key: oomp_projects_flat_acheronproject_tsuki
+oomp_key_simple: projects_flat_acheronproject_tsuki
 projects_flat: projects_flat/acheronproject_tsuki/version_current/working
 projects_folder: projects_folder/AcheronProject/Tsuki/version_current/working
-pulls_url: https://api.github.com/repos/AcheronProject/Tsuki/pulls{/number}
-pushed_at: '2020-02-03T16:34:04Z'
-releases_url: https://api.github.com/repos/AcheronProject/Tsuki/releases{/id}
-size: 23416
-ssh_url: git@github.com:AcheronProject/Tsuki.git
-stargazers_count: 31
-stargazers_url: https://api.github.com/repos/AcheronProject/Tsuki/stargazers
-statuses_url: https://api.github.com/repos/AcheronProject/Tsuki/statuses/{sha}
-subscribers_url: https://api.github.com/repos/AcheronProject/Tsuki/subscribers
-subscription_url: https://api.github.com/repos/AcheronProject/Tsuki/subscription
-svn_url: https://github.com/AcheronProject/Tsuki
-tags_url: https://api.github.com/repos/AcheronProject/Tsuki/tags
-teams_url: https://api.github.com/repos/AcheronProject/Tsuki/teams
-topics: []
-trees_url: https://api.github.com/repos/AcheronProject/Tsuki/git/trees{/sha}
-updated_at: '2023-03-31T16:22:17Z'
-url: https://api.github.com/repos/AcheronProject/Tsuki
-visibility: public
-watchers: 31
-watchers_count: 31
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/AcheronProject/Tsuki/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/AcheronProject/Tsuki/assignees{/user}
+  blobs_url: https://api.github.com/repos/AcheronProject/Tsuki/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/AcheronProject/Tsuki/branches{/branch}
+  clone_url: https://github.com/AcheronProject/Tsuki.git
+  collaborators_url: https://api.github.com/repos/AcheronProject/Tsuki/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/AcheronProject/Tsuki/comments{/number}
+  commits_url: https://api.github.com/repos/AcheronProject/Tsuki/commits{/sha}
+  compare_url: https://api.github.com/repos/AcheronProject/Tsuki/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/AcheronProject/Tsuki/contents/{+path}
+  contributors_url: https://api.github.com/repos/AcheronProject/Tsuki/contributors
+  created_at: '2019-09-27T04:31:49Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/AcheronProject/Tsuki/deployments
+  description: 60% keyboard PCB featuring a wide array of layouts powered by STM32F072
+  disabled: false
+  downloads_url: https://api.github.com/repos/AcheronProject/Tsuki/downloads
+  events_url: https://api.github.com/repos/AcheronProject/Tsuki/events
+  fork: false
+  forks: 5
+  forks_count: 5
+  forks_url: https://api.github.com/repos/AcheronProject/Tsuki/forks
+  full_name: AcheronProject/Tsuki
+  git_commits_url: https://api.github.com/repos/AcheronProject/Tsuki/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/AcheronProject/Tsuki/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/AcheronProject/Tsuki/git/tags{/sha}
+  git_url: git://github.com/AcheronProject/Tsuki.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/AcheronProject/Tsuki/hooks
+  html_url: https://github.com/AcheronProject/Tsuki
+  id: 211236557
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/AcheronProject/Tsuki/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/AcheronProject/Tsuki/issues/events{/number}
+  issues_url: https://api.github.com/repos/AcheronProject/Tsuki/issues{/number}
+  keys_url: https://api.github.com/repos/AcheronProject/Tsuki/keys{/key_id}
+  labels_url: https://api.github.com/repos/AcheronProject/Tsuki/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/AcheronProject/Tsuki/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/AcheronProject/Tsuki/merges
+  milestones_url: https://api.github.com/repos/AcheronProject/Tsuki/milestones{/number}
+  mirror_url: null
+  name: Tsuki
+  node_id: MDEwOlJlcG9zaXRvcnkyMTEyMzY1NTc=
+  notifications_url: https://api.github.com/repos/AcheronProject/Tsuki/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+    events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+    followers_url: https://api.github.com/users/AcheronProject/followers
+    following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+    gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/AcheronProject
+    id: 63755935
+    login: AcheronProject
+    node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+    organizations_url: https://api.github.com/users/AcheronProject/orgs
+    received_events_url: https://api.github.com/users/AcheronProject/received_events
+    repos_url: https://api.github.com/users/AcheronProject/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+    type: Organization
+    url: https://api.github.com/users/AcheronProject
+  private: false
+  pulls_url: https://api.github.com/repos/AcheronProject/Tsuki/pulls{/number}
+  pushed_at: '2020-02-03T16:34:04Z'
+  releases_url: https://api.github.com/repos/AcheronProject/Tsuki/releases{/id}
+  size: 23416
+  ssh_url: git@github.com:AcheronProject/Tsuki.git
+  stargazers_count: 31
+  stargazers_url: https://api.github.com/repos/AcheronProject/Tsuki/stargazers
+  statuses_url: https://api.github.com/repos/AcheronProject/Tsuki/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/AcheronProject/Tsuki/subscribers
+  subscription_url: https://api.github.com/repos/AcheronProject/Tsuki/subscription
+  svn_url: https://github.com/AcheronProject/Tsuki
+  tags_url: https://api.github.com/repos/AcheronProject/Tsuki/tags
+  teams_url: https://api.github.com/repos/AcheronProject/Tsuki/teams
+  topics: []
+  trees_url: https://api.github.com/repos/AcheronProject/Tsuki/git/trees{/sha}
+  updated_at: '2023-03-31T16:22:17Z'
+  url: https://api.github.com/repos/AcheronProject/Tsuki
+  visibility: public
+  watchers: 31
+  watchers_count: 31
+  web_commit_signoff_required: false

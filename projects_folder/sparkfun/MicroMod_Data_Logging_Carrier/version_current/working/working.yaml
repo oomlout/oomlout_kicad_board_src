@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/branches{/branch}
-clone_url: https://github.com/sparkfun/MicroMod_Data_Logging_Carrier.git
-collaborators_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/contributors
-created_at: '2020-05-05T22:18:39Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/deployments
-description: A carrier board that excells at low power control and sensor data harvesting.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/downloads
-events_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/forks
-full_name: sparkfun/MicroMod_Data_Logging_Carrier
-git_commits_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/git/tags{/sha}
-git_url: git://github.com/sparkfun/MicroMod_Data_Logging_Carrier.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/hooks
-html_url: https://github.com/sparkfun/MicroMod_Data_Logging_Carrier
-id: 261595364
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/merges
-milestones_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/milestones{/number}
-mirror_url: null
-name: MicroMod_Data_Logging_Carrier
-node_id: MDEwOlJlcG9zaXRvcnkyNjE1OTUzNjQ=
-notifications_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: MicroMod_Data_Logging_Carrier
+  github_src: https://github.com/sparkfun/MicroMod_Data_Logging_Carrier
+  github_src_repo: https://github.com/sparkfun/MicroMod_Data_Logging_Carrier
+  oomp_bot: sparkfun_micromod_data_logging_carrier
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_micromod_data_logging_carrier
+  oomp_doc: projects/sparkfun_micromod_data_logging_carrier/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_micromod_data_logging_carrier
+  oomp_src_flat: projects_flat/sparkfun_micromod_data_logging_carrier
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_micromod_data_logging_carrier
+  oomp_src_folder: projects_folder\sparkfun\MicroMod_Data_Logging_Carrier\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\MicroMod_Data_Logging_Carrier\version_current\working
+oomp_key: oomp_sparkfun_micromod_data_logging_carrier
+oomp_key_simple: sparkfun_micromod_data_logging_carrier
+projects_flat: projects_flat/sparkfun_micromod_data_logging_carrier/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_micromod_data_logging_carrier/version_current/working
 projects_folder: projects_folder/sparkfun/MicroMod_Data_Logging_Carrier/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/pulls{/number}
-pushed_at: '2021-11-05T17:31:05Z'
-releases_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/releases{/id}
-size: 7499
-ssh_url: git@github.com:sparkfun/MicroMod_Data_Logging_Carrier.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/subscription
-svn_url: https://github.com/sparkfun/MicroMod_Data_Logging_Carrier
-tags_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/tags
-teams_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/git/trees{/sha}
-updated_at: '2021-11-05T17:31:10Z'
-url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/branches{/branch}
+  clone_url: https://github.com/sparkfun/MicroMod_Data_Logging_Carrier.git
+  collaborators_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/contributors
+  created_at: '2020-05-05T22:18:39Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/deployments
+  description: A carrier board that excells at low power control and sensor data harvesting.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/downloads
+  events_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/forks
+  full_name: sparkfun/MicroMod_Data_Logging_Carrier
+  git_commits_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/git/tags{/sha}
+  git_url: git://github.com/sparkfun/MicroMod_Data_Logging_Carrier.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/hooks
+  html_url: https://github.com/sparkfun/MicroMod_Data_Logging_Carrier
+  id: 261595364
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/merges
+  milestones_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/milestones{/number}
+  mirror_url: null
+  name: MicroMod_Data_Logging_Carrier
+  node_id: MDEwOlJlcG9zaXRvcnkyNjE1OTUzNjQ=
+  notifications_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/pulls{/number}
+  pushed_at: '2021-11-05T17:31:05Z'
+  releases_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/releases{/id}
+  size: 7499
+  ssh_url: git@github.com:sparkfun/MicroMod_Data_Logging_Carrier.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/subscription
+  svn_url: https://github.com/sparkfun/MicroMod_Data_Logging_Carrier
+  tags_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/tags
+  teams_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier/git/trees{/sha}
+  updated_at: '2021-11-05T17:31:10Z'
+  url: https://api.github.com/repos/sparkfun/MicroMod_Data_Logging_Carrier
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

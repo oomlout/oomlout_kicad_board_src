@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ep092/Kantentaster/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ep092/Kantentaster/assignees{/user}
-blobs_url: https://api.github.com/repos/ep092/Kantentaster/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ep092/Kantentaster/branches{/branch}
-clone_url: https://github.com/ep092/Kantentaster.git
-collaborators_url: https://api.github.com/repos/ep092/Kantentaster/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ep092/Kantentaster/comments{/number}
-commits_url: https://api.github.com/repos/ep092/Kantentaster/commits{/sha}
-compare_url: https://api.github.com/repos/ep092/Kantentaster/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ep092/Kantentaster/contents/{+path}
-contributors_url: https://api.github.com/repos/ep092/Kantentaster/contributors
-created_at: '2015-02-24T21:56:05Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ep092/Kantentaster/deployments
-description: Adapterplatine zum Anschluss eines Renishaw TP2 5W Kantentasters an USB
-  CNC
-disabled: false
-downloads_url: https://api.github.com/repos/ep092/Kantentaster/downloads
-events_url: https://api.github.com/repos/ep092/Kantentaster/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ep092/Kantentaster/forks
-full_name: ep092/Kantentaster
-git_commits_url: https://api.github.com/repos/ep092/Kantentaster/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ep092/Kantentaster/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ep092/Kantentaster/git/tags{/sha}
-git_url: git://github.com/ep092/Kantentaster.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ep092/Kantentaster/hooks
-html_url: https://github.com/ep092/Kantentaster
-id: 31284013
-is_template: false
-issue_comment_url: https://api.github.com/repos/ep092/Kantentaster/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ep092/Kantentaster/issues/events{/number}
-issues_url: https://api.github.com/repos/ep092/Kantentaster/issues{/number}
-keys_url: https://api.github.com/repos/ep092/Kantentaster/keys{/key_id}
-labels_url: https://api.github.com/repos/ep092/Kantentaster/labels{/name}
-language: PostScript
-languages_url: https://api.github.com/repos/ep092/Kantentaster/languages
-license: null
-merges_url: https://api.github.com/repos/ep092/Kantentaster/merges
-milestones_url: https://api.github.com/repos/ep092/Kantentaster/milestones{/number}
-mirror_url: null
-name: Kantentaster
-node_id: MDEwOlJlcG9zaXRvcnkzMTI4NDAxMw==
-notifications_url: https://api.github.com/repos/ep092/Kantentaster/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1005022?v=4
-  events_url: https://api.github.com/users/ep092/events{/privacy}
-  followers_url: https://api.github.com/users/ep092/followers
-  following_url: https://api.github.com/users/ep092/following{/other_user}
-  gists_url: https://api.github.com/users/ep092/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ep092
-  id: 1005022
-  login: ep092
-  node_id: MDQ6VXNlcjEwMDUwMjI=
-  organizations_url: https://api.github.com/users/ep092/orgs
-  received_events_url: https://api.github.com/users/ep092/received_events
-  repos_url: https://api.github.com/users/ep092/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ep092/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ep092/subscriptions
-  type: User
-  url: https://api.github.com/users/ep092
-private: false
+links:
+  github_owner: ep092
+  github_repo_name: Kantentaster
+  github_src: https://github.com/ep092/Kantentaster
+  github_src_repo: https://github.com/ep092/Kantentaster
+  oomp_bot: projects_ep092_kantentaster
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_ep092_kantentaster
+  oomp_doc: projects/projects_flat_ep092_kantentaster/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_ep092_kantentaster
+  oomp_src_flat: projects_flat/projects_flat_ep092_kantentaster
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_ep092_kantentaster
+  oomp_src_folder: projects_flat\ep092_kantentaster\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ep092_kantentaster\version_current\working
+oomp_key: oomp_projects_flat_ep092_kantentaster
+oomp_key_simple: projects_flat_ep092_kantentaster
 projects_flat: projects_flat/ep092_kantentaster/version_current/working
 projects_folder: projects_folder/ep092/Kantentaster/version_current/working
-pulls_url: https://api.github.com/repos/ep092/Kantentaster/pulls{/number}
-pushed_at: '2015-03-05T19:53:27Z'
-releases_url: https://api.github.com/repos/ep092/Kantentaster/releases{/id}
-size: 196
-ssh_url: git@github.com:ep092/Kantentaster.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ep092/Kantentaster/stargazers
-statuses_url: https://api.github.com/repos/ep092/Kantentaster/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ep092/Kantentaster/subscribers
-subscription_url: https://api.github.com/repos/ep092/Kantentaster/subscription
-svn_url: https://github.com/ep092/Kantentaster
-tags_url: https://api.github.com/repos/ep092/Kantentaster/tags
-teams_url: https://api.github.com/repos/ep092/Kantentaster/teams
-topics: []
-trees_url: https://api.github.com/repos/ep092/Kantentaster/git/trees{/sha}
-updated_at: '2015-03-05T19:53:27Z'
-url: https://api.github.com/repos/ep092/Kantentaster
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ep092/Kantentaster/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ep092/Kantentaster/assignees{/user}
+  blobs_url: https://api.github.com/repos/ep092/Kantentaster/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ep092/Kantentaster/branches{/branch}
+  clone_url: https://github.com/ep092/Kantentaster.git
+  collaborators_url: https://api.github.com/repos/ep092/Kantentaster/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ep092/Kantentaster/comments{/number}
+  commits_url: https://api.github.com/repos/ep092/Kantentaster/commits{/sha}
+  compare_url: https://api.github.com/repos/ep092/Kantentaster/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ep092/Kantentaster/contents/{+path}
+  contributors_url: https://api.github.com/repos/ep092/Kantentaster/contributors
+  created_at: '2015-02-24T21:56:05Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ep092/Kantentaster/deployments
+  description: Adapterplatine zum Anschluss eines Renishaw TP2 5W Kantentasters an
+    USB CNC
+  disabled: false
+  downloads_url: https://api.github.com/repos/ep092/Kantentaster/downloads
+  events_url: https://api.github.com/repos/ep092/Kantentaster/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ep092/Kantentaster/forks
+  full_name: ep092/Kantentaster
+  git_commits_url: https://api.github.com/repos/ep092/Kantentaster/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ep092/Kantentaster/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ep092/Kantentaster/git/tags{/sha}
+  git_url: git://github.com/ep092/Kantentaster.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ep092/Kantentaster/hooks
+  html_url: https://github.com/ep092/Kantentaster
+  id: 31284013
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ep092/Kantentaster/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ep092/Kantentaster/issues/events{/number}
+  issues_url: https://api.github.com/repos/ep092/Kantentaster/issues{/number}
+  keys_url: https://api.github.com/repos/ep092/Kantentaster/keys{/key_id}
+  labels_url: https://api.github.com/repos/ep092/Kantentaster/labels{/name}
+  language: PostScript
+  languages_url: https://api.github.com/repos/ep092/Kantentaster/languages
+  license: null
+  merges_url: https://api.github.com/repos/ep092/Kantentaster/merges
+  milestones_url: https://api.github.com/repos/ep092/Kantentaster/milestones{/number}
+  mirror_url: null
+  name: Kantentaster
+  node_id: MDEwOlJlcG9zaXRvcnkzMTI4NDAxMw==
+  notifications_url: https://api.github.com/repos/ep092/Kantentaster/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1005022?v=4
+    events_url: https://api.github.com/users/ep092/events{/privacy}
+    followers_url: https://api.github.com/users/ep092/followers
+    following_url: https://api.github.com/users/ep092/following{/other_user}
+    gists_url: https://api.github.com/users/ep092/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ep092
+    id: 1005022
+    login: ep092
+    node_id: MDQ6VXNlcjEwMDUwMjI=
+    organizations_url: https://api.github.com/users/ep092/orgs
+    received_events_url: https://api.github.com/users/ep092/received_events
+    repos_url: https://api.github.com/users/ep092/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ep092/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ep092/subscriptions
+    type: User
+    url: https://api.github.com/users/ep092
+  private: false
+  pulls_url: https://api.github.com/repos/ep092/Kantentaster/pulls{/number}
+  pushed_at: '2015-03-05T19:53:27Z'
+  releases_url: https://api.github.com/repos/ep092/Kantentaster/releases{/id}
+  size: 196
+  ssh_url: git@github.com:ep092/Kantentaster.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ep092/Kantentaster/stargazers
+  statuses_url: https://api.github.com/repos/ep092/Kantentaster/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ep092/Kantentaster/subscribers
+  subscription_url: https://api.github.com/repos/ep092/Kantentaster/subscription
+  svn_url: https://github.com/ep092/Kantentaster
+  tags_url: https://api.github.com/repos/ep092/Kantentaster/tags
+  teams_url: https://api.github.com/repos/ep092/Kantentaster/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ep092/Kantentaster/git/trees{/sha}
+  updated_at: '2015-03-05T19:53:27Z'
+  url: https://api.github.com/repos/ep092/Kantentaster
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/JoanTheSpark/KiField/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/JoanTheSpark/KiField/assignees{/user}
-blobs_url: https://api.github.com/repos/JoanTheSpark/KiField/git/blobs{/sha}
-branches_url: https://api.github.com/repos/JoanTheSpark/KiField/branches{/branch}
-clone_url: https://github.com/JoanTheSpark/KiField.git
-collaborators_url: https://api.github.com/repos/JoanTheSpark/KiField/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/JoanTheSpark/KiField/comments{/number}
-commits_url: https://api.github.com/repos/JoanTheSpark/KiField/commits{/sha}
-compare_url: https://api.github.com/repos/JoanTheSpark/KiField/compare/{base}...{head}
-contents_url: https://api.github.com/repos/JoanTheSpark/KiField/contents/{+path}
-contributors_url: https://api.github.com/repos/JoanTheSpark/KiField/contributors
-created_at: '2016-02-23T03:56:34Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/JoanTheSpark/KiField/deployments
-description: Edit/insert/delete part fields in KiCad schematics or libraries using
-  a spreadsheet.
-disabled: false
-downloads_url: https://api.github.com/repos/JoanTheSpark/KiField/downloads
-events_url: https://api.github.com/repos/JoanTheSpark/KiField/events
-fork: true
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/JoanTheSpark/KiField/forks
-full_name: JoanTheSpark/KiField
-git_commits_url: https://api.github.com/repos/JoanTheSpark/KiField/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/JoanTheSpark/KiField/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/JoanTheSpark/KiField/git/tags{/sha}
-git_url: git://github.com/JoanTheSpark/KiField.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/JoanTheSpark/KiField/hooks
-html_url: https://github.com/JoanTheSpark/KiField
-id: 52328519
-is_template: false
-issue_comment_url: https://api.github.com/repos/JoanTheSpark/KiField/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/JoanTheSpark/KiField/issues/events{/number}
-issues_url: https://api.github.com/repos/JoanTheSpark/KiField/issues{/number}
-keys_url: https://api.github.com/repos/JoanTheSpark/KiField/keys{/key_id}
-labels_url: https://api.github.com/repos/JoanTheSpark/KiField/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/JoanTheSpark/KiField/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/JoanTheSpark/KiField/merges
-milestones_url: https://api.github.com/repos/JoanTheSpark/KiField/milestones{/number}
-mirror_url: null
-name: KiField
-node_id: MDEwOlJlcG9zaXRvcnk1MjMyODUxOQ==
-notifications_url: https://api.github.com/repos/JoanTheSpark/KiField/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/14078073?v=4
-  events_url: https://api.github.com/users/JoanTheSpark/events{/privacy}
-  followers_url: https://api.github.com/users/JoanTheSpark/followers
-  following_url: https://api.github.com/users/JoanTheSpark/following{/other_user}
-  gists_url: https://api.github.com/users/JoanTheSpark/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/JoanTheSpark
-  id: 14078073
-  login: JoanTheSpark
-  node_id: MDQ6VXNlcjE0MDc4MDcz
-  organizations_url: https://api.github.com/users/JoanTheSpark/orgs
-  received_events_url: https://api.github.com/users/JoanTheSpark/received_events
-  repos_url: https://api.github.com/users/JoanTheSpark/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/JoanTheSpark/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/JoanTheSpark/subscriptions
-  type: User
-  url: https://api.github.com/users/JoanTheSpark
-private: false
+links:
+  github_owner: JoanTheSpark
+  github_repo_name: KiField
+  github_src: https://github.com/JoanTheSpark/KiField
+  github_src_repo: https://github.com/JoanTheSpark/KiField
+  oomp_bot: joanthespark_kifield
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/joanthespark_kifield
+  oomp_doc: projects/joanthespark_kifield/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/joanthespark_kifield
+  oomp_src_flat: projects_flat/joanthespark_kifield
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/joanthespark_kifield
+  oomp_src_folder: projects_folder\JoanTheSpark\KiField\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\JoanTheSpark\KiField\version_current\working
+oomp_key: oomp_joanthespark_kifield
+oomp_key_simple: joanthespark_kifield
 projects_flat: projects_flat/joanthespark_kifield/version_current/working
 projects_folder: projects_folder/JoanTheSpark/KiField/version_current/working
-pulls_url: https://api.github.com/repos/JoanTheSpark/KiField/pulls{/number}
-pushed_at: '2016-02-20T19:37:45Z'
-releases_url: https://api.github.com/repos/JoanTheSpark/KiField/releases{/id}
-size: 477
-ssh_url: git@github.com:JoanTheSpark/KiField.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/JoanTheSpark/KiField/stargazers
-statuses_url: https://api.github.com/repos/JoanTheSpark/KiField/statuses/{sha}
-subscribers_url: https://api.github.com/repos/JoanTheSpark/KiField/subscribers
-subscription_url: https://api.github.com/repos/JoanTheSpark/KiField/subscription
-svn_url: https://github.com/JoanTheSpark/KiField
-tags_url: https://api.github.com/repos/JoanTheSpark/KiField/tags
-teams_url: https://api.github.com/repos/JoanTheSpark/KiField/teams
-topics: []
-trees_url: https://api.github.com/repos/JoanTheSpark/KiField/git/trees{/sha}
-updated_at: '2021-07-27T14:47:35Z'
-url: https://api.github.com/repos/JoanTheSpark/KiField
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/JoanTheSpark/KiField/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/JoanTheSpark/KiField/assignees{/user}
+  blobs_url: https://api.github.com/repos/JoanTheSpark/KiField/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/JoanTheSpark/KiField/branches{/branch}
+  clone_url: https://github.com/JoanTheSpark/KiField.git
+  collaborators_url: https://api.github.com/repos/JoanTheSpark/KiField/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/JoanTheSpark/KiField/comments{/number}
+  commits_url: https://api.github.com/repos/JoanTheSpark/KiField/commits{/sha}
+  compare_url: https://api.github.com/repos/JoanTheSpark/KiField/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/JoanTheSpark/KiField/contents/{+path}
+  contributors_url: https://api.github.com/repos/JoanTheSpark/KiField/contributors
+  created_at: '2016-02-23T03:56:34Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/JoanTheSpark/KiField/deployments
+  description: Edit/insert/delete part fields in KiCad schematics or libraries using
+    a spreadsheet.
+  disabled: false
+  downloads_url: https://api.github.com/repos/JoanTheSpark/KiField/downloads
+  events_url: https://api.github.com/repos/JoanTheSpark/KiField/events
+  fork: true
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/JoanTheSpark/KiField/forks
+  full_name: JoanTheSpark/KiField
+  git_commits_url: https://api.github.com/repos/JoanTheSpark/KiField/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/JoanTheSpark/KiField/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/JoanTheSpark/KiField/git/tags{/sha}
+  git_url: git://github.com/JoanTheSpark/KiField.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/JoanTheSpark/KiField/hooks
+  html_url: https://github.com/JoanTheSpark/KiField
+  id: 52328519
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/JoanTheSpark/KiField/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/JoanTheSpark/KiField/issues/events{/number}
+  issues_url: https://api.github.com/repos/JoanTheSpark/KiField/issues{/number}
+  keys_url: https://api.github.com/repos/JoanTheSpark/KiField/keys{/key_id}
+  labels_url: https://api.github.com/repos/JoanTheSpark/KiField/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/JoanTheSpark/KiField/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/JoanTheSpark/KiField/merges
+  milestones_url: https://api.github.com/repos/JoanTheSpark/KiField/milestones{/number}
+  mirror_url: null
+  name: KiField
+  node_id: MDEwOlJlcG9zaXRvcnk1MjMyODUxOQ==
+  notifications_url: https://api.github.com/repos/JoanTheSpark/KiField/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/14078073?v=4
+    events_url: https://api.github.com/users/JoanTheSpark/events{/privacy}
+    followers_url: https://api.github.com/users/JoanTheSpark/followers
+    following_url: https://api.github.com/users/JoanTheSpark/following{/other_user}
+    gists_url: https://api.github.com/users/JoanTheSpark/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/JoanTheSpark
+    id: 14078073
+    login: JoanTheSpark
+    node_id: MDQ6VXNlcjE0MDc4MDcz
+    organizations_url: https://api.github.com/users/JoanTheSpark/orgs
+    received_events_url: https://api.github.com/users/JoanTheSpark/received_events
+    repos_url: https://api.github.com/users/JoanTheSpark/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/JoanTheSpark/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/JoanTheSpark/subscriptions
+    type: User
+    url: https://api.github.com/users/JoanTheSpark
+  private: false
+  pulls_url: https://api.github.com/repos/JoanTheSpark/KiField/pulls{/number}
+  pushed_at: '2016-02-20T19:37:45Z'
+  releases_url: https://api.github.com/repos/JoanTheSpark/KiField/releases{/id}
+  size: 477
+  ssh_url: git@github.com:JoanTheSpark/KiField.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/JoanTheSpark/KiField/stargazers
+  statuses_url: https://api.github.com/repos/JoanTheSpark/KiField/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/JoanTheSpark/KiField/subscribers
+  subscription_url: https://api.github.com/repos/JoanTheSpark/KiField/subscription
+  svn_url: https://github.com/JoanTheSpark/KiField
+  tags_url: https://api.github.com/repos/JoanTheSpark/KiField/tags
+  teams_url: https://api.github.com/repos/JoanTheSpark/KiField/teams
+  topics: []
+  trees_url: https://api.github.com/repos/JoanTheSpark/KiField/git/trees{/sha}
+  updated_at: '2021-07-27T14:47:35Z'
+  url: https://api.github.com/repos/JoanTheSpark/KiField
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

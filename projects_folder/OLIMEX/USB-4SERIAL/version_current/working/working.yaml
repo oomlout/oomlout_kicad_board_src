@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/branches{/branch}
-clone_url: https://github.com/OLIMEX/USB-4SERIAL.git
-collaborators_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/contributors
-created_at: '2023-05-23T08:45:46Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/deployments
-description: USB 2.0 to Four Serial RS232 ports or 3 Serial RS232 ports and 1 RS485
-  port
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/downloads
-events_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/forks
-full_name: OLIMEX/USB-4SERIAL
-git_commits_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/git/tags{/sha}
-git_url: git://github.com/OLIMEX/USB-4SERIAL.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/hooks
-html_url: https://github.com/OLIMEX/USB-4SERIAL
-id: 644305603
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/merges
-milestones_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/milestones{/number}
-mirror_url: null
-name: USB-4SERIAL
-node_id: R_kgDOJmdSww
-notifications_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: USB-4SERIAL
+  github_src: https://github.com/OLIMEX/USB-4SERIAL
+  github_src_repo: https://github.com/OLIMEX/USB-4SERIAL
+  oomp_bot: olimex_usb_4serial
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/olimex_usb_4serial
+  oomp_doc: projects/olimex_usb_4serial/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/olimex_usb_4serial
+  oomp_src_flat: projects_flat/olimex_usb_4serial
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/olimex_usb_4serial
+  oomp_src_folder: projects_folder\OLIMEX\USB-4SERIAL\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\OLIMEX\USB-4SERIAL\version_current\working
+oomp_key: oomp_olimex_usb_4serial
+oomp_key_simple: olimex_usb_4serial
 projects_flat: projects_flat/olimex_usb_4serial/version_current/working
 projects_folder: projects_folder/OLIMEX/USB-4SERIAL/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/pulls{/number}
-pushed_at: '2023-05-26T08:26:25Z'
-releases_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/releases{/id}
-size: 5084
-ssh_url: git@github.com:OLIMEX/USB-4SERIAL.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/subscription
-svn_url: https://github.com/OLIMEX/USB-4SERIAL
-tags_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/tags
-teams_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/git/trees{/sha}
-updated_at: '2023-05-23T10:15:23Z'
-url: https://api.github.com/repos/OLIMEX/USB-4SERIAL
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/branches{/branch}
+  clone_url: https://github.com/OLIMEX/USB-4SERIAL.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/contributors
+  created_at: '2023-05-23T08:45:46Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/deployments
+  description: USB 2.0 to Four Serial RS232 ports or 3 Serial RS232 ports and 1 RS485
+    port
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/downloads
+  events_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/forks
+  full_name: OLIMEX/USB-4SERIAL
+  git_commits_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/USB-4SERIAL.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/hooks
+  html_url: https://github.com/OLIMEX/USB-4SERIAL
+  id: 644305603
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/milestones{/number}
+  mirror_url: null
+  name: USB-4SERIAL
+  node_id: R_kgDOJmdSww
+  notifications_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/pulls{/number}
+  pushed_at: '2023-05-26T08:26:25Z'
+  releases_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/releases{/id}
+  size: 5084
+  ssh_url: git@github.com:OLIMEX/USB-4SERIAL.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/subscription
+  svn_url: https://github.com/OLIMEX/USB-4SERIAL
+  tags_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/tags
+  teams_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/USB-4SERIAL/git/trees{/sha}
+  updated_at: '2023-05-23T10:15:23Z'
+  url: https://api.github.com/repos/OLIMEX/USB-4SERIAL
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

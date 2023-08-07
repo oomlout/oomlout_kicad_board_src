@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/cvra/cvra-cape/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/cvra/cvra-cape/assignees{/user}
-blobs_url: https://api.github.com/repos/cvra/cvra-cape/git/blobs{/sha}
-branches_url: https://api.github.com/repos/cvra/cvra-cape/branches{/branch}
-clone_url: https://github.com/cvra/cvra-cape.git
-collaborators_url: https://api.github.com/repos/cvra/cvra-cape/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/cvra/cvra-cape/comments{/number}
-commits_url: https://api.github.com/repos/cvra/cvra-cape/commits{/sha}
-compare_url: https://api.github.com/repos/cvra/cvra-cape/compare/{base}...{head}
-contents_url: https://api.github.com/repos/cvra/cvra-cape/contents/{+path}
-contributors_url: https://api.github.com/repos/cvra/cvra-cape/contributors
-created_at: '2015-10-28T15:01:18Z'
-default_branch: revA
-deployments_url: https://api.github.com/repos/cvra/cvra-cape/deployments
-description: Beaglebone black cape extension board for CVRA
-disabled: false
-downloads_url: https://api.github.com/repos/cvra/cvra-cape/downloads
-events_url: https://api.github.com/repos/cvra/cvra-cape/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/cvra/cvra-cape/forks
-full_name: cvra/cvra-cape
-git_commits_url: https://api.github.com/repos/cvra/cvra-cape/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/cvra/cvra-cape/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/cvra/cvra-cape/git/tags{/sha}
-git_url: git://github.com/cvra/cvra-cape.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/cvra/cvra-cape/hooks
-html_url: https://github.com/cvra/cvra-cape
-id: 45120184
-is_template: false
-issue_comment_url: https://api.github.com/repos/cvra/cvra-cape/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/cvra/cvra-cape/issues/events{/number}
-issues_url: https://api.github.com/repos/cvra/cvra-cape/issues{/number}
-keys_url: https://api.github.com/repos/cvra/cvra-cape/keys{/key_id}
-labels_url: https://api.github.com/repos/cvra/cvra-cape/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/cvra/cvra-cape/languages
-license: null
-merges_url: https://api.github.com/repos/cvra/cvra-cape/merges
-milestones_url: https://api.github.com/repos/cvra/cvra-cape/milestones{/number}
-mirror_url: null
-name: cvra-cape
-node_id: MDEwOlJlcG9zaXRvcnk0NTEyMDE4NA==
-notifications_url: https://api.github.com/repos/cvra/cvra-cape/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5530328?v=4
-  events_url: https://api.github.com/users/cvra/events{/privacy}
-  followers_url: https://api.github.com/users/cvra/followers
-  following_url: https://api.github.com/users/cvra/following{/other_user}
-  gists_url: https://api.github.com/users/cvra/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/cvra
-  id: 5530328
-  login: cvra
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU1MzAzMjg=
-  organizations_url: https://api.github.com/users/cvra/orgs
-  received_events_url: https://api.github.com/users/cvra/received_events
-  repos_url: https://api.github.com/users/cvra/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/cvra/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/cvra/subscriptions
-  type: Organization
-  url: https://api.github.com/users/cvra
-private: false
+links:
+  github_owner: cvra
+  github_repo_name: cvra-cape
+  github_src: https://github.com/cvra/cvra-cape
+  github_src_repo: https://github.com/cvra/cvra-cape
+  oomp_bot: cvra_cvra_cape
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/cvra_cvra_cape
+  oomp_doc: projects/cvra_cvra_cape/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/cvra_cvra_cape
+  oomp_src_flat: projects_flat/cvra_cvra_cape
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/cvra_cvra_cape
+  oomp_src_folder: projects_folder\cvra\cvra-cape\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\cvra\cvra-cape\version_current\working
+oomp_key: oomp_cvra_cvra_cape
+oomp_key_simple: cvra_cvra_cape
 projects_flat: projects_flat/cvra_cvra_cape/version_current/working
 projects_folder: projects_folder/cvra/cvra-cape/version_current/working
-pulls_url: https://api.github.com/repos/cvra/cvra-cape/pulls{/number}
-pushed_at: '2016-04-27T09:25:38Z'
-releases_url: https://api.github.com/repos/cvra/cvra-cape/releases{/id}
-size: 17360
-ssh_url: git@github.com:cvra/cvra-cape.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/cvra/cvra-cape/stargazers
-statuses_url: https://api.github.com/repos/cvra/cvra-cape/statuses/{sha}
-subscribers_url: https://api.github.com/repos/cvra/cvra-cape/subscribers
-subscription_url: https://api.github.com/repos/cvra/cvra-cape/subscription
-svn_url: https://github.com/cvra/cvra-cape
-tags_url: https://api.github.com/repos/cvra/cvra-cape/tags
-teams_url: https://api.github.com/repos/cvra/cvra-cape/teams
-topics: []
-trees_url: https://api.github.com/repos/cvra/cvra-cape/git/trees{/sha}
-updated_at: '2016-02-08T23:09:54Z'
-url: https://api.github.com/repos/cvra/cvra-cape
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/cvra/cvra-cape/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/cvra/cvra-cape/assignees{/user}
+  blobs_url: https://api.github.com/repos/cvra/cvra-cape/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/cvra/cvra-cape/branches{/branch}
+  clone_url: https://github.com/cvra/cvra-cape.git
+  collaborators_url: https://api.github.com/repos/cvra/cvra-cape/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/cvra/cvra-cape/comments{/number}
+  commits_url: https://api.github.com/repos/cvra/cvra-cape/commits{/sha}
+  compare_url: https://api.github.com/repos/cvra/cvra-cape/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/cvra/cvra-cape/contents/{+path}
+  contributors_url: https://api.github.com/repos/cvra/cvra-cape/contributors
+  created_at: '2015-10-28T15:01:18Z'
+  default_branch: revA
+  deployments_url: https://api.github.com/repos/cvra/cvra-cape/deployments
+  description: Beaglebone black cape extension board for CVRA
+  disabled: false
+  downloads_url: https://api.github.com/repos/cvra/cvra-cape/downloads
+  events_url: https://api.github.com/repos/cvra/cvra-cape/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/cvra/cvra-cape/forks
+  full_name: cvra/cvra-cape
+  git_commits_url: https://api.github.com/repos/cvra/cvra-cape/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/cvra/cvra-cape/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/cvra/cvra-cape/git/tags{/sha}
+  git_url: git://github.com/cvra/cvra-cape.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/cvra/cvra-cape/hooks
+  html_url: https://github.com/cvra/cvra-cape
+  id: 45120184
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/cvra/cvra-cape/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/cvra/cvra-cape/issues/events{/number}
+  issues_url: https://api.github.com/repos/cvra/cvra-cape/issues{/number}
+  keys_url: https://api.github.com/repos/cvra/cvra-cape/keys{/key_id}
+  labels_url: https://api.github.com/repos/cvra/cvra-cape/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/cvra/cvra-cape/languages
+  license: null
+  merges_url: https://api.github.com/repos/cvra/cvra-cape/merges
+  milestones_url: https://api.github.com/repos/cvra/cvra-cape/milestones{/number}
+  mirror_url: null
+  name: cvra-cape
+  node_id: MDEwOlJlcG9zaXRvcnk0NTEyMDE4NA==
+  notifications_url: https://api.github.com/repos/cvra/cvra-cape/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5530328?v=4
+    events_url: https://api.github.com/users/cvra/events{/privacy}
+    followers_url: https://api.github.com/users/cvra/followers
+    following_url: https://api.github.com/users/cvra/following{/other_user}
+    gists_url: https://api.github.com/users/cvra/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/cvra
+    id: 5530328
+    login: cvra
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU1MzAzMjg=
+    organizations_url: https://api.github.com/users/cvra/orgs
+    received_events_url: https://api.github.com/users/cvra/received_events
+    repos_url: https://api.github.com/users/cvra/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/cvra/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/cvra/subscriptions
+    type: Organization
+    url: https://api.github.com/users/cvra
+  private: false
+  pulls_url: https://api.github.com/repos/cvra/cvra-cape/pulls{/number}
+  pushed_at: '2016-04-27T09:25:38Z'
+  releases_url: https://api.github.com/repos/cvra/cvra-cape/releases{/id}
+  size: 17360
+  ssh_url: git@github.com:cvra/cvra-cape.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/cvra/cvra-cape/stargazers
+  statuses_url: https://api.github.com/repos/cvra/cvra-cape/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/cvra/cvra-cape/subscribers
+  subscription_url: https://api.github.com/repos/cvra/cvra-cape/subscription
+  svn_url: https://github.com/cvra/cvra-cape
+  tags_url: https://api.github.com/repos/cvra/cvra-cape/tags
+  teams_url: https://api.github.com/repos/cvra/cvra-cape/teams
+  topics: []
+  trees_url: https://api.github.com/repos/cvra/cvra-cape/git/trees{/sha}
+  updated_at: '2016-02-08T23:09:54Z'
+  url: https://api.github.com/repos/cvra/cvra-cape
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

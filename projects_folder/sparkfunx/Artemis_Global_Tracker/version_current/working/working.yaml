@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/{archive_format}{/ref}
-archived: true
-assignees_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/branches{/branch}
-clone_url: https://github.com/sparkfunX/Artemis_Global_Tracker.git
-collaborators_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/comments{/number}
-commits_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/contributors
-created_at: '2020-05-13T11:59:39Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/deployments
-description: A global satellite tracker utilising the SparkFun Artemis module, Iridium
-  9603N satellite transceiver and u-blox ZOE-M8Q GNSS
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/downloads
-events_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/events
-fork: false
-forks: 9
-forks_count: 9
-forks_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/forks
-full_name: sparkfunX/Artemis_Global_Tracker
-git_commits_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/git/tags{/sha}
-git_url: git://github.com/sparkfunX/Artemis_Global_Tracker.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/hooks
-html_url: https://github.com/sparkfunX/Artemis_Global_Tracker
-id: 263616788
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/issues{/number}
-keys_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/merges
-milestones_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/milestones{/number}
-mirror_url: null
-name: Artemis_Global_Tracker
-node_id: MDEwOlJlcG9zaXRvcnkyNjM2MTY3ODg=
-notifications_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
-  events_url: https://api.github.com/users/sparkfunX/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfunX/followers
-  following_url: https://api.github.com/users/sparkfunX/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfunX
-  id: 25487355
-  login: sparkfunX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
-  organizations_url: https://api.github.com/users/sparkfunX/orgs
-  received_events_url: https://api.github.com/users/sparkfunX/received_events
-  repos_url: https://api.github.com/users/sparkfunX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfunX
-private: false
+links:
+  github_owner: sparkfunX
+  github_repo_name: Artemis_Global_Tracker
+  github_src: https://github.com/sparkfunX/Artemis_Global_Tracker
+  github_src_repo: https://github.com/sparkfunX/Artemis_Global_Tracker
+  oomp_bot: sparkfunx_artemis_global_tracker
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfunx_artemis_global_tracker
+  oomp_doc: projects/sparkfunx_artemis_global_tracker/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfunx_artemis_global_tracker
+  oomp_src_flat: projects_flat/sparkfunx_artemis_global_tracker
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfunx_artemis_global_tracker
+  oomp_src_folder: projects_folder\sparkfunx\Artemis_Global_Tracker\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfunx\Artemis_Global_Tracker\version_current\working
+oomp_key: oomp_sparkfunx_artemis_global_tracker
+oomp_key_simple: sparkfunx_artemis_global_tracker
 projects_flat: projects_flat/sparkfunx_artemis_global_tracker/version_current/working
 projects_folder: projects_folder/sparkfunx/Artemis_Global_Tracker/version_current/working
-pulls_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/pulls{/number}
-pushed_at: '2022-02-04T09:00:45Z'
-releases_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/releases{/id}
-size: 42305
-ssh_url: git@github.com:sparkfunX/Artemis_Global_Tracker.git
-stargazers_count: 13
-stargazers_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/stargazers
-statuses_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/subscribers
-subscription_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/subscription
-svn_url: https://github.com/sparkfunX/Artemis_Global_Tracker
-tags_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/tags
-teams_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/git/trees{/sha}
-updated_at: '2023-03-09T23:35:58Z'
-url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker
-visibility: public
-watchers: 13
-watchers_count: 13
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/{archive_format}{/ref}
+  archived: true
+  assignees_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/branches{/branch}
+  clone_url: https://github.com/sparkfunX/Artemis_Global_Tracker.git
+  collaborators_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/contributors
+  created_at: '2020-05-13T11:59:39Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/deployments
+  description: A global satellite tracker utilising the SparkFun Artemis module, Iridium
+    9603N satellite transceiver and u-blox ZOE-M8Q GNSS
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/downloads
+  events_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/events
+  fork: false
+  forks: 9
+  forks_count: 9
+  forks_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/forks
+  full_name: sparkfunX/Artemis_Global_Tracker
+  git_commits_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/git/tags{/sha}
+  git_url: git://github.com/sparkfunX/Artemis_Global_Tracker.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/hooks
+  html_url: https://github.com/sparkfunX/Artemis_Global_Tracker
+  id: 263616788
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/merges
+  milestones_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/milestones{/number}
+  mirror_url: null
+  name: Artemis_Global_Tracker
+  node_id: MDEwOlJlcG9zaXRvcnkyNjM2MTY3ODg=
+  notifications_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/notifications{?since,all,participating}
+  open_issues: 4
+  open_issues_count: 4
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
+    events_url: https://api.github.com/users/sparkfunX/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfunX/followers
+    following_url: https://api.github.com/users/sparkfunX/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfunX
+    id: 25487355
+    login: sparkfunX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
+    organizations_url: https://api.github.com/users/sparkfunX/orgs
+    received_events_url: https://api.github.com/users/sparkfunX/received_events
+    repos_url: https://api.github.com/users/sparkfunX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfunX
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/pulls{/number}
+  pushed_at: '2022-02-04T09:00:45Z'
+  releases_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/releases{/id}
+  size: 42305
+  ssh_url: git@github.com:sparkfunX/Artemis_Global_Tracker.git
+  stargazers_count: 13
+  stargazers_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/stargazers
+  statuses_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/subscribers
+  subscription_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/subscription
+  svn_url: https://github.com/sparkfunX/Artemis_Global_Tracker
+  tags_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/tags
+  teams_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker/git/trees{/sha}
+  updated_at: '2023-03-09T23:35:58Z'
+  url: https://api.github.com/repos/sparkfunX/Artemis_Global_Tracker
+  visibility: public
+  watchers: 13
+  watchers_count: 13
+  web_commit_signoff_required: false

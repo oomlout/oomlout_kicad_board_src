@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Tinkerforge/dc-adapter/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Tinkerforge/dc-adapter/assignees{/user}
-blobs_url: https://api.github.com/repos/Tinkerforge/dc-adapter/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Tinkerforge/dc-adapter/branches{/branch}
-clone_url: https://github.com/Tinkerforge/dc-adapter.git
-collaborators_url: https://api.github.com/repos/Tinkerforge/dc-adapter/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Tinkerforge/dc-adapter/comments{/number}
-commits_url: https://api.github.com/repos/Tinkerforge/dc-adapter/commits{/sha}
-compare_url: https://api.github.com/repos/Tinkerforge/dc-adapter/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Tinkerforge/dc-adapter/contents/{+path}
-contributors_url: https://api.github.com/repos/Tinkerforge/dc-adapter/contributors
-created_at: '2011-08-25T13:10:39Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Tinkerforge/dc-adapter/deployments
-description: Adapter between a 5mm DC jack and 2 Pole Black Connector
-disabled: false
-downloads_url: https://api.github.com/repos/Tinkerforge/dc-adapter/downloads
-events_url: https://api.github.com/repos/Tinkerforge/dc-adapter/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Tinkerforge/dc-adapter/forks
-full_name: Tinkerforge/dc-adapter
-git_commits_url: https://api.github.com/repos/Tinkerforge/dc-adapter/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Tinkerforge/dc-adapter/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Tinkerforge/dc-adapter/git/tags{/sha}
-git_url: git://github.com/Tinkerforge/dc-adapter.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: http://www.tinkerforge.com/en/doc/Hardware/Accessories/DC_Jack_Adapter.html
-hooks_url: https://api.github.com/repos/Tinkerforge/dc-adapter/hooks
-html_url: https://github.com/Tinkerforge/dc-adapter
-id: 2267943
-is_template: false
-issue_comment_url: https://api.github.com/repos/Tinkerforge/dc-adapter/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Tinkerforge/dc-adapter/issues/events{/number}
-issues_url: https://api.github.com/repos/Tinkerforge/dc-adapter/issues{/number}
-keys_url: https://api.github.com/repos/Tinkerforge/dc-adapter/keys{/key_id}
-labels_url: https://api.github.com/repos/Tinkerforge/dc-adapter/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/Tinkerforge/dc-adapter/languages
-license: null
-merges_url: https://api.github.com/repos/Tinkerforge/dc-adapter/merges
-milestones_url: https://api.github.com/repos/Tinkerforge/dc-adapter/milestones{/number}
-mirror_url: null
-name: dc-adapter
-node_id: MDEwOlJlcG9zaXRvcnkyMjY3OTQz
-notifications_url: https://api.github.com/repos/Tinkerforge/dc-adapter/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
-  events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
-  followers_url: https://api.github.com/users/Tinkerforge/followers
-  following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
-  gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Tinkerforge
-  id: 1001426
-  login: Tinkerforge
-  node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
-  organizations_url: https://api.github.com/users/Tinkerforge/orgs
-  received_events_url: https://api.github.com/users/Tinkerforge/received_events
-  repos_url: https://api.github.com/users/Tinkerforge/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
-  type: Organization
-  url: https://api.github.com/users/Tinkerforge
-private: false
+links:
+  github_owner: Tinkerforge
+  github_repo_name: dc-adapter
+  github_src: https://github.com/Tinkerforge/dc-adapter
+  github_src_repo: https://github.com/Tinkerforge/dc-adapter
+  oomp_bot: projects_tinkerforge_dc_adapter
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_tinkerforge_dc_adapter
+  oomp_doc: projects/projects_flat_tinkerforge_dc_adapter/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_tinkerforge_dc_adapter
+  oomp_src_flat: projects_flat/projects_flat_tinkerforge_dc_adapter
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_tinkerforge_dc_adapter
+  oomp_src_folder: projects_flat\tinkerforge_dc_adapter\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\tinkerforge_dc_adapter\version_current\working
+oomp_key: oomp_projects_flat_tinkerforge_dc_adapter
+oomp_key_simple: projects_flat_tinkerforge_dc_adapter
 projects_flat: projects_flat/tinkerforge_dc_adapter/version_current/working
 projects_folder: projects_folder/Tinkerforge/dc-adapter/version_current/working
-pulls_url: https://api.github.com/repos/Tinkerforge/dc-adapter/pulls{/number}
-pushed_at: '2021-10-25T07:57:03Z'
-releases_url: https://api.github.com/repos/Tinkerforge/dc-adapter/releases{/id}
-size: 37
-ssh_url: git@github.com:Tinkerforge/dc-adapter.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Tinkerforge/dc-adapter/stargazers
-statuses_url: https://api.github.com/repos/Tinkerforge/dc-adapter/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Tinkerforge/dc-adapter/subscribers
-subscription_url: https://api.github.com/repos/Tinkerforge/dc-adapter/subscription
-svn_url: https://github.com/Tinkerforge/dc-adapter
-tags_url: https://api.github.com/repos/Tinkerforge/dc-adapter/tags
-teams_url: https://api.github.com/repos/Tinkerforge/dc-adapter/teams
-topics: []
-trees_url: https://api.github.com/repos/Tinkerforge/dc-adapter/git/trees{/sha}
-updated_at: '2021-10-25T07:57:06Z'
-url: https://api.github.com/repos/Tinkerforge/dc-adapter
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Tinkerforge/dc-adapter/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Tinkerforge/dc-adapter/assignees{/user}
+  blobs_url: https://api.github.com/repos/Tinkerforge/dc-adapter/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Tinkerforge/dc-adapter/branches{/branch}
+  clone_url: https://github.com/Tinkerforge/dc-adapter.git
+  collaborators_url: https://api.github.com/repos/Tinkerforge/dc-adapter/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Tinkerforge/dc-adapter/comments{/number}
+  commits_url: https://api.github.com/repos/Tinkerforge/dc-adapter/commits{/sha}
+  compare_url: https://api.github.com/repos/Tinkerforge/dc-adapter/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Tinkerforge/dc-adapter/contents/{+path}
+  contributors_url: https://api.github.com/repos/Tinkerforge/dc-adapter/contributors
+  created_at: '2011-08-25T13:10:39Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Tinkerforge/dc-adapter/deployments
+  description: Adapter between a 5mm DC jack and 2 Pole Black Connector
+  disabled: false
+  downloads_url: https://api.github.com/repos/Tinkerforge/dc-adapter/downloads
+  events_url: https://api.github.com/repos/Tinkerforge/dc-adapter/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Tinkerforge/dc-adapter/forks
+  full_name: Tinkerforge/dc-adapter
+  git_commits_url: https://api.github.com/repos/Tinkerforge/dc-adapter/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Tinkerforge/dc-adapter/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Tinkerforge/dc-adapter/git/tags{/sha}
+  git_url: git://github.com/Tinkerforge/dc-adapter.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: http://www.tinkerforge.com/en/doc/Hardware/Accessories/DC_Jack_Adapter.html
+  hooks_url: https://api.github.com/repos/Tinkerforge/dc-adapter/hooks
+  html_url: https://github.com/Tinkerforge/dc-adapter
+  id: 2267943
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Tinkerforge/dc-adapter/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Tinkerforge/dc-adapter/issues/events{/number}
+  issues_url: https://api.github.com/repos/Tinkerforge/dc-adapter/issues{/number}
+  keys_url: https://api.github.com/repos/Tinkerforge/dc-adapter/keys{/key_id}
+  labels_url: https://api.github.com/repos/Tinkerforge/dc-adapter/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/Tinkerforge/dc-adapter/languages
+  license: null
+  merges_url: https://api.github.com/repos/Tinkerforge/dc-adapter/merges
+  milestones_url: https://api.github.com/repos/Tinkerforge/dc-adapter/milestones{/number}
+  mirror_url: null
+  name: dc-adapter
+  node_id: MDEwOlJlcG9zaXRvcnkyMjY3OTQz
+  notifications_url: https://api.github.com/repos/Tinkerforge/dc-adapter/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
+    events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
+    followers_url: https://api.github.com/users/Tinkerforge/followers
+    following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
+    gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Tinkerforge
+    id: 1001426
+    login: Tinkerforge
+    node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
+    organizations_url: https://api.github.com/users/Tinkerforge/orgs
+    received_events_url: https://api.github.com/users/Tinkerforge/received_events
+    repos_url: https://api.github.com/users/Tinkerforge/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
+    type: Organization
+    url: https://api.github.com/users/Tinkerforge
+  private: false
+  pulls_url: https://api.github.com/repos/Tinkerforge/dc-adapter/pulls{/number}
+  pushed_at: '2021-10-25T07:57:03Z'
+  releases_url: https://api.github.com/repos/Tinkerforge/dc-adapter/releases{/id}
+  size: 37
+  ssh_url: git@github.com:Tinkerforge/dc-adapter.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Tinkerforge/dc-adapter/stargazers
+  statuses_url: https://api.github.com/repos/Tinkerforge/dc-adapter/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Tinkerforge/dc-adapter/subscribers
+  subscription_url: https://api.github.com/repos/Tinkerforge/dc-adapter/subscription
+  svn_url: https://github.com/Tinkerforge/dc-adapter
+  tags_url: https://api.github.com/repos/Tinkerforge/dc-adapter/tags
+  teams_url: https://api.github.com/repos/Tinkerforge/dc-adapter/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Tinkerforge/dc-adapter/git/trees{/sha}
+  updated_at: '2021-10-25T07:57:06Z'
+  url: https://api.github.com/repos/Tinkerforge/dc-adapter
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

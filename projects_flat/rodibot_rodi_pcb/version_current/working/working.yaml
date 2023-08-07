@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/rodibot/rodi-pcb/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/rodibot/rodi-pcb/assignees{/user}
-blobs_url: https://api.github.com/repos/rodibot/rodi-pcb/git/blobs{/sha}
-branches_url: https://api.github.com/repos/rodibot/rodi-pcb/branches{/branch}
-clone_url: https://github.com/rodibot/rodi-pcb.git
-collaborators_url: https://api.github.com/repos/rodibot/rodi-pcb/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/rodibot/rodi-pcb/comments{/number}
-commits_url: https://api.github.com/repos/rodibot/rodi-pcb/commits{/sha}
-compare_url: https://api.github.com/repos/rodibot/rodi-pcb/compare/{base}...{head}
-contents_url: https://api.github.com/repos/rodibot/rodi-pcb/contents/{+path}
-contributors_url: https://api.github.com/repos/rodibot/rodi-pcb/contributors
-created_at: '2014-11-23T02:49:13Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/rodibot/rodi-pcb/deployments
-description: "Schematic and board files for RoDI (Robot Did\xE1ctico inal\xE1mbrico)"
-disabled: false
-downloads_url: https://api.github.com/repos/rodibot/rodi-pcb/downloads
-events_url: https://api.github.com/repos/rodibot/rodi-pcb/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/rodibot/rodi-pcb/forks
-full_name: rodibot/rodi-pcb
-git_commits_url: https://api.github.com/repos/rodibot/rodi-pcb/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/rodibot/rodi-pcb/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/rodibot/rodi-pcb/git/tags{/sha}
-git_url: git://github.com/rodibot/rodi-pcb.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/rodibot/rodi-pcb/hooks
-html_url: https://github.com/rodibot/rodi-pcb
-id: 27020059
-is_template: false
-issue_comment_url: https://api.github.com/repos/rodibot/rodi-pcb/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/rodibot/rodi-pcb/issues/events{/number}
-issues_url: https://api.github.com/repos/rodibot/rodi-pcb/issues{/number}
-keys_url: https://api.github.com/repos/rodibot/rodi-pcb/keys{/key_id}
-labels_url: https://api.github.com/repos/rodibot/rodi-pcb/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/rodibot/rodi-pcb/languages
-license: null
-merges_url: https://api.github.com/repos/rodibot/rodi-pcb/merges
-milestones_url: https://api.github.com/repos/rodibot/rodi-pcb/milestones{/number}
-mirror_url: null
-name: rodi-pcb
-node_id: MDEwOlJlcG9zaXRvcnkyNzAyMDA1OQ==
-notifications_url: https://api.github.com/repos/rodibot/rodi-pcb/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/10782482?v=4
-  events_url: https://api.github.com/users/rodibot/events{/privacy}
-  followers_url: https://api.github.com/users/rodibot/followers
-  following_url: https://api.github.com/users/rodibot/following{/other_user}
-  gists_url: https://api.github.com/users/rodibot/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/rodibot
-  id: 10782482
-  login: rodibot
-  node_id: MDEyOk9yZ2FuaXphdGlvbjEwNzgyNDgy
-  organizations_url: https://api.github.com/users/rodibot/orgs
-  received_events_url: https://api.github.com/users/rodibot/received_events
-  repos_url: https://api.github.com/users/rodibot/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/rodibot/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/rodibot/subscriptions
-  type: Organization
-  url: https://api.github.com/users/rodibot
-private: false
+links:
+  github_owner: rodibot
+  github_repo_name: rodi-pcb
+  github_src: https://github.com/rodibot/rodi-pcb
+  github_src_repo: https://github.com/rodibot/rodi-pcb
+  oomp_bot: projects_rodibot_rodi_pcb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_rodibot_rodi_pcb
+  oomp_doc: projects/projects_flat_rodibot_rodi_pcb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_rodibot_rodi_pcb
+  oomp_src_flat: projects_flat/projects_flat_rodibot_rodi_pcb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_rodibot_rodi_pcb
+  oomp_src_folder: projects_flat\rodibot_rodi_pcb\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\rodibot_rodi_pcb\version_current\working
+oomp_key: oomp_projects_flat_rodibot_rodi_pcb
+oomp_key_simple: projects_flat_rodibot_rodi_pcb
 projects_flat: projects_flat/rodibot_rodi_pcb/version_current/working
 projects_folder: projects_folder/rodibot/rodi-pcb/version_current/working
-pulls_url: https://api.github.com/repos/rodibot/rodi-pcb/pulls{/number}
-pushed_at: '2017-03-22T02:59:50Z'
-releases_url: https://api.github.com/repos/rodibot/rodi-pcb/releases{/id}
-size: 299
-ssh_url: git@github.com:rodibot/rodi-pcb.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/rodibot/rodi-pcb/stargazers
-statuses_url: https://api.github.com/repos/rodibot/rodi-pcb/statuses/{sha}
-subscribers_url: https://api.github.com/repos/rodibot/rodi-pcb/subscribers
-subscription_url: https://api.github.com/repos/rodibot/rodi-pcb/subscription
-svn_url: https://github.com/rodibot/rodi-pcb
-tags_url: https://api.github.com/repos/rodibot/rodi-pcb/tags
-teams_url: https://api.github.com/repos/rodibot/rodi-pcb/teams
-topics: []
-trees_url: https://api.github.com/repos/rodibot/rodi-pcb/git/trees{/sha}
-updated_at: '2022-07-20T15:31:33Z'
-url: https://api.github.com/repos/rodibot/rodi-pcb
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/rodibot/rodi-pcb/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/rodibot/rodi-pcb/assignees{/user}
+  blobs_url: https://api.github.com/repos/rodibot/rodi-pcb/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/rodibot/rodi-pcb/branches{/branch}
+  clone_url: https://github.com/rodibot/rodi-pcb.git
+  collaborators_url: https://api.github.com/repos/rodibot/rodi-pcb/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/rodibot/rodi-pcb/comments{/number}
+  commits_url: https://api.github.com/repos/rodibot/rodi-pcb/commits{/sha}
+  compare_url: https://api.github.com/repos/rodibot/rodi-pcb/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/rodibot/rodi-pcb/contents/{+path}
+  contributors_url: https://api.github.com/repos/rodibot/rodi-pcb/contributors
+  created_at: '2014-11-23T02:49:13Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/rodibot/rodi-pcb/deployments
+  description: "Schematic and board files for RoDI (Robot Did\xE1ctico inal\xE1mbrico)"
+  disabled: false
+  downloads_url: https://api.github.com/repos/rodibot/rodi-pcb/downloads
+  events_url: https://api.github.com/repos/rodibot/rodi-pcb/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/rodibot/rodi-pcb/forks
+  full_name: rodibot/rodi-pcb
+  git_commits_url: https://api.github.com/repos/rodibot/rodi-pcb/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/rodibot/rodi-pcb/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/rodibot/rodi-pcb/git/tags{/sha}
+  git_url: git://github.com/rodibot/rodi-pcb.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/rodibot/rodi-pcb/hooks
+  html_url: https://github.com/rodibot/rodi-pcb
+  id: 27020059
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/rodibot/rodi-pcb/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/rodibot/rodi-pcb/issues/events{/number}
+  issues_url: https://api.github.com/repos/rodibot/rodi-pcb/issues{/number}
+  keys_url: https://api.github.com/repos/rodibot/rodi-pcb/keys{/key_id}
+  labels_url: https://api.github.com/repos/rodibot/rodi-pcb/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/rodibot/rodi-pcb/languages
+  license: null
+  merges_url: https://api.github.com/repos/rodibot/rodi-pcb/merges
+  milestones_url: https://api.github.com/repos/rodibot/rodi-pcb/milestones{/number}
+  mirror_url: null
+  name: rodi-pcb
+  node_id: MDEwOlJlcG9zaXRvcnkyNzAyMDA1OQ==
+  notifications_url: https://api.github.com/repos/rodibot/rodi-pcb/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/10782482?v=4
+    events_url: https://api.github.com/users/rodibot/events{/privacy}
+    followers_url: https://api.github.com/users/rodibot/followers
+    following_url: https://api.github.com/users/rodibot/following{/other_user}
+    gists_url: https://api.github.com/users/rodibot/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/rodibot
+    id: 10782482
+    login: rodibot
+    node_id: MDEyOk9yZ2FuaXphdGlvbjEwNzgyNDgy
+    organizations_url: https://api.github.com/users/rodibot/orgs
+    received_events_url: https://api.github.com/users/rodibot/received_events
+    repos_url: https://api.github.com/users/rodibot/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/rodibot/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/rodibot/subscriptions
+    type: Organization
+    url: https://api.github.com/users/rodibot
+  private: false
+  pulls_url: https://api.github.com/repos/rodibot/rodi-pcb/pulls{/number}
+  pushed_at: '2017-03-22T02:59:50Z'
+  releases_url: https://api.github.com/repos/rodibot/rodi-pcb/releases{/id}
+  size: 299
+  ssh_url: git@github.com:rodibot/rodi-pcb.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/rodibot/rodi-pcb/stargazers
+  statuses_url: https://api.github.com/repos/rodibot/rodi-pcb/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/rodibot/rodi-pcb/subscribers
+  subscription_url: https://api.github.com/repos/rodibot/rodi-pcb/subscription
+  svn_url: https://github.com/rodibot/rodi-pcb
+  tags_url: https://api.github.com/repos/rodibot/rodi-pcb/tags
+  teams_url: https://api.github.com/repos/rodibot/rodi-pcb/teams
+  topics: []
+  trees_url: https://api.github.com/repos/rodibot/rodi-pcb/git/trees{/sha}
+  updated_at: '2022-07-20T15:31:33Z'
+  url: https://api.github.com/repos/rodibot/rodi-pcb
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

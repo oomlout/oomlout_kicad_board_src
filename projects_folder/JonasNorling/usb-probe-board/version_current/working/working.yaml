@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/JonasNorling/usb-probe-board/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/JonasNorling/usb-probe-board/assignees{/user}
-blobs_url: https://api.github.com/repos/JonasNorling/usb-probe-board/git/blobs{/sha}
-branches_url: https://api.github.com/repos/JonasNorling/usb-probe-board/branches{/branch}
-clone_url: https://github.com/JonasNorling/usb-probe-board.git
-collaborators_url: https://api.github.com/repos/JonasNorling/usb-probe-board/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/JonasNorling/usb-probe-board/comments{/number}
-commits_url: https://api.github.com/repos/JonasNorling/usb-probe-board/commits{/sha}
-compare_url: https://api.github.com/repos/JonasNorling/usb-probe-board/compare/{base}...{head}
-contents_url: https://api.github.com/repos/JonasNorling/usb-probe-board/contents/{+path}
-contributors_url: https://api.github.com/repos/JonasNorling/usb-probe-board/contributors
-created_at: '2021-07-24T09:58:20Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/JonasNorling/usb-probe-board/deployments
-description: Simple PCB with USB A and micro-B connectors and test points
-disabled: false
-downloads_url: https://api.github.com/repos/JonasNorling/usb-probe-board/downloads
-events_url: https://api.github.com/repos/JonasNorling/usb-probe-board/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/JonasNorling/usb-probe-board/forks
-full_name: JonasNorling/usb-probe-board
-git_commits_url: https://api.github.com/repos/JonasNorling/usb-probe-board/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/JonasNorling/usb-probe-board/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/JonasNorling/usb-probe-board/git/tags{/sha}
-git_url: git://github.com/JonasNorling/usb-probe-board.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/JonasNorling/usb-probe-board/hooks
-html_url: https://github.com/JonasNorling/usb-probe-board
-id: 389061921
-is_template: false
-issue_comment_url: https://api.github.com/repos/JonasNorling/usb-probe-board/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/JonasNorling/usb-probe-board/issues/events{/number}
-issues_url: https://api.github.com/repos/JonasNorling/usb-probe-board/issues{/number}
-keys_url: https://api.github.com/repos/JonasNorling/usb-probe-board/keys{/key_id}
-labels_url: https://api.github.com/repos/JonasNorling/usb-probe-board/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/JonasNorling/usb-probe-board/languages
-license: null
-merges_url: https://api.github.com/repos/JonasNorling/usb-probe-board/merges
-milestones_url: https://api.github.com/repos/JonasNorling/usb-probe-board/milestones{/number}
-mirror_url: null
-name: usb-probe-board
-node_id: MDEwOlJlcG9zaXRvcnkzODkwNjE5MjE=
-notifications_url: https://api.github.com/repos/JonasNorling/usb-probe-board/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1885053?v=4
-  events_url: https://api.github.com/users/JonasNorling/events{/privacy}
-  followers_url: https://api.github.com/users/JonasNorling/followers
-  following_url: https://api.github.com/users/JonasNorling/following{/other_user}
-  gists_url: https://api.github.com/users/JonasNorling/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/JonasNorling
-  id: 1885053
-  login: JonasNorling
-  node_id: MDQ6VXNlcjE4ODUwNTM=
-  organizations_url: https://api.github.com/users/JonasNorling/orgs
-  received_events_url: https://api.github.com/users/JonasNorling/received_events
-  repos_url: https://api.github.com/users/JonasNorling/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/JonasNorling/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/JonasNorling/subscriptions
-  type: User
-  url: https://api.github.com/users/JonasNorling
-private: false
+links:
+  github_owner: JonasNorling
+  github_repo_name: usb-probe-board
+  github_src: https://github.com/JonasNorling/usb-probe-board
+  github_src_repo: https://github.com/JonasNorling/usb-probe-board
+  oomp_bot: jonasnorling_usb_probe_board
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/jonasnorling_usb_probe_board
+  oomp_doc: projects/jonasnorling_usb_probe_board/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/jonasnorling_usb_probe_board
+  oomp_src_flat: projects_flat/jonasnorling_usb_probe_board
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/jonasnorling_usb_probe_board
+  oomp_src_folder: projects_folder\JonasNorling\usb-probe-board\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\JonasNorling\usb-probe-board\version_current\working
+oomp_key: oomp_jonasnorling_usb_probe_board
+oomp_key_simple: jonasnorling_usb_probe_board
 projects_flat: projects_flat/jonasnorling_usb_probe_board/version_current/working
 projects_folder: projects_folder/JonasNorling/usb-probe-board/version_current/working
-pulls_url: https://api.github.com/repos/JonasNorling/usb-probe-board/pulls{/number}
-pushed_at: '2021-07-24T09:58:29Z'
-releases_url: https://api.github.com/repos/JonasNorling/usb-probe-board/releases{/id}
-size: 33
-ssh_url: git@github.com:JonasNorling/usb-probe-board.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/JonasNorling/usb-probe-board/stargazers
-statuses_url: https://api.github.com/repos/JonasNorling/usb-probe-board/statuses/{sha}
-subscribers_url: https://api.github.com/repos/JonasNorling/usb-probe-board/subscribers
-subscription_url: https://api.github.com/repos/JonasNorling/usb-probe-board/subscription
-svn_url: https://github.com/JonasNorling/usb-probe-board
-tags_url: https://api.github.com/repos/JonasNorling/usb-probe-board/tags
-teams_url: https://api.github.com/repos/JonasNorling/usb-probe-board/teams
-topics: []
-trees_url: https://api.github.com/repos/JonasNorling/usb-probe-board/git/trees{/sha}
-updated_at: '2021-07-24T09:58:32Z'
-url: https://api.github.com/repos/JonasNorling/usb-probe-board
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/JonasNorling/usb-probe-board/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/JonasNorling/usb-probe-board/assignees{/user}
+  blobs_url: https://api.github.com/repos/JonasNorling/usb-probe-board/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/JonasNorling/usb-probe-board/branches{/branch}
+  clone_url: https://github.com/JonasNorling/usb-probe-board.git
+  collaborators_url: https://api.github.com/repos/JonasNorling/usb-probe-board/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/JonasNorling/usb-probe-board/comments{/number}
+  commits_url: https://api.github.com/repos/JonasNorling/usb-probe-board/commits{/sha}
+  compare_url: https://api.github.com/repos/JonasNorling/usb-probe-board/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/JonasNorling/usb-probe-board/contents/{+path}
+  contributors_url: https://api.github.com/repos/JonasNorling/usb-probe-board/contributors
+  created_at: '2021-07-24T09:58:20Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/JonasNorling/usb-probe-board/deployments
+  description: Simple PCB with USB A and micro-B connectors and test points
+  disabled: false
+  downloads_url: https://api.github.com/repos/JonasNorling/usb-probe-board/downloads
+  events_url: https://api.github.com/repos/JonasNorling/usb-probe-board/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/JonasNorling/usb-probe-board/forks
+  full_name: JonasNorling/usb-probe-board
+  git_commits_url: https://api.github.com/repos/JonasNorling/usb-probe-board/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/JonasNorling/usb-probe-board/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/JonasNorling/usb-probe-board/git/tags{/sha}
+  git_url: git://github.com/JonasNorling/usb-probe-board.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/JonasNorling/usb-probe-board/hooks
+  html_url: https://github.com/JonasNorling/usb-probe-board
+  id: 389061921
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/JonasNorling/usb-probe-board/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/JonasNorling/usb-probe-board/issues/events{/number}
+  issues_url: https://api.github.com/repos/JonasNorling/usb-probe-board/issues{/number}
+  keys_url: https://api.github.com/repos/JonasNorling/usb-probe-board/keys{/key_id}
+  labels_url: https://api.github.com/repos/JonasNorling/usb-probe-board/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/JonasNorling/usb-probe-board/languages
+  license: null
+  merges_url: https://api.github.com/repos/JonasNorling/usb-probe-board/merges
+  milestones_url: https://api.github.com/repos/JonasNorling/usb-probe-board/milestones{/number}
+  mirror_url: null
+  name: usb-probe-board
+  node_id: MDEwOlJlcG9zaXRvcnkzODkwNjE5MjE=
+  notifications_url: https://api.github.com/repos/JonasNorling/usb-probe-board/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1885053?v=4
+    events_url: https://api.github.com/users/JonasNorling/events{/privacy}
+    followers_url: https://api.github.com/users/JonasNorling/followers
+    following_url: https://api.github.com/users/JonasNorling/following{/other_user}
+    gists_url: https://api.github.com/users/JonasNorling/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/JonasNorling
+    id: 1885053
+    login: JonasNorling
+    node_id: MDQ6VXNlcjE4ODUwNTM=
+    organizations_url: https://api.github.com/users/JonasNorling/orgs
+    received_events_url: https://api.github.com/users/JonasNorling/received_events
+    repos_url: https://api.github.com/users/JonasNorling/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/JonasNorling/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/JonasNorling/subscriptions
+    type: User
+    url: https://api.github.com/users/JonasNorling
+  private: false
+  pulls_url: https://api.github.com/repos/JonasNorling/usb-probe-board/pulls{/number}
+  pushed_at: '2021-07-24T09:58:29Z'
+  releases_url: https://api.github.com/repos/JonasNorling/usb-probe-board/releases{/id}
+  size: 33
+  ssh_url: git@github.com:JonasNorling/usb-probe-board.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/JonasNorling/usb-probe-board/stargazers
+  statuses_url: https://api.github.com/repos/JonasNorling/usb-probe-board/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/JonasNorling/usb-probe-board/subscribers
+  subscription_url: https://api.github.com/repos/JonasNorling/usb-probe-board/subscription
+  svn_url: https://github.com/JonasNorling/usb-probe-board
+  tags_url: https://api.github.com/repos/JonasNorling/usb-probe-board/tags
+  teams_url: https://api.github.com/repos/JonasNorling/usb-probe-board/teams
+  topics: []
+  trees_url: https://api.github.com/repos/JonasNorling/usb-probe-board/git/trees{/sha}
+  updated_at: '2021-07-24T09:58:32Z'
+  url: https://api.github.com/repos/JonasNorling/usb-probe-board
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/coddingtonbear/whiterose/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/coddingtonbear/whiterose/assignees{/user}
-blobs_url: https://api.github.com/repos/coddingtonbear/whiterose/git/blobs{/sha}
-branches_url: https://api.github.com/repos/coddingtonbear/whiterose/branches{/branch}
-clone_url: https://github.com/coddingtonbear/whiterose.git
-collaborators_url: https://api.github.com/repos/coddingtonbear/whiterose/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/coddingtonbear/whiterose/comments{/number}
-commits_url: https://api.github.com/repos/coddingtonbear/whiterose/commits{/sha}
-compare_url: https://api.github.com/repos/coddingtonbear/whiterose/compare/{base}...{head}
-contents_url: https://api.github.com/repos/coddingtonbear/whiterose/contents/{+path}
-contributors_url: https://api.github.com/repos/coddingtonbear/whiterose/contributors
-created_at: '2017-04-10T06:09:29Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/coddingtonbear/whiterose/deployments
-description: Monitor your RescueTime productivity via a DIY ESP32-based device you
-  can make on your own
-disabled: false
-downloads_url: https://api.github.com/repos/coddingtonbear/whiterose/downloads
-events_url: https://api.github.com/repos/coddingtonbear/whiterose/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/coddingtonbear/whiterose/forks
-full_name: coddingtonbear/whiterose
-git_commits_url: https://api.github.com/repos/coddingtonbear/whiterose/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/coddingtonbear/whiterose/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/coddingtonbear/whiterose/git/tags{/sha}
-git_url: git://github.com/coddingtonbear/whiterose.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/coddingtonbear/whiterose/hooks
-html_url: https://github.com/coddingtonbear/whiterose
-id: 87772982
-is_template: false
-issue_comment_url: https://api.github.com/repos/coddingtonbear/whiterose/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/coddingtonbear/whiterose/issues/events{/number}
-issues_url: https://api.github.com/repos/coddingtonbear/whiterose/issues{/number}
-keys_url: https://api.github.com/repos/coddingtonbear/whiterose/keys{/key_id}
-labels_url: https://api.github.com/repos/coddingtonbear/whiterose/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/coddingtonbear/whiterose/languages
-license: null
-merges_url: https://api.github.com/repos/coddingtonbear/whiterose/merges
-milestones_url: https://api.github.com/repos/coddingtonbear/whiterose/milestones{/number}
-mirror_url: null
-name: whiterose
-node_id: MDEwOlJlcG9zaXRvcnk4Nzc3Mjk4Mg==
-notifications_url: https://api.github.com/repos/coddingtonbear/whiterose/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/527661?v=4
-  events_url: https://api.github.com/users/coddingtonbear/events{/privacy}
-  followers_url: https://api.github.com/users/coddingtonbear/followers
-  following_url: https://api.github.com/users/coddingtonbear/following{/other_user}
-  gists_url: https://api.github.com/users/coddingtonbear/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/coddingtonbear
-  id: 527661
-  login: coddingtonbear
-  node_id: MDQ6VXNlcjUyNzY2MQ==
-  organizations_url: https://api.github.com/users/coddingtonbear/orgs
-  received_events_url: https://api.github.com/users/coddingtonbear/received_events
-  repos_url: https://api.github.com/users/coddingtonbear/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/coddingtonbear/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/coddingtonbear/subscriptions
-  type: User
-  url: https://api.github.com/users/coddingtonbear
-private: false
+links:
+  github_owner: coddingtonbear
+  github_repo_name: whiterose
+  github_src: https://github.com/coddingtonbear/whiterose
+  github_src_repo: https://github.com/coddingtonbear/whiterose
+  oomp_bot: projects_coddingtonbear_whiterose
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_coddingtonbear_whiterose
+  oomp_doc: projects/projects_flat_coddingtonbear_whiterose/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_coddingtonbear_whiterose
+  oomp_src_flat: projects_flat/projects_flat_coddingtonbear_whiterose
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_coddingtonbear_whiterose
+  oomp_src_folder: projects_flat\coddingtonbear_whiterose\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\coddingtonbear_whiterose\version_current\working
+oomp_key: oomp_projects_flat_coddingtonbear_whiterose
+oomp_key_simple: projects_flat_coddingtonbear_whiterose
 projects_flat: projects_flat/coddingtonbear_whiterose/version_current/working
 projects_folder: projects_folder/coddingtonbear/whiterose/version_current/working
-pulls_url: https://api.github.com/repos/coddingtonbear/whiterose/pulls{/number}
-pushed_at: '2017-11-07T05:09:40Z'
-releases_url: https://api.github.com/repos/coddingtonbear/whiterose/releases{/id}
-size: 4030
-ssh_url: git@github.com:coddingtonbear/whiterose.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/coddingtonbear/whiterose/stargazers
-statuses_url: https://api.github.com/repos/coddingtonbear/whiterose/statuses/{sha}
-subscribers_url: https://api.github.com/repos/coddingtonbear/whiterose/subscribers
-subscription_url: https://api.github.com/repos/coddingtonbear/whiterose/subscription
-svn_url: https://github.com/coddingtonbear/whiterose
-tags_url: https://api.github.com/repos/coddingtonbear/whiterose/tags
-teams_url: https://api.github.com/repos/coddingtonbear/whiterose/teams
-topics: []
-trees_url: https://api.github.com/repos/coddingtonbear/whiterose/git/trees{/sha}
-updated_at: '2017-11-07T03:52:50Z'
-url: https://api.github.com/repos/coddingtonbear/whiterose
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/coddingtonbear/whiterose/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/coddingtonbear/whiterose/assignees{/user}
+  blobs_url: https://api.github.com/repos/coddingtonbear/whiterose/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/coddingtonbear/whiterose/branches{/branch}
+  clone_url: https://github.com/coddingtonbear/whiterose.git
+  collaborators_url: https://api.github.com/repos/coddingtonbear/whiterose/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/coddingtonbear/whiterose/comments{/number}
+  commits_url: https://api.github.com/repos/coddingtonbear/whiterose/commits{/sha}
+  compare_url: https://api.github.com/repos/coddingtonbear/whiterose/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/coddingtonbear/whiterose/contents/{+path}
+  contributors_url: https://api.github.com/repos/coddingtonbear/whiterose/contributors
+  created_at: '2017-04-10T06:09:29Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/coddingtonbear/whiterose/deployments
+  description: Monitor your RescueTime productivity via a DIY ESP32-based device you
+    can make on your own
+  disabled: false
+  downloads_url: https://api.github.com/repos/coddingtonbear/whiterose/downloads
+  events_url: https://api.github.com/repos/coddingtonbear/whiterose/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/coddingtonbear/whiterose/forks
+  full_name: coddingtonbear/whiterose
+  git_commits_url: https://api.github.com/repos/coddingtonbear/whiterose/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/coddingtonbear/whiterose/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/coddingtonbear/whiterose/git/tags{/sha}
+  git_url: git://github.com/coddingtonbear/whiterose.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/coddingtonbear/whiterose/hooks
+  html_url: https://github.com/coddingtonbear/whiterose
+  id: 87772982
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/coddingtonbear/whiterose/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/coddingtonbear/whiterose/issues/events{/number}
+  issues_url: https://api.github.com/repos/coddingtonbear/whiterose/issues{/number}
+  keys_url: https://api.github.com/repos/coddingtonbear/whiterose/keys{/key_id}
+  labels_url: https://api.github.com/repos/coddingtonbear/whiterose/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/coddingtonbear/whiterose/languages
+  license: null
+  merges_url: https://api.github.com/repos/coddingtonbear/whiterose/merges
+  milestones_url: https://api.github.com/repos/coddingtonbear/whiterose/milestones{/number}
+  mirror_url: null
+  name: whiterose
+  node_id: MDEwOlJlcG9zaXRvcnk4Nzc3Mjk4Mg==
+  notifications_url: https://api.github.com/repos/coddingtonbear/whiterose/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/527661?v=4
+    events_url: https://api.github.com/users/coddingtonbear/events{/privacy}
+    followers_url: https://api.github.com/users/coddingtonbear/followers
+    following_url: https://api.github.com/users/coddingtonbear/following{/other_user}
+    gists_url: https://api.github.com/users/coddingtonbear/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/coddingtonbear
+    id: 527661
+    login: coddingtonbear
+    node_id: MDQ6VXNlcjUyNzY2MQ==
+    organizations_url: https://api.github.com/users/coddingtonbear/orgs
+    received_events_url: https://api.github.com/users/coddingtonbear/received_events
+    repos_url: https://api.github.com/users/coddingtonbear/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/coddingtonbear/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/coddingtonbear/subscriptions
+    type: User
+    url: https://api.github.com/users/coddingtonbear
+  private: false
+  pulls_url: https://api.github.com/repos/coddingtonbear/whiterose/pulls{/number}
+  pushed_at: '2017-11-07T05:09:40Z'
+  releases_url: https://api.github.com/repos/coddingtonbear/whiterose/releases{/id}
+  size: 4030
+  ssh_url: git@github.com:coddingtonbear/whiterose.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/coddingtonbear/whiterose/stargazers
+  statuses_url: https://api.github.com/repos/coddingtonbear/whiterose/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/coddingtonbear/whiterose/subscribers
+  subscription_url: https://api.github.com/repos/coddingtonbear/whiterose/subscription
+  svn_url: https://github.com/coddingtonbear/whiterose
+  tags_url: https://api.github.com/repos/coddingtonbear/whiterose/tags
+  teams_url: https://api.github.com/repos/coddingtonbear/whiterose/teams
+  topics: []
+  trees_url: https://api.github.com/repos/coddingtonbear/whiterose/git/trees{/sha}
+  updated_at: '2017-11-07T03:52:50Z'
+  url: https://api.github.com/repos/coddingtonbear/whiterose
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

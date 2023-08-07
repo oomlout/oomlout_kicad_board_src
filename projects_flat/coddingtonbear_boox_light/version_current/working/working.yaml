@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/coddingtonbear/boox-light/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/coddingtonbear/boox-light/assignees{/user}
-blobs_url: https://api.github.com/repos/coddingtonbear/boox-light/git/blobs{/sha}
-branches_url: https://api.github.com/repos/coddingtonbear/boox-light/branches{/branch}
-clone_url: https://github.com/coddingtonbear/boox-light.git
-collaborators_url: https://api.github.com/repos/coddingtonbear/boox-light/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/coddingtonbear/boox-light/comments{/number}
-commits_url: https://api.github.com/repos/coddingtonbear/boox-light/commits{/sha}
-compare_url: https://api.github.com/repos/coddingtonbear/boox-light/compare/{base}...{head}
-contents_url: https://api.github.com/repos/coddingtonbear/boox-light/contents/{+path}
-contributors_url: https://api.github.com/repos/coddingtonbear/boox-light/contributors
-created_at: '2018-09-28T05:21:55Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/coddingtonbear/boox-light/deployments
-description: Add lighting to your Onyx Boox Max 2
-disabled: false
-downloads_url: https://api.github.com/repos/coddingtonbear/boox-light/downloads
-events_url: https://api.github.com/repos/coddingtonbear/boox-light/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/coddingtonbear/boox-light/forks
-full_name: coddingtonbear/boox-light
-git_commits_url: https://api.github.com/repos/coddingtonbear/boox-light/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/coddingtonbear/boox-light/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/coddingtonbear/boox-light/git/tags{/sha}
-git_url: git://github.com/coddingtonbear/boox-light.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/coddingtonbear/boox-light/hooks
-html_url: https://github.com/coddingtonbear/boox-light
-id: 150689540
-is_template: false
-issue_comment_url: https://api.github.com/repos/coddingtonbear/boox-light/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/coddingtonbear/boox-light/issues/events{/number}
-issues_url: https://api.github.com/repos/coddingtonbear/boox-light/issues{/number}
-keys_url: https://api.github.com/repos/coddingtonbear/boox-light/keys{/key_id}
-labels_url: https://api.github.com/repos/coddingtonbear/boox-light/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/coddingtonbear/boox-light/languages
-license: null
-merges_url: https://api.github.com/repos/coddingtonbear/boox-light/merges
-milestones_url: https://api.github.com/repos/coddingtonbear/boox-light/milestones{/number}
-mirror_url: null
-name: boox-light
-node_id: MDEwOlJlcG9zaXRvcnkxNTA2ODk1NDA=
-notifications_url: https://api.github.com/repos/coddingtonbear/boox-light/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/527661?v=4
-  events_url: https://api.github.com/users/coddingtonbear/events{/privacy}
-  followers_url: https://api.github.com/users/coddingtonbear/followers
-  following_url: https://api.github.com/users/coddingtonbear/following{/other_user}
-  gists_url: https://api.github.com/users/coddingtonbear/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/coddingtonbear
-  id: 527661
-  login: coddingtonbear
-  node_id: MDQ6VXNlcjUyNzY2MQ==
-  organizations_url: https://api.github.com/users/coddingtonbear/orgs
-  received_events_url: https://api.github.com/users/coddingtonbear/received_events
-  repos_url: https://api.github.com/users/coddingtonbear/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/coddingtonbear/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/coddingtonbear/subscriptions
-  type: User
-  url: https://api.github.com/users/coddingtonbear
-private: false
+links:
+  github_owner: coddingtonbear
+  github_repo_name: boox-light
+  github_src: https://github.com/coddingtonbear/boox-light
+  github_src_repo: https://github.com/coddingtonbear/boox-light
+  oomp_bot: projects_coddingtonbear_boox_light
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_coddingtonbear_boox_light
+  oomp_doc: projects/projects_flat_coddingtonbear_boox_light/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_coddingtonbear_boox_light
+  oomp_src_flat: projects_flat/projects_flat_coddingtonbear_boox_light
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_coddingtonbear_boox_light
+  oomp_src_folder: projects_flat\coddingtonbear_boox_light\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\coddingtonbear_boox_light\version_current\working
+oomp_key: oomp_projects_flat_coddingtonbear_boox_light
+oomp_key_simple: projects_flat_coddingtonbear_boox_light
 projects_flat: projects_flat/coddingtonbear_boox_light/version_current/working
 projects_folder: projects_folder/coddingtonbear/boox-light/version_current/working
-pulls_url: https://api.github.com/repos/coddingtonbear/boox-light/pulls{/number}
-pushed_at: '2018-09-30T20:09:06Z'
-releases_url: https://api.github.com/repos/coddingtonbear/boox-light/releases{/id}
-size: 219
-ssh_url: git@github.com:coddingtonbear/boox-light.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/coddingtonbear/boox-light/stargazers
-statuses_url: https://api.github.com/repos/coddingtonbear/boox-light/statuses/{sha}
-subscribers_url: https://api.github.com/repos/coddingtonbear/boox-light/subscribers
-subscription_url: https://api.github.com/repos/coddingtonbear/boox-light/subscription
-svn_url: https://github.com/coddingtonbear/boox-light
-tags_url: https://api.github.com/repos/coddingtonbear/boox-light/tags
-teams_url: https://api.github.com/repos/coddingtonbear/boox-light/teams
-topics: []
-trees_url: https://api.github.com/repos/coddingtonbear/boox-light/git/trees{/sha}
-updated_at: '2018-09-30T20:09:07Z'
-url: https://api.github.com/repos/coddingtonbear/boox-light
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/coddingtonbear/boox-light/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/coddingtonbear/boox-light/assignees{/user}
+  blobs_url: https://api.github.com/repos/coddingtonbear/boox-light/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/coddingtonbear/boox-light/branches{/branch}
+  clone_url: https://github.com/coddingtonbear/boox-light.git
+  collaborators_url: https://api.github.com/repos/coddingtonbear/boox-light/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/coddingtonbear/boox-light/comments{/number}
+  commits_url: https://api.github.com/repos/coddingtonbear/boox-light/commits{/sha}
+  compare_url: https://api.github.com/repos/coddingtonbear/boox-light/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/coddingtonbear/boox-light/contents/{+path}
+  contributors_url: https://api.github.com/repos/coddingtonbear/boox-light/contributors
+  created_at: '2018-09-28T05:21:55Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/coddingtonbear/boox-light/deployments
+  description: Add lighting to your Onyx Boox Max 2
+  disabled: false
+  downloads_url: https://api.github.com/repos/coddingtonbear/boox-light/downloads
+  events_url: https://api.github.com/repos/coddingtonbear/boox-light/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/coddingtonbear/boox-light/forks
+  full_name: coddingtonbear/boox-light
+  git_commits_url: https://api.github.com/repos/coddingtonbear/boox-light/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/coddingtonbear/boox-light/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/coddingtonbear/boox-light/git/tags{/sha}
+  git_url: git://github.com/coddingtonbear/boox-light.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/coddingtonbear/boox-light/hooks
+  html_url: https://github.com/coddingtonbear/boox-light
+  id: 150689540
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/coddingtonbear/boox-light/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/coddingtonbear/boox-light/issues/events{/number}
+  issues_url: https://api.github.com/repos/coddingtonbear/boox-light/issues{/number}
+  keys_url: https://api.github.com/repos/coddingtonbear/boox-light/keys{/key_id}
+  labels_url: https://api.github.com/repos/coddingtonbear/boox-light/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/coddingtonbear/boox-light/languages
+  license: null
+  merges_url: https://api.github.com/repos/coddingtonbear/boox-light/merges
+  milestones_url: https://api.github.com/repos/coddingtonbear/boox-light/milestones{/number}
+  mirror_url: null
+  name: boox-light
+  node_id: MDEwOlJlcG9zaXRvcnkxNTA2ODk1NDA=
+  notifications_url: https://api.github.com/repos/coddingtonbear/boox-light/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/527661?v=4
+    events_url: https://api.github.com/users/coddingtonbear/events{/privacy}
+    followers_url: https://api.github.com/users/coddingtonbear/followers
+    following_url: https://api.github.com/users/coddingtonbear/following{/other_user}
+    gists_url: https://api.github.com/users/coddingtonbear/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/coddingtonbear
+    id: 527661
+    login: coddingtonbear
+    node_id: MDQ6VXNlcjUyNzY2MQ==
+    organizations_url: https://api.github.com/users/coddingtonbear/orgs
+    received_events_url: https://api.github.com/users/coddingtonbear/received_events
+    repos_url: https://api.github.com/users/coddingtonbear/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/coddingtonbear/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/coddingtonbear/subscriptions
+    type: User
+    url: https://api.github.com/users/coddingtonbear
+  private: false
+  pulls_url: https://api.github.com/repos/coddingtonbear/boox-light/pulls{/number}
+  pushed_at: '2018-09-30T20:09:06Z'
+  releases_url: https://api.github.com/repos/coddingtonbear/boox-light/releases{/id}
+  size: 219
+  ssh_url: git@github.com:coddingtonbear/boox-light.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/coddingtonbear/boox-light/stargazers
+  statuses_url: https://api.github.com/repos/coddingtonbear/boox-light/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/coddingtonbear/boox-light/subscribers
+  subscription_url: https://api.github.com/repos/coddingtonbear/boox-light/subscription
+  svn_url: https://github.com/coddingtonbear/boox-light
+  tags_url: https://api.github.com/repos/coddingtonbear/boox-light/tags
+  teams_url: https://api.github.com/repos/coddingtonbear/boox-light/teams
+  topics: []
+  trees_url: https://api.github.com/repos/coddingtonbear/boox-light/git/trees{/sha}
+  updated_at: '2018-09-30T20:09:07Z'
+  url: https://api.github.com/repos/coddingtonbear/boox-light
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

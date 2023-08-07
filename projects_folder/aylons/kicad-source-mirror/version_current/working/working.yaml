@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/aylons/kicad-source-mirror/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/aylons/kicad-source-mirror/assignees{/user}
-blobs_url: https://api.github.com/repos/aylons/kicad-source-mirror/git/blobs{/sha}
-branches_url: https://api.github.com/repos/aylons/kicad-source-mirror/branches{/branch}
-clone_url: https://github.com/aylons/kicad-source-mirror.git
-collaborators_url: https://api.github.com/repos/aylons/kicad-source-mirror/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/aylons/kicad-source-mirror/comments{/number}
-commits_url: https://api.github.com/repos/aylons/kicad-source-mirror/commits{/sha}
-compare_url: https://api.github.com/repos/aylons/kicad-source-mirror/compare/{base}...{head}
-contents_url: https://api.github.com/repos/aylons/kicad-source-mirror/contents/{+path}
-contributors_url: https://api.github.com/repos/aylons/kicad-source-mirror/contributors
-created_at: '2016-11-14T02:01:55Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/aylons/kicad-source-mirror/deployments
-description: A mirror of the KiCad development branch, which is hosted at launchpad
-  (updated every time something is pushed). Pull requests on github are not accepted
-  or watched.
-disabled: false
-downloads_url: https://api.github.com/repos/aylons/kicad-source-mirror/downloads
-events_url: https://api.github.com/repos/aylons/kicad-source-mirror/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/aylons/kicad-source-mirror/forks
-full_name: aylons/kicad-source-mirror
-git_commits_url: https://api.github.com/repos/aylons/kicad-source-mirror/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/aylons/kicad-source-mirror/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/aylons/kicad-source-mirror/git/tags{/sha}
-git_url: git://github.com/aylons/kicad-source-mirror.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://code.launchpad.net/kicad
-hooks_url: https://api.github.com/repos/aylons/kicad-source-mirror/hooks
-html_url: https://github.com/aylons/kicad-source-mirror
-id: 73657502
-is_template: false
-issue_comment_url: https://api.github.com/repos/aylons/kicad-source-mirror/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/aylons/kicad-source-mirror/issues/events{/number}
-issues_url: https://api.github.com/repos/aylons/kicad-source-mirror/issues{/number}
-keys_url: https://api.github.com/repos/aylons/kicad-source-mirror/keys{/key_id}
-labels_url: https://api.github.com/repos/aylons/kicad-source-mirror/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/aylons/kicad-source-mirror/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/aylons/kicad-source-mirror/merges
-milestones_url: https://api.github.com/repos/aylons/kicad-source-mirror/milestones{/number}
-mirror_url: null
-name: kicad-source-mirror
-node_id: MDEwOlJlcG9zaXRvcnk3MzY1NzUwMg==
-notifications_url: https://api.github.com/repos/aylons/kicad-source-mirror/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/720443?v=4
-  events_url: https://api.github.com/users/aylons/events{/privacy}
-  followers_url: https://api.github.com/users/aylons/followers
-  following_url: https://api.github.com/users/aylons/following{/other_user}
-  gists_url: https://api.github.com/users/aylons/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/aylons
-  id: 720443
-  login: aylons
-  node_id: MDQ6VXNlcjcyMDQ0Mw==
-  organizations_url: https://api.github.com/users/aylons/orgs
-  received_events_url: https://api.github.com/users/aylons/received_events
-  repos_url: https://api.github.com/users/aylons/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/aylons/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/aylons/subscriptions
-  type: User
-  url: https://api.github.com/users/aylons
-private: false
+links:
+  github_owner: aylons
+  github_repo_name: kicad-source-mirror
+  github_src: https://github.com/aylons/kicad-source-mirror
+  github_src_repo: https://github.com/aylons/kicad-source-mirror
+  oomp_bot: aylons_kicad_source_mirror
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/aylons_kicad_source_mirror
+  oomp_doc: projects/aylons_kicad_source_mirror/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/aylons_kicad_source_mirror
+  oomp_src_flat: projects_flat/aylons_kicad_source_mirror
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/aylons_kicad_source_mirror
+  oomp_src_folder: projects_folder\aylons\kicad-source-mirror\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\aylons\kicad-source-mirror\version_current\working
+oomp_key: oomp_aylons_kicad_source_mirror
+oomp_key_simple: aylons_kicad_source_mirror
 projects_flat: projects_flat/aylons_kicad_source_mirror/version_current/working
 projects_folder: projects_folder/aylons/kicad-source-mirror/version_current/working
-pulls_url: https://api.github.com/repos/aylons/kicad-source-mirror/pulls{/number}
-pushed_at: '2017-02-12T22:09:09Z'
-releases_url: https://api.github.com/repos/aylons/kicad-source-mirror/releases{/id}
-size: 315056
-ssh_url: git@github.com:aylons/kicad-source-mirror.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/aylons/kicad-source-mirror/stargazers
-statuses_url: https://api.github.com/repos/aylons/kicad-source-mirror/statuses/{sha}
-subscribers_url: https://api.github.com/repos/aylons/kicad-source-mirror/subscribers
-subscription_url: https://api.github.com/repos/aylons/kicad-source-mirror/subscription
-svn_url: https://github.com/aylons/kicad-source-mirror
-tags_url: https://api.github.com/repos/aylons/kicad-source-mirror/tags
-teams_url: https://api.github.com/repos/aylons/kicad-source-mirror/teams
-topics: []
-trees_url: https://api.github.com/repos/aylons/kicad-source-mirror/git/trees{/sha}
-updated_at: '2021-05-13T19:29:17Z'
-url: https://api.github.com/repos/aylons/kicad-source-mirror
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/aylons/kicad-source-mirror/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/aylons/kicad-source-mirror/assignees{/user}
+  blobs_url: https://api.github.com/repos/aylons/kicad-source-mirror/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/aylons/kicad-source-mirror/branches{/branch}
+  clone_url: https://github.com/aylons/kicad-source-mirror.git
+  collaborators_url: https://api.github.com/repos/aylons/kicad-source-mirror/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/aylons/kicad-source-mirror/comments{/number}
+  commits_url: https://api.github.com/repos/aylons/kicad-source-mirror/commits{/sha}
+  compare_url: https://api.github.com/repos/aylons/kicad-source-mirror/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/aylons/kicad-source-mirror/contents/{+path}
+  contributors_url: https://api.github.com/repos/aylons/kicad-source-mirror/contributors
+  created_at: '2016-11-14T02:01:55Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/aylons/kicad-source-mirror/deployments
+  description: A mirror of the KiCad development branch, which is hosted at launchpad
+    (updated every time something is pushed). Pull requests on github are not accepted
+    or watched.
+  disabled: false
+  downloads_url: https://api.github.com/repos/aylons/kicad-source-mirror/downloads
+  events_url: https://api.github.com/repos/aylons/kicad-source-mirror/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/aylons/kicad-source-mirror/forks
+  full_name: aylons/kicad-source-mirror
+  git_commits_url: https://api.github.com/repos/aylons/kicad-source-mirror/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/aylons/kicad-source-mirror/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/aylons/kicad-source-mirror/git/tags{/sha}
+  git_url: git://github.com/aylons/kicad-source-mirror.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://code.launchpad.net/kicad
+  hooks_url: https://api.github.com/repos/aylons/kicad-source-mirror/hooks
+  html_url: https://github.com/aylons/kicad-source-mirror
+  id: 73657502
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/aylons/kicad-source-mirror/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/aylons/kicad-source-mirror/issues/events{/number}
+  issues_url: https://api.github.com/repos/aylons/kicad-source-mirror/issues{/number}
+  keys_url: https://api.github.com/repos/aylons/kicad-source-mirror/keys{/key_id}
+  labels_url: https://api.github.com/repos/aylons/kicad-source-mirror/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/aylons/kicad-source-mirror/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/aylons/kicad-source-mirror/merges
+  milestones_url: https://api.github.com/repos/aylons/kicad-source-mirror/milestones{/number}
+  mirror_url: null
+  name: kicad-source-mirror
+  node_id: MDEwOlJlcG9zaXRvcnk3MzY1NzUwMg==
+  notifications_url: https://api.github.com/repos/aylons/kicad-source-mirror/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/720443?v=4
+    events_url: https://api.github.com/users/aylons/events{/privacy}
+    followers_url: https://api.github.com/users/aylons/followers
+    following_url: https://api.github.com/users/aylons/following{/other_user}
+    gists_url: https://api.github.com/users/aylons/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/aylons
+    id: 720443
+    login: aylons
+    node_id: MDQ6VXNlcjcyMDQ0Mw==
+    organizations_url: https://api.github.com/users/aylons/orgs
+    received_events_url: https://api.github.com/users/aylons/received_events
+    repos_url: https://api.github.com/users/aylons/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/aylons/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/aylons/subscriptions
+    type: User
+    url: https://api.github.com/users/aylons
+  private: false
+  pulls_url: https://api.github.com/repos/aylons/kicad-source-mirror/pulls{/number}
+  pushed_at: '2017-02-12T22:09:09Z'
+  releases_url: https://api.github.com/repos/aylons/kicad-source-mirror/releases{/id}
+  size: 315056
+  ssh_url: git@github.com:aylons/kicad-source-mirror.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/aylons/kicad-source-mirror/stargazers
+  statuses_url: https://api.github.com/repos/aylons/kicad-source-mirror/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/aylons/kicad-source-mirror/subscribers
+  subscription_url: https://api.github.com/repos/aylons/kicad-source-mirror/subscription
+  svn_url: https://github.com/aylons/kicad-source-mirror
+  tags_url: https://api.github.com/repos/aylons/kicad-source-mirror/tags
+  teams_url: https://api.github.com/repos/aylons/kicad-source-mirror/teams
+  topics: []
+  trees_url: https://api.github.com/repos/aylons/kicad-source-mirror/git/trees{/sha}
+  updated_at: '2021-05-13T19:29:17Z'
+  url: https://api.github.com/repos/aylons/kicad-source-mirror
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

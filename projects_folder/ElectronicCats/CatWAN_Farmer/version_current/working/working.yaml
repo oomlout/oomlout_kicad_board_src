@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/branches{/branch}
-clone_url: https://github.com/ElectronicCats/CatWAN_Farmer.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/contributors
-created_at: '2018-09-24T21:56:10Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/deployments
-description: CatWAN Farmer, a grower's water saving open source project with LoRa
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/downloads
-events_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/forks
-full_name: ElectronicCats/CatWAN_Farmer
-git_commits_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/CatWAN_Farmer.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/hooks
-html_url: https://github.com/ElectronicCats/CatWAN_Farmer
-id: 150173448
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/languages
-license: null
-merges_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/milestones{/number}
-mirror_url: null
-name: CatWAN_Farmer
-node_id: MDEwOlJlcG9zaXRvcnkxNTAxNzM0NDg=
-notifications_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: CatWAN_Farmer
+  github_src: https://github.com/ElectronicCats/CatWAN_Farmer
+  github_src_repo: https://github.com/ElectronicCats/CatWAN_Farmer
+  oomp_bot: electroniccats_catwan_farmer
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electroniccats_catwan_farmer
+  oomp_doc: projects/electroniccats_catwan_farmer/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electroniccats_catwan_farmer
+  oomp_src_flat: projects_flat/electroniccats_catwan_farmer
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electroniccats_catwan_farmer
+  oomp_src_folder: projects_folder\ElectronicCats\CatWAN_Farmer\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ElectronicCats\CatWAN_Farmer\version_current\working
+oomp_key: oomp_electroniccats_catwan_farmer
+oomp_key_simple: electroniccats_catwan_farmer
 projects_flat: projects_flat/electroniccats_catwan_farmer/version_current/working
 projects_folder: projects_folder/ElectronicCats/CatWAN_Farmer/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/pulls{/number}
-pushed_at: '2020-08-19T20:04:33Z'
-releases_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/releases{/id}
-size: 3680
-ssh_url: git@github.com:ElectronicCats/CatWAN_Farmer.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/subscription
-svn_url: https://github.com/ElectronicCats/CatWAN_Farmer
-tags_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/tags
-teams_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/teams
-topics:
-- arduino
-- lora
-- lorawan
-- monitoring-soil
-- samd21
-- water
-- watermark
-trees_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/git/trees{/sha}
-updated_at: '2022-10-19T11:05:14Z'
-url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/CatWAN_Farmer.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/contributors
+  created_at: '2018-09-24T21:56:10Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/deployments
+  description: CatWAN Farmer, a grower's water saving open source project with LoRa
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/forks
+  full_name: ElectronicCats/CatWAN_Farmer
+  git_commits_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/CatWAN_Farmer.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/hooks
+  html_url: https://github.com/ElectronicCats/CatWAN_Farmer
+  id: 150173448
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/languages
+  license: null
+  merges_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/milestones{/number}
+  mirror_url: null
+  name: CatWAN_Farmer
+  node_id: MDEwOlJlcG9zaXRvcnkxNTAxNzM0NDg=
+  notifications_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/pulls{/number}
+  pushed_at: '2020-08-19T20:04:33Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/releases{/id}
+  size: 3680
+  ssh_url: git@github.com:ElectronicCats/CatWAN_Farmer.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/subscription
+  svn_url: https://github.com/ElectronicCats/CatWAN_Farmer
+  tags_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/teams
+  topics:
+  - arduino
+  - lora
+  - lorawan
+  - monitoring-soil
+  - samd21
+  - water
+  - watermark
+  trees_url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer/git/trees{/sha}
+  updated_at: '2022-10-19T11:05:14Z'
+  url: https://api.github.com/repos/ElectronicCats/CatWAN_Farmer
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: true

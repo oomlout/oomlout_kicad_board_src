@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Junes-PhD/certification-mark/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Junes-PhD/certification-mark/assignees{/user}
-blobs_url: https://api.github.com/repos/Junes-PhD/certification-mark/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Junes-PhD/certification-mark/branches{/branch}
-clone_url: https://github.com/Junes-PhD/certification-mark.git
-collaborators_url: https://api.github.com/repos/Junes-PhD/certification-mark/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Junes-PhD/certification-mark/comments{/number}
-commits_url: https://api.github.com/repos/Junes-PhD/certification-mark/commits{/sha}
-compare_url: https://api.github.com/repos/Junes-PhD/certification-mark/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Junes-PhD/certification-mark/contents/{+path}
-contributors_url: https://api.github.com/repos/Junes-PhD/certification-mark/contributors
-created_at: '2016-10-26T19:43:19Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Junes-PhD/certification-mark/deployments
-description: A graphic mark, or logo, for OSHWA's Open Hardware Certification program,
-  with a style guide and different design file formats for easy use
-disabled: false
-downloads_url: https://api.github.com/repos/Junes-PhD/certification-mark/downloads
-events_url: https://api.github.com/repos/Junes-PhD/certification-mark/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Junes-PhD/certification-mark/forks
-full_name: Junes-PhD/certification-mark
-git_commits_url: https://api.github.com/repos/Junes-PhD/certification-mark/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Junes-PhD/certification-mark/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Junes-PhD/certification-mark/git/tags{/sha}
-git_url: git://github.com/Junes-PhD/certification-mark.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Junes-PhD/certification-mark/hooks
-html_url: https://github.com/Junes-PhD/certification-mark
-id: 72038431
-is_template: false
-issue_comment_url: https://api.github.com/repos/Junes-PhD/certification-mark/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Junes-PhD/certification-mark/issues/events{/number}
-issues_url: https://api.github.com/repos/Junes-PhD/certification-mark/issues{/number}
-keys_url: https://api.github.com/repos/Junes-PhD/certification-mark/keys{/key_id}
-labels_url: https://api.github.com/repos/Junes-PhD/certification-mark/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/Junes-PhD/certification-mark/languages
-license: null
-merges_url: https://api.github.com/repos/Junes-PhD/certification-mark/merges
-milestones_url: https://api.github.com/repos/Junes-PhD/certification-mark/milestones{/number}
-mirror_url: null
-name: certification-mark
-node_id: MDEwOlJlcG9zaXRvcnk3MjAzODQzMQ==
-notifications_url: https://api.github.com/repos/Junes-PhD/certification-mark/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/7798238?v=4
-  events_url: https://api.github.com/users/Junes-PhD/events{/privacy}
-  followers_url: https://api.github.com/users/Junes-PhD/followers
-  following_url: https://api.github.com/users/Junes-PhD/following{/other_user}
-  gists_url: https://api.github.com/users/Junes-PhD/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Junes-PhD
-  id: 7798238
-  login: Junes-PhD
-  node_id: MDQ6VXNlcjc3OTgyMzg=
-  organizations_url: https://api.github.com/users/Junes-PhD/orgs
-  received_events_url: https://api.github.com/users/Junes-PhD/received_events
-  repos_url: https://api.github.com/users/Junes-PhD/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Junes-PhD/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Junes-PhD/subscriptions
-  type: User
-  url: https://api.github.com/users/Junes-PhD
-private: false
+links:
+  github_owner: Junes-PhD
+  github_repo_name: certification-mark
+  github_src: https://github.com/Junes-PhD/certification-mark
+  github_src_repo: https://github.com/Junes-PhD/certification-mark
+  oomp_bot: junes_phd_certification_mark
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/junes_phd_certification_mark
+  oomp_doc: projects/junes_phd_certification_mark/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/junes_phd_certification_mark
+  oomp_src_flat: projects_flat/junes_phd_certification_mark
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/junes_phd_certification_mark
+  oomp_src_folder: projects_folder\Junes-PhD\certification-mark\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Junes-PhD\certification-mark\version_current\working
+oomp_key: oomp_junes_phd_certification_mark
+oomp_key_simple: junes_phd_certification_mark
 projects_flat: projects_flat/junes_phd_certification_mark/version_current/working
 projects_folder: projects_folder/Junes-PhD/certification-mark/version_current/working
-pulls_url: https://api.github.com/repos/Junes-PhD/certification-mark/pulls{/number}
-pushed_at: '2017-01-09T18:31:43Z'
-releases_url: https://api.github.com/repos/Junes-PhD/certification-mark/releases{/id}
-size: 3940
-ssh_url: git@github.com:Junes-PhD/certification-mark.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Junes-PhD/certification-mark/stargazers
-statuses_url: https://api.github.com/repos/Junes-PhD/certification-mark/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Junes-PhD/certification-mark/subscribers
-subscription_url: https://api.github.com/repos/Junes-PhD/certification-mark/subscription
-svn_url: https://github.com/Junes-PhD/certification-mark
-tags_url: https://api.github.com/repos/Junes-PhD/certification-mark/tags
-teams_url: https://api.github.com/repos/Junes-PhD/certification-mark/teams
-topics: []
-trees_url: https://api.github.com/repos/Junes-PhD/certification-mark/git/trees{/sha}
-updated_at: '2016-10-26T19:43:21Z'
-url: https://api.github.com/repos/Junes-PhD/certification-mark
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Junes-PhD/certification-mark/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Junes-PhD/certification-mark/assignees{/user}
+  blobs_url: https://api.github.com/repos/Junes-PhD/certification-mark/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Junes-PhD/certification-mark/branches{/branch}
+  clone_url: https://github.com/Junes-PhD/certification-mark.git
+  collaborators_url: https://api.github.com/repos/Junes-PhD/certification-mark/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Junes-PhD/certification-mark/comments{/number}
+  commits_url: https://api.github.com/repos/Junes-PhD/certification-mark/commits{/sha}
+  compare_url: https://api.github.com/repos/Junes-PhD/certification-mark/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Junes-PhD/certification-mark/contents/{+path}
+  contributors_url: https://api.github.com/repos/Junes-PhD/certification-mark/contributors
+  created_at: '2016-10-26T19:43:19Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Junes-PhD/certification-mark/deployments
+  description: A graphic mark, or logo, for OSHWA's Open Hardware Certification program,
+    with a style guide and different design file formats for easy use
+  disabled: false
+  downloads_url: https://api.github.com/repos/Junes-PhD/certification-mark/downloads
+  events_url: https://api.github.com/repos/Junes-PhD/certification-mark/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Junes-PhD/certification-mark/forks
+  full_name: Junes-PhD/certification-mark
+  git_commits_url: https://api.github.com/repos/Junes-PhD/certification-mark/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Junes-PhD/certification-mark/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Junes-PhD/certification-mark/git/tags{/sha}
+  git_url: git://github.com/Junes-PhD/certification-mark.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Junes-PhD/certification-mark/hooks
+  html_url: https://github.com/Junes-PhD/certification-mark
+  id: 72038431
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Junes-PhD/certification-mark/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Junes-PhD/certification-mark/issues/events{/number}
+  issues_url: https://api.github.com/repos/Junes-PhD/certification-mark/issues{/number}
+  keys_url: https://api.github.com/repos/Junes-PhD/certification-mark/keys{/key_id}
+  labels_url: https://api.github.com/repos/Junes-PhD/certification-mark/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/Junes-PhD/certification-mark/languages
+  license: null
+  merges_url: https://api.github.com/repos/Junes-PhD/certification-mark/merges
+  milestones_url: https://api.github.com/repos/Junes-PhD/certification-mark/milestones{/number}
+  mirror_url: null
+  name: certification-mark
+  node_id: MDEwOlJlcG9zaXRvcnk3MjAzODQzMQ==
+  notifications_url: https://api.github.com/repos/Junes-PhD/certification-mark/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/7798238?v=4
+    events_url: https://api.github.com/users/Junes-PhD/events{/privacy}
+    followers_url: https://api.github.com/users/Junes-PhD/followers
+    following_url: https://api.github.com/users/Junes-PhD/following{/other_user}
+    gists_url: https://api.github.com/users/Junes-PhD/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Junes-PhD
+    id: 7798238
+    login: Junes-PhD
+    node_id: MDQ6VXNlcjc3OTgyMzg=
+    organizations_url: https://api.github.com/users/Junes-PhD/orgs
+    received_events_url: https://api.github.com/users/Junes-PhD/received_events
+    repos_url: https://api.github.com/users/Junes-PhD/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Junes-PhD/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Junes-PhD/subscriptions
+    type: User
+    url: https://api.github.com/users/Junes-PhD
+  private: false
+  pulls_url: https://api.github.com/repos/Junes-PhD/certification-mark/pulls{/number}
+  pushed_at: '2017-01-09T18:31:43Z'
+  releases_url: https://api.github.com/repos/Junes-PhD/certification-mark/releases{/id}
+  size: 3940
+  ssh_url: git@github.com:Junes-PhD/certification-mark.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Junes-PhD/certification-mark/stargazers
+  statuses_url: https://api.github.com/repos/Junes-PhD/certification-mark/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Junes-PhD/certification-mark/subscribers
+  subscription_url: https://api.github.com/repos/Junes-PhD/certification-mark/subscription
+  svn_url: https://github.com/Junes-PhD/certification-mark
+  tags_url: https://api.github.com/repos/Junes-PhD/certification-mark/tags
+  teams_url: https://api.github.com/repos/Junes-PhD/certification-mark/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Junes-PhD/certification-mark/git/trees{/sha}
+  updated_at: '2016-10-26T19:43:21Z'
+  url: https://api.github.com/repos/Junes-PhD/certification-mark
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

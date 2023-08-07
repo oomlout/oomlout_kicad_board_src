@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/coddingtonbear/suzibot/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/coddingtonbear/suzibot/assignees{/user}
-blobs_url: https://api.github.com/repos/coddingtonbear/suzibot/git/blobs{/sha}
-branches_url: https://api.github.com/repos/coddingtonbear/suzibot/branches{/branch}
-clone_url: https://github.com/coddingtonbear/suzibot.git
-collaborators_url: https://api.github.com/repos/coddingtonbear/suzibot/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/coddingtonbear/suzibot/comments{/number}
-commits_url: https://api.github.com/repos/coddingtonbear/suzibot/commits{/sha}
-compare_url: https://api.github.com/repos/coddingtonbear/suzibot/compare/{base}...{head}
-contents_url: https://api.github.com/repos/coddingtonbear/suzibot/contents/{+path}
-contributors_url: https://api.github.com/repos/coddingtonbear/suzibot/contributors
-created_at: '2016-09-26T02:12:38Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/coddingtonbear/suzibot/deployments
-description: The computer in the machine.
-disabled: false
-downloads_url: https://api.github.com/repos/coddingtonbear/suzibot/downloads
-events_url: https://api.github.com/repos/coddingtonbear/suzibot/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/coddingtonbear/suzibot/forks
-full_name: coddingtonbear/suzibot
-git_commits_url: https://api.github.com/repos/coddingtonbear/suzibot/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/coddingtonbear/suzibot/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/coddingtonbear/suzibot/git/tags{/sha}
-git_url: git://github.com/coddingtonbear/suzibot.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/coddingtonbear/suzibot/hooks
-html_url: https://github.com/coddingtonbear/suzibot
-id: 69204558
-is_template: false
-issue_comment_url: https://api.github.com/repos/coddingtonbear/suzibot/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/coddingtonbear/suzibot/issues/events{/number}
-issues_url: https://api.github.com/repos/coddingtonbear/suzibot/issues{/number}
-keys_url: https://api.github.com/repos/coddingtonbear/suzibot/keys{/key_id}
-labels_url: https://api.github.com/repos/coddingtonbear/suzibot/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/coddingtonbear/suzibot/languages
-license: null
-merges_url: https://api.github.com/repos/coddingtonbear/suzibot/merges
-milestones_url: https://api.github.com/repos/coddingtonbear/suzibot/milestones{/number}
-mirror_url: null
-name: suzibot
-node_id: MDEwOlJlcG9zaXRvcnk2OTIwNDU1OA==
-notifications_url: https://api.github.com/repos/coddingtonbear/suzibot/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/527661?v=4
-  events_url: https://api.github.com/users/coddingtonbear/events{/privacy}
-  followers_url: https://api.github.com/users/coddingtonbear/followers
-  following_url: https://api.github.com/users/coddingtonbear/following{/other_user}
-  gists_url: https://api.github.com/users/coddingtonbear/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/coddingtonbear
-  id: 527661
-  login: coddingtonbear
-  node_id: MDQ6VXNlcjUyNzY2MQ==
-  organizations_url: https://api.github.com/users/coddingtonbear/orgs
-  received_events_url: https://api.github.com/users/coddingtonbear/received_events
-  repos_url: https://api.github.com/users/coddingtonbear/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/coddingtonbear/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/coddingtonbear/subscriptions
-  type: User
-  url: https://api.github.com/users/coddingtonbear
-private: false
+links:
+  github_owner: coddingtonbear
+  github_repo_name: suzibot
+  github_src: https://github.com/coddingtonbear/suzibot
+  github_src_repo: https://github.com/coddingtonbear/suzibot
+  oomp_bot: projects_coddingtonbear_suzibot
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_coddingtonbear_suzibot
+  oomp_doc: projects/projects_flat_coddingtonbear_suzibot/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_coddingtonbear_suzibot
+  oomp_src_flat: projects_flat/projects_flat_coddingtonbear_suzibot
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_coddingtonbear_suzibot
+  oomp_src_folder: projects_flat\coddingtonbear_suzibot\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\coddingtonbear_suzibot\version_current\working
+oomp_key: oomp_projects_flat_coddingtonbear_suzibot
+oomp_key_simple: projects_flat_coddingtonbear_suzibot
 projects_flat: projects_flat/coddingtonbear_suzibot/version_current/working
 projects_folder: projects_folder/coddingtonbear/suzibot/version_current/working
-pulls_url: https://api.github.com/repos/coddingtonbear/suzibot/pulls{/number}
-pushed_at: '2016-12-24T21:43:34Z'
-releases_url: https://api.github.com/repos/coddingtonbear/suzibot/releases{/id}
-size: 1773
-ssh_url: git@github.com:coddingtonbear/suzibot.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/coddingtonbear/suzibot/stargazers
-statuses_url: https://api.github.com/repos/coddingtonbear/suzibot/statuses/{sha}
-subscribers_url: https://api.github.com/repos/coddingtonbear/suzibot/subscribers
-subscription_url: https://api.github.com/repos/coddingtonbear/suzibot/subscription
-svn_url: https://github.com/coddingtonbear/suzibot
-tags_url: https://api.github.com/repos/coddingtonbear/suzibot/tags
-teams_url: https://api.github.com/repos/coddingtonbear/suzibot/teams
-topics: []
-trees_url: https://api.github.com/repos/coddingtonbear/suzibot/git/trees{/sha}
-updated_at: '2016-09-26T02:15:41Z'
-url: https://api.github.com/repos/coddingtonbear/suzibot
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/coddingtonbear/suzibot/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/coddingtonbear/suzibot/assignees{/user}
+  blobs_url: https://api.github.com/repos/coddingtonbear/suzibot/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/coddingtonbear/suzibot/branches{/branch}
+  clone_url: https://github.com/coddingtonbear/suzibot.git
+  collaborators_url: https://api.github.com/repos/coddingtonbear/suzibot/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/coddingtonbear/suzibot/comments{/number}
+  commits_url: https://api.github.com/repos/coddingtonbear/suzibot/commits{/sha}
+  compare_url: https://api.github.com/repos/coddingtonbear/suzibot/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/coddingtonbear/suzibot/contents/{+path}
+  contributors_url: https://api.github.com/repos/coddingtonbear/suzibot/contributors
+  created_at: '2016-09-26T02:12:38Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/coddingtonbear/suzibot/deployments
+  description: The computer in the machine.
+  disabled: false
+  downloads_url: https://api.github.com/repos/coddingtonbear/suzibot/downloads
+  events_url: https://api.github.com/repos/coddingtonbear/suzibot/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/coddingtonbear/suzibot/forks
+  full_name: coddingtonbear/suzibot
+  git_commits_url: https://api.github.com/repos/coddingtonbear/suzibot/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/coddingtonbear/suzibot/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/coddingtonbear/suzibot/git/tags{/sha}
+  git_url: git://github.com/coddingtonbear/suzibot.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/coddingtonbear/suzibot/hooks
+  html_url: https://github.com/coddingtonbear/suzibot
+  id: 69204558
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/coddingtonbear/suzibot/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/coddingtonbear/suzibot/issues/events{/number}
+  issues_url: https://api.github.com/repos/coddingtonbear/suzibot/issues{/number}
+  keys_url: https://api.github.com/repos/coddingtonbear/suzibot/keys{/key_id}
+  labels_url: https://api.github.com/repos/coddingtonbear/suzibot/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/coddingtonbear/suzibot/languages
+  license: null
+  merges_url: https://api.github.com/repos/coddingtonbear/suzibot/merges
+  milestones_url: https://api.github.com/repos/coddingtonbear/suzibot/milestones{/number}
+  mirror_url: null
+  name: suzibot
+  node_id: MDEwOlJlcG9zaXRvcnk2OTIwNDU1OA==
+  notifications_url: https://api.github.com/repos/coddingtonbear/suzibot/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/527661?v=4
+    events_url: https://api.github.com/users/coddingtonbear/events{/privacy}
+    followers_url: https://api.github.com/users/coddingtonbear/followers
+    following_url: https://api.github.com/users/coddingtonbear/following{/other_user}
+    gists_url: https://api.github.com/users/coddingtonbear/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/coddingtonbear
+    id: 527661
+    login: coddingtonbear
+    node_id: MDQ6VXNlcjUyNzY2MQ==
+    organizations_url: https://api.github.com/users/coddingtonbear/orgs
+    received_events_url: https://api.github.com/users/coddingtonbear/received_events
+    repos_url: https://api.github.com/users/coddingtonbear/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/coddingtonbear/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/coddingtonbear/subscriptions
+    type: User
+    url: https://api.github.com/users/coddingtonbear
+  private: false
+  pulls_url: https://api.github.com/repos/coddingtonbear/suzibot/pulls{/number}
+  pushed_at: '2016-12-24T21:43:34Z'
+  releases_url: https://api.github.com/repos/coddingtonbear/suzibot/releases{/id}
+  size: 1773
+  ssh_url: git@github.com:coddingtonbear/suzibot.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/coddingtonbear/suzibot/stargazers
+  statuses_url: https://api.github.com/repos/coddingtonbear/suzibot/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/coddingtonbear/suzibot/subscribers
+  subscription_url: https://api.github.com/repos/coddingtonbear/suzibot/subscription
+  svn_url: https://github.com/coddingtonbear/suzibot
+  tags_url: https://api.github.com/repos/coddingtonbear/suzibot/tags
+  teams_url: https://api.github.com/repos/coddingtonbear/suzibot/teams
+  topics: []
+  trees_url: https://api.github.com/repos/coddingtonbear/suzibot/git/trees{/sha}
+  updated_at: '2016-09-26T02:15:41Z'
+  url: https://api.github.com/repos/coddingtonbear/suzibot
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

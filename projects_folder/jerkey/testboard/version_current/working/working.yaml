@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/jerkey/testboard/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/jerkey/testboard/assignees{/user}
-blobs_url: https://api.github.com/repos/jerkey/testboard/git/blobs{/sha}
-branches_url: https://api.github.com/repos/jerkey/testboard/branches{/branch}
-clone_url: https://github.com/jerkey/testboard.git
-collaborators_url: https://api.github.com/repos/jerkey/testboard/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/jerkey/testboard/comments{/number}
-commits_url: https://api.github.com/repos/jerkey/testboard/commits{/sha}
-compare_url: https://api.github.com/repos/jerkey/testboard/compare/{base}...{head}
-contents_url: https://api.github.com/repos/jerkey/testboard/contents/{+path}
-contributors_url: https://api.github.com/repos/jerkey/testboard/contributors
-created_at: '2014-07-26T21:29:32Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/jerkey/testboard/deployments
-description: 'a kicad test board for rpt2pnp and any other '
-disabled: false
-downloads_url: https://api.github.com/repos/jerkey/testboard/downloads
-events_url: https://api.github.com/repos/jerkey/testboard/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/jerkey/testboard/forks
-full_name: jerkey/testboard
-git_commits_url: https://api.github.com/repos/jerkey/testboard/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/jerkey/testboard/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/jerkey/testboard/git/tags{/sha}
-git_url: git://github.com/jerkey/testboard.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/jerkey/testboard/hooks
-html_url: https://github.com/jerkey/testboard
-id: 22296833
-is_template: false
-issue_comment_url: https://api.github.com/repos/jerkey/testboard/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/jerkey/testboard/issues/events{/number}
-issues_url: https://api.github.com/repos/jerkey/testboard/issues{/number}
-keys_url: https://api.github.com/repos/jerkey/testboard/keys{/key_id}
-labels_url: https://api.github.com/repos/jerkey/testboard/labels{/name}
-language: IDL
-languages_url: https://api.github.com/repos/jerkey/testboard/languages
-license: null
-merges_url: https://api.github.com/repos/jerkey/testboard/merges
-milestones_url: https://api.github.com/repos/jerkey/testboard/milestones{/number}
-mirror_url: null
-name: testboard
-node_id: MDEwOlJlcG9zaXRvcnkyMjI5NjgzMw==
-notifications_url: https://api.github.com/repos/jerkey/testboard/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1930655?v=4
-  events_url: https://api.github.com/users/jerkey/events{/privacy}
-  followers_url: https://api.github.com/users/jerkey/followers
-  following_url: https://api.github.com/users/jerkey/following{/other_user}
-  gists_url: https://api.github.com/users/jerkey/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/jerkey
-  id: 1930655
-  login: jerkey
-  node_id: MDQ6VXNlcjE5MzA2NTU=
-  organizations_url: https://api.github.com/users/jerkey/orgs
-  received_events_url: https://api.github.com/users/jerkey/received_events
-  repos_url: https://api.github.com/users/jerkey/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/jerkey/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/jerkey/subscriptions
-  type: User
-  url: https://api.github.com/users/jerkey
-private: false
+links:
+  github_owner: jerkey
+  github_repo_name: testboard
+  github_src: https://github.com/jerkey/testboard
+  github_src_repo: https://github.com/jerkey/testboard
+  oomp_bot: jerkey_testboard
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/jerkey_testboard
+  oomp_doc: projects/jerkey_testboard/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/jerkey_testboard
+  oomp_src_flat: projects_flat/jerkey_testboard
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/jerkey_testboard
+  oomp_src_folder: projects_folder\jerkey\testboard\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\jerkey\testboard\version_current\working
+oomp_key: oomp_jerkey_testboard
+oomp_key_simple: jerkey_testboard
 projects_flat: projects_flat/jerkey_testboard/version_current/working
 projects_folder: projects_folder/jerkey/testboard/version_current/working
-pulls_url: https://api.github.com/repos/jerkey/testboard/pulls{/number}
-pushed_at: '2014-07-26T21:29:41Z'
-releases_url: https://api.github.com/repos/jerkey/testboard/releases{/id}
-size: 116
-ssh_url: git@github.com:jerkey/testboard.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/jerkey/testboard/stargazers
-statuses_url: https://api.github.com/repos/jerkey/testboard/statuses/{sha}
-subscribers_url: https://api.github.com/repos/jerkey/testboard/subscribers
-subscription_url: https://api.github.com/repos/jerkey/testboard/subscription
-svn_url: https://github.com/jerkey/testboard
-tags_url: https://api.github.com/repos/jerkey/testboard/tags
-teams_url: https://api.github.com/repos/jerkey/testboard/teams
-topics: []
-trees_url: https://api.github.com/repos/jerkey/testboard/git/trees{/sha}
-updated_at: '2014-07-26T21:29:42Z'
-url: https://api.github.com/repos/jerkey/testboard
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/jerkey/testboard/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/jerkey/testboard/assignees{/user}
+  blobs_url: https://api.github.com/repos/jerkey/testboard/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/jerkey/testboard/branches{/branch}
+  clone_url: https://github.com/jerkey/testboard.git
+  collaborators_url: https://api.github.com/repos/jerkey/testboard/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/jerkey/testboard/comments{/number}
+  commits_url: https://api.github.com/repos/jerkey/testboard/commits{/sha}
+  compare_url: https://api.github.com/repos/jerkey/testboard/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/jerkey/testboard/contents/{+path}
+  contributors_url: https://api.github.com/repos/jerkey/testboard/contributors
+  created_at: '2014-07-26T21:29:32Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/jerkey/testboard/deployments
+  description: 'a kicad test board for rpt2pnp and any other '
+  disabled: false
+  downloads_url: https://api.github.com/repos/jerkey/testboard/downloads
+  events_url: https://api.github.com/repos/jerkey/testboard/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/jerkey/testboard/forks
+  full_name: jerkey/testboard
+  git_commits_url: https://api.github.com/repos/jerkey/testboard/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/jerkey/testboard/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/jerkey/testboard/git/tags{/sha}
+  git_url: git://github.com/jerkey/testboard.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/jerkey/testboard/hooks
+  html_url: https://github.com/jerkey/testboard
+  id: 22296833
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/jerkey/testboard/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/jerkey/testboard/issues/events{/number}
+  issues_url: https://api.github.com/repos/jerkey/testboard/issues{/number}
+  keys_url: https://api.github.com/repos/jerkey/testboard/keys{/key_id}
+  labels_url: https://api.github.com/repos/jerkey/testboard/labels{/name}
+  language: IDL
+  languages_url: https://api.github.com/repos/jerkey/testboard/languages
+  license: null
+  merges_url: https://api.github.com/repos/jerkey/testboard/merges
+  milestones_url: https://api.github.com/repos/jerkey/testboard/milestones{/number}
+  mirror_url: null
+  name: testboard
+  node_id: MDEwOlJlcG9zaXRvcnkyMjI5NjgzMw==
+  notifications_url: https://api.github.com/repos/jerkey/testboard/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1930655?v=4
+    events_url: https://api.github.com/users/jerkey/events{/privacy}
+    followers_url: https://api.github.com/users/jerkey/followers
+    following_url: https://api.github.com/users/jerkey/following{/other_user}
+    gists_url: https://api.github.com/users/jerkey/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/jerkey
+    id: 1930655
+    login: jerkey
+    node_id: MDQ6VXNlcjE5MzA2NTU=
+    organizations_url: https://api.github.com/users/jerkey/orgs
+    received_events_url: https://api.github.com/users/jerkey/received_events
+    repos_url: https://api.github.com/users/jerkey/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/jerkey/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/jerkey/subscriptions
+    type: User
+    url: https://api.github.com/users/jerkey
+  private: false
+  pulls_url: https://api.github.com/repos/jerkey/testboard/pulls{/number}
+  pushed_at: '2014-07-26T21:29:41Z'
+  releases_url: https://api.github.com/repos/jerkey/testboard/releases{/id}
+  size: 116
+  ssh_url: git@github.com:jerkey/testboard.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/jerkey/testboard/stargazers
+  statuses_url: https://api.github.com/repos/jerkey/testboard/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/jerkey/testboard/subscribers
+  subscription_url: https://api.github.com/repos/jerkey/testboard/subscription
+  svn_url: https://github.com/jerkey/testboard
+  tags_url: https://api.github.com/repos/jerkey/testboard/tags
+  teams_url: https://api.github.com/repos/jerkey/testboard/teams
+  topics: []
+  trees_url: https://api.github.com/repos/jerkey/testboard/git/trees{/sha}
+  updated_at: '2014-07-26T21:29:42Z'
+  url: https://api.github.com/repos/jerkey/testboard
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Tinkerforge/red-brick/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Tinkerforge/red-brick/assignees{/user}
-blobs_url: https://api.github.com/repos/Tinkerforge/red-brick/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Tinkerforge/red-brick/branches{/branch}
-clone_url: https://github.com/Tinkerforge/red-brick.git
-collaborators_url: https://api.github.com/repos/Tinkerforge/red-brick/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Tinkerforge/red-brick/comments{/number}
-commits_url: https://api.github.com/repos/Tinkerforge/red-brick/commits{/sha}
-compare_url: https://api.github.com/repos/Tinkerforge/red-brick/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Tinkerforge/red-brick/contents/{+path}
-contributors_url: https://api.github.com/repos/Tinkerforge/red-brick/contributors
-created_at: '2014-02-27T16:00:00Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Tinkerforge/red-brick/deployments
-description: Executes user programs and controls other Bricks/Bricklets standalone
-disabled: false
-downloads_url: https://api.github.com/repos/Tinkerforge/red-brick/downloads
-events_url: https://api.github.com/repos/Tinkerforge/red-brick/events
-fork: false
-forks: 8
-forks_count: 8
-forks_url: https://api.github.com/repos/Tinkerforge/red-brick/forks
-full_name: Tinkerforge/red-brick
-git_commits_url: https://api.github.com/repos/Tinkerforge/red-brick/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Tinkerforge/red-brick/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Tinkerforge/red-brick/git/tags{/sha}
-git_url: git://github.com/Tinkerforge/red-brick.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.tinkerforge.com/en/doc/Hardware/Bricks/RED_Brick.html
-hooks_url: https://api.github.com/repos/Tinkerforge/red-brick/hooks
-html_url: https://github.com/Tinkerforge/red-brick
-id: 17254591
-is_template: false
-issue_comment_url: https://api.github.com/repos/Tinkerforge/red-brick/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Tinkerforge/red-brick/issues/events{/number}
-issues_url: https://api.github.com/repos/Tinkerforge/red-brick/issues{/number}
-keys_url: https://api.github.com/repos/Tinkerforge/red-brick/keys{/key_id}
-labels_url: https://api.github.com/repos/Tinkerforge/red-brick/labels{/name}
-language: Python
-languages_url: https://api.github.com/repos/Tinkerforge/red-brick/languages
-license: null
-merges_url: https://api.github.com/repos/Tinkerforge/red-brick/merges
-milestones_url: https://api.github.com/repos/Tinkerforge/red-brick/milestones{/number}
-mirror_url: null
-name: red-brick
-node_id: MDEwOlJlcG9zaXRvcnkxNzI1NDU5MQ==
-notifications_url: https://api.github.com/repos/Tinkerforge/red-brick/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
-  events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
-  followers_url: https://api.github.com/users/Tinkerforge/followers
-  following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
-  gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Tinkerforge
-  id: 1001426
-  login: Tinkerforge
-  node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
-  organizations_url: https://api.github.com/users/Tinkerforge/orgs
-  received_events_url: https://api.github.com/users/Tinkerforge/received_events
-  repos_url: https://api.github.com/users/Tinkerforge/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
-  type: Organization
-  url: https://api.github.com/users/Tinkerforge
-private: false
+links:
+  github_owner: Tinkerforge
+  github_repo_name: red-brick
+  github_src: https://github.com/Tinkerforge/red-brick
+  github_src_repo: https://github.com/Tinkerforge/red-brick
+  oomp_bot: tinkerforge_red_brick
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/tinkerforge_red_brick
+  oomp_doc: projects/tinkerforge_red_brick/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/tinkerforge_red_brick
+  oomp_src_flat: projects_flat/tinkerforge_red_brick
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/tinkerforge_red_brick
+  oomp_src_folder: projects_folder\Tinkerforge\red-brick\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Tinkerforge\red-brick\version_current\working
+oomp_key: oomp_tinkerforge_red_brick
+oomp_key_simple: tinkerforge_red_brick
 projects_flat: projects_flat/tinkerforge_red_brick/version_current/working
 projects_folder: projects_folder/Tinkerforge/red-brick/version_current/working
-pulls_url: https://api.github.com/repos/Tinkerforge/red-brick/pulls{/number}
-pushed_at: '2023-01-26T12:03:19Z'
-releases_url: https://api.github.com/repos/Tinkerforge/red-brick/releases{/id}
-size: 289478
-ssh_url: git@github.com:Tinkerforge/red-brick.git
-stargazers_count: 6
-stargazers_url: https://api.github.com/repos/Tinkerforge/red-brick/stargazers
-statuses_url: https://api.github.com/repos/Tinkerforge/red-brick/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Tinkerforge/red-brick/subscribers
-subscription_url: https://api.github.com/repos/Tinkerforge/red-brick/subscription
-svn_url: https://github.com/Tinkerforge/red-brick
-tags_url: https://api.github.com/repos/Tinkerforge/red-brick/tags
-teams_url: https://api.github.com/repos/Tinkerforge/red-brick/teams
-topics: []
-trees_url: https://api.github.com/repos/Tinkerforge/red-brick/git/trees{/sha}
-updated_at: '2023-02-20T15:44:07Z'
-url: https://api.github.com/repos/Tinkerforge/red-brick
-visibility: public
-watchers: 6
-watchers_count: 6
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Tinkerforge/red-brick/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Tinkerforge/red-brick/assignees{/user}
+  blobs_url: https://api.github.com/repos/Tinkerforge/red-brick/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Tinkerforge/red-brick/branches{/branch}
+  clone_url: https://github.com/Tinkerforge/red-brick.git
+  collaborators_url: https://api.github.com/repos/Tinkerforge/red-brick/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Tinkerforge/red-brick/comments{/number}
+  commits_url: https://api.github.com/repos/Tinkerforge/red-brick/commits{/sha}
+  compare_url: https://api.github.com/repos/Tinkerforge/red-brick/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Tinkerforge/red-brick/contents/{+path}
+  contributors_url: https://api.github.com/repos/Tinkerforge/red-brick/contributors
+  created_at: '2014-02-27T16:00:00Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Tinkerforge/red-brick/deployments
+  description: Executes user programs and controls other Bricks/Bricklets standalone
+  disabled: false
+  downloads_url: https://api.github.com/repos/Tinkerforge/red-brick/downloads
+  events_url: https://api.github.com/repos/Tinkerforge/red-brick/events
+  fork: false
+  forks: 8
+  forks_count: 8
+  forks_url: https://api.github.com/repos/Tinkerforge/red-brick/forks
+  full_name: Tinkerforge/red-brick
+  git_commits_url: https://api.github.com/repos/Tinkerforge/red-brick/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Tinkerforge/red-brick/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Tinkerforge/red-brick/git/tags{/sha}
+  git_url: git://github.com/Tinkerforge/red-brick.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.tinkerforge.com/en/doc/Hardware/Bricks/RED_Brick.html
+  hooks_url: https://api.github.com/repos/Tinkerforge/red-brick/hooks
+  html_url: https://github.com/Tinkerforge/red-brick
+  id: 17254591
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Tinkerforge/red-brick/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Tinkerforge/red-brick/issues/events{/number}
+  issues_url: https://api.github.com/repos/Tinkerforge/red-brick/issues{/number}
+  keys_url: https://api.github.com/repos/Tinkerforge/red-brick/keys{/key_id}
+  labels_url: https://api.github.com/repos/Tinkerforge/red-brick/labels{/name}
+  language: Python
+  languages_url: https://api.github.com/repos/Tinkerforge/red-brick/languages
+  license: null
+  merges_url: https://api.github.com/repos/Tinkerforge/red-brick/merges
+  milestones_url: https://api.github.com/repos/Tinkerforge/red-brick/milestones{/number}
+  mirror_url: null
+  name: red-brick
+  node_id: MDEwOlJlcG9zaXRvcnkxNzI1NDU5MQ==
+  notifications_url: https://api.github.com/repos/Tinkerforge/red-brick/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
+    events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
+    followers_url: https://api.github.com/users/Tinkerforge/followers
+    following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
+    gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Tinkerforge
+    id: 1001426
+    login: Tinkerforge
+    node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
+    organizations_url: https://api.github.com/users/Tinkerforge/orgs
+    received_events_url: https://api.github.com/users/Tinkerforge/received_events
+    repos_url: https://api.github.com/users/Tinkerforge/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
+    type: Organization
+    url: https://api.github.com/users/Tinkerforge
+  private: false
+  pulls_url: https://api.github.com/repos/Tinkerforge/red-brick/pulls{/number}
+  pushed_at: '2023-01-26T12:03:19Z'
+  releases_url: https://api.github.com/repos/Tinkerforge/red-brick/releases{/id}
+  size: 289478
+  ssh_url: git@github.com:Tinkerforge/red-brick.git
+  stargazers_count: 6
+  stargazers_url: https://api.github.com/repos/Tinkerforge/red-brick/stargazers
+  statuses_url: https://api.github.com/repos/Tinkerforge/red-brick/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Tinkerforge/red-brick/subscribers
+  subscription_url: https://api.github.com/repos/Tinkerforge/red-brick/subscription
+  svn_url: https://github.com/Tinkerforge/red-brick
+  tags_url: https://api.github.com/repos/Tinkerforge/red-brick/tags
+  teams_url: https://api.github.com/repos/Tinkerforge/red-brick/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Tinkerforge/red-brick/git/trees{/sha}
+  updated_at: '2023-02-20T15:44:07Z'
+  url: https://api.github.com/repos/Tinkerforge/red-brick
+  visibility: public
+  watchers: 6
+  watchers_count: 6
+  web_commit_signoff_required: false

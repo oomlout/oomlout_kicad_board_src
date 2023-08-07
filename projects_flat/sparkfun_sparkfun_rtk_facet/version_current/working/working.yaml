@@ -1,112 +1,129 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/branches{/branch}
-clone_url: https://github.com/sparkfun/SparkFun_RTK_Facet.git
-collaborators_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/contributors
-created_at: '2021-01-04T17:38:40Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/deployments
-description: The hardware and enclosure for the popular centimeter level RTK Facet
-  GNSS receiver with built in display.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/downloads
-events_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/forks
-full_name: sparkfun/SparkFun_RTK_Facet
-git_commits_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/git/tags{/sha}
-git_url: git://github.com/sparkfun/SparkFun_RTK_Facet.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/products/19029
-hooks_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/hooks
-html_url: https://github.com/sparkfun/SparkFun_RTK_Facet
-id: 326761059
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/merges
-milestones_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/milestones{/number}
-mirror_url: null
-name: SparkFun_RTK_Facet
-node_id: MDEwOlJlcG9zaXRvcnkzMjY3NjEwNTk=
-notifications_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/notifications{?since,all,participating}
-open_issues: 9
-open_issues_count: 9
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: SparkFun_RTK_Facet
+  github_src: https://github.com/sparkfun/SparkFun_RTK_Facet
+  github_src_repo: https://github.com/sparkfun/SparkFun_RTK_Facet
+  oomp_bot: projects_sparkfun_sparkfun_rtk_facet
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_sparkfun_rtk_facet
+  oomp_doc: projects/projects_flat_sparkfun_sparkfun_rtk_facet/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_sparkfun_rtk_facet
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_sparkfun_rtk_facet
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_sparkfun_rtk_facet
+  oomp_src_folder: projects_flat\sparkfun_sparkfun_rtk_facet\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_sparkfun_rtk_facet\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_sparkfun_rtk_facet
+oomp_key_simple: projects_flat_sparkfun_sparkfun_rtk_facet
+projects_flat: projects_flat/sparkfun_sparkfun_rtk_facet/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_sparkfun_rtk_facet/version_current/working
 projects_folder: projects_folder/sparkfun/SparkFun_RTK_Facet/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/pulls{/number}
-pushed_at: '2023-06-22T08:13:39Z'
-releases_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/releases{/id}
-size: 111692
-ssh_url: git@github.com:sparkfun/SparkFun_RTK_Facet.git
-stargazers_count: 17
-stargazers_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/subscription
-svn_url: https://github.com/sparkfun/SparkFun_RTK_Facet
-tags_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/tags
-teams_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/teams
-topics:
-- arduino
-- esp32
-- esp32-arduino
-- gnss
-- gps
-- u-blox
-- zed-f9p
-trees_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/git/trees{/sha}
-updated_at: '2023-06-24T11:52:02Z'
-url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet
-visibility: public
-watchers: 17
-watchers_count: 17
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/branches{/branch}
+  clone_url: https://github.com/sparkfun/SparkFun_RTK_Facet.git
+  collaborators_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/contributors
+  created_at: '2021-01-04T17:38:40Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/deployments
+  description: The hardware and enclosure for the popular centimeter level RTK Facet
+    GNSS receiver with built in display.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/downloads
+  events_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/forks
+  full_name: sparkfun/SparkFun_RTK_Facet
+  git_commits_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/git/tags{/sha}
+  git_url: git://github.com/sparkfun/SparkFun_RTK_Facet.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/products/19029
+  hooks_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/hooks
+  html_url: https://github.com/sparkfun/SparkFun_RTK_Facet
+  id: 326761059
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/merges
+  milestones_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/milestones{/number}
+  mirror_url: null
+  name: SparkFun_RTK_Facet
+  node_id: MDEwOlJlcG9zaXRvcnkzMjY3NjEwNTk=
+  notifications_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/notifications{?since,all,participating}
+  open_issues: 10
+  open_issues_count: 10
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/pulls{/number}
+  pushed_at: '2023-06-22T08:13:39Z'
+  releases_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/releases{/id}
+  size: 111692
+  ssh_url: git@github.com:sparkfun/SparkFun_RTK_Facet.git
+  stargazers_count: 17
+  stargazers_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/subscription
+  svn_url: https://github.com/sparkfun/SparkFun_RTK_Facet
+  tags_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/tags
+  teams_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/teams
+  topics:
+  - arduino
+  - esp32
+  - esp32-arduino
+  - gnss
+  - gps
+  - u-blox
+  - zed-f9p
+  trees_url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet/git/trees{/sha}
+  updated_at: '2023-06-24T11:52:02Z'
+  url: https://api.github.com/repos/sparkfun/SparkFun_RTK_Facet
+  visibility: public
+  watchers: 17
+  watchers_count: 17
+  web_commit_signoff_required: false

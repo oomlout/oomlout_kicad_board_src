@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/branches{/branch}
-clone_url: https://github.com/sparkfunX/Qwiic_Power_Switch.git
-collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/comments{/number}
-commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/contributors
-created_at: '2020-04-23T13:03:44Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/deployments
-description: A power switch for the Qwiic system
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/downloads
-events_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/forks
-full_name: sparkfunX/Qwiic_Power_Switch
-git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/git/tags{/sha}
-git_url: git://github.com/sparkfunX/Qwiic_Power_Switch.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/hooks
-html_url: https://github.com/sparkfunX/Qwiic_Power_Switch
-id: 258203545
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/issues{/number}
-keys_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/merges
-milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/milestones{/number}
-mirror_url: null
-name: Qwiic_Power_Switch
-node_id: MDEwOlJlcG9zaXRvcnkyNTgyMDM1NDU=
-notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
-  events_url: https://api.github.com/users/sparkfunX/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfunX/followers
-  following_url: https://api.github.com/users/sparkfunX/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfunX
-  id: 25487355
-  login: sparkfunX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
-  organizations_url: https://api.github.com/users/sparkfunX/orgs
-  received_events_url: https://api.github.com/users/sparkfunX/received_events
-  repos_url: https://api.github.com/users/sparkfunX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfunX
-private: false
+links:
+  github_owner: sparkfunX
+  github_repo_name: Qwiic_Power_Switch
+  github_src: https://github.com/sparkfunX/Qwiic_Power_Switch
+  github_src_repo: https://github.com/sparkfunX/Qwiic_Power_Switch
+  oomp_bot: sparkfunx_qwiic_power_switch
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfunx_qwiic_power_switch
+  oomp_doc: projects/sparkfunx_qwiic_power_switch/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfunx_qwiic_power_switch
+  oomp_src_flat: projects_flat/sparkfunx_qwiic_power_switch
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfunx_qwiic_power_switch
+  oomp_src_folder: projects_folder\sparkfunx\Qwiic_Power_Switch\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfunx\Qwiic_Power_Switch\version_current\working
+oomp_key: oomp_sparkfunx_qwiic_power_switch
+oomp_key_simple: sparkfunx_qwiic_power_switch
 projects_flat: projects_flat/sparkfunx_qwiic_power_switch/version_current/working
 projects_folder: projects_folder/sparkfunx/Qwiic_Power_Switch/version_current/working
-pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/pulls{/number}
-pushed_at: '2021-11-01T11:23:29Z'
-releases_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/releases{/id}
-size: 10565
-ssh_url: git@github.com:sparkfunX/Qwiic_Power_Switch.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/stargazers
-statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/subscribers
-subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/subscription
-svn_url: https://github.com/sparkfunX/Qwiic_Power_Switch
-tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/tags
-teams_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/git/trees{/sha}
-updated_at: '2021-11-01T11:23:31Z'
-url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/branches{/branch}
+  clone_url: https://github.com/sparkfunX/Qwiic_Power_Switch.git
+  collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/contributors
+  created_at: '2020-04-23T13:03:44Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/deployments
+  description: A power switch for the Qwiic system
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/downloads
+  events_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/forks
+  full_name: sparkfunX/Qwiic_Power_Switch
+  git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/git/tags{/sha}
+  git_url: git://github.com/sparkfunX/Qwiic_Power_Switch.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/hooks
+  html_url: https://github.com/sparkfunX/Qwiic_Power_Switch
+  id: 258203545
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/merges
+  milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/milestones{/number}
+  mirror_url: null
+  name: Qwiic_Power_Switch
+  node_id: MDEwOlJlcG9zaXRvcnkyNTgyMDM1NDU=
+  notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
+    events_url: https://api.github.com/users/sparkfunX/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfunX/followers
+    following_url: https://api.github.com/users/sparkfunX/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfunX
+    id: 25487355
+    login: sparkfunX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
+    organizations_url: https://api.github.com/users/sparkfunX/orgs
+    received_events_url: https://api.github.com/users/sparkfunX/received_events
+    repos_url: https://api.github.com/users/sparkfunX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfunX
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/pulls{/number}
+  pushed_at: '2021-11-01T11:23:29Z'
+  releases_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/releases{/id}
+  size: 10565
+  ssh_url: git@github.com:sparkfunX/Qwiic_Power_Switch.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/stargazers
+  statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/subscribers
+  subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/subscription
+  svn_url: https://github.com/sparkfunX/Qwiic_Power_Switch
+  tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/tags
+  teams_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch/git/trees{/sha}
+  updated_at: '2021-11-01T11:23:31Z'
+  url: https://api.github.com/repos/sparkfunX/Qwiic_Power_Switch
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

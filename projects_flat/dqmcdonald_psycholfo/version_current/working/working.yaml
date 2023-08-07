@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/assignees{/user}
-blobs_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/branches{/branch}
-clone_url: https://github.com/dqmcdonald/PsychoLFO.git
-collaborators_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/comments{/number}
-commits_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/commits{/sha}
-compare_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/contents/{+path}
-contributors_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/contributors
-created_at: '2016-02-20T22:52:47Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/downloads
-events_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/forks
-full_name: dqmcdonald/PsychoLFO
-git_commits_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/git/tags{/sha}
-git_url: git://github.com/dqmcdonald/PsychoLFO.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/hooks
-html_url: https://github.com/dqmcdonald/PsychoLFO
-id: 52179611
-is_template: false
-issue_comment_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/issues/events{/number}
-issues_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/issues{/number}
-keys_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/keys{/key_id}
-labels_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/languages
-license: null
-merges_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/merges
-milestones_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/milestones{/number}
-mirror_url: null
-name: PsychoLFO
-node_id: MDEwOlJlcG9zaXRvcnk1MjE3OTYxMQ==
-notifications_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1847673?v=4
-  events_url: https://api.github.com/users/dqmcdonald/events{/privacy}
-  followers_url: https://api.github.com/users/dqmcdonald/followers
-  following_url: https://api.github.com/users/dqmcdonald/following{/other_user}
-  gists_url: https://api.github.com/users/dqmcdonald/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dqmcdonald
-  id: 1847673
-  login: dqmcdonald
-  node_id: MDQ6VXNlcjE4NDc2NzM=
-  organizations_url: https://api.github.com/users/dqmcdonald/orgs
-  received_events_url: https://api.github.com/users/dqmcdonald/received_events
-  repos_url: https://api.github.com/users/dqmcdonald/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dqmcdonald/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dqmcdonald/subscriptions
-  type: User
-  url: https://api.github.com/users/dqmcdonald
-private: false
+links:
+  github_owner: dqmcdonald
+  github_repo_name: PsychoLFO
+  github_src: https://github.com/dqmcdonald/PsychoLFO
+  github_src_repo: https://github.com/dqmcdonald/PsychoLFO
+  oomp_bot: projects_dqmcdonald_psycholfo
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_dqmcdonald_psycholfo
+  oomp_doc: projects/projects_flat_dqmcdonald_psycholfo/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_dqmcdonald_psycholfo
+  oomp_src_flat: projects_flat/projects_flat_dqmcdonald_psycholfo
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_dqmcdonald_psycholfo
+  oomp_src_folder: projects_flat\dqmcdonald_psycholfo\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dqmcdonald_psycholfo\version_current\working
+oomp_key: oomp_projects_flat_dqmcdonald_psycholfo
+oomp_key_simple: projects_flat_dqmcdonald_psycholfo
 projects_flat: projects_flat/dqmcdonald_psycholfo/version_current/working
 projects_folder: projects_folder/dqmcdonald/PsychoLFO/version_current/working
-pulls_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/pulls{/number}
-pushed_at: '2016-08-19T07:36:44Z'
-releases_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/releases{/id}
-size: 65
-ssh_url: git@github.com:dqmcdonald/PsychoLFO.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/stargazers
-statuses_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/subscribers
-subscription_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/subscription
-svn_url: https://github.com/dqmcdonald/PsychoLFO
-tags_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/tags
-teams_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/teams
-topics: []
-trees_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/git/trees{/sha}
-updated_at: '2016-02-20T22:52:54Z'
-url: https://api.github.com/repos/dqmcdonald/PsychoLFO
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/assignees{/user}
+  blobs_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/branches{/branch}
+  clone_url: https://github.com/dqmcdonald/PsychoLFO.git
+  collaborators_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/comments{/number}
+  commits_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/commits{/sha}
+  compare_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/contents/{+path}
+  contributors_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/contributors
+  created_at: '2016-02-20T22:52:47Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/downloads
+  events_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/forks
+  full_name: dqmcdonald/PsychoLFO
+  git_commits_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/git/tags{/sha}
+  git_url: git://github.com/dqmcdonald/PsychoLFO.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/hooks
+  html_url: https://github.com/dqmcdonald/PsychoLFO
+  id: 52179611
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/issues/events{/number}
+  issues_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/issues{/number}
+  keys_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/keys{/key_id}
+  labels_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/languages
+  license: null
+  merges_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/merges
+  milestones_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/milestones{/number}
+  mirror_url: null
+  name: PsychoLFO
+  node_id: MDEwOlJlcG9zaXRvcnk1MjE3OTYxMQ==
+  notifications_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1847673?v=4
+    events_url: https://api.github.com/users/dqmcdonald/events{/privacy}
+    followers_url: https://api.github.com/users/dqmcdonald/followers
+    following_url: https://api.github.com/users/dqmcdonald/following{/other_user}
+    gists_url: https://api.github.com/users/dqmcdonald/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dqmcdonald
+    id: 1847673
+    login: dqmcdonald
+    node_id: MDQ6VXNlcjE4NDc2NzM=
+    organizations_url: https://api.github.com/users/dqmcdonald/orgs
+    received_events_url: https://api.github.com/users/dqmcdonald/received_events
+    repos_url: https://api.github.com/users/dqmcdonald/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dqmcdonald/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dqmcdonald/subscriptions
+    type: User
+    url: https://api.github.com/users/dqmcdonald
+  private: false
+  pulls_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/pulls{/number}
+  pushed_at: '2016-08-19T07:36:44Z'
+  releases_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/releases{/id}
+  size: 65
+  ssh_url: git@github.com:dqmcdonald/PsychoLFO.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/stargazers
+  statuses_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/subscribers
+  subscription_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/subscription
+  svn_url: https://github.com/dqmcdonald/PsychoLFO
+  tags_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/tags
+  teams_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dqmcdonald/PsychoLFO/git/trees{/sha}
+  updated_at: '2016-02-20T22:52:54Z'
+  url: https://api.github.com/repos/dqmcdonald/PsychoLFO
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

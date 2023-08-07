@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/monostable/monostable.github.io/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/monostable/monostable.github.io/assignees{/user}
-blobs_url: https://api.github.com/repos/monostable/monostable.github.io/git/blobs{/sha}
-branches_url: https://api.github.com/repos/monostable/monostable.github.io/branches{/branch}
-clone_url: https://github.com/monostable/monostable.github.io.git
-collaborators_url: https://api.github.com/repos/monostable/monostable.github.io/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/monostable/monostable.github.io/comments{/number}
-commits_url: https://api.github.com/repos/monostable/monostable.github.io/commits{/sha}
-compare_url: https://api.github.com/repos/monostable/monostable.github.io/compare/{base}...{head}
-contents_url: https://api.github.com/repos/monostable/monostable.github.io/contents/{+path}
-contributors_url: https://api.github.com/repos/monostable/monostable.github.io/contributors
-created_at: '2014-06-26T20:38:36Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/monostable/monostable.github.io/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/monostable/monostable.github.io/downloads
-events_url: https://api.github.com/repos/monostable/monostable.github.io/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/monostable/monostable.github.io/forks
-full_name: monostable/monostable.github.io
-git_commits_url: https://api.github.com/repos/monostable/monostable.github.io/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/monostable/monostable.github.io/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/monostable/monostable.github.io/git/tags{/sha}
-git_url: git://github.com/monostable/monostable.github.io.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: https://monostable.co.uk
-hooks_url: https://api.github.com/repos/monostable/monostable.github.io/hooks
-html_url: https://github.com/monostable/monostable.github.io
-id: 21254290
-is_template: false
-issue_comment_url: https://api.github.com/repos/monostable/monostable.github.io/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/monostable/monostable.github.io/issues/events{/number}
-issues_url: https://api.github.com/repos/monostable/monostable.github.io/issues{/number}
-keys_url: https://api.github.com/repos/monostable/monostable.github.io/keys{/key_id}
-labels_url: https://api.github.com/repos/monostable/monostable.github.io/labels{/name}
-language: SCSS
-languages_url: https://api.github.com/repos/monostable/monostable.github.io/languages
-license: null
-merges_url: https://api.github.com/repos/monostable/monostable.github.io/merges
-milestones_url: https://api.github.com/repos/monostable/monostable.github.io/milestones{/number}
-mirror_url: null
-name: monostable.github.io
-node_id: MDEwOlJlcG9zaXRvcnkyMTI1NDI5MA==
-notifications_url: https://api.github.com/repos/monostable/monostable.github.io/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/7317517?v=4
-  events_url: https://api.github.com/users/monostable/events{/privacy}
-  followers_url: https://api.github.com/users/monostable/followers
-  following_url: https://api.github.com/users/monostable/following{/other_user}
-  gists_url: https://api.github.com/users/monostable/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/monostable
-  id: 7317517
-  login: monostable
-  node_id: MDEyOk9yZ2FuaXphdGlvbjczMTc1MTc=
-  organizations_url: https://api.github.com/users/monostable/orgs
-  received_events_url: https://api.github.com/users/monostable/received_events
-  repos_url: https://api.github.com/users/monostable/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/monostable/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/monostable/subscriptions
-  type: Organization
-  url: https://api.github.com/users/monostable
-private: false
+links:
+  github_owner: monostable
+  github_repo_name: monostable.github.io
+  github_src: https://github.com/monostable/monostable.github.io
+  github_src_repo: https://github.com/monostable/monostable.github.io
+  oomp_bot: projects_monostable_monostable_github_io
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_monostable_monostable_github_io
+  oomp_doc: projects/projects_flat_monostable_monostable_github_io/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_monostable_monostable_github_io
+  oomp_src_flat: projects_flat/projects_flat_monostable_monostable_github_io
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_monostable_monostable_github_io
+  oomp_src_folder: projects_flat\monostable_monostable_github_io\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\monostable_monostable_github_io\version_current\working
+oomp_key: oomp_projects_flat_monostable_monostable_github_io
+oomp_key_simple: projects_flat_monostable_monostable_github_io
 projects_flat: projects_flat/monostable_monostable_github_io/version_current/working
 projects_folder: projects_folder/monostable/monostable.github.io/version_current/working
-pulls_url: https://api.github.com/repos/monostable/monostable.github.io/pulls{/number}
-pushed_at: '2022-06-01T11:57:48Z'
-releases_url: https://api.github.com/repos/monostable/monostable.github.io/releases{/id}
-size: 205103
-ssh_url: git@github.com:monostable/monostable.github.io.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/monostable/monostable.github.io/stargazers
-statuses_url: https://api.github.com/repos/monostable/monostable.github.io/statuses/{sha}
-subscribers_url: https://api.github.com/repos/monostable/monostable.github.io/subscribers
-subscription_url: https://api.github.com/repos/monostable/monostable.github.io/subscription
-svn_url: https://github.com/monostable/monostable.github.io
-tags_url: https://api.github.com/repos/monostable/monostable.github.io/tags
-teams_url: https://api.github.com/repos/monostable/monostable.github.io/teams
-topics: []
-trees_url: https://api.github.com/repos/monostable/monostable.github.io/git/trees{/sha}
-updated_at: '2021-10-20T23:11:44Z'
-url: https://api.github.com/repos/monostable/monostable.github.io
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/monostable/monostable.github.io/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/monostable/monostable.github.io/assignees{/user}
+  blobs_url: https://api.github.com/repos/monostable/monostable.github.io/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/monostable/monostable.github.io/branches{/branch}
+  clone_url: https://github.com/monostable/monostable.github.io.git
+  collaborators_url: https://api.github.com/repos/monostable/monostable.github.io/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/monostable/monostable.github.io/comments{/number}
+  commits_url: https://api.github.com/repos/monostable/monostable.github.io/commits{/sha}
+  compare_url: https://api.github.com/repos/monostable/monostable.github.io/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/monostable/monostable.github.io/contents/{+path}
+  contributors_url: https://api.github.com/repos/monostable/monostable.github.io/contributors
+  created_at: '2014-06-26T20:38:36Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/monostable/monostable.github.io/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/monostable/monostable.github.io/downloads
+  events_url: https://api.github.com/repos/monostable/monostable.github.io/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/monostable/monostable.github.io/forks
+  full_name: monostable/monostable.github.io
+  git_commits_url: https://api.github.com/repos/monostable/monostable.github.io/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/monostable/monostable.github.io/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/monostable/monostable.github.io/git/tags{/sha}
+  git_url: git://github.com/monostable/monostable.github.io.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: https://monostable.co.uk
+  hooks_url: https://api.github.com/repos/monostable/monostable.github.io/hooks
+  html_url: https://github.com/monostable/monostable.github.io
+  id: 21254290
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/monostable/monostable.github.io/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/monostable/monostable.github.io/issues/events{/number}
+  issues_url: https://api.github.com/repos/monostable/monostable.github.io/issues{/number}
+  keys_url: https://api.github.com/repos/monostable/monostable.github.io/keys{/key_id}
+  labels_url: https://api.github.com/repos/monostable/monostable.github.io/labels{/name}
+  language: SCSS
+  languages_url: https://api.github.com/repos/monostable/monostable.github.io/languages
+  license: null
+  merges_url: https://api.github.com/repos/monostable/monostable.github.io/merges
+  milestones_url: https://api.github.com/repos/monostable/monostable.github.io/milestones{/number}
+  mirror_url: null
+  name: monostable.github.io
+  node_id: MDEwOlJlcG9zaXRvcnkyMTI1NDI5MA==
+  notifications_url: https://api.github.com/repos/monostable/monostable.github.io/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/7317517?v=4
+    events_url: https://api.github.com/users/monostable/events{/privacy}
+    followers_url: https://api.github.com/users/monostable/followers
+    following_url: https://api.github.com/users/monostable/following{/other_user}
+    gists_url: https://api.github.com/users/monostable/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/monostable
+    id: 7317517
+    login: monostable
+    node_id: MDEyOk9yZ2FuaXphdGlvbjczMTc1MTc=
+    organizations_url: https://api.github.com/users/monostable/orgs
+    received_events_url: https://api.github.com/users/monostable/received_events
+    repos_url: https://api.github.com/users/monostable/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/monostable/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/monostable/subscriptions
+    type: Organization
+    url: https://api.github.com/users/monostable
+  private: false
+  pulls_url: https://api.github.com/repos/monostable/monostable.github.io/pulls{/number}
+  pushed_at: '2022-06-01T11:57:48Z'
+  releases_url: https://api.github.com/repos/monostable/monostable.github.io/releases{/id}
+  size: 205103
+  ssh_url: git@github.com:monostable/monostable.github.io.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/monostable/monostable.github.io/stargazers
+  statuses_url: https://api.github.com/repos/monostable/monostable.github.io/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/monostable/monostable.github.io/subscribers
+  subscription_url: https://api.github.com/repos/monostable/monostable.github.io/subscription
+  svn_url: https://github.com/monostable/monostable.github.io
+  tags_url: https://api.github.com/repos/monostable/monostable.github.io/tags
+  teams_url: https://api.github.com/repos/monostable/monostable.github.io/teams
+  topics: []
+  trees_url: https://api.github.com/repos/monostable/monostable.github.io/git/trees{/sha}
+  updated_at: '2021-10-20T23:11:44Z'
+  url: https://api.github.com/repos/monostable/monostable.github.io
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

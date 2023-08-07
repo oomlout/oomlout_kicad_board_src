@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ohdsp/AmpTwo/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ohdsp/AmpTwo/assignees{/user}
-blobs_url: https://api.github.com/repos/ohdsp/AmpTwo/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ohdsp/AmpTwo/branches{/branch}
-clone_url: https://github.com/ohdsp/AmpTwo.git
-collaborators_url: https://api.github.com/repos/ohdsp/AmpTwo/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ohdsp/AmpTwo/comments{/number}
-commits_url: https://api.github.com/repos/ohdsp/AmpTwo/commits{/sha}
-compare_url: https://api.github.com/repos/ohdsp/AmpTwo/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ohdsp/AmpTwo/contents/{+path}
-contributors_url: https://api.github.com/repos/ohdsp/AmpTwo/contributors
-created_at: '2017-03-24T19:59:18Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ohdsp/AmpTwo/deployments
-description: Open Hardware DSP Platform - Dual Independant Stereo Headphone Amplifiers  -
-  Open Source Hardware - Untested
-disabled: false
-downloads_url: https://api.github.com/repos/ohdsp/AmpTwo/downloads
-events_url: https://api.github.com/repos/ohdsp/AmpTwo/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ohdsp/AmpTwo/forks
-full_name: ohdsp/AmpTwo
-git_commits_url: https://api.github.com/repos/ohdsp/AmpTwo/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ohdsp/AmpTwo/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ohdsp/AmpTwo/git/tags{/sha}
-git_url: git://github.com/ohdsp/AmpTwo.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ohdsp/AmpTwo/hooks
-html_url: https://github.com/ohdsp/AmpTwo
-id: 86105958
-is_template: false
-issue_comment_url: https://api.github.com/repos/ohdsp/AmpTwo/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ohdsp/AmpTwo/issues/events{/number}
-issues_url: https://api.github.com/repos/ohdsp/AmpTwo/issues{/number}
-keys_url: https://api.github.com/repos/ohdsp/AmpTwo/keys{/key_id}
-labels_url: https://api.github.com/repos/ohdsp/AmpTwo/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/ohdsp/AmpTwo/languages
-license: null
-merges_url: https://api.github.com/repos/ohdsp/AmpTwo/merges
-milestones_url: https://api.github.com/repos/ohdsp/AmpTwo/milestones{/number}
-mirror_url: null
-name: AmpTwo
-node_id: MDEwOlJlcG9zaXRvcnk4NjEwNTk1OA==
-notifications_url: https://api.github.com/repos/ohdsp/AmpTwo/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16755757?v=4
-  events_url: https://api.github.com/users/ohdsp/events{/privacy}
-  followers_url: https://api.github.com/users/ohdsp/followers
-  following_url: https://api.github.com/users/ohdsp/following{/other_user}
-  gists_url: https://api.github.com/users/ohdsp/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ohdsp
-  id: 16755757
-  login: ohdsp
-  node_id: MDQ6VXNlcjE2NzU1NzU3
-  organizations_url: https://api.github.com/users/ohdsp/orgs
-  received_events_url: https://api.github.com/users/ohdsp/received_events
-  repos_url: https://api.github.com/users/ohdsp/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ohdsp/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ohdsp/subscriptions
-  type: User
-  url: https://api.github.com/users/ohdsp
-private: false
+links:
+  github_owner: ohdsp
+  github_repo_name: AmpTwo
+  github_src: https://github.com/ohdsp/AmpTwo
+  github_src_repo: https://github.com/ohdsp/AmpTwo
+  oomp_bot: projects_ohdsp_amptwo
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_ohdsp_amptwo
+  oomp_doc: projects/projects_flat_ohdsp_amptwo/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_ohdsp_amptwo
+  oomp_src_flat: projects_flat/projects_flat_ohdsp_amptwo
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_ohdsp_amptwo
+  oomp_src_folder: projects_flat\ohdsp_amptwo\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ohdsp_amptwo\version_current\working
+oomp_key: oomp_projects_flat_ohdsp_amptwo
+oomp_key_simple: projects_flat_ohdsp_amptwo
 projects_flat: projects_flat/ohdsp_amptwo/version_current/working
 projects_folder: projects_folder/ohdsp/AmpTwo/version_current/working
-pulls_url: https://api.github.com/repos/ohdsp/AmpTwo/pulls{/number}
-pushed_at: '2017-03-24T20:22:39Z'
-releases_url: https://api.github.com/repos/ohdsp/AmpTwo/releases{/id}
-size: 1115
-ssh_url: git@github.com:ohdsp/AmpTwo.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ohdsp/AmpTwo/stargazers
-statuses_url: https://api.github.com/repos/ohdsp/AmpTwo/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ohdsp/AmpTwo/subscribers
-subscription_url: https://api.github.com/repos/ohdsp/AmpTwo/subscription
-svn_url: https://github.com/ohdsp/AmpTwo
-tags_url: https://api.github.com/repos/ohdsp/AmpTwo/tags
-teams_url: https://api.github.com/repos/ohdsp/AmpTwo/teams
-topics:
-- amplifier
-- audio
-- electronics
-- hardware
-- headphone
-- kicad
-trees_url: https://api.github.com/repos/ohdsp/AmpTwo/git/trees{/sha}
-updated_at: '2017-04-13T11:58:39Z'
-url: https://api.github.com/repos/ohdsp/AmpTwo
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ohdsp/AmpTwo/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ohdsp/AmpTwo/assignees{/user}
+  blobs_url: https://api.github.com/repos/ohdsp/AmpTwo/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ohdsp/AmpTwo/branches{/branch}
+  clone_url: https://github.com/ohdsp/AmpTwo.git
+  collaborators_url: https://api.github.com/repos/ohdsp/AmpTwo/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ohdsp/AmpTwo/comments{/number}
+  commits_url: https://api.github.com/repos/ohdsp/AmpTwo/commits{/sha}
+  compare_url: https://api.github.com/repos/ohdsp/AmpTwo/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ohdsp/AmpTwo/contents/{+path}
+  contributors_url: https://api.github.com/repos/ohdsp/AmpTwo/contributors
+  created_at: '2017-03-24T19:59:18Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ohdsp/AmpTwo/deployments
+  description: Open Hardware DSP Platform - Dual Independant Stereo Headphone Amplifiers  -
+    Open Source Hardware - Untested
+  disabled: false
+  downloads_url: https://api.github.com/repos/ohdsp/AmpTwo/downloads
+  events_url: https://api.github.com/repos/ohdsp/AmpTwo/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ohdsp/AmpTwo/forks
+  full_name: ohdsp/AmpTwo
+  git_commits_url: https://api.github.com/repos/ohdsp/AmpTwo/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ohdsp/AmpTwo/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ohdsp/AmpTwo/git/tags{/sha}
+  git_url: git://github.com/ohdsp/AmpTwo.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ohdsp/AmpTwo/hooks
+  html_url: https://github.com/ohdsp/AmpTwo
+  id: 86105958
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ohdsp/AmpTwo/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ohdsp/AmpTwo/issues/events{/number}
+  issues_url: https://api.github.com/repos/ohdsp/AmpTwo/issues{/number}
+  keys_url: https://api.github.com/repos/ohdsp/AmpTwo/keys{/key_id}
+  labels_url: https://api.github.com/repos/ohdsp/AmpTwo/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/ohdsp/AmpTwo/languages
+  license: null
+  merges_url: https://api.github.com/repos/ohdsp/AmpTwo/merges
+  milestones_url: https://api.github.com/repos/ohdsp/AmpTwo/milestones{/number}
+  mirror_url: null
+  name: AmpTwo
+  node_id: MDEwOlJlcG9zaXRvcnk4NjEwNTk1OA==
+  notifications_url: https://api.github.com/repos/ohdsp/AmpTwo/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16755757?v=4
+    events_url: https://api.github.com/users/ohdsp/events{/privacy}
+    followers_url: https://api.github.com/users/ohdsp/followers
+    following_url: https://api.github.com/users/ohdsp/following{/other_user}
+    gists_url: https://api.github.com/users/ohdsp/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ohdsp
+    id: 16755757
+    login: ohdsp
+    node_id: MDQ6VXNlcjE2NzU1NzU3
+    organizations_url: https://api.github.com/users/ohdsp/orgs
+    received_events_url: https://api.github.com/users/ohdsp/received_events
+    repos_url: https://api.github.com/users/ohdsp/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ohdsp/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ohdsp/subscriptions
+    type: User
+    url: https://api.github.com/users/ohdsp
+  private: false
+  pulls_url: https://api.github.com/repos/ohdsp/AmpTwo/pulls{/number}
+  pushed_at: '2017-03-24T20:22:39Z'
+  releases_url: https://api.github.com/repos/ohdsp/AmpTwo/releases{/id}
+  size: 1115
+  ssh_url: git@github.com:ohdsp/AmpTwo.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ohdsp/AmpTwo/stargazers
+  statuses_url: https://api.github.com/repos/ohdsp/AmpTwo/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ohdsp/AmpTwo/subscribers
+  subscription_url: https://api.github.com/repos/ohdsp/AmpTwo/subscription
+  svn_url: https://github.com/ohdsp/AmpTwo
+  tags_url: https://api.github.com/repos/ohdsp/AmpTwo/tags
+  teams_url: https://api.github.com/repos/ohdsp/AmpTwo/teams
+  topics:
+  - amplifier
+  - audio
+  - electronics
+  - hardware
+  - headphone
+  - kicad
+  trees_url: https://api.github.com/repos/ohdsp/AmpTwo/git/trees{/sha}
+  updated_at: '2017-04-13T11:58:39Z'
+  url: https://api.github.com/repos/ohdsp/AmpTwo
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

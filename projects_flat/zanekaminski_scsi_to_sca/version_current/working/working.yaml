@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/assignees{/user}
-blobs_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/branches{/branch}
-clone_url: https://github.com/ZaneKaminski/SCSI-to-SCA.git
-collaborators_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/comments{/number}
-commits_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/commits{/sha}
-compare_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/contents/{+path}
-contributors_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/contributors
-created_at: '2022-02-06T19:41:58Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/deployments
-description: 50 Pin 8 bit SCSI to 16bit SCA Adapter
-disabled: false
-downloads_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/downloads
-events_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/forks
-full_name: ZaneKaminski/SCSI-to-SCA
-git_commits_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/git/tags{/sha}
-git_url: git://github.com/ZaneKaminski/SCSI-to-SCA.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/hooks
-html_url: https://github.com/ZaneKaminski/SCSI-to-SCA
-id: 456253639
-is_template: false
-issue_comment_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/issues/events{/number}
-issues_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/issues{/number}
-keys_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/keys{/key_id}
-labels_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/merges
-milestones_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/milestones{/number}
-mirror_url: null
-name: SCSI-to-SCA
-node_id: R_kgDOGzHgxw
-notifications_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/364830?v=4
-  events_url: https://api.github.com/users/ZaneKaminski/events{/privacy}
-  followers_url: https://api.github.com/users/ZaneKaminski/followers
-  following_url: https://api.github.com/users/ZaneKaminski/following{/other_user}
-  gists_url: https://api.github.com/users/ZaneKaminski/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ZaneKaminski
-  id: 364830
-  login: ZaneKaminski
-  node_id: MDQ6VXNlcjM2NDgzMA==
-  organizations_url: https://api.github.com/users/ZaneKaminski/orgs
-  received_events_url: https://api.github.com/users/ZaneKaminski/received_events
-  repos_url: https://api.github.com/users/ZaneKaminski/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ZaneKaminski/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ZaneKaminski/subscriptions
-  type: User
-  url: https://api.github.com/users/ZaneKaminski
-private: false
+links:
+  github_owner: ZaneKaminski
+  github_repo_name: SCSI-to-SCA
+  github_src: https://github.com/ZaneKaminski/SCSI-to-SCA
+  github_src_repo: https://github.com/ZaneKaminski/SCSI-to-SCA
+  oomp_bot: projects_zanekaminski_scsi_to_sca
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_zanekaminski_scsi_to_sca
+  oomp_doc: projects/projects_flat_zanekaminski_scsi_to_sca/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_zanekaminski_scsi_to_sca
+  oomp_src_flat: projects_flat/projects_flat_zanekaminski_scsi_to_sca
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_zanekaminski_scsi_to_sca
+  oomp_src_folder: projects_flat\zanekaminski_scsi_to_sca\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\zanekaminski_scsi_to_sca\version_current\working
+oomp_key: oomp_projects_flat_zanekaminski_scsi_to_sca
+oomp_key_simple: projects_flat_zanekaminski_scsi_to_sca
 projects_flat: projects_flat/zanekaminski_scsi_to_sca/version_current/working
 projects_folder: projects_folder/ZaneKaminski/SCSI-to-SCA/version_current/working
-pulls_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/pulls{/number}
-pushed_at: '2022-02-06T18:13:23Z'
-releases_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/releases{/id}
-size: 236
-ssh_url: git@github.com:ZaneKaminski/SCSI-to-SCA.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/stargazers
-statuses_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/subscribers
-subscription_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/subscription
-svn_url: https://github.com/ZaneKaminski/SCSI-to-SCA
-tags_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/tags
-teams_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/teams
-topics: []
-trees_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/git/trees{/sha}
-updated_at: '2022-02-06T19:41:47Z'
-url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/assignees{/user}
+  blobs_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/branches{/branch}
+  clone_url: https://github.com/ZaneKaminski/SCSI-to-SCA.git
+  collaborators_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/comments{/number}
+  commits_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/commits{/sha}
+  compare_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/contents/{+path}
+  contributors_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/contributors
+  created_at: '2022-02-06T19:41:58Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/deployments
+  description: 50 Pin 8 bit SCSI to 16bit SCA Adapter
+  disabled: false
+  downloads_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/downloads
+  events_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/forks
+  full_name: ZaneKaminski/SCSI-to-SCA
+  git_commits_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/git/tags{/sha}
+  git_url: git://github.com/ZaneKaminski/SCSI-to-SCA.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/hooks
+  html_url: https://github.com/ZaneKaminski/SCSI-to-SCA
+  id: 456253639
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/issues/events{/number}
+  issues_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/issues{/number}
+  keys_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/keys{/key_id}
+  labels_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/merges
+  milestones_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/milestones{/number}
+  mirror_url: null
+  name: SCSI-to-SCA
+  node_id: R_kgDOGzHgxw
+  notifications_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/364830?v=4
+    events_url: https://api.github.com/users/ZaneKaminski/events{/privacy}
+    followers_url: https://api.github.com/users/ZaneKaminski/followers
+    following_url: https://api.github.com/users/ZaneKaminski/following{/other_user}
+    gists_url: https://api.github.com/users/ZaneKaminski/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ZaneKaminski
+    id: 364830
+    login: ZaneKaminski
+    node_id: MDQ6VXNlcjM2NDgzMA==
+    organizations_url: https://api.github.com/users/ZaneKaminski/orgs
+    received_events_url: https://api.github.com/users/ZaneKaminski/received_events
+    repos_url: https://api.github.com/users/ZaneKaminski/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ZaneKaminski/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ZaneKaminski/subscriptions
+    type: User
+    url: https://api.github.com/users/ZaneKaminski
+  private: false
+  pulls_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/pulls{/number}
+  pushed_at: '2022-02-06T18:13:23Z'
+  releases_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/releases{/id}
+  size: 236
+  ssh_url: git@github.com:ZaneKaminski/SCSI-to-SCA.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/stargazers
+  statuses_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/subscribers
+  subscription_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/subscription
+  svn_url: https://github.com/ZaneKaminski/SCSI-to-SCA
+  tags_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/tags
+  teams_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA/git/trees{/sha}
+  updated_at: '2022-02-06T19:41:47Z'
+  url: https://api.github.com/repos/ZaneKaminski/SCSI-to-SCA
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

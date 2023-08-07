@@ -1,101 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Mega_Pro/{archive_format}{/ref}
-archived: true
-assignees_url: https://api.github.com/repos/sparkfun/Mega_Pro/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Mega_Pro/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Mega_Pro/branches{/branch}
-clone_url: https://github.com/sparkfun/Mega_Pro.git
-collaborators_url: https://api.github.com/repos/sparkfun/Mega_Pro/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Mega_Pro/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Mega_Pro/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Mega_Pro/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Mega_Pro/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Mega_Pro/contributors
-created_at: '2014-08-08T21:35:29Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Mega_Pro/deployments
-description: Mega Pro microcontroller, available from SparkFun Electronics
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Mega_Pro/downloads
-events_url: https://api.github.com/repos/sparkfun/Mega_Pro/events
 file_sch_flat_folder: projects_flat_folder/sparkfun_mega_pro/version_current/working/working.sch
 file_sch_folder: projects_folder/sparkfun/Mega_Pro/version_current/working/working.sch
-fork: false
-forks: 5
-forks_count: 5
-forks_url: https://api.github.com/repos/sparkfun/Mega_Pro/forks
-full_name: sparkfun/Mega_Pro
-git_commits_url: https://api.github.com/repos/sparkfun/Mega_Pro/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Mega_Pro/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Mega_Pro/git/tags{/sha}
-git_url: git://github.com/sparkfun/Mega_Pro.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/Mega_Pro/hooks
-html_url: https://github.com/sparkfun/Mega_Pro
-id: 22772233
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Mega_Pro/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Mega_Pro/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Mega_Pro/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Mega_Pro/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Mega_Pro/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/Mega_Pro/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/Mega_Pro/merges
-milestones_url: https://api.github.com/repos/sparkfun/Mega_Pro/milestones{/number}
-mirror_url: null
-name: Mega_Pro
-node_id: MDEwOlJlcG9zaXRvcnkyMjc3MjIzMw==
-notifications_url: https://api.github.com/repos/sparkfun/Mega_Pro/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Mega_Pro
+  github_src: https://github.com/sparkfun/Mega_Pro
+  github_src_repo: https://github.com/sparkfun/Mega_Pro
+  oomp_bot: sparkfun_mega_pro
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_mega_pro
+  oomp_doc: projects/sparkfun_mega_pro/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_mega_pro
+  oomp_src_flat: projects_flat/sparkfun_mega_pro
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_mega_pro
+  oomp_src_folder: projects_folder\sparkfun\Mega_Pro\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\Mega_Pro\version_current\working
+oomp_key: oomp_sparkfun_mega_pro
+oomp_key_simple: sparkfun_mega_pro
+projects_flat: projects_flat/sparkfun_mega_pro/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_mega_pro/version_current/working
 projects_folder: projects_folder/sparkfun/Mega_Pro/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Mega_Pro/pulls{/number}
-pushed_at: '2018-04-23T17:29:04Z'
-releases_url: https://api.github.com/repos/sparkfun/Mega_Pro/releases{/id}
-size: 92
-ssh_url: git@github.com:sparkfun/Mega_Pro.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/sparkfun/Mega_Pro/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Mega_Pro/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Mega_Pro/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Mega_Pro/subscription
-svn_url: https://github.com/sparkfun/Mega_Pro
-tags_url: https://api.github.com/repos/sparkfun/Mega_Pro/tags
-teams_url: https://api.github.com/repos/sparkfun/Mega_Pro/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/Mega_Pro/git/trees{/sha}
-updated_at: '2023-01-28T20:48:14Z'
-url: https://api.github.com/repos/sparkfun/Mega_Pro
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Mega_Pro/{archive_format}{/ref}
+  archived: true
+  assignees_url: https://api.github.com/repos/sparkfun/Mega_Pro/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Mega_Pro/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Mega_Pro/branches{/branch}
+  clone_url: https://github.com/sparkfun/Mega_Pro.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Mega_Pro/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Mega_Pro/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Mega_Pro/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Mega_Pro/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Mega_Pro/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Mega_Pro/contributors
+  created_at: '2014-08-08T21:35:29Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Mega_Pro/deployments
+  description: Mega Pro microcontroller, available from SparkFun Electronics
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Mega_Pro/downloads
+  events_url: https://api.github.com/repos/sparkfun/Mega_Pro/events
+  fork: false
+  forks: 5
+  forks_count: 5
+  forks_url: https://api.github.com/repos/sparkfun/Mega_Pro/forks
+  full_name: sparkfun/Mega_Pro
+  git_commits_url: https://api.github.com/repos/sparkfun/Mega_Pro/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Mega_Pro/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Mega_Pro/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Mega_Pro.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/Mega_Pro/hooks
+  html_url: https://github.com/sparkfun/Mega_Pro
+  id: 22772233
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Mega_Pro/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Mega_Pro/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Mega_Pro/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Mega_Pro/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Mega_Pro/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/Mega_Pro/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/Mega_Pro/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Mega_Pro/milestones{/number}
+  mirror_url: null
+  name: Mega_Pro
+  node_id: MDEwOlJlcG9zaXRvcnkyMjc3MjIzMw==
+  notifications_url: https://api.github.com/repos/sparkfun/Mega_Pro/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Mega_Pro/pulls{/number}
+  pushed_at: '2018-04-23T17:29:04Z'
+  releases_url: https://api.github.com/repos/sparkfun/Mega_Pro/releases{/id}
+  size: 92
+  ssh_url: git@github.com:sparkfun/Mega_Pro.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/sparkfun/Mega_Pro/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Mega_Pro/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Mega_Pro/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Mega_Pro/subscription
+  svn_url: https://github.com/sparkfun/Mega_Pro
+  tags_url: https://api.github.com/repos/sparkfun/Mega_Pro/tags
+  teams_url: https://api.github.com/repos/sparkfun/Mega_Pro/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/Mega_Pro/git/trees{/sha}
+  updated_at: '2023-01-28T20:48:14Z'
+  url: https://api.github.com/repos/sparkfun/Mega_Pro
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

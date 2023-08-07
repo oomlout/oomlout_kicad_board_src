@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/cvra/power-board/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/cvra/power-board/assignees{/user}
-blobs_url: https://api.github.com/repos/cvra/power-board/git/blobs{/sha}
-branches_url: https://api.github.com/repos/cvra/power-board/branches{/branch}
-clone_url: https://github.com/cvra/power-board.git
-collaborators_url: https://api.github.com/repos/cvra/power-board/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/cvra/power-board/comments{/number}
-commits_url: https://api.github.com/repos/cvra/power-board/commits{/sha}
-compare_url: https://api.github.com/repos/cvra/power-board/compare/{base}...{head}
-contents_url: https://api.github.com/repos/cvra/power-board/contents/{+path}
-contributors_url: https://api.github.com/repos/cvra/power-board/contributors
-created_at: '2014-12-28T14:25:04Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/cvra/power-board/deployments
-description: 4s LiPo power supply board
-disabled: false
-downloads_url: https://api.github.com/repos/cvra/power-board/downloads
-events_url: https://api.github.com/repos/cvra/power-board/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/cvra/power-board/forks
-full_name: cvra/power-board
-git_commits_url: https://api.github.com/repos/cvra/power-board/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/cvra/power-board/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/cvra/power-board/git/tags{/sha}
-git_url: git://github.com/cvra/power-board.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/cvra/power-board/hooks
-html_url: https://github.com/cvra/power-board
-id: 28563608
-is_template: false
-issue_comment_url: https://api.github.com/repos/cvra/power-board/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/cvra/power-board/issues/events{/number}
-issues_url: https://api.github.com/repos/cvra/power-board/issues{/number}
-keys_url: https://api.github.com/repos/cvra/power-board/keys{/key_id}
-labels_url: https://api.github.com/repos/cvra/power-board/labels{/name}
-language: Prolog
-languages_url: https://api.github.com/repos/cvra/power-board/languages
-license: null
-merges_url: https://api.github.com/repos/cvra/power-board/merges
-milestones_url: https://api.github.com/repos/cvra/power-board/milestones{/number}
-mirror_url: null
-name: power-board
-node_id: MDEwOlJlcG9zaXRvcnkyODU2MzYwOA==
-notifications_url: https://api.github.com/repos/cvra/power-board/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5530328?v=4
-  events_url: https://api.github.com/users/cvra/events{/privacy}
-  followers_url: https://api.github.com/users/cvra/followers
-  following_url: https://api.github.com/users/cvra/following{/other_user}
-  gists_url: https://api.github.com/users/cvra/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/cvra
-  id: 5530328
-  login: cvra
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU1MzAzMjg=
-  organizations_url: https://api.github.com/users/cvra/orgs
-  received_events_url: https://api.github.com/users/cvra/received_events
-  repos_url: https://api.github.com/users/cvra/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/cvra/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/cvra/subscriptions
-  type: Organization
-  url: https://api.github.com/users/cvra
-private: false
+links:
+  github_owner: cvra
+  github_repo_name: power-board
+  github_src: https://github.com/cvra/power-board
+  github_src_repo: https://github.com/cvra/power-board
+  oomp_bot: cvra_power_board
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/cvra_power_board
+  oomp_doc: projects/cvra_power_board/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/cvra_power_board
+  oomp_src_flat: projects_flat/cvra_power_board
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/cvra_power_board
+  oomp_src_folder: projects_folder\cvra\power-board\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\cvra\power-board\version_current\working
+oomp_key: oomp_cvra_power_board
+oomp_key_simple: cvra_power_board
 projects_flat: projects_flat/cvra_power_board/version_current/working
 projects_folder: projects_folder/cvra/power-board/version_current/working
-pulls_url: https://api.github.com/repos/cvra/power-board/pulls{/number}
-pushed_at: '2015-01-11T08:51:45Z'
-releases_url: https://api.github.com/repos/cvra/power-board/releases{/id}
-size: 128
-ssh_url: git@github.com:cvra/power-board.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/cvra/power-board/stargazers
-statuses_url: https://api.github.com/repos/cvra/power-board/statuses/{sha}
-subscribers_url: https://api.github.com/repos/cvra/power-board/subscribers
-subscription_url: https://api.github.com/repos/cvra/power-board/subscription
-svn_url: https://github.com/cvra/power-board
-tags_url: https://api.github.com/repos/cvra/power-board/tags
-teams_url: https://api.github.com/repos/cvra/power-board/teams
-topics: []
-trees_url: https://api.github.com/repos/cvra/power-board/git/trees{/sha}
-updated_at: '2015-01-11T08:51:45Z'
-url: https://api.github.com/repos/cvra/power-board
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/cvra/power-board/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/cvra/power-board/assignees{/user}
+  blobs_url: https://api.github.com/repos/cvra/power-board/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/cvra/power-board/branches{/branch}
+  clone_url: https://github.com/cvra/power-board.git
+  collaborators_url: https://api.github.com/repos/cvra/power-board/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/cvra/power-board/comments{/number}
+  commits_url: https://api.github.com/repos/cvra/power-board/commits{/sha}
+  compare_url: https://api.github.com/repos/cvra/power-board/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/cvra/power-board/contents/{+path}
+  contributors_url: https://api.github.com/repos/cvra/power-board/contributors
+  created_at: '2014-12-28T14:25:04Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/cvra/power-board/deployments
+  description: 4s LiPo power supply board
+  disabled: false
+  downloads_url: https://api.github.com/repos/cvra/power-board/downloads
+  events_url: https://api.github.com/repos/cvra/power-board/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/cvra/power-board/forks
+  full_name: cvra/power-board
+  git_commits_url: https://api.github.com/repos/cvra/power-board/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/cvra/power-board/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/cvra/power-board/git/tags{/sha}
+  git_url: git://github.com/cvra/power-board.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/cvra/power-board/hooks
+  html_url: https://github.com/cvra/power-board
+  id: 28563608
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/cvra/power-board/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/cvra/power-board/issues/events{/number}
+  issues_url: https://api.github.com/repos/cvra/power-board/issues{/number}
+  keys_url: https://api.github.com/repos/cvra/power-board/keys{/key_id}
+  labels_url: https://api.github.com/repos/cvra/power-board/labels{/name}
+  language: Prolog
+  languages_url: https://api.github.com/repos/cvra/power-board/languages
+  license: null
+  merges_url: https://api.github.com/repos/cvra/power-board/merges
+  milestones_url: https://api.github.com/repos/cvra/power-board/milestones{/number}
+  mirror_url: null
+  name: power-board
+  node_id: MDEwOlJlcG9zaXRvcnkyODU2MzYwOA==
+  notifications_url: https://api.github.com/repos/cvra/power-board/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5530328?v=4
+    events_url: https://api.github.com/users/cvra/events{/privacy}
+    followers_url: https://api.github.com/users/cvra/followers
+    following_url: https://api.github.com/users/cvra/following{/other_user}
+    gists_url: https://api.github.com/users/cvra/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/cvra
+    id: 5530328
+    login: cvra
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU1MzAzMjg=
+    organizations_url: https://api.github.com/users/cvra/orgs
+    received_events_url: https://api.github.com/users/cvra/received_events
+    repos_url: https://api.github.com/users/cvra/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/cvra/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/cvra/subscriptions
+    type: Organization
+    url: https://api.github.com/users/cvra
+  private: false
+  pulls_url: https://api.github.com/repos/cvra/power-board/pulls{/number}
+  pushed_at: '2015-01-11T08:51:45Z'
+  releases_url: https://api.github.com/repos/cvra/power-board/releases{/id}
+  size: 128
+  ssh_url: git@github.com:cvra/power-board.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/cvra/power-board/stargazers
+  statuses_url: https://api.github.com/repos/cvra/power-board/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/cvra/power-board/subscribers
+  subscription_url: https://api.github.com/repos/cvra/power-board/subscription
+  svn_url: https://github.com/cvra/power-board
+  tags_url: https://api.github.com/repos/cvra/power-board/tags
+  teams_url: https://api.github.com/repos/cvra/power-board/teams
+  topics: []
+  trees_url: https://api.github.com/repos/cvra/power-board/git/trees{/sha}
+  updated_at: '2015-01-11T08:51:45Z'
+  url: https://api.github.com/repos/cvra/power-board
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

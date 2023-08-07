@@ -1,106 +1,123 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/branches{/branch}
-clone_url: https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588.git
-collaborators_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/contributors
-created_at: '2015-05-06T22:25:15Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/deployments
-description: SparkFun Energy Harvester Breakout - LTC3588
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/downloads
-events_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_energy_harvester_breakout_ltc3588/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/Energy_Harvester_Breakout-LTC3588/version_current/working/working.brd
-fork: false
-forks: 4
-forks_count: 4
-forks_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/forks
-full_name: sparkfun/Energy_Harvester_Breakout-LTC3588
-git_commits_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/git/tags{/sha}
-git_url: git://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/hooks
-html_url: https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588
-id: 35185980
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/merges
-milestones_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/milestones{/number}
-mirror_url: null
-name: Energy_Harvester_Breakout-LTC3588
-node_id: MDEwOlJlcG9zaXRvcnkzNTE4NTk4MA==
-notifications_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Energy_Harvester_Breakout-LTC3588
+  github_src: https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588
+  github_src_repo: https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588
+  oomp_bot: projects_sparkfun_energy_harvester_breakout_ltc3588
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_energy_harvester_breakout_ltc3588
+  oomp_doc: projects/projects_flat_sparkfun_energy_harvester_breakout_ltc3588/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_energy_harvester_breakout_ltc3588
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_energy_harvester_breakout_ltc3588
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_energy_harvester_breakout_ltc3588
+  oomp_src_folder: projects_flat\sparkfun_energy_harvester_breakout_ltc3588\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_energy_harvester_breakout_ltc3588\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_energy_harvester_breakout_ltc3588
+oomp_key_simple: projects_flat_sparkfun_energy_harvester_breakout_ltc3588
+projects_flat: projects_flat/sparkfun_energy_harvester_breakout_ltc3588/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_energy_harvester_breakout_ltc3588/version_current/working
 projects_folder: projects_folder/sparkfun/Energy_Harvester_Breakout-LTC3588/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/pulls{/number}
-pushed_at: '2015-10-19T14:40:05Z'
-releases_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/releases{/id}
-size: 162
-ssh_url: git@github.com:sparkfun/Energy_Harvester_Breakout-LTC3588.git
-stargazers_count: 7
-stargazers_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/subscription
-svn_url: https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588
-tags_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/tags
-teams_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/git/trees{/sha}
-updated_at: '2021-05-02T18:39:53Z'
-url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588
-visibility: public
-watchers: 7
-watchers_count: 7
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/branches{/branch}
+  clone_url: https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/contributors
+  created_at: '2015-05-06T22:25:15Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/deployments
+  description: SparkFun Energy Harvester Breakout - LTC3588
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/downloads
+  events_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/events
+  fork: false
+  forks: 4
+  forks_count: 4
+  forks_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/forks
+  full_name: sparkfun/Energy_Harvester_Breakout-LTC3588
+  git_commits_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/hooks
+  html_url: https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588
+  id: 35185980
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/milestones{/number}
+  mirror_url: null
+  name: Energy_Harvester_Breakout-LTC3588
+  node_id: MDEwOlJlcG9zaXRvcnkzNTE4NTk4MA==
+  notifications_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/pulls{/number}
+  pushed_at: '2015-10-19T14:40:05Z'
+  releases_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/releases{/id}
+  size: 162
+  ssh_url: git@github.com:sparkfun/Energy_Harvester_Breakout-LTC3588.git
+  stargazers_count: 7
+  stargazers_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/subscription
+  svn_url: https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588
+  tags_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/tags
+  teams_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588/git/trees{/sha}
+  updated_at: '2021-05-02T18:39:53Z'
+  url: https://api.github.com/repos/sparkfun/Energy_Harvester_Breakout-LTC3588
+  visibility: public
+  watchers: 7
+  watchers_count: 7
+  web_commit_signoff_required: false

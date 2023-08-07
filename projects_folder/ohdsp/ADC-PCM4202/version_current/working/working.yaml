@@ -1,110 +1,126 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/assignees{/user}
-blobs_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/branches{/branch}
-clone_url: https://github.com/ohdsp/ADC-PCM4202.git
-collaborators_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/comments{/number}
-commits_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/commits{/sha}
-compare_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/contents/{+path}
-contributors_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/contributors
-created_at: '2016-07-01T10:14:19Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/deployments
-description: Open Hardware DSP Platform PCM4202 ADC with differential inputs
-disabled: false
-downloads_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/downloads
-events_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/forks
-full_name: ohdsp/ADC-PCM4202
-git_commits_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/git/tags{/sha}
-git_url: git://github.com/ohdsp/ADC-PCM4202.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/hooks
-html_url: https://github.com/ohdsp/ADC-PCM4202
-id: 62384575
-is_template: false
-issue_comment_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/issues/events{/number}
-issues_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/issues{/number}
-keys_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/keys{/key_id}
-labels_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/merges
-milestones_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/milestones{/number}
-mirror_url: null
-name: ADC-PCM4202
-node_id: MDEwOlJlcG9zaXRvcnk2MjM4NDU3NQ==
-notifications_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16755757?v=4
-  events_url: https://api.github.com/users/ohdsp/events{/privacy}
-  followers_url: https://api.github.com/users/ohdsp/followers
-  following_url: https://api.github.com/users/ohdsp/following{/other_user}
-  gists_url: https://api.github.com/users/ohdsp/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ohdsp
-  id: 16755757
-  login: ohdsp
-  node_id: MDQ6VXNlcjE2NzU1NzU3
-  organizations_url: https://api.github.com/users/ohdsp/orgs
-  received_events_url: https://api.github.com/users/ohdsp/received_events
-  repos_url: https://api.github.com/users/ohdsp/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ohdsp/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ohdsp/subscriptions
-  type: User
-  url: https://api.github.com/users/ohdsp
-private: false
+links:
+  github_owner: ohdsp
+  github_repo_name: ADC-PCM4202
+  github_src: https://github.com/ohdsp/ADC-PCM4202
+  github_src_repo: https://github.com/ohdsp/ADC-PCM4202
+  oomp_bot: ohdsp_adc_pcm4202
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/ohdsp_adc_pcm4202
+  oomp_doc: projects/ohdsp_adc_pcm4202/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/ohdsp_adc_pcm4202
+  oomp_src_flat: projects_flat/ohdsp_adc_pcm4202
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/ohdsp_adc_pcm4202
+  oomp_src_folder: projects_folder\ohdsp\ADC-PCM4202\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ohdsp\ADC-PCM4202\version_current\working
+oomp_key: oomp_ohdsp_adc_pcm4202
+oomp_key_simple: ohdsp_adc_pcm4202
 projects_flat: projects_flat/ohdsp_adc_pcm4202/version_current/working
 projects_folder: projects_folder/ohdsp/ADC-PCM4202/version_current/working
-pulls_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/pulls{/number}
-pushed_at: '2016-07-01T11:52:59Z'
-releases_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/releases{/id}
-size: 1615
-ssh_url: git@github.com:ohdsp/ADC-PCM4202.git
-stargazers_count: 6
-stargazers_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/stargazers
-statuses_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/subscribers
-subscription_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/subscription
-svn_url: https://github.com/ohdsp/ADC-PCM4202
-tags_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/tags
-teams_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/teams
-topics:
-- adc
-- audio
-- dsp
-- electronics
-- hardware
-- kicad
-trees_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/git/trees{/sha}
-updated_at: '2022-09-03T08:33:59Z'
-url: https://api.github.com/repos/ohdsp/ADC-PCM4202
-visibility: public
-watchers: 6
-watchers_count: 6
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/assignees{/user}
+  blobs_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/branches{/branch}
+  clone_url: https://github.com/ohdsp/ADC-PCM4202.git
+  collaborators_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/comments{/number}
+  commits_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/commits{/sha}
+  compare_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/contents/{+path}
+  contributors_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/contributors
+  created_at: '2016-07-01T10:14:19Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/deployments
+  description: Open Hardware DSP Platform PCM4202 ADC with differential inputs
+  disabled: false
+  downloads_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/downloads
+  events_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/forks
+  full_name: ohdsp/ADC-PCM4202
+  git_commits_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/git/tags{/sha}
+  git_url: git://github.com/ohdsp/ADC-PCM4202.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/hooks
+  html_url: https://github.com/ohdsp/ADC-PCM4202
+  id: 62384575
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/issues/events{/number}
+  issues_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/issues{/number}
+  keys_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/keys{/key_id}
+  labels_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/merges
+  milestones_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/milestones{/number}
+  mirror_url: null
+  name: ADC-PCM4202
+  node_id: MDEwOlJlcG9zaXRvcnk2MjM4NDU3NQ==
+  notifications_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16755757?v=4
+    events_url: https://api.github.com/users/ohdsp/events{/privacy}
+    followers_url: https://api.github.com/users/ohdsp/followers
+    following_url: https://api.github.com/users/ohdsp/following{/other_user}
+    gists_url: https://api.github.com/users/ohdsp/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ohdsp
+    id: 16755757
+    login: ohdsp
+    node_id: MDQ6VXNlcjE2NzU1NzU3
+    organizations_url: https://api.github.com/users/ohdsp/orgs
+    received_events_url: https://api.github.com/users/ohdsp/received_events
+    repos_url: https://api.github.com/users/ohdsp/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ohdsp/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ohdsp/subscriptions
+    type: User
+    url: https://api.github.com/users/ohdsp
+  private: false
+  pulls_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/pulls{/number}
+  pushed_at: '2016-07-01T11:52:59Z'
+  releases_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/releases{/id}
+  size: 1615
+  ssh_url: git@github.com:ohdsp/ADC-PCM4202.git
+  stargazers_count: 6
+  stargazers_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/stargazers
+  statuses_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/subscribers
+  subscription_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/subscription
+  svn_url: https://github.com/ohdsp/ADC-PCM4202
+  tags_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/tags
+  teams_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/teams
+  topics:
+  - adc
+  - audio
+  - dsp
+  - electronics
+  - hardware
+  - kicad
+  trees_url: https://api.github.com/repos/ohdsp/ADC-PCM4202/git/trees{/sha}
+  updated_at: '2022-09-03T08:33:59Z'
+  url: https://api.github.com/repos/ohdsp/ADC-PCM4202
+  visibility: public
+  watchers: 6
+  watchers_count: 6
+  web_commit_signoff_required: false

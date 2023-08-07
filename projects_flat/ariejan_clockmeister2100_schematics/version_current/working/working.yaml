@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/assignees{/user}
-blobs_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/branches{/branch}
-clone_url: https://github.com/ariejan/ClockMeister2100-Schematics.git
-collaborators_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/comments{/number}
-commits_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/commits{/sha}
-compare_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/contents/{+path}
-contributors_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/contributors
-created_at: '2014-10-06T11:15:29Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/deployments
-description: Schematics and PCB in Eagle format for the ClockMeister 2100 project.
-disabled: false
-downloads_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/downloads
-events_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/forks
-full_name: ariejan/ClockMeister2100-Schematics
-git_commits_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/git/tags{/sha}
-git_url: git://github.com/ariejan/ClockMeister2100-Schematics.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/hooks
-html_url: https://github.com/ariejan/ClockMeister2100-Schematics
-id: 24842867
-is_template: false
-issue_comment_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/issues/events{/number}
-issues_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/issues{/number}
-keys_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/keys{/key_id}
-labels_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/languages
-license: null
-merges_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/merges
-milestones_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/milestones{/number}
-mirror_url: null
-name: ClockMeister2100-Schematics
-node_id: MDEwOlJlcG9zaXRvcnkyNDg0Mjg2Nw==
-notifications_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1913?v=4
-  events_url: https://api.github.com/users/ariejan/events{/privacy}
-  followers_url: https://api.github.com/users/ariejan/followers
-  following_url: https://api.github.com/users/ariejan/following{/other_user}
-  gists_url: https://api.github.com/users/ariejan/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ariejan
-  id: 1913
-  login: ariejan
-  node_id: MDQ6VXNlcjE5MTM=
-  organizations_url: https://api.github.com/users/ariejan/orgs
-  received_events_url: https://api.github.com/users/ariejan/received_events
-  repos_url: https://api.github.com/users/ariejan/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ariejan/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ariejan/subscriptions
-  type: User
-  url: https://api.github.com/users/ariejan
-private: false
+links:
+  github_owner: ariejan
+  github_repo_name: ClockMeister2100-Schematics
+  github_src: https://github.com/ariejan/ClockMeister2100-Schematics
+  github_src_repo: https://github.com/ariejan/ClockMeister2100-Schematics
+  oomp_bot: projects_ariejan_clockmeister2100_schematics
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_ariejan_clockmeister2100_schematics
+  oomp_doc: projects/projects_flat_ariejan_clockmeister2100_schematics/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_ariejan_clockmeister2100_schematics
+  oomp_src_flat: projects_flat/projects_flat_ariejan_clockmeister2100_schematics
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_ariejan_clockmeister2100_schematics
+  oomp_src_folder: projects_flat\ariejan_clockmeister2100_schematics\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ariejan_clockmeister2100_schematics\version_current\working
+oomp_key: oomp_projects_flat_ariejan_clockmeister2100_schematics
+oomp_key_simple: projects_flat_ariejan_clockmeister2100_schematics
 projects_flat: projects_flat/ariejan_clockmeister2100_schematics/version_current/working
 projects_folder: projects_folder/ariejan/ClockMeister2100-Schematics/version_current/working
-pulls_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/pulls{/number}
-pushed_at: '2014-11-04T21:47:34Z'
-releases_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/releases{/id}
-size: 280
-ssh_url: git@github.com:ariejan/ClockMeister2100-Schematics.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/stargazers
-statuses_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/subscribers
-subscription_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/subscription
-svn_url: https://github.com/ariejan/ClockMeister2100-Schematics
-tags_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/tags
-teams_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/teams
-topics: []
-trees_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/git/trees{/sha}
-updated_at: '2014-10-06T11:15:29Z'
-url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/assignees{/user}
+  blobs_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/branches{/branch}
+  clone_url: https://github.com/ariejan/ClockMeister2100-Schematics.git
+  collaborators_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/comments{/number}
+  commits_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/commits{/sha}
+  compare_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/contents/{+path}
+  contributors_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/contributors
+  created_at: '2014-10-06T11:15:29Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/deployments
+  description: Schematics and PCB in Eagle format for the ClockMeister 2100 project.
+  disabled: false
+  downloads_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/downloads
+  events_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/forks
+  full_name: ariejan/ClockMeister2100-Schematics
+  git_commits_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/git/tags{/sha}
+  git_url: git://github.com/ariejan/ClockMeister2100-Schematics.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/hooks
+  html_url: https://github.com/ariejan/ClockMeister2100-Schematics
+  id: 24842867
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/issues/events{/number}
+  issues_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/issues{/number}
+  keys_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/keys{/key_id}
+  labels_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/languages
+  license: null
+  merges_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/merges
+  milestones_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/milestones{/number}
+  mirror_url: null
+  name: ClockMeister2100-Schematics
+  node_id: MDEwOlJlcG9zaXRvcnkyNDg0Mjg2Nw==
+  notifications_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1913?v=4
+    events_url: https://api.github.com/users/ariejan/events{/privacy}
+    followers_url: https://api.github.com/users/ariejan/followers
+    following_url: https://api.github.com/users/ariejan/following{/other_user}
+    gists_url: https://api.github.com/users/ariejan/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ariejan
+    id: 1913
+    login: ariejan
+    node_id: MDQ6VXNlcjE5MTM=
+    organizations_url: https://api.github.com/users/ariejan/orgs
+    received_events_url: https://api.github.com/users/ariejan/received_events
+    repos_url: https://api.github.com/users/ariejan/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ariejan/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ariejan/subscriptions
+    type: User
+    url: https://api.github.com/users/ariejan
+  private: false
+  pulls_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/pulls{/number}
+  pushed_at: '2014-11-04T21:47:34Z'
+  releases_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/releases{/id}
+  size: 280
+  ssh_url: git@github.com:ariejan/ClockMeister2100-Schematics.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/stargazers
+  statuses_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/subscribers
+  subscription_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/subscription
+  svn_url: https://github.com/ariejan/ClockMeister2100-Schematics
+  tags_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/tags
+  teams_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics/git/trees{/sha}
+  updated_at: '2014-10-06T11:15:29Z'
+  url: https://api.github.com/repos/ariejan/ClockMeister2100-Schematics
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

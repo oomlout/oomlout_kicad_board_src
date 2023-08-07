@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/barafael/attiny-programmer/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/barafael/attiny-programmer/assignees{/user}
-blobs_url: https://api.github.com/repos/barafael/attiny-programmer/git/blobs{/sha}
-branches_url: https://api.github.com/repos/barafael/attiny-programmer/branches{/branch}
-clone_url: https://github.com/barafael/attiny-programmer.git
-collaborators_url: https://api.github.com/repos/barafael/attiny-programmer/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/barafael/attiny-programmer/comments{/number}
-commits_url: https://api.github.com/repos/barafael/attiny-programmer/commits{/sha}
-compare_url: https://api.github.com/repos/barafael/attiny-programmer/compare/{base}...{head}
-contents_url: https://api.github.com/repos/barafael/attiny-programmer/contents/{+path}
-contributors_url: https://api.github.com/repos/barafael/attiny-programmer/contributors
-created_at: '2018-01-12T22:09:55Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/barafael/attiny-programmer/deployments
-description: A PCB board to use an Arduino Uno to burn programs to an AVR attiny85
-  8-pin microcontroller
-disabled: false
-downloads_url: https://api.github.com/repos/barafael/attiny-programmer/downloads
-events_url: https://api.github.com/repos/barafael/attiny-programmer/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/barafael/attiny-programmer/forks
-full_name: barafael/attiny-programmer
-git_commits_url: https://api.github.com/repos/barafael/attiny-programmer/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/barafael/attiny-programmer/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/barafael/attiny-programmer/git/tags{/sha}
-git_url: git://github.com/barafael/attiny-programmer.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/barafael/attiny-programmer/hooks
-html_url: https://github.com/barafael/attiny-programmer
-id: 117292635
-is_template: false
-issue_comment_url: https://api.github.com/repos/barafael/attiny-programmer/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/barafael/attiny-programmer/issues/events{/number}
-issues_url: https://api.github.com/repos/barafael/attiny-programmer/issues{/number}
-keys_url: https://api.github.com/repos/barafael/attiny-programmer/keys{/key_id}
-labels_url: https://api.github.com/repos/barafael/attiny-programmer/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/barafael/attiny-programmer/languages
-license: null
-merges_url: https://api.github.com/repos/barafael/attiny-programmer/merges
-milestones_url: https://api.github.com/repos/barafael/attiny-programmer/milestones{/number}
-mirror_url: null
-name: attiny-programmer
-node_id: MDEwOlJlcG9zaXRvcnkxMTcyOTI2MzU=
-notifications_url: https://api.github.com/repos/barafael/attiny-programmer/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6966738?v=4
-  events_url: https://api.github.com/users/barafael/events{/privacy}
-  followers_url: https://api.github.com/users/barafael/followers
-  following_url: https://api.github.com/users/barafael/following{/other_user}
-  gists_url: https://api.github.com/users/barafael/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/barafael
-  id: 6966738
-  login: barafael
-  node_id: MDQ6VXNlcjY5NjY3Mzg=
-  organizations_url: https://api.github.com/users/barafael/orgs
-  received_events_url: https://api.github.com/users/barafael/received_events
-  repos_url: https://api.github.com/users/barafael/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/barafael/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/barafael/subscriptions
-  type: User
-  url: https://api.github.com/users/barafael
-private: false
+links:
+  github_owner: barafael
+  github_repo_name: attiny-programmer
+  github_src: https://github.com/barafael/attiny-programmer
+  github_src_repo: https://github.com/barafael/attiny-programmer
+  oomp_bot: projects_barafael_attiny_programmer
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_barafael_attiny_programmer
+  oomp_doc: projects/projects_flat_barafael_attiny_programmer/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_barafael_attiny_programmer
+  oomp_src_flat: projects_flat/projects_flat_barafael_attiny_programmer
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_barafael_attiny_programmer
+  oomp_src_folder: projects_flat\barafael_attiny_programmer\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\barafael_attiny_programmer\version_current\working
+oomp_key: oomp_projects_flat_barafael_attiny_programmer
+oomp_key_simple: projects_flat_barafael_attiny_programmer
 projects_flat: projects_flat/barafael_attiny_programmer/version_current/working
 projects_folder: projects_folder/barafael/attiny-programmer/version_current/working
-pulls_url: https://api.github.com/repos/barafael/attiny-programmer/pulls{/number}
-pushed_at: '2018-11-10T13:47:41Z'
-releases_url: https://api.github.com/repos/barafael/attiny-programmer/releases{/id}
-size: 1430
-ssh_url: git@github.com:barafael/attiny-programmer.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/barafael/attiny-programmer/stargazers
-statuses_url: https://api.github.com/repos/barafael/attiny-programmer/statuses/{sha}
-subscribers_url: https://api.github.com/repos/barafael/attiny-programmer/subscribers
-subscription_url: https://api.github.com/repos/barafael/attiny-programmer/subscription
-svn_url: https://github.com/barafael/attiny-programmer
-tags_url: https://api.github.com/repos/barafael/attiny-programmer/tags
-teams_url: https://api.github.com/repos/barafael/attiny-programmer/teams
-topics:
-- arduino
-- attiny85
-- isp
-- pcb
-trees_url: https://api.github.com/repos/barafael/attiny-programmer/git/trees{/sha}
-updated_at: '2022-12-13T22:36:24Z'
-url: https://api.github.com/repos/barafael/attiny-programmer
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/barafael/attiny-programmer/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/barafael/attiny-programmer/assignees{/user}
+  blobs_url: https://api.github.com/repos/barafael/attiny-programmer/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/barafael/attiny-programmer/branches{/branch}
+  clone_url: https://github.com/barafael/attiny-programmer.git
+  collaborators_url: https://api.github.com/repos/barafael/attiny-programmer/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/barafael/attiny-programmer/comments{/number}
+  commits_url: https://api.github.com/repos/barafael/attiny-programmer/commits{/sha}
+  compare_url: https://api.github.com/repos/barafael/attiny-programmer/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/barafael/attiny-programmer/contents/{+path}
+  contributors_url: https://api.github.com/repos/barafael/attiny-programmer/contributors
+  created_at: '2018-01-12T22:09:55Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/barafael/attiny-programmer/deployments
+  description: A PCB board to use an Arduino Uno to burn programs to an AVR attiny85
+    8-pin microcontroller
+  disabled: false
+  downloads_url: https://api.github.com/repos/barafael/attiny-programmer/downloads
+  events_url: https://api.github.com/repos/barafael/attiny-programmer/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/barafael/attiny-programmer/forks
+  full_name: barafael/attiny-programmer
+  git_commits_url: https://api.github.com/repos/barafael/attiny-programmer/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/barafael/attiny-programmer/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/barafael/attiny-programmer/git/tags{/sha}
+  git_url: git://github.com/barafael/attiny-programmer.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/barafael/attiny-programmer/hooks
+  html_url: https://github.com/barafael/attiny-programmer
+  id: 117292635
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/barafael/attiny-programmer/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/barafael/attiny-programmer/issues/events{/number}
+  issues_url: https://api.github.com/repos/barafael/attiny-programmer/issues{/number}
+  keys_url: https://api.github.com/repos/barafael/attiny-programmer/keys{/key_id}
+  labels_url: https://api.github.com/repos/barafael/attiny-programmer/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/barafael/attiny-programmer/languages
+  license: null
+  merges_url: https://api.github.com/repos/barafael/attiny-programmer/merges
+  milestones_url: https://api.github.com/repos/barafael/attiny-programmer/milestones{/number}
+  mirror_url: null
+  name: attiny-programmer
+  node_id: MDEwOlJlcG9zaXRvcnkxMTcyOTI2MzU=
+  notifications_url: https://api.github.com/repos/barafael/attiny-programmer/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6966738?v=4
+    events_url: https://api.github.com/users/barafael/events{/privacy}
+    followers_url: https://api.github.com/users/barafael/followers
+    following_url: https://api.github.com/users/barafael/following{/other_user}
+    gists_url: https://api.github.com/users/barafael/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/barafael
+    id: 6966738
+    login: barafael
+    node_id: MDQ6VXNlcjY5NjY3Mzg=
+    organizations_url: https://api.github.com/users/barafael/orgs
+    received_events_url: https://api.github.com/users/barafael/received_events
+    repos_url: https://api.github.com/users/barafael/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/barafael/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/barafael/subscriptions
+    type: User
+    url: https://api.github.com/users/barafael
+  private: false
+  pulls_url: https://api.github.com/repos/barafael/attiny-programmer/pulls{/number}
+  pushed_at: '2018-11-10T13:47:41Z'
+  releases_url: https://api.github.com/repos/barafael/attiny-programmer/releases{/id}
+  size: 1430
+  ssh_url: git@github.com:barafael/attiny-programmer.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/barafael/attiny-programmer/stargazers
+  statuses_url: https://api.github.com/repos/barafael/attiny-programmer/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/barafael/attiny-programmer/subscribers
+  subscription_url: https://api.github.com/repos/barafael/attiny-programmer/subscription
+  svn_url: https://github.com/barafael/attiny-programmer
+  tags_url: https://api.github.com/repos/barafael/attiny-programmer/tags
+  teams_url: https://api.github.com/repos/barafael/attiny-programmer/teams
+  topics:
+  - arduino
+  - attiny85
+  - isp
+  - pcb
+  trees_url: https://api.github.com/repos/barafael/attiny-programmer/git/trees{/sha}
+  updated_at: '2022-12-13T22:36:24Z'
+  url: https://api.github.com/repos/barafael/attiny-programmer
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

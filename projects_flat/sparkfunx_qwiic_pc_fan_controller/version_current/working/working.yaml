@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/branches{/branch}
-clone_url: https://github.com/sparkfunX/Qwiic_PC_Fan_Controller.git
-collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/comments{/number}
-commits_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/contributors
-created_at: '2021-06-24T19:31:35Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/deployments
-description: Qwiic Compatible Controller for 4-Pin PWM Blower Fans
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/downloads
-events_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/forks
-full_name: sparkfunX/Qwiic_PC_Fan_Controller
-git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/git/tags{/sha}
-git_url: git://github.com/sparkfunX/Qwiic_PC_Fan_Controller.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/hooks
-html_url: https://github.com/sparkfunX/Qwiic_PC_Fan_Controller
-id: 380031375
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/issues{/number}
-keys_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/merges
-milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/milestones{/number}
-mirror_url: null
-name: Qwiic_PC_Fan_Controller
-node_id: MDEwOlJlcG9zaXRvcnkzODAwMzEzNzU=
-notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
-  events_url: https://api.github.com/users/sparkfunX/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfunX/followers
-  following_url: https://api.github.com/users/sparkfunX/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfunX
-  id: 25487355
-  login: sparkfunX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
-  organizations_url: https://api.github.com/users/sparkfunX/orgs
-  received_events_url: https://api.github.com/users/sparkfunX/received_events
-  repos_url: https://api.github.com/users/sparkfunX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfunX
-private: false
+links:
+  github_owner: sparkfunX
+  github_repo_name: Qwiic_PC_Fan_Controller
+  github_src: https://github.com/sparkfunX/Qwiic_PC_Fan_Controller
+  github_src_repo: https://github.com/sparkfunX/Qwiic_PC_Fan_Controller
+  oomp_bot: projects_sparkfunx_qwiic_pc_fan_controller
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfunx_qwiic_pc_fan_controller
+  oomp_doc: projects/projects_flat_sparkfunx_qwiic_pc_fan_controller/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfunx_qwiic_pc_fan_controller
+  oomp_src_flat: projects_flat/projects_flat_sparkfunx_qwiic_pc_fan_controller
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfunx_qwiic_pc_fan_controller
+  oomp_src_folder: projects_flat\sparkfunx_qwiic_pc_fan_controller\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfunx_qwiic_pc_fan_controller\version_current\working
+oomp_key: oomp_projects_flat_sparkfunx_qwiic_pc_fan_controller
+oomp_key_simple: projects_flat_sparkfunx_qwiic_pc_fan_controller
 projects_flat: projects_flat/sparkfunx_qwiic_pc_fan_controller/version_current/working
 projects_folder: projects_folder/sparkfunx/Qwiic_PC_Fan_Controller/version_current/working
-pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/pulls{/number}
-pushed_at: '2022-05-24T20:13:17Z'
-releases_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/releases{/id}
-size: 7056
-ssh_url: git@github.com:sparkfunX/Qwiic_PC_Fan_Controller.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/stargazers
-statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/subscribers
-subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/subscription
-svn_url: https://github.com/sparkfunX/Qwiic_PC_Fan_Controller
-tags_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/tags
-teams_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/git/trees{/sha}
-updated_at: '2022-08-01T04:35:56Z'
-url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/branches{/branch}
+  clone_url: https://github.com/sparkfunX/Qwiic_PC_Fan_Controller.git
+  collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/contributors
+  created_at: '2021-06-24T19:31:35Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/deployments
+  description: Qwiic Compatible Controller for 4-Pin PWM Blower Fans
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/downloads
+  events_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/forks
+  full_name: sparkfunX/Qwiic_PC_Fan_Controller
+  git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/git/tags{/sha}
+  git_url: git://github.com/sparkfunX/Qwiic_PC_Fan_Controller.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/hooks
+  html_url: https://github.com/sparkfunX/Qwiic_PC_Fan_Controller
+  id: 380031375
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/merges
+  milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/milestones{/number}
+  mirror_url: null
+  name: Qwiic_PC_Fan_Controller
+  node_id: MDEwOlJlcG9zaXRvcnkzODAwMzEzNzU=
+  notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
+    events_url: https://api.github.com/users/sparkfunX/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfunX/followers
+    following_url: https://api.github.com/users/sparkfunX/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfunX
+    id: 25487355
+    login: sparkfunX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
+    organizations_url: https://api.github.com/users/sparkfunX/orgs
+    received_events_url: https://api.github.com/users/sparkfunX/received_events
+    repos_url: https://api.github.com/users/sparkfunX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfunX
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/pulls{/number}
+  pushed_at: '2022-05-24T20:13:17Z'
+  releases_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/releases{/id}
+  size: 7056
+  ssh_url: git@github.com:sparkfunX/Qwiic_PC_Fan_Controller.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/stargazers
+  statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/subscribers
+  subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/subscription
+  svn_url: https://github.com/sparkfunX/Qwiic_PC_Fan_Controller
+  tags_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/tags
+  teams_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller/git/trees{/sha}
+  updated_at: '2022-08-01T04:35:56Z'
+  url: https://api.github.com/repos/sparkfunX/Qwiic_PC_Fan_Controller
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

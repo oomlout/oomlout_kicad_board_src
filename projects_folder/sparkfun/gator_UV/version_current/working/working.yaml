@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/gator_UV/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/gator_UV/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/gator_UV/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/gator_UV/branches{/branch}
-clone_url: https://github.com/sparkfun/gator_UV.git
-collaborators_url: https://api.github.com/repos/sparkfun/gator_UV/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/gator_UV/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/gator_UV/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/gator_UV/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/gator_UV/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/gator_UV/contributors
-created_at: '2019-02-25T20:01:02Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/gator_UV/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/gator_UV/downloads
-events_url: https://api.github.com/repos/sparkfun/gator_UV/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfun/gator_UV/forks
-full_name: sparkfun/gator_UV
-git_commits_url: https://api.github.com/repos/sparkfun/gator_UV/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/gator_UV/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/gator_UV/git/tags{/sha}
-git_url: git://github.com/sparkfun/gator_UV.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/gator_UV/hooks
-html_url: https://github.com/sparkfun/gator_UV
-id: 172575470
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/gator_UV/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/gator_UV/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/gator_UV/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/gator_UV/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/gator_UV/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/gator_UV/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/gator_UV/merges
-milestones_url: https://api.github.com/repos/sparkfun/gator_UV/milestones{/number}
-mirror_url: null
-name: gator_UV
-node_id: MDEwOlJlcG9zaXRvcnkxNzI1NzU0NzA=
-notifications_url: https://api.github.com/repos/sparkfun/gator_UV/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: gator_UV
+  github_src: https://github.com/sparkfun/gator_UV
+  github_src_repo: https://github.com/sparkfun/gator_UV
+  oomp_bot: sparkfun_gator_uv
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_gator_uv
+  oomp_doc: projects/sparkfun_gator_uv/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_gator_uv
+  oomp_src_flat: projects_flat/sparkfun_gator_uv
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_gator_uv
+  oomp_src_folder: projects_folder\sparkfun\gator_UV\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\gator_UV\version_current\working
+oomp_key: oomp_sparkfun_gator_uv
+oomp_key_simple: sparkfun_gator_uv
+projects_flat: projects_flat/sparkfun_gator_uv/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_gator_uv/version_current/working
 projects_folder: projects_folder/sparkfun/gator_UV/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/gator_UV/pulls{/number}
-pushed_at: '2019-09-05T19:09:49Z'
-releases_url: https://api.github.com/repos/sparkfun/gator_UV/releases{/id}
-size: 4476
-ssh_url: git@github.com:sparkfun/gator_UV.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/sparkfun/gator_UV/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/gator_UV/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/gator_UV/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/gator_UV/subscription
-svn_url: https://github.com/sparkfun/gator_UV
-tags_url: https://api.github.com/repos/sparkfun/gator_UV/tags
-teams_url: https://api.github.com/repos/sparkfun/gator_UV/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/gator_UV/git/trees{/sha}
-updated_at: '2019-09-05T19:52:16Z'
-url: https://api.github.com/repos/sparkfun/gator_UV
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/gator_UV/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/gator_UV/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/gator_UV/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/gator_UV/branches{/branch}
+  clone_url: https://github.com/sparkfun/gator_UV.git
+  collaborators_url: https://api.github.com/repos/sparkfun/gator_UV/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/gator_UV/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/gator_UV/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/gator_UV/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/gator_UV/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/gator_UV/contributors
+  created_at: '2019-02-25T20:01:02Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/gator_UV/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/gator_UV/downloads
+  events_url: https://api.github.com/repos/sparkfun/gator_UV/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfun/gator_UV/forks
+  full_name: sparkfun/gator_UV
+  git_commits_url: https://api.github.com/repos/sparkfun/gator_UV/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/gator_UV/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/gator_UV/git/tags{/sha}
+  git_url: git://github.com/sparkfun/gator_UV.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/gator_UV/hooks
+  html_url: https://github.com/sparkfun/gator_UV
+  id: 172575470
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/gator_UV/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/gator_UV/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/gator_UV/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/gator_UV/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/gator_UV/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/gator_UV/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/gator_UV/merges
+  milestones_url: https://api.github.com/repos/sparkfun/gator_UV/milestones{/number}
+  mirror_url: null
+  name: gator_UV
+  node_id: MDEwOlJlcG9zaXRvcnkxNzI1NzU0NzA=
+  notifications_url: https://api.github.com/repos/sparkfun/gator_UV/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/gator_UV/pulls{/number}
+  pushed_at: '2019-09-05T19:09:49Z'
+  releases_url: https://api.github.com/repos/sparkfun/gator_UV/releases{/id}
+  size: 4476
+  ssh_url: git@github.com:sparkfun/gator_UV.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/sparkfun/gator_UV/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/gator_UV/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/gator_UV/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/gator_UV/subscription
+  svn_url: https://github.com/sparkfun/gator_UV
+  tags_url: https://api.github.com/repos/sparkfun/gator_UV/tags
+  teams_url: https://api.github.com/repos/sparkfun/gator_UV/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/gator_UV/git/trees{/sha}
+  updated_at: '2019-09-05T19:52:16Z'
+  url: https://api.github.com/repos/sparkfun/gator_UV
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

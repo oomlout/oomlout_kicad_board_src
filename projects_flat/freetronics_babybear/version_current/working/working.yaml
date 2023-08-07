@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/BABYBEAR/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/BABYBEAR/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/BABYBEAR/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/BABYBEAR/branches{/branch}
-clone_url: https://github.com/freetronics/BABYBEAR.git
-collaborators_url: https://api.github.com/repos/freetronics/BABYBEAR/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/BABYBEAR/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/BABYBEAR/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/BABYBEAR/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/BABYBEAR/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/BABYBEAR/contributors
-created_at: '2018-03-27T23:18:29Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/BABYBEAR/deployments
-description: Arduino compatible board based on the ATmega1284P MCU
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/BABYBEAR/downloads
-events_url: https://api.github.com/repos/freetronics/BABYBEAR/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/freetronics/BABYBEAR/forks
-full_name: freetronics/BABYBEAR
-git_commits_url: https://api.github.com/repos/freetronics/BABYBEAR/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/BABYBEAR/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/BABYBEAR/git/tags{/sha}
-git_url: git://github.com/freetronics/BABYBEAR.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/freetronics/BABYBEAR/hooks
-html_url: https://github.com/freetronics/BABYBEAR
-id: 127056740
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/BABYBEAR/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/BABYBEAR/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/BABYBEAR/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/BABYBEAR/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/BABYBEAR/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/freetronics/BABYBEAR/languages
-license: null
-merges_url: https://api.github.com/repos/freetronics/BABYBEAR/merges
-milestones_url: https://api.github.com/repos/freetronics/BABYBEAR/milestones{/number}
-mirror_url: null
-name: BABYBEAR
-node_id: MDEwOlJlcG9zaXRvcnkxMjcwNTY3NDA=
-notifications_url: https://api.github.com/repos/freetronics/BABYBEAR/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: BABYBEAR
+  github_src: https://github.com/freetronics/BABYBEAR
+  github_src_repo: https://github.com/freetronics/BABYBEAR
+  oomp_bot: projects_freetronics_babybear
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_freetronics_babybear
+  oomp_doc: projects/projects_flat_freetronics_babybear/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_freetronics_babybear
+  oomp_src_flat: projects_flat/projects_flat_freetronics_babybear
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_freetronics_babybear
+  oomp_src_folder: projects_flat\freetronics_babybear\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_babybear\version_current\working
+oomp_key: oomp_projects_flat_freetronics_babybear
+oomp_key_simple: projects_flat_freetronics_babybear
 projects_flat: projects_flat/freetronics_babybear/version_current/working
 projects_folder: projects_folder/freetronics/BABYBEAR/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/BABYBEAR/pulls{/number}
-pushed_at: '2018-11-04T11:23:01Z'
-releases_url: https://api.github.com/repos/freetronics/BABYBEAR/releases{/id}
-size: 124
-ssh_url: git@github.com:freetronics/BABYBEAR.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/freetronics/BABYBEAR/stargazers
-statuses_url: https://api.github.com/repos/freetronics/BABYBEAR/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/BABYBEAR/subscribers
-subscription_url: https://api.github.com/repos/freetronics/BABYBEAR/subscription
-svn_url: https://github.com/freetronics/BABYBEAR
-tags_url: https://api.github.com/repos/freetronics/BABYBEAR/tags
-teams_url: https://api.github.com/repos/freetronics/BABYBEAR/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/BABYBEAR/git/trees{/sha}
-updated_at: '2023-04-20T22:17:30Z'
-url: https://api.github.com/repos/freetronics/BABYBEAR
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/BABYBEAR/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/BABYBEAR/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/BABYBEAR/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/BABYBEAR/branches{/branch}
+  clone_url: https://github.com/freetronics/BABYBEAR.git
+  collaborators_url: https://api.github.com/repos/freetronics/BABYBEAR/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/BABYBEAR/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/BABYBEAR/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/BABYBEAR/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/BABYBEAR/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/BABYBEAR/contributors
+  created_at: '2018-03-27T23:18:29Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/BABYBEAR/deployments
+  description: Arduino compatible board based on the ATmega1284P MCU
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/BABYBEAR/downloads
+  events_url: https://api.github.com/repos/freetronics/BABYBEAR/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/freetronics/BABYBEAR/forks
+  full_name: freetronics/BABYBEAR
+  git_commits_url: https://api.github.com/repos/freetronics/BABYBEAR/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/BABYBEAR/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/BABYBEAR/git/tags{/sha}
+  git_url: git://github.com/freetronics/BABYBEAR.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/freetronics/BABYBEAR/hooks
+  html_url: https://github.com/freetronics/BABYBEAR
+  id: 127056740
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/BABYBEAR/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/BABYBEAR/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/BABYBEAR/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/BABYBEAR/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/BABYBEAR/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/freetronics/BABYBEAR/languages
+  license: null
+  merges_url: https://api.github.com/repos/freetronics/BABYBEAR/merges
+  milestones_url: https://api.github.com/repos/freetronics/BABYBEAR/milestones{/number}
+  mirror_url: null
+  name: BABYBEAR
+  node_id: MDEwOlJlcG9zaXRvcnkxMjcwNTY3NDA=
+  notifications_url: https://api.github.com/repos/freetronics/BABYBEAR/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/BABYBEAR/pulls{/number}
+  pushed_at: '2018-11-04T11:23:01Z'
+  releases_url: https://api.github.com/repos/freetronics/BABYBEAR/releases{/id}
+  size: 124
+  ssh_url: git@github.com:freetronics/BABYBEAR.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/freetronics/BABYBEAR/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/BABYBEAR/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/BABYBEAR/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/BABYBEAR/subscription
+  svn_url: https://github.com/freetronics/BABYBEAR
+  tags_url: https://api.github.com/repos/freetronics/BABYBEAR/tags
+  teams_url: https://api.github.com/repos/freetronics/BABYBEAR/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/BABYBEAR/git/trees{/sha}
+  updated_at: '2023-04-20T22:17:30Z'
+  url: https://api.github.com/repos/freetronics/BABYBEAR
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

@@ -1,99 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/electrolama/pic16-usb-module/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/electrolama/pic16-usb-module/assignees{/user}
-blobs_url: https://api.github.com/repos/electrolama/pic16-usb-module/git/blobs{/sha}
-branches_url: https://api.github.com/repos/electrolama/pic16-usb-module/branches{/branch}
-clone_url: https://github.com/electrolama/pic16-usb-module.git
-collaborators_url: https://api.github.com/repos/electrolama/pic16-usb-module/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/electrolama/pic16-usb-module/comments{/number}
-commits_url: https://api.github.com/repos/electrolama/pic16-usb-module/commits{/sha}
-compare_url: https://api.github.com/repos/electrolama/pic16-usb-module/compare/{base}...{head}
-contents_url: https://api.github.com/repos/electrolama/pic16-usb-module/contents/{+path}
-contributors_url: https://api.github.com/repos/electrolama/pic16-usb-module/contributors
-created_at: '2016-03-19T19:00:11Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/electrolama/pic16-usb-module/deployments
-description: A small USB enabled MCU board based on PIC16F145x
-disabled: false
-downloads_url: https://api.github.com/repos/electrolama/pic16-usb-module/downloads
-events_url: https://api.github.com/repos/electrolama/pic16-usb-module/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/electrolama/pic16-usb-module/forks
-full_name: electrolama/pic16-usb-module
-git_commits_url: https://api.github.com/repos/electrolama/pic16-usb-module/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/electrolama/pic16-usb-module/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/electrolama/pic16-usb-module/git/tags{/sha}
-git_url: git://github.com/electrolama/pic16-usb-module.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: http://electrolama.com/p/pum
-hooks_url: https://api.github.com/repos/electrolama/pic16-usb-module/hooks
-html_url: https://github.com/electrolama/pic16-usb-module
-id: 54282303
-is_template: false
-issue_comment_url: https://api.github.com/repos/electrolama/pic16-usb-module/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/electrolama/pic16-usb-module/issues/events{/number}
-issues_url: https://api.github.com/repos/electrolama/pic16-usb-module/issues{/number}
-keys_url: https://api.github.com/repos/electrolama/pic16-usb-module/keys{/key_id}
-labels_url: https://api.github.com/repos/electrolama/pic16-usb-module/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/electrolama/pic16-usb-module/languages
-license: null
-merges_url: https://api.github.com/repos/electrolama/pic16-usb-module/merges
-milestones_url: https://api.github.com/repos/electrolama/pic16-usb-module/milestones{/number}
-mirror_url: null
-name: pic16-usb-module
-node_id: MDEwOlJlcG9zaXRvcnk1NDI4MjMwMw==
-notifications_url: https://api.github.com/repos/electrolama/pic16-usb-module/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/680280?v=4
-  events_url: https://api.github.com/users/electrolama/events{/privacy}
-  followers_url: https://api.github.com/users/electrolama/followers
-  following_url: https://api.github.com/users/electrolama/following{/other_user}
-  gists_url: https://api.github.com/users/electrolama/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/electrolama
-  id: 680280
-  login: electrolama
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY4MDI4MA==
-  organizations_url: https://api.github.com/users/electrolama/orgs
-  received_events_url: https://api.github.com/users/electrolama/received_events
-  repos_url: https://api.github.com/users/electrolama/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/electrolama/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/electrolama/subscriptions
-  type: Organization
-  url: https://api.github.com/users/electrolama
-private: false
+links:
+  github_owner: electrolama
+  github_repo_name: pic16-usb-module
+  github_src: https://github.com/electrolama/pic16-usb-module
+  github_src_repo: https://github.com/electrolama/pic16-usb-module
+  oomp_bot: electrolama_pic16_usb_module
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electrolama_pic16_usb_module
+  oomp_doc: projects/electrolama_pic16_usb_module/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electrolama_pic16_usb_module
+  oomp_src_flat: projects_flat/electrolama_pic16_usb_module
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electrolama_pic16_usb_module
+  oomp_src_folder: projects_folder\electrolama\pic16-usb-module\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\electrolama\pic16-usb-module\version_current\working
+oomp_key: oomp_electrolama_pic16_usb_module
+oomp_key_simple: electrolama_pic16_usb_module
+projects_flat: projects_flat/electrolama_pic16_usb_module/version_current/working
 projects_flat_folder: projects_flat_folder/electrolama_pic16_usb_module/version_current/working
 projects_folder: projects_folder/electrolama/pic16-usb-module/version_current/working
-pulls_url: https://api.github.com/repos/electrolama/pic16-usb-module/pulls{/number}
-pushed_at: '2016-03-19T19:02:15Z'
-releases_url: https://api.github.com/repos/electrolama/pic16-usb-module/releases{/id}
-size: 26
-ssh_url: git@github.com:electrolama/pic16-usb-module.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/electrolama/pic16-usb-module/stargazers
-statuses_url: https://api.github.com/repos/electrolama/pic16-usb-module/statuses/{sha}
-subscribers_url: https://api.github.com/repos/electrolama/pic16-usb-module/subscribers
-subscription_url: https://api.github.com/repos/electrolama/pic16-usb-module/subscription
-svn_url: https://github.com/electrolama/pic16-usb-module
-tags_url: https://api.github.com/repos/electrolama/pic16-usb-module/tags
-teams_url: https://api.github.com/repos/electrolama/pic16-usb-module/teams
-topics: []
-trees_url: https://api.github.com/repos/electrolama/pic16-usb-module/git/trees{/sha}
-updated_at: '2016-03-19T19:03:16Z'
-url: https://api.github.com/repos/electrolama/pic16-usb-module
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/electrolama/pic16-usb-module/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/electrolama/pic16-usb-module/assignees{/user}
+  blobs_url: https://api.github.com/repos/electrolama/pic16-usb-module/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/electrolama/pic16-usb-module/branches{/branch}
+  clone_url: https://github.com/electrolama/pic16-usb-module.git
+  collaborators_url: https://api.github.com/repos/electrolama/pic16-usb-module/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/electrolama/pic16-usb-module/comments{/number}
+  commits_url: https://api.github.com/repos/electrolama/pic16-usb-module/commits{/sha}
+  compare_url: https://api.github.com/repos/electrolama/pic16-usb-module/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/electrolama/pic16-usb-module/contents/{+path}
+  contributors_url: https://api.github.com/repos/electrolama/pic16-usb-module/contributors
+  created_at: '2016-03-19T19:00:11Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/electrolama/pic16-usb-module/deployments
+  description: A small USB enabled MCU board based on PIC16F145x
+  disabled: false
+  downloads_url: https://api.github.com/repos/electrolama/pic16-usb-module/downloads
+  events_url: https://api.github.com/repos/electrolama/pic16-usb-module/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/electrolama/pic16-usb-module/forks
+  full_name: electrolama/pic16-usb-module
+  git_commits_url: https://api.github.com/repos/electrolama/pic16-usb-module/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/electrolama/pic16-usb-module/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/electrolama/pic16-usb-module/git/tags{/sha}
+  git_url: git://github.com/electrolama/pic16-usb-module.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: http://electrolama.com/p/pum
+  hooks_url: https://api.github.com/repos/electrolama/pic16-usb-module/hooks
+  html_url: https://github.com/electrolama/pic16-usb-module
+  id: 54282303
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/electrolama/pic16-usb-module/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/electrolama/pic16-usb-module/issues/events{/number}
+  issues_url: https://api.github.com/repos/electrolama/pic16-usb-module/issues{/number}
+  keys_url: https://api.github.com/repos/electrolama/pic16-usb-module/keys{/key_id}
+  labels_url: https://api.github.com/repos/electrolama/pic16-usb-module/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/electrolama/pic16-usb-module/languages
+  license: null
+  merges_url: https://api.github.com/repos/electrolama/pic16-usb-module/merges
+  milestones_url: https://api.github.com/repos/electrolama/pic16-usb-module/milestones{/number}
+  mirror_url: null
+  name: pic16-usb-module
+  node_id: MDEwOlJlcG9zaXRvcnk1NDI4MjMwMw==
+  notifications_url: https://api.github.com/repos/electrolama/pic16-usb-module/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/680280?v=4
+    events_url: https://api.github.com/users/electrolama/events{/privacy}
+    followers_url: https://api.github.com/users/electrolama/followers
+    following_url: https://api.github.com/users/electrolama/following{/other_user}
+    gists_url: https://api.github.com/users/electrolama/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/electrolama
+    id: 680280
+    login: electrolama
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY4MDI4MA==
+    organizations_url: https://api.github.com/users/electrolama/orgs
+    received_events_url: https://api.github.com/users/electrolama/received_events
+    repos_url: https://api.github.com/users/electrolama/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/electrolama/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/electrolama/subscriptions
+    type: Organization
+    url: https://api.github.com/users/electrolama
+  private: false
+  pulls_url: https://api.github.com/repos/electrolama/pic16-usb-module/pulls{/number}
+  pushed_at: '2016-03-19T19:02:15Z'
+  releases_url: https://api.github.com/repos/electrolama/pic16-usb-module/releases{/id}
+  size: 26
+  ssh_url: git@github.com:electrolama/pic16-usb-module.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/electrolama/pic16-usb-module/stargazers
+  statuses_url: https://api.github.com/repos/electrolama/pic16-usb-module/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/electrolama/pic16-usb-module/subscribers
+  subscription_url: https://api.github.com/repos/electrolama/pic16-usb-module/subscription
+  svn_url: https://github.com/electrolama/pic16-usb-module
+  tags_url: https://api.github.com/repos/electrolama/pic16-usb-module/tags
+  teams_url: https://api.github.com/repos/electrolama/pic16-usb-module/teams
+  topics: []
+  trees_url: https://api.github.com/repos/electrolama/pic16-usb-module/git/trees{/sha}
+  updated_at: '2016-03-19T19:03:16Z'
+  url: https://api.github.com/repos/electrolama/pic16-usb-module
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

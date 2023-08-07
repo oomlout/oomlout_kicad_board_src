@@ -1,102 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adamjvr/MarconiRF/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adamjvr/MarconiRF/assignees{/user}
-blobs_url: https://api.github.com/repos/adamjvr/MarconiRF/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adamjvr/MarconiRF/branches{/branch}
-clone_url: https://github.com/adamjvr/MarconiRF.git
-collaborators_url: https://api.github.com/repos/adamjvr/MarconiRF/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adamjvr/MarconiRF/comments{/number}
-commits_url: https://api.github.com/repos/adamjvr/MarconiRF/commits{/sha}
-compare_url: https://api.github.com/repos/adamjvr/MarconiRF/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adamjvr/MarconiRF/contents/{+path}
-contributors_url: https://api.github.com/repos/adamjvr/MarconiRF/contributors
-created_at: '2016-11-07T01:33:19Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adamjvr/MarconiRF/deployments
-description: Marconi is an open source 915MHZ Radio platform for DIY radio project
-  development, Long range RF with Arduino Headers.
-disabled: false
-downloads_url: https://api.github.com/repos/adamjvr/MarconiRF/downloads
-events_url: https://api.github.com/repos/adamjvr/MarconiRF/events
 file_sch_flat: projects_flat/adamjvr_marconirf/version_current/working/working.sch
 file_sch_folder: projects_folder/adamjvr/MarconiRF/version_current/working/working.sch
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/adamjvr/MarconiRF/forks
-full_name: adamjvr/MarconiRF
-git_commits_url: https://api.github.com/repos/adamjvr/MarconiRF/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adamjvr/MarconiRF/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adamjvr/MarconiRF/git/tags{/sha}
-git_url: git://github.com/adamjvr/MarconiRF.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adamjvr/MarconiRF/hooks
-html_url: https://github.com/adamjvr/MarconiRF
-id: 73031583
-is_template: false
-issue_comment_url: https://api.github.com/repos/adamjvr/MarconiRF/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adamjvr/MarconiRF/issues/events{/number}
-issues_url: https://api.github.com/repos/adamjvr/MarconiRF/issues{/number}
-keys_url: https://api.github.com/repos/adamjvr/MarconiRF/keys{/key_id}
-labels_url: https://api.github.com/repos/adamjvr/MarconiRF/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/adamjvr/MarconiRF/languages
-license: null
-merges_url: https://api.github.com/repos/adamjvr/MarconiRF/merges
-milestones_url: https://api.github.com/repos/adamjvr/MarconiRF/milestones{/number}
-mirror_url: null
-name: MarconiRF
-node_id: MDEwOlJlcG9zaXRvcnk3MzAzMTU4Mw==
-notifications_url: https://api.github.com/repos/adamjvr/MarconiRF/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
-  events_url: https://api.github.com/users/adamjvr/events{/privacy}
-  followers_url: https://api.github.com/users/adamjvr/followers
-  following_url: https://api.github.com/users/adamjvr/following{/other_user}
-  gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adamjvr
-  id: 3782102
-  login: adamjvr
-  node_id: MDQ6VXNlcjM3ODIxMDI=
-  organizations_url: https://api.github.com/users/adamjvr/orgs
-  received_events_url: https://api.github.com/users/adamjvr/received_events
-  repos_url: https://api.github.com/users/adamjvr/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
-  type: User
-  url: https://api.github.com/users/adamjvr
-private: false
+links:
+  github_owner: adamjvr
+  github_repo_name: MarconiRF
+  github_src: https://github.com/adamjvr/MarconiRF
+  github_src_repo: https://github.com/adamjvr/MarconiRF
+  oomp_bot: adamjvr_marconirf
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adamjvr_marconirf
+  oomp_doc: projects/adamjvr_marconirf/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adamjvr_marconirf
+  oomp_src_flat: projects_flat/adamjvr_marconirf
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adamjvr_marconirf
+  oomp_src_folder: projects_folder\adamjvr\MarconiRF\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adamjvr\MarconiRF\version_current\working
+oomp_key: oomp_adamjvr_marconirf
+oomp_key_simple: adamjvr_marconirf
 projects_flat: projects_flat/adamjvr_marconirf/version_current/working
 projects_folder: projects_folder/adamjvr/MarconiRF/version_current/working
-pulls_url: https://api.github.com/repos/adamjvr/MarconiRF/pulls{/number}
-pushed_at: '2016-11-14T22:54:51Z'
-releases_url: https://api.github.com/repos/adamjvr/MarconiRF/releases{/id}
-size: 2263
-ssh_url: git@github.com:adamjvr/MarconiRF.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/adamjvr/MarconiRF/stargazers
-statuses_url: https://api.github.com/repos/adamjvr/MarconiRF/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adamjvr/MarconiRF/subscribers
-subscription_url: https://api.github.com/repos/adamjvr/MarconiRF/subscription
-svn_url: https://github.com/adamjvr/MarconiRF
-tags_url: https://api.github.com/repos/adamjvr/MarconiRF/tags
-teams_url: https://api.github.com/repos/adamjvr/MarconiRF/teams
-topics: []
-trees_url: https://api.github.com/repos/adamjvr/MarconiRF/git/trees{/sha}
-updated_at: '2017-12-19T05:15:22Z'
-url: https://api.github.com/repos/adamjvr/MarconiRF
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adamjvr/MarconiRF/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adamjvr/MarconiRF/assignees{/user}
+  blobs_url: https://api.github.com/repos/adamjvr/MarconiRF/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adamjvr/MarconiRF/branches{/branch}
+  clone_url: https://github.com/adamjvr/MarconiRF.git
+  collaborators_url: https://api.github.com/repos/adamjvr/MarconiRF/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adamjvr/MarconiRF/comments{/number}
+  commits_url: https://api.github.com/repos/adamjvr/MarconiRF/commits{/sha}
+  compare_url: https://api.github.com/repos/adamjvr/MarconiRF/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adamjvr/MarconiRF/contents/{+path}
+  contributors_url: https://api.github.com/repos/adamjvr/MarconiRF/contributors
+  created_at: '2016-11-07T01:33:19Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adamjvr/MarconiRF/deployments
+  description: Marconi is an open source 915MHZ Radio platform for DIY radio project
+    development, Long range RF with Arduino Headers.
+  disabled: false
+  downloads_url: https://api.github.com/repos/adamjvr/MarconiRF/downloads
+  events_url: https://api.github.com/repos/adamjvr/MarconiRF/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/adamjvr/MarconiRF/forks
+  full_name: adamjvr/MarconiRF
+  git_commits_url: https://api.github.com/repos/adamjvr/MarconiRF/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adamjvr/MarconiRF/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adamjvr/MarconiRF/git/tags{/sha}
+  git_url: git://github.com/adamjvr/MarconiRF.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adamjvr/MarconiRF/hooks
+  html_url: https://github.com/adamjvr/MarconiRF
+  id: 73031583
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adamjvr/MarconiRF/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adamjvr/MarconiRF/issues/events{/number}
+  issues_url: https://api.github.com/repos/adamjvr/MarconiRF/issues{/number}
+  keys_url: https://api.github.com/repos/adamjvr/MarconiRF/keys{/key_id}
+  labels_url: https://api.github.com/repos/adamjvr/MarconiRF/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/adamjvr/MarconiRF/languages
+  license: null
+  merges_url: https://api.github.com/repos/adamjvr/MarconiRF/merges
+  milestones_url: https://api.github.com/repos/adamjvr/MarconiRF/milestones{/number}
+  mirror_url: null
+  name: MarconiRF
+  node_id: MDEwOlJlcG9zaXRvcnk3MzAzMTU4Mw==
+  notifications_url: https://api.github.com/repos/adamjvr/MarconiRF/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
+    events_url: https://api.github.com/users/adamjvr/events{/privacy}
+    followers_url: https://api.github.com/users/adamjvr/followers
+    following_url: https://api.github.com/users/adamjvr/following{/other_user}
+    gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adamjvr
+    id: 3782102
+    login: adamjvr
+    node_id: MDQ6VXNlcjM3ODIxMDI=
+    organizations_url: https://api.github.com/users/adamjvr/orgs
+    received_events_url: https://api.github.com/users/adamjvr/received_events
+    repos_url: https://api.github.com/users/adamjvr/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
+    type: User
+    url: https://api.github.com/users/adamjvr
+  private: false
+  pulls_url: https://api.github.com/repos/adamjvr/MarconiRF/pulls{/number}
+  pushed_at: '2016-11-14T22:54:51Z'
+  releases_url: https://api.github.com/repos/adamjvr/MarconiRF/releases{/id}
+  size: 2263
+  ssh_url: git@github.com:adamjvr/MarconiRF.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/adamjvr/MarconiRF/stargazers
+  statuses_url: https://api.github.com/repos/adamjvr/MarconiRF/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adamjvr/MarconiRF/subscribers
+  subscription_url: https://api.github.com/repos/adamjvr/MarconiRF/subscription
+  svn_url: https://github.com/adamjvr/MarconiRF
+  tags_url: https://api.github.com/repos/adamjvr/MarconiRF/tags
+  teams_url: https://api.github.com/repos/adamjvr/MarconiRF/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adamjvr/MarconiRF/git/trees{/sha}
+  updated_at: '2017-12-19T05:15:22Z'
+  url: https://api.github.com/repos/adamjvr/MarconiRF
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

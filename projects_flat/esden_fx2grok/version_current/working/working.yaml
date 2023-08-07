@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/esden/fx2grok/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/esden/fx2grok/assignees{/user}
-blobs_url: https://api.github.com/repos/esden/fx2grok/git/blobs{/sha}
-branches_url: https://api.github.com/repos/esden/fx2grok/branches{/branch}
-clone_url: https://github.com/esden/fx2grok.git
-collaborators_url: https://api.github.com/repos/esden/fx2grok/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/esden/fx2grok/comments{/number}
-commits_url: https://api.github.com/repos/esden/fx2grok/commits{/sha}
-compare_url: https://api.github.com/repos/esden/fx2grok/compare/{base}...{head}
-contents_url: https://api.github.com/repos/esden/fx2grok/contents/{+path}
-contributors_url: https://api.github.com/repos/esden/fx2grok/contributors
-created_at: '2017-09-06T20:58:43Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/esden/fx2grok/deployments
-description: UNOFFICIAL, personal clone from git://sigrok.org/fx2grok
-disabled: false
-downloads_url: https://api.github.com/repos/esden/fx2grok/downloads
-events_url: https://api.github.com/repos/esden/fx2grok/events
-fork: true
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/esden/fx2grok/forks
-full_name: esden/fx2grok
-git_commits_url: https://api.github.com/repos/esden/fx2grok/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/esden/fx2grok/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/esden/fx2grok/git/tags{/sha}
-git_url: git://github.com/esden/fx2grok.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: ''
-hooks_url: https://api.github.com/repos/esden/fx2grok/hooks
-html_url: https://github.com/esden/fx2grok
-id: 102657705
-is_template: false
-issue_comment_url: https://api.github.com/repos/esden/fx2grok/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/esden/fx2grok/issues/events{/number}
-issues_url: https://api.github.com/repos/esden/fx2grok/issues{/number}
-keys_url: https://api.github.com/repos/esden/fx2grok/keys{/key_id}
-labels_url: https://api.github.com/repos/esden/fx2grok/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/esden/fx2grok/languages
-license: null
-merges_url: https://api.github.com/repos/esden/fx2grok/merges
-milestones_url: https://api.github.com/repos/esden/fx2grok/milestones{/number}
-mirror_url: null
-name: fx2grok
-node_id: MDEwOlJlcG9zaXRvcnkxMDI2NTc3MDU=
-notifications_url: https://api.github.com/repos/esden/fx2grok/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/17334?v=4
-  events_url: https://api.github.com/users/esden/events{/privacy}
-  followers_url: https://api.github.com/users/esden/followers
-  following_url: https://api.github.com/users/esden/following{/other_user}
-  gists_url: https://api.github.com/users/esden/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/esden
-  id: 17334
-  login: esden
-  node_id: MDQ6VXNlcjE3MzM0
-  organizations_url: https://api.github.com/users/esden/orgs
-  received_events_url: https://api.github.com/users/esden/received_events
-  repos_url: https://api.github.com/users/esden/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/esden/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/esden/subscriptions
-  type: User
-  url: https://api.github.com/users/esden
-private: false
+links:
+  github_owner: esden
+  github_repo_name: fx2grok
+  github_src: https://github.com/esden/fx2grok
+  github_src_repo: https://github.com/esden/fx2grok
+  oomp_bot: projects_esden_fx2grok
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_esden_fx2grok
+  oomp_doc: projects/projects_flat_esden_fx2grok/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_esden_fx2grok
+  oomp_src_flat: projects_flat/projects_flat_esden_fx2grok
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_esden_fx2grok
+  oomp_src_folder: projects_flat\esden_fx2grok\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\esden_fx2grok\version_current\working
+oomp_key: oomp_projects_flat_esden_fx2grok
+oomp_key_simple: projects_flat_esden_fx2grok
 projects_flat: projects_flat/esden_fx2grok/version_current/working
 projects_folder: projects_folder/esden/fx2grok/version_current/working
-pulls_url: https://api.github.com/repos/esden/fx2grok/pulls{/number}
-pushed_at: '2018-04-19T07:12:19Z'
-releases_url: https://api.github.com/repos/esden/fx2grok/releases{/id}
-size: 453
-ssh_url: git@github.com:esden/fx2grok.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/esden/fx2grok/stargazers
-statuses_url: https://api.github.com/repos/esden/fx2grok/statuses/{sha}
-subscribers_url: https://api.github.com/repos/esden/fx2grok/subscribers
-subscription_url: https://api.github.com/repos/esden/fx2grok/subscription
-svn_url: https://github.com/esden/fx2grok
-tags_url: https://api.github.com/repos/esden/fx2grok/tags
-teams_url: https://api.github.com/repos/esden/fx2grok/teams
-topics: []
-trees_url: https://api.github.com/repos/esden/fx2grok/git/trees{/sha}
-updated_at: '2019-09-06T22:23:51Z'
-url: https://api.github.com/repos/esden/fx2grok
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/esden/fx2grok/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/esden/fx2grok/assignees{/user}
+  blobs_url: https://api.github.com/repos/esden/fx2grok/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/esden/fx2grok/branches{/branch}
+  clone_url: https://github.com/esden/fx2grok.git
+  collaborators_url: https://api.github.com/repos/esden/fx2grok/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/esden/fx2grok/comments{/number}
+  commits_url: https://api.github.com/repos/esden/fx2grok/commits{/sha}
+  compare_url: https://api.github.com/repos/esden/fx2grok/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/esden/fx2grok/contents/{+path}
+  contributors_url: https://api.github.com/repos/esden/fx2grok/contributors
+  created_at: '2017-09-06T20:58:43Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/esden/fx2grok/deployments
+  description: UNOFFICIAL, personal clone from git://sigrok.org/fx2grok
+  disabled: false
+  downloads_url: https://api.github.com/repos/esden/fx2grok/downloads
+  events_url: https://api.github.com/repos/esden/fx2grok/events
+  fork: true
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/esden/fx2grok/forks
+  full_name: esden/fx2grok
+  git_commits_url: https://api.github.com/repos/esden/fx2grok/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/esden/fx2grok/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/esden/fx2grok/git/tags{/sha}
+  git_url: git://github.com/esden/fx2grok.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: ''
+  hooks_url: https://api.github.com/repos/esden/fx2grok/hooks
+  html_url: https://github.com/esden/fx2grok
+  id: 102657705
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/esden/fx2grok/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/esden/fx2grok/issues/events{/number}
+  issues_url: https://api.github.com/repos/esden/fx2grok/issues{/number}
+  keys_url: https://api.github.com/repos/esden/fx2grok/keys{/key_id}
+  labels_url: https://api.github.com/repos/esden/fx2grok/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/esden/fx2grok/languages
+  license: null
+  merges_url: https://api.github.com/repos/esden/fx2grok/merges
+  milestones_url: https://api.github.com/repos/esden/fx2grok/milestones{/number}
+  mirror_url: null
+  name: fx2grok
+  node_id: MDEwOlJlcG9zaXRvcnkxMDI2NTc3MDU=
+  notifications_url: https://api.github.com/repos/esden/fx2grok/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/17334?v=4
+    events_url: https://api.github.com/users/esden/events{/privacy}
+    followers_url: https://api.github.com/users/esden/followers
+    following_url: https://api.github.com/users/esden/following{/other_user}
+    gists_url: https://api.github.com/users/esden/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/esden
+    id: 17334
+    login: esden
+    node_id: MDQ6VXNlcjE3MzM0
+    organizations_url: https://api.github.com/users/esden/orgs
+    received_events_url: https://api.github.com/users/esden/received_events
+    repos_url: https://api.github.com/users/esden/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/esden/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/esden/subscriptions
+    type: User
+    url: https://api.github.com/users/esden
+  private: false
+  pulls_url: https://api.github.com/repos/esden/fx2grok/pulls{/number}
+  pushed_at: '2018-04-19T07:12:19Z'
+  releases_url: https://api.github.com/repos/esden/fx2grok/releases{/id}
+  size: 453
+  ssh_url: git@github.com:esden/fx2grok.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/esden/fx2grok/stargazers
+  statuses_url: https://api.github.com/repos/esden/fx2grok/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/esden/fx2grok/subscribers
+  subscription_url: https://api.github.com/repos/esden/fx2grok/subscription
+  svn_url: https://github.com/esden/fx2grok
+  tags_url: https://api.github.com/repos/esden/fx2grok/tags
+  teams_url: https://api.github.com/repos/esden/fx2grok/teams
+  topics: []
+  trees_url: https://api.github.com/repos/esden/fx2grok/git/trees{/sha}
+  updated_at: '2019-09-06T22:23:51Z'
+  url: https://api.github.com/repos/esden/fx2grok
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/assignees{/user}
-blobs_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/git/blobs{/sha}
-branches_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/branches{/branch}
-clone_url: https://github.com/labitat/doorputerv2_rpi_hat.git
-collaborators_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/comments{/number}
-commits_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/commits{/sha}
-compare_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/compare/{base}...{head}
-contents_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/contents/{+path}
-contributors_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/contributors
-created_at: '2019-03-09T20:22:09Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/deployments
-description: rPI hat for doorduino revision 2
-disabled: false
-downloads_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/downloads
-events_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/forks
-full_name: labitat/doorputerv2_rpi_hat
-git_commits_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/git/tags{/sha}
-git_url: git://github.com/labitat/doorputerv2_rpi_hat.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/hooks
-html_url: https://github.com/labitat/doorputerv2_rpi_hat
-id: 174742153
-is_template: false
-issue_comment_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/issues/events{/number}
-issues_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/issues{/number}
-keys_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/keys{/key_id}
-labels_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/languages
-license: null
-merges_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/merges
-milestones_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/milestones{/number}
-mirror_url: null
-name: doorputerv2_rpi_hat
-node_id: MDEwOlJlcG9zaXRvcnkxNzQ3NDIxNTM=
-notifications_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/346178?v=4
-  events_url: https://api.github.com/users/labitat/events{/privacy}
-  followers_url: https://api.github.com/users/labitat/followers
-  following_url: https://api.github.com/users/labitat/following{/other_user}
-  gists_url: https://api.github.com/users/labitat/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/labitat
-  id: 346178
-  login: labitat
-  node_id: MDEyOk9yZ2FuaXphdGlvbjM0NjE3OA==
-  organizations_url: https://api.github.com/users/labitat/orgs
-  received_events_url: https://api.github.com/users/labitat/received_events
-  repos_url: https://api.github.com/users/labitat/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/labitat/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/labitat/subscriptions
-  type: Organization
-  url: https://api.github.com/users/labitat
-private: false
+links:
+  github_owner: labitat
+  github_repo_name: doorputerv2_rpi_hat
+  github_src: https://github.com/labitat/doorputerv2_rpi_hat
+  github_src_repo: https://github.com/labitat/doorputerv2_rpi_hat
+  oomp_bot: labitat_doorputerv2_rpi_hat
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/labitat_doorputerv2_rpi_hat
+  oomp_doc: projects/labitat_doorputerv2_rpi_hat/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/labitat_doorputerv2_rpi_hat
+  oomp_src_flat: projects_flat/labitat_doorputerv2_rpi_hat
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/labitat_doorputerv2_rpi_hat
+  oomp_src_folder: projects_folder\labitat\doorputerv2_rpi_hat\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\labitat\doorputerv2_rpi_hat\version_current\working
+oomp_key: oomp_labitat_doorputerv2_rpi_hat
+oomp_key_simple: labitat_doorputerv2_rpi_hat
 projects_flat: projects_flat/labitat_doorputerv2_rpi_hat/version_current/working
 projects_folder: projects_folder/labitat/doorputerv2_rpi_hat/version_current/working
-pulls_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/pulls{/number}
-pushed_at: '2019-03-25T20:11:04Z'
-releases_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/releases{/id}
-size: 60
-ssh_url: git@github.com:labitat/doorputerv2_rpi_hat.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/stargazers
-statuses_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/statuses/{sha}
-subscribers_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/subscribers
-subscription_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/subscription
-svn_url: https://github.com/labitat/doorputerv2_rpi_hat
-tags_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/tags
-teams_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/teams
-topics: []
-trees_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/git/trees{/sha}
-updated_at: '2019-03-25T20:11:05Z'
-url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/assignees{/user}
+  blobs_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/branches{/branch}
+  clone_url: https://github.com/labitat/doorputerv2_rpi_hat.git
+  collaborators_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/comments{/number}
+  commits_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/commits{/sha}
+  compare_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/contents/{+path}
+  contributors_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/contributors
+  created_at: '2019-03-09T20:22:09Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/deployments
+  description: rPI hat for doorduino revision 2
+  disabled: false
+  downloads_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/downloads
+  events_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/forks
+  full_name: labitat/doorputerv2_rpi_hat
+  git_commits_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/git/tags{/sha}
+  git_url: git://github.com/labitat/doorputerv2_rpi_hat.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/hooks
+  html_url: https://github.com/labitat/doorputerv2_rpi_hat
+  id: 174742153
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/issues/events{/number}
+  issues_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/issues{/number}
+  keys_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/keys{/key_id}
+  labels_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/languages
+  license: null
+  merges_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/merges
+  milestones_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/milestones{/number}
+  mirror_url: null
+  name: doorputerv2_rpi_hat
+  node_id: MDEwOlJlcG9zaXRvcnkxNzQ3NDIxNTM=
+  notifications_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/346178?v=4
+    events_url: https://api.github.com/users/labitat/events{/privacy}
+    followers_url: https://api.github.com/users/labitat/followers
+    following_url: https://api.github.com/users/labitat/following{/other_user}
+    gists_url: https://api.github.com/users/labitat/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/labitat
+    id: 346178
+    login: labitat
+    node_id: MDEyOk9yZ2FuaXphdGlvbjM0NjE3OA==
+    organizations_url: https://api.github.com/users/labitat/orgs
+    received_events_url: https://api.github.com/users/labitat/received_events
+    repos_url: https://api.github.com/users/labitat/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/labitat/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/labitat/subscriptions
+    type: Organization
+    url: https://api.github.com/users/labitat
+  private: false
+  pulls_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/pulls{/number}
+  pushed_at: '2019-03-25T20:11:04Z'
+  releases_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/releases{/id}
+  size: 60
+  ssh_url: git@github.com:labitat/doorputerv2_rpi_hat.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/stargazers
+  statuses_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/subscribers
+  subscription_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/subscription
+  svn_url: https://github.com/labitat/doorputerv2_rpi_hat
+  tags_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/tags
+  teams_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/teams
+  topics: []
+  trees_url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat/git/trees{/sha}
+  updated_at: '2019-03-25T20:11:05Z'
+  url: https://api.github.com/repos/labitat/doorputerv2_rpi_hat
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

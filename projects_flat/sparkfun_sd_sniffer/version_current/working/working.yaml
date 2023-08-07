@@ -1,101 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/SD_Sniffer/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/SD_Sniffer/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/SD_Sniffer/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/SD_Sniffer/branches{/branch}
-clone_url: https://github.com/sparkfun/SD_Sniffer.git
-collaborators_url: https://api.github.com/repos/sparkfun/SD_Sniffer/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/SD_Sniffer/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/SD_Sniffer/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/SD_Sniffer/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/SD_Sniffer/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/SD_Sniffer/contributors
-created_at: '2014-04-23T15:57:16Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/SD_Sniffer/deployments
-description: 'SD Sniffer available from SparkFun Electronics. '
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/SD_Sniffer/downloads
-events_url: https://api.github.com/repos/sparkfun/SD_Sniffer/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_sd_sniffer/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/SD_Sniffer/version_current/working/working.brd
-fork: false
-forks: 4
-forks_count: 4
-forks_url: https://api.github.com/repos/sparkfun/SD_Sniffer/forks
-full_name: sparkfun/SD_Sniffer
-git_commits_url: https://api.github.com/repos/sparkfun/SD_Sniffer/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/SD_Sniffer/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/SD_Sniffer/git/tags{/sha}
-git_url: git://github.com/sparkfun/SD_Sniffer.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/SD_Sniffer/hooks
-html_url: https://github.com/sparkfun/SD_Sniffer
-id: 19075943
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/SD_Sniffer/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/SD_Sniffer/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/SD_Sniffer/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/SD_Sniffer/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/SD_Sniffer/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/SD_Sniffer/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/SD_Sniffer/merges
-milestones_url: https://api.github.com/repos/sparkfun/SD_Sniffer/milestones{/number}
-mirror_url: null
-name: SD_Sniffer
-node_id: MDEwOlJlcG9zaXRvcnkxOTA3NTk0Mw==
-notifications_url: https://api.github.com/repos/sparkfun/SD_Sniffer/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: SD_Sniffer
+  github_src: https://github.com/sparkfun/SD_Sniffer
+  github_src_repo: https://github.com/sparkfun/SD_Sniffer
+  oomp_bot: projects_sparkfun_sd_sniffer
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_sd_sniffer
+  oomp_doc: projects/projects_flat_sparkfun_sd_sniffer/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_sd_sniffer
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_sd_sniffer
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_sd_sniffer
+  oomp_src_folder: projects_flat\sparkfun_sd_sniffer\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_sd_sniffer\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_sd_sniffer
+oomp_key_simple: projects_flat_sparkfun_sd_sniffer
+projects_flat: projects_flat/sparkfun_sd_sniffer/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_sd_sniffer/version_current/working
 projects_folder: projects_folder/sparkfun/SD_Sniffer/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/SD_Sniffer/pulls{/number}
-pushed_at: '2014-07-03T16:36:11Z'
-releases_url: https://api.github.com/repos/sparkfun/SD_Sniffer/releases{/id}
-size: 283
-ssh_url: git@github.com:sparkfun/SD_Sniffer.git
-stargazers_count: 10
-stargazers_url: https://api.github.com/repos/sparkfun/SD_Sniffer/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/SD_Sniffer/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/SD_Sniffer/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/SD_Sniffer/subscription
-svn_url: https://github.com/sparkfun/SD_Sniffer
-tags_url: https://api.github.com/repos/sparkfun/SD_Sniffer/tags
-teams_url: https://api.github.com/repos/sparkfun/SD_Sniffer/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/SD_Sniffer/git/trees{/sha}
-updated_at: '2022-08-10T21:21:12Z'
-url: https://api.github.com/repos/sparkfun/SD_Sniffer
-visibility: public
-watchers: 10
-watchers_count: 10
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/SD_Sniffer/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/SD_Sniffer/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/SD_Sniffer/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/SD_Sniffer/branches{/branch}
+  clone_url: https://github.com/sparkfun/SD_Sniffer.git
+  collaborators_url: https://api.github.com/repos/sparkfun/SD_Sniffer/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/SD_Sniffer/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/SD_Sniffer/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/SD_Sniffer/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/SD_Sniffer/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/SD_Sniffer/contributors
+  created_at: '2014-04-23T15:57:16Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/SD_Sniffer/deployments
+  description: 'SD Sniffer available from SparkFun Electronics. '
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/SD_Sniffer/downloads
+  events_url: https://api.github.com/repos/sparkfun/SD_Sniffer/events
+  fork: false
+  forks: 4
+  forks_count: 4
+  forks_url: https://api.github.com/repos/sparkfun/SD_Sniffer/forks
+  full_name: sparkfun/SD_Sniffer
+  git_commits_url: https://api.github.com/repos/sparkfun/SD_Sniffer/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/SD_Sniffer/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/SD_Sniffer/git/tags{/sha}
+  git_url: git://github.com/sparkfun/SD_Sniffer.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/SD_Sniffer/hooks
+  html_url: https://github.com/sparkfun/SD_Sniffer
+  id: 19075943
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/SD_Sniffer/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/SD_Sniffer/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/SD_Sniffer/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/SD_Sniffer/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/SD_Sniffer/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/SD_Sniffer/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/SD_Sniffer/merges
+  milestones_url: https://api.github.com/repos/sparkfun/SD_Sniffer/milestones{/number}
+  mirror_url: null
+  name: SD_Sniffer
+  node_id: MDEwOlJlcG9zaXRvcnkxOTA3NTk0Mw==
+  notifications_url: https://api.github.com/repos/sparkfun/SD_Sniffer/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/SD_Sniffer/pulls{/number}
+  pushed_at: '2014-07-03T16:36:11Z'
+  releases_url: https://api.github.com/repos/sparkfun/SD_Sniffer/releases{/id}
+  size: 283
+  ssh_url: git@github.com:sparkfun/SD_Sniffer.git
+  stargazers_count: 10
+  stargazers_url: https://api.github.com/repos/sparkfun/SD_Sniffer/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/SD_Sniffer/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/SD_Sniffer/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/SD_Sniffer/subscription
+  svn_url: https://github.com/sparkfun/SD_Sniffer
+  tags_url: https://api.github.com/repos/sparkfun/SD_Sniffer/tags
+  teams_url: https://api.github.com/repos/sparkfun/SD_Sniffer/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/SD_Sniffer/git/trees{/sha}
+  updated_at: '2022-08-10T21:21:12Z'
+  url: https://api.github.com/repos/sparkfun/SD_Sniffer
+  visibility: public
+  watchers: 10
+  watchers_count: 10
+  web_commit_signoff_required: false

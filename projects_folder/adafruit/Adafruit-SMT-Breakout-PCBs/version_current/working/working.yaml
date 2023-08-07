@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/branches{/branch}
-clone_url: https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs.git
-collaborators_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/contributors
-created_at: '2015-04-28T17:22:02Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/deployments
-description: PCB files for Adafruit SMT Basic Breakouts
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/downloads
-events_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/events
-fork: false
-forks: 35
-forks_count: 35
-forks_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/forks
-full_name: adafruit/Adafruit-SMT-Breakout-PCBs
-git_commits_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/git/tags{/sha}
-git_url: git://github.com/adafruit/Adafruit-SMT-Breakout-PCBs.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: null
-hooks_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/hooks
-html_url: https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs
-id: 34745062
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/merges
-milestones_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/milestones{/number}
-mirror_url: null
-name: Adafruit-SMT-Breakout-PCBs
-node_id: MDEwOlJlcG9zaXRvcnkzNDc0NTA2Mg==
-notifications_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: Adafruit-SMT-Breakout-PCBs
+  github_src: https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs
+  github_src_repo: https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs
+  oomp_bot: adafruit_adafruit_smt_breakout_pcbs
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adafruit_adafruit_smt_breakout_pcbs
+  oomp_doc: projects/adafruit_adafruit_smt_breakout_pcbs/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adafruit_adafruit_smt_breakout_pcbs
+  oomp_src_flat: projects_flat/adafruit_adafruit_smt_breakout_pcbs
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adafruit_adafruit_smt_breakout_pcbs
+  oomp_src_folder: projects_folder\adafruit\Adafruit-SMT-Breakout-PCBs\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adafruit\Adafruit-SMT-Breakout-PCBs\version_current\working
+oomp_key: oomp_adafruit_adafruit_smt_breakout_pcbs
+oomp_key_simple: adafruit_adafruit_smt_breakout_pcbs
+projects_flat: projects_flat/adafruit_adafruit_smt_breakout_pcbs/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_smt_breakout_pcbs/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-SMT-Breakout-PCBs/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/pulls{/number}
-pushed_at: '2021-08-11T20:30:26Z'
-releases_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/releases{/id}
-size: 878
-ssh_url: git@github.com:adafruit/Adafruit-SMT-Breakout-PCBs.git
-stargazers_count: 56
-stargazers_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/stargazers
-statuses_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/subscribers
-subscription_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/subscription
-svn_url: https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs
-tags_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/tags
-teams_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/git/trees{/sha}
-updated_at: '2023-06-14T00:02:26Z'
-url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs
-visibility: public
-watchers: 56
-watchers_count: 56
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/branches{/branch}
+  clone_url: https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs.git
+  collaborators_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/contributors
+  created_at: '2015-04-28T17:22:02Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/deployments
+  description: PCB files for Adafruit SMT Basic Breakouts
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/downloads
+  events_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/events
+  fork: false
+  forks: 35
+  forks_count: 35
+  forks_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/forks
+  full_name: adafruit/Adafruit-SMT-Breakout-PCBs
+  git_commits_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/git/tags{/sha}
+  git_url: git://github.com/adafruit/Adafruit-SMT-Breakout-PCBs.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/hooks
+  html_url: https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs
+  id: 34745062
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/merges
+  milestones_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/milestones{/number}
+  mirror_url: null
+  name: Adafruit-SMT-Breakout-PCBs
+  node_id: MDEwOlJlcG9zaXRvcnkzNDc0NTA2Mg==
+  notifications_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/pulls{/number}
+  pushed_at: '2021-08-11T20:30:26Z'
+  releases_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/releases{/id}
+  size: 878
+  ssh_url: git@github.com:adafruit/Adafruit-SMT-Breakout-PCBs.git
+  stargazers_count: 56
+  stargazers_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/subscription
+  svn_url: https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs
+  tags_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/tags
+  teams_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs/git/trees{/sha}
+  updated_at: '2023-06-14T00:02:26Z'
+  url: https://api.github.com/repos/adafruit/Adafruit-SMT-Breakout-PCBs
+  visibility: public
+  watchers: 56
+  watchers_count: 56
+  web_commit_signoff_required: false

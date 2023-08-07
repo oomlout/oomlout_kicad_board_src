@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/mitaroThanken/GL516_Template/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/mitaroThanken/GL516_Template/assignees{/user}
-blobs_url: https://api.github.com/repos/mitaroThanken/GL516_Template/git/blobs{/sha}
-branches_url: https://api.github.com/repos/mitaroThanken/GL516_Template/branches{/branch}
-clone_url: https://github.com/mitaroThanken/GL516_Template.git
-collaborators_url: https://api.github.com/repos/mitaroThanken/GL516_Template/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/mitaroThanken/GL516_Template/comments{/number}
-commits_url: https://api.github.com/repos/mitaroThanken/GL516_Template/commits{/sha}
-compare_url: https://api.github.com/repos/mitaroThanken/GL516_Template/compare/{base}...{head}
-contents_url: https://api.github.com/repos/mitaroThanken/GL516_Template/contents/{+path}
-contributors_url: https://api.github.com/repos/mitaroThanken/GL516_Template/contributors
-created_at: '2022-01-09T12:49:38Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/mitaroThanken/GL516_Template/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/mitaroThanken/GL516_Template/downloads
-events_url: https://api.github.com/repos/mitaroThanken/GL516_Template/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/mitaroThanken/GL516_Template/forks
-full_name: mitaroThanken/GL516_Template
-git_commits_url: https://api.github.com/repos/mitaroThanken/GL516_Template/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/mitaroThanken/GL516_Template/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/mitaroThanken/GL516_Template/git/tags{/sha}
-git_url: git://github.com/mitaroThanken/GL516_Template.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/mitaroThanken/GL516_Template/hooks
-html_url: https://github.com/mitaroThanken/GL516_Template
-id: 446086643
-is_template: false
-issue_comment_url: https://api.github.com/repos/mitaroThanken/GL516_Template/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/mitaroThanken/GL516_Template/issues/events{/number}
-issues_url: https://api.github.com/repos/mitaroThanken/GL516_Template/issues{/number}
-keys_url: https://api.github.com/repos/mitaroThanken/GL516_Template/keys{/key_id}
-labels_url: https://api.github.com/repos/mitaroThanken/GL516_Template/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/mitaroThanken/GL516_Template/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/mitaroThanken/GL516_Template/merges
-milestones_url: https://api.github.com/repos/mitaroThanken/GL516_Template/milestones{/number}
-mirror_url: null
-name: GL516_Template
-node_id: R_kgDOGpa98w
-notifications_url: https://api.github.com/repos/mitaroThanken/GL516_Template/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/2104065?v=4
-  events_url: https://api.github.com/users/mitaroThanken/events{/privacy}
-  followers_url: https://api.github.com/users/mitaroThanken/followers
-  following_url: https://api.github.com/users/mitaroThanken/following{/other_user}
-  gists_url: https://api.github.com/users/mitaroThanken/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/mitaroThanken
-  id: 2104065
-  login: mitaroThanken
-  node_id: MDQ6VXNlcjIxMDQwNjU=
-  organizations_url: https://api.github.com/users/mitaroThanken/orgs
-  received_events_url: https://api.github.com/users/mitaroThanken/received_events
-  repos_url: https://api.github.com/users/mitaroThanken/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/mitaroThanken/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/mitaroThanken/subscriptions
-  type: User
-  url: https://api.github.com/users/mitaroThanken
-private: false
+links:
+  github_owner: mitaroThanken
+  github_repo_name: GL516_Template
+  github_src: https://github.com/mitaroThanken/GL516_Template
+  github_src_repo: https://github.com/mitaroThanken/GL516_Template
+  oomp_bot: projects_mitarothanken_gl516_template
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_mitarothanken_gl516_template
+  oomp_doc: projects/projects_flat_mitarothanken_gl516_template/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_mitarothanken_gl516_template
+  oomp_src_flat: projects_flat/projects_flat_mitarothanken_gl516_template
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_mitarothanken_gl516_template
+  oomp_src_folder: projects_flat\mitarothanken_gl516_template\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\mitarothanken_gl516_template\version_current\working
+oomp_key: oomp_projects_flat_mitarothanken_gl516_template
+oomp_key_simple: projects_flat_mitarothanken_gl516_template
 projects_flat: projects_flat/mitarothanken_gl516_template/version_current/working
 projects_folder: projects_folder/mitaroThanken/GL516_Template/version_current/working
-pulls_url: https://api.github.com/repos/mitaroThanken/GL516_Template/pulls{/number}
-pushed_at: '2022-01-09T18:19:43Z'
-releases_url: https://api.github.com/repos/mitaroThanken/GL516_Template/releases{/id}
-size: 1271
-ssh_url: git@github.com:mitaroThanken/GL516_Template.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/mitaroThanken/GL516_Template/stargazers
-statuses_url: https://api.github.com/repos/mitaroThanken/GL516_Template/statuses/{sha}
-subscribers_url: https://api.github.com/repos/mitaroThanken/GL516_Template/subscribers
-subscription_url: https://api.github.com/repos/mitaroThanken/GL516_Template/subscription
-svn_url: https://github.com/mitaroThanken/GL516_Template
-tags_url: https://api.github.com/repos/mitaroThanken/GL516_Template/tags
-teams_url: https://api.github.com/repos/mitaroThanken/GL516_Template/teams
-topics: []
-trees_url: https://api.github.com/repos/mitaroThanken/GL516_Template/git/trees{/sha}
-updated_at: '2022-01-09T12:49:39Z'
-url: https://api.github.com/repos/mitaroThanken/GL516_Template
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/mitaroThanken/GL516_Template/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/mitaroThanken/GL516_Template/assignees{/user}
+  blobs_url: https://api.github.com/repos/mitaroThanken/GL516_Template/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/mitaroThanken/GL516_Template/branches{/branch}
+  clone_url: https://github.com/mitaroThanken/GL516_Template.git
+  collaborators_url: https://api.github.com/repos/mitaroThanken/GL516_Template/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/mitaroThanken/GL516_Template/comments{/number}
+  commits_url: https://api.github.com/repos/mitaroThanken/GL516_Template/commits{/sha}
+  compare_url: https://api.github.com/repos/mitaroThanken/GL516_Template/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/mitaroThanken/GL516_Template/contents/{+path}
+  contributors_url: https://api.github.com/repos/mitaroThanken/GL516_Template/contributors
+  created_at: '2022-01-09T12:49:38Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/mitaroThanken/GL516_Template/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/mitaroThanken/GL516_Template/downloads
+  events_url: https://api.github.com/repos/mitaroThanken/GL516_Template/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/mitaroThanken/GL516_Template/forks
+  full_name: mitaroThanken/GL516_Template
+  git_commits_url: https://api.github.com/repos/mitaroThanken/GL516_Template/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/mitaroThanken/GL516_Template/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/mitaroThanken/GL516_Template/git/tags{/sha}
+  git_url: git://github.com/mitaroThanken/GL516_Template.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/mitaroThanken/GL516_Template/hooks
+  html_url: https://github.com/mitaroThanken/GL516_Template
+  id: 446086643
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/mitaroThanken/GL516_Template/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/mitaroThanken/GL516_Template/issues/events{/number}
+  issues_url: https://api.github.com/repos/mitaroThanken/GL516_Template/issues{/number}
+  keys_url: https://api.github.com/repos/mitaroThanken/GL516_Template/keys{/key_id}
+  labels_url: https://api.github.com/repos/mitaroThanken/GL516_Template/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/mitaroThanken/GL516_Template/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/mitaroThanken/GL516_Template/merges
+  milestones_url: https://api.github.com/repos/mitaroThanken/GL516_Template/milestones{/number}
+  mirror_url: null
+  name: GL516_Template
+  node_id: R_kgDOGpa98w
+  notifications_url: https://api.github.com/repos/mitaroThanken/GL516_Template/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/2104065?v=4
+    events_url: https://api.github.com/users/mitaroThanken/events{/privacy}
+    followers_url: https://api.github.com/users/mitaroThanken/followers
+    following_url: https://api.github.com/users/mitaroThanken/following{/other_user}
+    gists_url: https://api.github.com/users/mitaroThanken/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/mitaroThanken
+    id: 2104065
+    login: mitaroThanken
+    node_id: MDQ6VXNlcjIxMDQwNjU=
+    organizations_url: https://api.github.com/users/mitaroThanken/orgs
+    received_events_url: https://api.github.com/users/mitaroThanken/received_events
+    repos_url: https://api.github.com/users/mitaroThanken/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/mitaroThanken/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/mitaroThanken/subscriptions
+    type: User
+    url: https://api.github.com/users/mitaroThanken
+  private: false
+  pulls_url: https://api.github.com/repos/mitaroThanken/GL516_Template/pulls{/number}
+  pushed_at: '2022-01-09T18:19:43Z'
+  releases_url: https://api.github.com/repos/mitaroThanken/GL516_Template/releases{/id}
+  size: 1271
+  ssh_url: git@github.com:mitaroThanken/GL516_Template.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/mitaroThanken/GL516_Template/stargazers
+  statuses_url: https://api.github.com/repos/mitaroThanken/GL516_Template/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/mitaroThanken/GL516_Template/subscribers
+  subscription_url: https://api.github.com/repos/mitaroThanken/GL516_Template/subscription
+  svn_url: https://github.com/mitaroThanken/GL516_Template
+  tags_url: https://api.github.com/repos/mitaroThanken/GL516_Template/tags
+  teams_url: https://api.github.com/repos/mitaroThanken/GL516_Template/teams
+  topics: []
+  trees_url: https://api.github.com/repos/mitaroThanken/GL516_Template/git/trees{/sha}
+  updated_at: '2022-01-09T12:49:39Z'
+  url: https://api.github.com/repos/mitaroThanken/GL516_Template
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

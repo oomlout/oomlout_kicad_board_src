@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adamgreig/m3-avionics/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adamgreig/m3-avionics/assignees{/user}
-blobs_url: https://api.github.com/repos/adamgreig/m3-avionics/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adamgreig/m3-avionics/branches{/branch}
-clone_url: https://github.com/adamgreig/m3-avionics.git
-collaborators_url: https://api.github.com/repos/adamgreig/m3-avionics/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adamgreig/m3-avionics/comments{/number}
-commits_url: https://api.github.com/repos/adamgreig/m3-avionics/commits{/sha}
-compare_url: https://api.github.com/repos/adamgreig/m3-avionics/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adamgreig/m3-avionics/contents/{+path}
-contributors_url: https://api.github.com/repos/adamgreig/m3-avionics/contributors
-created_at: '2017-10-28T03:32:43Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adamgreig/m3-avionics/deployments
-description: Martlet 3 Avionics
-disabled: false
-downloads_url: https://api.github.com/repos/adamgreig/m3-avionics/downloads
-events_url: https://api.github.com/repos/adamgreig/m3-avionics/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/adamgreig/m3-avionics/forks
-full_name: adamgreig/m3-avionics
-git_commits_url: https://api.github.com/repos/adamgreig/m3-avionics/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adamgreig/m3-avionics/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adamgreig/m3-avionics/git/tags{/sha}
-git_url: git://github.com/adamgreig/m3-avionics.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adamgreig/m3-avionics/hooks
-html_url: https://github.com/adamgreig/m3-avionics
-id: 108616855
-is_template: false
-issue_comment_url: https://api.github.com/repos/adamgreig/m3-avionics/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adamgreig/m3-avionics/issues/events{/number}
-issues_url: https://api.github.com/repos/adamgreig/m3-avionics/issues{/number}
-keys_url: https://api.github.com/repos/adamgreig/m3-avionics/keys{/key_id}
-labels_url: https://api.github.com/repos/adamgreig/m3-avionics/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/adamgreig/m3-avionics/languages
-license: null
-merges_url: https://api.github.com/repos/adamgreig/m3-avionics/merges
-milestones_url: https://api.github.com/repos/adamgreig/m3-avionics/milestones{/number}
-mirror_url: null
-name: m3-avionics
-node_id: MDEwOlJlcG9zaXRvcnkxMDg2MTY4NTU=
-notifications_url: https://api.github.com/repos/adamgreig/m3-avionics/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/47219?v=4
-  events_url: https://api.github.com/users/adamgreig/events{/privacy}
-  followers_url: https://api.github.com/users/adamgreig/followers
-  following_url: https://api.github.com/users/adamgreig/following{/other_user}
-  gists_url: https://api.github.com/users/adamgreig/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adamgreig
-  id: 47219
-  login: adamgreig
-  node_id: MDQ6VXNlcjQ3MjE5
-  organizations_url: https://api.github.com/users/adamgreig/orgs
-  received_events_url: https://api.github.com/users/adamgreig/received_events
-  repos_url: https://api.github.com/users/adamgreig/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adamgreig/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adamgreig/subscriptions
-  type: User
-  url: https://api.github.com/users/adamgreig
-private: false
+links:
+  github_owner: adamgreig
+  github_repo_name: m3-avionics
+  github_src: https://github.com/adamgreig/m3-avionics
+  github_src_repo: https://github.com/adamgreig/m3-avionics
+  oomp_bot: projects_adamgreig_m3_avionics
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_adamgreig_m3_avionics
+  oomp_doc: projects/projects_flat_adamgreig_m3_avionics/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_adamgreig_m3_avionics
+  oomp_src_flat: projects_flat/projects_flat_adamgreig_m3_avionics
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_adamgreig_m3_avionics
+  oomp_src_folder: projects_flat\adamgreig_m3_avionics\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adamgreig_m3_avionics\version_current\working
+oomp_key: oomp_projects_flat_adamgreig_m3_avionics
+oomp_key_simple: projects_flat_adamgreig_m3_avionics
 projects_flat: projects_flat/adamgreig_m3_avionics/version_current/working
 projects_folder: projects_folder/adamgreig/m3-avionics/version_current/working
-pulls_url: https://api.github.com/repos/adamgreig/m3-avionics/pulls{/number}
-pushed_at: '2017-10-28T03:32:18Z'
-releases_url: https://api.github.com/repos/adamgreig/m3-avionics/releases{/id}
-size: 94318
-ssh_url: git@github.com:adamgreig/m3-avionics.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/adamgreig/m3-avionics/stargazers
-statuses_url: https://api.github.com/repos/adamgreig/m3-avionics/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adamgreig/m3-avionics/subscribers
-subscription_url: https://api.github.com/repos/adamgreig/m3-avionics/subscription
-svn_url: https://github.com/adamgreig/m3-avionics
-tags_url: https://api.github.com/repos/adamgreig/m3-avionics/tags
-teams_url: https://api.github.com/repos/adamgreig/m3-avionics/teams
-topics: []
-trees_url: https://api.github.com/repos/adamgreig/m3-avionics/git/trees{/sha}
-updated_at: '2019-02-19T06:20:31Z'
-url: https://api.github.com/repos/adamgreig/m3-avionics
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adamgreig/m3-avionics/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adamgreig/m3-avionics/assignees{/user}
+  blobs_url: https://api.github.com/repos/adamgreig/m3-avionics/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adamgreig/m3-avionics/branches{/branch}
+  clone_url: https://github.com/adamgreig/m3-avionics.git
+  collaborators_url: https://api.github.com/repos/adamgreig/m3-avionics/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adamgreig/m3-avionics/comments{/number}
+  commits_url: https://api.github.com/repos/adamgreig/m3-avionics/commits{/sha}
+  compare_url: https://api.github.com/repos/adamgreig/m3-avionics/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adamgreig/m3-avionics/contents/{+path}
+  contributors_url: https://api.github.com/repos/adamgreig/m3-avionics/contributors
+  created_at: '2017-10-28T03:32:43Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adamgreig/m3-avionics/deployments
+  description: Martlet 3 Avionics
+  disabled: false
+  downloads_url: https://api.github.com/repos/adamgreig/m3-avionics/downloads
+  events_url: https://api.github.com/repos/adamgreig/m3-avionics/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/adamgreig/m3-avionics/forks
+  full_name: adamgreig/m3-avionics
+  git_commits_url: https://api.github.com/repos/adamgreig/m3-avionics/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adamgreig/m3-avionics/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adamgreig/m3-avionics/git/tags{/sha}
+  git_url: git://github.com/adamgreig/m3-avionics.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adamgreig/m3-avionics/hooks
+  html_url: https://github.com/adamgreig/m3-avionics
+  id: 108616855
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adamgreig/m3-avionics/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adamgreig/m3-avionics/issues/events{/number}
+  issues_url: https://api.github.com/repos/adamgreig/m3-avionics/issues{/number}
+  keys_url: https://api.github.com/repos/adamgreig/m3-avionics/keys{/key_id}
+  labels_url: https://api.github.com/repos/adamgreig/m3-avionics/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/adamgreig/m3-avionics/languages
+  license: null
+  merges_url: https://api.github.com/repos/adamgreig/m3-avionics/merges
+  milestones_url: https://api.github.com/repos/adamgreig/m3-avionics/milestones{/number}
+  mirror_url: null
+  name: m3-avionics
+  node_id: MDEwOlJlcG9zaXRvcnkxMDg2MTY4NTU=
+  notifications_url: https://api.github.com/repos/adamgreig/m3-avionics/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/47219?v=4
+    events_url: https://api.github.com/users/adamgreig/events{/privacy}
+    followers_url: https://api.github.com/users/adamgreig/followers
+    following_url: https://api.github.com/users/adamgreig/following{/other_user}
+    gists_url: https://api.github.com/users/adamgreig/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adamgreig
+    id: 47219
+    login: adamgreig
+    node_id: MDQ6VXNlcjQ3MjE5
+    organizations_url: https://api.github.com/users/adamgreig/orgs
+    received_events_url: https://api.github.com/users/adamgreig/received_events
+    repos_url: https://api.github.com/users/adamgreig/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adamgreig/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adamgreig/subscriptions
+    type: User
+    url: https://api.github.com/users/adamgreig
+  private: false
+  pulls_url: https://api.github.com/repos/adamgreig/m3-avionics/pulls{/number}
+  pushed_at: '2017-10-28T03:32:18Z'
+  releases_url: https://api.github.com/repos/adamgreig/m3-avionics/releases{/id}
+  size: 94318
+  ssh_url: git@github.com:adamgreig/m3-avionics.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/adamgreig/m3-avionics/stargazers
+  statuses_url: https://api.github.com/repos/adamgreig/m3-avionics/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adamgreig/m3-avionics/subscribers
+  subscription_url: https://api.github.com/repos/adamgreig/m3-avionics/subscription
+  svn_url: https://github.com/adamgreig/m3-avionics
+  tags_url: https://api.github.com/repos/adamgreig/m3-avionics/tags
+  teams_url: https://api.github.com/repos/adamgreig/m3-avionics/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adamgreig/m3-avionics/git/trees{/sha}
+  updated_at: '2019-02-19T06:20:31Z'
+  url: https://api.github.com/repos/adamgreig/m3-avionics
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

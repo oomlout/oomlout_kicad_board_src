@@ -1,110 +1,127 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/branches{/branch}
-clone_url: https://github.com/sparkfun/XBee_Explorer_Serial.git
-collaborators_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/contributors
-created_at: '2014-11-07T19:15:05Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/deployments
-description: 'XBee RS232 Explorer, created by and available from SparkFun Electronics. '
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/downloads
-events_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_xbee_explorer_serial/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/XBee_Explorer_Serial/version_current/working/working.brd
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/forks
-full_name: sparkfun/XBee_Explorer_Serial
-git_commits_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/git/tags{/sha}
-git_url: git://github.com/sparkfun/XBee_Explorer_Serial.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/hooks
-html_url: https://github.com/sparkfun/XBee_Explorer_Serial
-id: 26333995
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/merges
-milestones_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/milestones{/number}
-mirror_url: null
-name: XBee_Explorer_Serial
-node_id: MDEwOlJlcG9zaXRvcnkyNjMzMzk5NQ==
-notifications_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: XBee_Explorer_Serial
+  github_src: https://github.com/sparkfun/XBee_Explorer_Serial
+  github_src_repo: https://github.com/sparkfun/XBee_Explorer_Serial
+  oomp_bot: projects_sparkfun_xbee_explorer_serial
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_xbee_explorer_serial
+  oomp_doc: projects/projects_flat_sparkfun_xbee_explorer_serial/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_xbee_explorer_serial
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_xbee_explorer_serial
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_xbee_explorer_serial
+  oomp_src_folder: projects_flat\sparkfun_xbee_explorer_serial\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_xbee_explorer_serial\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_xbee_explorer_serial
+oomp_key_simple: projects_flat_sparkfun_xbee_explorer_serial
+projects_flat: projects_flat/sparkfun_xbee_explorer_serial/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_xbee_explorer_serial/version_current/working
 projects_folder: projects_folder/sparkfun/XBee_Explorer_Serial/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/pulls{/number}
-pushed_at: '2019-04-16T20:39:47Z'
-releases_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/releases{/id}
-size: 499
-ssh_url: git@github.com:sparkfun/XBee_Explorer_Serial.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/subscription
-svn_url: https://github.com/sparkfun/XBee_Explorer_Serial
-tags_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/tags
-teams_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/teams
-topics:
-- rs232
-- serial
-- sparkfun-products
-- xbee
-trees_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/git/trees{/sha}
-updated_at: '2019-04-16T20:39:48Z'
-url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/branches{/branch}
+  clone_url: https://github.com/sparkfun/XBee_Explorer_Serial.git
+  collaborators_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/contributors
+  created_at: '2014-11-07T19:15:05Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/deployments
+  description: 'XBee RS232 Explorer, created by and available from SparkFun Electronics. '
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/downloads
+  events_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/forks
+  full_name: sparkfun/XBee_Explorer_Serial
+  git_commits_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/git/tags{/sha}
+  git_url: git://github.com/sparkfun/XBee_Explorer_Serial.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/hooks
+  html_url: https://github.com/sparkfun/XBee_Explorer_Serial
+  id: 26333995
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/merges
+  milestones_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/milestones{/number}
+  mirror_url: null
+  name: XBee_Explorer_Serial
+  node_id: MDEwOlJlcG9zaXRvcnkyNjMzMzk5NQ==
+  notifications_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/pulls{/number}
+  pushed_at: '2019-04-16T20:39:47Z'
+  releases_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/releases{/id}
+  size: 499
+  ssh_url: git@github.com:sparkfun/XBee_Explorer_Serial.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/subscription
+  svn_url: https://github.com/sparkfun/XBee_Explorer_Serial
+  tags_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/tags
+  teams_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/teams
+  topics:
+  - rs232
+  - serial
+  - sparkfun-products
+  - xbee
+  trees_url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial/git/trees{/sha}
+  updated_at: '2019-04-16T20:39:48Z'
+  url: https://api.github.com/repos/sparkfun/XBee_Explorer_Serial
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

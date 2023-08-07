@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/oomlout/minik/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/oomlout/minik/assignees{/user}
-blobs_url: https://api.github.com/repos/oomlout/minik/git/blobs{/sha}
-branches_url: https://api.github.com/repos/oomlout/minik/branches{/branch}
-clone_url: https://github.com/oomlout/minik.git
-collaborators_url: https://api.github.com/repos/oomlout/minik/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/oomlout/minik/comments{/number}
-commits_url: https://api.github.com/repos/oomlout/minik/commits{/sha}
-compare_url: https://api.github.com/repos/oomlout/minik/compare/{base}...{head}
-contents_url: https://api.github.com/repos/oomlout/minik/contents/{+path}
-contributors_url: https://api.github.com/repos/oomlout/minik/contributors
-created_at: '2023-07-23T21:36:09Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/oomlout/minik/deployments
-description: A tiny RP2040 module for small embedded things
-disabled: false
-downloads_url: https://api.github.com/repos/oomlout/minik/downloads
-events_url: https://api.github.com/repos/oomlout/minik/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/oomlout/minik/forks
-full_name: oomlout/minik
-git_commits_url: https://api.github.com/repos/oomlout/minik/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/oomlout/minik/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/oomlout/minik/git/tags{/sha}
-git_url: git://github.com/oomlout/minik.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: null
-hooks_url: https://api.github.com/repos/oomlout/minik/hooks
-html_url: https://github.com/oomlout/minik
-id: 669922344
-is_template: false
-issue_comment_url: https://api.github.com/repos/oomlout/minik/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/oomlout/minik/issues/events{/number}
-issues_url: https://api.github.com/repos/oomlout/minik/issues{/number}
-keys_url: https://api.github.com/repos/oomlout/minik/keys{/key_id}
-labels_url: https://api.github.com/repos/oomlout/minik/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/oomlout/minik/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/oomlout/minik/merges
-milestones_url: https://api.github.com/repos/oomlout/minik/milestones{/number}
-mirror_url: null
-name: minik
-node_id: R_kgDOJ-40KA
-notifications_url: https://api.github.com/repos/oomlout/minik/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/139793?v=4
-  events_url: https://api.github.com/users/oomlout/events{/privacy}
-  followers_url: https://api.github.com/users/oomlout/followers
-  following_url: https://api.github.com/users/oomlout/following{/other_user}
-  gists_url: https://api.github.com/users/oomlout/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/oomlout
-  id: 139793
-  login: oomlout
-  node_id: MDQ6VXNlcjEzOTc5Mw==
-  organizations_url: https://api.github.com/users/oomlout/orgs
-  received_events_url: https://api.github.com/users/oomlout/received_events
-  repos_url: https://api.github.com/users/oomlout/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/oomlout/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/oomlout/subscriptions
-  type: User
-  url: https://api.github.com/users/oomlout
-private: false
+links:
+  github_owner: oomlout
+  github_repo_name: minik
+  github_src: https://github.com/oomlout/minik
+  github_src_repo: https://github.com/oomlout/minik
+  oomp_bot: oomlout_minik
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/oomlout_minik
+  oomp_doc: projects/oomlout_minik/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/oomlout_minik
+  oomp_src_flat: projects_flat/oomlout_minik
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/oomlout_minik
+  oomp_src_folder: projects_folder\oomlout\minik\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\oomlout\minik\version_current\working
+oomp_key: oomp_oomlout_minik
+oomp_key_simple: oomlout_minik
 projects_flat: projects_flat/oomlout_minik/version_current/working
 projects_folder: projects_folder/oomlout/minik/version_current/working
-pulls_url: https://api.github.com/repos/oomlout/minik/pulls{/number}
-pushed_at: '2023-07-23T22:04:46Z'
-releases_url: https://api.github.com/repos/oomlout/minik/releases{/id}
-size: 2158
-ssh_url: git@github.com:oomlout/minik.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/oomlout/minik/stargazers
-statuses_url: https://api.github.com/repos/oomlout/minik/statuses/{sha}
-subscribers_url: https://api.github.com/repos/oomlout/minik/subscribers
-subscription_url: https://api.github.com/repos/oomlout/minik/subscription
-svn_url: https://github.com/oomlout/minik
-tags_url: https://api.github.com/repos/oomlout/minik/tags
-teams_url: https://api.github.com/repos/oomlout/minik/teams
-topics: []
-trees_url: https://api.github.com/repos/oomlout/minik/git/trees{/sha}
-updated_at: '2023-07-23T21:36:09Z'
-url: https://api.github.com/repos/oomlout/minik
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/oomlout/minik/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/oomlout/minik/assignees{/user}
+  blobs_url: https://api.github.com/repos/oomlout/minik/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/oomlout/minik/branches{/branch}
+  clone_url: https://github.com/oomlout/minik.git
+  collaborators_url: https://api.github.com/repos/oomlout/minik/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/oomlout/minik/comments{/number}
+  commits_url: https://api.github.com/repos/oomlout/minik/commits{/sha}
+  compare_url: https://api.github.com/repos/oomlout/minik/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/oomlout/minik/contents/{+path}
+  contributors_url: https://api.github.com/repos/oomlout/minik/contributors
+  created_at: '2023-07-23T21:36:09Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/oomlout/minik/deployments
+  description: A tiny RP2040 module for small embedded things
+  disabled: false
+  downloads_url: https://api.github.com/repos/oomlout/minik/downloads
+  events_url: https://api.github.com/repos/oomlout/minik/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/oomlout/minik/forks
+  full_name: oomlout/minik
+  git_commits_url: https://api.github.com/repos/oomlout/minik/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/oomlout/minik/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/oomlout/minik/git/tags{/sha}
+  git_url: git://github.com/oomlout/minik.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/oomlout/minik/hooks
+  html_url: https://github.com/oomlout/minik
+  id: 669922344
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/oomlout/minik/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/oomlout/minik/issues/events{/number}
+  issues_url: https://api.github.com/repos/oomlout/minik/issues{/number}
+  keys_url: https://api.github.com/repos/oomlout/minik/keys{/key_id}
+  labels_url: https://api.github.com/repos/oomlout/minik/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/oomlout/minik/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/oomlout/minik/merges
+  milestones_url: https://api.github.com/repos/oomlout/minik/milestones{/number}
+  mirror_url: null
+  name: minik
+  node_id: R_kgDOJ-40KA
+  notifications_url: https://api.github.com/repos/oomlout/minik/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/139793?v=4
+    events_url: https://api.github.com/users/oomlout/events{/privacy}
+    followers_url: https://api.github.com/users/oomlout/followers
+    following_url: https://api.github.com/users/oomlout/following{/other_user}
+    gists_url: https://api.github.com/users/oomlout/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/oomlout
+    id: 139793
+    login: oomlout
+    node_id: MDQ6VXNlcjEzOTc5Mw==
+    organizations_url: https://api.github.com/users/oomlout/orgs
+    received_events_url: https://api.github.com/users/oomlout/received_events
+    repos_url: https://api.github.com/users/oomlout/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/oomlout/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/oomlout/subscriptions
+    type: User
+    url: https://api.github.com/users/oomlout
+  private: false
+  pulls_url: https://api.github.com/repos/oomlout/minik/pulls{/number}
+  pushed_at: '2023-07-23T22:04:46Z'
+  releases_url: https://api.github.com/repos/oomlout/minik/releases{/id}
+  size: 2158
+  ssh_url: git@github.com:oomlout/minik.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/oomlout/minik/stargazers
+  statuses_url: https://api.github.com/repos/oomlout/minik/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/oomlout/minik/subscribers
+  subscription_url: https://api.github.com/repos/oomlout/minik/subscription
+  svn_url: https://github.com/oomlout/minik
+  tags_url: https://api.github.com/repos/oomlout/minik/tags
+  teams_url: https://api.github.com/repos/oomlout/minik/teams
+  topics: []
+  trees_url: https://api.github.com/repos/oomlout/minik/git/trees{/sha}
+  updated_at: '2023-07-23T21:36:09Z'
+  url: https://api.github.com/repos/oomlout/minik
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

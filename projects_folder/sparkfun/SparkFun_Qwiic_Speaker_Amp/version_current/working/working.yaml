@@ -1,105 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/branches{/branch}
-clone_url: https://github.com/sparkfun/SparkFun_Qwiic_Speaker_Amp.git
-collaborators_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/contributors
-created_at: '2022-08-05T15:45:47Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/deployments
-description: A Qwiic-enabled breakout board for the Texas Instruments TPA2026D2 2.8W
-  per channel Class-D stereo audio amp.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/downloads
-events_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/forks
-full_name: sparkfun/SparkFun_Qwiic_Speaker_Amp
-git_commits_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/git/tags{/sha}
-git_url: git://github.com/sparkfun/SparkFun_Qwiic_Speaker_Amp.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/hooks
-html_url: https://github.com/sparkfun/SparkFun_Qwiic_Speaker_Amp
-id: 521693834
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/merges
-milestones_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/milestones{/number}
-mirror_url: null
-name: SparkFun_Qwiic_Speaker_Amp
-node_id: R_kgDOHxhqig
-notifications_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: SparkFun_Qwiic_Speaker_Amp
+  github_src: https://github.com/sparkfun/SparkFun_Qwiic_Speaker_Amp
+  github_src_repo: https://github.com/sparkfun/SparkFun_Qwiic_Speaker_Amp
+  oomp_bot: sparkfun_sparkfun_qwiic_speaker_amp
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_sparkfun_qwiic_speaker_amp
+  oomp_doc: projects/sparkfun_sparkfun_qwiic_speaker_amp/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_sparkfun_qwiic_speaker_amp
+  oomp_src_flat: projects_flat/sparkfun_sparkfun_qwiic_speaker_amp
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_sparkfun_qwiic_speaker_amp
+  oomp_src_folder: projects_folder\sparkfun\SparkFun_Qwiic_Speaker_Amp\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\SparkFun_Qwiic_Speaker_Amp\version_current\working
+oomp_key: oomp_sparkfun_sparkfun_qwiic_speaker_amp
+oomp_key_simple: sparkfun_sparkfun_qwiic_speaker_amp
+projects_flat: projects_flat/sparkfun_sparkfun_qwiic_speaker_amp/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_sparkfun_qwiic_speaker_amp/version_current/working
 projects_folder: projects_folder/sparkfun/SparkFun_Qwiic_Speaker_Amp/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/pulls{/number}
-pushed_at: '2023-02-04T02:00:14Z'
-releases_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/releases{/id}
-size: 5876
-ssh_url: git@github.com:sparkfun/SparkFun_Qwiic_Speaker_Amp.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/subscription
-svn_url: https://github.com/sparkfun/SparkFun_Qwiic_Speaker_Amp
-tags_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/tags
-teams_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/git/trees{/sha}
-updated_at: '2022-09-29T21:49:16Z'
-url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/branches{/branch}
+  clone_url: https://github.com/sparkfun/SparkFun_Qwiic_Speaker_Amp.git
+  collaborators_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/contributors
+  created_at: '2022-08-05T15:45:47Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/deployments
+  description: A Qwiic-enabled breakout board for the Texas Instruments TPA2026D2
+    2.8W per channel Class-D stereo audio amp.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/downloads
+  events_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/forks
+  full_name: sparkfun/SparkFun_Qwiic_Speaker_Amp
+  git_commits_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/git/tags{/sha}
+  git_url: git://github.com/sparkfun/SparkFun_Qwiic_Speaker_Amp.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/hooks
+  html_url: https://github.com/sparkfun/SparkFun_Qwiic_Speaker_Amp
+  id: 521693834
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/merges
+  milestones_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/milestones{/number}
+  mirror_url: null
+  name: SparkFun_Qwiic_Speaker_Amp
+  node_id: R_kgDOHxhqig
+  notifications_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/pulls{/number}
+  pushed_at: '2023-02-04T02:00:14Z'
+  releases_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/releases{/id}
+  size: 5876
+  ssh_url: git@github.com:sparkfun/SparkFun_Qwiic_Speaker_Amp.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/subscription
+  svn_url: https://github.com/sparkfun/SparkFun_Qwiic_Speaker_Amp
+  tags_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/tags
+  teams_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp/git/trees{/sha}
+  updated_at: '2022-09-29T21:49:16Z'
+  url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Speaker_Amp
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

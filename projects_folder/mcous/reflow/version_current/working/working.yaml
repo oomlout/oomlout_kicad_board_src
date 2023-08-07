@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/mcous/reflow/{archive_format}{/ref}
-archived: true
-assignees_url: https://api.github.com/repos/mcous/reflow/assignees{/user}
-blobs_url: https://api.github.com/repos/mcous/reflow/git/blobs{/sha}
-branches_url: https://api.github.com/repos/mcous/reflow/branches{/branch}
-clone_url: https://github.com/mcous/reflow.git
-collaborators_url: https://api.github.com/repos/mcous/reflow/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/mcous/reflow/comments{/number}
-commits_url: https://api.github.com/repos/mcous/reflow/commits{/sha}
-compare_url: https://api.github.com/repos/mcous/reflow/compare/{base}...{head}
-contents_url: https://api.github.com/repos/mcous/reflow/contents/{+path}
-contributors_url: https://api.github.com/repos/mcous/reflow/contributors
-created_at: '2013-11-02T21:29:29Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/mcous/reflow/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/mcous/reflow/downloads
-events_url: https://api.github.com/repos/mcous/reflow/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/mcous/reflow/forks
-full_name: mcous/reflow
-git_commits_url: https://api.github.com/repos/mcous/reflow/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/mcous/reflow/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/mcous/reflow/git/tags{/sha}
-git_url: git://github.com/mcous/reflow.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/mcous/reflow/hooks
-html_url: https://github.com/mcous/reflow
-id: 14075335
-is_template: false
-issue_comment_url: https://api.github.com/repos/mcous/reflow/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/mcous/reflow/issues/events{/number}
-issues_url: https://api.github.com/repos/mcous/reflow/issues{/number}
-keys_url: https://api.github.com/repos/mcous/reflow/keys{/key_id}
-labels_url: https://api.github.com/repos/mcous/reflow/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/mcous/reflow/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/mcous/reflow/merges
-milestones_url: https://api.github.com/repos/mcous/reflow/milestones{/number}
-mirror_url: null
-name: reflow
-node_id: MDEwOlJlcG9zaXRvcnkxNDA3NTMzNQ==
-notifications_url: https://api.github.com/repos/mcous/reflow/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/2963448?v=4
-  events_url: https://api.github.com/users/mcous/events{/privacy}
-  followers_url: https://api.github.com/users/mcous/followers
-  following_url: https://api.github.com/users/mcous/following{/other_user}
-  gists_url: https://api.github.com/users/mcous/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/mcous
-  id: 2963448
-  login: mcous
-  node_id: MDQ6VXNlcjI5NjM0NDg=
-  organizations_url: https://api.github.com/users/mcous/orgs
-  received_events_url: https://api.github.com/users/mcous/received_events
-  repos_url: https://api.github.com/users/mcous/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/mcous/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/mcous/subscriptions
-  type: User
-  url: https://api.github.com/users/mcous
-private: false
+links:
+  github_owner: mcous
+  github_repo_name: reflow
+  github_src: https://github.com/mcous/reflow
+  github_src_repo: https://github.com/mcous/reflow
+  oomp_bot: mcous_reflow
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/mcous_reflow
+  oomp_doc: projects/mcous_reflow/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/mcous_reflow
+  oomp_src_flat: projects_flat/mcous_reflow
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/mcous_reflow
+  oomp_src_folder: projects_folder\mcous\reflow\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\mcous\reflow\version_current\working
+oomp_key: oomp_mcous_reflow
+oomp_key_simple: mcous_reflow
 projects_flat: projects_flat/mcous_reflow/version_current/working
 projects_folder: projects_folder/mcous/reflow/version_current/working
-pulls_url: https://api.github.com/repos/mcous/reflow/pulls{/number}
-pushed_at: '2014-06-05T01:06:48Z'
-releases_url: https://api.github.com/repos/mcous/reflow/releases{/id}
-size: 1040
-ssh_url: git@github.com:mcous/reflow.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/mcous/reflow/stargazers
-statuses_url: https://api.github.com/repos/mcous/reflow/statuses/{sha}
-subscribers_url: https://api.github.com/repos/mcous/reflow/subscribers
-subscription_url: https://api.github.com/repos/mcous/reflow/subscription
-svn_url: https://github.com/mcous/reflow
-tags_url: https://api.github.com/repos/mcous/reflow/tags
-teams_url: https://api.github.com/repos/mcous/reflow/teams
-topics: []
-trees_url: https://api.github.com/repos/mcous/reflow/git/trees{/sha}
-updated_at: '2023-01-28T09:23:57Z'
-url: https://api.github.com/repos/mcous/reflow
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/mcous/reflow/{archive_format}{/ref}
+  archived: true
+  assignees_url: https://api.github.com/repos/mcous/reflow/assignees{/user}
+  blobs_url: https://api.github.com/repos/mcous/reflow/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/mcous/reflow/branches{/branch}
+  clone_url: https://github.com/mcous/reflow.git
+  collaborators_url: https://api.github.com/repos/mcous/reflow/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/mcous/reflow/comments{/number}
+  commits_url: https://api.github.com/repos/mcous/reflow/commits{/sha}
+  compare_url: https://api.github.com/repos/mcous/reflow/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/mcous/reflow/contents/{+path}
+  contributors_url: https://api.github.com/repos/mcous/reflow/contributors
+  created_at: '2013-11-02T21:29:29Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/mcous/reflow/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/mcous/reflow/downloads
+  events_url: https://api.github.com/repos/mcous/reflow/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/mcous/reflow/forks
+  full_name: mcous/reflow
+  git_commits_url: https://api.github.com/repos/mcous/reflow/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/mcous/reflow/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/mcous/reflow/git/tags{/sha}
+  git_url: git://github.com/mcous/reflow.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/mcous/reflow/hooks
+  html_url: https://github.com/mcous/reflow
+  id: 14075335
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/mcous/reflow/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/mcous/reflow/issues/events{/number}
+  issues_url: https://api.github.com/repos/mcous/reflow/issues{/number}
+  keys_url: https://api.github.com/repos/mcous/reflow/keys{/key_id}
+  labels_url: https://api.github.com/repos/mcous/reflow/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/mcous/reflow/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/mcous/reflow/merges
+  milestones_url: https://api.github.com/repos/mcous/reflow/milestones{/number}
+  mirror_url: null
+  name: reflow
+  node_id: MDEwOlJlcG9zaXRvcnkxNDA3NTMzNQ==
+  notifications_url: https://api.github.com/repos/mcous/reflow/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/2963448?v=4
+    events_url: https://api.github.com/users/mcous/events{/privacy}
+    followers_url: https://api.github.com/users/mcous/followers
+    following_url: https://api.github.com/users/mcous/following{/other_user}
+    gists_url: https://api.github.com/users/mcous/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/mcous
+    id: 2963448
+    login: mcous
+    node_id: MDQ6VXNlcjI5NjM0NDg=
+    organizations_url: https://api.github.com/users/mcous/orgs
+    received_events_url: https://api.github.com/users/mcous/received_events
+    repos_url: https://api.github.com/users/mcous/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/mcous/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/mcous/subscriptions
+    type: User
+    url: https://api.github.com/users/mcous
+  private: false
+  pulls_url: https://api.github.com/repos/mcous/reflow/pulls{/number}
+  pushed_at: '2014-06-05T01:06:48Z'
+  releases_url: https://api.github.com/repos/mcous/reflow/releases{/id}
+  size: 1040
+  ssh_url: git@github.com:mcous/reflow.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/mcous/reflow/stargazers
+  statuses_url: https://api.github.com/repos/mcous/reflow/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/mcous/reflow/subscribers
+  subscription_url: https://api.github.com/repos/mcous/reflow/subscription
+  svn_url: https://github.com/mcous/reflow
+  tags_url: https://api.github.com/repos/mcous/reflow/tags
+  teams_url: https://api.github.com/repos/mcous/reflow/teams
+  topics: []
+  trees_url: https://api.github.com/repos/mcous/reflow/git/trees{/sha}
+  updated_at: '2023-01-28T09:23:57Z'
+  url: https://api.github.com/repos/mcous/reflow
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/TESTI2C/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/TESTI2C/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/TESTI2C/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/TESTI2C/branches{/branch}
-clone_url: https://github.com/freetronics/TESTI2C.git
-collaborators_url: https://api.github.com/repos/freetronics/TESTI2C/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/TESTI2C/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/TESTI2C/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/TESTI2C/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/TESTI2C/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/TESTI2C/contributors
-created_at: '2014-06-27T03:50:43Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/TESTI2C/deployments
-description: Test shield for I2C modules
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/TESTI2C/downloads
-events_url: https://api.github.com/repos/freetronics/TESTI2C/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/freetronics/TESTI2C/forks
-full_name: freetronics/TESTI2C
-git_commits_url: https://api.github.com/repos/freetronics/TESTI2C/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/TESTI2C/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/TESTI2C/git/tags{/sha}
-git_url: git://github.com/freetronics/TESTI2C.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/freetronics/TESTI2C/hooks
-html_url: https://github.com/freetronics/TESTI2C
-id: 21263214
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/TESTI2C/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/TESTI2C/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/TESTI2C/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/TESTI2C/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/TESTI2C/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/freetronics/TESTI2C/languages
-license: null
-merges_url: https://api.github.com/repos/freetronics/TESTI2C/merges
-milestones_url: https://api.github.com/repos/freetronics/TESTI2C/milestones{/number}
-mirror_url: null
-name: TESTI2C
-node_id: MDEwOlJlcG9zaXRvcnkyMTI2MzIxNA==
-notifications_url: https://api.github.com/repos/freetronics/TESTI2C/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: TESTI2C
+  github_src: https://github.com/freetronics/TESTI2C
+  github_src_repo: https://github.com/freetronics/TESTI2C
+  oomp_bot: freetronics_testi2c
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/freetronics_testi2c
+  oomp_doc: projects/freetronics_testi2c/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/freetronics_testi2c
+  oomp_src_flat: projects_flat/freetronics_testi2c
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/freetronics_testi2c
+  oomp_src_folder: projects_folder\freetronics\TESTI2C\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\freetronics\TESTI2C\version_current\working
+oomp_key: oomp_freetronics_testi2c
+oomp_key_simple: freetronics_testi2c
 projects_flat: projects_flat/freetronics_testi2c/version_current/working
 projects_folder: projects_folder/freetronics/TESTI2C/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/TESTI2C/pulls{/number}
-pushed_at: '2019-04-24T04:33:23Z'
-releases_url: https://api.github.com/repos/freetronics/TESTI2C/releases{/id}
-size: 37
-ssh_url: git@github.com:freetronics/TESTI2C.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/freetronics/TESTI2C/stargazers
-statuses_url: https://api.github.com/repos/freetronics/TESTI2C/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/TESTI2C/subscribers
-subscription_url: https://api.github.com/repos/freetronics/TESTI2C/subscription
-svn_url: https://github.com/freetronics/TESTI2C
-tags_url: https://api.github.com/repos/freetronics/TESTI2C/tags
-teams_url: https://api.github.com/repos/freetronics/TESTI2C/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/TESTI2C/git/trees{/sha}
-updated_at: '2019-04-24T04:33:25Z'
-url: https://api.github.com/repos/freetronics/TESTI2C
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/TESTI2C/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/TESTI2C/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/TESTI2C/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/TESTI2C/branches{/branch}
+  clone_url: https://github.com/freetronics/TESTI2C.git
+  collaborators_url: https://api.github.com/repos/freetronics/TESTI2C/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/TESTI2C/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/TESTI2C/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/TESTI2C/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/TESTI2C/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/TESTI2C/contributors
+  created_at: '2014-06-27T03:50:43Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/TESTI2C/deployments
+  description: Test shield for I2C modules
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/TESTI2C/downloads
+  events_url: https://api.github.com/repos/freetronics/TESTI2C/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/freetronics/TESTI2C/forks
+  full_name: freetronics/TESTI2C
+  git_commits_url: https://api.github.com/repos/freetronics/TESTI2C/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/TESTI2C/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/TESTI2C/git/tags{/sha}
+  git_url: git://github.com/freetronics/TESTI2C.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/freetronics/TESTI2C/hooks
+  html_url: https://github.com/freetronics/TESTI2C
+  id: 21263214
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/TESTI2C/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/TESTI2C/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/TESTI2C/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/TESTI2C/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/TESTI2C/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/freetronics/TESTI2C/languages
+  license: null
+  merges_url: https://api.github.com/repos/freetronics/TESTI2C/merges
+  milestones_url: https://api.github.com/repos/freetronics/TESTI2C/milestones{/number}
+  mirror_url: null
+  name: TESTI2C
+  node_id: MDEwOlJlcG9zaXRvcnkyMTI2MzIxNA==
+  notifications_url: https://api.github.com/repos/freetronics/TESTI2C/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/TESTI2C/pulls{/number}
+  pushed_at: '2019-04-24T04:33:23Z'
+  releases_url: https://api.github.com/repos/freetronics/TESTI2C/releases{/id}
+  size: 37
+  ssh_url: git@github.com:freetronics/TESTI2C.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/freetronics/TESTI2C/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/TESTI2C/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/TESTI2C/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/TESTI2C/subscription
+  svn_url: https://github.com/freetronics/TESTI2C
+  tags_url: https://api.github.com/repos/freetronics/TESTI2C/tags
+  teams_url: https://api.github.com/repos/freetronics/TESTI2C/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/TESTI2C/git/trees{/sha}
+  updated_at: '2019-04-24T04:33:25Z'
+  url: https://api.github.com/repos/freetronics/TESTI2C
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

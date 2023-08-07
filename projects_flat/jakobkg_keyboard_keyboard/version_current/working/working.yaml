@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/assignees{/user}
-blobs_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/git/blobs{/sha}
-branches_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/branches{/branch}
-clone_url: https://github.com/jakobkg/keyboard_keyboard.git
-collaborators_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/comments{/number}
-commits_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/commits{/sha}
-compare_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/compare/{base}...{head}
-contents_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/contents/{+path}
-contributors_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/contributors
-created_at: '2020-07-16T08:05:06Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/deployments
-description: A mechanical MIDI keyboard, with some knobs and MX switches. A keyboard
-  keyboard, if you will
-disabled: false
-downloads_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/downloads
-events_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/forks
-full_name: jakobkg/keyboard_keyboard
-git_commits_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/git/tags{/sha}
-git_url: git://github.com/jakobkg/keyboard_keyboard.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/hooks
-html_url: https://github.com/jakobkg/keyboard_keyboard
-id: 280092686
-is_template: false
-issue_comment_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/issues/events{/number}
-issues_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/issues{/number}
-keys_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/keys{/key_id}
-labels_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/languages
-license: null
-merges_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/merges
-milestones_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/milestones{/number}
-mirror_url: null
-name: keyboard_keyboard
-node_id: MDEwOlJlcG9zaXRvcnkyODAwOTI2ODY=
-notifications_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/25484353?v=4
-  events_url: https://api.github.com/users/jakobkg/events{/privacy}
-  followers_url: https://api.github.com/users/jakobkg/followers
-  following_url: https://api.github.com/users/jakobkg/following{/other_user}
-  gists_url: https://api.github.com/users/jakobkg/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/jakobkg
-  id: 25484353
-  login: jakobkg
-  node_id: MDQ6VXNlcjI1NDg0MzUz
-  organizations_url: https://api.github.com/users/jakobkg/orgs
-  received_events_url: https://api.github.com/users/jakobkg/received_events
-  repos_url: https://api.github.com/users/jakobkg/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/jakobkg/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/jakobkg/subscriptions
-  type: User
-  url: https://api.github.com/users/jakobkg
-private: false
+links:
+  github_owner: jakobkg
+  github_repo_name: keyboard_keyboard
+  github_src: https://github.com/jakobkg/keyboard_keyboard
+  github_src_repo: https://github.com/jakobkg/keyboard_keyboard
+  oomp_bot: projects_jakobkg_keyboard_keyboard
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_jakobkg_keyboard_keyboard
+  oomp_doc: projects/projects_flat_jakobkg_keyboard_keyboard/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_jakobkg_keyboard_keyboard
+  oomp_src_flat: projects_flat/projects_flat_jakobkg_keyboard_keyboard
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_jakobkg_keyboard_keyboard
+  oomp_src_folder: projects_flat\jakobkg_keyboard_keyboard\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\jakobkg_keyboard_keyboard\version_current\working
+oomp_key: oomp_projects_flat_jakobkg_keyboard_keyboard
+oomp_key_simple: projects_flat_jakobkg_keyboard_keyboard
 projects_flat: projects_flat/jakobkg_keyboard_keyboard/version_current/working
 projects_folder: projects_folder/jakobkg/keyboard_keyboard/version_current/working
-pulls_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/pulls{/number}
-pushed_at: '2021-01-17T07:35:44Z'
-releases_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/releases{/id}
-size: 566
-ssh_url: git@github.com:jakobkg/keyboard_keyboard.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/stargazers
-statuses_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/statuses/{sha}
-subscribers_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/subscribers
-subscription_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/subscription
-svn_url: https://github.com/jakobkg/keyboard_keyboard
-tags_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/tags
-teams_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/teams
-topics: []
-trees_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/git/trees{/sha}
-updated_at: '2022-12-30T06:48:30Z'
-url: https://api.github.com/repos/jakobkg/keyboard_keyboard
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/assignees{/user}
+  blobs_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/branches{/branch}
+  clone_url: https://github.com/jakobkg/keyboard_keyboard.git
+  collaborators_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/comments{/number}
+  commits_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/commits{/sha}
+  compare_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/contents/{+path}
+  contributors_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/contributors
+  created_at: '2020-07-16T08:05:06Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/deployments
+  description: A mechanical MIDI keyboard, with some knobs and MX switches. A keyboard
+    keyboard, if you will
+  disabled: false
+  downloads_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/downloads
+  events_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/forks
+  full_name: jakobkg/keyboard_keyboard
+  git_commits_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/git/tags{/sha}
+  git_url: git://github.com/jakobkg/keyboard_keyboard.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/hooks
+  html_url: https://github.com/jakobkg/keyboard_keyboard
+  id: 280092686
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/issues/events{/number}
+  issues_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/issues{/number}
+  keys_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/keys{/key_id}
+  labels_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/languages
+  license: null
+  merges_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/merges
+  milestones_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/milestones{/number}
+  mirror_url: null
+  name: keyboard_keyboard
+  node_id: MDEwOlJlcG9zaXRvcnkyODAwOTI2ODY=
+  notifications_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/25484353?v=4
+    events_url: https://api.github.com/users/jakobkg/events{/privacy}
+    followers_url: https://api.github.com/users/jakobkg/followers
+    following_url: https://api.github.com/users/jakobkg/following{/other_user}
+    gists_url: https://api.github.com/users/jakobkg/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/jakobkg
+    id: 25484353
+    login: jakobkg
+    node_id: MDQ6VXNlcjI1NDg0MzUz
+    organizations_url: https://api.github.com/users/jakobkg/orgs
+    received_events_url: https://api.github.com/users/jakobkg/received_events
+    repos_url: https://api.github.com/users/jakobkg/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/jakobkg/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/jakobkg/subscriptions
+    type: User
+    url: https://api.github.com/users/jakobkg
+  private: false
+  pulls_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/pulls{/number}
+  pushed_at: '2021-01-17T07:35:44Z'
+  releases_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/releases{/id}
+  size: 566
+  ssh_url: git@github.com:jakobkg/keyboard_keyboard.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/stargazers
+  statuses_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/subscribers
+  subscription_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/subscription
+  svn_url: https://github.com/jakobkg/keyboard_keyboard
+  tags_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/tags
+  teams_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/teams
+  topics: []
+  trees_url: https://api.github.com/repos/jakobkg/keyboard_keyboard/git/trees{/sha}
+  updated_at: '2022-12-30T06:48:30Z'
+  url: https://api.github.com/repos/jakobkg/keyboard_keyboard
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

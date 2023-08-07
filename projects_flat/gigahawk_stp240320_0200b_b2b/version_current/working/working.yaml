@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/assignees{/user}
-blobs_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/branches{/branch}
-clone_url: https://github.com/Gigahawk/STP240320_0200B_b2b.git
-collaborators_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/comments{/number}
-commits_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/commits{/sha}
-compare_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/contents/{+path}
-contributors_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/contributors
-created_at: '2020-11-27T04:56:39Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/deployments
-description: Board to Board adapter for STP240320_0200B display
-disabled: false
-downloads_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/downloads
-events_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/forks
-full_name: Gigahawk/STP240320_0200B_b2b
-git_commits_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/git/tags{/sha}
-git_url: git://github.com/Gigahawk/STP240320_0200B_b2b.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/hooks
-html_url: https://github.com/Gigahawk/STP240320_0200B_b2b
-id: 316403668
-is_template: false
-issue_comment_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/issues/events{/number}
-issues_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/issues{/number}
-keys_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/keys{/key_id}
-labels_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/languages
-license: null
-merges_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/merges
-milestones_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/milestones{/number}
-mirror_url: null
-name: STP240320_0200B_b2b
-node_id: MDEwOlJlcG9zaXRvcnkzMTY0MDM2Njg=
-notifications_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/10356230?v=4
-  events_url: https://api.github.com/users/Gigahawk/events{/privacy}
-  followers_url: https://api.github.com/users/Gigahawk/followers
-  following_url: https://api.github.com/users/Gigahawk/following{/other_user}
-  gists_url: https://api.github.com/users/Gigahawk/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Gigahawk
-  id: 10356230
-  login: Gigahawk
-  node_id: MDQ6VXNlcjEwMzU2MjMw
-  organizations_url: https://api.github.com/users/Gigahawk/orgs
-  received_events_url: https://api.github.com/users/Gigahawk/received_events
-  repos_url: https://api.github.com/users/Gigahawk/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Gigahawk/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Gigahawk/subscriptions
-  type: User
-  url: https://api.github.com/users/Gigahawk
-private: false
+links:
+  github_owner: Gigahawk
+  github_repo_name: STP240320_0200B_b2b
+  github_src: https://github.com/Gigahawk/STP240320_0200B_b2b
+  github_src_repo: https://github.com/Gigahawk/STP240320_0200B_b2b
+  oomp_bot: projects_gigahawk_stp240320_0200b_b2b
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_gigahawk_stp240320_0200b_b2b
+  oomp_doc: projects/projects_flat_gigahawk_stp240320_0200b_b2b/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_gigahawk_stp240320_0200b_b2b
+  oomp_src_flat: projects_flat/projects_flat_gigahawk_stp240320_0200b_b2b
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_gigahawk_stp240320_0200b_b2b
+  oomp_src_folder: projects_flat\gigahawk_stp240320_0200b_b2b\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\gigahawk_stp240320_0200b_b2b\version_current\working
+oomp_key: oomp_projects_flat_gigahawk_stp240320_0200b_b2b
+oomp_key_simple: projects_flat_gigahawk_stp240320_0200b_b2b
 projects_flat: projects_flat/gigahawk_stp240320_0200b_b2b/version_current/working
 projects_folder: projects_folder/Gigahawk/STP240320_0200B_b2b/version_current/working
-pulls_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/pulls{/number}
-pushed_at: '2022-11-06T06:17:44Z'
-releases_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/releases{/id}
-size: 8858
-ssh_url: git@github.com:Gigahawk/STP240320_0200B_b2b.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/stargazers
-statuses_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/subscribers
-subscription_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/subscription
-svn_url: https://github.com/Gigahawk/STP240320_0200B_b2b
-tags_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/tags
-teams_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/teams
-topics: []
-trees_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/git/trees{/sha}
-updated_at: '2022-09-24T08:36:39Z'
-url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/assignees{/user}
+  blobs_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/branches{/branch}
+  clone_url: https://github.com/Gigahawk/STP240320_0200B_b2b.git
+  collaborators_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/comments{/number}
+  commits_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/commits{/sha}
+  compare_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/contents/{+path}
+  contributors_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/contributors
+  created_at: '2020-11-27T04:56:39Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/deployments
+  description: Board to Board adapter for STP240320_0200B display
+  disabled: false
+  downloads_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/downloads
+  events_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/forks
+  full_name: Gigahawk/STP240320_0200B_b2b
+  git_commits_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/git/tags{/sha}
+  git_url: git://github.com/Gigahawk/STP240320_0200B_b2b.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/hooks
+  html_url: https://github.com/Gigahawk/STP240320_0200B_b2b
+  id: 316403668
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/issues/events{/number}
+  issues_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/issues{/number}
+  keys_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/keys{/key_id}
+  labels_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/languages
+  license: null
+  merges_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/merges
+  milestones_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/milestones{/number}
+  mirror_url: null
+  name: STP240320_0200B_b2b
+  node_id: MDEwOlJlcG9zaXRvcnkzMTY0MDM2Njg=
+  notifications_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/10356230?v=4
+    events_url: https://api.github.com/users/Gigahawk/events{/privacy}
+    followers_url: https://api.github.com/users/Gigahawk/followers
+    following_url: https://api.github.com/users/Gigahawk/following{/other_user}
+    gists_url: https://api.github.com/users/Gigahawk/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Gigahawk
+    id: 10356230
+    login: Gigahawk
+    node_id: MDQ6VXNlcjEwMzU2MjMw
+    organizations_url: https://api.github.com/users/Gigahawk/orgs
+    received_events_url: https://api.github.com/users/Gigahawk/received_events
+    repos_url: https://api.github.com/users/Gigahawk/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Gigahawk/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Gigahawk/subscriptions
+    type: User
+    url: https://api.github.com/users/Gigahawk
+  private: false
+  pulls_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/pulls{/number}
+  pushed_at: '2022-11-06T06:17:44Z'
+  releases_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/releases{/id}
+  size: 8858
+  ssh_url: git@github.com:Gigahawk/STP240320_0200B_b2b.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/stargazers
+  statuses_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/subscribers
+  subscription_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/subscription
+  svn_url: https://github.com/Gigahawk/STP240320_0200B_b2b
+  tags_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/tags
+  teams_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b/git/trees{/sha}
+  updated_at: '2022-09-24T08:36:39Z'
+  url: https://api.github.com/repos/Gigahawk/STP240320_0200B_b2b
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

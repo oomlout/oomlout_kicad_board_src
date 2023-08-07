@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/F6ITU/HL2-MRF101/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/F6ITU/HL2-MRF101/assignees{/user}
-blobs_url: https://api.github.com/repos/F6ITU/HL2-MRF101/git/blobs{/sha}
-branches_url: https://api.github.com/repos/F6ITU/HL2-MRF101/branches{/branch}
-clone_url: https://github.com/F6ITU/HL2-MRF101.git
-collaborators_url: https://api.github.com/repos/F6ITU/HL2-MRF101/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/F6ITU/HL2-MRF101/comments{/number}
-commits_url: https://api.github.com/repos/F6ITU/HL2-MRF101/commits{/sha}
-compare_url: https://api.github.com/repos/F6ITU/HL2-MRF101/compare/{base}...{head}
-contents_url: https://api.github.com/repos/F6ITU/HL2-MRF101/contents/{+path}
-contributors_url: https://api.github.com/repos/F6ITU/HL2-MRF101/contributors
-created_at: '2020-06-30T12:53:10Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/F6ITU/HL2-MRF101/deployments
-description: Hermes-Lite2 Power Amplifier/Filter board using MRF-101
-disabled: false
-downloads_url: https://api.github.com/repos/F6ITU/HL2-MRF101/downloads
-events_url: https://api.github.com/repos/F6ITU/HL2-MRF101/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/F6ITU/HL2-MRF101/forks
-full_name: F6ITU/HL2-MRF101
-git_commits_url: https://api.github.com/repos/F6ITU/HL2-MRF101/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/F6ITU/HL2-MRF101/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/F6ITU/HL2-MRF101/git/tags{/sha}
-git_url: git://github.com/F6ITU/HL2-MRF101.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/F6ITU/HL2-MRF101/hooks
-html_url: https://github.com/F6ITU/HL2-MRF101
-id: 276097924
-is_template: false
-issue_comment_url: https://api.github.com/repos/F6ITU/HL2-MRF101/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/F6ITU/HL2-MRF101/issues/events{/number}
-issues_url: https://api.github.com/repos/F6ITU/HL2-MRF101/issues{/number}
-keys_url: https://api.github.com/repos/F6ITU/HL2-MRF101/keys{/key_id}
-labels_url: https://api.github.com/repos/F6ITU/HL2-MRF101/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/F6ITU/HL2-MRF101/languages
-license: null
-merges_url: https://api.github.com/repos/F6ITU/HL2-MRF101/merges
-milestones_url: https://api.github.com/repos/F6ITU/HL2-MRF101/milestones{/number}
-mirror_url: null
-name: HL2-MRF101
-node_id: MDEwOlJlcG9zaXRvcnkyNzYwOTc5MjQ=
-notifications_url: https://api.github.com/repos/F6ITU/HL2-MRF101/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/19146590?v=4
-  events_url: https://api.github.com/users/F6ITU/events{/privacy}
-  followers_url: https://api.github.com/users/F6ITU/followers
-  following_url: https://api.github.com/users/F6ITU/following{/other_user}
-  gists_url: https://api.github.com/users/F6ITU/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/F6ITU
-  id: 19146590
-  login: F6ITU
-  node_id: MDQ6VXNlcjE5MTQ2NTkw
-  organizations_url: https://api.github.com/users/F6ITU/orgs
-  received_events_url: https://api.github.com/users/F6ITU/received_events
-  repos_url: https://api.github.com/users/F6ITU/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/F6ITU/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/F6ITU/subscriptions
-  type: User
-  url: https://api.github.com/users/F6ITU
-private: false
+links:
+  github_owner: F6ITU
+  github_repo_name: HL2-MRF101
+  github_src: https://github.com/F6ITU/HL2-MRF101
+  github_src_repo: https://github.com/F6ITU/HL2-MRF101
+  oomp_bot: projects_f6itu_hl2_mrf101
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_f6itu_hl2_mrf101
+  oomp_doc: projects/projects_flat_f6itu_hl2_mrf101/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_f6itu_hl2_mrf101
+  oomp_src_flat: projects_flat/projects_flat_f6itu_hl2_mrf101
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_f6itu_hl2_mrf101
+  oomp_src_folder: projects_flat\f6itu_hl2_mrf101\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\f6itu_hl2_mrf101\version_current\working
+oomp_key: oomp_projects_flat_f6itu_hl2_mrf101
+oomp_key_simple: projects_flat_f6itu_hl2_mrf101
 projects_flat: projects_flat/f6itu_hl2_mrf101/version_current/working
 projects_folder: projects_folder/F6ITU/HL2-MRF101/version_current/working
-pulls_url: https://api.github.com/repos/F6ITU/HL2-MRF101/pulls{/number}
-pushed_at: '2020-08-12T16:06:08Z'
-releases_url: https://api.github.com/repos/F6ITU/HL2-MRF101/releases{/id}
-size: 13636
-ssh_url: git@github.com:F6ITU/HL2-MRF101.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/F6ITU/HL2-MRF101/stargazers
-statuses_url: https://api.github.com/repos/F6ITU/HL2-MRF101/statuses/{sha}
-subscribers_url: https://api.github.com/repos/F6ITU/HL2-MRF101/subscribers
-subscription_url: https://api.github.com/repos/F6ITU/HL2-MRF101/subscription
-svn_url: https://github.com/F6ITU/HL2-MRF101
-tags_url: https://api.github.com/repos/F6ITU/HL2-MRF101/tags
-teams_url: https://api.github.com/repos/F6ITU/HL2-MRF101/teams
-topics: []
-trees_url: https://api.github.com/repos/F6ITU/HL2-MRF101/git/trees{/sha}
-updated_at: '2020-08-12T16:06:10Z'
-url: https://api.github.com/repos/F6ITU/HL2-MRF101
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/F6ITU/HL2-MRF101/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/F6ITU/HL2-MRF101/assignees{/user}
+  blobs_url: https://api.github.com/repos/F6ITU/HL2-MRF101/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/F6ITU/HL2-MRF101/branches{/branch}
+  clone_url: https://github.com/F6ITU/HL2-MRF101.git
+  collaborators_url: https://api.github.com/repos/F6ITU/HL2-MRF101/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/F6ITU/HL2-MRF101/comments{/number}
+  commits_url: https://api.github.com/repos/F6ITU/HL2-MRF101/commits{/sha}
+  compare_url: https://api.github.com/repos/F6ITU/HL2-MRF101/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/F6ITU/HL2-MRF101/contents/{+path}
+  contributors_url: https://api.github.com/repos/F6ITU/HL2-MRF101/contributors
+  created_at: '2020-06-30T12:53:10Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/F6ITU/HL2-MRF101/deployments
+  description: Hermes-Lite2 Power Amplifier/Filter board using MRF-101
+  disabled: false
+  downloads_url: https://api.github.com/repos/F6ITU/HL2-MRF101/downloads
+  events_url: https://api.github.com/repos/F6ITU/HL2-MRF101/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/F6ITU/HL2-MRF101/forks
+  full_name: F6ITU/HL2-MRF101
+  git_commits_url: https://api.github.com/repos/F6ITU/HL2-MRF101/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/F6ITU/HL2-MRF101/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/F6ITU/HL2-MRF101/git/tags{/sha}
+  git_url: git://github.com/F6ITU/HL2-MRF101.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/F6ITU/HL2-MRF101/hooks
+  html_url: https://github.com/F6ITU/HL2-MRF101
+  id: 276097924
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/F6ITU/HL2-MRF101/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/F6ITU/HL2-MRF101/issues/events{/number}
+  issues_url: https://api.github.com/repos/F6ITU/HL2-MRF101/issues{/number}
+  keys_url: https://api.github.com/repos/F6ITU/HL2-MRF101/keys{/key_id}
+  labels_url: https://api.github.com/repos/F6ITU/HL2-MRF101/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/F6ITU/HL2-MRF101/languages
+  license: null
+  merges_url: https://api.github.com/repos/F6ITU/HL2-MRF101/merges
+  milestones_url: https://api.github.com/repos/F6ITU/HL2-MRF101/milestones{/number}
+  mirror_url: null
+  name: HL2-MRF101
+  node_id: MDEwOlJlcG9zaXRvcnkyNzYwOTc5MjQ=
+  notifications_url: https://api.github.com/repos/F6ITU/HL2-MRF101/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/19146590?v=4
+    events_url: https://api.github.com/users/F6ITU/events{/privacy}
+    followers_url: https://api.github.com/users/F6ITU/followers
+    following_url: https://api.github.com/users/F6ITU/following{/other_user}
+    gists_url: https://api.github.com/users/F6ITU/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/F6ITU
+    id: 19146590
+    login: F6ITU
+    node_id: MDQ6VXNlcjE5MTQ2NTkw
+    organizations_url: https://api.github.com/users/F6ITU/orgs
+    received_events_url: https://api.github.com/users/F6ITU/received_events
+    repos_url: https://api.github.com/users/F6ITU/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/F6ITU/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/F6ITU/subscriptions
+    type: User
+    url: https://api.github.com/users/F6ITU
+  private: false
+  pulls_url: https://api.github.com/repos/F6ITU/HL2-MRF101/pulls{/number}
+  pushed_at: '2020-08-12T16:06:08Z'
+  releases_url: https://api.github.com/repos/F6ITU/HL2-MRF101/releases{/id}
+  size: 13636
+  ssh_url: git@github.com:F6ITU/HL2-MRF101.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/F6ITU/HL2-MRF101/stargazers
+  statuses_url: https://api.github.com/repos/F6ITU/HL2-MRF101/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/F6ITU/HL2-MRF101/subscribers
+  subscription_url: https://api.github.com/repos/F6ITU/HL2-MRF101/subscription
+  svn_url: https://github.com/F6ITU/HL2-MRF101
+  tags_url: https://api.github.com/repos/F6ITU/HL2-MRF101/tags
+  teams_url: https://api.github.com/repos/F6ITU/HL2-MRF101/teams
+  topics: []
+  trees_url: https://api.github.com/repos/F6ITU/HL2-MRF101/git/trees{/sha}
+  updated_at: '2020-08-12T16:06:10Z'
+  url: https://api.github.com/repos/F6ITU/HL2-MRF101
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

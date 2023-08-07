@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/recursinging/kxmx/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/recursinging/kxmx/assignees{/user}
-blobs_url: https://api.github.com/repos/recursinging/kxmx/git/blobs{/sha}
-branches_url: https://api.github.com/repos/recursinging/kxmx/branches{/branch}
-clone_url: https://github.com/recursinging/kxmx.git
-collaborators_url: https://api.github.com/repos/recursinging/kxmx/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/recursinging/kxmx/comments{/number}
-commits_url: https://api.github.com/repos/recursinging/kxmx/commits{/sha}
-compare_url: https://api.github.com/repos/recursinging/kxmx/compare/{base}...{head}
-contents_url: https://api.github.com/repos/recursinging/kxmx/contents/{+path}
-contributors_url: https://api.github.com/repos/recursinging/kxmx/contributors
-created_at: '2018-02-04T22:27:03Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/recursinging/kxmx/deployments
-description: kxmx - Krachmacher
-disabled: false
-downloads_url: https://api.github.com/repos/recursinging/kxmx/downloads
-events_url: https://api.github.com/repos/recursinging/kxmx/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/recursinging/kxmx/forks
-full_name: recursinging/kxmx
-git_commits_url: https://api.github.com/repos/recursinging/kxmx/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/recursinging/kxmx/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/recursinging/kxmx/git/tags{/sha}
-git_url: git://github.com/recursinging/kxmx.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/recursinging/kxmx/hooks
-html_url: https://github.com/recursinging/kxmx
-id: 120229019
-is_template: false
-issue_comment_url: https://api.github.com/repos/recursinging/kxmx/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/recursinging/kxmx/issues/events{/number}
-issues_url: https://api.github.com/repos/recursinging/kxmx/issues{/number}
-keys_url: https://api.github.com/repos/recursinging/kxmx/keys{/key_id}
-labels_url: https://api.github.com/repos/recursinging/kxmx/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/recursinging/kxmx/languages
-license: null
-merges_url: https://api.github.com/repos/recursinging/kxmx/merges
-milestones_url: https://api.github.com/repos/recursinging/kxmx/milestones{/number}
-mirror_url: null
-name: kxmx
-node_id: MDEwOlJlcG9zaXRvcnkxMjAyMjkwMTk=
-notifications_url: https://api.github.com/repos/recursinging/kxmx/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/27807726?v=4
-  events_url: https://api.github.com/users/recursinging/events{/privacy}
-  followers_url: https://api.github.com/users/recursinging/followers
-  following_url: https://api.github.com/users/recursinging/following{/other_user}
-  gists_url: https://api.github.com/users/recursinging/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/recursinging
-  id: 27807726
-  login: recursinging
-  node_id: MDQ6VXNlcjI3ODA3NzI2
-  organizations_url: https://api.github.com/users/recursinging/orgs
-  received_events_url: https://api.github.com/users/recursinging/received_events
-  repos_url: https://api.github.com/users/recursinging/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/recursinging/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/recursinging/subscriptions
-  type: User
-  url: https://api.github.com/users/recursinging
-private: false
+links:
+  github_owner: recursinging
+  github_repo_name: kxmx
+  github_src: https://github.com/recursinging/kxmx
+  github_src_repo: https://github.com/recursinging/kxmx
+  oomp_bot: projects_recursinging_kxmx
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_recursinging_kxmx
+  oomp_doc: projects/projects_flat_recursinging_kxmx/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_recursinging_kxmx
+  oomp_src_flat: projects_flat/projects_flat_recursinging_kxmx
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_recursinging_kxmx
+  oomp_src_folder: projects_flat\recursinging_kxmx\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\recursinging_kxmx\version_current\working
+oomp_key: oomp_projects_flat_recursinging_kxmx
+oomp_key_simple: projects_flat_recursinging_kxmx
 projects_flat: projects_flat/recursinging_kxmx/version_current/working
 projects_folder: projects_folder/recursinging/kxmx/version_current/working
-pulls_url: https://api.github.com/repos/recursinging/kxmx/pulls{/number}
-pushed_at: '2021-03-03T15:05:28Z'
-releases_url: https://api.github.com/repos/recursinging/kxmx/releases{/id}
-size: 272
-ssh_url: git@github.com:recursinging/kxmx.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/recursinging/kxmx/stargazers
-statuses_url: https://api.github.com/repos/recursinging/kxmx/statuses/{sha}
-subscribers_url: https://api.github.com/repos/recursinging/kxmx/subscribers
-subscription_url: https://api.github.com/repos/recursinging/kxmx/subscription
-svn_url: https://github.com/recursinging/kxmx
-tags_url: https://api.github.com/repos/recursinging/kxmx/tags
-teams_url: https://api.github.com/repos/recursinging/kxmx/teams
-topics: []
-trees_url: https://api.github.com/repos/recursinging/kxmx/git/trees{/sha}
-updated_at: '2019-04-08T09:03:42Z'
-url: https://api.github.com/repos/recursinging/kxmx
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/recursinging/kxmx/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/recursinging/kxmx/assignees{/user}
+  blobs_url: https://api.github.com/repos/recursinging/kxmx/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/recursinging/kxmx/branches{/branch}
+  clone_url: https://github.com/recursinging/kxmx.git
+  collaborators_url: https://api.github.com/repos/recursinging/kxmx/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/recursinging/kxmx/comments{/number}
+  commits_url: https://api.github.com/repos/recursinging/kxmx/commits{/sha}
+  compare_url: https://api.github.com/repos/recursinging/kxmx/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/recursinging/kxmx/contents/{+path}
+  contributors_url: https://api.github.com/repos/recursinging/kxmx/contributors
+  created_at: '2018-02-04T22:27:03Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/recursinging/kxmx/deployments
+  description: kxmx - Krachmacher
+  disabled: false
+  downloads_url: https://api.github.com/repos/recursinging/kxmx/downloads
+  events_url: https://api.github.com/repos/recursinging/kxmx/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/recursinging/kxmx/forks
+  full_name: recursinging/kxmx
+  git_commits_url: https://api.github.com/repos/recursinging/kxmx/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/recursinging/kxmx/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/recursinging/kxmx/git/tags{/sha}
+  git_url: git://github.com/recursinging/kxmx.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/recursinging/kxmx/hooks
+  html_url: https://github.com/recursinging/kxmx
+  id: 120229019
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/recursinging/kxmx/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/recursinging/kxmx/issues/events{/number}
+  issues_url: https://api.github.com/repos/recursinging/kxmx/issues{/number}
+  keys_url: https://api.github.com/repos/recursinging/kxmx/keys{/key_id}
+  labels_url: https://api.github.com/repos/recursinging/kxmx/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/recursinging/kxmx/languages
+  license: null
+  merges_url: https://api.github.com/repos/recursinging/kxmx/merges
+  milestones_url: https://api.github.com/repos/recursinging/kxmx/milestones{/number}
+  mirror_url: null
+  name: kxmx
+  node_id: MDEwOlJlcG9zaXRvcnkxMjAyMjkwMTk=
+  notifications_url: https://api.github.com/repos/recursinging/kxmx/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/27807726?v=4
+    events_url: https://api.github.com/users/recursinging/events{/privacy}
+    followers_url: https://api.github.com/users/recursinging/followers
+    following_url: https://api.github.com/users/recursinging/following{/other_user}
+    gists_url: https://api.github.com/users/recursinging/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/recursinging
+    id: 27807726
+    login: recursinging
+    node_id: MDQ6VXNlcjI3ODA3NzI2
+    organizations_url: https://api.github.com/users/recursinging/orgs
+    received_events_url: https://api.github.com/users/recursinging/received_events
+    repos_url: https://api.github.com/users/recursinging/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/recursinging/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/recursinging/subscriptions
+    type: User
+    url: https://api.github.com/users/recursinging
+  private: false
+  pulls_url: https://api.github.com/repos/recursinging/kxmx/pulls{/number}
+  pushed_at: '2021-03-03T15:05:28Z'
+  releases_url: https://api.github.com/repos/recursinging/kxmx/releases{/id}
+  size: 272
+  ssh_url: git@github.com:recursinging/kxmx.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/recursinging/kxmx/stargazers
+  statuses_url: https://api.github.com/repos/recursinging/kxmx/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/recursinging/kxmx/subscribers
+  subscription_url: https://api.github.com/repos/recursinging/kxmx/subscription
+  svn_url: https://github.com/recursinging/kxmx
+  tags_url: https://api.github.com/repos/recursinging/kxmx/tags
+  teams_url: https://api.github.com/repos/recursinging/kxmx/teams
+  topics: []
+  trees_url: https://api.github.com/repos/recursinging/kxmx/git/trees{/sha}
+  updated_at: '2023-08-06T19:49:28Z'
+  url: https://api.github.com/repos/recursinging/kxmx
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/ESP12SH/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/ESP12SH/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/ESP12SH/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/ESP12SH/branches{/branch}
-clone_url: https://github.com/freetronics/ESP12SH.git
-collaborators_url: https://api.github.com/repos/freetronics/ESP12SH/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/ESP12SH/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/ESP12SH/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/ESP12SH/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/ESP12SH/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/ESP12SH/contributors
-created_at: '2018-03-28T00:52:19Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/ESP12SH/deployments
-description: Arduino shield with an ESP12 module
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/ESP12SH/downloads
-events_url: https://api.github.com/repos/freetronics/ESP12SH/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/freetronics/ESP12SH/forks
-full_name: freetronics/ESP12SH
-git_commits_url: https://api.github.com/repos/freetronics/ESP12SH/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/ESP12SH/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/ESP12SH/git/tags{/sha}
-git_url: git://github.com/freetronics/ESP12SH.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/freetronics/ESP12SH/hooks
-html_url: https://github.com/freetronics/ESP12SH
-id: 127063182
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/ESP12SH/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/ESP12SH/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/ESP12SH/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/ESP12SH/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/ESP12SH/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/freetronics/ESP12SH/languages
-license: null
-merges_url: https://api.github.com/repos/freetronics/ESP12SH/merges
-milestones_url: https://api.github.com/repos/freetronics/ESP12SH/milestones{/number}
-mirror_url: null
-name: ESP12SH
-node_id: MDEwOlJlcG9zaXRvcnkxMjcwNjMxODI=
-notifications_url: https://api.github.com/repos/freetronics/ESP12SH/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: ESP12SH
+  github_src: https://github.com/freetronics/ESP12SH
+  github_src_repo: https://github.com/freetronics/ESP12SH
+  oomp_bot: projects_freetronics_esp12sh
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_freetronics_esp12sh
+  oomp_doc: projects/projects_flat_freetronics_esp12sh/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_freetronics_esp12sh
+  oomp_src_flat: projects_flat/projects_flat_freetronics_esp12sh
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_freetronics_esp12sh
+  oomp_src_folder: projects_flat\freetronics_esp12sh\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_esp12sh\version_current\working
+oomp_key: oomp_projects_flat_freetronics_esp12sh
+oomp_key_simple: projects_flat_freetronics_esp12sh
 projects_flat: projects_flat/freetronics_esp12sh/version_current/working
 projects_folder: projects_folder/freetronics/ESP12SH/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/ESP12SH/pulls{/number}
-pushed_at: '2018-03-28T00:52:33Z'
-releases_url: https://api.github.com/repos/freetronics/ESP12SH/releases{/id}
-size: 50
-ssh_url: git@github.com:freetronics/ESP12SH.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/freetronics/ESP12SH/stargazers
-statuses_url: https://api.github.com/repos/freetronics/ESP12SH/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/ESP12SH/subscribers
-subscription_url: https://api.github.com/repos/freetronics/ESP12SH/subscription
-svn_url: https://github.com/freetronics/ESP12SH
-tags_url: https://api.github.com/repos/freetronics/ESP12SH/tags
-teams_url: https://api.github.com/repos/freetronics/ESP12SH/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/ESP12SH/git/trees{/sha}
-updated_at: '2018-03-28T00:52:34Z'
-url: https://api.github.com/repos/freetronics/ESP12SH
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/ESP12SH/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/ESP12SH/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/ESP12SH/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/ESP12SH/branches{/branch}
+  clone_url: https://github.com/freetronics/ESP12SH.git
+  collaborators_url: https://api.github.com/repos/freetronics/ESP12SH/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/ESP12SH/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/ESP12SH/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/ESP12SH/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/ESP12SH/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/ESP12SH/contributors
+  created_at: '2018-03-28T00:52:19Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/ESP12SH/deployments
+  description: Arduino shield with an ESP12 module
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/ESP12SH/downloads
+  events_url: https://api.github.com/repos/freetronics/ESP12SH/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/freetronics/ESP12SH/forks
+  full_name: freetronics/ESP12SH
+  git_commits_url: https://api.github.com/repos/freetronics/ESP12SH/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/ESP12SH/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/ESP12SH/git/tags{/sha}
+  git_url: git://github.com/freetronics/ESP12SH.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/freetronics/ESP12SH/hooks
+  html_url: https://github.com/freetronics/ESP12SH
+  id: 127063182
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/ESP12SH/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/ESP12SH/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/ESP12SH/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/ESP12SH/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/ESP12SH/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/freetronics/ESP12SH/languages
+  license: null
+  merges_url: https://api.github.com/repos/freetronics/ESP12SH/merges
+  milestones_url: https://api.github.com/repos/freetronics/ESP12SH/milestones{/number}
+  mirror_url: null
+  name: ESP12SH
+  node_id: MDEwOlJlcG9zaXRvcnkxMjcwNjMxODI=
+  notifications_url: https://api.github.com/repos/freetronics/ESP12SH/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/ESP12SH/pulls{/number}
+  pushed_at: '2018-03-28T00:52:33Z'
+  releases_url: https://api.github.com/repos/freetronics/ESP12SH/releases{/id}
+  size: 50
+  ssh_url: git@github.com:freetronics/ESP12SH.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/freetronics/ESP12SH/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/ESP12SH/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/ESP12SH/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/ESP12SH/subscription
+  svn_url: https://github.com/freetronics/ESP12SH
+  tags_url: https://api.github.com/repos/freetronics/ESP12SH/tags
+  teams_url: https://api.github.com/repos/freetronics/ESP12SH/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/ESP12SH/git/trees{/sha}
+  updated_at: '2018-03-28T00:52:34Z'
+  url: https://api.github.com/repos/freetronics/ESP12SH
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

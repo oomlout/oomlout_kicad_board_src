@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/myelin/ElectronFpga/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/myelin/ElectronFpga/assignees{/user}
-blobs_url: https://api.github.com/repos/myelin/ElectronFpga/git/blobs{/sha}
-branches_url: https://api.github.com/repos/myelin/ElectronFpga/branches{/branch}
-clone_url: https://github.com/myelin/ElectronFpga.git
-collaborators_url: https://api.github.com/repos/myelin/ElectronFpga/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/myelin/ElectronFpga/comments{/number}
-commits_url: https://api.github.com/repos/myelin/ElectronFpga/commits{/sha}
-compare_url: https://api.github.com/repos/myelin/ElectronFpga/compare/{base}...{head}
-contents_url: https://api.github.com/repos/myelin/ElectronFpga/contents/{+path}
-contributors_url: https://api.github.com/repos/myelin/ElectronFpga/contributors
-created_at: '2019-02-22T06:03:00Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/myelin/ElectronFpga/deployments
-description: Phillip Pearson's fork of hoglet67's ElectronFpga, for ULA PCB design
-disabled: false
-downloads_url: https://api.github.com/repos/myelin/ElectronFpga/downloads
-events_url: https://api.github.com/repos/myelin/ElectronFpga/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/myelin/ElectronFpga/forks
-full_name: myelin/ElectronFpga
-git_commits_url: https://api.github.com/repos/myelin/ElectronFpga/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/myelin/ElectronFpga/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/myelin/ElectronFpga/git/tags{/sha}
-git_url: git://github.com/myelin/ElectronFpga.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://github.com/hoglet67/ElectronFpga
-hooks_url: https://api.github.com/repos/myelin/ElectronFpga/hooks
-html_url: https://github.com/myelin/ElectronFpga
-id: 172003711
-is_template: false
-issue_comment_url: https://api.github.com/repos/myelin/ElectronFpga/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/myelin/ElectronFpga/issues/events{/number}
-issues_url: https://api.github.com/repos/myelin/ElectronFpga/issues{/number}
-keys_url: https://api.github.com/repos/myelin/ElectronFpga/keys{/key_id}
-labels_url: https://api.github.com/repos/myelin/ElectronFpga/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/myelin/ElectronFpga/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/myelin/ElectronFpga/merges
-milestones_url: https://api.github.com/repos/myelin/ElectronFpga/milestones{/number}
-mirror_url: null
-name: ElectronFpga
-node_id: MDEwOlJlcG9zaXRvcnkxNzIwMDM3MTE=
-notifications_url: https://api.github.com/repos/myelin/ElectronFpga/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/2219?v=4
-  events_url: https://api.github.com/users/myelin/events{/privacy}
-  followers_url: https://api.github.com/users/myelin/followers
-  following_url: https://api.github.com/users/myelin/following{/other_user}
-  gists_url: https://api.github.com/users/myelin/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/myelin
-  id: 2219
-  login: myelin
-  node_id: MDQ6VXNlcjIyMTk=
-  organizations_url: https://api.github.com/users/myelin/orgs
-  received_events_url: https://api.github.com/users/myelin/received_events
-  repos_url: https://api.github.com/users/myelin/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/myelin/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/myelin/subscriptions
-  type: User
-  url: https://api.github.com/users/myelin
-private: false
+links:
+  github_owner: myelin
+  github_repo_name: ElectronFpga
+  github_src: https://github.com/myelin/ElectronFpga
+  github_src_repo: https://github.com/myelin/ElectronFpga
+  oomp_bot: myelin_electronfpga
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/myelin_electronfpga
+  oomp_doc: projects/myelin_electronfpga/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/myelin_electronfpga
+  oomp_src_flat: projects_flat/myelin_electronfpga
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/myelin_electronfpga
+  oomp_src_folder: projects_folder\myelin\ElectronFpga\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\myelin\ElectronFpga\version_current\working
+oomp_key: oomp_myelin_electronfpga
+oomp_key_simple: myelin_electronfpga
 projects_flat: projects_flat/myelin_electronfpga/version_current/working
 projects_folder: projects_folder/myelin/ElectronFpga/version_current/working
-pulls_url: https://api.github.com/repos/myelin/ElectronFpga/pulls{/number}
-pushed_at: '2020-06-30T07:18:40Z'
-releases_url: https://api.github.com/repos/myelin/ElectronFpga/releases{/id}
-size: 15945
-ssh_url: git@github.com:myelin/ElectronFpga.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/myelin/ElectronFpga/stargazers
-statuses_url: https://api.github.com/repos/myelin/ElectronFpga/statuses/{sha}
-subscribers_url: https://api.github.com/repos/myelin/ElectronFpga/subscribers
-subscription_url: https://api.github.com/repos/myelin/ElectronFpga/subscription
-svn_url: https://github.com/myelin/ElectronFpga
-tags_url: https://api.github.com/repos/myelin/ElectronFpga/tags
-teams_url: https://api.github.com/repos/myelin/ElectronFpga/teams
-topics: []
-trees_url: https://api.github.com/repos/myelin/ElectronFpga/git/trees{/sha}
-updated_at: '2020-06-30T07:18:43Z'
-url: https://api.github.com/repos/myelin/ElectronFpga
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/myelin/ElectronFpga/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/myelin/ElectronFpga/assignees{/user}
+  blobs_url: https://api.github.com/repos/myelin/ElectronFpga/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/myelin/ElectronFpga/branches{/branch}
+  clone_url: https://github.com/myelin/ElectronFpga.git
+  collaborators_url: https://api.github.com/repos/myelin/ElectronFpga/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/myelin/ElectronFpga/comments{/number}
+  commits_url: https://api.github.com/repos/myelin/ElectronFpga/commits{/sha}
+  compare_url: https://api.github.com/repos/myelin/ElectronFpga/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/myelin/ElectronFpga/contents/{+path}
+  contributors_url: https://api.github.com/repos/myelin/ElectronFpga/contributors
+  created_at: '2019-02-22T06:03:00Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/myelin/ElectronFpga/deployments
+  description: Phillip Pearson's fork of hoglet67's ElectronFpga, for ULA PCB design
+  disabled: false
+  downloads_url: https://api.github.com/repos/myelin/ElectronFpga/downloads
+  events_url: https://api.github.com/repos/myelin/ElectronFpga/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/myelin/ElectronFpga/forks
+  full_name: myelin/ElectronFpga
+  git_commits_url: https://api.github.com/repos/myelin/ElectronFpga/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/myelin/ElectronFpga/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/myelin/ElectronFpga/git/tags{/sha}
+  git_url: git://github.com/myelin/ElectronFpga.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://github.com/hoglet67/ElectronFpga
+  hooks_url: https://api.github.com/repos/myelin/ElectronFpga/hooks
+  html_url: https://github.com/myelin/ElectronFpga
+  id: 172003711
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/myelin/ElectronFpga/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/myelin/ElectronFpga/issues/events{/number}
+  issues_url: https://api.github.com/repos/myelin/ElectronFpga/issues{/number}
+  keys_url: https://api.github.com/repos/myelin/ElectronFpga/keys{/key_id}
+  labels_url: https://api.github.com/repos/myelin/ElectronFpga/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/myelin/ElectronFpga/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/myelin/ElectronFpga/merges
+  milestones_url: https://api.github.com/repos/myelin/ElectronFpga/milestones{/number}
+  mirror_url: null
+  name: ElectronFpga
+  node_id: MDEwOlJlcG9zaXRvcnkxNzIwMDM3MTE=
+  notifications_url: https://api.github.com/repos/myelin/ElectronFpga/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/2219?v=4
+    events_url: https://api.github.com/users/myelin/events{/privacy}
+    followers_url: https://api.github.com/users/myelin/followers
+    following_url: https://api.github.com/users/myelin/following{/other_user}
+    gists_url: https://api.github.com/users/myelin/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/myelin
+    id: 2219
+    login: myelin
+    node_id: MDQ6VXNlcjIyMTk=
+    organizations_url: https://api.github.com/users/myelin/orgs
+    received_events_url: https://api.github.com/users/myelin/received_events
+    repos_url: https://api.github.com/users/myelin/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/myelin/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/myelin/subscriptions
+    type: User
+    url: https://api.github.com/users/myelin
+  private: false
+  pulls_url: https://api.github.com/repos/myelin/ElectronFpga/pulls{/number}
+  pushed_at: '2020-06-30T07:18:40Z'
+  releases_url: https://api.github.com/repos/myelin/ElectronFpga/releases{/id}
+  size: 15945
+  ssh_url: git@github.com:myelin/ElectronFpga.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/myelin/ElectronFpga/stargazers
+  statuses_url: https://api.github.com/repos/myelin/ElectronFpga/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/myelin/ElectronFpga/subscribers
+  subscription_url: https://api.github.com/repos/myelin/ElectronFpga/subscription
+  svn_url: https://github.com/myelin/ElectronFpga
+  tags_url: https://api.github.com/repos/myelin/ElectronFpga/tags
+  teams_url: https://api.github.com/repos/myelin/ElectronFpga/teams
+  topics: []
+  trees_url: https://api.github.com/repos/myelin/ElectronFpga/git/trees{/sha}
+  updated_at: '2020-06-30T07:18:43Z'
+  url: https://api.github.com/repos/myelin/ElectronFpga
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

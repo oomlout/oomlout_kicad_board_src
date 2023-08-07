@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ai03-2725/Orbit/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ai03-2725/Orbit/assignees{/user}
-blobs_url: https://api.github.com/repos/ai03-2725/Orbit/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ai03-2725/Orbit/branches{/branch}
-clone_url: https://github.com/ai03-2725/Orbit.git
-collaborators_url: https://api.github.com/repos/ai03-2725/Orbit/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ai03-2725/Orbit/comments{/number}
-commits_url: https://api.github.com/repos/ai03-2725/Orbit/commits{/sha}
-compare_url: https://api.github.com/repos/ai03-2725/Orbit/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ai03-2725/Orbit/contents/{+path}
-contributors_url: https://api.github.com/repos/ai03-2725/Orbit/contributors
-created_at: '2018-09-01T08:23:22Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ai03-2725/Orbit/deployments
-description: Orbit Keyboard - Split ergonomic keyboard with 5 rows and 7 columns
-disabled: false
-downloads_url: https://api.github.com/repos/ai03-2725/Orbit/downloads
-events_url: https://api.github.com/repos/ai03-2725/Orbit/events
-fork: true
-forks: 10
-forks_count: 10
-forks_url: https://api.github.com/repos/ai03-2725/Orbit/forks
-full_name: ai03-2725/Orbit
-git_commits_url: https://api.github.com/repos/ai03-2725/Orbit/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ai03-2725/Orbit/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ai03-2725/Orbit/git/tags{/sha}
-git_url: git://github.com/ai03-2725/Orbit.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ai03-2725/Orbit/hooks
-html_url: https://github.com/ai03-2725/Orbit
-id: 146981287
-is_template: false
-issue_comment_url: https://api.github.com/repos/ai03-2725/Orbit/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ai03-2725/Orbit/issues/events{/number}
-issues_url: https://api.github.com/repos/ai03-2725/Orbit/issues{/number}
-keys_url: https://api.github.com/repos/ai03-2725/Orbit/keys{/key_id}
-labels_url: https://api.github.com/repos/ai03-2725/Orbit/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ai03-2725/Orbit/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/ai03-2725/Orbit/merges
-milestones_url: https://api.github.com/repos/ai03-2725/Orbit/milestones{/number}
-mirror_url: null
-name: Orbit
-node_id: MDEwOlJlcG9zaXRvcnkxNDY5ODEyODc=
-notifications_url: https://api.github.com/repos/ai03-2725/Orbit/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/26614352?v=4
-  events_url: https://api.github.com/users/ai03-2725/events{/privacy}
-  followers_url: https://api.github.com/users/ai03-2725/followers
-  following_url: https://api.github.com/users/ai03-2725/following{/other_user}
-  gists_url: https://api.github.com/users/ai03-2725/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ai03-2725
-  id: 26614352
-  login: ai03-2725
-  node_id: MDQ6VXNlcjI2NjE0MzUy
-  organizations_url: https://api.github.com/users/ai03-2725/orgs
-  received_events_url: https://api.github.com/users/ai03-2725/received_events
-  repos_url: https://api.github.com/users/ai03-2725/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ai03-2725/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ai03-2725/subscriptions
-  type: User
-  url: https://api.github.com/users/ai03-2725
-private: false
+links:
+  github_owner: ai03-2725
+  github_repo_name: Orbit
+  github_src: https://github.com/ai03-2725/Orbit
+  github_src_repo: https://github.com/ai03-2725/Orbit
+  oomp_bot: ai03_2725_orbit
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/ai03_2725_orbit
+  oomp_doc: projects/ai03_2725_orbit/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/ai03_2725_orbit
+  oomp_src_flat: projects_flat/ai03_2725_orbit
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/ai03_2725_orbit
+  oomp_src_folder: projects_folder\ai03-2725\Orbit\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ai03-2725\Orbit\version_current\working
+oomp_key: oomp_ai03_2725_orbit
+oomp_key_simple: ai03_2725_orbit
 projects_flat: projects_flat/ai03_2725_orbit/version_current/working
 projects_folder: projects_folder/ai03-2725/Orbit/version_current/working
-pulls_url: https://api.github.com/repos/ai03-2725/Orbit/pulls{/number}
-pushed_at: '2020-06-18T18:46:40Z'
-releases_url: https://api.github.com/repos/ai03-2725/Orbit/releases{/id}
-size: 20574
-ssh_url: git@github.com:ai03-2725/Orbit.git
-stargazers_count: 69
-stargazers_url: https://api.github.com/repos/ai03-2725/Orbit/stargazers
-statuses_url: https://api.github.com/repos/ai03-2725/Orbit/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ai03-2725/Orbit/subscribers
-subscription_url: https://api.github.com/repos/ai03-2725/Orbit/subscription
-svn_url: https://github.com/ai03-2725/Orbit
-tags_url: https://api.github.com/repos/ai03-2725/Orbit/tags
-teams_url: https://api.github.com/repos/ai03-2725/Orbit/teams
-topics: []
-trees_url: https://api.github.com/repos/ai03-2725/Orbit/git/trees{/sha}
-updated_at: '2023-07-11T14:50:08Z'
-url: https://api.github.com/repos/ai03-2725/Orbit
-visibility: public
-watchers: 69
-watchers_count: 69
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ai03-2725/Orbit/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ai03-2725/Orbit/assignees{/user}
+  blobs_url: https://api.github.com/repos/ai03-2725/Orbit/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ai03-2725/Orbit/branches{/branch}
+  clone_url: https://github.com/ai03-2725/Orbit.git
+  collaborators_url: https://api.github.com/repos/ai03-2725/Orbit/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ai03-2725/Orbit/comments{/number}
+  commits_url: https://api.github.com/repos/ai03-2725/Orbit/commits{/sha}
+  compare_url: https://api.github.com/repos/ai03-2725/Orbit/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ai03-2725/Orbit/contents/{+path}
+  contributors_url: https://api.github.com/repos/ai03-2725/Orbit/contributors
+  created_at: '2018-09-01T08:23:22Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ai03-2725/Orbit/deployments
+  description: Orbit Keyboard - Split ergonomic keyboard with 5 rows and 7 columns
+  disabled: false
+  downloads_url: https://api.github.com/repos/ai03-2725/Orbit/downloads
+  events_url: https://api.github.com/repos/ai03-2725/Orbit/events
+  fork: true
+  forks: 10
+  forks_count: 10
+  forks_url: https://api.github.com/repos/ai03-2725/Orbit/forks
+  full_name: ai03-2725/Orbit
+  git_commits_url: https://api.github.com/repos/ai03-2725/Orbit/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ai03-2725/Orbit/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ai03-2725/Orbit/git/tags{/sha}
+  git_url: git://github.com/ai03-2725/Orbit.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ai03-2725/Orbit/hooks
+  html_url: https://github.com/ai03-2725/Orbit
+  id: 146981287
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ai03-2725/Orbit/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ai03-2725/Orbit/issues/events{/number}
+  issues_url: https://api.github.com/repos/ai03-2725/Orbit/issues{/number}
+  keys_url: https://api.github.com/repos/ai03-2725/Orbit/keys{/key_id}
+  labels_url: https://api.github.com/repos/ai03-2725/Orbit/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ai03-2725/Orbit/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/ai03-2725/Orbit/merges
+  milestones_url: https://api.github.com/repos/ai03-2725/Orbit/milestones{/number}
+  mirror_url: null
+  name: Orbit
+  node_id: MDEwOlJlcG9zaXRvcnkxNDY5ODEyODc=
+  notifications_url: https://api.github.com/repos/ai03-2725/Orbit/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/26614352?v=4
+    events_url: https://api.github.com/users/ai03-2725/events{/privacy}
+    followers_url: https://api.github.com/users/ai03-2725/followers
+    following_url: https://api.github.com/users/ai03-2725/following{/other_user}
+    gists_url: https://api.github.com/users/ai03-2725/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ai03-2725
+    id: 26614352
+    login: ai03-2725
+    node_id: MDQ6VXNlcjI2NjE0MzUy
+    organizations_url: https://api.github.com/users/ai03-2725/orgs
+    received_events_url: https://api.github.com/users/ai03-2725/received_events
+    repos_url: https://api.github.com/users/ai03-2725/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ai03-2725/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ai03-2725/subscriptions
+    type: User
+    url: https://api.github.com/users/ai03-2725
+  private: false
+  pulls_url: https://api.github.com/repos/ai03-2725/Orbit/pulls{/number}
+  pushed_at: '2020-06-18T18:46:40Z'
+  releases_url: https://api.github.com/repos/ai03-2725/Orbit/releases{/id}
+  size: 20574
+  ssh_url: git@github.com:ai03-2725/Orbit.git
+  stargazers_count: 69
+  stargazers_url: https://api.github.com/repos/ai03-2725/Orbit/stargazers
+  statuses_url: https://api.github.com/repos/ai03-2725/Orbit/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ai03-2725/Orbit/subscribers
+  subscription_url: https://api.github.com/repos/ai03-2725/Orbit/subscription
+  svn_url: https://github.com/ai03-2725/Orbit
+  tags_url: https://api.github.com/repos/ai03-2725/Orbit/tags
+  teams_url: https://api.github.com/repos/ai03-2725/Orbit/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ai03-2725/Orbit/git/trees{/sha}
+  updated_at: '2023-07-11T14:50:08Z'
+  url: https://api.github.com/repos/ai03-2725/Orbit
+  visibility: public
+  watchers: 69
+  watchers_count: 69
+  web_commit_signoff_required: false

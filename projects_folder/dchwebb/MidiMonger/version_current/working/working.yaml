@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dchwebb/MidiMonger/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dchwebb/MidiMonger/assignees{/user}
-blobs_url: https://api.github.com/repos/dchwebb/MidiMonger/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dchwebb/MidiMonger/branches{/branch}
-clone_url: https://github.com/dchwebb/MidiMonger.git
-collaborators_url: https://api.github.com/repos/dchwebb/MidiMonger/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dchwebb/MidiMonger/comments{/number}
-commits_url: https://api.github.com/repos/dchwebb/MidiMonger/commits{/sha}
-compare_url: https://api.github.com/repos/dchwebb/MidiMonger/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dchwebb/MidiMonger/contents/{+path}
-contributors_url: https://api.github.com/repos/dchwebb/MidiMonger/contributors
-created_at: '2019-10-24T14:20:32Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/dchwebb/MidiMonger/deployments
-description: Eurorack MIDI interface supporting USB and serial MIDI. Based on ARM
-  STM32F446 MCU.
-disabled: false
-downloads_url: https://api.github.com/repos/dchwebb/MidiMonger/downloads
-events_url: https://api.github.com/repos/dchwebb/MidiMonger/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/dchwebb/MidiMonger/forks
-full_name: dchwebb/MidiMonger
-git_commits_url: https://api.github.com/repos/dchwebb/MidiMonger/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dchwebb/MidiMonger/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dchwebb/MidiMonger/git/tags{/sha}
-git_url: git://github.com/dchwebb/MidiMonger.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/dchwebb/MidiMonger/hooks
-html_url: https://github.com/dchwebb/MidiMonger
-id: 217317554
-is_template: false
-issue_comment_url: https://api.github.com/repos/dchwebb/MidiMonger/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dchwebb/MidiMonger/issues/events{/number}
-issues_url: https://api.github.com/repos/dchwebb/MidiMonger/issues{/number}
-keys_url: https://api.github.com/repos/dchwebb/MidiMonger/keys{/key_id}
-labels_url: https://api.github.com/repos/dchwebb/MidiMonger/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/dchwebb/MidiMonger/languages
-license: null
-merges_url: https://api.github.com/repos/dchwebb/MidiMonger/merges
-milestones_url: https://api.github.com/repos/dchwebb/MidiMonger/milestones{/number}
-mirror_url: null
-name: MidiMonger
-node_id: MDEwOlJlcG9zaXRvcnkyMTczMTc1NTQ=
-notifications_url: https://api.github.com/repos/dchwebb/MidiMonger/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
-  events_url: https://api.github.com/users/dchwebb/events{/privacy}
-  followers_url: https://api.github.com/users/dchwebb/followers
-  following_url: https://api.github.com/users/dchwebb/following{/other_user}
-  gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dchwebb
-  id: 16348549
-  login: dchwebb
-  node_id: MDQ6VXNlcjE2MzQ4NTQ5
-  organizations_url: https://api.github.com/users/dchwebb/orgs
-  received_events_url: https://api.github.com/users/dchwebb/received_events
-  repos_url: https://api.github.com/users/dchwebb/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
-  type: User
-  url: https://api.github.com/users/dchwebb
-private: false
+links:
+  github_owner: dchwebb
+  github_repo_name: MidiMonger
+  github_src: https://github.com/dchwebb/MidiMonger
+  github_src_repo: https://github.com/dchwebb/MidiMonger
+  oomp_bot: dchwebb_midimonger
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/dchwebb_midimonger
+  oomp_doc: projects/dchwebb_midimonger/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/dchwebb_midimonger
+  oomp_src_flat: projects_flat/dchwebb_midimonger
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/dchwebb_midimonger
+  oomp_src_folder: projects_folder\dchwebb\MidiMonger\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\dchwebb\MidiMonger\version_current\working
+oomp_key: oomp_dchwebb_midimonger
+oomp_key_simple: dchwebb_midimonger
 projects_flat: projects_flat/dchwebb_midimonger/version_current/working
 projects_folder: projects_folder/dchwebb/MidiMonger/version_current/working
-pulls_url: https://api.github.com/repos/dchwebb/MidiMonger/pulls{/number}
-pushed_at: '2023-03-31T10:02:28Z'
-releases_url: https://api.github.com/repos/dchwebb/MidiMonger/releases{/id}
-size: 9800
-ssh_url: git@github.com:dchwebb/MidiMonger.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/dchwebb/MidiMonger/stargazers
-statuses_url: https://api.github.com/repos/dchwebb/MidiMonger/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dchwebb/MidiMonger/subscribers
-subscription_url: https://api.github.com/repos/dchwebb/MidiMonger/subscription
-svn_url: https://github.com/dchwebb/MidiMonger
-tags_url: https://api.github.com/repos/dchwebb/MidiMonger/tags
-teams_url: https://api.github.com/repos/dchwebb/MidiMonger/teams
-topics: []
-trees_url: https://api.github.com/repos/dchwebb/MidiMonger/git/trees{/sha}
-updated_at: '2023-07-20T13:38:52Z'
-url: https://api.github.com/repos/dchwebb/MidiMonger
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dchwebb/MidiMonger/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dchwebb/MidiMonger/assignees{/user}
+  blobs_url: https://api.github.com/repos/dchwebb/MidiMonger/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dchwebb/MidiMonger/branches{/branch}
+  clone_url: https://github.com/dchwebb/MidiMonger.git
+  collaborators_url: https://api.github.com/repos/dchwebb/MidiMonger/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dchwebb/MidiMonger/comments{/number}
+  commits_url: https://api.github.com/repos/dchwebb/MidiMonger/commits{/sha}
+  compare_url: https://api.github.com/repos/dchwebb/MidiMonger/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dchwebb/MidiMonger/contents/{+path}
+  contributors_url: https://api.github.com/repos/dchwebb/MidiMonger/contributors
+  created_at: '2019-10-24T14:20:32Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/dchwebb/MidiMonger/deployments
+  description: Eurorack MIDI interface supporting USB and serial MIDI. Based on ARM
+    STM32F446 MCU.
+  disabled: false
+  downloads_url: https://api.github.com/repos/dchwebb/MidiMonger/downloads
+  events_url: https://api.github.com/repos/dchwebb/MidiMonger/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/dchwebb/MidiMonger/forks
+  full_name: dchwebb/MidiMonger
+  git_commits_url: https://api.github.com/repos/dchwebb/MidiMonger/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dchwebb/MidiMonger/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dchwebb/MidiMonger/git/tags{/sha}
+  git_url: git://github.com/dchwebb/MidiMonger.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/dchwebb/MidiMonger/hooks
+  html_url: https://github.com/dchwebb/MidiMonger
+  id: 217317554
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dchwebb/MidiMonger/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dchwebb/MidiMonger/issues/events{/number}
+  issues_url: https://api.github.com/repos/dchwebb/MidiMonger/issues{/number}
+  keys_url: https://api.github.com/repos/dchwebb/MidiMonger/keys{/key_id}
+  labels_url: https://api.github.com/repos/dchwebb/MidiMonger/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/dchwebb/MidiMonger/languages
+  license: null
+  merges_url: https://api.github.com/repos/dchwebb/MidiMonger/merges
+  milestones_url: https://api.github.com/repos/dchwebb/MidiMonger/milestones{/number}
+  mirror_url: null
+  name: MidiMonger
+  node_id: MDEwOlJlcG9zaXRvcnkyMTczMTc1NTQ=
+  notifications_url: https://api.github.com/repos/dchwebb/MidiMonger/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
+    events_url: https://api.github.com/users/dchwebb/events{/privacy}
+    followers_url: https://api.github.com/users/dchwebb/followers
+    following_url: https://api.github.com/users/dchwebb/following{/other_user}
+    gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dchwebb
+    id: 16348549
+    login: dchwebb
+    node_id: MDQ6VXNlcjE2MzQ4NTQ5
+    organizations_url: https://api.github.com/users/dchwebb/orgs
+    received_events_url: https://api.github.com/users/dchwebb/received_events
+    repos_url: https://api.github.com/users/dchwebb/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
+    type: User
+    url: https://api.github.com/users/dchwebb
+  private: false
+  pulls_url: https://api.github.com/repos/dchwebb/MidiMonger/pulls{/number}
+  pushed_at: '2023-03-31T10:02:28Z'
+  releases_url: https://api.github.com/repos/dchwebb/MidiMonger/releases{/id}
+  size: 9800
+  ssh_url: git@github.com:dchwebb/MidiMonger.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/dchwebb/MidiMonger/stargazers
+  statuses_url: https://api.github.com/repos/dchwebb/MidiMonger/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dchwebb/MidiMonger/subscribers
+  subscription_url: https://api.github.com/repos/dchwebb/MidiMonger/subscription
+  svn_url: https://github.com/dchwebb/MidiMonger
+  tags_url: https://api.github.com/repos/dchwebb/MidiMonger/tags
+  teams_url: https://api.github.com/repos/dchwebb/MidiMonger/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dchwebb/MidiMonger/git/trees{/sha}
+  updated_at: '2023-07-20T13:38:52Z'
+  url: https://api.github.com/repos/dchwebb/MidiMonger
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

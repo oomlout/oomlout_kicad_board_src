@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/branches{/branch}
-clone_url: https://github.com/OLIMEX/LoRa-STM32WL-DevKIT.git
-collaborators_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/contributors
-created_at: '2021-11-23T14:49:11Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/deployments
-description: STM32WL SOC LoRa / LoRaWAN development board with JTAG debugger and sensors
-  for light, temperature, humidity, pressure, 3-axis digital magnetometer
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/downloads
-events_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/events
-fork: false
-forks: 12
-forks_count: 12
-forks_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/forks
-full_name: OLIMEX/LoRa-STM32WL-DevKIT
-git_commits_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/git/tags{/sha}
-git_url: git://github.com/OLIMEX/LoRa-STM32WL-DevKIT.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/hooks
-html_url: https://github.com/OLIMEX/LoRa-STM32WL-DevKIT
-id: 431139397
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/merges
-milestones_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/milestones{/number}
-mirror_url: null
-name: LoRa-STM32WL-DevKIT
-node_id: R_kgDOGbKqRQ
-notifications_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/notifications{?since,all,participating}
-open_issues: 7
-open_issues_count: 7
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: LoRa-STM32WL-DevKIT
+  github_src: https://github.com/OLIMEX/LoRa-STM32WL-DevKIT
+  github_src_repo: https://github.com/OLIMEX/LoRa-STM32WL-DevKIT
+  oomp_bot: projects_olimex_lora_stm32wl_devkit
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_olimex_lora_stm32wl_devkit
+  oomp_doc: projects/projects_flat_olimex_lora_stm32wl_devkit/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_olimex_lora_stm32wl_devkit
+  oomp_src_flat: projects_flat/projects_flat_olimex_lora_stm32wl_devkit
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_olimex_lora_stm32wl_devkit
+  oomp_src_folder: projects_flat\olimex_lora_stm32wl_devkit\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\olimex_lora_stm32wl_devkit\version_current\working
+oomp_key: oomp_projects_flat_olimex_lora_stm32wl_devkit
+oomp_key_simple: projects_flat_olimex_lora_stm32wl_devkit
 projects_flat: projects_flat/olimex_lora_stm32wl_devkit/version_current/working
 projects_folder: projects_folder/OLIMEX/LoRa-STM32WL-DevKIT/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/pulls{/number}
-pushed_at: '2023-03-29T08:33:25Z'
-releases_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/releases{/id}
-size: 12350
-ssh_url: git@github.com:OLIMEX/LoRa-STM32WL-DevKIT.git
-stargazers_count: 11
-stargazers_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/subscription
-svn_url: https://github.com/OLIMEX/LoRa-STM32WL-DevKIT
-tags_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/tags
-teams_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/git/trees{/sha}
-updated_at: '2023-05-31T11:09:08Z'
-url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT
-visibility: public
-watchers: 11
-watchers_count: 11
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/branches{/branch}
+  clone_url: https://github.com/OLIMEX/LoRa-STM32WL-DevKIT.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/contributors
+  created_at: '2021-11-23T14:49:11Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/deployments
+  description: STM32WL SOC LoRa / LoRaWAN development board with JTAG debugger and
+    sensors for light, temperature, humidity, pressure, 3-axis digital magnetometer
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/downloads
+  events_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/events
+  fork: false
+  forks: 12
+  forks_count: 12
+  forks_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/forks
+  full_name: OLIMEX/LoRa-STM32WL-DevKIT
+  git_commits_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/LoRa-STM32WL-DevKIT.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/hooks
+  html_url: https://github.com/OLIMEX/LoRa-STM32WL-DevKIT
+  id: 431139397
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/milestones{/number}
+  mirror_url: null
+  name: LoRa-STM32WL-DevKIT
+  node_id: R_kgDOGbKqRQ
+  notifications_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/notifications{?since,all,participating}
+  open_issues: 7
+  open_issues_count: 7
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/pulls{/number}
+  pushed_at: '2023-03-29T08:33:25Z'
+  releases_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/releases{/id}
+  size: 12350
+  ssh_url: git@github.com:OLIMEX/LoRa-STM32WL-DevKIT.git
+  stargazers_count: 11
+  stargazers_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/subscription
+  svn_url: https://github.com/OLIMEX/LoRa-STM32WL-DevKIT
+  tags_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/tags
+  teams_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT/git/trees{/sha}
+  updated_at: '2023-05-31T11:09:08Z'
+  url: https://api.github.com/repos/OLIMEX/LoRa-STM32WL-DevKIT
+  visibility: public
+  watchers: 11
+  watchers_count: 11
+  web_commit_signoff_required: false

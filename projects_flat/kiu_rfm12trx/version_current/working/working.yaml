@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/kiu/rfm12trx/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/kiu/rfm12trx/assignees{/user}
-blobs_url: https://api.github.com/repos/kiu/rfm12trx/git/blobs{/sha}
-branches_url: https://api.github.com/repos/kiu/rfm12trx/branches{/branch}
-clone_url: https://github.com/kiu/rfm12trx.git
-collaborators_url: https://api.github.com/repos/kiu/rfm12trx/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/kiu/rfm12trx/comments{/number}
-commits_url: https://api.github.com/repos/kiu/rfm12trx/commits{/sha}
-compare_url: https://api.github.com/repos/kiu/rfm12trx/compare/{base}...{head}
-contents_url: https://api.github.com/repos/kiu/rfm12trx/contents/{+path}
-contributors_url: https://api.github.com/repos/kiu/rfm12trx/contributors
-created_at: '2012-08-09T22:10:46Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/kiu/rfm12trx/deployments
-description: rfm12trx - A simple RFM12 433Mhz transceiver
-disabled: false
-downloads_url: https://api.github.com/repos/kiu/rfm12trx/downloads
-events_url: https://api.github.com/repos/kiu/rfm12trx/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/kiu/rfm12trx/forks
-full_name: kiu/rfm12trx
-git_commits_url: https://api.github.com/repos/kiu/rfm12trx/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/kiu/rfm12trx/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/kiu/rfm12trx/git/tags{/sha}
-git_url: git://github.com/kiu/rfm12trx.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: false
-has_wiki: false
-homepage: http://www.schoar.de/tinkering/rfm12trx/
-hooks_url: https://api.github.com/repos/kiu/rfm12trx/hooks
-html_url: https://github.com/kiu/rfm12trx
-id: 5361940
-is_template: false
-issue_comment_url: https://api.github.com/repos/kiu/rfm12trx/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/kiu/rfm12trx/issues/events{/number}
-issues_url: https://api.github.com/repos/kiu/rfm12trx/issues{/number}
-keys_url: https://api.github.com/repos/kiu/rfm12trx/keys{/key_id}
-labels_url: https://api.github.com/repos/kiu/rfm12trx/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/kiu/rfm12trx/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/kiu/rfm12trx/merges
-milestones_url: https://api.github.com/repos/kiu/rfm12trx/milestones{/number}
-mirror_url: null
-name: rfm12trx
-node_id: MDEwOlJlcG9zaXRvcnk1MzYxOTQw
-notifications_url: https://api.github.com/repos/kiu/rfm12trx/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/785968?v=4
-  events_url: https://api.github.com/users/kiu/events{/privacy}
-  followers_url: https://api.github.com/users/kiu/followers
-  following_url: https://api.github.com/users/kiu/following{/other_user}
-  gists_url: https://api.github.com/users/kiu/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/kiu
-  id: 785968
-  login: kiu
-  node_id: MDQ6VXNlcjc4NTk2OA==
-  organizations_url: https://api.github.com/users/kiu/orgs
-  received_events_url: https://api.github.com/users/kiu/received_events
-  repos_url: https://api.github.com/users/kiu/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/kiu/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/kiu/subscriptions
-  type: User
-  url: https://api.github.com/users/kiu
-private: false
+links:
+  github_owner: kiu
+  github_repo_name: rfm12trx
+  github_src: https://github.com/kiu/rfm12trx
+  github_src_repo: https://github.com/kiu/rfm12trx
+  oomp_bot: projects_kiu_rfm12trx
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_kiu_rfm12trx
+  oomp_doc: projects/projects_flat_kiu_rfm12trx/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_kiu_rfm12trx
+  oomp_src_flat: projects_flat/projects_flat_kiu_rfm12trx
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_kiu_rfm12trx
+  oomp_src_folder: projects_flat\kiu_rfm12trx\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\kiu_rfm12trx\version_current\working
+oomp_key: oomp_projects_flat_kiu_rfm12trx
+oomp_key_simple: projects_flat_kiu_rfm12trx
 projects_flat: projects_flat/kiu_rfm12trx/version_current/working
 projects_folder: projects_folder/kiu/rfm12trx/version_current/working
-pulls_url: https://api.github.com/repos/kiu/rfm12trx/pulls{/number}
-pushed_at: '2012-08-19T17:38:51Z'
-releases_url: https://api.github.com/repos/kiu/rfm12trx/releases{/id}
-size: 12948
-ssh_url: git@github.com:kiu/rfm12trx.git
-stargazers_count: 9
-stargazers_url: https://api.github.com/repos/kiu/rfm12trx/stargazers
-statuses_url: https://api.github.com/repos/kiu/rfm12trx/statuses/{sha}
-subscribers_url: https://api.github.com/repos/kiu/rfm12trx/subscribers
-subscription_url: https://api.github.com/repos/kiu/rfm12trx/subscription
-svn_url: https://github.com/kiu/rfm12trx
-tags_url: https://api.github.com/repos/kiu/rfm12trx/tags
-teams_url: https://api.github.com/repos/kiu/rfm12trx/teams
-topics: []
-trees_url: https://api.github.com/repos/kiu/rfm12trx/git/trees{/sha}
-updated_at: '2021-06-05T21:23:32Z'
-url: https://api.github.com/repos/kiu/rfm12trx
-visibility: public
-watchers: 9
-watchers_count: 9
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/kiu/rfm12trx/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/kiu/rfm12trx/assignees{/user}
+  blobs_url: https://api.github.com/repos/kiu/rfm12trx/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/kiu/rfm12trx/branches{/branch}
+  clone_url: https://github.com/kiu/rfm12trx.git
+  collaborators_url: https://api.github.com/repos/kiu/rfm12trx/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/kiu/rfm12trx/comments{/number}
+  commits_url: https://api.github.com/repos/kiu/rfm12trx/commits{/sha}
+  compare_url: https://api.github.com/repos/kiu/rfm12trx/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/kiu/rfm12trx/contents/{+path}
+  contributors_url: https://api.github.com/repos/kiu/rfm12trx/contributors
+  created_at: '2012-08-09T22:10:46Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/kiu/rfm12trx/deployments
+  description: rfm12trx - A simple RFM12 433Mhz transceiver
+  disabled: false
+  downloads_url: https://api.github.com/repos/kiu/rfm12trx/downloads
+  events_url: https://api.github.com/repos/kiu/rfm12trx/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/kiu/rfm12trx/forks
+  full_name: kiu/rfm12trx
+  git_commits_url: https://api.github.com/repos/kiu/rfm12trx/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/kiu/rfm12trx/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/kiu/rfm12trx/git/tags{/sha}
+  git_url: git://github.com/kiu/rfm12trx.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: false
+  has_wiki: false
+  homepage: http://www.schoar.de/tinkering/rfm12trx/
+  hooks_url: https://api.github.com/repos/kiu/rfm12trx/hooks
+  html_url: https://github.com/kiu/rfm12trx
+  id: 5361940
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/kiu/rfm12trx/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/kiu/rfm12trx/issues/events{/number}
+  issues_url: https://api.github.com/repos/kiu/rfm12trx/issues{/number}
+  keys_url: https://api.github.com/repos/kiu/rfm12trx/keys{/key_id}
+  labels_url: https://api.github.com/repos/kiu/rfm12trx/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/kiu/rfm12trx/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/kiu/rfm12trx/merges
+  milestones_url: https://api.github.com/repos/kiu/rfm12trx/milestones{/number}
+  mirror_url: null
+  name: rfm12trx
+  node_id: MDEwOlJlcG9zaXRvcnk1MzYxOTQw
+  notifications_url: https://api.github.com/repos/kiu/rfm12trx/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/785968?v=4
+    events_url: https://api.github.com/users/kiu/events{/privacy}
+    followers_url: https://api.github.com/users/kiu/followers
+    following_url: https://api.github.com/users/kiu/following{/other_user}
+    gists_url: https://api.github.com/users/kiu/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/kiu
+    id: 785968
+    login: kiu
+    node_id: MDQ6VXNlcjc4NTk2OA==
+    organizations_url: https://api.github.com/users/kiu/orgs
+    received_events_url: https://api.github.com/users/kiu/received_events
+    repos_url: https://api.github.com/users/kiu/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/kiu/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/kiu/subscriptions
+    type: User
+    url: https://api.github.com/users/kiu
+  private: false
+  pulls_url: https://api.github.com/repos/kiu/rfm12trx/pulls{/number}
+  pushed_at: '2012-08-19T17:38:51Z'
+  releases_url: https://api.github.com/repos/kiu/rfm12trx/releases{/id}
+  size: 12948
+  ssh_url: git@github.com:kiu/rfm12trx.git
+  stargazers_count: 9
+  stargazers_url: https://api.github.com/repos/kiu/rfm12trx/stargazers
+  statuses_url: https://api.github.com/repos/kiu/rfm12trx/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/kiu/rfm12trx/subscribers
+  subscription_url: https://api.github.com/repos/kiu/rfm12trx/subscription
+  svn_url: https://github.com/kiu/rfm12trx
+  tags_url: https://api.github.com/repos/kiu/rfm12trx/tags
+  teams_url: https://api.github.com/repos/kiu/rfm12trx/teams
+  topics: []
+  trees_url: https://api.github.com/repos/kiu/rfm12trx/git/trees{/sha}
+  updated_at: '2021-06-05T21:23:32Z'
+  url: https://api.github.com/repos/kiu/rfm12trx
+  visibility: public
+  watchers: 9
+  watchers_count: 9
+  web_commit_signoff_required: false

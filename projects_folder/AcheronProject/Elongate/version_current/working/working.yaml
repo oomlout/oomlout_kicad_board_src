@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/AcheronProject/Elongate/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/AcheronProject/Elongate/assignees{/user}
-blobs_url: https://api.github.com/repos/AcheronProject/Elongate/git/blobs{/sha}
-branches_url: https://api.github.com/repos/AcheronProject/Elongate/branches{/branch}
-clone_url: https://github.com/AcheronProject/Elongate.git
-collaborators_url: https://api.github.com/repos/AcheronProject/Elongate/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/AcheronProject/Elongate/comments{/number}
-commits_url: https://api.github.com/repos/AcheronProject/Elongate/commits{/sha}
-compare_url: https://api.github.com/repos/AcheronProject/Elongate/compare/{base}...{head}
-contents_url: https://api.github.com/repos/AcheronProject/Elongate/contents/{+path}
-contributors_url: https://api.github.com/repos/AcheronProject/Elongate/contributors
-created_at: '2019-07-03T21:07:10Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/AcheronProject/Elongate/deployments
-description: Elongate PCB official repository
-disabled: false
-downloads_url: https://api.github.com/repos/AcheronProject/Elongate/downloads
-events_url: https://api.github.com/repos/AcheronProject/Elongate/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/AcheronProject/Elongate/forks
-full_name: AcheronProject/Elongate
-git_commits_url: https://api.github.com/repos/AcheronProject/Elongate/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/AcheronProject/Elongate/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/AcheronProject/Elongate/git/tags{/sha}
-git_url: git://github.com/AcheronProject/Elongate.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/AcheronProject/Elongate/hooks
-html_url: https://github.com/AcheronProject/Elongate
-id: 195126459
-is_template: false
-issue_comment_url: https://api.github.com/repos/AcheronProject/Elongate/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/AcheronProject/Elongate/issues/events{/number}
-issues_url: https://api.github.com/repos/AcheronProject/Elongate/issues{/number}
-keys_url: https://api.github.com/repos/AcheronProject/Elongate/keys{/key_id}
-labels_url: https://api.github.com/repos/AcheronProject/Elongate/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/AcheronProject/Elongate/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/AcheronProject/Elongate/merges
-milestones_url: https://api.github.com/repos/AcheronProject/Elongate/milestones{/number}
-mirror_url: null
-name: Elongate
-node_id: MDEwOlJlcG9zaXRvcnkxOTUxMjY0NTk=
-notifications_url: https://api.github.com/repos/AcheronProject/Elongate/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
-  events_url: https://api.github.com/users/AcheronProject/events{/privacy}
-  followers_url: https://api.github.com/users/AcheronProject/followers
-  following_url: https://api.github.com/users/AcheronProject/following{/other_user}
-  gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/AcheronProject
-  id: 63755935
-  login: AcheronProject
-  node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
-  organizations_url: https://api.github.com/users/AcheronProject/orgs
-  received_events_url: https://api.github.com/users/AcheronProject/received_events
-  repos_url: https://api.github.com/users/AcheronProject/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
-  type: Organization
-  url: https://api.github.com/users/AcheronProject
-private: false
+links:
+  github_owner: AcheronProject
+  github_repo_name: Elongate
+  github_src: https://github.com/AcheronProject/Elongate
+  github_src_repo: https://github.com/AcheronProject/Elongate
+  oomp_bot: acheronproject_elongate
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/acheronproject_elongate
+  oomp_doc: projects/acheronproject_elongate/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/acheronproject_elongate
+  oomp_src_flat: projects_flat/acheronproject_elongate
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/acheronproject_elongate
+  oomp_src_folder: projects_folder\AcheronProject\Elongate\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\AcheronProject\Elongate\version_current\working
+oomp_key: oomp_acheronproject_elongate
+oomp_key_simple: acheronproject_elongate
 projects_flat: projects_flat/acheronproject_elongate/version_current/working
 projects_folder: projects_folder/AcheronProject/Elongate/version_current/working
-pulls_url: https://api.github.com/repos/AcheronProject/Elongate/pulls{/number}
-pushed_at: '2023-02-05T16:57:10Z'
-releases_url: https://api.github.com/repos/AcheronProject/Elongate/releases{/id}
-size: 119268
-ssh_url: git@github.com:AcheronProject/Elongate.git
-stargazers_count: 12
-stargazers_url: https://api.github.com/repos/AcheronProject/Elongate/stargazers
-statuses_url: https://api.github.com/repos/AcheronProject/Elongate/statuses/{sha}
-subscribers_url: https://api.github.com/repos/AcheronProject/Elongate/subscribers
-subscription_url: https://api.github.com/repos/AcheronProject/Elongate/subscription
-svn_url: https://github.com/AcheronProject/Elongate
-tags_url: https://api.github.com/repos/AcheronProject/Elongate/tags
-teams_url: https://api.github.com/repos/AcheronProject/Elongate/teams
-topics: []
-trees_url: https://api.github.com/repos/AcheronProject/Elongate/git/trees{/sha}
-updated_at: '2023-01-25T20:29:55Z'
-url: https://api.github.com/repos/AcheronProject/Elongate
-visibility: public
-watchers: 12
-watchers_count: 12
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/AcheronProject/Elongate/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/AcheronProject/Elongate/assignees{/user}
+  blobs_url: https://api.github.com/repos/AcheronProject/Elongate/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/AcheronProject/Elongate/branches{/branch}
+  clone_url: https://github.com/AcheronProject/Elongate.git
+  collaborators_url: https://api.github.com/repos/AcheronProject/Elongate/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/AcheronProject/Elongate/comments{/number}
+  commits_url: https://api.github.com/repos/AcheronProject/Elongate/commits{/sha}
+  compare_url: https://api.github.com/repos/AcheronProject/Elongate/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/AcheronProject/Elongate/contents/{+path}
+  contributors_url: https://api.github.com/repos/AcheronProject/Elongate/contributors
+  created_at: '2019-07-03T21:07:10Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/AcheronProject/Elongate/deployments
+  description: Elongate PCB official repository
+  disabled: false
+  downloads_url: https://api.github.com/repos/AcheronProject/Elongate/downloads
+  events_url: https://api.github.com/repos/AcheronProject/Elongate/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/AcheronProject/Elongate/forks
+  full_name: AcheronProject/Elongate
+  git_commits_url: https://api.github.com/repos/AcheronProject/Elongate/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/AcheronProject/Elongate/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/AcheronProject/Elongate/git/tags{/sha}
+  git_url: git://github.com/AcheronProject/Elongate.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/AcheronProject/Elongate/hooks
+  html_url: https://github.com/AcheronProject/Elongate
+  id: 195126459
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/AcheronProject/Elongate/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/AcheronProject/Elongate/issues/events{/number}
+  issues_url: https://api.github.com/repos/AcheronProject/Elongate/issues{/number}
+  keys_url: https://api.github.com/repos/AcheronProject/Elongate/keys{/key_id}
+  labels_url: https://api.github.com/repos/AcheronProject/Elongate/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/AcheronProject/Elongate/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/AcheronProject/Elongate/merges
+  milestones_url: https://api.github.com/repos/AcheronProject/Elongate/milestones{/number}
+  mirror_url: null
+  name: Elongate
+  node_id: MDEwOlJlcG9zaXRvcnkxOTUxMjY0NTk=
+  notifications_url: https://api.github.com/repos/AcheronProject/Elongate/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+    events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+    followers_url: https://api.github.com/users/AcheronProject/followers
+    following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+    gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/AcheronProject
+    id: 63755935
+    login: AcheronProject
+    node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+    organizations_url: https://api.github.com/users/AcheronProject/orgs
+    received_events_url: https://api.github.com/users/AcheronProject/received_events
+    repos_url: https://api.github.com/users/AcheronProject/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+    type: Organization
+    url: https://api.github.com/users/AcheronProject
+  private: false
+  pulls_url: https://api.github.com/repos/AcheronProject/Elongate/pulls{/number}
+  pushed_at: '2023-02-05T16:57:10Z'
+  releases_url: https://api.github.com/repos/AcheronProject/Elongate/releases{/id}
+  size: 119268
+  ssh_url: git@github.com:AcheronProject/Elongate.git
+  stargazers_count: 12
+  stargazers_url: https://api.github.com/repos/AcheronProject/Elongate/stargazers
+  statuses_url: https://api.github.com/repos/AcheronProject/Elongate/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/AcheronProject/Elongate/subscribers
+  subscription_url: https://api.github.com/repos/AcheronProject/Elongate/subscription
+  svn_url: https://github.com/AcheronProject/Elongate
+  tags_url: https://api.github.com/repos/AcheronProject/Elongate/tags
+  teams_url: https://api.github.com/repos/AcheronProject/Elongate/teams
+  topics: []
+  trees_url: https://api.github.com/repos/AcheronProject/Elongate/git/trees{/sha}
+  updated_at: '2023-01-25T20:29:55Z'
+  url: https://api.github.com/repos/AcheronProject/Elongate
+  visibility: public
+  watchers: 12
+  watchers_count: 12
+  web_commit_signoff_required: false

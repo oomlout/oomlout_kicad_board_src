@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/branches{/branch}
-clone_url: https://github.com/OLIMEX/OSHW-GHOST.git
-collaborators_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/contributors
-created_at: '2016-11-08T16:31:43Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/deployments
-description: Small SMT soldering kit with PIC10F206 re-programmable microcontroller,
-  capacitive sensor and LEDs
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/downloads
-events_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/forks
-full_name: OLIMEX/OSHW-GHOST
-git_commits_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/git/tags{/sha}
-git_url: git://github.com/OLIMEX/OSHW-GHOST.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/hooks
-html_url: https://github.com/OLIMEX/OSHW-GHOST
-id: 73205493
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/labels{/name}
-language: Makefile
-languages_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/languages
-license:
-  key: apache-2.0
-  name: Apache License 2.0
-  node_id: MDc6TGljZW5zZTI=
-  spdx_id: Apache-2.0
-  url: https://api.github.com/licenses/apache-2.0
-merges_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/merges
-milestones_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/milestones{/number}
-mirror_url: null
-name: OSHW-GHOST
-node_id: MDEwOlJlcG9zaXRvcnk3MzIwNTQ5Mw==
-notifications_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: OSHW-GHOST
+  github_src: https://github.com/OLIMEX/OSHW-GHOST
+  github_src_repo: https://github.com/OLIMEX/OSHW-GHOST
+  oomp_bot: projects_olimex_oshw_ghost
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_olimex_oshw_ghost
+  oomp_doc: projects/projects_flat_olimex_oshw_ghost/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_olimex_oshw_ghost
+  oomp_src_flat: projects_flat/projects_flat_olimex_oshw_ghost
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_olimex_oshw_ghost
+  oomp_src_folder: projects_flat\olimex_oshw_ghost\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\olimex_oshw_ghost\version_current\working
+oomp_key: oomp_projects_flat_olimex_oshw_ghost
+oomp_key_simple: projects_flat_olimex_oshw_ghost
 projects_flat: projects_flat/olimex_oshw_ghost/version_current/working
 projects_folder: projects_folder/OLIMEX/OSHW-GHOST/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/pulls{/number}
-pushed_at: '2022-10-17T12:02:17Z'
-releases_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/releases{/id}
-size: 1729
-ssh_url: git@github.com:OLIMEX/OSHW-GHOST.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/subscription
-svn_url: https://github.com/OLIMEX/OSHW-GHOST
-tags_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/tags
-teams_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/git/trees{/sha}
-updated_at: '2022-10-24T03:32:42Z'
-url: https://api.github.com/repos/OLIMEX/OSHW-GHOST
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/branches{/branch}
+  clone_url: https://github.com/OLIMEX/OSHW-GHOST.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/contributors
+  created_at: '2016-11-08T16:31:43Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/deployments
+  description: Small SMT soldering kit with PIC10F206 re-programmable microcontroller,
+    capacitive sensor and LEDs
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/downloads
+  events_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/forks
+  full_name: OLIMEX/OSHW-GHOST
+  git_commits_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/OSHW-GHOST.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/hooks
+  html_url: https://github.com/OLIMEX/OSHW-GHOST
+  id: 73205493
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/labels{/name}
+  language: Makefile
+  languages_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/languages
+  license:
+    key: apache-2.0
+    name: Apache License 2.0
+    node_id: MDc6TGljZW5zZTI=
+    spdx_id: Apache-2.0
+    url: https://api.github.com/licenses/apache-2.0
+  merges_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/milestones{/number}
+  mirror_url: null
+  name: OSHW-GHOST
+  node_id: MDEwOlJlcG9zaXRvcnk3MzIwNTQ5Mw==
+  notifications_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/pulls{/number}
+  pushed_at: '2022-10-17T12:02:17Z'
+  releases_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/releases{/id}
+  size: 1729
+  ssh_url: git@github.com:OLIMEX/OSHW-GHOST.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/subscription
+  svn_url: https://github.com/OLIMEX/OSHW-GHOST
+  tags_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/tags
+  teams_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/OSHW-GHOST/git/trees{/sha}
+  updated_at: '2022-10-24T03:32:42Z'
+  url: https://api.github.com/repos/OLIMEX/OSHW-GHOST
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

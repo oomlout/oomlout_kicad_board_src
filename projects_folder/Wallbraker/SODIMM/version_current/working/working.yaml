@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Wallbraker/SODIMM/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Wallbraker/SODIMM/assignees{/user}
-blobs_url: https://api.github.com/repos/Wallbraker/SODIMM/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Wallbraker/SODIMM/branches{/branch}
-clone_url: https://github.com/Wallbraker/SODIMM.git
-collaborators_url: https://api.github.com/repos/Wallbraker/SODIMM/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Wallbraker/SODIMM/comments{/number}
-commits_url: https://api.github.com/repos/Wallbraker/SODIMM/commits{/sha}
-compare_url: https://api.github.com/repos/Wallbraker/SODIMM/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Wallbraker/SODIMM/contents/{+path}
-contributors_url: https://api.github.com/repos/Wallbraker/SODIMM/contributors
-created_at: '2018-04-09T00:56:14Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Wallbraker/SODIMM/deployments
-description: Sodimm components for KiCad
-disabled: false
-downloads_url: https://api.github.com/repos/Wallbraker/SODIMM/downloads
-events_url: https://api.github.com/repos/Wallbraker/SODIMM/events
-fork: false
-forks: 7
-forks_count: 7
-forks_url: https://api.github.com/repos/Wallbraker/SODIMM/forks
-full_name: Wallbraker/SODIMM
-git_commits_url: https://api.github.com/repos/Wallbraker/SODIMM/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Wallbraker/SODIMM/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Wallbraker/SODIMM/git/tags{/sha}
-git_url: git://github.com/Wallbraker/SODIMM.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Wallbraker/SODIMM/hooks
-html_url: https://github.com/Wallbraker/SODIMM
-id: 128695307
-is_template: false
-issue_comment_url: https://api.github.com/repos/Wallbraker/SODIMM/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Wallbraker/SODIMM/issues/events{/number}
-issues_url: https://api.github.com/repos/Wallbraker/SODIMM/issues{/number}
-keys_url: https://api.github.com/repos/Wallbraker/SODIMM/keys{/key_id}
-labels_url: https://api.github.com/repos/Wallbraker/SODIMM/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/Wallbraker/SODIMM/languages
-license: null
-merges_url: https://api.github.com/repos/Wallbraker/SODIMM/merges
-milestones_url: https://api.github.com/repos/Wallbraker/SODIMM/milestones{/number}
-mirror_url: null
-name: SODIMM
-node_id: MDEwOlJlcG9zaXRvcnkxMjg2OTUzMDc=
-notifications_url: https://api.github.com/repos/Wallbraker/SODIMM/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/57528?v=4
-  events_url: https://api.github.com/users/Wallbraker/events{/privacy}
-  followers_url: https://api.github.com/users/Wallbraker/followers
-  following_url: https://api.github.com/users/Wallbraker/following{/other_user}
-  gists_url: https://api.github.com/users/Wallbraker/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Wallbraker
-  id: 57528
-  login: Wallbraker
-  node_id: MDQ6VXNlcjU3NTI4
-  organizations_url: https://api.github.com/users/Wallbraker/orgs
-  received_events_url: https://api.github.com/users/Wallbraker/received_events
-  repos_url: https://api.github.com/users/Wallbraker/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Wallbraker/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Wallbraker/subscriptions
-  type: User
-  url: https://api.github.com/users/Wallbraker
-private: false
+links:
+  github_owner: Wallbraker
+  github_repo_name: SODIMM
+  github_src: https://github.com/Wallbraker/SODIMM
+  github_src_repo: https://github.com/Wallbraker/SODIMM
+  oomp_bot: wallbraker_sodimm
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/wallbraker_sodimm
+  oomp_doc: projects/wallbraker_sodimm/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/wallbraker_sodimm
+  oomp_src_flat: projects_flat/wallbraker_sodimm
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/wallbraker_sodimm
+  oomp_src_folder: projects_folder\Wallbraker\SODIMM\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Wallbraker\SODIMM\version_current\working
+oomp_key: oomp_wallbraker_sodimm
+oomp_key_simple: wallbraker_sodimm
 projects_flat: projects_flat/wallbraker_sodimm/version_current/working
 projects_folder: projects_folder/Wallbraker/SODIMM/version_current/working
-pulls_url: https://api.github.com/repos/Wallbraker/SODIMM/pulls{/number}
-pushed_at: '2021-01-06T20:09:02Z'
-releases_url: https://api.github.com/repos/Wallbraker/SODIMM/releases{/id}
-size: 17
-ssh_url: git@github.com:Wallbraker/SODIMM.git
-stargazers_count: 25
-stargazers_url: https://api.github.com/repos/Wallbraker/SODIMM/stargazers
-statuses_url: https://api.github.com/repos/Wallbraker/SODIMM/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Wallbraker/SODIMM/subscribers
-subscription_url: https://api.github.com/repos/Wallbraker/SODIMM/subscription
-svn_url: https://github.com/Wallbraker/SODIMM
-tags_url: https://api.github.com/repos/Wallbraker/SODIMM/tags
-teams_url: https://api.github.com/repos/Wallbraker/SODIMM/teams
-topics:
-- kicad
-- kicad-footprints
-trees_url: https://api.github.com/repos/Wallbraker/SODIMM/git/trees{/sha}
-updated_at: '2023-06-04T03:30:06Z'
-url: https://api.github.com/repos/Wallbraker/SODIMM
-visibility: public
-watchers: 25
-watchers_count: 25
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Wallbraker/SODIMM/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Wallbraker/SODIMM/assignees{/user}
+  blobs_url: https://api.github.com/repos/Wallbraker/SODIMM/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Wallbraker/SODIMM/branches{/branch}
+  clone_url: https://github.com/Wallbraker/SODIMM.git
+  collaborators_url: https://api.github.com/repos/Wallbraker/SODIMM/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Wallbraker/SODIMM/comments{/number}
+  commits_url: https://api.github.com/repos/Wallbraker/SODIMM/commits{/sha}
+  compare_url: https://api.github.com/repos/Wallbraker/SODIMM/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Wallbraker/SODIMM/contents/{+path}
+  contributors_url: https://api.github.com/repos/Wallbraker/SODIMM/contributors
+  created_at: '2018-04-09T00:56:14Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Wallbraker/SODIMM/deployments
+  description: Sodimm components for KiCad
+  disabled: false
+  downloads_url: https://api.github.com/repos/Wallbraker/SODIMM/downloads
+  events_url: https://api.github.com/repos/Wallbraker/SODIMM/events
+  fork: false
+  forks: 7
+  forks_count: 7
+  forks_url: https://api.github.com/repos/Wallbraker/SODIMM/forks
+  full_name: Wallbraker/SODIMM
+  git_commits_url: https://api.github.com/repos/Wallbraker/SODIMM/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Wallbraker/SODIMM/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Wallbraker/SODIMM/git/tags{/sha}
+  git_url: git://github.com/Wallbraker/SODIMM.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Wallbraker/SODIMM/hooks
+  html_url: https://github.com/Wallbraker/SODIMM
+  id: 128695307
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Wallbraker/SODIMM/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Wallbraker/SODIMM/issues/events{/number}
+  issues_url: https://api.github.com/repos/Wallbraker/SODIMM/issues{/number}
+  keys_url: https://api.github.com/repos/Wallbraker/SODIMM/keys{/key_id}
+  labels_url: https://api.github.com/repos/Wallbraker/SODIMM/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/Wallbraker/SODIMM/languages
+  license: null
+  merges_url: https://api.github.com/repos/Wallbraker/SODIMM/merges
+  milestones_url: https://api.github.com/repos/Wallbraker/SODIMM/milestones{/number}
+  mirror_url: null
+  name: SODIMM
+  node_id: MDEwOlJlcG9zaXRvcnkxMjg2OTUzMDc=
+  notifications_url: https://api.github.com/repos/Wallbraker/SODIMM/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/57528?v=4
+    events_url: https://api.github.com/users/Wallbraker/events{/privacy}
+    followers_url: https://api.github.com/users/Wallbraker/followers
+    following_url: https://api.github.com/users/Wallbraker/following{/other_user}
+    gists_url: https://api.github.com/users/Wallbraker/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Wallbraker
+    id: 57528
+    login: Wallbraker
+    node_id: MDQ6VXNlcjU3NTI4
+    organizations_url: https://api.github.com/users/Wallbraker/orgs
+    received_events_url: https://api.github.com/users/Wallbraker/received_events
+    repos_url: https://api.github.com/users/Wallbraker/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Wallbraker/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Wallbraker/subscriptions
+    type: User
+    url: https://api.github.com/users/Wallbraker
+  private: false
+  pulls_url: https://api.github.com/repos/Wallbraker/SODIMM/pulls{/number}
+  pushed_at: '2021-01-06T20:09:02Z'
+  releases_url: https://api.github.com/repos/Wallbraker/SODIMM/releases{/id}
+  size: 17
+  ssh_url: git@github.com:Wallbraker/SODIMM.git
+  stargazers_count: 25
+  stargazers_url: https://api.github.com/repos/Wallbraker/SODIMM/stargazers
+  statuses_url: https://api.github.com/repos/Wallbraker/SODIMM/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Wallbraker/SODIMM/subscribers
+  subscription_url: https://api.github.com/repos/Wallbraker/SODIMM/subscription
+  svn_url: https://github.com/Wallbraker/SODIMM
+  tags_url: https://api.github.com/repos/Wallbraker/SODIMM/tags
+  teams_url: https://api.github.com/repos/Wallbraker/SODIMM/teams
+  topics:
+  - kicad
+  - kicad-footprints
+  trees_url: https://api.github.com/repos/Wallbraker/SODIMM/git/trees{/sha}
+  updated_at: '2023-06-04T03:30:06Z'
+  url: https://api.github.com/repos/Wallbraker/SODIMM
+  visibility: public
+  watchers: 25
+  watchers_count: 25
+  web_commit_signoff_required: false

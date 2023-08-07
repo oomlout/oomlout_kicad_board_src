@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/mitaroThanken/gh60/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/mitaroThanken/gh60/assignees{/user}
-blobs_url: https://api.github.com/repos/mitaroThanken/gh60/git/blobs{/sha}
-branches_url: https://api.github.com/repos/mitaroThanken/gh60/branches{/branch}
-clone_url: https://github.com/mitaroThanken/gh60.git
-collaborators_url: https://api.github.com/repos/mitaroThanken/gh60/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/mitaroThanken/gh60/comments{/number}
-commits_url: https://api.github.com/repos/mitaroThanken/gh60/commits{/sha}
-compare_url: https://api.github.com/repos/mitaroThanken/gh60/compare/{base}...{head}
-contents_url: https://api.github.com/repos/mitaroThanken/gh60/contents/{+path}
-contributors_url: https://api.github.com/repos/mitaroThanken/gh60/contributors
-created_at: '2019-06-27T14:46:56Z'
-default_branch: develop
-deployments_url: https://api.github.com/repos/mitaroThanken/gh60/deployments
-description: GH60 - an open-source mechanical keyboard PCB designed for the community
-  at geekhack.org
-disabled: false
-downloads_url: https://api.github.com/repos/mitaroThanken/gh60/downloads
-events_url: https://api.github.com/repos/mitaroThanken/gh60/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/mitaroThanken/gh60/forks
-full_name: mitaroThanken/gh60
-git_commits_url: https://api.github.com/repos/mitaroThanken/gh60/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/mitaroThanken/gh60/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/mitaroThanken/gh60/git/tags{/sha}
-git_url: git://github.com/mitaroThanken/gh60.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: http://gh60.info
-hooks_url: https://api.github.com/repos/mitaroThanken/gh60/hooks
-html_url: https://github.com/mitaroThanken/gh60
-id: 194113561
-is_template: false
-issue_comment_url: https://api.github.com/repos/mitaroThanken/gh60/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/mitaroThanken/gh60/issues/events{/number}
-issues_url: https://api.github.com/repos/mitaroThanken/gh60/issues{/number}
-keys_url: https://api.github.com/repos/mitaroThanken/gh60/keys{/key_id}
-labels_url: https://api.github.com/repos/mitaroThanken/gh60/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/mitaroThanken/gh60/languages
-license: null
-merges_url: https://api.github.com/repos/mitaroThanken/gh60/merges
-milestones_url: https://api.github.com/repos/mitaroThanken/gh60/milestones{/number}
-mirror_url: null
-name: gh60
-node_id: MDEwOlJlcG9zaXRvcnkxOTQxMTM1NjE=
-notifications_url: https://api.github.com/repos/mitaroThanken/gh60/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/2104065?v=4
-  events_url: https://api.github.com/users/mitaroThanken/events{/privacy}
-  followers_url: https://api.github.com/users/mitaroThanken/followers
-  following_url: https://api.github.com/users/mitaroThanken/following{/other_user}
-  gists_url: https://api.github.com/users/mitaroThanken/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/mitaroThanken
-  id: 2104065
-  login: mitaroThanken
-  node_id: MDQ6VXNlcjIxMDQwNjU=
-  organizations_url: https://api.github.com/users/mitaroThanken/orgs
-  received_events_url: https://api.github.com/users/mitaroThanken/received_events
-  repos_url: https://api.github.com/users/mitaroThanken/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/mitaroThanken/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/mitaroThanken/subscriptions
-  type: User
-  url: https://api.github.com/users/mitaroThanken
-private: false
+links:
+  github_owner: mitaroThanken
+  github_repo_name: gh60
+  github_src: https://github.com/mitaroThanken/gh60
+  github_src_repo: https://github.com/mitaroThanken/gh60
+  oomp_bot: projects_mitarothanken_gh60
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_mitarothanken_gh60
+  oomp_doc: projects/projects_flat_mitarothanken_gh60/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_mitarothanken_gh60
+  oomp_src_flat: projects_flat/projects_flat_mitarothanken_gh60
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_mitarothanken_gh60
+  oomp_src_folder: projects_flat\mitarothanken_gh60\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\mitarothanken_gh60\version_current\working
+oomp_key: oomp_projects_flat_mitarothanken_gh60
+oomp_key_simple: projects_flat_mitarothanken_gh60
 projects_flat: projects_flat/mitarothanken_gh60/version_current/working
 projects_folder: projects_folder/mitaroThanken/gh60/version_current/working
-pulls_url: https://api.github.com/repos/mitaroThanken/gh60/pulls{/number}
-pushed_at: '2019-06-27T15:24:14Z'
-releases_url: https://api.github.com/repos/mitaroThanken/gh60/releases{/id}
-size: 3253
-ssh_url: git@github.com:mitaroThanken/gh60.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/mitaroThanken/gh60/stargazers
-statuses_url: https://api.github.com/repos/mitaroThanken/gh60/statuses/{sha}
-subscribers_url: https://api.github.com/repos/mitaroThanken/gh60/subscribers
-subscription_url: https://api.github.com/repos/mitaroThanken/gh60/subscription
-svn_url: https://github.com/mitaroThanken/gh60
-tags_url: https://api.github.com/repos/mitaroThanken/gh60/tags
-teams_url: https://api.github.com/repos/mitaroThanken/gh60/teams
-topics: []
-trees_url: https://api.github.com/repos/mitaroThanken/gh60/git/trees{/sha}
-updated_at: '2019-06-27T15:24:16Z'
-url: https://api.github.com/repos/mitaroThanken/gh60
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/mitaroThanken/gh60/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/mitaroThanken/gh60/assignees{/user}
+  blobs_url: https://api.github.com/repos/mitaroThanken/gh60/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/mitaroThanken/gh60/branches{/branch}
+  clone_url: https://github.com/mitaroThanken/gh60.git
+  collaborators_url: https://api.github.com/repos/mitaroThanken/gh60/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/mitaroThanken/gh60/comments{/number}
+  commits_url: https://api.github.com/repos/mitaroThanken/gh60/commits{/sha}
+  compare_url: https://api.github.com/repos/mitaroThanken/gh60/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/mitaroThanken/gh60/contents/{+path}
+  contributors_url: https://api.github.com/repos/mitaroThanken/gh60/contributors
+  created_at: '2019-06-27T14:46:56Z'
+  default_branch: develop
+  deployments_url: https://api.github.com/repos/mitaroThanken/gh60/deployments
+  description: GH60 - an open-source mechanical keyboard PCB designed for the community
+    at geekhack.org
+  disabled: false
+  downloads_url: https://api.github.com/repos/mitaroThanken/gh60/downloads
+  events_url: https://api.github.com/repos/mitaroThanken/gh60/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/mitaroThanken/gh60/forks
+  full_name: mitaroThanken/gh60
+  git_commits_url: https://api.github.com/repos/mitaroThanken/gh60/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/mitaroThanken/gh60/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/mitaroThanken/gh60/git/tags{/sha}
+  git_url: git://github.com/mitaroThanken/gh60.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: http://gh60.info
+  hooks_url: https://api.github.com/repos/mitaroThanken/gh60/hooks
+  html_url: https://github.com/mitaroThanken/gh60
+  id: 194113561
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/mitaroThanken/gh60/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/mitaroThanken/gh60/issues/events{/number}
+  issues_url: https://api.github.com/repos/mitaroThanken/gh60/issues{/number}
+  keys_url: https://api.github.com/repos/mitaroThanken/gh60/keys{/key_id}
+  labels_url: https://api.github.com/repos/mitaroThanken/gh60/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/mitaroThanken/gh60/languages
+  license: null
+  merges_url: https://api.github.com/repos/mitaroThanken/gh60/merges
+  milestones_url: https://api.github.com/repos/mitaroThanken/gh60/milestones{/number}
+  mirror_url: null
+  name: gh60
+  node_id: MDEwOlJlcG9zaXRvcnkxOTQxMTM1NjE=
+  notifications_url: https://api.github.com/repos/mitaroThanken/gh60/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/2104065?v=4
+    events_url: https://api.github.com/users/mitaroThanken/events{/privacy}
+    followers_url: https://api.github.com/users/mitaroThanken/followers
+    following_url: https://api.github.com/users/mitaroThanken/following{/other_user}
+    gists_url: https://api.github.com/users/mitaroThanken/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/mitaroThanken
+    id: 2104065
+    login: mitaroThanken
+    node_id: MDQ6VXNlcjIxMDQwNjU=
+    organizations_url: https://api.github.com/users/mitaroThanken/orgs
+    received_events_url: https://api.github.com/users/mitaroThanken/received_events
+    repos_url: https://api.github.com/users/mitaroThanken/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/mitaroThanken/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/mitaroThanken/subscriptions
+    type: User
+    url: https://api.github.com/users/mitaroThanken
+  private: false
+  pulls_url: https://api.github.com/repos/mitaroThanken/gh60/pulls{/number}
+  pushed_at: '2019-06-27T15:24:14Z'
+  releases_url: https://api.github.com/repos/mitaroThanken/gh60/releases{/id}
+  size: 3253
+  ssh_url: git@github.com:mitaroThanken/gh60.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/mitaroThanken/gh60/stargazers
+  statuses_url: https://api.github.com/repos/mitaroThanken/gh60/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/mitaroThanken/gh60/subscribers
+  subscription_url: https://api.github.com/repos/mitaroThanken/gh60/subscription
+  svn_url: https://github.com/mitaroThanken/gh60
+  tags_url: https://api.github.com/repos/mitaroThanken/gh60/tags
+  teams_url: https://api.github.com/repos/mitaroThanken/gh60/teams
+  topics: []
+  trees_url: https://api.github.com/repos/mitaroThanken/gh60/git/trees{/sha}
+  updated_at: '2019-06-27T15:24:16Z'
+  url: https://api.github.com/repos/mitaroThanken/gh60
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

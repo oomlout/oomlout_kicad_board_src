@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/assignees{/user}
-blobs_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/branches{/branch}
-clone_url: https://github.com/Tinkerforge/ozone-bricklet.git
-collaborators_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/comments{/number}
-commits_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/commits{/sha}
-compare_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/contents/{+path}
-contributors_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/contributors
-created_at: '2015-05-18T11:09:33Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/downloads
-events_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/forks
-full_name: Tinkerforge/ozone-bricklet
-git_commits_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/git/tags{/sha}
-git_url: git://github.com/Tinkerforge/ozone-bricklet.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/hooks
-html_url: https://github.com/Tinkerforge/ozone-bricklet
-id: 35813233
-is_template: false
-issue_comment_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/issues/events{/number}
-issues_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/issues{/number}
-keys_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/keys{/key_id}
-labels_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/languages
-license: null
-merges_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/merges
-milestones_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/milestones{/number}
-mirror_url: null
-name: ozone-bricklet
-node_id: MDEwOlJlcG9zaXRvcnkzNTgxMzIzMw==
-notifications_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
-  events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
-  followers_url: https://api.github.com/users/Tinkerforge/followers
-  following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
-  gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Tinkerforge
-  id: 1001426
-  login: Tinkerforge
-  node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
-  organizations_url: https://api.github.com/users/Tinkerforge/orgs
-  received_events_url: https://api.github.com/users/Tinkerforge/received_events
-  repos_url: https://api.github.com/users/Tinkerforge/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
-  type: Organization
-  url: https://api.github.com/users/Tinkerforge
-private: false
+links:
+  github_owner: Tinkerforge
+  github_repo_name: ozone-bricklet
+  github_src: https://github.com/Tinkerforge/ozone-bricklet
+  github_src_repo: https://github.com/Tinkerforge/ozone-bricklet
+  oomp_bot: tinkerforge_ozone_bricklet
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/tinkerforge_ozone_bricklet
+  oomp_doc: projects/tinkerforge_ozone_bricklet/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/tinkerforge_ozone_bricklet
+  oomp_src_flat: projects_flat/tinkerforge_ozone_bricklet
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/tinkerforge_ozone_bricklet
+  oomp_src_folder: projects_folder\Tinkerforge\ozone-bricklet\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Tinkerforge\ozone-bricklet\version_current\working
+oomp_key: oomp_tinkerforge_ozone_bricklet
+oomp_key_simple: tinkerforge_ozone_bricklet
 projects_flat: projects_flat/tinkerforge_ozone_bricklet/version_current/working
 projects_folder: projects_folder/Tinkerforge/ozone-bricklet/version_current/working
-pulls_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/pulls{/number}
-pushed_at: '2022-07-06T12:50:04Z'
-releases_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/releases{/id}
-size: 523
-ssh_url: git@github.com:Tinkerforge/ozone-bricklet.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/stargazers
-statuses_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/subscribers
-subscription_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/subscription
-svn_url: https://github.com/Tinkerforge/ozone-bricklet
-tags_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/tags
-teams_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/teams
-topics: []
-trees_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/git/trees{/sha}
-updated_at: '2021-10-25T07:57:06Z'
-url: https://api.github.com/repos/Tinkerforge/ozone-bricklet
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/assignees{/user}
+  blobs_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/branches{/branch}
+  clone_url: https://github.com/Tinkerforge/ozone-bricklet.git
+  collaborators_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/comments{/number}
+  commits_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/commits{/sha}
+  compare_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/contents/{+path}
+  contributors_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/contributors
+  created_at: '2015-05-18T11:09:33Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/downloads
+  events_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/forks
+  full_name: Tinkerforge/ozone-bricklet
+  git_commits_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/git/tags{/sha}
+  git_url: git://github.com/Tinkerforge/ozone-bricklet.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/hooks
+  html_url: https://github.com/Tinkerforge/ozone-bricklet
+  id: 35813233
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/issues/events{/number}
+  issues_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/issues{/number}
+  keys_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/keys{/key_id}
+  labels_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/languages
+  license: null
+  merges_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/merges
+  milestones_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/milestones{/number}
+  mirror_url: null
+  name: ozone-bricklet
+  node_id: MDEwOlJlcG9zaXRvcnkzNTgxMzIzMw==
+  notifications_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
+    events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
+    followers_url: https://api.github.com/users/Tinkerforge/followers
+    following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
+    gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Tinkerforge
+    id: 1001426
+    login: Tinkerforge
+    node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
+    organizations_url: https://api.github.com/users/Tinkerforge/orgs
+    received_events_url: https://api.github.com/users/Tinkerforge/received_events
+    repos_url: https://api.github.com/users/Tinkerforge/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
+    type: Organization
+    url: https://api.github.com/users/Tinkerforge
+  private: false
+  pulls_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/pulls{/number}
+  pushed_at: '2022-07-06T12:50:04Z'
+  releases_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/releases{/id}
+  size: 523
+  ssh_url: git@github.com:Tinkerforge/ozone-bricklet.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/stargazers
+  statuses_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/subscribers
+  subscription_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/subscription
+  svn_url: https://github.com/Tinkerforge/ozone-bricklet
+  tags_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/tags
+  teams_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Tinkerforge/ozone-bricklet/git/trees{/sha}
+  updated_at: '2021-10-25T07:57:06Z'
+  url: https://api.github.com/repos/Tinkerforge/ozone-bricklet
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

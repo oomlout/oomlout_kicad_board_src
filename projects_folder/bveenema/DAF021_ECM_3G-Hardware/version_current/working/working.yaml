@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/assignees{/user}
-blobs_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/git/blobs{/sha}
-branches_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/branches{/branch}
-clone_url: https://github.com/bveenema/DAF021_ECM_3G-Hardware.git
-collaborators_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/comments{/number}
-commits_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/commits{/sha}
-compare_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/compare/{base}...{head}
-contents_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/contents/{+path}
-contributors_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/contributors
-created_at: '2020-07-11T20:34:12Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/downloads
-events_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/forks
-full_name: bveenema/DAF021_ECM_3G-Hardware
-git_commits_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/git/tags{/sha}
-git_url: git://github.com/bveenema/DAF021_ECM_3G-Hardware.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/hooks
-html_url: https://github.com/bveenema/DAF021_ECM_3G-Hardware
-id: 278937600
-is_template: false
-issue_comment_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/issues/events{/number}
-issues_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/issues{/number}
-keys_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/keys{/key_id}
-labels_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/languages
-license: null
-merges_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/merges
-milestones_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/milestones{/number}
-mirror_url: null
-name: DAF021_ECM_3G-Hardware
-node_id: MDEwOlJlcG9zaXRvcnkyNzg5Mzc2MDA=
-notifications_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6935674?v=4
-  events_url: https://api.github.com/users/bveenema/events{/privacy}
-  followers_url: https://api.github.com/users/bveenema/followers
-  following_url: https://api.github.com/users/bveenema/following{/other_user}
-  gists_url: https://api.github.com/users/bveenema/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/bveenema
-  id: 6935674
-  login: bveenema
-  node_id: MDQ6VXNlcjY5MzU2NzQ=
-  organizations_url: https://api.github.com/users/bveenema/orgs
-  received_events_url: https://api.github.com/users/bveenema/received_events
-  repos_url: https://api.github.com/users/bveenema/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/bveenema/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/bveenema/subscriptions
-  type: User
-  url: https://api.github.com/users/bveenema
-private: false
+links:
+  github_owner: bveenema
+  github_repo_name: DAF021_ECM_3G-Hardware
+  github_src: https://github.com/bveenema/DAF021_ECM_3G-Hardware
+  github_src_repo: https://github.com/bveenema/DAF021_ECM_3G-Hardware
+  oomp_bot: bveenema_daf021_ecm_3g_hardware
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/bveenema_daf021_ecm_3g_hardware
+  oomp_doc: projects/bveenema_daf021_ecm_3g_hardware/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/bveenema_daf021_ecm_3g_hardware
+  oomp_src_flat: projects_flat/bveenema_daf021_ecm_3g_hardware
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/bveenema_daf021_ecm_3g_hardware
+  oomp_src_folder: projects_folder\bveenema\DAF021_ECM_3G-Hardware\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\bveenema\DAF021_ECM_3G-Hardware\version_current\working
+oomp_key: oomp_bveenema_daf021_ecm_3g_hardware
+oomp_key_simple: bveenema_daf021_ecm_3g_hardware
 projects_flat: projects_flat/bveenema_daf021_ecm_3g_hardware/version_current/working
 projects_folder: projects_folder/bveenema/DAF021_ECM_3G-Hardware/version_current/working
-pulls_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/pulls{/number}
-pushed_at: '2020-07-11T20:34:33Z'
-releases_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/releases{/id}
-size: 5562
-ssh_url: git@github.com:bveenema/DAF021_ECM_3G-Hardware.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/stargazers
-statuses_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/statuses/{sha}
-subscribers_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/subscribers
-subscription_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/subscription
-svn_url: https://github.com/bveenema/DAF021_ECM_3G-Hardware
-tags_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/tags
-teams_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/teams
-topics: []
-trees_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/git/trees{/sha}
-updated_at: '2020-07-11T20:34:37Z'
-url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/assignees{/user}
+  blobs_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/branches{/branch}
+  clone_url: https://github.com/bveenema/DAF021_ECM_3G-Hardware.git
+  collaborators_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/comments{/number}
+  commits_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/commits{/sha}
+  compare_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/contents/{+path}
+  contributors_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/contributors
+  created_at: '2020-07-11T20:34:12Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/downloads
+  events_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/forks
+  full_name: bveenema/DAF021_ECM_3G-Hardware
+  git_commits_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/git/tags{/sha}
+  git_url: git://github.com/bveenema/DAF021_ECM_3G-Hardware.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/hooks
+  html_url: https://github.com/bveenema/DAF021_ECM_3G-Hardware
+  id: 278937600
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/issues/events{/number}
+  issues_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/issues{/number}
+  keys_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/keys{/key_id}
+  labels_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/languages
+  license: null
+  merges_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/merges
+  milestones_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/milestones{/number}
+  mirror_url: null
+  name: DAF021_ECM_3G-Hardware
+  node_id: MDEwOlJlcG9zaXRvcnkyNzg5Mzc2MDA=
+  notifications_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6935674?v=4
+    events_url: https://api.github.com/users/bveenema/events{/privacy}
+    followers_url: https://api.github.com/users/bveenema/followers
+    following_url: https://api.github.com/users/bveenema/following{/other_user}
+    gists_url: https://api.github.com/users/bveenema/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/bveenema
+    id: 6935674
+    login: bveenema
+    node_id: MDQ6VXNlcjY5MzU2NzQ=
+    organizations_url: https://api.github.com/users/bveenema/orgs
+    received_events_url: https://api.github.com/users/bveenema/received_events
+    repos_url: https://api.github.com/users/bveenema/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/bveenema/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/bveenema/subscriptions
+    type: User
+    url: https://api.github.com/users/bveenema
+  private: false
+  pulls_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/pulls{/number}
+  pushed_at: '2020-07-11T20:34:33Z'
+  releases_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/releases{/id}
+  size: 5562
+  ssh_url: git@github.com:bveenema/DAF021_ECM_3G-Hardware.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/stargazers
+  statuses_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/subscribers
+  subscription_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/subscription
+  svn_url: https://github.com/bveenema/DAF021_ECM_3G-Hardware
+  tags_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/tags
+  teams_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/teams
+  topics: []
+  trees_url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware/git/trees{/sha}
+  updated_at: '2020-07-11T20:34:37Z'
+  url: https://api.github.com/repos/bveenema/DAF021_ECM_3G-Hardware
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

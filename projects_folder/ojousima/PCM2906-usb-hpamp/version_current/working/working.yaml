@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/assignees{/user}
-blobs_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/branches{/branch}
-clone_url: https://github.com/ojousima/PCM2906-usb-hpamp.git
-collaborators_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/comments{/number}
-commits_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/commits{/sha}
-compare_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/contents/{+path}
-contributors_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/contributors
-created_at: '2014-06-14T10:25:24Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/deployments
-description: Headphone amplifier based on Texas Instruments PCM2906
-disabled: false
-downloads_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/downloads
-events_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/forks
-full_name: ojousima/PCM2906-usb-hpamp
-git_commits_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/git/tags{/sha}
-git_url: git://github.com/ojousima/PCM2906-usb-hpamp.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/hooks
-html_url: https://github.com/ojousima/PCM2906-usb-hpamp
-id: 20829819
-is_template: false
-issue_comment_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/issues/events{/number}
-issues_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/issues{/number}
-keys_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/keys{/key_id}
-labels_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/labels{/name}
-language: IDL
-languages_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/languages
-license: null
-merges_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/merges
-milestones_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/milestones{/number}
-mirror_url: null
-name: PCM2906-usb-hpamp
-node_id: MDEwOlJlcG9zaXRvcnkyMDgyOTgxOQ==
-notifications_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/2360368?v=4
-  events_url: https://api.github.com/users/ojousima/events{/privacy}
-  followers_url: https://api.github.com/users/ojousima/followers
-  following_url: https://api.github.com/users/ojousima/following{/other_user}
-  gists_url: https://api.github.com/users/ojousima/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ojousima
-  id: 2360368
-  login: ojousima
-  node_id: MDQ6VXNlcjIzNjAzNjg=
-  organizations_url: https://api.github.com/users/ojousima/orgs
-  received_events_url: https://api.github.com/users/ojousima/received_events
-  repos_url: https://api.github.com/users/ojousima/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ojousima/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ojousima/subscriptions
-  type: User
-  url: https://api.github.com/users/ojousima
-private: false
+links:
+  github_owner: ojousima
+  github_repo_name: PCM2906-usb-hpamp
+  github_src: https://github.com/ojousima/PCM2906-usb-hpamp
+  github_src_repo: https://github.com/ojousima/PCM2906-usb-hpamp
+  oomp_bot: ojousima_pcm2906_usb_hpamp
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/ojousima_pcm2906_usb_hpamp
+  oomp_doc: projects/ojousima_pcm2906_usb_hpamp/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/ojousima_pcm2906_usb_hpamp
+  oomp_src_flat: projects_flat/ojousima_pcm2906_usb_hpamp
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/ojousima_pcm2906_usb_hpamp
+  oomp_src_folder: projects_folder\ojousima\PCM2906-usb-hpamp\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ojousima\PCM2906-usb-hpamp\version_current\working
+oomp_key: oomp_ojousima_pcm2906_usb_hpamp
+oomp_key_simple: ojousima_pcm2906_usb_hpamp
 projects_flat: projects_flat/ojousima_pcm2906_usb_hpamp/version_current/working
 projects_folder: projects_folder/ojousima/PCM2906-usb-hpamp/version_current/working
-pulls_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/pulls{/number}
-pushed_at: '2014-06-14T11:10:25Z'
-releases_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/releases{/id}
-size: 192
-ssh_url: git@github.com:ojousima/PCM2906-usb-hpamp.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/stargazers
-statuses_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/subscribers
-subscription_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/subscription
-svn_url: https://github.com/ojousima/PCM2906-usb-hpamp
-tags_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/tags
-teams_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/teams
-topics: []
-trees_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/git/trees{/sha}
-updated_at: '2014-06-14T11:10:25Z'
-url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/assignees{/user}
+  blobs_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/branches{/branch}
+  clone_url: https://github.com/ojousima/PCM2906-usb-hpamp.git
+  collaborators_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/comments{/number}
+  commits_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/commits{/sha}
+  compare_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/contents/{+path}
+  contributors_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/contributors
+  created_at: '2014-06-14T10:25:24Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/deployments
+  description: Headphone amplifier based on Texas Instruments PCM2906
+  disabled: false
+  downloads_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/downloads
+  events_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/forks
+  full_name: ojousima/PCM2906-usb-hpamp
+  git_commits_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/git/tags{/sha}
+  git_url: git://github.com/ojousima/PCM2906-usb-hpamp.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/hooks
+  html_url: https://github.com/ojousima/PCM2906-usb-hpamp
+  id: 20829819
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/issues/events{/number}
+  issues_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/issues{/number}
+  keys_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/keys{/key_id}
+  labels_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/labels{/name}
+  language: IDL
+  languages_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/languages
+  license: null
+  merges_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/merges
+  milestones_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/milestones{/number}
+  mirror_url: null
+  name: PCM2906-usb-hpamp
+  node_id: MDEwOlJlcG9zaXRvcnkyMDgyOTgxOQ==
+  notifications_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/2360368?v=4
+    events_url: https://api.github.com/users/ojousima/events{/privacy}
+    followers_url: https://api.github.com/users/ojousima/followers
+    following_url: https://api.github.com/users/ojousima/following{/other_user}
+    gists_url: https://api.github.com/users/ojousima/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ojousima
+    id: 2360368
+    login: ojousima
+    node_id: MDQ6VXNlcjIzNjAzNjg=
+    organizations_url: https://api.github.com/users/ojousima/orgs
+    received_events_url: https://api.github.com/users/ojousima/received_events
+    repos_url: https://api.github.com/users/ojousima/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ojousima/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ojousima/subscriptions
+    type: User
+    url: https://api.github.com/users/ojousima
+  private: false
+  pulls_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/pulls{/number}
+  pushed_at: '2014-06-14T11:10:25Z'
+  releases_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/releases{/id}
+  size: 192
+  ssh_url: git@github.com:ojousima/PCM2906-usb-hpamp.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/stargazers
+  statuses_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/subscribers
+  subscription_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/subscription
+  svn_url: https://github.com/ojousima/PCM2906-usb-hpamp
+  tags_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/tags
+  teams_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp/git/trees{/sha}
+  updated_at: '2014-06-14T11:10:25Z'
+  url: https://api.github.com/repos/ojousima/PCM2906-usb-hpamp
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

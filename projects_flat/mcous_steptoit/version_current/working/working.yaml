@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/mcous/steptoit/{archive_format}{/ref}
-archived: true
-assignees_url: https://api.github.com/repos/mcous/steptoit/assignees{/user}
-blobs_url: https://api.github.com/repos/mcous/steptoit/git/blobs{/sha}
-branches_url: https://api.github.com/repos/mcous/steptoit/branches{/branch}
-clone_url: https://github.com/mcous/steptoit.git
-collaborators_url: https://api.github.com/repos/mcous/steptoit/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/mcous/steptoit/comments{/number}
-commits_url: https://api.github.com/repos/mcous/steptoit/commits{/sha}
-compare_url: https://api.github.com/repos/mcous/steptoit/compare/{base}...{head}
-contents_url: https://api.github.com/repos/mcous/steptoit/contents/{+path}
-contributors_url: https://api.github.com/repos/mcous/steptoit/contributors
-created_at: '2013-07-07T22:36:46Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/mcous/steptoit/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/mcous/steptoit/downloads
-events_url: https://api.github.com/repos/mcous/steptoit/events
 file_sch_flat: projects_flat/mcous_steptoit/version_current/working/working.sch
 file_sch_folder: projects_folder/mcous/steptoit/version_current/working/working.sch
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/mcous/steptoit/forks
-full_name: mcous/steptoit
-git_commits_url: https://api.github.com/repos/mcous/steptoit/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/mcous/steptoit/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/mcous/steptoit/git/tags{/sha}
-git_url: git://github.com/mcous/steptoit.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/mcous/steptoit/hooks
-html_url: https://github.com/mcous/steptoit
-id: 11241359
-is_template: false
-issue_comment_url: https://api.github.com/repos/mcous/steptoit/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/mcous/steptoit/issues/events{/number}
-issues_url: https://api.github.com/repos/mcous/steptoit/issues{/number}
-keys_url: https://api.github.com/repos/mcous/steptoit/keys{/key_id}
-labels_url: https://api.github.com/repos/mcous/steptoit/labels{/name}
-language: Prolog
-languages_url: https://api.github.com/repos/mcous/steptoit/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/mcous/steptoit/merges
-milestones_url: https://api.github.com/repos/mcous/steptoit/milestones{/number}
-mirror_url: null
-name: steptoit
-node_id: MDEwOlJlcG9zaXRvcnkxMTI0MTM1OQ==
-notifications_url: https://api.github.com/repos/mcous/steptoit/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/2963448?v=4
-  events_url: https://api.github.com/users/mcous/events{/privacy}
-  followers_url: https://api.github.com/users/mcous/followers
-  following_url: https://api.github.com/users/mcous/following{/other_user}
-  gists_url: https://api.github.com/users/mcous/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/mcous
-  id: 2963448
-  login: mcous
-  node_id: MDQ6VXNlcjI5NjM0NDg=
-  organizations_url: https://api.github.com/users/mcous/orgs
-  received_events_url: https://api.github.com/users/mcous/received_events
-  repos_url: https://api.github.com/users/mcous/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/mcous/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/mcous/subscriptions
-  type: User
-  url: https://api.github.com/users/mcous
-private: false
+links:
+  github_owner: mcous
+  github_repo_name: steptoit
+  github_src: https://github.com/mcous/steptoit
+  github_src_repo: https://github.com/mcous/steptoit
+  oomp_bot: projects_mcous_steptoit
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_mcous_steptoit
+  oomp_doc: projects/projects_flat_mcous_steptoit/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_mcous_steptoit
+  oomp_src_flat: projects_flat/projects_flat_mcous_steptoit
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_mcous_steptoit
+  oomp_src_folder: projects_flat\mcous_steptoit\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\mcous_steptoit\version_current\working
+oomp_key: oomp_projects_flat_mcous_steptoit
+oomp_key_simple: projects_flat_mcous_steptoit
 projects_flat: projects_flat/mcous_steptoit/version_current/working
 projects_folder: projects_folder/mcous/steptoit/version_current/working
-pulls_url: https://api.github.com/repos/mcous/steptoit/pulls{/number}
-pushed_at: '2013-07-21T07:25:35Z'
-releases_url: https://api.github.com/repos/mcous/steptoit/releases{/id}
-size: 248
-ssh_url: git@github.com:mcous/steptoit.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/mcous/steptoit/stargazers
-statuses_url: https://api.github.com/repos/mcous/steptoit/statuses/{sha}
-subscribers_url: https://api.github.com/repos/mcous/steptoit/subscribers
-subscription_url: https://api.github.com/repos/mcous/steptoit/subscription
-svn_url: https://github.com/mcous/steptoit
-tags_url: https://api.github.com/repos/mcous/steptoit/tags
-teams_url: https://api.github.com/repos/mcous/steptoit/teams
-topics: []
-trees_url: https://api.github.com/repos/mcous/steptoit/git/trees{/sha}
-updated_at: '2023-01-28T09:23:57Z'
-url: https://api.github.com/repos/mcous/steptoit
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/mcous/steptoit/{archive_format}{/ref}
+  archived: true
+  assignees_url: https://api.github.com/repos/mcous/steptoit/assignees{/user}
+  blobs_url: https://api.github.com/repos/mcous/steptoit/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/mcous/steptoit/branches{/branch}
+  clone_url: https://github.com/mcous/steptoit.git
+  collaborators_url: https://api.github.com/repos/mcous/steptoit/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/mcous/steptoit/comments{/number}
+  commits_url: https://api.github.com/repos/mcous/steptoit/commits{/sha}
+  compare_url: https://api.github.com/repos/mcous/steptoit/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/mcous/steptoit/contents/{+path}
+  contributors_url: https://api.github.com/repos/mcous/steptoit/contributors
+  created_at: '2013-07-07T22:36:46Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/mcous/steptoit/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/mcous/steptoit/downloads
+  events_url: https://api.github.com/repos/mcous/steptoit/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/mcous/steptoit/forks
+  full_name: mcous/steptoit
+  git_commits_url: https://api.github.com/repos/mcous/steptoit/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/mcous/steptoit/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/mcous/steptoit/git/tags{/sha}
+  git_url: git://github.com/mcous/steptoit.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/mcous/steptoit/hooks
+  html_url: https://github.com/mcous/steptoit
+  id: 11241359
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/mcous/steptoit/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/mcous/steptoit/issues/events{/number}
+  issues_url: https://api.github.com/repos/mcous/steptoit/issues{/number}
+  keys_url: https://api.github.com/repos/mcous/steptoit/keys{/key_id}
+  labels_url: https://api.github.com/repos/mcous/steptoit/labels{/name}
+  language: Prolog
+  languages_url: https://api.github.com/repos/mcous/steptoit/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/mcous/steptoit/merges
+  milestones_url: https://api.github.com/repos/mcous/steptoit/milestones{/number}
+  mirror_url: null
+  name: steptoit
+  node_id: MDEwOlJlcG9zaXRvcnkxMTI0MTM1OQ==
+  notifications_url: https://api.github.com/repos/mcous/steptoit/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/2963448?v=4
+    events_url: https://api.github.com/users/mcous/events{/privacy}
+    followers_url: https://api.github.com/users/mcous/followers
+    following_url: https://api.github.com/users/mcous/following{/other_user}
+    gists_url: https://api.github.com/users/mcous/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/mcous
+    id: 2963448
+    login: mcous
+    node_id: MDQ6VXNlcjI5NjM0NDg=
+    organizations_url: https://api.github.com/users/mcous/orgs
+    received_events_url: https://api.github.com/users/mcous/received_events
+    repos_url: https://api.github.com/users/mcous/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/mcous/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/mcous/subscriptions
+    type: User
+    url: https://api.github.com/users/mcous
+  private: false
+  pulls_url: https://api.github.com/repos/mcous/steptoit/pulls{/number}
+  pushed_at: '2013-07-21T07:25:35Z'
+  releases_url: https://api.github.com/repos/mcous/steptoit/releases{/id}
+  size: 248
+  ssh_url: git@github.com:mcous/steptoit.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/mcous/steptoit/stargazers
+  statuses_url: https://api.github.com/repos/mcous/steptoit/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/mcous/steptoit/subscribers
+  subscription_url: https://api.github.com/repos/mcous/steptoit/subscription
+  svn_url: https://github.com/mcous/steptoit
+  tags_url: https://api.github.com/repos/mcous/steptoit/tags
+  teams_url: https://api.github.com/repos/mcous/steptoit/teams
+  topics: []
+  trees_url: https://api.github.com/repos/mcous/steptoit/git/trees{/sha}
+  updated_at: '2023-01-28T09:23:57Z'
+  url: https://api.github.com/repos/mcous/steptoit
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

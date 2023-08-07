@@ -1,101 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/branches{/branch}
-clone_url: https://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen.git
-collaborators_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/contributors
-created_at: '2013-08-12T19:36:41Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/deployments
-description: Example code & board files for the LED Matrix Serial Interface
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/downloads
-events_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/events
 file_sch_flat_folder: projects_flat_folder/sparkfun_led_matrix_serial_interface_redgreen/version_current/working/working.sch
 file_sch_folder: projects_folder/sparkfun/LED_Matrix_Serial_Interface_RedGreen/version_current/working/working.sch
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/forks
-full_name: sparkfun/LED_Matrix_Serial_Interface_RedGreen
-git_commits_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/git/tags{/sha}
-git_url: git://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/products/759
-hooks_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/hooks
-html_url: https://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen
-id: 12064570
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/merges
-milestones_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/milestones{/number}
-mirror_url: null
-name: LED_Matrix_Serial_Interface_RedGreen
-node_id: MDEwOlJlcG9zaXRvcnkxMjA2NDU3MA==
-notifications_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: LED_Matrix_Serial_Interface_RedGreen
+  github_src: https://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen
+  github_src_repo: https://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen
+  oomp_bot: sparkfun_led_matrix_serial_interface_redgreen
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_led_matrix_serial_interface_redgreen
+  oomp_doc: projects/sparkfun_led_matrix_serial_interface_redgreen/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_led_matrix_serial_interface_redgreen
+  oomp_src_flat: projects_flat/sparkfun_led_matrix_serial_interface_redgreen
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_led_matrix_serial_interface_redgreen
+  oomp_src_folder: projects_folder\sparkfun\LED_Matrix_Serial_Interface_RedGreen\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\LED_Matrix_Serial_Interface_RedGreen\version_current\working
+oomp_key: oomp_sparkfun_led_matrix_serial_interface_redgreen
+oomp_key_simple: sparkfun_led_matrix_serial_interface_redgreen
+projects_flat: projects_flat/sparkfun_led_matrix_serial_interface_redgreen/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_led_matrix_serial_interface_redgreen/version_current/working
 projects_folder: projects_folder/sparkfun/LED_Matrix_Serial_Interface_RedGreen/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/pulls{/number}
-pushed_at: '2014-08-29T21:00:44Z'
-releases_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/releases{/id}
-size: 547
-ssh_url: git@github.com:sparkfun/LED_Matrix_Serial_Interface_RedGreen.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/subscription
-svn_url: https://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen
-tags_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/tags
-teams_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/git/trees{/sha}
-updated_at: '2023-03-02T17:37:52Z'
-url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/branches{/branch}
+  clone_url: https://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen.git
+  collaborators_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/contributors
+  created_at: '2013-08-12T19:36:41Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/deployments
+  description: Example code & board files for the LED Matrix Serial Interface
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/downloads
+  events_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/forks
+  full_name: sparkfun/LED_Matrix_Serial_Interface_RedGreen
+  git_commits_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/git/tags{/sha}
+  git_url: git://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/products/759
+  hooks_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/hooks
+  html_url: https://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen
+  id: 12064570
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/merges
+  milestones_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/milestones{/number}
+  mirror_url: null
+  name: LED_Matrix_Serial_Interface_RedGreen
+  node_id: MDEwOlJlcG9zaXRvcnkxMjA2NDU3MA==
+  notifications_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/pulls{/number}
+  pushed_at: '2014-08-29T21:00:44Z'
+  releases_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/releases{/id}
+  size: 547
+  ssh_url: git@github.com:sparkfun/LED_Matrix_Serial_Interface_RedGreen.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/subscription
+  svn_url: https://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen
+  tags_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/tags
+  teams_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen/git/trees{/sha}
+  updated_at: '2023-03-02T17:37:52Z'
+  url: https://api.github.com/repos/sparkfun/LED_Matrix_Serial_Interface_RedGreen
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

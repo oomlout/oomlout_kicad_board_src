@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/descampsa/DynamixelShield/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/descampsa/DynamixelShield/assignees{/user}
-blobs_url: https://api.github.com/repos/descampsa/DynamixelShield/git/blobs{/sha}
-branches_url: https://api.github.com/repos/descampsa/DynamixelShield/branches{/branch}
-clone_url: https://github.com/descampsa/DynamixelShield.git
-collaborators_url: https://api.github.com/repos/descampsa/DynamixelShield/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/descampsa/DynamixelShield/comments{/number}
-commits_url: https://api.github.com/repos/descampsa/DynamixelShield/commits{/sha}
-compare_url: https://api.github.com/repos/descampsa/DynamixelShield/compare/{base}...{head}
-contents_url: https://api.github.com/repos/descampsa/DynamixelShield/contents/{+path}
-contributors_url: https://api.github.com/repos/descampsa/DynamixelShield/contributors
-created_at: '2016-08-21T20:38:45Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/descampsa/DynamixelShield/deployments
-description: Arduino shield to connect Dynamixel servomotors
-disabled: false
-downloads_url: https://api.github.com/repos/descampsa/DynamixelShield/downloads
-events_url: https://api.github.com/repos/descampsa/DynamixelShield/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/descampsa/DynamixelShield/forks
-full_name: descampsa/DynamixelShield
-git_commits_url: https://api.github.com/repos/descampsa/DynamixelShield/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/descampsa/DynamixelShield/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/descampsa/DynamixelShield/git/tags{/sha}
-git_url: git://github.com/descampsa/DynamixelShield.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/descampsa/DynamixelShield/hooks
-html_url: https://github.com/descampsa/DynamixelShield
-id: 66219660
-is_template: false
-issue_comment_url: https://api.github.com/repos/descampsa/DynamixelShield/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/descampsa/DynamixelShield/issues/events{/number}
-issues_url: https://api.github.com/repos/descampsa/DynamixelShield/issues{/number}
-keys_url: https://api.github.com/repos/descampsa/DynamixelShield/keys{/key_id}
-labels_url: https://api.github.com/repos/descampsa/DynamixelShield/labels{/name}
-language: Game Maker Language
-languages_url: https://api.github.com/repos/descampsa/DynamixelShield/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/descampsa/DynamixelShield/merges
-milestones_url: https://api.github.com/repos/descampsa/DynamixelShield/milestones{/number}
-mirror_url: null
-name: DynamixelShield
-node_id: MDEwOlJlcG9zaXRvcnk2NjIxOTY2MA==
-notifications_url: https://api.github.com/repos/descampsa/DynamixelShield/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/7195391?v=4
-  events_url: https://api.github.com/users/descampsa/events{/privacy}
-  followers_url: https://api.github.com/users/descampsa/followers
-  following_url: https://api.github.com/users/descampsa/following{/other_user}
-  gists_url: https://api.github.com/users/descampsa/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/descampsa
-  id: 7195391
-  login: descampsa
-  node_id: MDQ6VXNlcjcxOTUzOTE=
-  organizations_url: https://api.github.com/users/descampsa/orgs
-  received_events_url: https://api.github.com/users/descampsa/received_events
-  repos_url: https://api.github.com/users/descampsa/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/descampsa/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/descampsa/subscriptions
-  type: User
-  url: https://api.github.com/users/descampsa
-private: false
+links:
+  github_owner: descampsa
+  github_repo_name: DynamixelShield
+  github_src: https://github.com/descampsa/DynamixelShield
+  github_src_repo: https://github.com/descampsa/DynamixelShield
+  oomp_bot: descampsa_dynamixelshield
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/descampsa_dynamixelshield
+  oomp_doc: projects/descampsa_dynamixelshield/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/descampsa_dynamixelshield
+  oomp_src_flat: projects_flat/descampsa_dynamixelshield
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/descampsa_dynamixelshield
+  oomp_src_folder: projects_folder\descampsa\DynamixelShield\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\descampsa\DynamixelShield\version_current\working
+oomp_key: oomp_descampsa_dynamixelshield
+oomp_key_simple: descampsa_dynamixelshield
 projects_flat: projects_flat/descampsa_dynamixelshield/version_current/working
 projects_folder: projects_folder/descampsa/DynamixelShield/version_current/working
-pulls_url: https://api.github.com/repos/descampsa/DynamixelShield/pulls{/number}
-pushed_at: '2019-03-20T07:02:33Z'
-releases_url: https://api.github.com/repos/descampsa/DynamixelShield/releases{/id}
-size: 11556
-ssh_url: git@github.com:descampsa/DynamixelShield.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/descampsa/DynamixelShield/stargazers
-statuses_url: https://api.github.com/repos/descampsa/DynamixelShield/statuses/{sha}
-subscribers_url: https://api.github.com/repos/descampsa/DynamixelShield/subscribers
-subscription_url: https://api.github.com/repos/descampsa/DynamixelShield/subscription
-svn_url: https://github.com/descampsa/DynamixelShield
-tags_url: https://api.github.com/repos/descampsa/DynamixelShield/tags
-teams_url: https://api.github.com/repos/descampsa/DynamixelShield/teams
-topics: []
-trees_url: https://api.github.com/repos/descampsa/DynamixelShield/git/trees{/sha}
-updated_at: '2023-02-04T20:39:01Z'
-url: https://api.github.com/repos/descampsa/DynamixelShield
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/descampsa/DynamixelShield/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/descampsa/DynamixelShield/assignees{/user}
+  blobs_url: https://api.github.com/repos/descampsa/DynamixelShield/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/descampsa/DynamixelShield/branches{/branch}
+  clone_url: https://github.com/descampsa/DynamixelShield.git
+  collaborators_url: https://api.github.com/repos/descampsa/DynamixelShield/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/descampsa/DynamixelShield/comments{/number}
+  commits_url: https://api.github.com/repos/descampsa/DynamixelShield/commits{/sha}
+  compare_url: https://api.github.com/repos/descampsa/DynamixelShield/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/descampsa/DynamixelShield/contents/{+path}
+  contributors_url: https://api.github.com/repos/descampsa/DynamixelShield/contributors
+  created_at: '2016-08-21T20:38:45Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/descampsa/DynamixelShield/deployments
+  description: Arduino shield to connect Dynamixel servomotors
+  disabled: false
+  downloads_url: https://api.github.com/repos/descampsa/DynamixelShield/downloads
+  events_url: https://api.github.com/repos/descampsa/DynamixelShield/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/descampsa/DynamixelShield/forks
+  full_name: descampsa/DynamixelShield
+  git_commits_url: https://api.github.com/repos/descampsa/DynamixelShield/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/descampsa/DynamixelShield/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/descampsa/DynamixelShield/git/tags{/sha}
+  git_url: git://github.com/descampsa/DynamixelShield.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/descampsa/DynamixelShield/hooks
+  html_url: https://github.com/descampsa/DynamixelShield
+  id: 66219660
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/descampsa/DynamixelShield/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/descampsa/DynamixelShield/issues/events{/number}
+  issues_url: https://api.github.com/repos/descampsa/DynamixelShield/issues{/number}
+  keys_url: https://api.github.com/repos/descampsa/DynamixelShield/keys{/key_id}
+  labels_url: https://api.github.com/repos/descampsa/DynamixelShield/labels{/name}
+  language: Game Maker Language
+  languages_url: https://api.github.com/repos/descampsa/DynamixelShield/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/descampsa/DynamixelShield/merges
+  milestones_url: https://api.github.com/repos/descampsa/DynamixelShield/milestones{/number}
+  mirror_url: null
+  name: DynamixelShield
+  node_id: MDEwOlJlcG9zaXRvcnk2NjIxOTY2MA==
+  notifications_url: https://api.github.com/repos/descampsa/DynamixelShield/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/7195391?v=4
+    events_url: https://api.github.com/users/descampsa/events{/privacy}
+    followers_url: https://api.github.com/users/descampsa/followers
+    following_url: https://api.github.com/users/descampsa/following{/other_user}
+    gists_url: https://api.github.com/users/descampsa/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/descampsa
+    id: 7195391
+    login: descampsa
+    node_id: MDQ6VXNlcjcxOTUzOTE=
+    organizations_url: https://api.github.com/users/descampsa/orgs
+    received_events_url: https://api.github.com/users/descampsa/received_events
+    repos_url: https://api.github.com/users/descampsa/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/descampsa/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/descampsa/subscriptions
+    type: User
+    url: https://api.github.com/users/descampsa
+  private: false
+  pulls_url: https://api.github.com/repos/descampsa/DynamixelShield/pulls{/number}
+  pushed_at: '2019-03-20T07:02:33Z'
+  releases_url: https://api.github.com/repos/descampsa/DynamixelShield/releases{/id}
+  size: 11556
+  ssh_url: git@github.com:descampsa/DynamixelShield.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/descampsa/DynamixelShield/stargazers
+  statuses_url: https://api.github.com/repos/descampsa/DynamixelShield/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/descampsa/DynamixelShield/subscribers
+  subscription_url: https://api.github.com/repos/descampsa/DynamixelShield/subscription
+  svn_url: https://github.com/descampsa/DynamixelShield
+  tags_url: https://api.github.com/repos/descampsa/DynamixelShield/tags
+  teams_url: https://api.github.com/repos/descampsa/DynamixelShield/teams
+  topics: []
+  trees_url: https://api.github.com/repos/descampsa/DynamixelShield/git/trees{/sha}
+  updated_at: '2023-02-04T20:39:01Z'
+  url: https://api.github.com/repos/descampsa/DynamixelShield
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

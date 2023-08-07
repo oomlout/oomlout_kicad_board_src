@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/cepr/vw-bus-project/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/cepr/vw-bus-project/assignees{/user}
-blobs_url: https://api.github.com/repos/cepr/vw-bus-project/git/blobs{/sha}
-branches_url: https://api.github.com/repos/cepr/vw-bus-project/branches{/branch}
-clone_url: https://github.com/cepr/vw-bus-project.git
-collaborators_url: https://api.github.com/repos/cepr/vw-bus-project/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/cepr/vw-bus-project/comments{/number}
-commits_url: https://api.github.com/repos/cepr/vw-bus-project/commits{/sha}
-compare_url: https://api.github.com/repos/cepr/vw-bus-project/compare/{base}...{head}
-contents_url: https://api.github.com/repos/cepr/vw-bus-project/contents/{+path}
-contributors_url: https://api.github.com/repos/cepr/vw-bus-project/contributors
-created_at: '2016-12-28T18:17:32Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/cepr/vw-bus-project/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/cepr/vw-bus-project/downloads
-events_url: https://api.github.com/repos/cepr/vw-bus-project/events
 file_sch_flat: projects_flat/cepr_vw_bus_project/version_current/working/working.sch
 file_sch_folder: projects_folder/cepr/vw-bus-project/version_current/working/working.sch
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/cepr/vw-bus-project/forks
-full_name: cepr/vw-bus-project
-git_commits_url: https://api.github.com/repos/cepr/vw-bus-project/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/cepr/vw-bus-project/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/cepr/vw-bus-project/git/tags{/sha}
-git_url: git://github.com/cepr/vw-bus-project.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/cepr/vw-bus-project/hooks
-html_url: https://github.com/cepr/vw-bus-project
-id: 77552468
-is_template: false
-issue_comment_url: https://api.github.com/repos/cepr/vw-bus-project/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/cepr/vw-bus-project/issues/events{/number}
-issues_url: https://api.github.com/repos/cepr/vw-bus-project/issues{/number}
-keys_url: https://api.github.com/repos/cepr/vw-bus-project/keys{/key_id}
-labels_url: https://api.github.com/repos/cepr/vw-bus-project/labels{/name}
-language: OpenSCAD
-languages_url: https://api.github.com/repos/cepr/vw-bus-project/languages
-license: null
-merges_url: https://api.github.com/repos/cepr/vw-bus-project/merges
-milestones_url: https://api.github.com/repos/cepr/vw-bus-project/milestones{/number}
-mirror_url: null
-name: vw-bus-project
-node_id: MDEwOlJlcG9zaXRvcnk3NzU1MjQ2OA==
-notifications_url: https://api.github.com/repos/cepr/vw-bus-project/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/213173?v=4
-  events_url: https://api.github.com/users/cepr/events{/privacy}
-  followers_url: https://api.github.com/users/cepr/followers
-  following_url: https://api.github.com/users/cepr/following{/other_user}
-  gists_url: https://api.github.com/users/cepr/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/cepr
-  id: 213173
-  login: cepr
-  node_id: MDQ6VXNlcjIxMzE3Mw==
-  organizations_url: https://api.github.com/users/cepr/orgs
-  received_events_url: https://api.github.com/users/cepr/received_events
-  repos_url: https://api.github.com/users/cepr/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/cepr/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/cepr/subscriptions
-  type: User
-  url: https://api.github.com/users/cepr
-private: false
+links:
+  github_owner: cepr
+  github_repo_name: vw-bus-project
+  github_src: https://github.com/cepr/vw-bus-project
+  github_src_repo: https://github.com/cepr/vw-bus-project
+  oomp_bot: cepr_vw_bus_project
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/cepr_vw_bus_project
+  oomp_doc: projects/cepr_vw_bus_project/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/cepr_vw_bus_project
+  oomp_src_flat: projects_flat/cepr_vw_bus_project
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/cepr_vw_bus_project
+  oomp_src_folder: projects_folder\cepr\vw-bus-project\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\cepr\vw-bus-project\version_current\working
+oomp_key: oomp_cepr_vw_bus_project
+oomp_key_simple: cepr_vw_bus_project
 projects_flat: projects_flat/cepr_vw_bus_project/version_current/working
 projects_folder: projects_folder/cepr/vw-bus-project/version_current/working
-pulls_url: https://api.github.com/repos/cepr/vw-bus-project/pulls{/number}
-pushed_at: '2019-02-18T00:19:41Z'
-releases_url: https://api.github.com/repos/cepr/vw-bus-project/releases{/id}
-size: 3704
-ssh_url: git@github.com:cepr/vw-bus-project.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/cepr/vw-bus-project/stargazers
-statuses_url: https://api.github.com/repos/cepr/vw-bus-project/statuses/{sha}
-subscribers_url: https://api.github.com/repos/cepr/vw-bus-project/subscribers
-subscription_url: https://api.github.com/repos/cepr/vw-bus-project/subscription
-svn_url: https://github.com/cepr/vw-bus-project
-tags_url: https://api.github.com/repos/cepr/vw-bus-project/tags
-teams_url: https://api.github.com/repos/cepr/vw-bus-project/teams
-topics: []
-trees_url: https://api.github.com/repos/cepr/vw-bus-project/git/trees{/sha}
-updated_at: '2020-01-27T02:20:16Z'
-url: https://api.github.com/repos/cepr/vw-bus-project
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/cepr/vw-bus-project/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/cepr/vw-bus-project/assignees{/user}
+  blobs_url: https://api.github.com/repos/cepr/vw-bus-project/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/cepr/vw-bus-project/branches{/branch}
+  clone_url: https://github.com/cepr/vw-bus-project.git
+  collaborators_url: https://api.github.com/repos/cepr/vw-bus-project/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/cepr/vw-bus-project/comments{/number}
+  commits_url: https://api.github.com/repos/cepr/vw-bus-project/commits{/sha}
+  compare_url: https://api.github.com/repos/cepr/vw-bus-project/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/cepr/vw-bus-project/contents/{+path}
+  contributors_url: https://api.github.com/repos/cepr/vw-bus-project/contributors
+  created_at: '2016-12-28T18:17:32Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/cepr/vw-bus-project/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/cepr/vw-bus-project/downloads
+  events_url: https://api.github.com/repos/cepr/vw-bus-project/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/cepr/vw-bus-project/forks
+  full_name: cepr/vw-bus-project
+  git_commits_url: https://api.github.com/repos/cepr/vw-bus-project/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/cepr/vw-bus-project/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/cepr/vw-bus-project/git/tags{/sha}
+  git_url: git://github.com/cepr/vw-bus-project.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/cepr/vw-bus-project/hooks
+  html_url: https://github.com/cepr/vw-bus-project
+  id: 77552468
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/cepr/vw-bus-project/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/cepr/vw-bus-project/issues/events{/number}
+  issues_url: https://api.github.com/repos/cepr/vw-bus-project/issues{/number}
+  keys_url: https://api.github.com/repos/cepr/vw-bus-project/keys{/key_id}
+  labels_url: https://api.github.com/repos/cepr/vw-bus-project/labels{/name}
+  language: OpenSCAD
+  languages_url: https://api.github.com/repos/cepr/vw-bus-project/languages
+  license: null
+  merges_url: https://api.github.com/repos/cepr/vw-bus-project/merges
+  milestones_url: https://api.github.com/repos/cepr/vw-bus-project/milestones{/number}
+  mirror_url: null
+  name: vw-bus-project
+  node_id: MDEwOlJlcG9zaXRvcnk3NzU1MjQ2OA==
+  notifications_url: https://api.github.com/repos/cepr/vw-bus-project/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/213173?v=4
+    events_url: https://api.github.com/users/cepr/events{/privacy}
+    followers_url: https://api.github.com/users/cepr/followers
+    following_url: https://api.github.com/users/cepr/following{/other_user}
+    gists_url: https://api.github.com/users/cepr/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/cepr
+    id: 213173
+    login: cepr
+    node_id: MDQ6VXNlcjIxMzE3Mw==
+    organizations_url: https://api.github.com/users/cepr/orgs
+    received_events_url: https://api.github.com/users/cepr/received_events
+    repos_url: https://api.github.com/users/cepr/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/cepr/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/cepr/subscriptions
+    type: User
+    url: https://api.github.com/users/cepr
+  private: false
+  pulls_url: https://api.github.com/repos/cepr/vw-bus-project/pulls{/number}
+  pushed_at: '2019-02-18T00:19:41Z'
+  releases_url: https://api.github.com/repos/cepr/vw-bus-project/releases{/id}
+  size: 3704
+  ssh_url: git@github.com:cepr/vw-bus-project.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/cepr/vw-bus-project/stargazers
+  statuses_url: https://api.github.com/repos/cepr/vw-bus-project/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/cepr/vw-bus-project/subscribers
+  subscription_url: https://api.github.com/repos/cepr/vw-bus-project/subscription
+  svn_url: https://github.com/cepr/vw-bus-project
+  tags_url: https://api.github.com/repos/cepr/vw-bus-project/tags
+  teams_url: https://api.github.com/repos/cepr/vw-bus-project/teams
+  topics: []
+  trees_url: https://api.github.com/repos/cepr/vw-bus-project/git/trees{/sha}
+  updated_at: '2020-01-27T02:20:16Z'
+  url: https://api.github.com/repos/cepr/vw-bus-project
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

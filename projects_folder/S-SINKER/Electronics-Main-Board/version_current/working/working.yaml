@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/assignees{/user}
-blobs_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/git/blobs{/sha}
-branches_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/branches{/branch}
-clone_url: https://github.com/S-SINKER/Electronics-Main-Board.git
-collaborators_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/comments{/number}
-commits_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/commits{/sha}
-compare_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/compare/{base}...{head}
-contents_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/contents/{+path}
-contributors_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/contributors
-created_at: '2016-11-21T10:59:55Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/downloads
-events_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/forks
-full_name: S-SINKER/Electronics-Main-Board
-git_commits_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/git/tags{/sha}
-git_url: git://github.com/S-SINKER/Electronics-Main-Board.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/hooks
-html_url: https://github.com/S-SINKER/Electronics-Main-Board
-id: 74354853
-is_template: false
-issue_comment_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/issues/events{/number}
-issues_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/issues{/number}
-keys_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/keys{/key_id}
-labels_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/languages
-license: null
-merges_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/merges
-milestones_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/milestones{/number}
-mirror_url: null
-name: Electronics-Main-Board
-node_id: MDEwOlJlcG9zaXRvcnk3NDM1NDg1Mw==
-notifications_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/22613271?v=4
-  events_url: https://api.github.com/users/S-SINKER/events{/privacy}
-  followers_url: https://api.github.com/users/S-SINKER/followers
-  following_url: https://api.github.com/users/S-SINKER/following{/other_user}
-  gists_url: https://api.github.com/users/S-SINKER/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/S-SINKER
-  id: 22613271
-  login: S-SINKER
-  node_id: MDEyOk9yZ2FuaXphdGlvbjIyNjEzMjcx
-  organizations_url: https://api.github.com/users/S-SINKER/orgs
-  received_events_url: https://api.github.com/users/S-SINKER/received_events
-  repos_url: https://api.github.com/users/S-SINKER/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/S-SINKER/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/S-SINKER/subscriptions
-  type: Organization
-  url: https://api.github.com/users/S-SINKER
-private: false
+links:
+  github_owner: S-SINKER
+  github_repo_name: Electronics-Main-Board
+  github_src: https://github.com/S-SINKER/Electronics-Main-Board
+  github_src_repo: https://github.com/S-SINKER/Electronics-Main-Board
+  oomp_bot: s_sinker_electronics_main_board
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/s_sinker_electronics_main_board
+  oomp_doc: projects/s_sinker_electronics_main_board/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/s_sinker_electronics_main_board
+  oomp_src_flat: projects_flat/s_sinker_electronics_main_board
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/s_sinker_electronics_main_board
+  oomp_src_folder: projects_folder\S-SINKER\Electronics-Main-Board\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\S-SINKER\Electronics-Main-Board\version_current\working
+oomp_key: oomp_s_sinker_electronics_main_board
+oomp_key_simple: s_sinker_electronics_main_board
 projects_flat: projects_flat/s_sinker_electronics_main_board/version_current/working
 projects_folder: projects_folder/S-SINKER/Electronics-Main-Board/version_current/working
-pulls_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/pulls{/number}
-pushed_at: '2016-11-21T11:00:56Z'
-releases_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/releases{/id}
-size: 77
-ssh_url: git@github.com:S-SINKER/Electronics-Main-Board.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/stargazers
-statuses_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/statuses/{sha}
-subscribers_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/subscribers
-subscription_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/subscription
-svn_url: https://github.com/S-SINKER/Electronics-Main-Board
-tags_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/tags
-teams_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/teams
-topics: []
-trees_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/git/trees{/sha}
-updated_at: '2016-11-21T11:00:57Z'
-url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/assignees{/user}
+  blobs_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/branches{/branch}
+  clone_url: https://github.com/S-SINKER/Electronics-Main-Board.git
+  collaborators_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/comments{/number}
+  commits_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/commits{/sha}
+  compare_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/contents/{+path}
+  contributors_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/contributors
+  created_at: '2016-11-21T10:59:55Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/downloads
+  events_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/forks
+  full_name: S-SINKER/Electronics-Main-Board
+  git_commits_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/git/tags{/sha}
+  git_url: git://github.com/S-SINKER/Electronics-Main-Board.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/hooks
+  html_url: https://github.com/S-SINKER/Electronics-Main-Board
+  id: 74354853
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/issues/events{/number}
+  issues_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/issues{/number}
+  keys_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/keys{/key_id}
+  labels_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/languages
+  license: null
+  merges_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/merges
+  milestones_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/milestones{/number}
+  mirror_url: null
+  name: Electronics-Main-Board
+  node_id: MDEwOlJlcG9zaXRvcnk3NDM1NDg1Mw==
+  notifications_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/22613271?v=4
+    events_url: https://api.github.com/users/S-SINKER/events{/privacy}
+    followers_url: https://api.github.com/users/S-SINKER/followers
+    following_url: https://api.github.com/users/S-SINKER/following{/other_user}
+    gists_url: https://api.github.com/users/S-SINKER/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/S-SINKER
+    id: 22613271
+    login: S-SINKER
+    node_id: MDEyOk9yZ2FuaXphdGlvbjIyNjEzMjcx
+    organizations_url: https://api.github.com/users/S-SINKER/orgs
+    received_events_url: https://api.github.com/users/S-SINKER/received_events
+    repos_url: https://api.github.com/users/S-SINKER/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/S-SINKER/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/S-SINKER/subscriptions
+    type: Organization
+    url: https://api.github.com/users/S-SINKER
+  private: false
+  pulls_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/pulls{/number}
+  pushed_at: '2016-11-21T11:00:56Z'
+  releases_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/releases{/id}
+  size: 77
+  ssh_url: git@github.com:S-SINKER/Electronics-Main-Board.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/stargazers
+  statuses_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/subscribers
+  subscription_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/subscription
+  svn_url: https://github.com/S-SINKER/Electronics-Main-Board
+  tags_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/tags
+  teams_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/teams
+  topics: []
+  trees_url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board/git/trees{/sha}
+  updated_at: '2016-11-21T11:00:57Z'
+  url: https://api.github.com/repos/S-SINKER/Electronics-Main-Board
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

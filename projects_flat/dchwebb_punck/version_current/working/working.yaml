@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dchwebb/Punck/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dchwebb/Punck/assignees{/user}
-blobs_url: https://api.github.com/repos/dchwebb/Punck/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dchwebb/Punck/branches{/branch}
-clone_url: https://github.com/dchwebb/Punck.git
-collaborators_url: https://api.github.com/repos/dchwebb/Punck/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dchwebb/Punck/comments{/number}
-commits_url: https://api.github.com/repos/dchwebb/Punck/commits{/sha}
-compare_url: https://api.github.com/repos/dchwebb/Punck/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dchwebb/Punck/contents/{+path}
-contributors_url: https://api.github.com/repos/dchwebb/Punck/contributors
-created_at: '2022-07-01T17:53:28Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/dchwebb/Punck/deployments
-description: Eurorack Drum Machine based on STM32H7 featuring kick, snare, hi hats,
-  two sample playback engines, toms and claps.
-disabled: false
-downloads_url: https://api.github.com/repos/dchwebb/Punck/downloads
-events_url: https://api.github.com/repos/dchwebb/Punck/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/dchwebb/Punck/forks
-full_name: dchwebb/Punck
-git_commits_url: https://api.github.com/repos/dchwebb/Punck/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dchwebb/Punck/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dchwebb/Punck/git/tags{/sha}
-git_url: git://github.com/dchwebb/Punck.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/dchwebb/Punck/hooks
-html_url: https://github.com/dchwebb/Punck
-id: 509544669
-is_template: false
-issue_comment_url: https://api.github.com/repos/dchwebb/Punck/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dchwebb/Punck/issues/events{/number}
-issues_url: https://api.github.com/repos/dchwebb/Punck/issues{/number}
-keys_url: https://api.github.com/repos/dchwebb/Punck/keys{/key_id}
-labels_url: https://api.github.com/repos/dchwebb/Punck/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/dchwebb/Punck/languages
-license: null
-merges_url: https://api.github.com/repos/dchwebb/Punck/merges
-milestones_url: https://api.github.com/repos/dchwebb/Punck/milestones{/number}
-mirror_url: null
-name: Punck
-node_id: R_kgDOHl8I3Q
-notifications_url: https://api.github.com/repos/dchwebb/Punck/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
-  events_url: https://api.github.com/users/dchwebb/events{/privacy}
-  followers_url: https://api.github.com/users/dchwebb/followers
-  following_url: https://api.github.com/users/dchwebb/following{/other_user}
-  gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dchwebb
-  id: 16348549
-  login: dchwebb
-  node_id: MDQ6VXNlcjE2MzQ4NTQ5
-  organizations_url: https://api.github.com/users/dchwebb/orgs
-  received_events_url: https://api.github.com/users/dchwebb/received_events
-  repos_url: https://api.github.com/users/dchwebb/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
-  type: User
-  url: https://api.github.com/users/dchwebb
-private: false
+links:
+  github_owner: dchwebb
+  github_repo_name: Punck
+  github_src: https://github.com/dchwebb/Punck
+  github_src_repo: https://github.com/dchwebb/Punck
+  oomp_bot: projects_dchwebb_punck
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_dchwebb_punck
+  oomp_doc: projects/projects_flat_dchwebb_punck/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_dchwebb_punck
+  oomp_src_flat: projects_flat/projects_flat_dchwebb_punck
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_dchwebb_punck
+  oomp_src_folder: projects_flat\dchwebb_punck\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dchwebb_punck\version_current\working
+oomp_key: oomp_projects_flat_dchwebb_punck
+oomp_key_simple: projects_flat_dchwebb_punck
 projects_flat: projects_flat/dchwebb_punck/version_current/working
 projects_folder: projects_folder/dchwebb/Punck/version_current/working
-pulls_url: https://api.github.com/repos/dchwebb/Punck/pulls{/number}
-pushed_at: '2022-12-11T17:36:02Z'
-releases_url: https://api.github.com/repos/dchwebb/Punck/releases{/id}
-size: 23453
-ssh_url: git@github.com:dchwebb/Punck.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/dchwebb/Punck/stargazers
-statuses_url: https://api.github.com/repos/dchwebb/Punck/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dchwebb/Punck/subscribers
-subscription_url: https://api.github.com/repos/dchwebb/Punck/subscription
-svn_url: https://github.com/dchwebb/Punck
-tags_url: https://api.github.com/repos/dchwebb/Punck/tags
-teams_url: https://api.github.com/repos/dchwebb/Punck/teams
-topics: []
-trees_url: https://api.github.com/repos/dchwebb/Punck/git/trees{/sha}
-updated_at: '2023-07-20T13:38:53Z'
-url: https://api.github.com/repos/dchwebb/Punck
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dchwebb/Punck/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dchwebb/Punck/assignees{/user}
+  blobs_url: https://api.github.com/repos/dchwebb/Punck/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dchwebb/Punck/branches{/branch}
+  clone_url: https://github.com/dchwebb/Punck.git
+  collaborators_url: https://api.github.com/repos/dchwebb/Punck/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dchwebb/Punck/comments{/number}
+  commits_url: https://api.github.com/repos/dchwebb/Punck/commits{/sha}
+  compare_url: https://api.github.com/repos/dchwebb/Punck/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dchwebb/Punck/contents/{+path}
+  contributors_url: https://api.github.com/repos/dchwebb/Punck/contributors
+  created_at: '2022-07-01T17:53:28Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/dchwebb/Punck/deployments
+  description: Eurorack Drum Machine based on STM32H7 featuring kick, snare, hi hats,
+    two sample playback engines, toms and claps.
+  disabled: false
+  downloads_url: https://api.github.com/repos/dchwebb/Punck/downloads
+  events_url: https://api.github.com/repos/dchwebb/Punck/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/dchwebb/Punck/forks
+  full_name: dchwebb/Punck
+  git_commits_url: https://api.github.com/repos/dchwebb/Punck/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dchwebb/Punck/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dchwebb/Punck/git/tags{/sha}
+  git_url: git://github.com/dchwebb/Punck.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/dchwebb/Punck/hooks
+  html_url: https://github.com/dchwebb/Punck
+  id: 509544669
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dchwebb/Punck/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dchwebb/Punck/issues/events{/number}
+  issues_url: https://api.github.com/repos/dchwebb/Punck/issues{/number}
+  keys_url: https://api.github.com/repos/dchwebb/Punck/keys{/key_id}
+  labels_url: https://api.github.com/repos/dchwebb/Punck/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/dchwebb/Punck/languages
+  license: null
+  merges_url: https://api.github.com/repos/dchwebb/Punck/merges
+  milestones_url: https://api.github.com/repos/dchwebb/Punck/milestones{/number}
+  mirror_url: null
+  name: Punck
+  node_id: R_kgDOHl8I3Q
+  notifications_url: https://api.github.com/repos/dchwebb/Punck/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
+    events_url: https://api.github.com/users/dchwebb/events{/privacy}
+    followers_url: https://api.github.com/users/dchwebb/followers
+    following_url: https://api.github.com/users/dchwebb/following{/other_user}
+    gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dchwebb
+    id: 16348549
+    login: dchwebb
+    node_id: MDQ6VXNlcjE2MzQ4NTQ5
+    organizations_url: https://api.github.com/users/dchwebb/orgs
+    received_events_url: https://api.github.com/users/dchwebb/received_events
+    repos_url: https://api.github.com/users/dchwebb/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
+    type: User
+    url: https://api.github.com/users/dchwebb
+  private: false
+  pulls_url: https://api.github.com/repos/dchwebb/Punck/pulls{/number}
+  pushed_at: '2022-12-11T17:36:02Z'
+  releases_url: https://api.github.com/repos/dchwebb/Punck/releases{/id}
+  size: 23453
+  ssh_url: git@github.com:dchwebb/Punck.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/dchwebb/Punck/stargazers
+  statuses_url: https://api.github.com/repos/dchwebb/Punck/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dchwebb/Punck/subscribers
+  subscription_url: https://api.github.com/repos/dchwebb/Punck/subscription
+  svn_url: https://github.com/dchwebb/Punck
+  tags_url: https://api.github.com/repos/dchwebb/Punck/tags
+  teams_url: https://api.github.com/repos/dchwebb/Punck/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dchwebb/Punck/git/trees{/sha}
+  updated_at: '2023-07-20T13:38:53Z'
+  url: https://api.github.com/repos/dchwebb/Punck
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

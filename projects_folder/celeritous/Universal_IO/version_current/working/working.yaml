@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/celeritous/Universal_IO/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/celeritous/Universal_IO/assignees{/user}
-blobs_url: https://api.github.com/repos/celeritous/Universal_IO/git/blobs{/sha}
-branches_url: https://api.github.com/repos/celeritous/Universal_IO/branches{/branch}
-clone_url: https://github.com/celeritous/Universal_IO.git
-collaborators_url: https://api.github.com/repos/celeritous/Universal_IO/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/celeritous/Universal_IO/comments{/number}
-commits_url: https://api.github.com/repos/celeritous/Universal_IO/commits{/sha}
-compare_url: https://api.github.com/repos/celeritous/Universal_IO/compare/{base}...{head}
-contents_url: https://api.github.com/repos/celeritous/Universal_IO/contents/{+path}
-contributors_url: https://api.github.com/repos/celeritous/Universal_IO/contributors
-created_at: '2018-03-07T22:47:39Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/celeritous/Universal_IO/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/celeritous/Universal_IO/downloads
-events_url: https://api.github.com/repos/celeritous/Universal_IO/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/celeritous/Universal_IO/forks
-full_name: celeritous/Universal_IO
-git_commits_url: https://api.github.com/repos/celeritous/Universal_IO/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/celeritous/Universal_IO/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/celeritous/Universal_IO/git/tags{/sha}
-git_url: git://github.com/celeritous/Universal_IO.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/celeritous/Universal_IO/hooks
-html_url: https://github.com/celeritous/Universal_IO
-id: 124303871
-is_template: false
-issue_comment_url: https://api.github.com/repos/celeritous/Universal_IO/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/celeritous/Universal_IO/issues/events{/number}
-issues_url: https://api.github.com/repos/celeritous/Universal_IO/issues{/number}
-keys_url: https://api.github.com/repos/celeritous/Universal_IO/keys{/key_id}
-labels_url: https://api.github.com/repos/celeritous/Universal_IO/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/celeritous/Universal_IO/languages
-license: null
-merges_url: https://api.github.com/repos/celeritous/Universal_IO/merges
-milestones_url: https://api.github.com/repos/celeritous/Universal_IO/milestones{/number}
-mirror_url: null
-name: Universal_IO
-node_id: MDEwOlJlcG9zaXRvcnkxMjQzMDM4NzE=
-notifications_url: https://api.github.com/repos/celeritous/Universal_IO/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6216929?v=4
-  events_url: https://api.github.com/users/celeritous/events{/privacy}
-  followers_url: https://api.github.com/users/celeritous/followers
-  following_url: https://api.github.com/users/celeritous/following{/other_user}
-  gists_url: https://api.github.com/users/celeritous/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/celeritous
-  id: 6216929
-  login: celeritous
-  node_id: MDQ6VXNlcjYyMTY5Mjk=
-  organizations_url: https://api.github.com/users/celeritous/orgs
-  received_events_url: https://api.github.com/users/celeritous/received_events
-  repos_url: https://api.github.com/users/celeritous/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/celeritous/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/celeritous/subscriptions
-  type: User
-  url: https://api.github.com/users/celeritous
-private: false
+links:
+  github_owner: celeritous
+  github_repo_name: Universal_IO
+  github_src: https://github.com/celeritous/Universal_IO
+  github_src_repo: https://github.com/celeritous/Universal_IO
+  oomp_bot: celeritous_universal_io
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/celeritous_universal_io
+  oomp_doc: projects/celeritous_universal_io/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/celeritous_universal_io
+  oomp_src_flat: projects_flat/celeritous_universal_io
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/celeritous_universal_io
+  oomp_src_folder: projects_folder\celeritous\Universal_IO\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\celeritous\Universal_IO\version_current\working
+oomp_key: oomp_celeritous_universal_io
+oomp_key_simple: celeritous_universal_io
 projects_flat: projects_flat/celeritous_universal_io/version_current/working
 projects_folder: projects_folder/celeritous/Universal_IO/version_current/working
-pulls_url: https://api.github.com/repos/celeritous/Universal_IO/pulls{/number}
-pushed_at: '2018-07-05T18:58:02Z'
-releases_url: https://api.github.com/repos/celeritous/Universal_IO/releases{/id}
-size: 2845
-ssh_url: git@github.com:celeritous/Universal_IO.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/celeritous/Universal_IO/stargazers
-statuses_url: https://api.github.com/repos/celeritous/Universal_IO/statuses/{sha}
-subscribers_url: https://api.github.com/repos/celeritous/Universal_IO/subscribers
-subscription_url: https://api.github.com/repos/celeritous/Universal_IO/subscription
-svn_url: https://github.com/celeritous/Universal_IO
-tags_url: https://api.github.com/repos/celeritous/Universal_IO/tags
-teams_url: https://api.github.com/repos/celeritous/Universal_IO/teams
-topics: []
-trees_url: https://api.github.com/repos/celeritous/Universal_IO/git/trees{/sha}
-updated_at: '2018-07-05T18:58:03Z'
-url: https://api.github.com/repos/celeritous/Universal_IO
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/celeritous/Universal_IO/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/celeritous/Universal_IO/assignees{/user}
+  blobs_url: https://api.github.com/repos/celeritous/Universal_IO/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/celeritous/Universal_IO/branches{/branch}
+  clone_url: https://github.com/celeritous/Universal_IO.git
+  collaborators_url: https://api.github.com/repos/celeritous/Universal_IO/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/celeritous/Universal_IO/comments{/number}
+  commits_url: https://api.github.com/repos/celeritous/Universal_IO/commits{/sha}
+  compare_url: https://api.github.com/repos/celeritous/Universal_IO/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/celeritous/Universal_IO/contents/{+path}
+  contributors_url: https://api.github.com/repos/celeritous/Universal_IO/contributors
+  created_at: '2018-03-07T22:47:39Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/celeritous/Universal_IO/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/celeritous/Universal_IO/downloads
+  events_url: https://api.github.com/repos/celeritous/Universal_IO/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/celeritous/Universal_IO/forks
+  full_name: celeritous/Universal_IO
+  git_commits_url: https://api.github.com/repos/celeritous/Universal_IO/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/celeritous/Universal_IO/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/celeritous/Universal_IO/git/tags{/sha}
+  git_url: git://github.com/celeritous/Universal_IO.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/celeritous/Universal_IO/hooks
+  html_url: https://github.com/celeritous/Universal_IO
+  id: 124303871
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/celeritous/Universal_IO/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/celeritous/Universal_IO/issues/events{/number}
+  issues_url: https://api.github.com/repos/celeritous/Universal_IO/issues{/number}
+  keys_url: https://api.github.com/repos/celeritous/Universal_IO/keys{/key_id}
+  labels_url: https://api.github.com/repos/celeritous/Universal_IO/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/celeritous/Universal_IO/languages
+  license: null
+  merges_url: https://api.github.com/repos/celeritous/Universal_IO/merges
+  milestones_url: https://api.github.com/repos/celeritous/Universal_IO/milestones{/number}
+  mirror_url: null
+  name: Universal_IO
+  node_id: MDEwOlJlcG9zaXRvcnkxMjQzMDM4NzE=
+  notifications_url: https://api.github.com/repos/celeritous/Universal_IO/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6216929?v=4
+    events_url: https://api.github.com/users/celeritous/events{/privacy}
+    followers_url: https://api.github.com/users/celeritous/followers
+    following_url: https://api.github.com/users/celeritous/following{/other_user}
+    gists_url: https://api.github.com/users/celeritous/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/celeritous
+    id: 6216929
+    login: celeritous
+    node_id: MDQ6VXNlcjYyMTY5Mjk=
+    organizations_url: https://api.github.com/users/celeritous/orgs
+    received_events_url: https://api.github.com/users/celeritous/received_events
+    repos_url: https://api.github.com/users/celeritous/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/celeritous/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/celeritous/subscriptions
+    type: User
+    url: https://api.github.com/users/celeritous
+  private: false
+  pulls_url: https://api.github.com/repos/celeritous/Universal_IO/pulls{/number}
+  pushed_at: '2018-07-05T18:58:02Z'
+  releases_url: https://api.github.com/repos/celeritous/Universal_IO/releases{/id}
+  size: 2845
+  ssh_url: git@github.com:celeritous/Universal_IO.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/celeritous/Universal_IO/stargazers
+  statuses_url: https://api.github.com/repos/celeritous/Universal_IO/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/celeritous/Universal_IO/subscribers
+  subscription_url: https://api.github.com/repos/celeritous/Universal_IO/subscription
+  svn_url: https://github.com/celeritous/Universal_IO
+  tags_url: https://api.github.com/repos/celeritous/Universal_IO/tags
+  teams_url: https://api.github.com/repos/celeritous/Universal_IO/teams
+  topics: []
+  trees_url: https://api.github.com/repos/celeritous/Universal_IO/git/trees{/sha}
+  updated_at: '2018-07-05T18:58:03Z'
+  url: https://api.github.com/repos/celeritous/Universal_IO
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

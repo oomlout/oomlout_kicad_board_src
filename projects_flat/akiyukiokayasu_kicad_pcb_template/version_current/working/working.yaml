@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/assignees{/user}
-blobs_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/git/blobs{/sha}
-branches_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/branches{/branch}
-clone_url: https://github.com/AkiyukiOkayasu/KiCad-PCB-Template.git
-collaborators_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/comments{/number}
-commits_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/commits{/sha}
-compare_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/compare/{base}...{head}
-contents_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/contents/{+path}
-contributors_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/contributors
-created_at: '2022-04-12T01:50:06Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/downloads
-events_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/events
 file_kicad_sch_flat: projects_flat/akiyukiokayasu_kicad_pcb_template/version_current/working/working.kicad_sch
 file_kicad_sch_folder: projects_folder/AkiyukiOkayasu/KiCad-PCB-Template/version_current/working/working.kicad_sch
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/forks
-full_name: AkiyukiOkayasu/KiCad-PCB-Template
-git_commits_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/git/tags{/sha}
-git_url: git://github.com/AkiyukiOkayasu/KiCad-PCB-Template.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/hooks
-html_url: https://github.com/AkiyukiOkayasu/KiCad-PCB-Template
-id: 480615990
-is_template: false
-issue_comment_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/issues/events{/number}
-issues_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/issues{/number}
-keys_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/keys{/key_id}
-labels_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/languages
-license:
-  key: cc0-1.0
-  name: Creative Commons Zero v1.0 Universal
-  node_id: MDc6TGljZW5zZTY=
-  spdx_id: CC0-1.0
-  url: https://api.github.com/licenses/cc0-1.0
-merges_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/merges
-milestones_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/milestones{/number}
-mirror_url: null
-name: KiCad-PCB-Template
-node_id: R_kgDOHKWeNg
-notifications_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6957368?v=4
-  events_url: https://api.github.com/users/AkiyukiOkayasu/events{/privacy}
-  followers_url: https://api.github.com/users/AkiyukiOkayasu/followers
-  following_url: https://api.github.com/users/AkiyukiOkayasu/following{/other_user}
-  gists_url: https://api.github.com/users/AkiyukiOkayasu/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/AkiyukiOkayasu
-  id: 6957368
-  login: AkiyukiOkayasu
-  node_id: MDQ6VXNlcjY5NTczNjg=
-  organizations_url: https://api.github.com/users/AkiyukiOkayasu/orgs
-  received_events_url: https://api.github.com/users/AkiyukiOkayasu/received_events
-  repos_url: https://api.github.com/users/AkiyukiOkayasu/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/AkiyukiOkayasu/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/AkiyukiOkayasu/subscriptions
-  type: User
-  url: https://api.github.com/users/AkiyukiOkayasu
-private: false
+links:
+  github_owner: AkiyukiOkayasu
+  github_repo_name: KiCad-PCB-Template
+  github_src: https://github.com/AkiyukiOkayasu/KiCad-PCB-Template
+  github_src_repo: https://github.com/AkiyukiOkayasu/KiCad-PCB-Template
+  oomp_bot: projects_akiyukiokayasu_kicad_pcb_template
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_akiyukiokayasu_kicad_pcb_template
+  oomp_doc: projects/projects_flat_akiyukiokayasu_kicad_pcb_template/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_akiyukiokayasu_kicad_pcb_template
+  oomp_src_flat: projects_flat/projects_flat_akiyukiokayasu_kicad_pcb_template
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_akiyukiokayasu_kicad_pcb_template
+  oomp_src_folder: projects_flat\akiyukiokayasu_kicad_pcb_template\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\akiyukiokayasu_kicad_pcb_template\version_current\working
+oomp_key: oomp_projects_flat_akiyukiokayasu_kicad_pcb_template
+oomp_key_simple: projects_flat_akiyukiokayasu_kicad_pcb_template
 projects_flat: projects_flat/akiyukiokayasu_kicad_pcb_template/version_current/working
 projects_folder: projects_folder/AkiyukiOkayasu/KiCad-PCB-Template/version_current/working
-pulls_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/pulls{/number}
-pushed_at: '2022-04-12T02:07:45Z'
-releases_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/releases{/id}
-size: 8
-ssh_url: git@github.com:AkiyukiOkayasu/KiCad-PCB-Template.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/stargazers
-statuses_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/statuses/{sha}
-subscribers_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/subscribers
-subscription_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/subscription
-svn_url: https://github.com/AkiyukiOkayasu/KiCad-PCB-Template
-tags_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/tags
-teams_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/teams
-topics: []
-trees_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/git/trees{/sha}
-updated_at: '2022-04-12T01:50:06Z'
-url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/assignees{/user}
+  blobs_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/branches{/branch}
+  clone_url: https://github.com/AkiyukiOkayasu/KiCad-PCB-Template.git
+  collaborators_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/comments{/number}
+  commits_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/commits{/sha}
+  compare_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/contents/{+path}
+  contributors_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/contributors
+  created_at: '2022-04-12T01:50:06Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/downloads
+  events_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/forks
+  full_name: AkiyukiOkayasu/KiCad-PCB-Template
+  git_commits_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/git/tags{/sha}
+  git_url: git://github.com/AkiyukiOkayasu/KiCad-PCB-Template.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/hooks
+  html_url: https://github.com/AkiyukiOkayasu/KiCad-PCB-Template
+  id: 480615990
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/issues/events{/number}
+  issues_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/issues{/number}
+  keys_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/keys{/key_id}
+  labels_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/languages
+  license:
+    key: cc0-1.0
+    name: Creative Commons Zero v1.0 Universal
+    node_id: MDc6TGljZW5zZTY=
+    spdx_id: CC0-1.0
+    url: https://api.github.com/licenses/cc0-1.0
+  merges_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/merges
+  milestones_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/milestones{/number}
+  mirror_url: null
+  name: KiCad-PCB-Template
+  node_id: R_kgDOHKWeNg
+  notifications_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6957368?v=4
+    events_url: https://api.github.com/users/AkiyukiOkayasu/events{/privacy}
+    followers_url: https://api.github.com/users/AkiyukiOkayasu/followers
+    following_url: https://api.github.com/users/AkiyukiOkayasu/following{/other_user}
+    gists_url: https://api.github.com/users/AkiyukiOkayasu/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/AkiyukiOkayasu
+    id: 6957368
+    login: AkiyukiOkayasu
+    node_id: MDQ6VXNlcjY5NTczNjg=
+    organizations_url: https://api.github.com/users/AkiyukiOkayasu/orgs
+    received_events_url: https://api.github.com/users/AkiyukiOkayasu/received_events
+    repos_url: https://api.github.com/users/AkiyukiOkayasu/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/AkiyukiOkayasu/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/AkiyukiOkayasu/subscriptions
+    type: User
+    url: https://api.github.com/users/AkiyukiOkayasu
+  private: false
+  pulls_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/pulls{/number}
+  pushed_at: '2022-04-12T02:07:45Z'
+  releases_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/releases{/id}
+  size: 8
+  ssh_url: git@github.com:AkiyukiOkayasu/KiCad-PCB-Template.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/stargazers
+  statuses_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/subscribers
+  subscription_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/subscription
+  svn_url: https://github.com/AkiyukiOkayasu/KiCad-PCB-Template
+  tags_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/tags
+  teams_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/teams
+  topics: []
+  trees_url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template/git/trees{/sha}
+  updated_at: '2022-04-12T01:50:06Z'
+  url: https://api.github.com/repos/AkiyukiOkayasu/KiCad-PCB-Template
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

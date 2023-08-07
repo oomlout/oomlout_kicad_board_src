@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/macmade/4-bit/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/macmade/4-bit/assignees{/user}
-blobs_url: https://api.github.com/repos/macmade/4-bit/git/blobs{/sha}
-branches_url: https://api.github.com/repos/macmade/4-bit/branches{/branch}
-clone_url: https://github.com/macmade/4-bit.git
-collaborators_url: https://api.github.com/repos/macmade/4-bit/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/macmade/4-bit/comments{/number}
-commits_url: https://api.github.com/repos/macmade/4-bit/commits{/sha}
-compare_url: https://api.github.com/repos/macmade/4-bit/compare/{base}...{head}
-contents_url: https://api.github.com/repos/macmade/4-bit/contents/{+path}
-contributors_url: https://api.github.com/repos/macmade/4-bit/contributors
-created_at: '2015-08-20T19:16:33Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/macmade/4-bit/deployments
-description: 4-Bit Computer
-disabled: false
-downloads_url: https://api.github.com/repos/macmade/4-bit/downloads
-events_url: https://api.github.com/repos/macmade/4-bit/events
 file_sch_flat: projects_flat/macmade_4_bit/version_current/working/working.sch
 file_sch_folder: projects_folder/macmade/4-bit/version_current/working/working.sch
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/macmade/4-bit/forks
-full_name: macmade/4-bit
-git_commits_url: https://api.github.com/repos/macmade/4-bit/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/macmade/4-bit/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/macmade/4-bit/git/tags{/sha}
-git_url: git://github.com/macmade/4-bit.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: null
-hooks_url: https://api.github.com/repos/macmade/4-bit/hooks
-html_url: https://github.com/macmade/4-bit
-id: 41114423
-is_template: false
-issue_comment_url: https://api.github.com/repos/macmade/4-bit/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/macmade/4-bit/issues/events{/number}
-issues_url: https://api.github.com/repos/macmade/4-bit/issues{/number}
-keys_url: https://api.github.com/repos/macmade/4-bit/keys{/key_id}
-labels_url: https://api.github.com/repos/macmade/4-bit/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/macmade/4-bit/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/macmade/4-bit/merges
-milestones_url: https://api.github.com/repos/macmade/4-bit/milestones{/number}
-mirror_url: null
-name: 4-bit
-node_id: MDEwOlJlcG9zaXRvcnk0MTExNDQyMw==
-notifications_url: https://api.github.com/repos/macmade/4-bit/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/146476?v=4
-  events_url: https://api.github.com/users/macmade/events{/privacy}
-  followers_url: https://api.github.com/users/macmade/followers
-  following_url: https://api.github.com/users/macmade/following{/other_user}
-  gists_url: https://api.github.com/users/macmade/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/macmade
-  id: 146476
-  login: macmade
-  node_id: MDQ6VXNlcjE0NjQ3Ng==
-  organizations_url: https://api.github.com/users/macmade/orgs
-  received_events_url: https://api.github.com/users/macmade/received_events
-  repos_url: https://api.github.com/users/macmade/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/macmade/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/macmade/subscriptions
-  type: User
-  url: https://api.github.com/users/macmade
-private: false
+links:
+  github_owner: macmade
+  github_repo_name: 4-bit
+  github_src: https://github.com/macmade/4-bit
+  github_src_repo: https://github.com/macmade/4-bit
+  oomp_bot: macmade_4_bit
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/macmade_4_bit
+  oomp_doc: projects/macmade_4_bit/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/macmade_4_bit
+  oomp_src_flat: projects_flat/macmade_4_bit
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/macmade_4_bit
+  oomp_src_folder: projects_folder\macmade\4-bit\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\macmade\4-bit\version_current\working
+oomp_key: oomp_macmade_4_bit
+oomp_key_simple: macmade_4_bit
 projects_flat: projects_flat/macmade_4_bit/version_current/working
 projects_folder: projects_folder/macmade/4-bit/version_current/working
-pulls_url: https://api.github.com/repos/macmade/4-bit/pulls{/number}
-pushed_at: '2021-08-02T17:52:59Z'
-releases_url: https://api.github.com/repos/macmade/4-bit/releases{/id}
-size: 710
-ssh_url: git@github.com:macmade/4-bit.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/macmade/4-bit/stargazers
-statuses_url: https://api.github.com/repos/macmade/4-bit/statuses/{sha}
-subscribers_url: https://api.github.com/repos/macmade/4-bit/subscribers
-subscription_url: https://api.github.com/repos/macmade/4-bit/subscription
-svn_url: https://github.com/macmade/4-bit
-tags_url: https://api.github.com/repos/macmade/4-bit/tags
-teams_url: https://api.github.com/repos/macmade/4-bit/teams
-topics: []
-trees_url: https://api.github.com/repos/macmade/4-bit/git/trees{/sha}
-updated_at: '2023-05-31T16:11:22Z'
-url: https://api.github.com/repos/macmade/4-bit
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/macmade/4-bit/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/macmade/4-bit/assignees{/user}
+  blobs_url: https://api.github.com/repos/macmade/4-bit/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/macmade/4-bit/branches{/branch}
+  clone_url: https://github.com/macmade/4-bit.git
+  collaborators_url: https://api.github.com/repos/macmade/4-bit/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/macmade/4-bit/comments{/number}
+  commits_url: https://api.github.com/repos/macmade/4-bit/commits{/sha}
+  compare_url: https://api.github.com/repos/macmade/4-bit/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/macmade/4-bit/contents/{+path}
+  contributors_url: https://api.github.com/repos/macmade/4-bit/contributors
+  created_at: '2015-08-20T19:16:33Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/macmade/4-bit/deployments
+  description: 4-Bit Computer
+  disabled: false
+  downloads_url: https://api.github.com/repos/macmade/4-bit/downloads
+  events_url: https://api.github.com/repos/macmade/4-bit/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/macmade/4-bit/forks
+  full_name: macmade/4-bit
+  git_commits_url: https://api.github.com/repos/macmade/4-bit/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/macmade/4-bit/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/macmade/4-bit/git/tags{/sha}
+  git_url: git://github.com/macmade/4-bit.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/macmade/4-bit/hooks
+  html_url: https://github.com/macmade/4-bit
+  id: 41114423
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/macmade/4-bit/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/macmade/4-bit/issues/events{/number}
+  issues_url: https://api.github.com/repos/macmade/4-bit/issues{/number}
+  keys_url: https://api.github.com/repos/macmade/4-bit/keys{/key_id}
+  labels_url: https://api.github.com/repos/macmade/4-bit/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/macmade/4-bit/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/macmade/4-bit/merges
+  milestones_url: https://api.github.com/repos/macmade/4-bit/milestones{/number}
+  mirror_url: null
+  name: 4-bit
+  node_id: MDEwOlJlcG9zaXRvcnk0MTExNDQyMw==
+  notifications_url: https://api.github.com/repos/macmade/4-bit/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/146476?v=4
+    events_url: https://api.github.com/users/macmade/events{/privacy}
+    followers_url: https://api.github.com/users/macmade/followers
+    following_url: https://api.github.com/users/macmade/following{/other_user}
+    gists_url: https://api.github.com/users/macmade/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/macmade
+    id: 146476
+    login: macmade
+    node_id: MDQ6VXNlcjE0NjQ3Ng==
+    organizations_url: https://api.github.com/users/macmade/orgs
+    received_events_url: https://api.github.com/users/macmade/received_events
+    repos_url: https://api.github.com/users/macmade/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/macmade/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/macmade/subscriptions
+    type: User
+    url: https://api.github.com/users/macmade
+  private: false
+  pulls_url: https://api.github.com/repos/macmade/4-bit/pulls{/number}
+  pushed_at: '2021-08-02T17:52:59Z'
+  releases_url: https://api.github.com/repos/macmade/4-bit/releases{/id}
+  size: 710
+  ssh_url: git@github.com:macmade/4-bit.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/macmade/4-bit/stargazers
+  statuses_url: https://api.github.com/repos/macmade/4-bit/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/macmade/4-bit/subscribers
+  subscription_url: https://api.github.com/repos/macmade/4-bit/subscription
+  svn_url: https://github.com/macmade/4-bit
+  tags_url: https://api.github.com/repos/macmade/4-bit/tags
+  teams_url: https://api.github.com/repos/macmade/4-bit/teams
+  topics: []
+  trees_url: https://api.github.com/repos/macmade/4-bit/git/trees{/sha}
+  updated_at: '2023-05-31T16:11:22Z'
+  url: https://api.github.com/repos/macmade/4-bit
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

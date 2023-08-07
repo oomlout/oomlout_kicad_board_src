@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/assignees{/user}
-blobs_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/git/blobs{/sha}
-branches_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/branches{/branch}
-clone_url: https://github.com/UMONS-GFA/ds18b20-smd.git
-collaborators_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/comments{/number}
-commits_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/commits{/sha}
-compare_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/compare/{base}...{head}
-contents_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/contents/{+path}
-contributors_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/contributors
-created_at: '2018-11-19T13:40:03Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/downloads
-events_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/forks
-full_name: UMONS-GFA/ds18b20-smd
-git_commits_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/git/tags{/sha}
-git_url: git://github.com/UMONS-GFA/ds18b20-smd.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/hooks
-html_url: https://github.com/UMONS-GFA/ds18b20-smd
-id: 158229505
-is_template: false
-issue_comment_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/issues/events{/number}
-issues_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/issues{/number}
-keys_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/keys{/key_id}
-labels_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/merges
-milestones_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/milestones{/number}
-mirror_url: null
-name: ds18b20-smd
-node_id: MDEwOlJlcG9zaXRvcnkxNTgyMjk1MDU=
-notifications_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5850580?v=4
-  events_url: https://api.github.com/users/UMONS-GFA/events{/privacy}
-  followers_url: https://api.github.com/users/UMONS-GFA/followers
-  following_url: https://api.github.com/users/UMONS-GFA/following{/other_user}
-  gists_url: https://api.github.com/users/UMONS-GFA/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/UMONS-GFA
-  id: 5850580
-  login: UMONS-GFA
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU4NTA1ODA=
-  organizations_url: https://api.github.com/users/UMONS-GFA/orgs
-  received_events_url: https://api.github.com/users/UMONS-GFA/received_events
-  repos_url: https://api.github.com/users/UMONS-GFA/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/UMONS-GFA/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/UMONS-GFA/subscriptions
-  type: Organization
-  url: https://api.github.com/users/UMONS-GFA
-private: false
+links:
+  github_owner: UMONS-GFA
+  github_repo_name: ds18b20-smd
+  github_src: https://github.com/UMONS-GFA/ds18b20-smd
+  github_src_repo: https://github.com/UMONS-GFA/ds18b20-smd
+  oomp_bot: projects_umons_gfa_ds18b20_smd
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_umons_gfa_ds18b20_smd
+  oomp_doc: projects/projects_flat_umons_gfa_ds18b20_smd/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_umons_gfa_ds18b20_smd
+  oomp_src_flat: projects_flat/projects_flat_umons_gfa_ds18b20_smd
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_umons_gfa_ds18b20_smd
+  oomp_src_folder: projects_flat\umons_gfa_ds18b20_smd\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\umons_gfa_ds18b20_smd\version_current\working
+oomp_key: oomp_projects_flat_umons_gfa_ds18b20_smd
+oomp_key_simple: projects_flat_umons_gfa_ds18b20_smd
 projects_flat: projects_flat/umons_gfa_ds18b20_smd/version_current/working
 projects_folder: projects_folder/UMONS-GFA/ds18b20-smd/version_current/working
-pulls_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/pulls{/number}
-pushed_at: '2019-01-10T08:17:36Z'
-releases_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/releases{/id}
-size: 39
-ssh_url: git@github.com:UMONS-GFA/ds18b20-smd.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/stargazers
-statuses_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/statuses/{sha}
-subscribers_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/subscribers
-subscription_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/subscription
-svn_url: https://github.com/UMONS-GFA/ds18b20-smd
-tags_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/tags
-teams_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/teams
-topics: []
-trees_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/git/trees{/sha}
-updated_at: '2019-01-10T08:17:38Z'
-url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/assignees{/user}
+  blobs_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/branches{/branch}
+  clone_url: https://github.com/UMONS-GFA/ds18b20-smd.git
+  collaborators_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/comments{/number}
+  commits_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/commits{/sha}
+  compare_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/contents/{+path}
+  contributors_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/contributors
+  created_at: '2018-11-19T13:40:03Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/downloads
+  events_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/forks
+  full_name: UMONS-GFA/ds18b20-smd
+  git_commits_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/git/tags{/sha}
+  git_url: git://github.com/UMONS-GFA/ds18b20-smd.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/hooks
+  html_url: https://github.com/UMONS-GFA/ds18b20-smd
+  id: 158229505
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/issues/events{/number}
+  issues_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/issues{/number}
+  keys_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/keys{/key_id}
+  labels_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/merges
+  milestones_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/milestones{/number}
+  mirror_url: null
+  name: ds18b20-smd
+  node_id: MDEwOlJlcG9zaXRvcnkxNTgyMjk1MDU=
+  notifications_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5850580?v=4
+    events_url: https://api.github.com/users/UMONS-GFA/events{/privacy}
+    followers_url: https://api.github.com/users/UMONS-GFA/followers
+    following_url: https://api.github.com/users/UMONS-GFA/following{/other_user}
+    gists_url: https://api.github.com/users/UMONS-GFA/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/UMONS-GFA
+    id: 5850580
+    login: UMONS-GFA
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU4NTA1ODA=
+    organizations_url: https://api.github.com/users/UMONS-GFA/orgs
+    received_events_url: https://api.github.com/users/UMONS-GFA/received_events
+    repos_url: https://api.github.com/users/UMONS-GFA/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/UMONS-GFA/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/UMONS-GFA/subscriptions
+    type: Organization
+    url: https://api.github.com/users/UMONS-GFA
+  private: false
+  pulls_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/pulls{/number}
+  pushed_at: '2019-01-10T08:17:36Z'
+  releases_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/releases{/id}
+  size: 39
+  ssh_url: git@github.com:UMONS-GFA/ds18b20-smd.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/stargazers
+  statuses_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/subscribers
+  subscription_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/subscription
+  svn_url: https://github.com/UMONS-GFA/ds18b20-smd
+  tags_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/tags
+  teams_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/teams
+  topics: []
+  trees_url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd/git/trees{/sha}
+  updated_at: '2019-01-10T08:17:38Z'
+  url: https://api.github.com/repos/UMONS-GFA/ds18b20-smd
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

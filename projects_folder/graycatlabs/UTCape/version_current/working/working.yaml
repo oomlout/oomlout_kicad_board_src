@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/graycatlabs/UTCape/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/graycatlabs/UTCape/assignees{/user}
-blobs_url: https://api.github.com/repos/graycatlabs/UTCape/git/blobs{/sha}
-branches_url: https://api.github.com/repos/graycatlabs/UTCape/branches{/branch}
-clone_url: https://github.com/graycatlabs/UTCape.git
-collaborators_url: https://api.github.com/repos/graycatlabs/UTCape/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/graycatlabs/UTCape/comments{/number}
-commits_url: https://api.github.com/repos/graycatlabs/UTCape/commits{/sha}
-compare_url: https://api.github.com/repos/graycatlabs/UTCape/compare/{base}...{head}
-contents_url: https://api.github.com/repos/graycatlabs/UTCape/contents/{+path}
-contributors_url: https://api.github.com/repos/graycatlabs/UTCape/contributors
-created_at: '2015-02-24T01:40:48Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/graycatlabs/UTCape/deployments
-description: A BeagleBone cape to support unit tests in software libraries for hardware
-  expansion
-disabled: false
-downloads_url: https://api.github.com/repos/graycatlabs/UTCape/downloads
-events_url: https://api.github.com/repos/graycatlabs/UTCape/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/graycatlabs/UTCape/forks
-full_name: graycatlabs/UTCape
-git_commits_url: https://api.github.com/repos/graycatlabs/UTCape/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/graycatlabs/UTCape/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/graycatlabs/UTCape/git/tags{/sha}
-git_url: git://github.com/graycatlabs/UTCape.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/graycatlabs/UTCape/hooks
-html_url: https://github.com/graycatlabs/UTCape
-id: 31239879
-is_template: false
-issue_comment_url: https://api.github.com/repos/graycatlabs/UTCape/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/graycatlabs/UTCape/issues/events{/number}
-issues_url: https://api.github.com/repos/graycatlabs/UTCape/issues{/number}
-keys_url: https://api.github.com/repos/graycatlabs/UTCape/keys{/key_id}
-labels_url: https://api.github.com/repos/graycatlabs/UTCape/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/graycatlabs/UTCape/languages
-license: null
-merges_url: https://api.github.com/repos/graycatlabs/UTCape/merges
-milestones_url: https://api.github.com/repos/graycatlabs/UTCape/milestones{/number}
-mirror_url: null
-name: UTCape
-node_id: MDEwOlJlcG9zaXRvcnkzMTIzOTg3OQ==
-notifications_url: https://api.github.com/repos/graycatlabs/UTCape/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/10250374?v=4
-  events_url: https://api.github.com/users/graycatlabs/events{/privacy}
-  followers_url: https://api.github.com/users/graycatlabs/followers
-  following_url: https://api.github.com/users/graycatlabs/following{/other_user}
-  gists_url: https://api.github.com/users/graycatlabs/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/graycatlabs
-  id: 10250374
-  login: graycatlabs
-  node_id: MDEyOk9yZ2FuaXphdGlvbjEwMjUwMzc0
-  organizations_url: https://api.github.com/users/graycatlabs/orgs
-  received_events_url: https://api.github.com/users/graycatlabs/received_events
-  repos_url: https://api.github.com/users/graycatlabs/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/graycatlabs/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/graycatlabs/subscriptions
-  type: Organization
-  url: https://api.github.com/users/graycatlabs
-private: false
+links:
+  github_owner: graycatlabs
+  github_repo_name: UTCape
+  github_src: https://github.com/graycatlabs/UTCape
+  github_src_repo: https://github.com/graycatlabs/UTCape
+  oomp_bot: graycatlabs_utcape
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/graycatlabs_utcape
+  oomp_doc: projects/graycatlabs_utcape/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/graycatlabs_utcape
+  oomp_src_flat: projects_flat/graycatlabs_utcape
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/graycatlabs_utcape
+  oomp_src_folder: projects_folder\graycatlabs\UTCape\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\graycatlabs\UTCape\version_current\working
+oomp_key: oomp_graycatlabs_utcape
+oomp_key_simple: graycatlabs_utcape
 projects_flat: projects_flat/graycatlabs_utcape/version_current/working
 projects_folder: projects_folder/graycatlabs/UTCape/version_current/working
-pulls_url: https://api.github.com/repos/graycatlabs/UTCape/pulls{/number}
-pushed_at: '2015-03-25T16:52:43Z'
-releases_url: https://api.github.com/repos/graycatlabs/UTCape/releases{/id}
-size: 1688
-ssh_url: git@github.com:graycatlabs/UTCape.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/graycatlabs/UTCape/stargazers
-statuses_url: https://api.github.com/repos/graycatlabs/UTCape/statuses/{sha}
-subscribers_url: https://api.github.com/repos/graycatlabs/UTCape/subscribers
-subscription_url: https://api.github.com/repos/graycatlabs/UTCape/subscription
-svn_url: https://github.com/graycatlabs/UTCape
-tags_url: https://api.github.com/repos/graycatlabs/UTCape/tags
-teams_url: https://api.github.com/repos/graycatlabs/UTCape/teams
-topics: []
-trees_url: https://api.github.com/repos/graycatlabs/UTCape/git/trees{/sha}
-updated_at: '2015-04-08T03:35:39Z'
-url: https://api.github.com/repos/graycatlabs/UTCape
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/graycatlabs/UTCape/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/graycatlabs/UTCape/assignees{/user}
+  blobs_url: https://api.github.com/repos/graycatlabs/UTCape/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/graycatlabs/UTCape/branches{/branch}
+  clone_url: https://github.com/graycatlabs/UTCape.git
+  collaborators_url: https://api.github.com/repos/graycatlabs/UTCape/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/graycatlabs/UTCape/comments{/number}
+  commits_url: https://api.github.com/repos/graycatlabs/UTCape/commits{/sha}
+  compare_url: https://api.github.com/repos/graycatlabs/UTCape/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/graycatlabs/UTCape/contents/{+path}
+  contributors_url: https://api.github.com/repos/graycatlabs/UTCape/contributors
+  created_at: '2015-02-24T01:40:48Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/graycatlabs/UTCape/deployments
+  description: A BeagleBone cape to support unit tests in software libraries for hardware
+    expansion
+  disabled: false
+  downloads_url: https://api.github.com/repos/graycatlabs/UTCape/downloads
+  events_url: https://api.github.com/repos/graycatlabs/UTCape/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/graycatlabs/UTCape/forks
+  full_name: graycatlabs/UTCape
+  git_commits_url: https://api.github.com/repos/graycatlabs/UTCape/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/graycatlabs/UTCape/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/graycatlabs/UTCape/git/tags{/sha}
+  git_url: git://github.com/graycatlabs/UTCape.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/graycatlabs/UTCape/hooks
+  html_url: https://github.com/graycatlabs/UTCape
+  id: 31239879
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/graycatlabs/UTCape/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/graycatlabs/UTCape/issues/events{/number}
+  issues_url: https://api.github.com/repos/graycatlabs/UTCape/issues{/number}
+  keys_url: https://api.github.com/repos/graycatlabs/UTCape/keys{/key_id}
+  labels_url: https://api.github.com/repos/graycatlabs/UTCape/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/graycatlabs/UTCape/languages
+  license: null
+  merges_url: https://api.github.com/repos/graycatlabs/UTCape/merges
+  milestones_url: https://api.github.com/repos/graycatlabs/UTCape/milestones{/number}
+  mirror_url: null
+  name: UTCape
+  node_id: MDEwOlJlcG9zaXRvcnkzMTIzOTg3OQ==
+  notifications_url: https://api.github.com/repos/graycatlabs/UTCape/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/10250374?v=4
+    events_url: https://api.github.com/users/graycatlabs/events{/privacy}
+    followers_url: https://api.github.com/users/graycatlabs/followers
+    following_url: https://api.github.com/users/graycatlabs/following{/other_user}
+    gists_url: https://api.github.com/users/graycatlabs/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/graycatlabs
+    id: 10250374
+    login: graycatlabs
+    node_id: MDEyOk9yZ2FuaXphdGlvbjEwMjUwMzc0
+    organizations_url: https://api.github.com/users/graycatlabs/orgs
+    received_events_url: https://api.github.com/users/graycatlabs/received_events
+    repos_url: https://api.github.com/users/graycatlabs/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/graycatlabs/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/graycatlabs/subscriptions
+    type: Organization
+    url: https://api.github.com/users/graycatlabs
+  private: false
+  pulls_url: https://api.github.com/repos/graycatlabs/UTCape/pulls{/number}
+  pushed_at: '2015-03-25T16:52:43Z'
+  releases_url: https://api.github.com/repos/graycatlabs/UTCape/releases{/id}
+  size: 1688
+  ssh_url: git@github.com:graycatlabs/UTCape.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/graycatlabs/UTCape/stargazers
+  statuses_url: https://api.github.com/repos/graycatlabs/UTCape/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/graycatlabs/UTCape/subscribers
+  subscription_url: https://api.github.com/repos/graycatlabs/UTCape/subscription
+  svn_url: https://github.com/graycatlabs/UTCape
+  tags_url: https://api.github.com/repos/graycatlabs/UTCape/tags
+  teams_url: https://api.github.com/repos/graycatlabs/UTCape/teams
+  topics: []
+  trees_url: https://api.github.com/repos/graycatlabs/UTCape/git/trees{/sha}
+  updated_at: '2015-04-08T03:35:39Z'
+  url: https://api.github.com/repos/graycatlabs/UTCape
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

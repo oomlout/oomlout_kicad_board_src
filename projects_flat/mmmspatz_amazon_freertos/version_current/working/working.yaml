@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/mmmspatz/amazon-freertos/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/mmmspatz/amazon-freertos/assignees{/user}
-blobs_url: https://api.github.com/repos/mmmspatz/amazon-freertos/git/blobs{/sha}
-branches_url: https://api.github.com/repos/mmmspatz/amazon-freertos/branches{/branch}
-clone_url: https://github.com/mmmspatz/amazon-freertos.git
-collaborators_url: https://api.github.com/repos/mmmspatz/amazon-freertos/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/mmmspatz/amazon-freertos/comments{/number}
-commits_url: https://api.github.com/repos/mmmspatz/amazon-freertos/commits{/sha}
-compare_url: https://api.github.com/repos/mmmspatz/amazon-freertos/compare/{base}...{head}
-contents_url: https://api.github.com/repos/mmmspatz/amazon-freertos/contents/{+path}
-contributors_url: https://api.github.com/repos/mmmspatz/amazon-freertos/contributors
-created_at: '2022-07-25T16:44:50Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/mmmspatz/amazon-freertos/deployments
-description: IoT operating system for microcontrollers.
-disabled: false
-downloads_url: https://api.github.com/repos/mmmspatz/amazon-freertos/downloads
-events_url: https://api.github.com/repos/mmmspatz/amazon-freertos/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/mmmspatz/amazon-freertos/forks
-full_name: mmmspatz/amazon-freertos
-git_commits_url: https://api.github.com/repos/mmmspatz/amazon-freertos/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/mmmspatz/amazon-freertos/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/mmmspatz/amazon-freertos/git/tags{/sha}
-git_url: git://github.com/mmmspatz/amazon-freertos.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: https://aws.amazon.com/freertos/
-hooks_url: https://api.github.com/repos/mmmspatz/amazon-freertos/hooks
-html_url: https://github.com/mmmspatz/amazon-freertos
-id: 517745761
-is_template: false
-issue_comment_url: https://api.github.com/repos/mmmspatz/amazon-freertos/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/mmmspatz/amazon-freertos/issues/events{/number}
-issues_url: https://api.github.com/repos/mmmspatz/amazon-freertos/issues{/number}
-keys_url: https://api.github.com/repos/mmmspatz/amazon-freertos/keys{/key_id}
-labels_url: https://api.github.com/repos/mmmspatz/amazon-freertos/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/mmmspatz/amazon-freertos/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/mmmspatz/amazon-freertos/merges
-milestones_url: https://api.github.com/repos/mmmspatz/amazon-freertos/milestones{/number}
-mirror_url: null
-name: amazon-freertos
-node_id: R_kgDOHtwsYQ
-notifications_url: https://api.github.com/repos/mmmspatz/amazon-freertos/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/10824114?v=4
-  events_url: https://api.github.com/users/mmmspatz/events{/privacy}
-  followers_url: https://api.github.com/users/mmmspatz/followers
-  following_url: https://api.github.com/users/mmmspatz/following{/other_user}
-  gists_url: https://api.github.com/users/mmmspatz/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/mmmspatz
-  id: 10824114
-  login: mmmspatz
-  node_id: MDQ6VXNlcjEwODI0MTE0
-  organizations_url: https://api.github.com/users/mmmspatz/orgs
-  received_events_url: https://api.github.com/users/mmmspatz/received_events
-  repos_url: https://api.github.com/users/mmmspatz/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/mmmspatz/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/mmmspatz/subscriptions
-  type: User
-  url: https://api.github.com/users/mmmspatz
-private: false
+links:
+  github_owner: mmmspatz
+  github_repo_name: amazon-freertos
+  github_src: https://github.com/mmmspatz/amazon-freertos
+  github_src_repo: https://github.com/mmmspatz/amazon-freertos
+  oomp_bot: projects_mmmspatz_amazon_freertos
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_mmmspatz_amazon_freertos
+  oomp_doc: projects/projects_flat_mmmspatz_amazon_freertos/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_mmmspatz_amazon_freertos
+  oomp_src_flat: projects_flat/projects_flat_mmmspatz_amazon_freertos
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_mmmspatz_amazon_freertos
+  oomp_src_folder: projects_flat\mmmspatz_amazon_freertos\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\mmmspatz_amazon_freertos\version_current\working
+oomp_key: oomp_projects_flat_mmmspatz_amazon_freertos
+oomp_key_simple: projects_flat_mmmspatz_amazon_freertos
 projects_flat: projects_flat/mmmspatz_amazon_freertos/version_current/working
 projects_folder: projects_folder/mmmspatz/amazon-freertos/version_current/working
-pulls_url: https://api.github.com/repos/mmmspatz/amazon-freertos/pulls{/number}
-pushed_at: '2022-07-19T19:00:12Z'
-releases_url: https://api.github.com/repos/mmmspatz/amazon-freertos/releases{/id}
-size: 288569
-ssh_url: git@github.com:mmmspatz/amazon-freertos.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/mmmspatz/amazon-freertos/stargazers
-statuses_url: https://api.github.com/repos/mmmspatz/amazon-freertos/statuses/{sha}
-subscribers_url: https://api.github.com/repos/mmmspatz/amazon-freertos/subscribers
-subscription_url: https://api.github.com/repos/mmmspatz/amazon-freertos/subscription
-svn_url: https://github.com/mmmspatz/amazon-freertos
-tags_url: https://api.github.com/repos/mmmspatz/amazon-freertos/tags
-teams_url: https://api.github.com/repos/mmmspatz/amazon-freertos/teams
-topics: []
-trees_url: https://api.github.com/repos/mmmspatz/amazon-freertos/git/trees{/sha}
-updated_at: '2022-07-25T03:26:15Z'
-url: https://api.github.com/repos/mmmspatz/amazon-freertos
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/mmmspatz/amazon-freertos/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/mmmspatz/amazon-freertos/assignees{/user}
+  blobs_url: https://api.github.com/repos/mmmspatz/amazon-freertos/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/mmmspatz/amazon-freertos/branches{/branch}
+  clone_url: https://github.com/mmmspatz/amazon-freertos.git
+  collaborators_url: https://api.github.com/repos/mmmspatz/amazon-freertos/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/mmmspatz/amazon-freertos/comments{/number}
+  commits_url: https://api.github.com/repos/mmmspatz/amazon-freertos/commits{/sha}
+  compare_url: https://api.github.com/repos/mmmspatz/amazon-freertos/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/mmmspatz/amazon-freertos/contents/{+path}
+  contributors_url: https://api.github.com/repos/mmmspatz/amazon-freertos/contributors
+  created_at: '2022-07-25T16:44:50Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/mmmspatz/amazon-freertos/deployments
+  description: IoT operating system for microcontrollers.
+  disabled: false
+  downloads_url: https://api.github.com/repos/mmmspatz/amazon-freertos/downloads
+  events_url: https://api.github.com/repos/mmmspatz/amazon-freertos/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/mmmspatz/amazon-freertos/forks
+  full_name: mmmspatz/amazon-freertos
+  git_commits_url: https://api.github.com/repos/mmmspatz/amazon-freertos/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/mmmspatz/amazon-freertos/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/mmmspatz/amazon-freertos/git/tags{/sha}
+  git_url: git://github.com/mmmspatz/amazon-freertos.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: https://aws.amazon.com/freertos/
+  hooks_url: https://api.github.com/repos/mmmspatz/amazon-freertos/hooks
+  html_url: https://github.com/mmmspatz/amazon-freertos
+  id: 517745761
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/mmmspatz/amazon-freertos/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/mmmspatz/amazon-freertos/issues/events{/number}
+  issues_url: https://api.github.com/repos/mmmspatz/amazon-freertos/issues{/number}
+  keys_url: https://api.github.com/repos/mmmspatz/amazon-freertos/keys{/key_id}
+  labels_url: https://api.github.com/repos/mmmspatz/amazon-freertos/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/mmmspatz/amazon-freertos/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/mmmspatz/amazon-freertos/merges
+  milestones_url: https://api.github.com/repos/mmmspatz/amazon-freertos/milestones{/number}
+  mirror_url: null
+  name: amazon-freertos
+  node_id: R_kgDOHtwsYQ
+  notifications_url: https://api.github.com/repos/mmmspatz/amazon-freertos/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/10824114?v=4
+    events_url: https://api.github.com/users/mmmspatz/events{/privacy}
+    followers_url: https://api.github.com/users/mmmspatz/followers
+    following_url: https://api.github.com/users/mmmspatz/following{/other_user}
+    gists_url: https://api.github.com/users/mmmspatz/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/mmmspatz
+    id: 10824114
+    login: mmmspatz
+    node_id: MDQ6VXNlcjEwODI0MTE0
+    organizations_url: https://api.github.com/users/mmmspatz/orgs
+    received_events_url: https://api.github.com/users/mmmspatz/received_events
+    repos_url: https://api.github.com/users/mmmspatz/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/mmmspatz/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/mmmspatz/subscriptions
+    type: User
+    url: https://api.github.com/users/mmmspatz
+  private: false
+  pulls_url: https://api.github.com/repos/mmmspatz/amazon-freertos/pulls{/number}
+  pushed_at: '2022-07-19T19:00:12Z'
+  releases_url: https://api.github.com/repos/mmmspatz/amazon-freertos/releases{/id}
+  size: 288569
+  ssh_url: git@github.com:mmmspatz/amazon-freertos.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/mmmspatz/amazon-freertos/stargazers
+  statuses_url: https://api.github.com/repos/mmmspatz/amazon-freertos/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/mmmspatz/amazon-freertos/subscribers
+  subscription_url: https://api.github.com/repos/mmmspatz/amazon-freertos/subscription
+  svn_url: https://github.com/mmmspatz/amazon-freertos
+  tags_url: https://api.github.com/repos/mmmspatz/amazon-freertos/tags
+  teams_url: https://api.github.com/repos/mmmspatz/amazon-freertos/teams
+  topics: []
+  trees_url: https://api.github.com/repos/mmmspatz/amazon-freertos/git/trees{/sha}
+  updated_at: '2022-07-25T03:26:15Z'
+  url: https://api.github.com/repos/mmmspatz/amazon-freertos
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

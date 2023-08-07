@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/assignees{/user}
-blobs_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/git/blobs{/sha}
-branches_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/branches{/branch}
-clone_url: https://github.com/oomlout/oomlout_OOMP_projects.git
-collaborators_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/comments{/number}
-commits_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/commits{/sha}
-compare_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/compare/{base}...{head}
-contents_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/contents/{+path}
-contributors_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/contributors
-created_at: '2022-06-14T21:54:08Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/deployments
-description: OOpen Organization Method for parts. This is all the project details.
-disabled: false
-downloads_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/downloads
-events_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/forks
-full_name: oomlout/oomlout_OOMP_projects
-git_commits_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/git/tags{/sha}
-git_url: git://github.com/oomlout/oomlout_OOMP_projects.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/hooks
-html_url: https://github.com/oomlout/oomlout_OOMP_projects
-id: 503531426
-is_template: false
-issue_comment_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/issues/events{/number}
-issues_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/issues{/number}
-keys_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/keys{/key_id}
-labels_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/languages
-license: null
-merges_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/merges
-milestones_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/milestones{/number}
-mirror_url: null
-name: oomlout_OOMP_projects
-node_id: R_kgDOHgNHog
-notifications_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/139793?v=4
-  events_url: https://api.github.com/users/oomlout/events{/privacy}
-  followers_url: https://api.github.com/users/oomlout/followers
-  following_url: https://api.github.com/users/oomlout/following{/other_user}
-  gists_url: https://api.github.com/users/oomlout/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/oomlout
-  id: 139793
-  login: oomlout
-  node_id: MDQ6VXNlcjEzOTc5Mw==
-  organizations_url: https://api.github.com/users/oomlout/orgs
-  received_events_url: https://api.github.com/users/oomlout/received_events
-  repos_url: https://api.github.com/users/oomlout/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/oomlout/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/oomlout/subscriptions
-  type: User
-  url: https://api.github.com/users/oomlout
-private: false
+links:
+  github_owner: oomlout
+  github_repo_name: oomlout_OOMP_projects
+  github_src: https://github.com/oomlout/oomlout_OOMP_projects
+  github_src_repo: https://github.com/oomlout/oomlout_OOMP_projects
+  oomp_bot: oomlout_oomlout_oomp_projects
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/oomlout_oomlout_oomp_projects
+  oomp_doc: projects/oomlout_oomlout_oomp_projects/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/oomlout_oomlout_oomp_projects
+  oomp_src_flat: projects_flat/oomlout_oomlout_oomp_projects
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/oomlout_oomlout_oomp_projects
+  oomp_src_folder: projects_folder\oomlout\oomlout_OOMP_projects\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\oomlout\oomlout_OOMP_projects\version_current\working
+oomp_key: oomp_oomlout_oomlout_oomp_projects
+oomp_key_simple: oomlout_oomlout_oomp_projects
 projects_flat: projects_flat/oomlout_oomlout_oomp_projects/version_current/working
 projects_folder: projects_folder/oomlout/oomlout_OOMP_projects/version_current/working
-pulls_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/pulls{/number}
-pushed_at: '2022-10-18T08:41:03Z'
-releases_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/releases{/id}
-size: 5575739
-ssh_url: git@github.com:oomlout/oomlout_OOMP_projects.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/stargazers
-statuses_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/statuses/{sha}
-subscribers_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/subscribers
-subscription_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/subscription
-svn_url: https://github.com/oomlout/oomlout_OOMP_projects
-tags_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/tags
-teams_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/teams
-topics: []
-trees_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/git/trees{/sha}
-updated_at: '2022-10-06T10:19:11Z'
-url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/assignees{/user}
+  blobs_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/branches{/branch}
+  clone_url: https://github.com/oomlout/oomlout_OOMP_projects.git
+  collaborators_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/comments{/number}
+  commits_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/commits{/sha}
+  compare_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/contents/{+path}
+  contributors_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/contributors
+  created_at: '2022-06-14T21:54:08Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/deployments
+  description: OOpen Organization Method for parts. This is all the project details.
+  disabled: false
+  downloads_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/downloads
+  events_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/forks
+  full_name: oomlout/oomlout_OOMP_projects
+  git_commits_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/git/tags{/sha}
+  git_url: git://github.com/oomlout/oomlout_OOMP_projects.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/hooks
+  html_url: https://github.com/oomlout/oomlout_OOMP_projects
+  id: 503531426
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/issues/events{/number}
+  issues_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/issues{/number}
+  keys_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/keys{/key_id}
+  labels_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/languages
+  license: null
+  merges_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/merges
+  milestones_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/milestones{/number}
+  mirror_url: null
+  name: oomlout_OOMP_projects
+  node_id: R_kgDOHgNHog
+  notifications_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/139793?v=4
+    events_url: https://api.github.com/users/oomlout/events{/privacy}
+    followers_url: https://api.github.com/users/oomlout/followers
+    following_url: https://api.github.com/users/oomlout/following{/other_user}
+    gists_url: https://api.github.com/users/oomlout/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/oomlout
+    id: 139793
+    login: oomlout
+    node_id: MDQ6VXNlcjEzOTc5Mw==
+    organizations_url: https://api.github.com/users/oomlout/orgs
+    received_events_url: https://api.github.com/users/oomlout/received_events
+    repos_url: https://api.github.com/users/oomlout/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/oomlout/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/oomlout/subscriptions
+    type: User
+    url: https://api.github.com/users/oomlout
+  private: false
+  pulls_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/pulls{/number}
+  pushed_at: '2022-10-18T08:41:03Z'
+  releases_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/releases{/id}
+  size: 5575739
+  ssh_url: git@github.com:oomlout/oomlout_OOMP_projects.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/stargazers
+  statuses_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/subscribers
+  subscription_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/subscription
+  svn_url: https://github.com/oomlout/oomlout_OOMP_projects
+  tags_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/tags
+  teams_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/teams
+  topics: []
+  trees_url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects/git/trees{/sha}
+  updated_at: '2022-10-06T10:19:11Z'
+  url: https://api.github.com/repos/oomlout/oomlout_OOMP_projects
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

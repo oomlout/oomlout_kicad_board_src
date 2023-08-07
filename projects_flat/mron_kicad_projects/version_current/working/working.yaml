@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/mron/kicad_projects/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/mron/kicad_projects/assignees{/user}
-blobs_url: https://api.github.com/repos/mron/kicad_projects/git/blobs{/sha}
-branches_url: https://api.github.com/repos/mron/kicad_projects/branches{/branch}
-clone_url: https://github.com/mron/kicad_projects.git
-collaborators_url: https://api.github.com/repos/mron/kicad_projects/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/mron/kicad_projects/comments{/number}
-commits_url: https://api.github.com/repos/mron/kicad_projects/commits{/sha}
-compare_url: https://api.github.com/repos/mron/kicad_projects/compare/{base}...{head}
-contents_url: https://api.github.com/repos/mron/kicad_projects/contents/{+path}
-contributors_url: https://api.github.com/repos/mron/kicad_projects/contributors
-created_at: '2016-07-01T16:26:12Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/mron/kicad_projects/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/mron/kicad_projects/downloads
-events_url: https://api.github.com/repos/mron/kicad_projects/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/mron/kicad_projects/forks
-full_name: mron/kicad_projects
-git_commits_url: https://api.github.com/repos/mron/kicad_projects/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/mron/kicad_projects/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/mron/kicad_projects/git/tags{/sha}
-git_url: git://github.com/mron/kicad_projects.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/mron/kicad_projects/hooks
-html_url: https://github.com/mron/kicad_projects
-id: 62405949
-is_template: false
-issue_comment_url: https://api.github.com/repos/mron/kicad_projects/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/mron/kicad_projects/issues/events{/number}
-issues_url: https://api.github.com/repos/mron/kicad_projects/issues{/number}
-keys_url: https://api.github.com/repos/mron/kicad_projects/keys{/key_id}
-labels_url: https://api.github.com/repos/mron/kicad_projects/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/mron/kicad_projects/languages
-license: null
-merges_url: https://api.github.com/repos/mron/kicad_projects/merges
-milestones_url: https://api.github.com/repos/mron/kicad_projects/milestones{/number}
-mirror_url: null
-name: kicad_projects
-node_id: MDEwOlJlcG9zaXRvcnk2MjQwNTk0OQ==
-notifications_url: https://api.github.com/repos/mron/kicad_projects/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/4845495?v=4
-  events_url: https://api.github.com/users/mron/events{/privacy}
-  followers_url: https://api.github.com/users/mron/followers
-  following_url: https://api.github.com/users/mron/following{/other_user}
-  gists_url: https://api.github.com/users/mron/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/mron
-  id: 4845495
-  login: mron
-  node_id: MDQ6VXNlcjQ4NDU0OTU=
-  organizations_url: https://api.github.com/users/mron/orgs
-  received_events_url: https://api.github.com/users/mron/received_events
-  repos_url: https://api.github.com/users/mron/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/mron/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/mron/subscriptions
-  type: User
-  url: https://api.github.com/users/mron
-private: false
+links:
+  github_owner: mron
+  github_repo_name: kicad_projects
+  github_src: https://github.com/mron/kicad_projects
+  github_src_repo: https://github.com/mron/kicad_projects
+  oomp_bot: projects_mron_kicad_projects
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_mron_kicad_projects
+  oomp_doc: projects/projects_flat_mron_kicad_projects/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_mron_kicad_projects
+  oomp_src_flat: projects_flat/projects_flat_mron_kicad_projects
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_mron_kicad_projects
+  oomp_src_folder: projects_flat\mron_kicad_projects\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\mron_kicad_projects\version_current\working
+oomp_key: oomp_projects_flat_mron_kicad_projects
+oomp_key_simple: projects_flat_mron_kicad_projects
 projects_flat: projects_flat/mron_kicad_projects/version_current/working
 projects_folder: projects_folder/mron/kicad_projects/version_current/working
-pulls_url: https://api.github.com/repos/mron/kicad_projects/pulls{/number}
-pushed_at: '2016-07-01T17:04:17Z'
-releases_url: https://api.github.com/repos/mron/kicad_projects/releases{/id}
-size: 1
-ssh_url: git@github.com:mron/kicad_projects.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/mron/kicad_projects/stargazers
-statuses_url: https://api.github.com/repos/mron/kicad_projects/statuses/{sha}
-subscribers_url: https://api.github.com/repos/mron/kicad_projects/subscribers
-subscription_url: https://api.github.com/repos/mron/kicad_projects/subscription
-svn_url: https://github.com/mron/kicad_projects
-tags_url: https://api.github.com/repos/mron/kicad_projects/tags
-teams_url: https://api.github.com/repos/mron/kicad_projects/teams
-topics: []
-trees_url: https://api.github.com/repos/mron/kicad_projects/git/trees{/sha}
-updated_at: '2016-07-01T16:34:08Z'
-url: https://api.github.com/repos/mron/kicad_projects
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/mron/kicad_projects/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/mron/kicad_projects/assignees{/user}
+  blobs_url: https://api.github.com/repos/mron/kicad_projects/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/mron/kicad_projects/branches{/branch}
+  clone_url: https://github.com/mron/kicad_projects.git
+  collaborators_url: https://api.github.com/repos/mron/kicad_projects/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/mron/kicad_projects/comments{/number}
+  commits_url: https://api.github.com/repos/mron/kicad_projects/commits{/sha}
+  compare_url: https://api.github.com/repos/mron/kicad_projects/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/mron/kicad_projects/contents/{+path}
+  contributors_url: https://api.github.com/repos/mron/kicad_projects/contributors
+  created_at: '2016-07-01T16:26:12Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/mron/kicad_projects/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/mron/kicad_projects/downloads
+  events_url: https://api.github.com/repos/mron/kicad_projects/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/mron/kicad_projects/forks
+  full_name: mron/kicad_projects
+  git_commits_url: https://api.github.com/repos/mron/kicad_projects/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/mron/kicad_projects/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/mron/kicad_projects/git/tags{/sha}
+  git_url: git://github.com/mron/kicad_projects.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/mron/kicad_projects/hooks
+  html_url: https://github.com/mron/kicad_projects
+  id: 62405949
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/mron/kicad_projects/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/mron/kicad_projects/issues/events{/number}
+  issues_url: https://api.github.com/repos/mron/kicad_projects/issues{/number}
+  keys_url: https://api.github.com/repos/mron/kicad_projects/keys{/key_id}
+  labels_url: https://api.github.com/repos/mron/kicad_projects/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/mron/kicad_projects/languages
+  license: null
+  merges_url: https://api.github.com/repos/mron/kicad_projects/merges
+  milestones_url: https://api.github.com/repos/mron/kicad_projects/milestones{/number}
+  mirror_url: null
+  name: kicad_projects
+  node_id: MDEwOlJlcG9zaXRvcnk2MjQwNTk0OQ==
+  notifications_url: https://api.github.com/repos/mron/kicad_projects/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/4845495?v=4
+    events_url: https://api.github.com/users/mron/events{/privacy}
+    followers_url: https://api.github.com/users/mron/followers
+    following_url: https://api.github.com/users/mron/following{/other_user}
+    gists_url: https://api.github.com/users/mron/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/mron
+    id: 4845495
+    login: mron
+    node_id: MDQ6VXNlcjQ4NDU0OTU=
+    organizations_url: https://api.github.com/users/mron/orgs
+    received_events_url: https://api.github.com/users/mron/received_events
+    repos_url: https://api.github.com/users/mron/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/mron/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/mron/subscriptions
+    type: User
+    url: https://api.github.com/users/mron
+  private: false
+  pulls_url: https://api.github.com/repos/mron/kicad_projects/pulls{/number}
+  pushed_at: '2016-07-01T17:04:17Z'
+  releases_url: https://api.github.com/repos/mron/kicad_projects/releases{/id}
+  size: 1
+  ssh_url: git@github.com:mron/kicad_projects.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/mron/kicad_projects/stargazers
+  statuses_url: https://api.github.com/repos/mron/kicad_projects/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/mron/kicad_projects/subscribers
+  subscription_url: https://api.github.com/repos/mron/kicad_projects/subscription
+  svn_url: https://github.com/mron/kicad_projects
+  tags_url: https://api.github.com/repos/mron/kicad_projects/tags
+  teams_url: https://api.github.com/repos/mron/kicad_projects/teams
+  topics: []
+  trees_url: https://api.github.com/repos/mron/kicad_projects/git/trees{/sha}
+  updated_at: '2016-07-01T16:34:08Z'
+  url: https://api.github.com/repos/mron/kicad_projects
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

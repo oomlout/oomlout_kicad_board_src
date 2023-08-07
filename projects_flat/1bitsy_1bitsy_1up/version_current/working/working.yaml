@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/assignees{/user}
-blobs_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/git/blobs{/sha}
-branches_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/branches{/branch}
-clone_url: https://github.com/1Bitsy/1bitsy-1up.git
-collaborators_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/comments{/number}
-commits_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/commits{/sha}
-compare_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/compare/{base}...{head}
-contents_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/contents/{+path}
-contributors_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/contributors
-created_at: '2016-11-06T04:06:34Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/deployments
-description: 1Bitsy 1UP retro inspired handheld game console.
-disabled: false
-downloads_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/downloads
-events_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/events
-fork: false
-forks: 9
-forks_count: 9
-forks_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/forks
-full_name: 1Bitsy/1bitsy-1up
-git_commits_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/git/tags{/sha}
-git_url: git://github.com/1Bitsy/1bitsy-1up.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/hooks
-html_url: https://github.com/1Bitsy/1bitsy-1up
-id: 72969158
-is_template: false
-issue_comment_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/issues/events{/number}
-issues_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/issues{/number}
-keys_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/keys{/key_id}
-labels_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/languages
-license: null
-merges_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/merges
-milestones_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/milestones{/number}
-mirror_url: null
-name: 1bitsy-1up
-node_id: MDEwOlJlcG9zaXRvcnk3Mjk2OTE1OA==
-notifications_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/20505695?v=4
-  events_url: https://api.github.com/users/1Bitsy/events{/privacy}
-  followers_url: https://api.github.com/users/1Bitsy/followers
-  following_url: https://api.github.com/users/1Bitsy/following{/other_user}
-  gists_url: https://api.github.com/users/1Bitsy/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/1Bitsy
-  id: 20505695
-  login: 1Bitsy
-  node_id: MDEyOk9yZ2FuaXphdGlvbjIwNTA1Njk1
-  organizations_url: https://api.github.com/users/1Bitsy/orgs
-  received_events_url: https://api.github.com/users/1Bitsy/received_events
-  repos_url: https://api.github.com/users/1Bitsy/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/1Bitsy/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/1Bitsy/subscriptions
-  type: Organization
-  url: https://api.github.com/users/1Bitsy
-private: false
+links:
+  github_owner: 1Bitsy
+  github_repo_name: 1bitsy-1up
+  github_src: https://github.com/1Bitsy/1bitsy-1up
+  github_src_repo: https://github.com/1Bitsy/1bitsy-1up
+  oomp_bot: projects_1bitsy_1bitsy_1up
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_1bitsy_1bitsy_1up
+  oomp_doc: projects/projects_flat_1bitsy_1bitsy_1up/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_1bitsy_1bitsy_1up
+  oomp_src_flat: projects_flat/projects_flat_1bitsy_1bitsy_1up
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_1bitsy_1bitsy_1up
+  oomp_src_folder: projects_flat\1bitsy_1bitsy_1up\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\1bitsy_1bitsy_1up\version_current\working
+oomp_key: oomp_projects_flat_1bitsy_1bitsy_1up
+oomp_key_simple: projects_flat_1bitsy_1bitsy_1up
 projects_flat: projects_flat/1bitsy_1bitsy_1up/version_current/working
 projects_folder: projects_folder/1Bitsy/1bitsy-1up/version_current/working
-pulls_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/pulls{/number}
-pushed_at: '2018-05-24T12:17:21Z'
-releases_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/releases{/id}
-size: 1102
-ssh_url: git@github.com:1Bitsy/1bitsy-1up.git
-stargazers_count: 22
-stargazers_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/stargazers
-statuses_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/statuses/{sha}
-subscribers_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/subscribers
-subscription_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/subscription
-svn_url: https://github.com/1Bitsy/1bitsy-1up
-tags_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/tags
-teams_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/teams
-topics: []
-trees_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/git/trees{/sha}
-updated_at: '2023-05-30T18:55:46Z'
-url: https://api.github.com/repos/1Bitsy/1bitsy-1up
-visibility: public
-watchers: 22
-watchers_count: 22
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/assignees{/user}
+  blobs_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/branches{/branch}
+  clone_url: https://github.com/1Bitsy/1bitsy-1up.git
+  collaborators_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/comments{/number}
+  commits_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/commits{/sha}
+  compare_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/contents/{+path}
+  contributors_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/contributors
+  created_at: '2016-11-06T04:06:34Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/deployments
+  description: 1Bitsy 1UP retro inspired handheld game console.
+  disabled: false
+  downloads_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/downloads
+  events_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/events
+  fork: false
+  forks: 9
+  forks_count: 9
+  forks_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/forks
+  full_name: 1Bitsy/1bitsy-1up
+  git_commits_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/git/tags{/sha}
+  git_url: git://github.com/1Bitsy/1bitsy-1up.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/hooks
+  html_url: https://github.com/1Bitsy/1bitsy-1up
+  id: 72969158
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/issues/events{/number}
+  issues_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/issues{/number}
+  keys_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/keys{/key_id}
+  labels_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/languages
+  license: null
+  merges_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/merges
+  milestones_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/milestones{/number}
+  mirror_url: null
+  name: 1bitsy-1up
+  node_id: MDEwOlJlcG9zaXRvcnk3Mjk2OTE1OA==
+  notifications_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/20505695?v=4
+    events_url: https://api.github.com/users/1Bitsy/events{/privacy}
+    followers_url: https://api.github.com/users/1Bitsy/followers
+    following_url: https://api.github.com/users/1Bitsy/following{/other_user}
+    gists_url: https://api.github.com/users/1Bitsy/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/1Bitsy
+    id: 20505695
+    login: 1Bitsy
+    node_id: MDEyOk9yZ2FuaXphdGlvbjIwNTA1Njk1
+    organizations_url: https://api.github.com/users/1Bitsy/orgs
+    received_events_url: https://api.github.com/users/1Bitsy/received_events
+    repos_url: https://api.github.com/users/1Bitsy/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/1Bitsy/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/1Bitsy/subscriptions
+    type: Organization
+    url: https://api.github.com/users/1Bitsy
+  private: false
+  pulls_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/pulls{/number}
+  pushed_at: '2018-05-24T12:17:21Z'
+  releases_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/releases{/id}
+  size: 1102
+  ssh_url: git@github.com:1Bitsy/1bitsy-1up.git
+  stargazers_count: 22
+  stargazers_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/stargazers
+  statuses_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/subscribers
+  subscription_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/subscription
+  svn_url: https://github.com/1Bitsy/1bitsy-1up
+  tags_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/tags
+  teams_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/teams
+  topics: []
+  trees_url: https://api.github.com/repos/1Bitsy/1bitsy-1up/git/trees{/sha}
+  updated_at: '2023-05-30T18:55:46Z'
+  url: https://api.github.com/repos/1Bitsy/1bitsy-1up
+  visibility: public
+  watchers: 22
+  watchers_count: 22
+  web_commit_signoff_required: false

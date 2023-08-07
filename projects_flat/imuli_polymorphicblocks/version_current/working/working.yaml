@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/imuli/PolymorphicBlocks/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/imuli/PolymorphicBlocks/assignees{/user}
-blobs_url: https://api.github.com/repos/imuli/PolymorphicBlocks/git/blobs{/sha}
-branches_url: https://api.github.com/repos/imuli/PolymorphicBlocks/branches{/branch}
-clone_url: https://github.com/imuli/PolymorphicBlocks.git
-collaborators_url: https://api.github.com/repos/imuli/PolymorphicBlocks/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/imuli/PolymorphicBlocks/comments{/number}
-commits_url: https://api.github.com/repos/imuli/PolymorphicBlocks/commits{/sha}
-compare_url: https://api.github.com/repos/imuli/PolymorphicBlocks/compare/{base}...{head}
-contents_url: https://api.github.com/repos/imuli/PolymorphicBlocks/contents/{+path}
-contributors_url: https://api.github.com/repos/imuli/PolymorphicBlocks/contributors
-created_at: '2023-05-07T00:10:39Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/imuli/PolymorphicBlocks/deployments
-description: A work-in-progress board-level hardware description language (HDL) providing
-  design automation through generators and block polymorphism.
-disabled: false
-downloads_url: https://api.github.com/repos/imuli/PolymorphicBlocks/downloads
-events_url: https://api.github.com/repos/imuli/PolymorphicBlocks/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/imuli/PolymorphicBlocks/forks
-full_name: imuli/PolymorphicBlocks
-git_commits_url: https://api.github.com/repos/imuli/PolymorphicBlocks/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/imuli/PolymorphicBlocks/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/imuli/PolymorphicBlocks/git/tags{/sha}
-git_url: git://github.com/imuli/PolymorphicBlocks.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/imuli/PolymorphicBlocks/hooks
-html_url: https://github.com/imuli/PolymorphicBlocks
-id: 637242047
-is_template: false
-issue_comment_url: https://api.github.com/repos/imuli/PolymorphicBlocks/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/imuli/PolymorphicBlocks/issues/events{/number}
-issues_url: https://api.github.com/repos/imuli/PolymorphicBlocks/issues{/number}
-keys_url: https://api.github.com/repos/imuli/PolymorphicBlocks/keys{/key_id}
-labels_url: https://api.github.com/repos/imuli/PolymorphicBlocks/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/imuli/PolymorphicBlocks/languages
-license:
-  key: bsd-3-clause
-  name: BSD 3-Clause "New" or "Revised" License
-  node_id: MDc6TGljZW5zZTU=
-  spdx_id: BSD-3-Clause
-  url: https://api.github.com/licenses/bsd-3-clause
-merges_url: https://api.github.com/repos/imuli/PolymorphicBlocks/merges
-milestones_url: https://api.github.com/repos/imuli/PolymorphicBlocks/milestones{/number}
-mirror_url: null
-name: PolymorphicBlocks
-node_id: R_kgDOJfuKvw
-notifications_url: https://api.github.com/repos/imuli/PolymorphicBlocks/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/4085046?v=4
-  events_url: https://api.github.com/users/imuli/events{/privacy}
-  followers_url: https://api.github.com/users/imuli/followers
-  following_url: https://api.github.com/users/imuli/following{/other_user}
-  gists_url: https://api.github.com/users/imuli/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/imuli
-  id: 4085046
-  login: imuli
-  node_id: MDQ6VXNlcjQwODUwNDY=
-  organizations_url: https://api.github.com/users/imuli/orgs
-  received_events_url: https://api.github.com/users/imuli/received_events
-  repos_url: https://api.github.com/users/imuli/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/imuli/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/imuli/subscriptions
-  type: User
-  url: https://api.github.com/users/imuli
-private: false
+links:
+  github_owner: imuli
+  github_repo_name: PolymorphicBlocks
+  github_src: https://github.com/imuli/PolymorphicBlocks
+  github_src_repo: https://github.com/imuli/PolymorphicBlocks
+  oomp_bot: projects_imuli_polymorphicblocks
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_imuli_polymorphicblocks
+  oomp_doc: projects/projects_flat_imuli_polymorphicblocks/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_imuli_polymorphicblocks
+  oomp_src_flat: projects_flat/projects_flat_imuli_polymorphicblocks
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_imuli_polymorphicblocks
+  oomp_src_folder: projects_flat\imuli_polymorphicblocks\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\imuli_polymorphicblocks\version_current\working
+oomp_key: oomp_projects_flat_imuli_polymorphicblocks
+oomp_key_simple: projects_flat_imuli_polymorphicblocks
 projects_flat: projects_flat/imuli_polymorphicblocks/version_current/working
 projects_folder: projects_folder/imuli/PolymorphicBlocks/version_current/working
-pulls_url: https://api.github.com/repos/imuli/PolymorphicBlocks/pulls{/number}
-pushed_at: '2023-05-07T00:30:43Z'
-releases_url: https://api.github.com/repos/imuli/PolymorphicBlocks/releases{/id}
-size: 104657
-ssh_url: git@github.com:imuli/PolymorphicBlocks.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/imuli/PolymorphicBlocks/stargazers
-statuses_url: https://api.github.com/repos/imuli/PolymorphicBlocks/statuses/{sha}
-subscribers_url: https://api.github.com/repos/imuli/PolymorphicBlocks/subscribers
-subscription_url: https://api.github.com/repos/imuli/PolymorphicBlocks/subscription
-svn_url: https://github.com/imuli/PolymorphicBlocks
-tags_url: https://api.github.com/repos/imuli/PolymorphicBlocks/tags
-teams_url: https://api.github.com/repos/imuli/PolymorphicBlocks/teams
-topics: []
-trees_url: https://api.github.com/repos/imuli/PolymorphicBlocks/git/trees{/sha}
-updated_at: '2023-05-07T00:10:40Z'
-url: https://api.github.com/repos/imuli/PolymorphicBlocks
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/imuli/PolymorphicBlocks/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/imuli/PolymorphicBlocks/assignees{/user}
+  blobs_url: https://api.github.com/repos/imuli/PolymorphicBlocks/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/imuli/PolymorphicBlocks/branches{/branch}
+  clone_url: https://github.com/imuli/PolymorphicBlocks.git
+  collaborators_url: https://api.github.com/repos/imuli/PolymorphicBlocks/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/imuli/PolymorphicBlocks/comments{/number}
+  commits_url: https://api.github.com/repos/imuli/PolymorphicBlocks/commits{/sha}
+  compare_url: https://api.github.com/repos/imuli/PolymorphicBlocks/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/imuli/PolymorphicBlocks/contents/{+path}
+  contributors_url: https://api.github.com/repos/imuli/PolymorphicBlocks/contributors
+  created_at: '2023-05-07T00:10:39Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/imuli/PolymorphicBlocks/deployments
+  description: A work-in-progress board-level hardware description language (HDL)
+    providing design automation through generators and block polymorphism.
+  disabled: false
+  downloads_url: https://api.github.com/repos/imuli/PolymorphicBlocks/downloads
+  events_url: https://api.github.com/repos/imuli/PolymorphicBlocks/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/imuli/PolymorphicBlocks/forks
+  full_name: imuli/PolymorphicBlocks
+  git_commits_url: https://api.github.com/repos/imuli/PolymorphicBlocks/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/imuli/PolymorphicBlocks/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/imuli/PolymorphicBlocks/git/tags{/sha}
+  git_url: git://github.com/imuli/PolymorphicBlocks.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/imuli/PolymorphicBlocks/hooks
+  html_url: https://github.com/imuli/PolymorphicBlocks
+  id: 637242047
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/imuli/PolymorphicBlocks/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/imuli/PolymorphicBlocks/issues/events{/number}
+  issues_url: https://api.github.com/repos/imuli/PolymorphicBlocks/issues{/number}
+  keys_url: https://api.github.com/repos/imuli/PolymorphicBlocks/keys{/key_id}
+  labels_url: https://api.github.com/repos/imuli/PolymorphicBlocks/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/imuli/PolymorphicBlocks/languages
+  license:
+    key: bsd-3-clause
+    name: BSD 3-Clause "New" or "Revised" License
+    node_id: MDc6TGljZW5zZTU=
+    spdx_id: BSD-3-Clause
+    url: https://api.github.com/licenses/bsd-3-clause
+  merges_url: https://api.github.com/repos/imuli/PolymorphicBlocks/merges
+  milestones_url: https://api.github.com/repos/imuli/PolymorphicBlocks/milestones{/number}
+  mirror_url: null
+  name: PolymorphicBlocks
+  node_id: R_kgDOJfuKvw
+  notifications_url: https://api.github.com/repos/imuli/PolymorphicBlocks/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/4085046?v=4
+    events_url: https://api.github.com/users/imuli/events{/privacy}
+    followers_url: https://api.github.com/users/imuli/followers
+    following_url: https://api.github.com/users/imuli/following{/other_user}
+    gists_url: https://api.github.com/users/imuli/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/imuli
+    id: 4085046
+    login: imuli
+    node_id: MDQ6VXNlcjQwODUwNDY=
+    organizations_url: https://api.github.com/users/imuli/orgs
+    received_events_url: https://api.github.com/users/imuli/received_events
+    repos_url: https://api.github.com/users/imuli/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/imuli/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/imuli/subscriptions
+    type: User
+    url: https://api.github.com/users/imuli
+  private: false
+  pulls_url: https://api.github.com/repos/imuli/PolymorphicBlocks/pulls{/number}
+  pushed_at: '2023-05-07T00:30:43Z'
+  releases_url: https://api.github.com/repos/imuli/PolymorphicBlocks/releases{/id}
+  size: 104657
+  ssh_url: git@github.com:imuli/PolymorphicBlocks.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/imuli/PolymorphicBlocks/stargazers
+  statuses_url: https://api.github.com/repos/imuli/PolymorphicBlocks/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/imuli/PolymorphicBlocks/subscribers
+  subscription_url: https://api.github.com/repos/imuli/PolymorphicBlocks/subscription
+  svn_url: https://github.com/imuli/PolymorphicBlocks
+  tags_url: https://api.github.com/repos/imuli/PolymorphicBlocks/tags
+  teams_url: https://api.github.com/repos/imuli/PolymorphicBlocks/teams
+  topics: []
+  trees_url: https://api.github.com/repos/imuli/PolymorphicBlocks/git/trees{/sha}
+  updated_at: '2023-05-07T00:10:40Z'
+  url: https://api.github.com/repos/imuli/PolymorphicBlocks
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

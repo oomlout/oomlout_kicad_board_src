@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/branches{/branch}
-clone_url: https://github.com/ElectronicCats/WiFiNotificationCat.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/contributors
-created_at: '2017-12-12T22:56:24Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/downloads
-events_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/forks
-full_name: ElectronicCats/WiFiNotificationCat
-git_commits_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/WiFiNotificationCat.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/hooks
-html_url: https://github.com/ElectronicCats/WiFiNotificationCat
-id: 114047902
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/languages
-license: null
-merges_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/milestones{/number}
-mirror_url: null
-name: WiFiNotificationCat
-node_id: MDEwOlJlcG9zaXRvcnkxMTQwNDc5MDI=
-notifications_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: WiFiNotificationCat
+  github_src: https://github.com/ElectronicCats/WiFiNotificationCat
+  github_src_repo: https://github.com/ElectronicCats/WiFiNotificationCat
+  oomp_bot: electroniccats_wifinotificationcat
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electroniccats_wifinotificationcat
+  oomp_doc: projects/electroniccats_wifinotificationcat/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electroniccats_wifinotificationcat
+  oomp_src_flat: projects_flat/electroniccats_wifinotificationcat
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electroniccats_wifinotificationcat
+  oomp_src_folder: projects_folder\ElectronicCats\WiFiNotificationCat\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ElectronicCats\WiFiNotificationCat\version_current\working
+oomp_key: oomp_electroniccats_wifinotificationcat
+oomp_key_simple: electroniccats_wifinotificationcat
 projects_flat: projects_flat/electroniccats_wifinotificationcat/version_current/working
 projects_folder: projects_folder/ElectronicCats/WiFiNotificationCat/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/pulls{/number}
-pushed_at: '2018-01-19T03:17:42Z'
-releases_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/releases{/id}
-size: 199
-ssh_url: git@github.com:ElectronicCats/WiFiNotificationCat.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/subscription
-svn_url: https://github.com/ElectronicCats/WiFiNotificationCat
-tags_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/tags
-teams_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/teams
-topics:
-- esp8266
-- esp8266-arduino
-- ifttt
-- ifttt-maker
-- notifications
-trees_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/git/trees{/sha}
-updated_at: '2023-04-04T14:34:54Z'
-url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/WiFiNotificationCat.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/contributors
+  created_at: '2017-12-12T22:56:24Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/forks
+  full_name: ElectronicCats/WiFiNotificationCat
+  git_commits_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/WiFiNotificationCat.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/hooks
+  html_url: https://github.com/ElectronicCats/WiFiNotificationCat
+  id: 114047902
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/languages
+  license: null
+  merges_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/milestones{/number}
+  mirror_url: null
+  name: WiFiNotificationCat
+  node_id: MDEwOlJlcG9zaXRvcnkxMTQwNDc5MDI=
+  notifications_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/pulls{/number}
+  pushed_at: '2018-01-19T03:17:42Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/releases{/id}
+  size: 199
+  ssh_url: git@github.com:ElectronicCats/WiFiNotificationCat.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/subscription
+  svn_url: https://github.com/ElectronicCats/WiFiNotificationCat
+  tags_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/teams
+  topics:
+  - esp8266
+  - esp8266-arduino
+  - ifttt
+  - ifttt-maker
+  - notifications
+  trees_url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat/git/trees{/sha}
+  updated_at: '2023-04-04T14:34:54Z'
+  url: https://api.github.com/repos/ElectronicCats/WiFiNotificationCat
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: true

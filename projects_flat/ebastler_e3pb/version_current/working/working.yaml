@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ebastler/e3pb/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ebastler/e3pb/assignees{/user}
-blobs_url: https://api.github.com/repos/ebastler/e3pb/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ebastler/e3pb/branches{/branch}
-clone_url: https://github.com/ebastler/e3pb.git
-collaborators_url: https://api.github.com/repos/ebastler/e3pb/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ebastler/e3pb/comments{/number}
-commits_url: https://api.github.com/repos/ebastler/e3pb/commits{/sha}
-compare_url: https://api.github.com/repos/ebastler/e3pb/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ebastler/e3pb/contents/{+path}
-contributors_url: https://api.github.com/repos/ebastler/e3pb/contributors
-created_at: '2021-10-12T10:51:28Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/ebastler/e3pb/deployments
-description: Ender 3 printbed/heating element united in a single PCB
-disabled: false
-downloads_url: https://api.github.com/repos/ebastler/e3pb/downloads
-events_url: https://api.github.com/repos/ebastler/e3pb/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ebastler/e3pb/forks
-full_name: ebastler/e3pb
-git_commits_url: https://api.github.com/repos/ebastler/e3pb/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ebastler/e3pb/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ebastler/e3pb/git/tags{/sha}
-git_url: git://github.com/ebastler/e3pb.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ebastler/e3pb/hooks
-html_url: https://github.com/ebastler/e3pb
-id: 416297183
-is_template: false
-issue_comment_url: https://api.github.com/repos/ebastler/e3pb/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ebastler/e3pb/issues/events{/number}
-issues_url: https://api.github.com/repos/ebastler/e3pb/issues{/number}
-keys_url: https://api.github.com/repos/ebastler/e3pb/keys{/key_id}
-labels_url: https://api.github.com/repos/ebastler/e3pb/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ebastler/e3pb/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/ebastler/e3pb/merges
-milestones_url: https://api.github.com/repos/ebastler/e3pb/milestones{/number}
-mirror_url: null
-name: e3pb
-node_id: R_kgDOGNAw3w
-notifications_url: https://api.github.com/repos/ebastler/e3pb/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/22500643?v=4
-  events_url: https://api.github.com/users/ebastler/events{/privacy}
-  followers_url: https://api.github.com/users/ebastler/followers
-  following_url: https://api.github.com/users/ebastler/following{/other_user}
-  gists_url: https://api.github.com/users/ebastler/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ebastler
-  id: 22500643
-  login: ebastler
-  node_id: MDQ6VXNlcjIyNTAwNjQz
-  organizations_url: https://api.github.com/users/ebastler/orgs
-  received_events_url: https://api.github.com/users/ebastler/received_events
-  repos_url: https://api.github.com/users/ebastler/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ebastler/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ebastler/subscriptions
-  type: User
-  url: https://api.github.com/users/ebastler
-private: false
+links:
+  github_owner: ebastler
+  github_repo_name: e3pb
+  github_src: https://github.com/ebastler/e3pb
+  github_src_repo: https://github.com/ebastler/e3pb
+  oomp_bot: projects_ebastler_e3pb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_ebastler_e3pb
+  oomp_doc: projects/projects_flat_ebastler_e3pb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_ebastler_e3pb
+  oomp_src_flat: projects_flat/projects_flat_ebastler_e3pb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_ebastler_e3pb
+  oomp_src_folder: projects_flat\ebastler_e3pb\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ebastler_e3pb\version_current\working
+oomp_key: oomp_projects_flat_ebastler_e3pb
+oomp_key_simple: projects_flat_ebastler_e3pb
 projects_flat: projects_flat/ebastler_e3pb/version_current/working
 projects_folder: projects_folder/ebastler/e3pb/version_current/working
-pulls_url: https://api.github.com/repos/ebastler/e3pb/pulls{/number}
-pushed_at: '2021-10-12T10:52:02Z'
-releases_url: https://api.github.com/repos/ebastler/e3pb/releases{/id}
-size: 264
-ssh_url: git@github.com:ebastler/e3pb.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/ebastler/e3pb/stargazers
-statuses_url: https://api.github.com/repos/ebastler/e3pb/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ebastler/e3pb/subscribers
-subscription_url: https://api.github.com/repos/ebastler/e3pb/subscription
-svn_url: https://github.com/ebastler/e3pb
-tags_url: https://api.github.com/repos/ebastler/e3pb/tags
-teams_url: https://api.github.com/repos/ebastler/e3pb/teams
-topics: []
-trees_url: https://api.github.com/repos/ebastler/e3pb/git/trees{/sha}
-updated_at: '2022-11-23T08:04:32Z'
-url: https://api.github.com/repos/ebastler/e3pb
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ebastler/e3pb/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ebastler/e3pb/assignees{/user}
+  blobs_url: https://api.github.com/repos/ebastler/e3pb/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ebastler/e3pb/branches{/branch}
+  clone_url: https://github.com/ebastler/e3pb.git
+  collaborators_url: https://api.github.com/repos/ebastler/e3pb/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ebastler/e3pb/comments{/number}
+  commits_url: https://api.github.com/repos/ebastler/e3pb/commits{/sha}
+  compare_url: https://api.github.com/repos/ebastler/e3pb/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ebastler/e3pb/contents/{+path}
+  contributors_url: https://api.github.com/repos/ebastler/e3pb/contributors
+  created_at: '2021-10-12T10:51:28Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/ebastler/e3pb/deployments
+  description: Ender 3 printbed/heating element united in a single PCB
+  disabled: false
+  downloads_url: https://api.github.com/repos/ebastler/e3pb/downloads
+  events_url: https://api.github.com/repos/ebastler/e3pb/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ebastler/e3pb/forks
+  full_name: ebastler/e3pb
+  git_commits_url: https://api.github.com/repos/ebastler/e3pb/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ebastler/e3pb/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ebastler/e3pb/git/tags{/sha}
+  git_url: git://github.com/ebastler/e3pb.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ebastler/e3pb/hooks
+  html_url: https://github.com/ebastler/e3pb
+  id: 416297183
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ebastler/e3pb/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ebastler/e3pb/issues/events{/number}
+  issues_url: https://api.github.com/repos/ebastler/e3pb/issues{/number}
+  keys_url: https://api.github.com/repos/ebastler/e3pb/keys{/key_id}
+  labels_url: https://api.github.com/repos/ebastler/e3pb/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ebastler/e3pb/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/ebastler/e3pb/merges
+  milestones_url: https://api.github.com/repos/ebastler/e3pb/milestones{/number}
+  mirror_url: null
+  name: e3pb
+  node_id: R_kgDOGNAw3w
+  notifications_url: https://api.github.com/repos/ebastler/e3pb/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/22500643?v=4
+    events_url: https://api.github.com/users/ebastler/events{/privacy}
+    followers_url: https://api.github.com/users/ebastler/followers
+    following_url: https://api.github.com/users/ebastler/following{/other_user}
+    gists_url: https://api.github.com/users/ebastler/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ebastler
+    id: 22500643
+    login: ebastler
+    node_id: MDQ6VXNlcjIyNTAwNjQz
+    organizations_url: https://api.github.com/users/ebastler/orgs
+    received_events_url: https://api.github.com/users/ebastler/received_events
+    repos_url: https://api.github.com/users/ebastler/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ebastler/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ebastler/subscriptions
+    type: User
+    url: https://api.github.com/users/ebastler
+  private: false
+  pulls_url: https://api.github.com/repos/ebastler/e3pb/pulls{/number}
+  pushed_at: '2021-10-12T10:52:02Z'
+  releases_url: https://api.github.com/repos/ebastler/e3pb/releases{/id}
+  size: 264
+  ssh_url: git@github.com:ebastler/e3pb.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/ebastler/e3pb/stargazers
+  statuses_url: https://api.github.com/repos/ebastler/e3pb/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ebastler/e3pb/subscribers
+  subscription_url: https://api.github.com/repos/ebastler/e3pb/subscription
+  svn_url: https://github.com/ebastler/e3pb
+  tags_url: https://api.github.com/repos/ebastler/e3pb/tags
+  teams_url: https://api.github.com/repos/ebastler/e3pb/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ebastler/e3pb/git/trees{/sha}
+  updated_at: '2022-11-23T08:04:32Z'
+  url: https://api.github.com/repos/ebastler/e3pb
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

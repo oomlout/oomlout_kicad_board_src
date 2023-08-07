@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/leptun/MUXUS/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/leptun/MUXUS/assignees{/user}
-blobs_url: https://api.github.com/repos/leptun/MUXUS/git/blobs{/sha}
-branches_url: https://api.github.com/repos/leptun/MUXUS/branches{/branch}
-clone_url: https://github.com/leptun/MUXUS.git
-collaborators_url: https://api.github.com/repos/leptun/MUXUS/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/leptun/MUXUS/comments{/number}
-commits_url: https://api.github.com/repos/leptun/MUXUS/commits{/sha}
-compare_url: https://api.github.com/repos/leptun/MUXUS/compare/{base}...{head}
-contents_url: https://api.github.com/repos/leptun/MUXUS/contents/{+path}
-contributors_url: https://api.github.com/repos/leptun/MUXUS/contributors
-created_at: '2021-09-12T09:30:21Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/leptun/MUXUS/deployments
-description: USB 2.0 switch with 4 inputs (3B + 1C_PD) and a hub with 4 outputs (3A
-  + STM32)
-disabled: false
-downloads_url: https://api.github.com/repos/leptun/MUXUS/downloads
-events_url: https://api.github.com/repos/leptun/MUXUS/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/leptun/MUXUS/forks
-full_name: leptun/MUXUS
-git_commits_url: https://api.github.com/repos/leptun/MUXUS/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/leptun/MUXUS/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/leptun/MUXUS/git/tags{/sha}
-git_url: git://github.com/leptun/MUXUS.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/leptun/MUXUS/hooks
-html_url: https://github.com/leptun/MUXUS
-id: 405599955
-is_template: false
-issue_comment_url: https://api.github.com/repos/leptun/MUXUS/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/leptun/MUXUS/issues/events{/number}
-issues_url: https://api.github.com/repos/leptun/MUXUS/issues{/number}
-keys_url: https://api.github.com/repos/leptun/MUXUS/keys{/key_id}
-labels_url: https://api.github.com/repos/leptun/MUXUS/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/leptun/MUXUS/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/leptun/MUXUS/merges
-milestones_url: https://api.github.com/repos/leptun/MUXUS/milestones{/number}
-mirror_url: null
-name: MUXUS
-node_id: MDEwOlJlcG9zaXRvcnk0MDU1OTk5NTU=
-notifications_url: https://api.github.com/repos/leptun/MUXUS/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/17808203?v=4
-  events_url: https://api.github.com/users/leptun/events{/privacy}
-  followers_url: https://api.github.com/users/leptun/followers
-  following_url: https://api.github.com/users/leptun/following{/other_user}
-  gists_url: https://api.github.com/users/leptun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/leptun
-  id: 17808203
-  login: leptun
-  node_id: MDQ6VXNlcjE3ODA4MjAz
-  organizations_url: https://api.github.com/users/leptun/orgs
-  received_events_url: https://api.github.com/users/leptun/received_events
-  repos_url: https://api.github.com/users/leptun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/leptun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/leptun/subscriptions
-  type: User
-  url: https://api.github.com/users/leptun
-private: false
+links:
+  github_owner: leptun
+  github_repo_name: MUXUS
+  github_src: https://github.com/leptun/MUXUS
+  github_src_repo: https://github.com/leptun/MUXUS
+  oomp_bot: projects_leptun_muxus
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_leptun_muxus
+  oomp_doc: projects/projects_flat_leptun_muxus/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_leptun_muxus
+  oomp_src_flat: projects_flat/projects_flat_leptun_muxus
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_leptun_muxus
+  oomp_src_folder: projects_flat\leptun_muxus\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\leptun_muxus\version_current\working
+oomp_key: oomp_projects_flat_leptun_muxus
+oomp_key_simple: projects_flat_leptun_muxus
 projects_flat: projects_flat/leptun_muxus/version_current/working
 projects_folder: projects_folder/leptun/MUXUS/version_current/working
-pulls_url: https://api.github.com/repos/leptun/MUXUS/pulls{/number}
-pushed_at: '2021-11-17T16:51:25Z'
-releases_url: https://api.github.com/repos/leptun/MUXUS/releases{/id}
-size: 88852
-ssh_url: git@github.com:leptun/MUXUS.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/leptun/MUXUS/stargazers
-statuses_url: https://api.github.com/repos/leptun/MUXUS/statuses/{sha}
-subscribers_url: https://api.github.com/repos/leptun/MUXUS/subscribers
-subscription_url: https://api.github.com/repos/leptun/MUXUS/subscription
-svn_url: https://github.com/leptun/MUXUS
-tags_url: https://api.github.com/repos/leptun/MUXUS/tags
-teams_url: https://api.github.com/repos/leptun/MUXUS/teams
-topics: []
-trees_url: https://api.github.com/repos/leptun/MUXUS/git/trees{/sha}
-updated_at: '2022-08-02T08:46:23Z'
-url: https://api.github.com/repos/leptun/MUXUS
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/leptun/MUXUS/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/leptun/MUXUS/assignees{/user}
+  blobs_url: https://api.github.com/repos/leptun/MUXUS/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/leptun/MUXUS/branches{/branch}
+  clone_url: https://github.com/leptun/MUXUS.git
+  collaborators_url: https://api.github.com/repos/leptun/MUXUS/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/leptun/MUXUS/comments{/number}
+  commits_url: https://api.github.com/repos/leptun/MUXUS/commits{/sha}
+  compare_url: https://api.github.com/repos/leptun/MUXUS/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/leptun/MUXUS/contents/{+path}
+  contributors_url: https://api.github.com/repos/leptun/MUXUS/contributors
+  created_at: '2021-09-12T09:30:21Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/leptun/MUXUS/deployments
+  description: USB 2.0 switch with 4 inputs (3B + 1C_PD) and a hub with 4 outputs
+    (3A + STM32)
+  disabled: false
+  downloads_url: https://api.github.com/repos/leptun/MUXUS/downloads
+  events_url: https://api.github.com/repos/leptun/MUXUS/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/leptun/MUXUS/forks
+  full_name: leptun/MUXUS
+  git_commits_url: https://api.github.com/repos/leptun/MUXUS/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/leptun/MUXUS/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/leptun/MUXUS/git/tags{/sha}
+  git_url: git://github.com/leptun/MUXUS.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/leptun/MUXUS/hooks
+  html_url: https://github.com/leptun/MUXUS
+  id: 405599955
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/leptun/MUXUS/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/leptun/MUXUS/issues/events{/number}
+  issues_url: https://api.github.com/repos/leptun/MUXUS/issues{/number}
+  keys_url: https://api.github.com/repos/leptun/MUXUS/keys{/key_id}
+  labels_url: https://api.github.com/repos/leptun/MUXUS/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/leptun/MUXUS/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/leptun/MUXUS/merges
+  milestones_url: https://api.github.com/repos/leptun/MUXUS/milestones{/number}
+  mirror_url: null
+  name: MUXUS
+  node_id: MDEwOlJlcG9zaXRvcnk0MDU1OTk5NTU=
+  notifications_url: https://api.github.com/repos/leptun/MUXUS/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/17808203?v=4
+    events_url: https://api.github.com/users/leptun/events{/privacy}
+    followers_url: https://api.github.com/users/leptun/followers
+    following_url: https://api.github.com/users/leptun/following{/other_user}
+    gists_url: https://api.github.com/users/leptun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/leptun
+    id: 17808203
+    login: leptun
+    node_id: MDQ6VXNlcjE3ODA4MjAz
+    organizations_url: https://api.github.com/users/leptun/orgs
+    received_events_url: https://api.github.com/users/leptun/received_events
+    repos_url: https://api.github.com/users/leptun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/leptun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/leptun/subscriptions
+    type: User
+    url: https://api.github.com/users/leptun
+  private: false
+  pulls_url: https://api.github.com/repos/leptun/MUXUS/pulls{/number}
+  pushed_at: '2021-11-17T16:51:25Z'
+  releases_url: https://api.github.com/repos/leptun/MUXUS/releases{/id}
+  size: 88852
+  ssh_url: git@github.com:leptun/MUXUS.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/leptun/MUXUS/stargazers
+  statuses_url: https://api.github.com/repos/leptun/MUXUS/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/leptun/MUXUS/subscribers
+  subscription_url: https://api.github.com/repos/leptun/MUXUS/subscription
+  svn_url: https://github.com/leptun/MUXUS
+  tags_url: https://api.github.com/repos/leptun/MUXUS/tags
+  teams_url: https://api.github.com/repos/leptun/MUXUS/teams
+  topics: []
+  trees_url: https://api.github.com/repos/leptun/MUXUS/git/trees{/sha}
+  updated_at: '2022-08-02T08:46:23Z'
+  url: https://api.github.com/repos/leptun/MUXUS
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

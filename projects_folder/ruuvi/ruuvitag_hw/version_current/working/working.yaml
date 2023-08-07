@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/assignees{/user}
-blobs_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/branches{/branch}
-clone_url: https://github.com/ruuvi/ruuvitag_hw.git
-collaborators_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/comments{/number}
-commits_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/commits{/sha}
-compare_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/contents/{+path}
-contributors_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/contributors
-created_at: '2015-07-01T06:08:36Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/deployments
-description: RuuviTag hardware projects
-disabled: false
-downloads_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/downloads
-events_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/events
-fork: false
-forks: 47
-forks_count: 47
-forks_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/forks
-full_name: ruuvi/ruuvitag_hw
-git_commits_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/git/tags{/sha}
-git_url: git://github.com/ruuvi/ruuvitag_hw.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/hooks
-html_url: https://github.com/ruuvi/ruuvitag_hw
-id: 38352956
-is_template: false
-issue_comment_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/issues/events{/number}
-issues_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/issues{/number}
-keys_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/keys{/key_id}
-labels_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/languages
-license: null
-merges_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/merges
-milestones_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/milestones{/number}
-mirror_url: null
-name: ruuvitag_hw
-node_id: MDEwOlJlcG9zaXRvcnkzODM1Mjk1Ng==
-notifications_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/12087190?v=4
-  events_url: https://api.github.com/users/ruuvi/events{/privacy}
-  followers_url: https://api.github.com/users/ruuvi/followers
-  following_url: https://api.github.com/users/ruuvi/following{/other_user}
-  gists_url: https://api.github.com/users/ruuvi/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ruuvi
-  id: 12087190
-  login: ruuvi
-  node_id: MDEyOk9yZ2FuaXphdGlvbjEyMDg3MTkw
-  organizations_url: https://api.github.com/users/ruuvi/orgs
-  received_events_url: https://api.github.com/users/ruuvi/received_events
-  repos_url: https://api.github.com/users/ruuvi/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ruuvi/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ruuvi/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ruuvi
-private: false
+links:
+  github_owner: ruuvi
+  github_repo_name: ruuvitag_hw
+  github_src: https://github.com/ruuvi/ruuvitag_hw
+  github_src_repo: https://github.com/ruuvi/ruuvitag_hw
+  oomp_bot: ruuvi_ruuvitag_hw
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/ruuvi_ruuvitag_hw
+  oomp_doc: projects/ruuvi_ruuvitag_hw/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/ruuvi_ruuvitag_hw
+  oomp_src_flat: projects_flat/ruuvi_ruuvitag_hw
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/ruuvi_ruuvitag_hw
+  oomp_src_folder: projects_folder\ruuvi\ruuvitag_hw\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ruuvi\ruuvitag_hw\version_current\working
+oomp_key: oomp_ruuvi_ruuvitag_hw
+oomp_key_simple: ruuvi_ruuvitag_hw
 projects_flat: projects_flat/ruuvi_ruuvitag_hw/version_current/working
 projects_folder: projects_folder/ruuvi/ruuvitag_hw/version_current/working
-pulls_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/pulls{/number}
-pushed_at: '2021-07-14T09:33:25Z'
-releases_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/releases{/id}
-size: 44088
-ssh_url: git@github.com:ruuvi/ruuvitag_hw.git
-stargazers_count: 108
-stargazers_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/stargazers
-statuses_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/subscribers
-subscription_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/subscription
-svn_url: https://github.com/ruuvi/ruuvitag_hw
-tags_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/tags
-teams_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/teams
-topics: []
-trees_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/git/trees{/sha}
-updated_at: '2023-06-08T12:37:51Z'
-url: https://api.github.com/repos/ruuvi/ruuvitag_hw
-visibility: public
-watchers: 108
-watchers_count: 108
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/assignees{/user}
+  blobs_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/branches{/branch}
+  clone_url: https://github.com/ruuvi/ruuvitag_hw.git
+  collaborators_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/comments{/number}
+  commits_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/commits{/sha}
+  compare_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/contents/{+path}
+  contributors_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/contributors
+  created_at: '2015-07-01T06:08:36Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/deployments
+  description: RuuviTag hardware projects
+  disabled: false
+  downloads_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/downloads
+  events_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/events
+  fork: false
+  forks: 47
+  forks_count: 47
+  forks_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/forks
+  full_name: ruuvi/ruuvitag_hw
+  git_commits_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/git/tags{/sha}
+  git_url: git://github.com/ruuvi/ruuvitag_hw.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/hooks
+  html_url: https://github.com/ruuvi/ruuvitag_hw
+  id: 38352956
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/issues/events{/number}
+  issues_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/issues{/number}
+  keys_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/keys{/key_id}
+  labels_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/languages
+  license: null
+  merges_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/merges
+  milestones_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/milestones{/number}
+  mirror_url: null
+  name: ruuvitag_hw
+  node_id: MDEwOlJlcG9zaXRvcnkzODM1Mjk1Ng==
+  notifications_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/12087190?v=4
+    events_url: https://api.github.com/users/ruuvi/events{/privacy}
+    followers_url: https://api.github.com/users/ruuvi/followers
+    following_url: https://api.github.com/users/ruuvi/following{/other_user}
+    gists_url: https://api.github.com/users/ruuvi/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ruuvi
+    id: 12087190
+    login: ruuvi
+    node_id: MDEyOk9yZ2FuaXphdGlvbjEyMDg3MTkw
+    organizations_url: https://api.github.com/users/ruuvi/orgs
+    received_events_url: https://api.github.com/users/ruuvi/received_events
+    repos_url: https://api.github.com/users/ruuvi/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ruuvi/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ruuvi/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ruuvi
+  private: false
+  pulls_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/pulls{/number}
+  pushed_at: '2021-07-14T09:33:25Z'
+  releases_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/releases{/id}
+  size: 44088
+  ssh_url: git@github.com:ruuvi/ruuvitag_hw.git
+  stargazers_count: 108
+  stargazers_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/stargazers
+  statuses_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/subscribers
+  subscription_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/subscription
+  svn_url: https://github.com/ruuvi/ruuvitag_hw
+  tags_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/tags
+  teams_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ruuvi/ruuvitag_hw/git/trees{/sha}
+  updated_at: '2023-06-08T12:37:51Z'
+  url: https://api.github.com/repos/ruuvi/ruuvitag_hw
+  visibility: public
+  watchers: 108
+  watchers_count: 108
+  web_commit_signoff_required: false

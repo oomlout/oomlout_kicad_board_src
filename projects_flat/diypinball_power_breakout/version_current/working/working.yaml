@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/diypinball/power-breakout/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/diypinball/power-breakout/assignees{/user}
-blobs_url: https://api.github.com/repos/diypinball/power-breakout/git/blobs{/sha}
-branches_url: https://api.github.com/repos/diypinball/power-breakout/branches{/branch}
-clone_url: https://github.com/diypinball/power-breakout.git
-collaborators_url: https://api.github.com/repos/diypinball/power-breakout/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/diypinball/power-breakout/comments{/number}
-commits_url: https://api.github.com/repos/diypinball/power-breakout/commits{/sha}
-compare_url: https://api.github.com/repos/diypinball/power-breakout/compare/{base}...{head}
-contents_url: https://api.github.com/repos/diypinball/power-breakout/contents/{+path}
-contributors_url: https://api.github.com/repos/diypinball/power-breakout/contributors
-created_at: '2015-10-13T19:51:25Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/diypinball/power-breakout/deployments
-description: Breakout board for power supply
-disabled: false
-downloads_url: https://api.github.com/repos/diypinball/power-breakout/downloads
-events_url: https://api.github.com/repos/diypinball/power-breakout/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/diypinball/power-breakout/forks
-full_name: diypinball/power-breakout
-git_commits_url: https://api.github.com/repos/diypinball/power-breakout/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/diypinball/power-breakout/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/diypinball/power-breakout/git/tags{/sha}
-git_url: git://github.com/diypinball/power-breakout.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/diypinball/power-breakout/hooks
-html_url: https://github.com/diypinball/power-breakout
-id: 44200858
-is_template: false
-issue_comment_url: https://api.github.com/repos/diypinball/power-breakout/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/diypinball/power-breakout/issues/events{/number}
-issues_url: https://api.github.com/repos/diypinball/power-breakout/issues{/number}
-keys_url: https://api.github.com/repos/diypinball/power-breakout/keys{/key_id}
-labels_url: https://api.github.com/repos/diypinball/power-breakout/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/diypinball/power-breakout/languages
-license: null
-merges_url: https://api.github.com/repos/diypinball/power-breakout/merges
-milestones_url: https://api.github.com/repos/diypinball/power-breakout/milestones{/number}
-mirror_url: null
-name: power-breakout
-node_id: MDEwOlJlcG9zaXRvcnk0NDIwMDg1OA==
-notifications_url: https://api.github.com/repos/diypinball/power-breakout/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5861966?v=4
-  events_url: https://api.github.com/users/diypinball/events{/privacy}
-  followers_url: https://api.github.com/users/diypinball/followers
-  following_url: https://api.github.com/users/diypinball/following{/other_user}
-  gists_url: https://api.github.com/users/diypinball/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/diypinball
-  id: 5861966
-  login: diypinball
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU4NjE5NjY=
-  organizations_url: https://api.github.com/users/diypinball/orgs
-  received_events_url: https://api.github.com/users/diypinball/received_events
-  repos_url: https://api.github.com/users/diypinball/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/diypinball/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/diypinball/subscriptions
-  type: Organization
-  url: https://api.github.com/users/diypinball
-private: false
+links:
+  github_owner: diypinball
+  github_repo_name: power-breakout
+  github_src: https://github.com/diypinball/power-breakout
+  github_src_repo: https://github.com/diypinball/power-breakout
+  oomp_bot: projects_diypinball_power_breakout
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_diypinball_power_breakout
+  oomp_doc: projects/projects_flat_diypinball_power_breakout/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_diypinball_power_breakout
+  oomp_src_flat: projects_flat/projects_flat_diypinball_power_breakout
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_diypinball_power_breakout
+  oomp_src_folder: projects_flat\diypinball_power_breakout\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\diypinball_power_breakout\version_current\working
+oomp_key: oomp_projects_flat_diypinball_power_breakout
+oomp_key_simple: projects_flat_diypinball_power_breakout
 projects_flat: projects_flat/diypinball_power_breakout/version_current/working
 projects_folder: projects_folder/diypinball/power-breakout/version_current/working
-pulls_url: https://api.github.com/repos/diypinball/power-breakout/pulls{/number}
-pushed_at: '2015-10-14T02:49:08Z'
-releases_url: https://api.github.com/repos/diypinball/power-breakout/releases{/id}
-size: 248
-ssh_url: git@github.com:diypinball/power-breakout.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/diypinball/power-breakout/stargazers
-statuses_url: https://api.github.com/repos/diypinball/power-breakout/statuses/{sha}
-subscribers_url: https://api.github.com/repos/diypinball/power-breakout/subscribers
-subscription_url: https://api.github.com/repos/diypinball/power-breakout/subscription
-svn_url: https://github.com/diypinball/power-breakout
-tags_url: https://api.github.com/repos/diypinball/power-breakout/tags
-teams_url: https://api.github.com/repos/diypinball/power-breakout/teams
-topics: []
-trees_url: https://api.github.com/repos/diypinball/power-breakout/git/trees{/sha}
-updated_at: '2015-10-13T19:52:06Z'
-url: https://api.github.com/repos/diypinball/power-breakout
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/diypinball/power-breakout/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/diypinball/power-breakout/assignees{/user}
+  blobs_url: https://api.github.com/repos/diypinball/power-breakout/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/diypinball/power-breakout/branches{/branch}
+  clone_url: https://github.com/diypinball/power-breakout.git
+  collaborators_url: https://api.github.com/repos/diypinball/power-breakout/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/diypinball/power-breakout/comments{/number}
+  commits_url: https://api.github.com/repos/diypinball/power-breakout/commits{/sha}
+  compare_url: https://api.github.com/repos/diypinball/power-breakout/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/diypinball/power-breakout/contents/{+path}
+  contributors_url: https://api.github.com/repos/diypinball/power-breakout/contributors
+  created_at: '2015-10-13T19:51:25Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/diypinball/power-breakout/deployments
+  description: Breakout board for power supply
+  disabled: false
+  downloads_url: https://api.github.com/repos/diypinball/power-breakout/downloads
+  events_url: https://api.github.com/repos/diypinball/power-breakout/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/diypinball/power-breakout/forks
+  full_name: diypinball/power-breakout
+  git_commits_url: https://api.github.com/repos/diypinball/power-breakout/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/diypinball/power-breakout/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/diypinball/power-breakout/git/tags{/sha}
+  git_url: git://github.com/diypinball/power-breakout.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/diypinball/power-breakout/hooks
+  html_url: https://github.com/diypinball/power-breakout
+  id: 44200858
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/diypinball/power-breakout/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/diypinball/power-breakout/issues/events{/number}
+  issues_url: https://api.github.com/repos/diypinball/power-breakout/issues{/number}
+  keys_url: https://api.github.com/repos/diypinball/power-breakout/keys{/key_id}
+  labels_url: https://api.github.com/repos/diypinball/power-breakout/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/diypinball/power-breakout/languages
+  license: null
+  merges_url: https://api.github.com/repos/diypinball/power-breakout/merges
+  milestones_url: https://api.github.com/repos/diypinball/power-breakout/milestones{/number}
+  mirror_url: null
+  name: power-breakout
+  node_id: MDEwOlJlcG9zaXRvcnk0NDIwMDg1OA==
+  notifications_url: https://api.github.com/repos/diypinball/power-breakout/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5861966?v=4
+    events_url: https://api.github.com/users/diypinball/events{/privacy}
+    followers_url: https://api.github.com/users/diypinball/followers
+    following_url: https://api.github.com/users/diypinball/following{/other_user}
+    gists_url: https://api.github.com/users/diypinball/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/diypinball
+    id: 5861966
+    login: diypinball
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU4NjE5NjY=
+    organizations_url: https://api.github.com/users/diypinball/orgs
+    received_events_url: https://api.github.com/users/diypinball/received_events
+    repos_url: https://api.github.com/users/diypinball/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/diypinball/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/diypinball/subscriptions
+    type: Organization
+    url: https://api.github.com/users/diypinball
+  private: false
+  pulls_url: https://api.github.com/repos/diypinball/power-breakout/pulls{/number}
+  pushed_at: '2015-10-14T02:49:08Z'
+  releases_url: https://api.github.com/repos/diypinball/power-breakout/releases{/id}
+  size: 248
+  ssh_url: git@github.com:diypinball/power-breakout.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/diypinball/power-breakout/stargazers
+  statuses_url: https://api.github.com/repos/diypinball/power-breakout/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/diypinball/power-breakout/subscribers
+  subscription_url: https://api.github.com/repos/diypinball/power-breakout/subscription
+  svn_url: https://github.com/diypinball/power-breakout
+  tags_url: https://api.github.com/repos/diypinball/power-breakout/tags
+  teams_url: https://api.github.com/repos/diypinball/power-breakout/teams
+  topics: []
+  trees_url: https://api.github.com/repos/diypinball/power-breakout/git/trees{/sha}
+  updated_at: '2015-10-13T19:52:06Z'
+  url: https://api.github.com/repos/diypinball/power-breakout
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

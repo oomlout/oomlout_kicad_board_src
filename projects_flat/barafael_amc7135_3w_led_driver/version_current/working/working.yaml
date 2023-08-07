@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/assignees{/user}
-blobs_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/git/blobs{/sha}
-branches_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/branches{/branch}
-clone_url: https://github.com/barafael/amc7135-3W-LED-driver.git
-collaborators_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/comments{/number}
-commits_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/commits{/sha}
-compare_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/compare/{base}...{head}
-contents_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/contents/{+path}
-contributors_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/contributors
-created_at: '2018-11-03T10:29:52Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/deployments
-description: 'A 3W led driver using two 350mA AMC7135 constant current LED driver
-  ICs '
-disabled: false
-downloads_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/downloads
-events_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/forks
-full_name: barafael/amc7135-3W-LED-driver
-git_commits_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/git/tags{/sha}
-git_url: git://github.com/barafael/amc7135-3W-LED-driver.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/hooks
-html_url: https://github.com/barafael/amc7135-3W-LED-driver
-id: 155972659
-is_template: false
-issue_comment_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/issues/events{/number}
-issues_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/issues{/number}
-keys_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/keys{/key_id}
-labels_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/languages
-license: null
-merges_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/merges
-milestones_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/milestones{/number}
-mirror_url: null
-name: amc7135-3W-LED-driver
-node_id: MDEwOlJlcG9zaXRvcnkxNTU5NzI2NTk=
-notifications_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6966738?v=4
-  events_url: https://api.github.com/users/barafael/events{/privacy}
-  followers_url: https://api.github.com/users/barafael/followers
-  following_url: https://api.github.com/users/barafael/following{/other_user}
-  gists_url: https://api.github.com/users/barafael/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/barafael
-  id: 6966738
-  login: barafael
-  node_id: MDQ6VXNlcjY5NjY3Mzg=
-  organizations_url: https://api.github.com/users/barafael/orgs
-  received_events_url: https://api.github.com/users/barafael/received_events
-  repos_url: https://api.github.com/users/barafael/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/barafael/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/barafael/subscriptions
-  type: User
-  url: https://api.github.com/users/barafael
-private: false
+links:
+  github_owner: barafael
+  github_repo_name: amc7135-3W-LED-driver
+  github_src: https://github.com/barafael/amc7135-3W-LED-driver
+  github_src_repo: https://github.com/barafael/amc7135-3W-LED-driver
+  oomp_bot: projects_barafael_amc7135_3w_led_driver
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_barafael_amc7135_3w_led_driver
+  oomp_doc: projects/projects_flat_barafael_amc7135_3w_led_driver/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_barafael_amc7135_3w_led_driver
+  oomp_src_flat: projects_flat/projects_flat_barafael_amc7135_3w_led_driver
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_barafael_amc7135_3w_led_driver
+  oomp_src_folder: projects_flat\barafael_amc7135_3w_led_driver\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\barafael_amc7135_3w_led_driver\version_current\working
+oomp_key: oomp_projects_flat_barafael_amc7135_3w_led_driver
+oomp_key_simple: projects_flat_barafael_amc7135_3w_led_driver
 projects_flat: projects_flat/barafael_amc7135_3w_led_driver/version_current/working
 projects_folder: projects_folder/barafael/amc7135-3W-LED-driver/version_current/working
-pulls_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/pulls{/number}
-pushed_at: '2018-11-10T12:08:48Z'
-releases_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/releases{/id}
-size: 370
-ssh_url: git@github.com:barafael/amc7135-3W-LED-driver.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/stargazers
-statuses_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/statuses/{sha}
-subscribers_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/subscribers
-subscription_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/subscription
-svn_url: https://github.com/barafael/amc7135-3W-LED-driver
-tags_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/tags
-teams_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/teams
-topics: []
-trees_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/git/trees{/sha}
-updated_at: '2023-04-20T18:02:15Z'
-url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/assignees{/user}
+  blobs_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/branches{/branch}
+  clone_url: https://github.com/barafael/amc7135-3W-LED-driver.git
+  collaborators_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/comments{/number}
+  commits_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/commits{/sha}
+  compare_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/contents/{+path}
+  contributors_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/contributors
+  created_at: '2018-11-03T10:29:52Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/deployments
+  description: 'A 3W led driver using two 350mA AMC7135 constant current LED driver
+    ICs '
+  disabled: false
+  downloads_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/downloads
+  events_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/forks
+  full_name: barafael/amc7135-3W-LED-driver
+  git_commits_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/git/tags{/sha}
+  git_url: git://github.com/barafael/amc7135-3W-LED-driver.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/hooks
+  html_url: https://github.com/barafael/amc7135-3W-LED-driver
+  id: 155972659
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/issues/events{/number}
+  issues_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/issues{/number}
+  keys_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/keys{/key_id}
+  labels_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/languages
+  license: null
+  merges_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/merges
+  milestones_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/milestones{/number}
+  mirror_url: null
+  name: amc7135-3W-LED-driver
+  node_id: MDEwOlJlcG9zaXRvcnkxNTU5NzI2NTk=
+  notifications_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6966738?v=4
+    events_url: https://api.github.com/users/barafael/events{/privacy}
+    followers_url: https://api.github.com/users/barafael/followers
+    following_url: https://api.github.com/users/barafael/following{/other_user}
+    gists_url: https://api.github.com/users/barafael/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/barafael
+    id: 6966738
+    login: barafael
+    node_id: MDQ6VXNlcjY5NjY3Mzg=
+    organizations_url: https://api.github.com/users/barafael/orgs
+    received_events_url: https://api.github.com/users/barafael/received_events
+    repos_url: https://api.github.com/users/barafael/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/barafael/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/barafael/subscriptions
+    type: User
+    url: https://api.github.com/users/barafael
+  private: false
+  pulls_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/pulls{/number}
+  pushed_at: '2018-11-10T12:08:48Z'
+  releases_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/releases{/id}
+  size: 370
+  ssh_url: git@github.com:barafael/amc7135-3W-LED-driver.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/stargazers
+  statuses_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/subscribers
+  subscription_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/subscription
+  svn_url: https://github.com/barafael/amc7135-3W-LED-driver
+  tags_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/tags
+  teams_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/teams
+  topics: []
+  trees_url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver/git/trees{/sha}
+  updated_at: '2023-04-20T18:02:15Z'
+  url: https://api.github.com/repos/barafael/amc7135-3W-LED-driver
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

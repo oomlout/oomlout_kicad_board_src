@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/jerome-labidurie/bbc/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/jerome-labidurie/bbc/assignees{/user}
-blobs_url: https://api.github.com/repos/jerome-labidurie/bbc/git/blobs{/sha}
-branches_url: https://api.github.com/repos/jerome-labidurie/bbc/branches{/branch}
-clone_url: https://github.com/jerome-labidurie/bbc.git
-collaborators_url: https://api.github.com/repos/jerome-labidurie/bbc/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/jerome-labidurie/bbc/comments{/number}
-commits_url: https://api.github.com/repos/jerome-labidurie/bbc/commits{/sha}
-compare_url: https://api.github.com/repos/jerome-labidurie/bbc/compare/{base}...{head}
-contents_url: https://api.github.com/repos/jerome-labidurie/bbc/contents/{+path}
-contributors_url: https://api.github.com/repos/jerome-labidurie/bbc/contributors
-created_at: '2017-02-13T17:48:25Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/jerome-labidurie/bbc/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/jerome-labidurie/bbc/downloads
-events_url: https://api.github.com/repos/jerome-labidurie/bbc/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/jerome-labidurie/bbc/forks
-full_name: jerome-labidurie/bbc
-git_commits_url: https://api.github.com/repos/jerome-labidurie/bbc/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/jerome-labidurie/bbc/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/jerome-labidurie/bbc/git/tags{/sha}
-git_url: git://github.com/jerome-labidurie/bbc.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/jerome-labidurie/bbc/hooks
-html_url: https://github.com/jerome-labidurie/bbc
-id: 81853517
-is_template: false
-issue_comment_url: https://api.github.com/repos/jerome-labidurie/bbc/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/jerome-labidurie/bbc/issues/events{/number}
-issues_url: https://api.github.com/repos/jerome-labidurie/bbc/issues{/number}
-keys_url: https://api.github.com/repos/jerome-labidurie/bbc/keys{/key_id}
-labels_url: https://api.github.com/repos/jerome-labidurie/bbc/labels{/name}
-language: Arduino
-languages_url: https://api.github.com/repos/jerome-labidurie/bbc/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/jerome-labidurie/bbc/merges
-milestones_url: https://api.github.com/repos/jerome-labidurie/bbc/milestones{/number}
-mirror_url: null
-name: bbc
-node_id: MDEwOlJlcG9zaXRvcnk4MTg1MzUxNw==
-notifications_url: https://api.github.com/repos/jerome-labidurie/bbc/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3443155?v=4
-  events_url: https://api.github.com/users/jerome-labidurie/events{/privacy}
-  followers_url: https://api.github.com/users/jerome-labidurie/followers
-  following_url: https://api.github.com/users/jerome-labidurie/following{/other_user}
-  gists_url: https://api.github.com/users/jerome-labidurie/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/jerome-labidurie
-  id: 3443155
-  login: jerome-labidurie
-  node_id: MDQ6VXNlcjM0NDMxNTU=
-  organizations_url: https://api.github.com/users/jerome-labidurie/orgs
-  received_events_url: https://api.github.com/users/jerome-labidurie/received_events
-  repos_url: https://api.github.com/users/jerome-labidurie/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/jerome-labidurie/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/jerome-labidurie/subscriptions
-  type: User
-  url: https://api.github.com/users/jerome-labidurie
-private: false
+links:
+  github_owner: jerome-labidurie
+  github_repo_name: bbc
+  github_src: https://github.com/jerome-labidurie/bbc
+  github_src_repo: https://github.com/jerome-labidurie/bbc
+  oomp_bot: projects_jerome_labidurie_bbc
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_jerome_labidurie_bbc
+  oomp_doc: projects/projects_flat_jerome_labidurie_bbc/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_jerome_labidurie_bbc
+  oomp_src_flat: projects_flat/projects_flat_jerome_labidurie_bbc
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_jerome_labidurie_bbc
+  oomp_src_folder: projects_flat\jerome_labidurie_bbc\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\jerome_labidurie_bbc\version_current\working
+oomp_key: oomp_projects_flat_jerome_labidurie_bbc
+oomp_key_simple: projects_flat_jerome_labidurie_bbc
 projects_flat: projects_flat/jerome_labidurie_bbc/version_current/working
 projects_folder: projects_folder/jerome-labidurie/bbc/version_current/working
-pulls_url: https://api.github.com/repos/jerome-labidurie/bbc/pulls{/number}
-pushed_at: '2017-05-06T13:15:17Z'
-releases_url: https://api.github.com/repos/jerome-labidurie/bbc/releases{/id}
-size: 66
-ssh_url: git@github.com:jerome-labidurie/bbc.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/jerome-labidurie/bbc/stargazers
-statuses_url: https://api.github.com/repos/jerome-labidurie/bbc/statuses/{sha}
-subscribers_url: https://api.github.com/repos/jerome-labidurie/bbc/subscribers
-subscription_url: https://api.github.com/repos/jerome-labidurie/bbc/subscription
-svn_url: https://github.com/jerome-labidurie/bbc
-tags_url: https://api.github.com/repos/jerome-labidurie/bbc/tags
-teams_url: https://api.github.com/repos/jerome-labidurie/bbc/teams
-topics: []
-trees_url: https://api.github.com/repos/jerome-labidurie/bbc/git/trees{/sha}
-updated_at: '2017-02-13T18:49:00Z'
-url: https://api.github.com/repos/jerome-labidurie/bbc
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/jerome-labidurie/bbc/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/jerome-labidurie/bbc/assignees{/user}
+  blobs_url: https://api.github.com/repos/jerome-labidurie/bbc/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/jerome-labidurie/bbc/branches{/branch}
+  clone_url: https://github.com/jerome-labidurie/bbc.git
+  collaborators_url: https://api.github.com/repos/jerome-labidurie/bbc/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/jerome-labidurie/bbc/comments{/number}
+  commits_url: https://api.github.com/repos/jerome-labidurie/bbc/commits{/sha}
+  compare_url: https://api.github.com/repos/jerome-labidurie/bbc/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/jerome-labidurie/bbc/contents/{+path}
+  contributors_url: https://api.github.com/repos/jerome-labidurie/bbc/contributors
+  created_at: '2017-02-13T17:48:25Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/jerome-labidurie/bbc/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/jerome-labidurie/bbc/downloads
+  events_url: https://api.github.com/repos/jerome-labidurie/bbc/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/jerome-labidurie/bbc/forks
+  full_name: jerome-labidurie/bbc
+  git_commits_url: https://api.github.com/repos/jerome-labidurie/bbc/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/jerome-labidurie/bbc/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/jerome-labidurie/bbc/git/tags{/sha}
+  git_url: git://github.com/jerome-labidurie/bbc.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/jerome-labidurie/bbc/hooks
+  html_url: https://github.com/jerome-labidurie/bbc
+  id: 81853517
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/jerome-labidurie/bbc/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/jerome-labidurie/bbc/issues/events{/number}
+  issues_url: https://api.github.com/repos/jerome-labidurie/bbc/issues{/number}
+  keys_url: https://api.github.com/repos/jerome-labidurie/bbc/keys{/key_id}
+  labels_url: https://api.github.com/repos/jerome-labidurie/bbc/labels{/name}
+  language: Arduino
+  languages_url: https://api.github.com/repos/jerome-labidurie/bbc/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/jerome-labidurie/bbc/merges
+  milestones_url: https://api.github.com/repos/jerome-labidurie/bbc/milestones{/number}
+  mirror_url: null
+  name: bbc
+  node_id: MDEwOlJlcG9zaXRvcnk4MTg1MzUxNw==
+  notifications_url: https://api.github.com/repos/jerome-labidurie/bbc/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3443155?v=4
+    events_url: https://api.github.com/users/jerome-labidurie/events{/privacy}
+    followers_url: https://api.github.com/users/jerome-labidurie/followers
+    following_url: https://api.github.com/users/jerome-labidurie/following{/other_user}
+    gists_url: https://api.github.com/users/jerome-labidurie/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/jerome-labidurie
+    id: 3443155
+    login: jerome-labidurie
+    node_id: MDQ6VXNlcjM0NDMxNTU=
+    organizations_url: https://api.github.com/users/jerome-labidurie/orgs
+    received_events_url: https://api.github.com/users/jerome-labidurie/received_events
+    repos_url: https://api.github.com/users/jerome-labidurie/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/jerome-labidurie/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/jerome-labidurie/subscriptions
+    type: User
+    url: https://api.github.com/users/jerome-labidurie
+  private: false
+  pulls_url: https://api.github.com/repos/jerome-labidurie/bbc/pulls{/number}
+  pushed_at: '2017-05-06T13:15:17Z'
+  releases_url: https://api.github.com/repos/jerome-labidurie/bbc/releases{/id}
+  size: 66
+  ssh_url: git@github.com:jerome-labidurie/bbc.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/jerome-labidurie/bbc/stargazers
+  statuses_url: https://api.github.com/repos/jerome-labidurie/bbc/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/jerome-labidurie/bbc/subscribers
+  subscription_url: https://api.github.com/repos/jerome-labidurie/bbc/subscription
+  svn_url: https://github.com/jerome-labidurie/bbc
+  tags_url: https://api.github.com/repos/jerome-labidurie/bbc/tags
+  teams_url: https://api.github.com/repos/jerome-labidurie/bbc/teams
+  topics: []
+  trees_url: https://api.github.com/repos/jerome-labidurie/bbc/git/trees{/sha}
+  updated_at: '2017-02-13T18:49:00Z'
+  url: https://api.github.com/repos/jerome-labidurie/bbc
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

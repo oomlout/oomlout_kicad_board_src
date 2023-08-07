@@ -1,113 +1,129 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/branches{/branch}
-clone_url: https://github.com/ElectronicCats/ATECC608A-Croquette.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/contributors
-created_at: '2019-09-03T15:06:52Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/deployments
-description: Electronic Croquette Cats ATECC608 Breakout Board Cryptographic co-processor
-  with secure hardware-based key storage
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/downloads
-events_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/forks
-full_name: ElectronicCats/ATECC608A-Croquette
-git_commits_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/ATECC608A-Croquette.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/hooks
-html_url: https://github.com/ElectronicCats/ATECC608A-Croquette
-id: 206105879
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/milestones{/number}
-mirror_url: null
-name: ATECC608A-Croquette
-node_id: MDEwOlJlcG9zaXRvcnkyMDYxMDU4Nzk=
-notifications_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: ATECC608A-Croquette
+  github_src: https://github.com/ElectronicCats/ATECC608A-Croquette
+  github_src_repo: https://github.com/ElectronicCats/ATECC608A-Croquette
+  oomp_bot: electroniccats_atecc608a_croquette
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electroniccats_atecc608a_croquette
+  oomp_doc: projects/electroniccats_atecc608a_croquette/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electroniccats_atecc608a_croquette
+  oomp_src_flat: projects_flat/electroniccats_atecc608a_croquette
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electroniccats_atecc608a_croquette
+  oomp_src_folder: projects_folder\ElectronicCats\ATECC608A-Croquette\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ElectronicCats\ATECC608A-Croquette\version_current\working
+oomp_key: oomp_electroniccats_atecc608a_croquette
+oomp_key_simple: electroniccats_atecc608a_croquette
 projects_flat: projects_flat/electroniccats_atecc608a_croquette/version_current/working
 projects_folder: projects_folder/ElectronicCats/ATECC608A-Croquette/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/pulls{/number}
-pushed_at: '2022-10-06T02:08:42Z'
-releases_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/releases{/id}
-size: 1208
-ssh_url: git@github.com:ElectronicCats/ATECC608A-Croquette.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/subscription
-svn_url: https://github.com/ElectronicCats/ATECC608A-Croquette
-tags_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/tags
-teams_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/teams
-topics:
-- arduino
-- chip
-- croquette
-- cryptographic
-- electronic-cats
-- hardware
-- pcb-files
-- processor
-trees_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/git/trees{/sha}
-updated_at: '2022-11-03T12:21:32Z'
-url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/ATECC608A-Croquette.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/contributors
+  created_at: '2019-09-03T15:06:52Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/deployments
+  description: Electronic Croquette Cats ATECC608 Breakout Board Cryptographic co-processor
+    with secure hardware-based key storage
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/forks
+  full_name: ElectronicCats/ATECC608A-Croquette
+  git_commits_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/ATECC608A-Croquette.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/hooks
+  html_url: https://github.com/ElectronicCats/ATECC608A-Croquette
+  id: 206105879
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/milestones{/number}
+  mirror_url: null
+  name: ATECC608A-Croquette
+  node_id: MDEwOlJlcG9zaXRvcnkyMDYxMDU4Nzk=
+  notifications_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/pulls{/number}
+  pushed_at: '2022-10-06T02:08:42Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/releases{/id}
+  size: 1208
+  ssh_url: git@github.com:ElectronicCats/ATECC608A-Croquette.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/subscription
+  svn_url: https://github.com/ElectronicCats/ATECC608A-Croquette
+  tags_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/teams
+  topics:
+  - arduino
+  - chip
+  - croquette
+  - cryptographic
+  - electronic-cats
+  - hardware
+  - pcb-files
+  - processor
+  trees_url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette/git/trees{/sha}
+  updated_at: '2022-11-03T12:21:32Z'
+  url: https://api.github.com/repos/ElectronicCats/ATECC608A-Croquette
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: true

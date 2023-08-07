@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/altLab/biolab-incubator/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/altLab/biolab-incubator/assignees{/user}
-blobs_url: https://api.github.com/repos/altLab/biolab-incubator/git/blobs{/sha}
-branches_url: https://api.github.com/repos/altLab/biolab-incubator/branches{/branch}
-clone_url: https://github.com/altLab/biolab-incubator.git
-collaborators_url: https://api.github.com/repos/altLab/biolab-incubator/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/altLab/biolab-incubator/comments{/number}
-commits_url: https://api.github.com/repos/altLab/biolab-incubator/commits{/sha}
-compare_url: https://api.github.com/repos/altLab/biolab-incubator/compare/{base}...{head}
-contents_url: https://api.github.com/repos/altLab/biolab-incubator/contents/{+path}
-contributors_url: https://api.github.com/repos/altLab/biolab-incubator/contributors
-created_at: '2021-05-26T12:35:09Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/altLab/biolab-incubator/deployments
-description: Files for bioLab equipment - Incubator
-disabled: false
-downloads_url: https://api.github.com/repos/altLab/biolab-incubator/downloads
-events_url: https://api.github.com/repos/altLab/biolab-incubator/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/altLab/biolab-incubator/forks
-full_name: altLab/biolab-incubator
-git_commits_url: https://api.github.com/repos/altLab/biolab-incubator/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/altLab/biolab-incubator/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/altLab/biolab-incubator/git/tags{/sha}
-git_url: git://github.com/altLab/biolab-incubator.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/altLab/biolab-incubator/hooks
-html_url: https://github.com/altLab/biolab-incubator
-id: 371027884
-is_template: false
-issue_comment_url: https://api.github.com/repos/altLab/biolab-incubator/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/altLab/biolab-incubator/issues/events{/number}
-issues_url: https://api.github.com/repos/altLab/biolab-incubator/issues{/number}
-keys_url: https://api.github.com/repos/altLab/biolab-incubator/keys{/key_id}
-labels_url: https://api.github.com/repos/altLab/biolab-incubator/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/altLab/biolab-incubator/languages
-license: null
-merges_url: https://api.github.com/repos/altLab/biolab-incubator/merges
-milestones_url: https://api.github.com/repos/altLab/biolab-incubator/milestones{/number}
-mirror_url: null
-name: biolab-incubator
-node_id: MDEwOlJlcG9zaXRvcnkzNzEwMjc4ODQ=
-notifications_url: https://api.github.com/repos/altLab/biolab-incubator/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5864781?v=4
-  events_url: https://api.github.com/users/altLab/events{/privacy}
-  followers_url: https://api.github.com/users/altLab/followers
-  following_url: https://api.github.com/users/altLab/following{/other_user}
-  gists_url: https://api.github.com/users/altLab/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/altLab
-  id: 5864781
-  login: altLab
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU4NjQ3ODE=
-  organizations_url: https://api.github.com/users/altLab/orgs
-  received_events_url: https://api.github.com/users/altLab/received_events
-  repos_url: https://api.github.com/users/altLab/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/altLab/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/altLab/subscriptions
-  type: Organization
-  url: https://api.github.com/users/altLab
-private: false
+links:
+  github_owner: altLab
+  github_repo_name: biolab-incubator
+  github_src: https://github.com/altLab/biolab-incubator
+  github_src_repo: https://github.com/altLab/biolab-incubator
+  oomp_bot: projects_altlab_biolab_incubator
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_altlab_biolab_incubator
+  oomp_doc: projects/projects_flat_altlab_biolab_incubator/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_altlab_biolab_incubator
+  oomp_src_flat: projects_flat/projects_flat_altlab_biolab_incubator
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_altlab_biolab_incubator
+  oomp_src_folder: projects_flat\altlab_biolab_incubator\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\altlab_biolab_incubator\version_current\working
+oomp_key: oomp_projects_flat_altlab_biolab_incubator
+oomp_key_simple: projects_flat_altlab_biolab_incubator
 projects_flat: projects_flat/altlab_biolab_incubator/version_current/working
 projects_folder: projects_folder/altLab/biolab-incubator/version_current/working
-pulls_url: https://api.github.com/repos/altLab/biolab-incubator/pulls{/number}
-pushed_at: '2021-05-30T21:04:19Z'
-releases_url: https://api.github.com/repos/altLab/biolab-incubator/releases{/id}
-size: 2547
-ssh_url: git@github.com:altLab/biolab-incubator.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/altLab/biolab-incubator/stargazers
-statuses_url: https://api.github.com/repos/altLab/biolab-incubator/statuses/{sha}
-subscribers_url: https://api.github.com/repos/altLab/biolab-incubator/subscribers
-subscription_url: https://api.github.com/repos/altLab/biolab-incubator/subscription
-svn_url: https://github.com/altLab/biolab-incubator
-tags_url: https://api.github.com/repos/altLab/biolab-incubator/tags
-teams_url: https://api.github.com/repos/altLab/biolab-incubator/teams
-topics: []
-trees_url: https://api.github.com/repos/altLab/biolab-incubator/git/trees{/sha}
-updated_at: '2021-05-31T18:50:25Z'
-url: https://api.github.com/repos/altLab/biolab-incubator
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/altLab/biolab-incubator/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/altLab/biolab-incubator/assignees{/user}
+  blobs_url: https://api.github.com/repos/altLab/biolab-incubator/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/altLab/biolab-incubator/branches{/branch}
+  clone_url: https://github.com/altLab/biolab-incubator.git
+  collaborators_url: https://api.github.com/repos/altLab/biolab-incubator/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/altLab/biolab-incubator/comments{/number}
+  commits_url: https://api.github.com/repos/altLab/biolab-incubator/commits{/sha}
+  compare_url: https://api.github.com/repos/altLab/biolab-incubator/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/altLab/biolab-incubator/contents/{+path}
+  contributors_url: https://api.github.com/repos/altLab/biolab-incubator/contributors
+  created_at: '2021-05-26T12:35:09Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/altLab/biolab-incubator/deployments
+  description: Files for bioLab equipment - Incubator
+  disabled: false
+  downloads_url: https://api.github.com/repos/altLab/biolab-incubator/downloads
+  events_url: https://api.github.com/repos/altLab/biolab-incubator/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/altLab/biolab-incubator/forks
+  full_name: altLab/biolab-incubator
+  git_commits_url: https://api.github.com/repos/altLab/biolab-incubator/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/altLab/biolab-incubator/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/altLab/biolab-incubator/git/tags{/sha}
+  git_url: git://github.com/altLab/biolab-incubator.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/altLab/biolab-incubator/hooks
+  html_url: https://github.com/altLab/biolab-incubator
+  id: 371027884
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/altLab/biolab-incubator/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/altLab/biolab-incubator/issues/events{/number}
+  issues_url: https://api.github.com/repos/altLab/biolab-incubator/issues{/number}
+  keys_url: https://api.github.com/repos/altLab/biolab-incubator/keys{/key_id}
+  labels_url: https://api.github.com/repos/altLab/biolab-incubator/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/altLab/biolab-incubator/languages
+  license: null
+  merges_url: https://api.github.com/repos/altLab/biolab-incubator/merges
+  milestones_url: https://api.github.com/repos/altLab/biolab-incubator/milestones{/number}
+  mirror_url: null
+  name: biolab-incubator
+  node_id: MDEwOlJlcG9zaXRvcnkzNzEwMjc4ODQ=
+  notifications_url: https://api.github.com/repos/altLab/biolab-incubator/notifications{?since,all,participating}
+  open_issues: 5
+  open_issues_count: 5
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5864781?v=4
+    events_url: https://api.github.com/users/altLab/events{/privacy}
+    followers_url: https://api.github.com/users/altLab/followers
+    following_url: https://api.github.com/users/altLab/following{/other_user}
+    gists_url: https://api.github.com/users/altLab/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/altLab
+    id: 5864781
+    login: altLab
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU4NjQ3ODE=
+    organizations_url: https://api.github.com/users/altLab/orgs
+    received_events_url: https://api.github.com/users/altLab/received_events
+    repos_url: https://api.github.com/users/altLab/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/altLab/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/altLab/subscriptions
+    type: Organization
+    url: https://api.github.com/users/altLab
+  private: false
+  pulls_url: https://api.github.com/repos/altLab/biolab-incubator/pulls{/number}
+  pushed_at: '2021-05-30T21:04:19Z'
+  releases_url: https://api.github.com/repos/altLab/biolab-incubator/releases{/id}
+  size: 2547
+  ssh_url: git@github.com:altLab/biolab-incubator.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/altLab/biolab-incubator/stargazers
+  statuses_url: https://api.github.com/repos/altLab/biolab-incubator/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/altLab/biolab-incubator/subscribers
+  subscription_url: https://api.github.com/repos/altLab/biolab-incubator/subscription
+  svn_url: https://github.com/altLab/biolab-incubator
+  tags_url: https://api.github.com/repos/altLab/biolab-incubator/tags
+  teams_url: https://api.github.com/repos/altLab/biolab-incubator/teams
+  topics: []
+  trees_url: https://api.github.com/repos/altLab/biolab-incubator/git/trees{/sha}
+  updated_at: '2021-05-31T18:50:25Z'
+  url: https://api.github.com/repos/altLab/biolab-incubator
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

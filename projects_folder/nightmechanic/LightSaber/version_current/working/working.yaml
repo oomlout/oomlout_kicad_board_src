@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/nightmechanic/LightSaber/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/nightmechanic/LightSaber/assignees{/user}
-blobs_url: https://api.github.com/repos/nightmechanic/LightSaber/git/blobs{/sha}
-branches_url: https://api.github.com/repos/nightmechanic/LightSaber/branches{/branch}
-clone_url: https://github.com/nightmechanic/LightSaber.git
-collaborators_url: https://api.github.com/repos/nightmechanic/LightSaber/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/nightmechanic/LightSaber/comments{/number}
-commits_url: https://api.github.com/repos/nightmechanic/LightSaber/commits{/sha}
-compare_url: https://api.github.com/repos/nightmechanic/LightSaber/compare/{base}...{head}
-contents_url: https://api.github.com/repos/nightmechanic/LightSaber/contents/{+path}
-contributors_url: https://api.github.com/repos/nightmechanic/LightSaber/contributors
-created_at: '2016-03-30T18:29:10Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/nightmechanic/LightSaber/deployments
-description: Auxiliary Board for the Kids' Light Saber
-disabled: false
-downloads_url: https://api.github.com/repos/nightmechanic/LightSaber/downloads
-events_url: https://api.github.com/repos/nightmechanic/LightSaber/events
 file_sch_flat: projects_flat/nightmechanic_lightsaber/version_current/working/working.sch
 file_sch_folder: projects_folder/nightmechanic/LightSaber/version_current/working/working.sch
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/nightmechanic/LightSaber/forks
-full_name: nightmechanic/LightSaber
-git_commits_url: https://api.github.com/repos/nightmechanic/LightSaber/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/nightmechanic/LightSaber/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/nightmechanic/LightSaber/git/tags{/sha}
-git_url: git://github.com/nightmechanic/LightSaber.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/nightmechanic/LightSaber/hooks
-html_url: https://github.com/nightmechanic/LightSaber
-id: 55087170
-is_template: false
-issue_comment_url: https://api.github.com/repos/nightmechanic/LightSaber/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/nightmechanic/LightSaber/issues/events{/number}
-issues_url: https://api.github.com/repos/nightmechanic/LightSaber/issues{/number}
-keys_url: https://api.github.com/repos/nightmechanic/LightSaber/keys{/key_id}
-labels_url: https://api.github.com/repos/nightmechanic/LightSaber/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/nightmechanic/LightSaber/languages
-license: null
-merges_url: https://api.github.com/repos/nightmechanic/LightSaber/merges
-milestones_url: https://api.github.com/repos/nightmechanic/LightSaber/milestones{/number}
-mirror_url: null
-name: LightSaber
-node_id: MDEwOlJlcG9zaXRvcnk1NTA4NzE3MA==
-notifications_url: https://api.github.com/repos/nightmechanic/LightSaber/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1254429?v=4
-  events_url: https://api.github.com/users/nightmechanic/events{/privacy}
-  followers_url: https://api.github.com/users/nightmechanic/followers
-  following_url: https://api.github.com/users/nightmechanic/following{/other_user}
-  gists_url: https://api.github.com/users/nightmechanic/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/nightmechanic
-  id: 1254429
-  login: nightmechanic
-  node_id: MDQ6VXNlcjEyNTQ0Mjk=
-  organizations_url: https://api.github.com/users/nightmechanic/orgs
-  received_events_url: https://api.github.com/users/nightmechanic/received_events
-  repos_url: https://api.github.com/users/nightmechanic/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/nightmechanic/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/nightmechanic/subscriptions
-  type: User
-  url: https://api.github.com/users/nightmechanic
-private: false
+links:
+  github_owner: nightmechanic
+  github_repo_name: LightSaber
+  github_src: https://github.com/nightmechanic/LightSaber
+  github_src_repo: https://github.com/nightmechanic/LightSaber
+  oomp_bot: nightmechanic_lightsaber
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/nightmechanic_lightsaber
+  oomp_doc: projects/nightmechanic_lightsaber/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/nightmechanic_lightsaber
+  oomp_src_flat: projects_flat/nightmechanic_lightsaber
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/nightmechanic_lightsaber
+  oomp_src_folder: projects_folder\nightmechanic\LightSaber\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\nightmechanic\LightSaber\version_current\working
+oomp_key: oomp_nightmechanic_lightsaber
+oomp_key_simple: nightmechanic_lightsaber
 projects_flat: projects_flat/nightmechanic_lightsaber/version_current/working
 projects_folder: projects_folder/nightmechanic/LightSaber/version_current/working
-pulls_url: https://api.github.com/repos/nightmechanic/LightSaber/pulls{/number}
-pushed_at: '2016-03-30T18:39:01Z'
-releases_url: https://api.github.com/repos/nightmechanic/LightSaber/releases{/id}
-size: 186
-ssh_url: git@github.com:nightmechanic/LightSaber.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/nightmechanic/LightSaber/stargazers
-statuses_url: https://api.github.com/repos/nightmechanic/LightSaber/statuses/{sha}
-subscribers_url: https://api.github.com/repos/nightmechanic/LightSaber/subscribers
-subscription_url: https://api.github.com/repos/nightmechanic/LightSaber/subscription
-svn_url: https://github.com/nightmechanic/LightSaber
-tags_url: https://api.github.com/repos/nightmechanic/LightSaber/tags
-teams_url: https://api.github.com/repos/nightmechanic/LightSaber/teams
-topics: []
-trees_url: https://api.github.com/repos/nightmechanic/LightSaber/git/trees{/sha}
-updated_at: '2016-03-30T18:31:00Z'
-url: https://api.github.com/repos/nightmechanic/LightSaber
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/nightmechanic/LightSaber/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/nightmechanic/LightSaber/assignees{/user}
+  blobs_url: https://api.github.com/repos/nightmechanic/LightSaber/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/nightmechanic/LightSaber/branches{/branch}
+  clone_url: https://github.com/nightmechanic/LightSaber.git
+  collaborators_url: https://api.github.com/repos/nightmechanic/LightSaber/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/nightmechanic/LightSaber/comments{/number}
+  commits_url: https://api.github.com/repos/nightmechanic/LightSaber/commits{/sha}
+  compare_url: https://api.github.com/repos/nightmechanic/LightSaber/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/nightmechanic/LightSaber/contents/{+path}
+  contributors_url: https://api.github.com/repos/nightmechanic/LightSaber/contributors
+  created_at: '2016-03-30T18:29:10Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/nightmechanic/LightSaber/deployments
+  description: Auxiliary Board for the Kids' Light Saber
+  disabled: false
+  downloads_url: https://api.github.com/repos/nightmechanic/LightSaber/downloads
+  events_url: https://api.github.com/repos/nightmechanic/LightSaber/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/nightmechanic/LightSaber/forks
+  full_name: nightmechanic/LightSaber
+  git_commits_url: https://api.github.com/repos/nightmechanic/LightSaber/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/nightmechanic/LightSaber/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/nightmechanic/LightSaber/git/tags{/sha}
+  git_url: git://github.com/nightmechanic/LightSaber.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/nightmechanic/LightSaber/hooks
+  html_url: https://github.com/nightmechanic/LightSaber
+  id: 55087170
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/nightmechanic/LightSaber/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/nightmechanic/LightSaber/issues/events{/number}
+  issues_url: https://api.github.com/repos/nightmechanic/LightSaber/issues{/number}
+  keys_url: https://api.github.com/repos/nightmechanic/LightSaber/keys{/key_id}
+  labels_url: https://api.github.com/repos/nightmechanic/LightSaber/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/nightmechanic/LightSaber/languages
+  license: null
+  merges_url: https://api.github.com/repos/nightmechanic/LightSaber/merges
+  milestones_url: https://api.github.com/repos/nightmechanic/LightSaber/milestones{/number}
+  mirror_url: null
+  name: LightSaber
+  node_id: MDEwOlJlcG9zaXRvcnk1NTA4NzE3MA==
+  notifications_url: https://api.github.com/repos/nightmechanic/LightSaber/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1254429?v=4
+    events_url: https://api.github.com/users/nightmechanic/events{/privacy}
+    followers_url: https://api.github.com/users/nightmechanic/followers
+    following_url: https://api.github.com/users/nightmechanic/following{/other_user}
+    gists_url: https://api.github.com/users/nightmechanic/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/nightmechanic
+    id: 1254429
+    login: nightmechanic
+    node_id: MDQ6VXNlcjEyNTQ0Mjk=
+    organizations_url: https://api.github.com/users/nightmechanic/orgs
+    received_events_url: https://api.github.com/users/nightmechanic/received_events
+    repos_url: https://api.github.com/users/nightmechanic/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/nightmechanic/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/nightmechanic/subscriptions
+    type: User
+    url: https://api.github.com/users/nightmechanic
+  private: false
+  pulls_url: https://api.github.com/repos/nightmechanic/LightSaber/pulls{/number}
+  pushed_at: '2016-03-30T18:39:01Z'
+  releases_url: https://api.github.com/repos/nightmechanic/LightSaber/releases{/id}
+  size: 186
+  ssh_url: git@github.com:nightmechanic/LightSaber.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/nightmechanic/LightSaber/stargazers
+  statuses_url: https://api.github.com/repos/nightmechanic/LightSaber/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/nightmechanic/LightSaber/subscribers
+  subscription_url: https://api.github.com/repos/nightmechanic/LightSaber/subscription
+  svn_url: https://github.com/nightmechanic/LightSaber
+  tags_url: https://api.github.com/repos/nightmechanic/LightSaber/tags
+  teams_url: https://api.github.com/repos/nightmechanic/LightSaber/teams
+  topics: []
+  trees_url: https://api.github.com/repos/nightmechanic/LightSaber/git/trees{/sha}
+  updated_at: '2016-03-30T18:31:00Z'
+  url: https://api.github.com/repos/nightmechanic/LightSaber
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

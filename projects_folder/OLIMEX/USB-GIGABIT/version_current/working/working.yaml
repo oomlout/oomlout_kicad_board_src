@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/branches{/branch}
-clone_url: https://github.com/OLIMEX/USB-GIGABIT.git
-collaborators_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/contributors
-created_at: '2019-10-24T10:41:38Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/deployments
-description: USB 1.1, USB 2.0, USB 3.0 to Ethernet 10/100/1000Mbit converter
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/downloads
-events_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/events
-fork: false
-forks: 4
-forks_count: 4
-forks_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/forks
-full_name: OLIMEX/USB-GIGABIT
-git_commits_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/git/tags{/sha}
-git_url: git://github.com/OLIMEX/USB-GIGABIT.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/hooks
-html_url: https://github.com/OLIMEX/USB-GIGABIT
-id: 217274907
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/merges
-milestones_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/milestones{/number}
-mirror_url: null
-name: USB-GIGABIT
-node_id: MDEwOlJlcG9zaXRvcnkyMTcyNzQ5MDc=
-notifications_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: USB-GIGABIT
+  github_src: https://github.com/OLIMEX/USB-GIGABIT
+  github_src_repo: https://github.com/OLIMEX/USB-GIGABIT
+  oomp_bot: olimex_usb_gigabit
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/olimex_usb_gigabit
+  oomp_doc: projects/olimex_usb_gigabit/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/olimex_usb_gigabit
+  oomp_src_flat: projects_flat/olimex_usb_gigabit
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/olimex_usb_gigabit
+  oomp_src_folder: projects_folder\OLIMEX\USB-GIGABIT\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\OLIMEX\USB-GIGABIT\version_current\working
+oomp_key: oomp_olimex_usb_gigabit
+oomp_key_simple: olimex_usb_gigabit
 projects_flat: projects_flat/olimex_usb_gigabit/version_current/working
 projects_folder: projects_folder/OLIMEX/USB-GIGABIT/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/pulls{/number}
-pushed_at: '2019-10-24T10:51:50Z'
-releases_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/releases{/id}
-size: 883
-ssh_url: git@github.com:OLIMEX/USB-GIGABIT.git
-stargazers_count: 6
-stargazers_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/subscription
-svn_url: https://github.com/OLIMEX/USB-GIGABIT
-tags_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/tags
-teams_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/git/trees{/sha}
-updated_at: '2022-05-08T10:39:23Z'
-url: https://api.github.com/repos/OLIMEX/USB-GIGABIT
-visibility: public
-watchers: 6
-watchers_count: 6
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/branches{/branch}
+  clone_url: https://github.com/OLIMEX/USB-GIGABIT.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/contributors
+  created_at: '2019-10-24T10:41:38Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/deployments
+  description: USB 1.1, USB 2.0, USB 3.0 to Ethernet 10/100/1000Mbit converter
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/downloads
+  events_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/events
+  fork: false
+  forks: 4
+  forks_count: 4
+  forks_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/forks
+  full_name: OLIMEX/USB-GIGABIT
+  git_commits_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/USB-GIGABIT.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/hooks
+  html_url: https://github.com/OLIMEX/USB-GIGABIT
+  id: 217274907
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/milestones{/number}
+  mirror_url: null
+  name: USB-GIGABIT
+  node_id: MDEwOlJlcG9zaXRvcnkyMTcyNzQ5MDc=
+  notifications_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/pulls{/number}
+  pushed_at: '2019-10-24T10:51:50Z'
+  releases_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/releases{/id}
+  size: 883
+  ssh_url: git@github.com:OLIMEX/USB-GIGABIT.git
+  stargazers_count: 6
+  stargazers_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/subscription
+  svn_url: https://github.com/OLIMEX/USB-GIGABIT
+  tags_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/tags
+  teams_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/USB-GIGABIT/git/trees{/sha}
+  updated_at: '2022-05-08T10:39:23Z'
+  url: https://api.github.com/repos/OLIMEX/USB-GIGABIT
+  visibility: public
+  watchers: 6
+  watchers_count: 6
+  web_commit_signoff_required: false

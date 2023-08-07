@@ -1,106 +1,123 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/branches{/branch}
-clone_url: https://github.com/sparkfun/Large_Digit_Driver.git
-collaborators_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/contributors
-created_at: '2015-01-26T03:41:55Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/deployments
-description: A chainable controller backpack for the large 6" 7-segment displays.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/downloads
-events_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_large_digit_driver/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/Large_Digit_Driver/version_current/working/working.brd
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/forks
-full_name: sparkfun/Large_Digit_Driver
-git_commits_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/git/tags{/sha}
-git_url: git://github.com/sparkfun/Large_Digit_Driver.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/hooks
-html_url: https://github.com/sparkfun/Large_Digit_Driver
-id: 29843678
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/merges
-milestones_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/milestones{/number}
-mirror_url: null
-name: Large_Digit_Driver
-node_id: MDEwOlJlcG9zaXRvcnkyOTg0MzY3OA==
-notifications_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Large_Digit_Driver
+  github_src: https://github.com/sparkfun/Large_Digit_Driver
+  github_src_repo: https://github.com/sparkfun/Large_Digit_Driver
+  oomp_bot: sparkfun_large_digit_driver
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_large_digit_driver
+  oomp_doc: projects/sparkfun_large_digit_driver/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_large_digit_driver
+  oomp_src_flat: projects_flat/sparkfun_large_digit_driver
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_large_digit_driver
+  oomp_src_folder: projects_folder\sparkfun\Large_Digit_Driver\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\Large_Digit_Driver\version_current\working
+oomp_key: oomp_sparkfun_large_digit_driver
+oomp_key_simple: sparkfun_large_digit_driver
+projects_flat: projects_flat/sparkfun_large_digit_driver/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_large_digit_driver/version_current/working
 projects_folder: projects_folder/sparkfun/Large_Digit_Driver/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/pulls{/number}
-pushed_at: '2015-06-26T15:55:47Z'
-releases_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/releases{/id}
-size: 384
-ssh_url: git@github.com:sparkfun/Large_Digit_Driver.git
-stargazers_count: 11
-stargazers_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/subscription
-svn_url: https://github.com/sparkfun/Large_Digit_Driver
-tags_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/tags
-teams_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/git/trees{/sha}
-updated_at: '2023-02-07T18:38:03Z'
-url: https://api.github.com/repos/sparkfun/Large_Digit_Driver
-visibility: public
-watchers: 11
-watchers_count: 11
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/branches{/branch}
+  clone_url: https://github.com/sparkfun/Large_Digit_Driver.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/contributors
+  created_at: '2015-01-26T03:41:55Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/deployments
+  description: A chainable controller backpack for the large 6" 7-segment displays.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/downloads
+  events_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/forks
+  full_name: sparkfun/Large_Digit_Driver
+  git_commits_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Large_Digit_Driver.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/hooks
+  html_url: https://github.com/sparkfun/Large_Digit_Driver
+  id: 29843678
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/milestones{/number}
+  mirror_url: null
+  name: Large_Digit_Driver
+  node_id: MDEwOlJlcG9zaXRvcnkyOTg0MzY3OA==
+  notifications_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/pulls{/number}
+  pushed_at: '2015-06-26T15:55:47Z'
+  releases_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/releases{/id}
+  size: 384
+  ssh_url: git@github.com:sparkfun/Large_Digit_Driver.git
+  stargazers_count: 11
+  stargazers_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/subscription
+  svn_url: https://github.com/sparkfun/Large_Digit_Driver
+  tags_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/tags
+  teams_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/Large_Digit_Driver/git/trees{/sha}
+  updated_at: '2023-02-07T18:38:03Z'
+  url: https://api.github.com/repos/sparkfun/Large_Digit_Driver
+  visibility: public
+  watchers: 11
+  watchers_count: 11
+  web_commit_signoff_required: false

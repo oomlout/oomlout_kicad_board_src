@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/s-light/kicad-templates/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/s-light/kicad-templates/assignees{/user}
-blobs_url: https://api.github.com/repos/s-light/kicad-templates/git/blobs{/sha}
-branches_url: https://api.github.com/repos/s-light/kicad-templates/branches{/branch}
-clone_url: https://github.com/s-light/kicad-templates.git
-collaborators_url: https://api.github.com/repos/s-light/kicad-templates/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/s-light/kicad-templates/comments{/number}
-commits_url: https://api.github.com/repos/s-light/kicad-templates/commits{/sha}
-compare_url: https://api.github.com/repos/s-light/kicad-templates/compare/{base}...{head}
-contents_url: https://api.github.com/repos/s-light/kicad-templates/contents/{+path}
-contributors_url: https://api.github.com/repos/s-light/kicad-templates/contributors
-created_at: '2020-02-04T23:05:41Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/s-light/kicad-templates/deployments
-description: KiCad project templates
-disabled: false
-downloads_url: https://api.github.com/repos/s-light/kicad-templates/downloads
-events_url: https://api.github.com/repos/s-light/kicad-templates/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/s-light/kicad-templates/forks
-full_name: s-light/kicad-templates
-git_commits_url: https://api.github.com/repos/s-light/kicad-templates/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/s-light/kicad-templates/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/s-light/kicad-templates/git/tags{/sha}
-git_url: git://github.com/s-light/kicad-templates.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/s-light/kicad-templates/hooks
-html_url: https://github.com/s-light/kicad-templates
-id: 238325341
-is_template: false
-issue_comment_url: https://api.github.com/repos/s-light/kicad-templates/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/s-light/kicad-templates/issues/events{/number}
-issues_url: https://api.github.com/repos/s-light/kicad-templates/issues{/number}
-keys_url: https://api.github.com/repos/s-light/kicad-templates/keys{/key_id}
-labels_url: https://api.github.com/repos/s-light/kicad-templates/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/s-light/kicad-templates/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/s-light/kicad-templates/merges
-milestones_url: https://api.github.com/repos/s-light/kicad-templates/milestones{/number}
-mirror_url: null
-name: kicad-templates
-node_id: MDEwOlJlcG9zaXRvcnkyMzgzMjUzNDE=
-notifications_url: https://api.github.com/repos/s-light/kicad-templates/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1340319?v=4
-  events_url: https://api.github.com/users/s-light/events{/privacy}
-  followers_url: https://api.github.com/users/s-light/followers
-  following_url: https://api.github.com/users/s-light/following{/other_user}
-  gists_url: https://api.github.com/users/s-light/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/s-light
-  id: 1340319
-  login: s-light
-  node_id: MDQ6VXNlcjEzNDAzMTk=
-  organizations_url: https://api.github.com/users/s-light/orgs
-  received_events_url: https://api.github.com/users/s-light/received_events
-  repos_url: https://api.github.com/users/s-light/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/s-light/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/s-light/subscriptions
-  type: User
-  url: https://api.github.com/users/s-light
-private: false
+links:
+  github_owner: s-light
+  github_repo_name: kicad-templates
+  github_src: https://github.com/s-light/kicad-templates
+  github_src_repo: https://github.com/s-light/kicad-templates
+  oomp_bot: s_light_kicad_templates
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/s_light_kicad_templates
+  oomp_doc: projects/s_light_kicad_templates/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/s_light_kicad_templates
+  oomp_src_flat: projects_flat/s_light_kicad_templates
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/s_light_kicad_templates
+  oomp_src_folder: projects_folder\s-light\kicad-templates\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\s-light\kicad-templates\version_current\working
+oomp_key: oomp_s_light_kicad_templates
+oomp_key_simple: s_light_kicad_templates
 projects_flat: projects_flat/s_light_kicad_templates/version_current/working
 projects_folder: projects_folder/s-light/kicad-templates/version_current/working
-pulls_url: https://api.github.com/repos/s-light/kicad-templates/pulls{/number}
-pushed_at: '2020-09-21T05:51:20Z'
-releases_url: https://api.github.com/repos/s-light/kicad-templates/releases{/id}
-size: 1637
-ssh_url: git@github.com:s-light/kicad-templates.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/s-light/kicad-templates/stargazers
-statuses_url: https://api.github.com/repos/s-light/kicad-templates/statuses/{sha}
-subscribers_url: https://api.github.com/repos/s-light/kicad-templates/subscribers
-subscription_url: https://api.github.com/repos/s-light/kicad-templates/subscription
-svn_url: https://github.com/s-light/kicad-templates
-tags_url: https://api.github.com/repos/s-light/kicad-templates/tags
-teams_url: https://api.github.com/repos/s-light/kicad-templates/teams
-topics: []
-trees_url: https://api.github.com/repos/s-light/kicad-templates/git/trees{/sha}
-updated_at: '2020-09-21T05:51:24Z'
-url: https://api.github.com/repos/s-light/kicad-templates
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/s-light/kicad-templates/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/s-light/kicad-templates/assignees{/user}
+  blobs_url: https://api.github.com/repos/s-light/kicad-templates/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/s-light/kicad-templates/branches{/branch}
+  clone_url: https://github.com/s-light/kicad-templates.git
+  collaborators_url: https://api.github.com/repos/s-light/kicad-templates/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/s-light/kicad-templates/comments{/number}
+  commits_url: https://api.github.com/repos/s-light/kicad-templates/commits{/sha}
+  compare_url: https://api.github.com/repos/s-light/kicad-templates/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/s-light/kicad-templates/contents/{+path}
+  contributors_url: https://api.github.com/repos/s-light/kicad-templates/contributors
+  created_at: '2020-02-04T23:05:41Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/s-light/kicad-templates/deployments
+  description: KiCad project templates
+  disabled: false
+  downloads_url: https://api.github.com/repos/s-light/kicad-templates/downloads
+  events_url: https://api.github.com/repos/s-light/kicad-templates/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/s-light/kicad-templates/forks
+  full_name: s-light/kicad-templates
+  git_commits_url: https://api.github.com/repos/s-light/kicad-templates/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/s-light/kicad-templates/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/s-light/kicad-templates/git/tags{/sha}
+  git_url: git://github.com/s-light/kicad-templates.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/s-light/kicad-templates/hooks
+  html_url: https://github.com/s-light/kicad-templates
+  id: 238325341
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/s-light/kicad-templates/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/s-light/kicad-templates/issues/events{/number}
+  issues_url: https://api.github.com/repos/s-light/kicad-templates/issues{/number}
+  keys_url: https://api.github.com/repos/s-light/kicad-templates/keys{/key_id}
+  labels_url: https://api.github.com/repos/s-light/kicad-templates/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/s-light/kicad-templates/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/s-light/kicad-templates/merges
+  milestones_url: https://api.github.com/repos/s-light/kicad-templates/milestones{/number}
+  mirror_url: null
+  name: kicad-templates
+  node_id: MDEwOlJlcG9zaXRvcnkyMzgzMjUzNDE=
+  notifications_url: https://api.github.com/repos/s-light/kicad-templates/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1340319?v=4
+    events_url: https://api.github.com/users/s-light/events{/privacy}
+    followers_url: https://api.github.com/users/s-light/followers
+    following_url: https://api.github.com/users/s-light/following{/other_user}
+    gists_url: https://api.github.com/users/s-light/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/s-light
+    id: 1340319
+    login: s-light
+    node_id: MDQ6VXNlcjEzNDAzMTk=
+    organizations_url: https://api.github.com/users/s-light/orgs
+    received_events_url: https://api.github.com/users/s-light/received_events
+    repos_url: https://api.github.com/users/s-light/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/s-light/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/s-light/subscriptions
+    type: User
+    url: https://api.github.com/users/s-light
+  private: false
+  pulls_url: https://api.github.com/repos/s-light/kicad-templates/pulls{/number}
+  pushed_at: '2020-09-21T05:51:20Z'
+  releases_url: https://api.github.com/repos/s-light/kicad-templates/releases{/id}
+  size: 1637
+  ssh_url: git@github.com:s-light/kicad-templates.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/s-light/kicad-templates/stargazers
+  statuses_url: https://api.github.com/repos/s-light/kicad-templates/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/s-light/kicad-templates/subscribers
+  subscription_url: https://api.github.com/repos/s-light/kicad-templates/subscription
+  svn_url: https://github.com/s-light/kicad-templates
+  tags_url: https://api.github.com/repos/s-light/kicad-templates/tags
+  teams_url: https://api.github.com/repos/s-light/kicad-templates/teams
+  topics: []
+  trees_url: https://api.github.com/repos/s-light/kicad-templates/git/trees{/sha}
+  updated_at: '2020-09-21T05:51:24Z'
+  url: https://api.github.com/repos/s-light/kicad-templates
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

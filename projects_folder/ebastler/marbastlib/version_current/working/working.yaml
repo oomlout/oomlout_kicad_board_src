@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ebastler/marbastlib/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ebastler/marbastlib/assignees{/user}
-blobs_url: https://api.github.com/repos/ebastler/marbastlib/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ebastler/marbastlib/branches{/branch}
-clone_url: https://github.com/ebastler/marbastlib.git
-collaborators_url: https://api.github.com/repos/ebastler/marbastlib/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ebastler/marbastlib/comments{/number}
-commits_url: https://api.github.com/repos/ebastler/marbastlib/commits{/sha}
-compare_url: https://api.github.com/repos/ebastler/marbastlib/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ebastler/marbastlib/contents/{+path}
-contributors_url: https://api.github.com/repos/ebastler/marbastlib/contributors
-created_at: '2021-03-10T18:18:16Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/ebastler/marbastlib/deployments
-description: A library collecting MX and Choc style footprints, as well as various
-  other parts used to design custom keyboards
-disabled: false
-downloads_url: https://api.github.com/repos/ebastler/marbastlib/downloads
-events_url: https://api.github.com/repos/ebastler/marbastlib/events
-fork: false
-forks: 26
-forks_count: 26
-forks_url: https://api.github.com/repos/ebastler/marbastlib/forks
-full_name: ebastler/marbastlib
-git_commits_url: https://api.github.com/repos/ebastler/marbastlib/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ebastler/marbastlib/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ebastler/marbastlib/git/tags{/sha}
-git_url: git://github.com/ebastler/marbastlib.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ebastler/marbastlib/hooks
-html_url: https://github.com/ebastler/marbastlib
-id: 346450945
-is_template: false
-issue_comment_url: https://api.github.com/repos/ebastler/marbastlib/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ebastler/marbastlib/issues/events{/number}
-issues_url: https://api.github.com/repos/ebastler/marbastlib/issues{/number}
-keys_url: https://api.github.com/repos/ebastler/marbastlib/keys{/key_id}
-labels_url: https://api.github.com/repos/ebastler/marbastlib/labels{/name}
-language: Shell
-languages_url: https://api.github.com/repos/ebastler/marbastlib/languages
-license:
-  key: cern-ohl-p-2.0
-  name: CERN Open Hardware Licence Version 2 - Permissive
-  node_id: L_kgCuY2Vybi1vaGwtcC0yLjA
-  spdx_id: CERN-OHL-P-2.0
-  url: https://api.github.com/licenses/cern-ohl-p-2.0
-merges_url: https://api.github.com/repos/ebastler/marbastlib/merges
-milestones_url: https://api.github.com/repos/ebastler/marbastlib/milestones{/number}
-mirror_url: null
-name: marbastlib
-node_id: MDEwOlJlcG9zaXRvcnkzNDY0NTA5NDU=
-notifications_url: https://api.github.com/repos/ebastler/marbastlib/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/22500643?v=4
-  events_url: https://api.github.com/users/ebastler/events{/privacy}
-  followers_url: https://api.github.com/users/ebastler/followers
-  following_url: https://api.github.com/users/ebastler/following{/other_user}
-  gists_url: https://api.github.com/users/ebastler/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ebastler
-  id: 22500643
-  login: ebastler
-  node_id: MDQ6VXNlcjIyNTAwNjQz
-  organizations_url: https://api.github.com/users/ebastler/orgs
-  received_events_url: https://api.github.com/users/ebastler/received_events
-  repos_url: https://api.github.com/users/ebastler/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ebastler/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ebastler/subscriptions
-  type: User
-  url: https://api.github.com/users/ebastler
-private: false
+links:
+  github_owner: ebastler
+  github_repo_name: marbastlib
+  github_src: https://github.com/ebastler/marbastlib
+  github_src_repo: https://github.com/ebastler/marbastlib
+  oomp_bot: ebastler_marbastlib
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/ebastler_marbastlib
+  oomp_doc: projects/ebastler_marbastlib/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/ebastler_marbastlib
+  oomp_src_flat: projects_flat/ebastler_marbastlib
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/ebastler_marbastlib
+  oomp_src_folder: projects_folder\ebastler\marbastlib\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ebastler\marbastlib\version_current\working
+oomp_key: oomp_ebastler_marbastlib
+oomp_key_simple: ebastler_marbastlib
 projects_flat: projects_flat/ebastler_marbastlib/version_current/working
 projects_folder: projects_folder/ebastler/marbastlib/version_current/working
-pulls_url: https://api.github.com/repos/ebastler/marbastlib/pulls{/number}
-pushed_at: '2023-07-06T23:20:58Z'
-releases_url: https://api.github.com/repos/ebastler/marbastlib/releases{/id}
-size: 4206
-ssh_url: git@github.com:ebastler/marbastlib.git
-stargazers_count: 188
-stargazers_url: https://api.github.com/repos/ebastler/marbastlib/stargazers
-statuses_url: https://api.github.com/repos/ebastler/marbastlib/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ebastler/marbastlib/subscribers
-subscription_url: https://api.github.com/repos/ebastler/marbastlib/subscription
-svn_url: https://github.com/ebastler/marbastlib
-tags_url: https://api.github.com/repos/ebastler/marbastlib/tags
-teams_url: https://api.github.com/repos/ebastler/marbastlib/teams
-topics: []
-trees_url: https://api.github.com/repos/ebastler/marbastlib/git/trees{/sha}
-updated_at: '2023-07-29T08:01:49Z'
-url: https://api.github.com/repos/ebastler/marbastlib
-visibility: public
-watchers: 188
-watchers_count: 188
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ebastler/marbastlib/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ebastler/marbastlib/assignees{/user}
+  blobs_url: https://api.github.com/repos/ebastler/marbastlib/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ebastler/marbastlib/branches{/branch}
+  clone_url: https://github.com/ebastler/marbastlib.git
+  collaborators_url: https://api.github.com/repos/ebastler/marbastlib/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ebastler/marbastlib/comments{/number}
+  commits_url: https://api.github.com/repos/ebastler/marbastlib/commits{/sha}
+  compare_url: https://api.github.com/repos/ebastler/marbastlib/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ebastler/marbastlib/contents/{+path}
+  contributors_url: https://api.github.com/repos/ebastler/marbastlib/contributors
+  created_at: '2021-03-10T18:18:16Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/ebastler/marbastlib/deployments
+  description: A library collecting MX and Choc style footprints, as well as various
+    other parts used to design custom keyboards
+  disabled: false
+  downloads_url: https://api.github.com/repos/ebastler/marbastlib/downloads
+  events_url: https://api.github.com/repos/ebastler/marbastlib/events
+  fork: false
+  forks: 26
+  forks_count: 26
+  forks_url: https://api.github.com/repos/ebastler/marbastlib/forks
+  full_name: ebastler/marbastlib
+  git_commits_url: https://api.github.com/repos/ebastler/marbastlib/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ebastler/marbastlib/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ebastler/marbastlib/git/tags{/sha}
+  git_url: git://github.com/ebastler/marbastlib.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ebastler/marbastlib/hooks
+  html_url: https://github.com/ebastler/marbastlib
+  id: 346450945
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ebastler/marbastlib/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ebastler/marbastlib/issues/events{/number}
+  issues_url: https://api.github.com/repos/ebastler/marbastlib/issues{/number}
+  keys_url: https://api.github.com/repos/ebastler/marbastlib/keys{/key_id}
+  labels_url: https://api.github.com/repos/ebastler/marbastlib/labels{/name}
+  language: Shell
+  languages_url: https://api.github.com/repos/ebastler/marbastlib/languages
+  license:
+    key: cern-ohl-p-2.0
+    name: CERN Open Hardware Licence Version 2 - Permissive
+    node_id: L_kgCuY2Vybi1vaGwtcC0yLjA
+    spdx_id: CERN-OHL-P-2.0
+    url: https://api.github.com/licenses/cern-ohl-p-2.0
+  merges_url: https://api.github.com/repos/ebastler/marbastlib/merges
+  milestones_url: https://api.github.com/repos/ebastler/marbastlib/milestones{/number}
+  mirror_url: null
+  name: marbastlib
+  node_id: MDEwOlJlcG9zaXRvcnkzNDY0NTA5NDU=
+  notifications_url: https://api.github.com/repos/ebastler/marbastlib/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/22500643?v=4
+    events_url: https://api.github.com/users/ebastler/events{/privacy}
+    followers_url: https://api.github.com/users/ebastler/followers
+    following_url: https://api.github.com/users/ebastler/following{/other_user}
+    gists_url: https://api.github.com/users/ebastler/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ebastler
+    id: 22500643
+    login: ebastler
+    node_id: MDQ6VXNlcjIyNTAwNjQz
+    organizations_url: https://api.github.com/users/ebastler/orgs
+    received_events_url: https://api.github.com/users/ebastler/received_events
+    repos_url: https://api.github.com/users/ebastler/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ebastler/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ebastler/subscriptions
+    type: User
+    url: https://api.github.com/users/ebastler
+  private: false
+  pulls_url: https://api.github.com/repos/ebastler/marbastlib/pulls{/number}
+  pushed_at: '2023-07-06T23:20:58Z'
+  releases_url: https://api.github.com/repos/ebastler/marbastlib/releases{/id}
+  size: 4206
+  ssh_url: git@github.com:ebastler/marbastlib.git
+  stargazers_count: 191
+  stargazers_url: https://api.github.com/repos/ebastler/marbastlib/stargazers
+  statuses_url: https://api.github.com/repos/ebastler/marbastlib/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ebastler/marbastlib/subscribers
+  subscription_url: https://api.github.com/repos/ebastler/marbastlib/subscription
+  svn_url: https://github.com/ebastler/marbastlib
+  tags_url: https://api.github.com/repos/ebastler/marbastlib/tags
+  teams_url: https://api.github.com/repos/ebastler/marbastlib/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ebastler/marbastlib/git/trees{/sha}
+  updated_at: '2023-08-06T15:58:56Z'
+  url: https://api.github.com/repos/ebastler/marbastlib
+  visibility: public
+  watchers: 191
+  watchers_count: 191
+  web_commit_signoff_required: false

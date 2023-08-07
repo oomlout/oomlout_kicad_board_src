@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/assignees{/user}
-blobs_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/git/blobs{/sha}
-branches_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/branches{/branch}
-clone_url: https://github.com/UMONS-GFA/kicad-gigalib.git
-collaborators_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/comments{/number}
-commits_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/commits{/sha}
-compare_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/compare/{base}...{head}
-contents_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/contents/{+path}
-contributors_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/contributors
-created_at: '2017-11-06T13:29:21Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/deployments
-description: Everything you always wanted.
-disabled: false
-downloads_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/downloads
-events_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/forks
-full_name: UMONS-GFA/kicad-gigalib
-git_commits_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/git/tags{/sha}
-git_url: git://github.com/UMONS-GFA/kicad-gigalib.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/hooks
-html_url: https://github.com/UMONS-GFA/kicad-gigalib
-id: 109698926
-is_template: false
-issue_comment_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/issues/events{/number}
-issues_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/issues{/number}
-keys_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/keys{/key_id}
-labels_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/labels{/name}
-language: PostScript
-languages_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/merges
-milestones_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/milestones{/number}
-mirror_url: null
-name: kicad-gigalib
-node_id: MDEwOlJlcG9zaXRvcnkxMDk2OTg5MjY=
-notifications_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5850580?v=4
-  events_url: https://api.github.com/users/UMONS-GFA/events{/privacy}
-  followers_url: https://api.github.com/users/UMONS-GFA/followers
-  following_url: https://api.github.com/users/UMONS-GFA/following{/other_user}
-  gists_url: https://api.github.com/users/UMONS-GFA/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/UMONS-GFA
-  id: 5850580
-  login: UMONS-GFA
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU4NTA1ODA=
-  organizations_url: https://api.github.com/users/UMONS-GFA/orgs
-  received_events_url: https://api.github.com/users/UMONS-GFA/received_events
-  repos_url: https://api.github.com/users/UMONS-GFA/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/UMONS-GFA/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/UMONS-GFA/subscriptions
-  type: Organization
-  url: https://api.github.com/users/UMONS-GFA
-private: false
+links:
+  github_owner: UMONS-GFA
+  github_repo_name: kicad-gigalib
+  github_src: https://github.com/UMONS-GFA/kicad-gigalib
+  github_src_repo: https://github.com/UMONS-GFA/kicad-gigalib
+  oomp_bot: projects_umons_gfa_kicad_gigalib
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_umons_gfa_kicad_gigalib
+  oomp_doc: projects/projects_flat_umons_gfa_kicad_gigalib/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_umons_gfa_kicad_gigalib
+  oomp_src_flat: projects_flat/projects_flat_umons_gfa_kicad_gigalib
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_umons_gfa_kicad_gigalib
+  oomp_src_folder: projects_flat\umons_gfa_kicad_gigalib\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\umons_gfa_kicad_gigalib\version_current\working
+oomp_key: oomp_projects_flat_umons_gfa_kicad_gigalib
+oomp_key_simple: projects_flat_umons_gfa_kicad_gigalib
 projects_flat: projects_flat/umons_gfa_kicad_gigalib/version_current/working
 projects_folder: projects_folder/UMONS-GFA/kicad-gigalib/version_current/working
-pulls_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/pulls{/number}
-pushed_at: '2016-03-26T12:37:34Z'
-releases_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/releases{/id}
-size: 250620
-ssh_url: git@github.com:UMONS-GFA/kicad-gigalib.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/stargazers
-statuses_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/statuses/{sha}
-subscribers_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/subscribers
-subscription_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/subscription
-svn_url: https://github.com/UMONS-GFA/kicad-gigalib
-tags_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/tags
-teams_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/teams
-topics: []
-trees_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/git/trees{/sha}
-updated_at: '2017-11-06T13:30:02Z'
-url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/assignees{/user}
+  blobs_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/branches{/branch}
+  clone_url: https://github.com/UMONS-GFA/kicad-gigalib.git
+  collaborators_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/comments{/number}
+  commits_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/commits{/sha}
+  compare_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/contents/{+path}
+  contributors_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/contributors
+  created_at: '2017-11-06T13:29:21Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/deployments
+  description: Everything you always wanted.
+  disabled: false
+  downloads_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/downloads
+  events_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/forks
+  full_name: UMONS-GFA/kicad-gigalib
+  git_commits_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/git/tags{/sha}
+  git_url: git://github.com/UMONS-GFA/kicad-gigalib.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/hooks
+  html_url: https://github.com/UMONS-GFA/kicad-gigalib
+  id: 109698926
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/issues/events{/number}
+  issues_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/issues{/number}
+  keys_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/keys{/key_id}
+  labels_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/labels{/name}
+  language: PostScript
+  languages_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/merges
+  milestones_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/milestones{/number}
+  mirror_url: null
+  name: kicad-gigalib
+  node_id: MDEwOlJlcG9zaXRvcnkxMDk2OTg5MjY=
+  notifications_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5850580?v=4
+    events_url: https://api.github.com/users/UMONS-GFA/events{/privacy}
+    followers_url: https://api.github.com/users/UMONS-GFA/followers
+    following_url: https://api.github.com/users/UMONS-GFA/following{/other_user}
+    gists_url: https://api.github.com/users/UMONS-GFA/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/UMONS-GFA
+    id: 5850580
+    login: UMONS-GFA
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU4NTA1ODA=
+    organizations_url: https://api.github.com/users/UMONS-GFA/orgs
+    received_events_url: https://api.github.com/users/UMONS-GFA/received_events
+    repos_url: https://api.github.com/users/UMONS-GFA/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/UMONS-GFA/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/UMONS-GFA/subscriptions
+    type: Organization
+    url: https://api.github.com/users/UMONS-GFA
+  private: false
+  pulls_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/pulls{/number}
+  pushed_at: '2016-03-26T12:37:34Z'
+  releases_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/releases{/id}
+  size: 250620
+  ssh_url: git@github.com:UMONS-GFA/kicad-gigalib.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/stargazers
+  statuses_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/subscribers
+  subscription_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/subscription
+  svn_url: https://github.com/UMONS-GFA/kicad-gigalib
+  tags_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/tags
+  teams_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/teams
+  topics: []
+  trees_url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib/git/trees{/sha}
+  updated_at: '2017-11-06T13:30:02Z'
+  url: https://api.github.com/repos/UMONS-GFA/kicad-gigalib
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

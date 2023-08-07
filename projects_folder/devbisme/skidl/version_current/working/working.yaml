@@ -1,110 +1,126 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/devbisme/skidl/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/devbisme/skidl/assignees{/user}
-blobs_url: https://api.github.com/repos/devbisme/skidl/git/blobs{/sha}
-branches_url: https://api.github.com/repos/devbisme/skidl/branches{/branch}
-clone_url: https://github.com/devbisme/skidl.git
-collaborators_url: https://api.github.com/repos/devbisme/skidl/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/devbisme/skidl/comments{/number}
-commits_url: https://api.github.com/repos/devbisme/skidl/commits{/sha}
-compare_url: https://api.github.com/repos/devbisme/skidl/compare/{base}...{head}
-contents_url: https://api.github.com/repos/devbisme/skidl/contents/{+path}
-contributors_url: https://api.github.com/repos/devbisme/skidl/contributors
-created_at: '2016-08-16T19:21:55Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/devbisme/skidl/deployments
-description: SKiDL is a module that extends Python with the ability to design electronic
-  circuits.
-disabled: false
-downloads_url: https://api.github.com/repos/devbisme/skidl/downloads
-events_url: https://api.github.com/repos/devbisme/skidl/events
-fork: false
-forks: 110
-forks_count: 110
-forks_url: https://api.github.com/repos/devbisme/skidl/forks
-full_name: devbisme/skidl
-git_commits_url: https://api.github.com/repos/devbisme/skidl/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/devbisme/skidl/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/devbisme/skidl/git/tags{/sha}
-git_url: git://github.com/devbisme/skidl.git
-has_discussions: true
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/devbisme/skidl/hooks
-html_url: https://github.com/devbisme/skidl
-id: 65847289
-is_template: false
-issue_comment_url: https://api.github.com/repos/devbisme/skidl/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/devbisme/skidl/issues/events{/number}
-issues_url: https://api.github.com/repos/devbisme/skidl/issues{/number}
-keys_url: https://api.github.com/repos/devbisme/skidl/keys{/key_id}
-labels_url: https://api.github.com/repos/devbisme/skidl/labels{/name}
-language: Jupyter Notebook
-languages_url: https://api.github.com/repos/devbisme/skidl/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/devbisme/skidl/merges
-milestones_url: https://api.github.com/repos/devbisme/skidl/milestones{/number}
-mirror_url: null
-name: skidl
-node_id: MDEwOlJlcG9zaXRvcnk2NTg0NzI4OQ==
-notifications_url: https://api.github.com/repos/devbisme/skidl/notifications{?since,all,participating}
-open_issues: 40
-open_issues_count: 40
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/666592?v=4
-  events_url: https://api.github.com/users/devbisme/events{/privacy}
-  followers_url: https://api.github.com/users/devbisme/followers
-  following_url: https://api.github.com/users/devbisme/following{/other_user}
-  gists_url: https://api.github.com/users/devbisme/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/devbisme
-  id: 666592
-  login: devbisme
-  node_id: MDQ6VXNlcjY2NjU5Mg==
-  organizations_url: https://api.github.com/users/devbisme/orgs
-  received_events_url: https://api.github.com/users/devbisme/received_events
-  repos_url: https://api.github.com/users/devbisme/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/devbisme/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/devbisme/subscriptions
-  type: User
-  url: https://api.github.com/users/devbisme
-private: false
+links:
+  github_owner: devbisme
+  github_repo_name: skidl
+  github_src: https://github.com/devbisme/skidl
+  github_src_repo: https://github.com/devbisme/skidl
+  oomp_bot: devbisme_skidl
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/devbisme_skidl
+  oomp_doc: projects/devbisme_skidl/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/devbisme_skidl
+  oomp_src_flat: projects_flat/devbisme_skidl
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/devbisme_skidl
+  oomp_src_folder: projects_folder\devbisme\skidl\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\devbisme\skidl\version_current\working
+oomp_key: oomp_devbisme_skidl
+oomp_key_simple: devbisme_skidl
 projects_flat: projects_flat/devbisme_skidl/version_current/working
 projects_folder: projects_folder/devbisme/skidl/version_current/working
-pulls_url: https://api.github.com/repos/devbisme/skidl/pulls{/number}
-pushed_at: '2023-07-27T15:10:19Z'
-releases_url: https://api.github.com/repos/devbisme/skidl/releases{/id}
-size: 34072
-ssh_url: git@github.com:devbisme/skidl.git
-stargazers_count: 910
-stargazers_url: https://api.github.com/repos/devbisme/skidl/stargazers
-statuses_url: https://api.github.com/repos/devbisme/skidl/statuses/{sha}
-subscribers_url: https://api.github.com/repos/devbisme/skidl/subscribers
-subscription_url: https://api.github.com/repos/devbisme/skidl/subscription
-svn_url: https://github.com/devbisme/skidl
-tags_url: https://api.github.com/repos/devbisme/skidl/tags
-teams_url: https://api.github.com/repos/devbisme/skidl/teams
-topics:
-- eda
-- electronics
-- kicad
-- python
-- schematics
-trees_url: https://api.github.com/repos/devbisme/skidl/git/trees{/sha}
-updated_at: '2023-07-19T20:55:24Z'
-url: https://api.github.com/repos/devbisme/skidl
-visibility: public
-watchers: 910
-watchers_count: 910
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/devbisme/skidl/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/devbisme/skidl/assignees{/user}
+  blobs_url: https://api.github.com/repos/devbisme/skidl/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/devbisme/skidl/branches{/branch}
+  clone_url: https://github.com/devbisme/skidl.git
+  collaborators_url: https://api.github.com/repos/devbisme/skidl/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/devbisme/skidl/comments{/number}
+  commits_url: https://api.github.com/repos/devbisme/skidl/commits{/sha}
+  compare_url: https://api.github.com/repos/devbisme/skidl/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/devbisme/skidl/contents/{+path}
+  contributors_url: https://api.github.com/repos/devbisme/skidl/contributors
+  created_at: '2016-08-16T19:21:55Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/devbisme/skidl/deployments
+  description: SKiDL is a module that extends Python with the ability to design electronic
+    circuits.
+  disabled: false
+  downloads_url: https://api.github.com/repos/devbisme/skidl/downloads
+  events_url: https://api.github.com/repos/devbisme/skidl/events
+  fork: false
+  forks: 110
+  forks_count: 110
+  forks_url: https://api.github.com/repos/devbisme/skidl/forks
+  full_name: devbisme/skidl
+  git_commits_url: https://api.github.com/repos/devbisme/skidl/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/devbisme/skidl/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/devbisme/skidl/git/tags{/sha}
+  git_url: git://github.com/devbisme/skidl.git
+  has_discussions: true
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/devbisme/skidl/hooks
+  html_url: https://github.com/devbisme/skidl
+  id: 65847289
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/devbisme/skidl/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/devbisme/skidl/issues/events{/number}
+  issues_url: https://api.github.com/repos/devbisme/skidl/issues{/number}
+  keys_url: https://api.github.com/repos/devbisme/skidl/keys{/key_id}
+  labels_url: https://api.github.com/repos/devbisme/skidl/labels{/name}
+  language: Jupyter Notebook
+  languages_url: https://api.github.com/repos/devbisme/skidl/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/devbisme/skidl/merges
+  milestones_url: https://api.github.com/repos/devbisme/skidl/milestones{/number}
+  mirror_url: null
+  name: skidl
+  node_id: MDEwOlJlcG9zaXRvcnk2NTg0NzI4OQ==
+  notifications_url: https://api.github.com/repos/devbisme/skidl/notifications{?since,all,participating}
+  open_issues: 40
+  open_issues_count: 40
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/666592?v=4
+    events_url: https://api.github.com/users/devbisme/events{/privacy}
+    followers_url: https://api.github.com/users/devbisme/followers
+    following_url: https://api.github.com/users/devbisme/following{/other_user}
+    gists_url: https://api.github.com/users/devbisme/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/devbisme
+    id: 666592
+    login: devbisme
+    node_id: MDQ6VXNlcjY2NjU5Mg==
+    organizations_url: https://api.github.com/users/devbisme/orgs
+    received_events_url: https://api.github.com/users/devbisme/received_events
+    repos_url: https://api.github.com/users/devbisme/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/devbisme/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/devbisme/subscriptions
+    type: User
+    url: https://api.github.com/users/devbisme
+  private: false
+  pulls_url: https://api.github.com/repos/devbisme/skidl/pulls{/number}
+  pushed_at: '2023-07-27T15:10:19Z'
+  releases_url: https://api.github.com/repos/devbisme/skidl/releases{/id}
+  size: 34072
+  ssh_url: git@github.com:devbisme/skidl.git
+  stargazers_count: 915
+  stargazers_url: https://api.github.com/repos/devbisme/skidl/stargazers
+  statuses_url: https://api.github.com/repos/devbisme/skidl/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/devbisme/skidl/subscribers
+  subscription_url: https://api.github.com/repos/devbisme/skidl/subscription
+  svn_url: https://github.com/devbisme/skidl
+  tags_url: https://api.github.com/repos/devbisme/skidl/tags
+  teams_url: https://api.github.com/repos/devbisme/skidl/teams
+  topics:
+  - eda
+  - electronics
+  - kicad
+  - python
+  - schematics
+  trees_url: https://api.github.com/repos/devbisme/skidl/git/trees{/sha}
+  updated_at: '2023-08-06T01:38:32Z'
+  url: https://api.github.com/repos/devbisme/skidl
+  visibility: public
+  watchers: 915
+  watchers_count: 915
+  web_commit_signoff_required: false

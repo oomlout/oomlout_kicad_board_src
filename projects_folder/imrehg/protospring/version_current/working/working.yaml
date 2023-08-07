@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/imrehg/protospring/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/imrehg/protospring/assignees{/user}
-blobs_url: https://api.github.com/repos/imrehg/protospring/git/blobs{/sha}
-branches_url: https://api.github.com/repos/imrehg/protospring/branches{/branch}
-clone_url: https://github.com/imrehg/protospring.git
-collaborators_url: https://api.github.com/repos/imrehg/protospring/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/imrehg/protospring/comments{/number}
-commits_url: https://api.github.com/repos/imrehg/protospring/commits{/sha}
-compare_url: https://api.github.com/repos/imrehg/protospring/compare/{base}...{head}
-contents_url: https://api.github.com/repos/imrehg/protospring/contents/{+path}
-contributors_url: https://api.github.com/repos/imrehg/protospring/contributors
-created_at: '2014-10-14T09:28:21Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/imrehg/protospring/deployments
-description: Electronics design for the ProtoSpring prototyping expansion board for
-  the VAB-600 Springboard
-disabled: false
-downloads_url: https://api.github.com/repos/imrehg/protospring/downloads
-events_url: https://api.github.com/repos/imrehg/protospring/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/imrehg/protospring/forks
-full_name: imrehg/protospring
-git_commits_url: https://api.github.com/repos/imrehg/protospring/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/imrehg/protospring/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/imrehg/protospring/git/tags{/sha}
-git_url: git://github.com/imrehg/protospring.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/imrehg/protospring/hooks
-html_url: https://github.com/imrehg/protospring
-id: 25199358
-is_template: false
-issue_comment_url: https://api.github.com/repos/imrehg/protospring/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/imrehg/protospring/issues/events{/number}
-issues_url: https://api.github.com/repos/imrehg/protospring/issues{/number}
-keys_url: https://api.github.com/repos/imrehg/protospring/keys{/key_id}
-labels_url: https://api.github.com/repos/imrehg/protospring/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/imrehg/protospring/languages
-license: null
-merges_url: https://api.github.com/repos/imrehg/protospring/merges
-milestones_url: https://api.github.com/repos/imrehg/protospring/milestones{/number}
-mirror_url: null
-name: protospring
-node_id: MDEwOlJlcG9zaXRvcnkyNTE5OTM1OA==
-notifications_url: https://api.github.com/repos/imrehg/protospring/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/38863?v=4
-  events_url: https://api.github.com/users/imrehg/events{/privacy}
-  followers_url: https://api.github.com/users/imrehg/followers
-  following_url: https://api.github.com/users/imrehg/following{/other_user}
-  gists_url: https://api.github.com/users/imrehg/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/imrehg
-  id: 38863
-  login: imrehg
-  node_id: MDQ6VXNlcjM4ODYz
-  organizations_url: https://api.github.com/users/imrehg/orgs
-  received_events_url: https://api.github.com/users/imrehg/received_events
-  repos_url: https://api.github.com/users/imrehg/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/imrehg/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/imrehg/subscriptions
-  type: User
-  url: https://api.github.com/users/imrehg
-private: false
+links:
+  github_owner: imrehg
+  github_repo_name: protospring
+  github_src: https://github.com/imrehg/protospring
+  github_src_repo: https://github.com/imrehg/protospring
+  oomp_bot: imrehg_protospring
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/imrehg_protospring
+  oomp_doc: projects/imrehg_protospring/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/imrehg_protospring
+  oomp_src_flat: projects_flat/imrehg_protospring
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/imrehg_protospring
+  oomp_src_folder: projects_folder\imrehg\protospring\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\imrehg\protospring\version_current\working
+oomp_key: oomp_imrehg_protospring
+oomp_key_simple: imrehg_protospring
 projects_flat: projects_flat/imrehg_protospring/version_current/working
 projects_folder: projects_folder/imrehg/protospring/version_current/working
-pulls_url: https://api.github.com/repos/imrehg/protospring/pulls{/number}
-pushed_at: '2015-06-26T14:47:28Z'
-releases_url: https://api.github.com/repos/imrehg/protospring/releases{/id}
-size: 226
-ssh_url: git@github.com:imrehg/protospring.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/imrehg/protospring/stargazers
-statuses_url: https://api.github.com/repos/imrehg/protospring/statuses/{sha}
-subscribers_url: https://api.github.com/repos/imrehg/protospring/subscribers
-subscription_url: https://api.github.com/repos/imrehg/protospring/subscription
-svn_url: https://github.com/imrehg/protospring
-tags_url: https://api.github.com/repos/imrehg/protospring/tags
-teams_url: https://api.github.com/repos/imrehg/protospring/teams
-topics: []
-trees_url: https://api.github.com/repos/imrehg/protospring/git/trees{/sha}
-updated_at: '2015-06-26T14:47:28Z'
-url: https://api.github.com/repos/imrehg/protospring
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/imrehg/protospring/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/imrehg/protospring/assignees{/user}
+  blobs_url: https://api.github.com/repos/imrehg/protospring/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/imrehg/protospring/branches{/branch}
+  clone_url: https://github.com/imrehg/protospring.git
+  collaborators_url: https://api.github.com/repos/imrehg/protospring/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/imrehg/protospring/comments{/number}
+  commits_url: https://api.github.com/repos/imrehg/protospring/commits{/sha}
+  compare_url: https://api.github.com/repos/imrehg/protospring/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/imrehg/protospring/contents/{+path}
+  contributors_url: https://api.github.com/repos/imrehg/protospring/contributors
+  created_at: '2014-10-14T09:28:21Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/imrehg/protospring/deployments
+  description: Electronics design for the ProtoSpring prototyping expansion board
+    for the VAB-600 Springboard
+  disabled: false
+  downloads_url: https://api.github.com/repos/imrehg/protospring/downloads
+  events_url: https://api.github.com/repos/imrehg/protospring/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/imrehg/protospring/forks
+  full_name: imrehg/protospring
+  git_commits_url: https://api.github.com/repos/imrehg/protospring/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/imrehg/protospring/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/imrehg/protospring/git/tags{/sha}
+  git_url: git://github.com/imrehg/protospring.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/imrehg/protospring/hooks
+  html_url: https://github.com/imrehg/protospring
+  id: 25199358
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/imrehg/protospring/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/imrehg/protospring/issues/events{/number}
+  issues_url: https://api.github.com/repos/imrehg/protospring/issues{/number}
+  keys_url: https://api.github.com/repos/imrehg/protospring/keys{/key_id}
+  labels_url: https://api.github.com/repos/imrehg/protospring/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/imrehg/protospring/languages
+  license: null
+  merges_url: https://api.github.com/repos/imrehg/protospring/merges
+  milestones_url: https://api.github.com/repos/imrehg/protospring/milestones{/number}
+  mirror_url: null
+  name: protospring
+  node_id: MDEwOlJlcG9zaXRvcnkyNTE5OTM1OA==
+  notifications_url: https://api.github.com/repos/imrehg/protospring/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/38863?v=4
+    events_url: https://api.github.com/users/imrehg/events{/privacy}
+    followers_url: https://api.github.com/users/imrehg/followers
+    following_url: https://api.github.com/users/imrehg/following{/other_user}
+    gists_url: https://api.github.com/users/imrehg/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/imrehg
+    id: 38863
+    login: imrehg
+    node_id: MDQ6VXNlcjM4ODYz
+    organizations_url: https://api.github.com/users/imrehg/orgs
+    received_events_url: https://api.github.com/users/imrehg/received_events
+    repos_url: https://api.github.com/users/imrehg/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/imrehg/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/imrehg/subscriptions
+    type: User
+    url: https://api.github.com/users/imrehg
+  private: false
+  pulls_url: https://api.github.com/repos/imrehg/protospring/pulls{/number}
+  pushed_at: '2015-06-26T14:47:28Z'
+  releases_url: https://api.github.com/repos/imrehg/protospring/releases{/id}
+  size: 226
+  ssh_url: git@github.com:imrehg/protospring.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/imrehg/protospring/stargazers
+  statuses_url: https://api.github.com/repos/imrehg/protospring/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/imrehg/protospring/subscribers
+  subscription_url: https://api.github.com/repos/imrehg/protospring/subscription
+  svn_url: https://github.com/imrehg/protospring
+  tags_url: https://api.github.com/repos/imrehg/protospring/tags
+  teams_url: https://api.github.com/repos/imrehg/protospring/teams
+  topics: []
+  trees_url: https://api.github.com/repos/imrehg/protospring/git/trees{/sha}
+  updated_at: '2015-06-26T14:47:28Z'
+  url: https://api.github.com/repos/imrehg/protospring
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

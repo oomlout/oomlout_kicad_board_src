@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/assignees{/user}
-blobs_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/git/blobs{/sha}
-branches_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/branches{/branch}
-clone_url: https://github.com/garrettsworkshop/Mouserial-prototype.git
-collaborators_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/comments{/number}
-commits_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/commits{/sha}
-compare_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/compare/{base}...{head}
-contents_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/contents/{+path}
-contributors_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/contributors
-created_at: '2019-06-24T20:31:04Z'
-default_branch: dev
-deployments_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/deployments
-description: Prototype PS/2 mouse and keyboard card for Apple II (unfinished)
-disabled: false
-downloads_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/downloads
-events_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/forks
-full_name: garrettsworkshop/Mouserial-prototype
-git_commits_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/git/tags{/sha}
-git_url: git://github.com/garrettsworkshop/Mouserial-prototype.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/hooks
-html_url: https://github.com/garrettsworkshop/Mouserial-prototype
-id: 193575557
-is_template: false
-issue_comment_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/issues/events{/number}
-issues_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/issues{/number}
-keys_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/keys{/key_id}
-labels_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/labels{/name}
-language: Verilog
-languages_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/languages
-license: null
-merges_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/merges
-milestones_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/milestones{/number}
-mirror_url: null
-name: Mouserial-prototype
-node_id: MDEwOlJlcG9zaXRvcnkxOTM1NzU1NTc=
-notifications_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
-  events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
-  followers_url: https://api.github.com/users/garrettsworkshop/followers
-  following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
-  gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/garrettsworkshop
-  id: 65582366
-  login: garrettsworkshop
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
-  organizations_url: https://api.github.com/users/garrettsworkshop/orgs
-  received_events_url: https://api.github.com/users/garrettsworkshop/received_events
-  repos_url: https://api.github.com/users/garrettsworkshop/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
-  type: Organization
-  url: https://api.github.com/users/garrettsworkshop
-private: false
+links:
+  github_owner: garrettsworkshop
+  github_repo_name: Mouserial-prototype
+  github_src: https://github.com/garrettsworkshop/Mouserial-prototype
+  github_src_repo: https://github.com/garrettsworkshop/Mouserial-prototype
+  oomp_bot: projects_garrettsworkshop_mouserial_prototype
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_garrettsworkshop_mouserial_prototype
+  oomp_doc: projects/projects_flat_garrettsworkshop_mouserial_prototype/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_garrettsworkshop_mouserial_prototype
+  oomp_src_flat: projects_flat/projects_flat_garrettsworkshop_mouserial_prototype
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_garrettsworkshop_mouserial_prototype
+  oomp_src_folder: projects_flat\garrettsworkshop_mouserial_prototype\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\garrettsworkshop_mouserial_prototype\version_current\working
+oomp_key: oomp_projects_flat_garrettsworkshop_mouserial_prototype
+oomp_key_simple: projects_flat_garrettsworkshop_mouserial_prototype
 projects_flat: projects_flat/garrettsworkshop_mouserial_prototype/version_current/working
 projects_folder: projects_folder/garrettsworkshop/Mouserial-prototype/version_current/working
-pulls_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/pulls{/number}
-pushed_at: '2022-09-06T22:06:15Z'
-releases_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/releases{/id}
-size: 5314
-ssh_url: git@github.com:garrettsworkshop/Mouserial-prototype.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/stargazers
-statuses_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/statuses/{sha}
-subscribers_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/subscribers
-subscription_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/subscription
-svn_url: https://github.com/garrettsworkshop/Mouserial-prototype
-tags_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/tags
-teams_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/teams
-topics: []
-trees_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/git/trees{/sha}
-updated_at: '2022-09-06T21:49:36Z'
-url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/assignees{/user}
+  blobs_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/branches{/branch}
+  clone_url: https://github.com/garrettsworkshop/Mouserial-prototype.git
+  collaborators_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/comments{/number}
+  commits_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/commits{/sha}
+  compare_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/contents/{+path}
+  contributors_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/contributors
+  created_at: '2019-06-24T20:31:04Z'
+  default_branch: dev
+  deployments_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/deployments
+  description: Prototype PS/2 mouse and keyboard card for Apple II (unfinished)
+  disabled: false
+  downloads_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/downloads
+  events_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/forks
+  full_name: garrettsworkshop/Mouserial-prototype
+  git_commits_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/git/tags{/sha}
+  git_url: git://github.com/garrettsworkshop/Mouserial-prototype.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/hooks
+  html_url: https://github.com/garrettsworkshop/Mouserial-prototype
+  id: 193575557
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/issues/events{/number}
+  issues_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/issues{/number}
+  keys_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/keys{/key_id}
+  labels_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/labels{/name}
+  language: Verilog
+  languages_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/languages
+  license: null
+  merges_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/merges
+  milestones_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/milestones{/number}
+  mirror_url: null
+  name: Mouserial-prototype
+  node_id: MDEwOlJlcG9zaXRvcnkxOTM1NzU1NTc=
+  notifications_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
+    events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
+    followers_url: https://api.github.com/users/garrettsworkshop/followers
+    following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
+    gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/garrettsworkshop
+    id: 65582366
+    login: garrettsworkshop
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
+    organizations_url: https://api.github.com/users/garrettsworkshop/orgs
+    received_events_url: https://api.github.com/users/garrettsworkshop/received_events
+    repos_url: https://api.github.com/users/garrettsworkshop/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
+    type: Organization
+    url: https://api.github.com/users/garrettsworkshop
+  private: false
+  pulls_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/pulls{/number}
+  pushed_at: '2022-09-06T22:06:15Z'
+  releases_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/releases{/id}
+  size: 5314
+  ssh_url: git@github.com:garrettsworkshop/Mouserial-prototype.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/stargazers
+  statuses_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/subscribers
+  subscription_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/subscription
+  svn_url: https://github.com/garrettsworkshop/Mouserial-prototype
+  tags_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/tags
+  teams_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/teams
+  topics: []
+  trees_url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype/git/trees{/sha}
+  updated_at: '2022-09-06T21:49:36Z'
+  url: https://api.github.com/repos/garrettsworkshop/Mouserial-prototype
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

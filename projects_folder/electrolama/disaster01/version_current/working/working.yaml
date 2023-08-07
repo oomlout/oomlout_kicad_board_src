@@ -1,99 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/electrolama/disaster01/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/electrolama/disaster01/assignees{/user}
-blobs_url: https://api.github.com/repos/electrolama/disaster01/git/blobs{/sha}
-branches_url: https://api.github.com/repos/electrolama/disaster01/branches{/branch}
-clone_url: https://github.com/electrolama/disaster01.git
-collaborators_url: https://api.github.com/repos/electrolama/disaster01/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/electrolama/disaster01/comments{/number}
-commits_url: https://api.github.com/repos/electrolama/disaster01/commits{/sha}
-compare_url: https://api.github.com/repos/electrolama/disaster01/compare/{base}...{head}
-contents_url: https://api.github.com/repos/electrolama/disaster01/contents/{+path}
-contributors_url: https://api.github.com/repos/electrolama/disaster01/contributors
-created_at: '2019-11-15T20:00:22Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/electrolama/disaster01/deployments
-description: overly blinky thing debuted at Hackaday Supercon 2019
-disabled: false
-downloads_url: https://api.github.com/repos/electrolama/disaster01/downloads
-events_url: https://api.github.com/repos/electrolama/disaster01/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/electrolama/disaster01/forks
-full_name: electrolama/disaster01
-git_commits_url: https://api.github.com/repos/electrolama/disaster01/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/electrolama/disaster01/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/electrolama/disaster01/git/tags{/sha}
-git_url: git://github.com/electrolama/disaster01.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/electrolama/disaster01/hooks
-html_url: https://github.com/electrolama/disaster01
-id: 221994188
-is_template: false
-issue_comment_url: https://api.github.com/repos/electrolama/disaster01/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/electrolama/disaster01/issues/events{/number}
-issues_url: https://api.github.com/repos/electrolama/disaster01/issues{/number}
-keys_url: https://api.github.com/repos/electrolama/disaster01/keys{/key_id}
-labels_url: https://api.github.com/repos/electrolama/disaster01/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/electrolama/disaster01/languages
-license: null
-merges_url: https://api.github.com/repos/electrolama/disaster01/merges
-milestones_url: https://api.github.com/repos/electrolama/disaster01/milestones{/number}
-mirror_url: null
-name: disaster01
-node_id: MDEwOlJlcG9zaXRvcnkyMjE5OTQxODg=
-notifications_url: https://api.github.com/repos/electrolama/disaster01/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/680280?v=4
-  events_url: https://api.github.com/users/electrolama/events{/privacy}
-  followers_url: https://api.github.com/users/electrolama/followers
-  following_url: https://api.github.com/users/electrolama/following{/other_user}
-  gists_url: https://api.github.com/users/electrolama/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/electrolama
-  id: 680280
-  login: electrolama
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY4MDI4MA==
-  organizations_url: https://api.github.com/users/electrolama/orgs
-  received_events_url: https://api.github.com/users/electrolama/received_events
-  repos_url: https://api.github.com/users/electrolama/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/electrolama/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/electrolama/subscriptions
-  type: Organization
-  url: https://api.github.com/users/electrolama
-private: false
+links:
+  github_owner: electrolama
+  github_repo_name: disaster01
+  github_src: https://github.com/electrolama/disaster01
+  github_src_repo: https://github.com/electrolama/disaster01
+  oomp_bot: electrolama_disaster01
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electrolama_disaster01
+  oomp_doc: projects/electrolama_disaster01/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electrolama_disaster01
+  oomp_src_flat: projects_flat/electrolama_disaster01
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electrolama_disaster01
+  oomp_src_folder: projects_folder\electrolama\disaster01\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\electrolama\disaster01\version_current\working
+oomp_key: oomp_electrolama_disaster01
+oomp_key_simple: electrolama_disaster01
+projects_flat: projects_flat/electrolama_disaster01/version_current/working
 projects_flat_folder: projects_flat_folder/electrolama_disaster01/version_current/working
 projects_folder: projects_folder/electrolama/disaster01/version_current/working
-pulls_url: https://api.github.com/repos/electrolama/disaster01/pulls{/number}
-pushed_at: '2019-11-15T20:12:11Z'
-releases_url: https://api.github.com/repos/electrolama/disaster01/releases{/id}
-size: 101
-ssh_url: git@github.com:electrolama/disaster01.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/electrolama/disaster01/stargazers
-statuses_url: https://api.github.com/repos/electrolama/disaster01/statuses/{sha}
-subscribers_url: https://api.github.com/repos/electrolama/disaster01/subscribers
-subscription_url: https://api.github.com/repos/electrolama/disaster01/subscription
-svn_url: https://github.com/electrolama/disaster01
-tags_url: https://api.github.com/repos/electrolama/disaster01/tags
-teams_url: https://api.github.com/repos/electrolama/disaster01/teams
-topics: []
-trees_url: https://api.github.com/repos/electrolama/disaster01/git/trees{/sha}
-updated_at: '2019-11-16T19:15:47Z'
-url: https://api.github.com/repos/electrolama/disaster01
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/electrolama/disaster01/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/electrolama/disaster01/assignees{/user}
+  blobs_url: https://api.github.com/repos/electrolama/disaster01/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/electrolama/disaster01/branches{/branch}
+  clone_url: https://github.com/electrolama/disaster01.git
+  collaborators_url: https://api.github.com/repos/electrolama/disaster01/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/electrolama/disaster01/comments{/number}
+  commits_url: https://api.github.com/repos/electrolama/disaster01/commits{/sha}
+  compare_url: https://api.github.com/repos/electrolama/disaster01/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/electrolama/disaster01/contents/{+path}
+  contributors_url: https://api.github.com/repos/electrolama/disaster01/contributors
+  created_at: '2019-11-15T20:00:22Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/electrolama/disaster01/deployments
+  description: overly blinky thing debuted at Hackaday Supercon 2019
+  disabled: false
+  downloads_url: https://api.github.com/repos/electrolama/disaster01/downloads
+  events_url: https://api.github.com/repos/electrolama/disaster01/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/electrolama/disaster01/forks
+  full_name: electrolama/disaster01
+  git_commits_url: https://api.github.com/repos/electrolama/disaster01/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/electrolama/disaster01/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/electrolama/disaster01/git/tags{/sha}
+  git_url: git://github.com/electrolama/disaster01.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/electrolama/disaster01/hooks
+  html_url: https://github.com/electrolama/disaster01
+  id: 221994188
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/electrolama/disaster01/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/electrolama/disaster01/issues/events{/number}
+  issues_url: https://api.github.com/repos/electrolama/disaster01/issues{/number}
+  keys_url: https://api.github.com/repos/electrolama/disaster01/keys{/key_id}
+  labels_url: https://api.github.com/repos/electrolama/disaster01/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/electrolama/disaster01/languages
+  license: null
+  merges_url: https://api.github.com/repos/electrolama/disaster01/merges
+  milestones_url: https://api.github.com/repos/electrolama/disaster01/milestones{/number}
+  mirror_url: null
+  name: disaster01
+  node_id: MDEwOlJlcG9zaXRvcnkyMjE5OTQxODg=
+  notifications_url: https://api.github.com/repos/electrolama/disaster01/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/680280?v=4
+    events_url: https://api.github.com/users/electrolama/events{/privacy}
+    followers_url: https://api.github.com/users/electrolama/followers
+    following_url: https://api.github.com/users/electrolama/following{/other_user}
+    gists_url: https://api.github.com/users/electrolama/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/electrolama
+    id: 680280
+    login: electrolama
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY4MDI4MA==
+    organizations_url: https://api.github.com/users/electrolama/orgs
+    received_events_url: https://api.github.com/users/electrolama/received_events
+    repos_url: https://api.github.com/users/electrolama/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/electrolama/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/electrolama/subscriptions
+    type: Organization
+    url: https://api.github.com/users/electrolama
+  private: false
+  pulls_url: https://api.github.com/repos/electrolama/disaster01/pulls{/number}
+  pushed_at: '2019-11-15T20:12:11Z'
+  releases_url: https://api.github.com/repos/electrolama/disaster01/releases{/id}
+  size: 101
+  ssh_url: git@github.com:electrolama/disaster01.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/electrolama/disaster01/stargazers
+  statuses_url: https://api.github.com/repos/electrolama/disaster01/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/electrolama/disaster01/subscribers
+  subscription_url: https://api.github.com/repos/electrolama/disaster01/subscription
+  svn_url: https://github.com/electrolama/disaster01
+  tags_url: https://api.github.com/repos/electrolama/disaster01/tags
+  teams_url: https://api.github.com/repos/electrolama/disaster01/teams
+  topics: []
+  trees_url: https://api.github.com/repos/electrolama/disaster01/git/trees{/sha}
+  updated_at: '2019-11-16T19:15:47Z'
+  url: https://api.github.com/repos/electrolama/disaster01
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/assignees{/user}
-blobs_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/git/blobs{/sha}
-branches_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/branches{/branch}
-clone_url: https://github.com/madworm/AVR-ISP_pogo-plug_1.27mm.git
-collaborators_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/comments{/number}
-commits_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/commits{/sha}
-compare_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/compare/{base}...{head}
-contents_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/contents/{+path}
-contributors_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/contributors
-created_at: '2013-05-25T17:11:51Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/deployments
-description: 'LAYOUT FILES: AVR-ISP adapter: 6pin (2.54mm) --> 6pin pogo-pins (1.27mm).'
-disabled: false
-downloads_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/downloads
-events_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/forks
-full_name: madworm/AVR-ISP_pogo-plug_1.27mm
-git_commits_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/git/tags{/sha}
-git_url: git://github.com/madworm/AVR-ISP_pogo-plug_1.27mm.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/hooks
-html_url: https://github.com/madworm/AVR-ISP_pogo-plug_1.27mm
-id: 10287185
-is_template: false
-issue_comment_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/issues/events{/number}
-issues_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/issues{/number}
-keys_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/keys{/key_id}
-labels_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/languages
-license: null
-merges_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/merges
-milestones_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/milestones{/number}
-mirror_url: null
-name: AVR-ISP_pogo-plug_1.27mm
-node_id: MDEwOlJlcG9zaXRvcnkxMDI4NzE4NQ==
-notifications_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
-  events_url: https://api.github.com/users/madworm/events{/privacy}
-  followers_url: https://api.github.com/users/madworm/followers
-  following_url: https://api.github.com/users/madworm/following{/other_user}
-  gists_url: https://api.github.com/users/madworm/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/madworm
-  id: 343894
-  login: madworm
-  node_id: MDQ6VXNlcjM0Mzg5NA==
-  organizations_url: https://api.github.com/users/madworm/orgs
-  received_events_url: https://api.github.com/users/madworm/received_events
-  repos_url: https://api.github.com/users/madworm/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/madworm/subscriptions
-  type: User
-  url: https://api.github.com/users/madworm
-private: false
+links:
+  github_owner: madworm
+  github_repo_name: AVR-ISP_pogo-plug_1.27mm
+  github_src: https://github.com/madworm/AVR-ISP_pogo-plug_1.27mm
+  github_src_repo: https://github.com/madworm/AVR-ISP_pogo-plug_1.27mm
+  oomp_bot: madworm_avr_isp_pogo_plug_1_27mm
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/madworm_avr_isp_pogo_plug_1_27mm
+  oomp_doc: projects/madworm_avr_isp_pogo_plug_1_27mm/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/madworm_avr_isp_pogo_plug_1_27mm
+  oomp_src_flat: projects_flat/madworm_avr_isp_pogo_plug_1_27mm
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/madworm_avr_isp_pogo_plug_1_27mm
+  oomp_src_folder: projects_folder\madworm\AVR-ISP_pogo-plug_1.27mm\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\madworm\AVR-ISP_pogo-plug_1.27mm\version_current\working
+oomp_key: oomp_madworm_avr_isp_pogo_plug_1_27mm
+oomp_key_simple: madworm_avr_isp_pogo_plug_1_27mm
 projects_flat: projects_flat/madworm_avr_isp_pogo_plug_1_27mm/version_current/working
 projects_folder: projects_folder/madworm/AVR-ISP_pogo-plug_1.27mm/version_current/working
-pulls_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/pulls{/number}
-pushed_at: '2016-08-19T13:29:09Z'
-releases_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/releases{/id}
-size: 2723
-ssh_url: git@github.com:madworm/AVR-ISP_pogo-plug_1.27mm.git
-stargazers_count: 9
-stargazers_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/stargazers
-statuses_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/statuses/{sha}
-subscribers_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/subscribers
-subscription_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/subscription
-svn_url: https://github.com/madworm/AVR-ISP_pogo-plug_1.27mm
-tags_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/tags
-teams_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/teams
-topics: []
-trees_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/git/trees{/sha}
-updated_at: '2023-07-25T13:48:24Z'
-url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm
-visibility: public
-watchers: 9
-watchers_count: 9
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/assignees{/user}
+  blobs_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/branches{/branch}
+  clone_url: https://github.com/madworm/AVR-ISP_pogo-plug_1.27mm.git
+  collaborators_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/comments{/number}
+  commits_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/commits{/sha}
+  compare_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/contents/{+path}
+  contributors_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/contributors
+  created_at: '2013-05-25T17:11:51Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/deployments
+  description: 'LAYOUT FILES: AVR-ISP adapter: 6pin (2.54mm) --> 6pin pogo-pins (1.27mm).'
+  disabled: false
+  downloads_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/downloads
+  events_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/forks
+  full_name: madworm/AVR-ISP_pogo-plug_1.27mm
+  git_commits_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/git/tags{/sha}
+  git_url: git://github.com/madworm/AVR-ISP_pogo-plug_1.27mm.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/hooks
+  html_url: https://github.com/madworm/AVR-ISP_pogo-plug_1.27mm
+  id: 10287185
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/issues/events{/number}
+  issues_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/issues{/number}
+  keys_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/keys{/key_id}
+  labels_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/languages
+  license: null
+  merges_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/merges
+  milestones_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/milestones{/number}
+  mirror_url: null
+  name: AVR-ISP_pogo-plug_1.27mm
+  node_id: MDEwOlJlcG9zaXRvcnkxMDI4NzE4NQ==
+  notifications_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
+    events_url: https://api.github.com/users/madworm/events{/privacy}
+    followers_url: https://api.github.com/users/madworm/followers
+    following_url: https://api.github.com/users/madworm/following{/other_user}
+    gists_url: https://api.github.com/users/madworm/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/madworm
+    id: 343894
+    login: madworm
+    node_id: MDQ6VXNlcjM0Mzg5NA==
+    organizations_url: https://api.github.com/users/madworm/orgs
+    received_events_url: https://api.github.com/users/madworm/received_events
+    repos_url: https://api.github.com/users/madworm/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/madworm/subscriptions
+    type: User
+    url: https://api.github.com/users/madworm
+  private: false
+  pulls_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/pulls{/number}
+  pushed_at: '2016-08-19T13:29:09Z'
+  releases_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/releases{/id}
+  size: 2723
+  ssh_url: git@github.com:madworm/AVR-ISP_pogo-plug_1.27mm.git
+  stargazers_count: 9
+  stargazers_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/stargazers
+  statuses_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/subscribers
+  subscription_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/subscription
+  svn_url: https://github.com/madworm/AVR-ISP_pogo-plug_1.27mm
+  tags_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/tags
+  teams_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/teams
+  topics: []
+  trees_url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm/git/trees{/sha}
+  updated_at: '2023-07-25T13:48:24Z'
+  url: https://api.github.com/repos/madworm/AVR-ISP_pogo-plug_1.27mm
+  visibility: public
+  watchers: 9
+  watchers_count: 9
+  web_commit_signoff_required: false

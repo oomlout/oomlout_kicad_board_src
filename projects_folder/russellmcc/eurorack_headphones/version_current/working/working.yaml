@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/russellmcc/eurorack_headphones/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/russellmcc/eurorack_headphones/assignees{/user}
-blobs_url: https://api.github.com/repos/russellmcc/eurorack_headphones/git/blobs{/sha}
-branches_url: https://api.github.com/repos/russellmcc/eurorack_headphones/branches{/branch}
-clone_url: https://github.com/russellmcc/eurorack_headphones.git
-collaborators_url: https://api.github.com/repos/russellmcc/eurorack_headphones/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/russellmcc/eurorack_headphones/comments{/number}
-commits_url: https://api.github.com/repos/russellmcc/eurorack_headphones/commits{/sha}
-compare_url: https://api.github.com/repos/russellmcc/eurorack_headphones/compare/{base}...{head}
-contents_url: https://api.github.com/repos/russellmcc/eurorack_headphones/contents/{+path}
-contributors_url: https://api.github.com/repos/russellmcc/eurorack_headphones/contributors
-created_at: '2013-02-07T02:23:45Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/russellmcc/eurorack_headphones/deployments
-description: A headphone amp/line amp output for Eurorack
-disabled: false
-downloads_url: https://api.github.com/repos/russellmcc/eurorack_headphones/downloads
-events_url: https://api.github.com/repos/russellmcc/eurorack_headphones/events
 file_sch_flat: projects_flat/russellmcc_eurorack_headphones/version_current/working/working.sch
 file_sch_folder: projects_folder/russellmcc/eurorack_headphones/version_current/working/working.sch
-fork: false
-forks: 4
-forks_count: 4
-forks_url: https://api.github.com/repos/russellmcc/eurorack_headphones/forks
-full_name: russellmcc/eurorack_headphones
-git_commits_url: https://api.github.com/repos/russellmcc/eurorack_headphones/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/russellmcc/eurorack_headphones/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/russellmcc/eurorack_headphones/git/tags{/sha}
-git_url: git://github.com/russellmcc/eurorack_headphones.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/russellmcc/eurorack_headphones/hooks
-html_url: https://github.com/russellmcc/eurorack_headphones
-id: 8064831
-is_template: false
-issue_comment_url: https://api.github.com/repos/russellmcc/eurorack_headphones/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/russellmcc/eurorack_headphones/issues/events{/number}
-issues_url: https://api.github.com/repos/russellmcc/eurorack_headphones/issues{/number}
-keys_url: https://api.github.com/repos/russellmcc/eurorack_headphones/keys{/key_id}
-labels_url: https://api.github.com/repos/russellmcc/eurorack_headphones/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/russellmcc/eurorack_headphones/languages
-license: null
-merges_url: https://api.github.com/repos/russellmcc/eurorack_headphones/merges
-milestones_url: https://api.github.com/repos/russellmcc/eurorack_headphones/milestones{/number}
-mirror_url: null
-name: eurorack_headphones
-node_id: MDEwOlJlcG9zaXRvcnk4MDY0ODMx
-notifications_url: https://api.github.com/repos/russellmcc/eurorack_headphones/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/603279?v=4
-  events_url: https://api.github.com/users/russellmcc/events{/privacy}
-  followers_url: https://api.github.com/users/russellmcc/followers
-  following_url: https://api.github.com/users/russellmcc/following{/other_user}
-  gists_url: https://api.github.com/users/russellmcc/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/russellmcc
-  id: 603279
-  login: russellmcc
-  node_id: MDQ6VXNlcjYwMzI3OQ==
-  organizations_url: https://api.github.com/users/russellmcc/orgs
-  received_events_url: https://api.github.com/users/russellmcc/received_events
-  repos_url: https://api.github.com/users/russellmcc/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/russellmcc/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/russellmcc/subscriptions
-  type: User
-  url: https://api.github.com/users/russellmcc
-private: false
+links:
+  github_owner: russellmcc
+  github_repo_name: eurorack_headphones
+  github_src: https://github.com/russellmcc/eurorack_headphones
+  github_src_repo: https://github.com/russellmcc/eurorack_headphones
+  oomp_bot: russellmcc_eurorack_headphones
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/russellmcc_eurorack_headphones
+  oomp_doc: projects/russellmcc_eurorack_headphones/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/russellmcc_eurorack_headphones
+  oomp_src_flat: projects_flat/russellmcc_eurorack_headphones
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/russellmcc_eurorack_headphones
+  oomp_src_folder: projects_folder\russellmcc\eurorack_headphones\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\russellmcc\eurorack_headphones\version_current\working
+oomp_key: oomp_russellmcc_eurorack_headphones
+oomp_key_simple: russellmcc_eurorack_headphones
 projects_flat: projects_flat/russellmcc_eurorack_headphones/version_current/working
 projects_folder: projects_folder/russellmcc/eurorack_headphones/version_current/working
-pulls_url: https://api.github.com/repos/russellmcc/eurorack_headphones/pulls{/number}
-pushed_at: '2017-06-29T04:00:47Z'
-releases_url: https://api.github.com/repos/russellmcc/eurorack_headphones/releases{/id}
-size: 424
-ssh_url: git@github.com:russellmcc/eurorack_headphones.git
-stargazers_count: 18
-stargazers_url: https://api.github.com/repos/russellmcc/eurorack_headphones/stargazers
-statuses_url: https://api.github.com/repos/russellmcc/eurorack_headphones/statuses/{sha}
-subscribers_url: https://api.github.com/repos/russellmcc/eurorack_headphones/subscribers
-subscription_url: https://api.github.com/repos/russellmcc/eurorack_headphones/subscription
-svn_url: https://github.com/russellmcc/eurorack_headphones
-tags_url: https://api.github.com/repos/russellmcc/eurorack_headphones/tags
-teams_url: https://api.github.com/repos/russellmcc/eurorack_headphones/teams
-topics: []
-trees_url: https://api.github.com/repos/russellmcc/eurorack_headphones/git/trees{/sha}
-updated_at: '2023-01-02T19:09:19Z'
-url: https://api.github.com/repos/russellmcc/eurorack_headphones
-visibility: public
-watchers: 18
-watchers_count: 18
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/russellmcc/eurorack_headphones/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/russellmcc/eurorack_headphones/assignees{/user}
+  blobs_url: https://api.github.com/repos/russellmcc/eurorack_headphones/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/russellmcc/eurorack_headphones/branches{/branch}
+  clone_url: https://github.com/russellmcc/eurorack_headphones.git
+  collaborators_url: https://api.github.com/repos/russellmcc/eurorack_headphones/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/russellmcc/eurorack_headphones/comments{/number}
+  commits_url: https://api.github.com/repos/russellmcc/eurorack_headphones/commits{/sha}
+  compare_url: https://api.github.com/repos/russellmcc/eurorack_headphones/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/russellmcc/eurorack_headphones/contents/{+path}
+  contributors_url: https://api.github.com/repos/russellmcc/eurorack_headphones/contributors
+  created_at: '2013-02-07T02:23:45Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/russellmcc/eurorack_headphones/deployments
+  description: A headphone amp/line amp output for Eurorack
+  disabled: false
+  downloads_url: https://api.github.com/repos/russellmcc/eurorack_headphones/downloads
+  events_url: https://api.github.com/repos/russellmcc/eurorack_headphones/events
+  fork: false
+  forks: 4
+  forks_count: 4
+  forks_url: https://api.github.com/repos/russellmcc/eurorack_headphones/forks
+  full_name: russellmcc/eurorack_headphones
+  git_commits_url: https://api.github.com/repos/russellmcc/eurorack_headphones/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/russellmcc/eurorack_headphones/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/russellmcc/eurorack_headphones/git/tags{/sha}
+  git_url: git://github.com/russellmcc/eurorack_headphones.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/russellmcc/eurorack_headphones/hooks
+  html_url: https://github.com/russellmcc/eurorack_headphones
+  id: 8064831
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/russellmcc/eurorack_headphones/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/russellmcc/eurorack_headphones/issues/events{/number}
+  issues_url: https://api.github.com/repos/russellmcc/eurorack_headphones/issues{/number}
+  keys_url: https://api.github.com/repos/russellmcc/eurorack_headphones/keys{/key_id}
+  labels_url: https://api.github.com/repos/russellmcc/eurorack_headphones/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/russellmcc/eurorack_headphones/languages
+  license: null
+  merges_url: https://api.github.com/repos/russellmcc/eurorack_headphones/merges
+  milestones_url: https://api.github.com/repos/russellmcc/eurorack_headphones/milestones{/number}
+  mirror_url: null
+  name: eurorack_headphones
+  node_id: MDEwOlJlcG9zaXRvcnk4MDY0ODMx
+  notifications_url: https://api.github.com/repos/russellmcc/eurorack_headphones/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/603279?v=4
+    events_url: https://api.github.com/users/russellmcc/events{/privacy}
+    followers_url: https://api.github.com/users/russellmcc/followers
+    following_url: https://api.github.com/users/russellmcc/following{/other_user}
+    gists_url: https://api.github.com/users/russellmcc/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/russellmcc
+    id: 603279
+    login: russellmcc
+    node_id: MDQ6VXNlcjYwMzI3OQ==
+    organizations_url: https://api.github.com/users/russellmcc/orgs
+    received_events_url: https://api.github.com/users/russellmcc/received_events
+    repos_url: https://api.github.com/users/russellmcc/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/russellmcc/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/russellmcc/subscriptions
+    type: User
+    url: https://api.github.com/users/russellmcc
+  private: false
+  pulls_url: https://api.github.com/repos/russellmcc/eurorack_headphones/pulls{/number}
+  pushed_at: '2017-06-29T04:00:47Z'
+  releases_url: https://api.github.com/repos/russellmcc/eurorack_headphones/releases{/id}
+  size: 424
+  ssh_url: git@github.com:russellmcc/eurorack_headphones.git
+  stargazers_count: 18
+  stargazers_url: https://api.github.com/repos/russellmcc/eurorack_headphones/stargazers
+  statuses_url: https://api.github.com/repos/russellmcc/eurorack_headphones/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/russellmcc/eurorack_headphones/subscribers
+  subscription_url: https://api.github.com/repos/russellmcc/eurorack_headphones/subscription
+  svn_url: https://github.com/russellmcc/eurorack_headphones
+  tags_url: https://api.github.com/repos/russellmcc/eurorack_headphones/tags
+  teams_url: https://api.github.com/repos/russellmcc/eurorack_headphones/teams
+  topics: []
+  trees_url: https://api.github.com/repos/russellmcc/eurorack_headphones/git/trees{/sha}
+  updated_at: '2023-01-02T19:09:19Z'
+  url: https://api.github.com/repos/russellmcc/eurorack_headphones
+  visibility: public
+  watchers: 18
+  watchers_count: 18
+  web_commit_signoff_required: false

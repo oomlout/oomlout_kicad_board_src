@@ -1,107 +1,123 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/branches{/branch}
-clone_url: https://github.com/sparkfunX/Safe_Cracker.git
-collaborators_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/comments{/number}
-commits_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/contributors
-created_at: '2017-03-04T05:00:51Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/deployments
-description: Use encoder feedback to try to glean the internal workings of a combination
-  safe.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/downloads
-events_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/events
 file_sch_flat: projects_flat/sparkfunx_safe_cracker/version_current/working/working.sch
 file_sch_folder: projects_folder/sparkfunx/Safe_Cracker/version_current/working/working.sch
-fork: false
-forks: 8
-forks_count: 8
-forks_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/forks
-full_name: sparkfunX/Safe_Cracker
-git_commits_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/git/tags{/sha}
-git_url: git://github.com/sparkfunX/Safe_Cracker.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/hooks
-html_url: https://github.com/sparkfunX/Safe_Cracker
-id: 83866267
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/issues{/number}
-keys_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/merges
-milestones_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/milestones{/number}
-mirror_url: null
-name: Safe_Cracker
-node_id: MDEwOlJlcG9zaXRvcnk4Mzg2NjI2Nw==
-notifications_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
-  events_url: https://api.github.com/users/sparkfunX/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfunX/followers
-  following_url: https://api.github.com/users/sparkfunX/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfunX
-  id: 25487355
-  login: sparkfunX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
-  organizations_url: https://api.github.com/users/sparkfunX/orgs
-  received_events_url: https://api.github.com/users/sparkfunX/received_events
-  repos_url: https://api.github.com/users/sparkfunX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfunX
-private: false
+links:
+  github_owner: sparkfunX
+  github_repo_name: Safe_Cracker
+  github_src: https://github.com/sparkfunX/Safe_Cracker
+  github_src_repo: https://github.com/sparkfunX/Safe_Cracker
+  oomp_bot: sparkfunx_safe_cracker
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfunx_safe_cracker
+  oomp_doc: projects/sparkfunx_safe_cracker/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfunx_safe_cracker
+  oomp_src_flat: projects_flat/sparkfunx_safe_cracker
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfunx_safe_cracker
+  oomp_src_folder: projects_folder\sparkfunx\Safe_Cracker\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfunx\Safe_Cracker\version_current\working
+oomp_key: oomp_sparkfunx_safe_cracker
+oomp_key_simple: sparkfunx_safe_cracker
 projects_flat: projects_flat/sparkfunx_safe_cracker/version_current/working
 projects_folder: projects_folder/sparkfunx/Safe_Cracker/version_current/working
-pulls_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/pulls{/number}
-pushed_at: '2017-07-26T17:11:07Z'
-releases_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/releases{/id}
-size: 2535
-ssh_url: git@github.com:sparkfunX/Safe_Cracker.git
-stargazers_count: 26
-stargazers_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/stargazers
-statuses_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/subscribers
-subscription_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/subscription
-svn_url: https://github.com/sparkfunX/Safe_Cracker
-tags_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/tags
-teams_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/git/trees{/sha}
-updated_at: '2023-01-27T20:29:19Z'
-url: https://api.github.com/repos/sparkfunX/Safe_Cracker
-visibility: public
-watchers: 26
-watchers_count: 26
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/branches{/branch}
+  clone_url: https://github.com/sparkfunX/Safe_Cracker.git
+  collaborators_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/contributors
+  created_at: '2017-03-04T05:00:51Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/deployments
+  description: Use encoder feedback to try to glean the internal workings of a combination
+    safe.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/downloads
+  events_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/events
+  fork: false
+  forks: 8
+  forks_count: 8
+  forks_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/forks
+  full_name: sparkfunX/Safe_Cracker
+  git_commits_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/git/tags{/sha}
+  git_url: git://github.com/sparkfunX/Safe_Cracker.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/hooks
+  html_url: https://github.com/sparkfunX/Safe_Cracker
+  id: 83866267
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/merges
+  milestones_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/milestones{/number}
+  mirror_url: null
+  name: Safe_Cracker
+  node_id: MDEwOlJlcG9zaXRvcnk4Mzg2NjI2Nw==
+  notifications_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
+    events_url: https://api.github.com/users/sparkfunX/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfunX/followers
+    following_url: https://api.github.com/users/sparkfunX/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfunX
+    id: 25487355
+    login: sparkfunX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
+    organizations_url: https://api.github.com/users/sparkfunX/orgs
+    received_events_url: https://api.github.com/users/sparkfunX/received_events
+    repos_url: https://api.github.com/users/sparkfunX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfunX
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/pulls{/number}
+  pushed_at: '2017-07-26T17:11:07Z'
+  releases_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/releases{/id}
+  size: 2535
+  ssh_url: git@github.com:sparkfunX/Safe_Cracker.git
+  stargazers_count: 26
+  stargazers_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/stargazers
+  statuses_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/subscribers
+  subscription_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/subscription
+  svn_url: https://github.com/sparkfunX/Safe_Cracker
+  tags_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/tags
+  teams_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfunX/Safe_Cracker/git/trees{/sha}
+  updated_at: '2023-01-27T20:29:19Z'
+  url: https://api.github.com/repos/sparkfunX/Safe_Cracker
+  visibility: public
+  watchers: 26
+  watchers_count: 26
+  web_commit_signoff_required: false

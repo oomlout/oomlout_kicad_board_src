@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/natsfr/ElecSnip/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/natsfr/ElecSnip/assignees{/user}
-blobs_url: https://api.github.com/repos/natsfr/ElecSnip/git/blobs{/sha}
-branches_url: https://api.github.com/repos/natsfr/ElecSnip/branches{/branch}
-clone_url: https://github.com/natsfr/ElecSnip.git
-collaborators_url: https://api.github.com/repos/natsfr/ElecSnip/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/natsfr/ElecSnip/comments{/number}
-commits_url: https://api.github.com/repos/natsfr/ElecSnip/commits{/sha}
-compare_url: https://api.github.com/repos/natsfr/ElecSnip/compare/{base}...{head}
-contents_url: https://api.github.com/repos/natsfr/ElecSnip/contents/{+path}
-contributors_url: https://api.github.com/repos/natsfr/ElecSnip/contributors
-created_at: '2015-09-06T23:56:49Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/natsfr/ElecSnip/deployments
-description: 'This repos is no more maintained please use: https://code.electrolab.fr/nats/ElecSnip'
-disabled: false
-downloads_url: https://api.github.com/repos/natsfr/ElecSnip/downloads
-events_url: https://api.github.com/repos/natsfr/ElecSnip/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/natsfr/ElecSnip/forks
-full_name: natsfr/ElecSnip
-git_commits_url: https://api.github.com/repos/natsfr/ElecSnip/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/natsfr/ElecSnip/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/natsfr/ElecSnip/git/tags{/sha}
-git_url: git://github.com/natsfr/ElecSnip.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/natsfr/ElecSnip/hooks
-html_url: https://github.com/natsfr/ElecSnip
-id: 42022910
-is_template: false
-issue_comment_url: https://api.github.com/repos/natsfr/ElecSnip/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/natsfr/ElecSnip/issues/events{/number}
-issues_url: https://api.github.com/repos/natsfr/ElecSnip/issues{/number}
-keys_url: https://api.github.com/repos/natsfr/ElecSnip/keys{/key_id}
-labels_url: https://api.github.com/repos/natsfr/ElecSnip/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/natsfr/ElecSnip/languages
-license: null
-merges_url: https://api.github.com/repos/natsfr/ElecSnip/merges
-milestones_url: https://api.github.com/repos/natsfr/ElecSnip/milestones{/number}
-mirror_url: null
-name: ElecSnip
-node_id: MDEwOlJlcG9zaXRvcnk0MjAyMjkxMA==
-notifications_url: https://api.github.com/repos/natsfr/ElecSnip/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/347164?v=4
-  events_url: https://api.github.com/users/natsfr/events{/privacy}
-  followers_url: https://api.github.com/users/natsfr/followers
-  following_url: https://api.github.com/users/natsfr/following{/other_user}
-  gists_url: https://api.github.com/users/natsfr/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/natsfr
-  id: 347164
-  login: natsfr
-  node_id: MDQ6VXNlcjM0NzE2NA==
-  organizations_url: https://api.github.com/users/natsfr/orgs
-  received_events_url: https://api.github.com/users/natsfr/received_events
-  repos_url: https://api.github.com/users/natsfr/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/natsfr/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/natsfr/subscriptions
-  type: User
-  url: https://api.github.com/users/natsfr
-private: false
+links:
+  github_owner: natsfr
+  github_repo_name: ElecSnip
+  github_src: https://github.com/natsfr/ElecSnip
+  github_src_repo: https://github.com/natsfr/ElecSnip
+  oomp_bot: projects_natsfr_elecsnip
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_natsfr_elecsnip
+  oomp_doc: projects/projects_flat_natsfr_elecsnip/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_natsfr_elecsnip
+  oomp_src_flat: projects_flat/projects_flat_natsfr_elecsnip
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_natsfr_elecsnip
+  oomp_src_folder: projects_flat\natsfr_elecsnip\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\natsfr_elecsnip\version_current\working
+oomp_key: oomp_projects_flat_natsfr_elecsnip
+oomp_key_simple: projects_flat_natsfr_elecsnip
 projects_flat: projects_flat/natsfr_elecsnip/version_current/working
 projects_folder: projects_folder/natsfr/ElecSnip/version_current/working
-pulls_url: https://api.github.com/repos/natsfr/ElecSnip/pulls{/number}
-pushed_at: '2018-03-19T19:57:19Z'
-releases_url: https://api.github.com/repos/natsfr/ElecSnip/releases{/id}
-size: 14256
-ssh_url: git@github.com:natsfr/ElecSnip.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/natsfr/ElecSnip/stargazers
-statuses_url: https://api.github.com/repos/natsfr/ElecSnip/statuses/{sha}
-subscribers_url: https://api.github.com/repos/natsfr/ElecSnip/subscribers
-subscription_url: https://api.github.com/repos/natsfr/ElecSnip/subscription
-svn_url: https://github.com/natsfr/ElecSnip
-tags_url: https://api.github.com/repos/natsfr/ElecSnip/tags
-teams_url: https://api.github.com/repos/natsfr/ElecSnip/teams
-topics: []
-trees_url: https://api.github.com/repos/natsfr/ElecSnip/git/trees{/sha}
-updated_at: '2018-06-16T12:30:37Z'
-url: https://api.github.com/repos/natsfr/ElecSnip
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/natsfr/ElecSnip/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/natsfr/ElecSnip/assignees{/user}
+  blobs_url: https://api.github.com/repos/natsfr/ElecSnip/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/natsfr/ElecSnip/branches{/branch}
+  clone_url: https://github.com/natsfr/ElecSnip.git
+  collaborators_url: https://api.github.com/repos/natsfr/ElecSnip/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/natsfr/ElecSnip/comments{/number}
+  commits_url: https://api.github.com/repos/natsfr/ElecSnip/commits{/sha}
+  compare_url: https://api.github.com/repos/natsfr/ElecSnip/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/natsfr/ElecSnip/contents/{+path}
+  contributors_url: https://api.github.com/repos/natsfr/ElecSnip/contributors
+  created_at: '2015-09-06T23:56:49Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/natsfr/ElecSnip/deployments
+  description: 'This repos is no more maintained please use: https://code.electrolab.fr/nats/ElecSnip'
+  disabled: false
+  downloads_url: https://api.github.com/repos/natsfr/ElecSnip/downloads
+  events_url: https://api.github.com/repos/natsfr/ElecSnip/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/natsfr/ElecSnip/forks
+  full_name: natsfr/ElecSnip
+  git_commits_url: https://api.github.com/repos/natsfr/ElecSnip/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/natsfr/ElecSnip/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/natsfr/ElecSnip/git/tags{/sha}
+  git_url: git://github.com/natsfr/ElecSnip.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/natsfr/ElecSnip/hooks
+  html_url: https://github.com/natsfr/ElecSnip
+  id: 42022910
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/natsfr/ElecSnip/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/natsfr/ElecSnip/issues/events{/number}
+  issues_url: https://api.github.com/repos/natsfr/ElecSnip/issues{/number}
+  keys_url: https://api.github.com/repos/natsfr/ElecSnip/keys{/key_id}
+  labels_url: https://api.github.com/repos/natsfr/ElecSnip/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/natsfr/ElecSnip/languages
+  license: null
+  merges_url: https://api.github.com/repos/natsfr/ElecSnip/merges
+  milestones_url: https://api.github.com/repos/natsfr/ElecSnip/milestones{/number}
+  mirror_url: null
+  name: ElecSnip
+  node_id: MDEwOlJlcG9zaXRvcnk0MjAyMjkxMA==
+  notifications_url: https://api.github.com/repos/natsfr/ElecSnip/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/347164?v=4
+    events_url: https://api.github.com/users/natsfr/events{/privacy}
+    followers_url: https://api.github.com/users/natsfr/followers
+    following_url: https://api.github.com/users/natsfr/following{/other_user}
+    gists_url: https://api.github.com/users/natsfr/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/natsfr
+    id: 347164
+    login: natsfr
+    node_id: MDQ6VXNlcjM0NzE2NA==
+    organizations_url: https://api.github.com/users/natsfr/orgs
+    received_events_url: https://api.github.com/users/natsfr/received_events
+    repos_url: https://api.github.com/users/natsfr/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/natsfr/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/natsfr/subscriptions
+    type: User
+    url: https://api.github.com/users/natsfr
+  private: false
+  pulls_url: https://api.github.com/repos/natsfr/ElecSnip/pulls{/number}
+  pushed_at: '2018-03-19T19:57:19Z'
+  releases_url: https://api.github.com/repos/natsfr/ElecSnip/releases{/id}
+  size: 14256
+  ssh_url: git@github.com:natsfr/ElecSnip.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/natsfr/ElecSnip/stargazers
+  statuses_url: https://api.github.com/repos/natsfr/ElecSnip/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/natsfr/ElecSnip/subscribers
+  subscription_url: https://api.github.com/repos/natsfr/ElecSnip/subscription
+  svn_url: https://github.com/natsfr/ElecSnip
+  tags_url: https://api.github.com/repos/natsfr/ElecSnip/tags
+  teams_url: https://api.github.com/repos/natsfr/ElecSnip/teams
+  topics: []
+  trees_url: https://api.github.com/repos/natsfr/ElecSnip/git/trees{/sha}
+  updated_at: '2018-06-16T12:30:37Z'
+  url: https://api.github.com/repos/natsfr/ElecSnip
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

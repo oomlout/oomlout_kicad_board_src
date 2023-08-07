@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/assignees{/user}
-blobs_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/git/blobs{/sha}
-branches_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/branches{/branch}
-clone_url: https://github.com/hairymnstr/ndkicadlibrary.git
-collaborators_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/comments{/number}
-commits_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/commits{/sha}
-compare_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/compare/{base}...{head}
-contents_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/contents/{+path}
-contributors_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/contributors
-created_at: '2012-05-16T20:25:58Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/deployments
-description: My KiCAD libraries.  Modified versions of the ones distributed some years
-  ago now.
-disabled: false
-downloads_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/downloads
-events_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/forks
-full_name: hairymnstr/ndkicadlibrary
-git_commits_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/git/tags{/sha}
-git_url: git://github.com/hairymnstr/ndkicadlibrary.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/hooks
-html_url: https://github.com/hairymnstr/ndkicadlibrary
-id: 4351475
-is_template: false
-issue_comment_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/issues/events{/number}
-issues_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/issues{/number}
-keys_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/keys{/key_id}
-labels_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/labels{/name}
-language: Python
-languages_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/languages
-license: null
-merges_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/merges
-milestones_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/milestones{/number}
-mirror_url: null
-name: ndkicadlibrary
-node_id: MDEwOlJlcG9zaXRvcnk0MzUxNDc1
-notifications_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/145487?v=4
-  events_url: https://api.github.com/users/hairymnstr/events{/privacy}
-  followers_url: https://api.github.com/users/hairymnstr/followers
-  following_url: https://api.github.com/users/hairymnstr/following{/other_user}
-  gists_url: https://api.github.com/users/hairymnstr/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/hairymnstr
-  id: 145487
-  login: hairymnstr
-  node_id: MDQ6VXNlcjE0NTQ4Nw==
-  organizations_url: https://api.github.com/users/hairymnstr/orgs
-  received_events_url: https://api.github.com/users/hairymnstr/received_events
-  repos_url: https://api.github.com/users/hairymnstr/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/hairymnstr/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/hairymnstr/subscriptions
-  type: User
-  url: https://api.github.com/users/hairymnstr
-private: false
+links:
+  github_owner: hairymnstr
+  github_repo_name: ndkicadlibrary
+  github_src: https://github.com/hairymnstr/ndkicadlibrary
+  github_src_repo: https://github.com/hairymnstr/ndkicadlibrary
+  oomp_bot: hairymnstr_ndkicadlibrary
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/hairymnstr_ndkicadlibrary
+  oomp_doc: projects/hairymnstr_ndkicadlibrary/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/hairymnstr_ndkicadlibrary
+  oomp_src_flat: projects_flat/hairymnstr_ndkicadlibrary
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/hairymnstr_ndkicadlibrary
+  oomp_src_folder: projects_folder\hairymnstr\ndkicadlibrary\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\hairymnstr\ndkicadlibrary\version_current\working
+oomp_key: oomp_hairymnstr_ndkicadlibrary
+oomp_key_simple: hairymnstr_ndkicadlibrary
 projects_flat: projects_flat/hairymnstr_ndkicadlibrary/version_current/working
 projects_folder: projects_folder/hairymnstr/ndkicadlibrary/version_current/working
-pulls_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/pulls{/number}
-pushed_at: '2021-10-30T14:13:54Z'
-releases_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/releases{/id}
-size: 12009
-ssh_url: git@github.com:hairymnstr/ndkicadlibrary.git
-stargazers_count: 6
-stargazers_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/stargazers
-statuses_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/statuses/{sha}
-subscribers_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/subscribers
-subscription_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/subscription
-svn_url: https://github.com/hairymnstr/ndkicadlibrary
-tags_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/tags
-teams_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/teams
-topics: []
-trees_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/git/trees{/sha}
-updated_at: '2021-10-30T14:13:59Z'
-url: https://api.github.com/repos/hairymnstr/ndkicadlibrary
-visibility: public
-watchers: 6
-watchers_count: 6
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/assignees{/user}
+  blobs_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/branches{/branch}
+  clone_url: https://github.com/hairymnstr/ndkicadlibrary.git
+  collaborators_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/comments{/number}
+  commits_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/commits{/sha}
+  compare_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/contents/{+path}
+  contributors_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/contributors
+  created_at: '2012-05-16T20:25:58Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/deployments
+  description: My KiCAD libraries.  Modified versions of the ones distributed some
+    years ago now.
+  disabled: false
+  downloads_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/downloads
+  events_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/forks
+  full_name: hairymnstr/ndkicadlibrary
+  git_commits_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/git/tags{/sha}
+  git_url: git://github.com/hairymnstr/ndkicadlibrary.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/hooks
+  html_url: https://github.com/hairymnstr/ndkicadlibrary
+  id: 4351475
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/issues/events{/number}
+  issues_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/issues{/number}
+  keys_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/keys{/key_id}
+  labels_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/labels{/name}
+  language: Python
+  languages_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/languages
+  license: null
+  merges_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/merges
+  milestones_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/milestones{/number}
+  mirror_url: null
+  name: ndkicadlibrary
+  node_id: MDEwOlJlcG9zaXRvcnk0MzUxNDc1
+  notifications_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/145487?v=4
+    events_url: https://api.github.com/users/hairymnstr/events{/privacy}
+    followers_url: https://api.github.com/users/hairymnstr/followers
+    following_url: https://api.github.com/users/hairymnstr/following{/other_user}
+    gists_url: https://api.github.com/users/hairymnstr/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/hairymnstr
+    id: 145487
+    login: hairymnstr
+    node_id: MDQ6VXNlcjE0NTQ4Nw==
+    organizations_url: https://api.github.com/users/hairymnstr/orgs
+    received_events_url: https://api.github.com/users/hairymnstr/received_events
+    repos_url: https://api.github.com/users/hairymnstr/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/hairymnstr/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/hairymnstr/subscriptions
+    type: User
+    url: https://api.github.com/users/hairymnstr
+  private: false
+  pulls_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/pulls{/number}
+  pushed_at: '2021-10-30T14:13:54Z'
+  releases_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/releases{/id}
+  size: 12009
+  ssh_url: git@github.com:hairymnstr/ndkicadlibrary.git
+  stargazers_count: 6
+  stargazers_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/stargazers
+  statuses_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/subscribers
+  subscription_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/subscription
+  svn_url: https://github.com/hairymnstr/ndkicadlibrary
+  tags_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/tags
+  teams_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/teams
+  topics: []
+  trees_url: https://api.github.com/repos/hairymnstr/ndkicadlibrary/git/trees{/sha}
+  updated_at: '2021-10-30T14:13:59Z'
+  url: https://api.github.com/repos/hairymnstr/ndkicadlibrary
+  visibility: public
+  watchers: 6
+  watchers_count: 6
+  web_commit_signoff_required: false

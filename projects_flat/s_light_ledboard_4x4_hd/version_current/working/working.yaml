@@ -1,108 +1,124 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/assignees{/user}
-blobs_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/git/blobs{/sha}
-branches_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/branches{/branch}
-clone_url: https://github.com/s-light/LEDBoard_4x4_HD.git
-collaborators_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/comments{/number}
-commits_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/commits{/sha}
-compare_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/compare/{base}...{head}
-contents_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/contents/{+path}
-contributors_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/contributors
-created_at: '2018-10-15T16:03:36Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/deployments
-description: PCBs for magic amulet
-disabled: false
-downloads_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/downloads
-events_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/forks
-full_name: s-light/LEDBoard_4x4_HD
-git_commits_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/git/tags{/sha}
-git_url: git://github.com/s-light/LEDBoard_4x4_HD.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: false
-has_wiki: false
-homepage: ''
-hooks_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/hooks
-html_url: https://github.com/s-light/LEDBoard_4x4_HD
-id: 153142796
-is_template: false
-issue_comment_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/issues/events{/number}
-issues_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/issues{/number}
-keys_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/keys{/key_id}
-labels_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/merges
-milestones_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/milestones{/number}
-mirror_url: null
-name: LEDBoard_4x4_HD
-node_id: MDEwOlJlcG9zaXRvcnkxNTMxNDI3OTY=
-notifications_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1340319?v=4
-  events_url: https://api.github.com/users/s-light/events{/privacy}
-  followers_url: https://api.github.com/users/s-light/followers
-  following_url: https://api.github.com/users/s-light/following{/other_user}
-  gists_url: https://api.github.com/users/s-light/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/s-light
-  id: 1340319
-  login: s-light
-  node_id: MDQ6VXNlcjEzNDAzMTk=
-  organizations_url: https://api.github.com/users/s-light/orgs
-  received_events_url: https://api.github.com/users/s-light/received_events
-  repos_url: https://api.github.com/users/s-light/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/s-light/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/s-light/subscriptions
-  type: User
-  url: https://api.github.com/users/s-light
-private: false
+links:
+  github_owner: s-light
+  github_repo_name: LEDBoard_4x4_HD
+  github_src: https://github.com/s-light/LEDBoard_4x4_HD
+  github_src_repo: https://github.com/s-light/LEDBoard_4x4_HD
+  oomp_bot: projects_s_light_ledboard_4x4_hd
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_s_light_ledboard_4x4_hd
+  oomp_doc: projects/projects_flat_s_light_ledboard_4x4_hd/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_s_light_ledboard_4x4_hd
+  oomp_src_flat: projects_flat/projects_flat_s_light_ledboard_4x4_hd
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_s_light_ledboard_4x4_hd
+  oomp_src_folder: projects_flat\s_light_ledboard_4x4_hd\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\s_light_ledboard_4x4_hd\version_current\working
+oomp_key: oomp_projects_flat_s_light_ledboard_4x4_hd
+oomp_key_simple: projects_flat_s_light_ledboard_4x4_hd
 projects_flat: projects_flat/s_light_ledboard_4x4_hd/version_current/working
 projects_folder: projects_folder/s-light/LEDBoard_4x4_HD/version_current/working
-pulls_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/pulls{/number}
-pushed_at: '2022-04-20T06:15:36Z'
-releases_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/releases{/id}
-size: 5981
-ssh_url: git@github.com:s-light/LEDBoard_4x4_HD.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/stargazers
-statuses_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/statuses/{sha}
-subscribers_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/subscribers
-subscription_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/subscription
-svn_url: https://github.com/s-light/LEDBoard_4x4_HD
-tags_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/tags
-teams_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/teams
-topics:
-- 16bit
-- hardware
-- led
-- open
-trees_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/git/trees{/sha}
-updated_at: '2022-01-28T22:29:48Z'
-url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/assignees{/user}
+  blobs_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/branches{/branch}
+  clone_url: https://github.com/s-light/LEDBoard_4x4_HD.git
+  collaborators_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/comments{/number}
+  commits_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/commits{/sha}
+  compare_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/contents/{+path}
+  contributors_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/contributors
+  created_at: '2018-10-15T16:03:36Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/deployments
+  description: PCBs for magic amulet
+  disabled: false
+  downloads_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/downloads
+  events_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/forks
+  full_name: s-light/LEDBoard_4x4_HD
+  git_commits_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/git/tags{/sha}
+  git_url: git://github.com/s-light/LEDBoard_4x4_HD.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: false
+  has_wiki: false
+  homepage: ''
+  hooks_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/hooks
+  html_url: https://github.com/s-light/LEDBoard_4x4_HD
+  id: 153142796
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/issues/events{/number}
+  issues_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/issues{/number}
+  keys_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/keys{/key_id}
+  labels_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/merges
+  milestones_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/milestones{/number}
+  mirror_url: null
+  name: LEDBoard_4x4_HD
+  node_id: MDEwOlJlcG9zaXRvcnkxNTMxNDI3OTY=
+  notifications_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1340319?v=4
+    events_url: https://api.github.com/users/s-light/events{/privacy}
+    followers_url: https://api.github.com/users/s-light/followers
+    following_url: https://api.github.com/users/s-light/following{/other_user}
+    gists_url: https://api.github.com/users/s-light/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/s-light
+    id: 1340319
+    login: s-light
+    node_id: MDQ6VXNlcjEzNDAzMTk=
+    organizations_url: https://api.github.com/users/s-light/orgs
+    received_events_url: https://api.github.com/users/s-light/received_events
+    repos_url: https://api.github.com/users/s-light/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/s-light/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/s-light/subscriptions
+    type: User
+    url: https://api.github.com/users/s-light
+  private: false
+  pulls_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/pulls{/number}
+  pushed_at: '2022-04-20T06:15:36Z'
+  releases_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/releases{/id}
+  size: 5981
+  ssh_url: git@github.com:s-light/LEDBoard_4x4_HD.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/stargazers
+  statuses_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/subscribers
+  subscription_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/subscription
+  svn_url: https://github.com/s-light/LEDBoard_4x4_HD
+  tags_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/tags
+  teams_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/teams
+  topics:
+  - 16bit
+  - hardware
+  - led
+  - open
+  trees_url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD/git/trees{/sha}
+  updated_at: '2022-01-28T22:29:48Z'
+  url: https://api.github.com/repos/s-light/LEDBoard_4x4_HD
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

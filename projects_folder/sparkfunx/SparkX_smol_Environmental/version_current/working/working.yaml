@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/branches{/branch}
-clone_url: https://github.com/sparkfunX/SparkX_smol_Environmental.git
-collaborators_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/comments{/number}
-commits_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/contributors
-created_at: '2021-11-01T18:39:52Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/deployments
-description: "An environmental monitoring peripheral board for sm\xF4l - SGP40, BME280\
-  \ and VEML7700"
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/downloads
-events_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/forks
-full_name: sparkfunX/SparkX_smol_Environmental
-git_commits_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/git/tags{/sha}
-git_url: git://github.com/sparkfunX/SparkX_smol_Environmental.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/hooks
-html_url: https://github.com/sparkfunX/SparkX_smol_Environmental
-id: 423577054
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/issues{/number}
-keys_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/merges
-milestones_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/milestones{/number}
-mirror_url: null
-name: SparkX_smol_Environmental
-node_id: R_kgDOGT9F3g
-notifications_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
-  events_url: https://api.github.com/users/sparkfunX/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfunX/followers
-  following_url: https://api.github.com/users/sparkfunX/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfunX
-  id: 25487355
-  login: sparkfunX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
-  organizations_url: https://api.github.com/users/sparkfunX/orgs
-  received_events_url: https://api.github.com/users/sparkfunX/received_events
-  repos_url: https://api.github.com/users/sparkfunX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfunX
-private: false
+links:
+  github_owner: sparkfunX
+  github_repo_name: SparkX_smol_Environmental
+  github_src: https://github.com/sparkfunX/SparkX_smol_Environmental
+  github_src_repo: https://github.com/sparkfunX/SparkX_smol_Environmental
+  oomp_bot: sparkfunx_sparkx_smol_environmental
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfunx_sparkx_smol_environmental
+  oomp_doc: projects/sparkfunx_sparkx_smol_environmental/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfunx_sparkx_smol_environmental
+  oomp_src_flat: projects_flat/sparkfunx_sparkx_smol_environmental
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfunx_sparkx_smol_environmental
+  oomp_src_folder: projects_folder\sparkfunx\SparkX_smol_Environmental\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfunx\SparkX_smol_Environmental\version_current\working
+oomp_key: oomp_sparkfunx_sparkx_smol_environmental
+oomp_key_simple: sparkfunx_sparkx_smol_environmental
 projects_flat: projects_flat/sparkfunx_sparkx_smol_environmental/version_current/working
 projects_folder: projects_folder/sparkfunx/SparkX_smol_Environmental/version_current/working
-pulls_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/pulls{/number}
-pushed_at: '2022-02-03T15:48:47Z'
-releases_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/releases{/id}
-size: 6363
-ssh_url: git@github.com:sparkfunX/SparkX_smol_Environmental.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/stargazers
-statuses_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/subscribers
-subscription_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/subscription
-svn_url: https://github.com/sparkfunX/SparkX_smol_Environmental
-tags_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/tags
-teams_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/git/trees{/sha}
-updated_at: '2022-03-09T23:50:15Z'
-url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/branches{/branch}
+  clone_url: https://github.com/sparkfunX/SparkX_smol_Environmental.git
+  collaborators_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/contributors
+  created_at: '2021-11-01T18:39:52Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/deployments
+  description: "An environmental monitoring peripheral board for sm\xF4l - SGP40,\
+    \ BME280 and VEML7700"
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/downloads
+  events_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/forks
+  full_name: sparkfunX/SparkX_smol_Environmental
+  git_commits_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/git/tags{/sha}
+  git_url: git://github.com/sparkfunX/SparkX_smol_Environmental.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/hooks
+  html_url: https://github.com/sparkfunX/SparkX_smol_Environmental
+  id: 423577054
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/merges
+  milestones_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/milestones{/number}
+  mirror_url: null
+  name: SparkX_smol_Environmental
+  node_id: R_kgDOGT9F3g
+  notifications_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
+    events_url: https://api.github.com/users/sparkfunX/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfunX/followers
+    following_url: https://api.github.com/users/sparkfunX/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfunX
+    id: 25487355
+    login: sparkfunX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
+    organizations_url: https://api.github.com/users/sparkfunX/orgs
+    received_events_url: https://api.github.com/users/sparkfunX/received_events
+    repos_url: https://api.github.com/users/sparkfunX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfunX
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/pulls{/number}
+  pushed_at: '2022-02-03T15:48:47Z'
+  releases_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/releases{/id}
+  size: 6363
+  ssh_url: git@github.com:sparkfunX/SparkX_smol_Environmental.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/stargazers
+  statuses_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/subscribers
+  subscription_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/subscription
+  svn_url: https://github.com/sparkfunX/SparkX_smol_Environmental
+  tags_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/tags
+  teams_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental/git/trees{/sha}
+  updated_at: '2022-03-09T23:50:15Z'
+  url: https://api.github.com/repos/sparkfunX/SparkX_smol_Environmental
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

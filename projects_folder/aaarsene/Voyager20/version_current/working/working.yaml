@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/aaarsene/Voyager20/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/aaarsene/Voyager20/assignees{/user}
-blobs_url: https://api.github.com/repos/aaarsene/Voyager20/git/blobs{/sha}
-branches_url: https://api.github.com/repos/aaarsene/Voyager20/branches{/branch}
-clone_url: https://github.com/aaarsene/Voyager20.git
-collaborators_url: https://api.github.com/repos/aaarsene/Voyager20/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/aaarsene/Voyager20/comments{/number}
-commits_url: https://api.github.com/repos/aaarsene/Voyager20/commits{/sha}
-compare_url: https://api.github.com/repos/aaarsene/Voyager20/compare/{base}...{head}
-contents_url: https://api.github.com/repos/aaarsene/Voyager20/contents/{+path}
-contributors_url: https://api.github.com/repos/aaarsene/Voyager20/contributors
-created_at: '2022-03-04T20:16:45Z'
-default_branch: FnRow
-deployments_url: https://api.github.com/repos/aaarsene/Voyager20/deployments
-description: A simple numpad PCB
-disabled: false
-downloads_url: https://api.github.com/repos/aaarsene/Voyager20/downloads
-events_url: https://api.github.com/repos/aaarsene/Voyager20/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/aaarsene/Voyager20/forks
-full_name: aaarsene/Voyager20
-git_commits_url: https://api.github.com/repos/aaarsene/Voyager20/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/aaarsene/Voyager20/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/aaarsene/Voyager20/git/tags{/sha}
-git_url: git://github.com/aaarsene/Voyager20.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/aaarsene/Voyager20/hooks
-html_url: https://github.com/aaarsene/Voyager20
-id: 466258728
-is_template: false
-issue_comment_url: https://api.github.com/repos/aaarsene/Voyager20/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/aaarsene/Voyager20/issues/events{/number}
-issues_url: https://api.github.com/repos/aaarsene/Voyager20/issues{/number}
-keys_url: https://api.github.com/repos/aaarsene/Voyager20/keys{/key_id}
-labels_url: https://api.github.com/repos/aaarsene/Voyager20/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/aaarsene/Voyager20/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/aaarsene/Voyager20/merges
-milestones_url: https://api.github.com/repos/aaarsene/Voyager20/milestones{/number}
-mirror_url: null
-name: Voyager20
-node_id: R_kgDOG8qLKA
-notifications_url: https://api.github.com/repos/aaarsene/Voyager20/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/7239085?v=4
-  events_url: https://api.github.com/users/aaarsene/events{/privacy}
-  followers_url: https://api.github.com/users/aaarsene/followers
-  following_url: https://api.github.com/users/aaarsene/following{/other_user}
-  gists_url: https://api.github.com/users/aaarsene/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/aaarsene
-  id: 7239085
-  login: aaarsene
-  node_id: MDQ6VXNlcjcyMzkwODU=
-  organizations_url: https://api.github.com/users/aaarsene/orgs
-  received_events_url: https://api.github.com/users/aaarsene/received_events
-  repos_url: https://api.github.com/users/aaarsene/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/aaarsene/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/aaarsene/subscriptions
-  type: User
-  url: https://api.github.com/users/aaarsene
-private: false
+links:
+  github_owner: aaarsene
+  github_repo_name: Voyager20
+  github_src: https://github.com/aaarsene/Voyager20
+  github_src_repo: https://github.com/aaarsene/Voyager20
+  oomp_bot: aaarsene_voyager20
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/aaarsene_voyager20
+  oomp_doc: projects/aaarsene_voyager20/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/aaarsene_voyager20
+  oomp_src_flat: projects_flat/aaarsene_voyager20
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/aaarsene_voyager20
+  oomp_src_folder: projects_folder\aaarsene\Voyager20\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\aaarsene\Voyager20\version_current\working
+oomp_key: oomp_aaarsene_voyager20
+oomp_key_simple: aaarsene_voyager20
 projects_flat: projects_flat/aaarsene_voyager20/version_current/working
 projects_folder: projects_folder/aaarsene/Voyager20/version_current/working
-pulls_url: https://api.github.com/repos/aaarsene/Voyager20/pulls{/number}
-pushed_at: '2022-03-19T13:03:36Z'
-releases_url: https://api.github.com/repos/aaarsene/Voyager20/releases{/id}
-size: 2759
-ssh_url: git@github.com:aaarsene/Voyager20.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/aaarsene/Voyager20/stargazers
-statuses_url: https://api.github.com/repos/aaarsene/Voyager20/statuses/{sha}
-subscribers_url: https://api.github.com/repos/aaarsene/Voyager20/subscribers
-subscription_url: https://api.github.com/repos/aaarsene/Voyager20/subscription
-svn_url: https://github.com/aaarsene/Voyager20
-tags_url: https://api.github.com/repos/aaarsene/Voyager20/tags
-teams_url: https://api.github.com/repos/aaarsene/Voyager20/teams
-topics: []
-trees_url: https://api.github.com/repos/aaarsene/Voyager20/git/trees{/sha}
-updated_at: '2021-12-17T10:11:28Z'
-url: https://api.github.com/repos/aaarsene/Voyager20
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/aaarsene/Voyager20/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/aaarsene/Voyager20/assignees{/user}
+  blobs_url: https://api.github.com/repos/aaarsene/Voyager20/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/aaarsene/Voyager20/branches{/branch}
+  clone_url: https://github.com/aaarsene/Voyager20.git
+  collaborators_url: https://api.github.com/repos/aaarsene/Voyager20/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/aaarsene/Voyager20/comments{/number}
+  commits_url: https://api.github.com/repos/aaarsene/Voyager20/commits{/sha}
+  compare_url: https://api.github.com/repos/aaarsene/Voyager20/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/aaarsene/Voyager20/contents/{+path}
+  contributors_url: https://api.github.com/repos/aaarsene/Voyager20/contributors
+  created_at: '2022-03-04T20:16:45Z'
+  default_branch: FnRow
+  deployments_url: https://api.github.com/repos/aaarsene/Voyager20/deployments
+  description: A simple numpad PCB
+  disabled: false
+  downloads_url: https://api.github.com/repos/aaarsene/Voyager20/downloads
+  events_url: https://api.github.com/repos/aaarsene/Voyager20/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/aaarsene/Voyager20/forks
+  full_name: aaarsene/Voyager20
+  git_commits_url: https://api.github.com/repos/aaarsene/Voyager20/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/aaarsene/Voyager20/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/aaarsene/Voyager20/git/tags{/sha}
+  git_url: git://github.com/aaarsene/Voyager20.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/aaarsene/Voyager20/hooks
+  html_url: https://github.com/aaarsene/Voyager20
+  id: 466258728
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/aaarsene/Voyager20/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/aaarsene/Voyager20/issues/events{/number}
+  issues_url: https://api.github.com/repos/aaarsene/Voyager20/issues{/number}
+  keys_url: https://api.github.com/repos/aaarsene/Voyager20/keys{/key_id}
+  labels_url: https://api.github.com/repos/aaarsene/Voyager20/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/aaarsene/Voyager20/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/aaarsene/Voyager20/merges
+  milestones_url: https://api.github.com/repos/aaarsene/Voyager20/milestones{/number}
+  mirror_url: null
+  name: Voyager20
+  node_id: R_kgDOG8qLKA
+  notifications_url: https://api.github.com/repos/aaarsene/Voyager20/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/7239085?v=4
+    events_url: https://api.github.com/users/aaarsene/events{/privacy}
+    followers_url: https://api.github.com/users/aaarsene/followers
+    following_url: https://api.github.com/users/aaarsene/following{/other_user}
+    gists_url: https://api.github.com/users/aaarsene/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/aaarsene
+    id: 7239085
+    login: aaarsene
+    node_id: MDQ6VXNlcjcyMzkwODU=
+    organizations_url: https://api.github.com/users/aaarsene/orgs
+    received_events_url: https://api.github.com/users/aaarsene/received_events
+    repos_url: https://api.github.com/users/aaarsene/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/aaarsene/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/aaarsene/subscriptions
+    type: User
+    url: https://api.github.com/users/aaarsene
+  private: false
+  pulls_url: https://api.github.com/repos/aaarsene/Voyager20/pulls{/number}
+  pushed_at: '2022-03-19T13:03:36Z'
+  releases_url: https://api.github.com/repos/aaarsene/Voyager20/releases{/id}
+  size: 2759
+  ssh_url: git@github.com:aaarsene/Voyager20.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/aaarsene/Voyager20/stargazers
+  statuses_url: https://api.github.com/repos/aaarsene/Voyager20/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/aaarsene/Voyager20/subscribers
+  subscription_url: https://api.github.com/repos/aaarsene/Voyager20/subscription
+  svn_url: https://github.com/aaarsene/Voyager20
+  tags_url: https://api.github.com/repos/aaarsene/Voyager20/tags
+  teams_url: https://api.github.com/repos/aaarsene/Voyager20/teams
+  topics: []
+  trees_url: https://api.github.com/repos/aaarsene/Voyager20/git/trees{/sha}
+  updated_at: '2021-12-17T10:11:28Z'
+  url: https://api.github.com/repos/aaarsene/Voyager20
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

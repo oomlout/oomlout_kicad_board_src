@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/assignees{/user}
-blobs_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/git/blobs{/sha}
-branches_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/branches{/branch}
-clone_url: https://github.com/garrettsworkshop/BUSJUMP.git
-collaborators_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/comments{/number}
-commits_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/commits{/sha}
-compare_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/compare/{base}...{head}
-contents_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/contents/{+path}
-contributors_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/contributors
-created_at: '2019-07-21T21:29:37Z'
-default_branch: dev
-deployments_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/deployments
-description: Apple II "bus jumper" card. Connects DMA and INT in/out pins of non-adjacent
-  slots
-disabled: false
-downloads_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/downloads
-events_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/forks
-full_name: garrettsworkshop/BUSJUMP
-git_commits_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/git/tags{/sha}
-git_url: git://github.com/garrettsworkshop/BUSJUMP.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/hooks
-html_url: https://github.com/garrettsworkshop/BUSJUMP
-id: 198107141
-is_template: false
-issue_comment_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/issues/events{/number}
-issues_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/issues{/number}
-keys_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/keys{/key_id}
-labels_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/languages
-license: null
-merges_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/merges
-milestones_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/milestones{/number}
-mirror_url: null
-name: BUSJUMP
-node_id: MDEwOlJlcG9zaXRvcnkxOTgxMDcxNDE=
-notifications_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
-  events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
-  followers_url: https://api.github.com/users/garrettsworkshop/followers
-  following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
-  gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/garrettsworkshop
-  id: 65582366
-  login: garrettsworkshop
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
-  organizations_url: https://api.github.com/users/garrettsworkshop/orgs
-  received_events_url: https://api.github.com/users/garrettsworkshop/received_events
-  repos_url: https://api.github.com/users/garrettsworkshop/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
-  type: Organization
-  url: https://api.github.com/users/garrettsworkshop
-private: false
+links:
+  github_owner: garrettsworkshop
+  github_repo_name: BUSJUMP
+  github_src: https://github.com/garrettsworkshop/BUSJUMP
+  github_src_repo: https://github.com/garrettsworkshop/BUSJUMP
+  oomp_bot: garrettsworkshop_busjump
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/garrettsworkshop_busjump
+  oomp_doc: projects/garrettsworkshop_busjump/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/garrettsworkshop_busjump
+  oomp_src_flat: projects_flat/garrettsworkshop_busjump
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/garrettsworkshop_busjump
+  oomp_src_folder: projects_folder\garrettsworkshop\BUSJUMP\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\garrettsworkshop\BUSJUMP\version_current\working
+oomp_key: oomp_garrettsworkshop_busjump
+oomp_key_simple: garrettsworkshop_busjump
 projects_flat: projects_flat/garrettsworkshop_busjump/version_current/working
 projects_folder: projects_folder/garrettsworkshop/BUSJUMP/version_current/working
-pulls_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/pulls{/number}
-pushed_at: '2019-07-21T21:38:14Z'
-releases_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/releases{/id}
-size: 207
-ssh_url: git@github.com:garrettsworkshop/BUSJUMP.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/stargazers
-statuses_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/statuses/{sha}
-subscribers_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/subscribers
-subscription_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/subscription
-svn_url: https://github.com/garrettsworkshop/BUSJUMP
-tags_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/tags
-teams_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/teams
-topics: []
-trees_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/git/trees{/sha}
-updated_at: '2022-06-01T04:48:14Z'
-url: https://api.github.com/repos/garrettsworkshop/BUSJUMP
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/assignees{/user}
+  blobs_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/branches{/branch}
+  clone_url: https://github.com/garrettsworkshop/BUSJUMP.git
+  collaborators_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/comments{/number}
+  commits_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/commits{/sha}
+  compare_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/contents/{+path}
+  contributors_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/contributors
+  created_at: '2019-07-21T21:29:37Z'
+  default_branch: dev
+  deployments_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/deployments
+  description: Apple II "bus jumper" card. Connects DMA and INT in/out pins of non-adjacent
+    slots
+  disabled: false
+  downloads_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/downloads
+  events_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/forks
+  full_name: garrettsworkshop/BUSJUMP
+  git_commits_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/git/tags{/sha}
+  git_url: git://github.com/garrettsworkshop/BUSJUMP.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/hooks
+  html_url: https://github.com/garrettsworkshop/BUSJUMP
+  id: 198107141
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/issues/events{/number}
+  issues_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/issues{/number}
+  keys_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/keys{/key_id}
+  labels_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/languages
+  license: null
+  merges_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/merges
+  milestones_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/milestones{/number}
+  mirror_url: null
+  name: BUSJUMP
+  node_id: MDEwOlJlcG9zaXRvcnkxOTgxMDcxNDE=
+  notifications_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
+    events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
+    followers_url: https://api.github.com/users/garrettsworkshop/followers
+    following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
+    gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/garrettsworkshop
+    id: 65582366
+    login: garrettsworkshop
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
+    organizations_url: https://api.github.com/users/garrettsworkshop/orgs
+    received_events_url: https://api.github.com/users/garrettsworkshop/received_events
+    repos_url: https://api.github.com/users/garrettsworkshop/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
+    type: Organization
+    url: https://api.github.com/users/garrettsworkshop
+  private: false
+  pulls_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/pulls{/number}
+  pushed_at: '2019-07-21T21:38:14Z'
+  releases_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/releases{/id}
+  size: 207
+  ssh_url: git@github.com:garrettsworkshop/BUSJUMP.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/stargazers
+  statuses_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/subscribers
+  subscription_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/subscription
+  svn_url: https://github.com/garrettsworkshop/BUSJUMP
+  tags_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/tags
+  teams_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/teams
+  topics: []
+  trees_url: https://api.github.com/repos/garrettsworkshop/BUSJUMP/git/trees{/sha}
+  updated_at: '2022-06-01T04:48:14Z'
+  url: https://api.github.com/repos/garrettsworkshop/BUSJUMP
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

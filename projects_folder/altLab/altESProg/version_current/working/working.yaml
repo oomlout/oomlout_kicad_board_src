@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/altLab/altESProg/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/altLab/altESProg/assignees{/user}
-blobs_url: https://api.github.com/repos/altLab/altESProg/git/blobs{/sha}
-branches_url: https://api.github.com/repos/altLab/altESProg/branches{/branch}
-clone_url: https://github.com/altLab/altESProg.git
-collaborators_url: https://api.github.com/repos/altLab/altESProg/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/altLab/altESProg/comments{/number}
-commits_url: https://api.github.com/repos/altLab/altESProg/commits{/sha}
-compare_url: https://api.github.com/repos/altLab/altESProg/compare/{base}...{head}
-contents_url: https://api.github.com/repos/altLab/altESProg/contents/{+path}
-contributors_url: https://api.github.com/repos/altLab/altESProg/contributors
-created_at: '2016-11-16T00:52:38Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/altLab/altESProg/deployments
-description: Respositorio para as tralhas do altESProg
-disabled: false
-downloads_url: https://api.github.com/repos/altLab/altESProg/downloads
-events_url: https://api.github.com/repos/altLab/altESProg/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/altLab/altESProg/forks
-full_name: altLab/altESProg
-git_commits_url: https://api.github.com/repos/altLab/altESProg/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/altLab/altESProg/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/altLab/altESProg/git/tags{/sha}
-git_url: git://github.com/altLab/altESProg.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/altLab/altESProg/hooks
-html_url: https://github.com/altLab/altESProg
-id: 73869058
-is_template: false
-issue_comment_url: https://api.github.com/repos/altLab/altESProg/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/altLab/altESProg/issues/events{/number}
-issues_url: https://api.github.com/repos/altLab/altESProg/issues{/number}
-keys_url: https://api.github.com/repos/altLab/altESProg/keys{/key_id}
-labels_url: https://api.github.com/repos/altLab/altESProg/labels{/name}
-language: OpenSCAD
-languages_url: https://api.github.com/repos/altLab/altESProg/languages
-license: null
-merges_url: https://api.github.com/repos/altLab/altESProg/merges
-milestones_url: https://api.github.com/repos/altLab/altESProg/milestones{/number}
-mirror_url: null
-name: altESProg
-node_id: MDEwOlJlcG9zaXRvcnk3Mzg2OTA1OA==
-notifications_url: https://api.github.com/repos/altLab/altESProg/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5864781?v=4
-  events_url: https://api.github.com/users/altLab/events{/privacy}
-  followers_url: https://api.github.com/users/altLab/followers
-  following_url: https://api.github.com/users/altLab/following{/other_user}
-  gists_url: https://api.github.com/users/altLab/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/altLab
-  id: 5864781
-  login: altLab
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU4NjQ3ODE=
-  organizations_url: https://api.github.com/users/altLab/orgs
-  received_events_url: https://api.github.com/users/altLab/received_events
-  repos_url: https://api.github.com/users/altLab/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/altLab/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/altLab/subscriptions
-  type: Organization
-  url: https://api.github.com/users/altLab
-private: false
+links:
+  github_owner: altLab
+  github_repo_name: altESProg
+  github_src: https://github.com/altLab/altESProg
+  github_src_repo: https://github.com/altLab/altESProg
+  oomp_bot: altlab_altesprog
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/altlab_altesprog
+  oomp_doc: projects/altlab_altesprog/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/altlab_altesprog
+  oomp_src_flat: projects_flat/altlab_altesprog
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/altlab_altesprog
+  oomp_src_folder: projects_folder\altLab\altESProg\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\altLab\altESProg\version_current\working
+oomp_key: oomp_altlab_altesprog
+oomp_key_simple: altlab_altesprog
 projects_flat: projects_flat/altlab_altesprog/version_current/working
 projects_folder: projects_folder/altLab/altESProg/version_current/working
-pulls_url: https://api.github.com/repos/altLab/altESProg/pulls{/number}
-pushed_at: '2021-11-09T22:40:26Z'
-releases_url: https://api.github.com/repos/altLab/altESProg/releases{/id}
-size: 1541
-ssh_url: git@github.com:altLab/altESProg.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/altLab/altESProg/stargazers
-statuses_url: https://api.github.com/repos/altLab/altESProg/statuses/{sha}
-subscribers_url: https://api.github.com/repos/altLab/altESProg/subscribers
-subscription_url: https://api.github.com/repos/altLab/altESProg/subscription
-svn_url: https://github.com/altLab/altESProg
-tags_url: https://api.github.com/repos/altLab/altESProg/tags
-teams_url: https://api.github.com/repos/altLab/altESProg/teams
-topics: []
-trees_url: https://api.github.com/repos/altLab/altESProg/git/trees{/sha}
-updated_at: '2017-11-09T20:02:40Z'
-url: https://api.github.com/repos/altLab/altESProg
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/altLab/altESProg/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/altLab/altESProg/assignees{/user}
+  blobs_url: https://api.github.com/repos/altLab/altESProg/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/altLab/altESProg/branches{/branch}
+  clone_url: https://github.com/altLab/altESProg.git
+  collaborators_url: https://api.github.com/repos/altLab/altESProg/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/altLab/altESProg/comments{/number}
+  commits_url: https://api.github.com/repos/altLab/altESProg/commits{/sha}
+  compare_url: https://api.github.com/repos/altLab/altESProg/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/altLab/altESProg/contents/{+path}
+  contributors_url: https://api.github.com/repos/altLab/altESProg/contributors
+  created_at: '2016-11-16T00:52:38Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/altLab/altESProg/deployments
+  description: Respositorio para as tralhas do altESProg
+  disabled: false
+  downloads_url: https://api.github.com/repos/altLab/altESProg/downloads
+  events_url: https://api.github.com/repos/altLab/altESProg/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/altLab/altESProg/forks
+  full_name: altLab/altESProg
+  git_commits_url: https://api.github.com/repos/altLab/altESProg/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/altLab/altESProg/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/altLab/altESProg/git/tags{/sha}
+  git_url: git://github.com/altLab/altESProg.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/altLab/altESProg/hooks
+  html_url: https://github.com/altLab/altESProg
+  id: 73869058
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/altLab/altESProg/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/altLab/altESProg/issues/events{/number}
+  issues_url: https://api.github.com/repos/altLab/altESProg/issues{/number}
+  keys_url: https://api.github.com/repos/altLab/altESProg/keys{/key_id}
+  labels_url: https://api.github.com/repos/altLab/altESProg/labels{/name}
+  language: OpenSCAD
+  languages_url: https://api.github.com/repos/altLab/altESProg/languages
+  license: null
+  merges_url: https://api.github.com/repos/altLab/altESProg/merges
+  milestones_url: https://api.github.com/repos/altLab/altESProg/milestones{/number}
+  mirror_url: null
+  name: altESProg
+  node_id: MDEwOlJlcG9zaXRvcnk3Mzg2OTA1OA==
+  notifications_url: https://api.github.com/repos/altLab/altESProg/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5864781?v=4
+    events_url: https://api.github.com/users/altLab/events{/privacy}
+    followers_url: https://api.github.com/users/altLab/followers
+    following_url: https://api.github.com/users/altLab/following{/other_user}
+    gists_url: https://api.github.com/users/altLab/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/altLab
+    id: 5864781
+    login: altLab
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU4NjQ3ODE=
+    organizations_url: https://api.github.com/users/altLab/orgs
+    received_events_url: https://api.github.com/users/altLab/received_events
+    repos_url: https://api.github.com/users/altLab/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/altLab/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/altLab/subscriptions
+    type: Organization
+    url: https://api.github.com/users/altLab
+  private: false
+  pulls_url: https://api.github.com/repos/altLab/altESProg/pulls{/number}
+  pushed_at: '2021-11-09T22:40:26Z'
+  releases_url: https://api.github.com/repos/altLab/altESProg/releases{/id}
+  size: 1541
+  ssh_url: git@github.com:altLab/altESProg.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/altLab/altESProg/stargazers
+  statuses_url: https://api.github.com/repos/altLab/altESProg/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/altLab/altESProg/subscribers
+  subscription_url: https://api.github.com/repos/altLab/altESProg/subscription
+  svn_url: https://github.com/altLab/altESProg
+  tags_url: https://api.github.com/repos/altLab/altESProg/tags
+  teams_url: https://api.github.com/repos/altLab/altESProg/teams
+  topics: []
+  trees_url: https://api.github.com/repos/altLab/altESProg/git/trees{/sha}
+  updated_at: '2017-11-09T20:02:40Z'
+  url: https://api.github.com/repos/altLab/altESProg
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

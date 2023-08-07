@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dqmcdonald/InsanityBox/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dqmcdonald/InsanityBox/assignees{/user}
-blobs_url: https://api.github.com/repos/dqmcdonald/InsanityBox/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dqmcdonald/InsanityBox/branches{/branch}
-clone_url: https://github.com/dqmcdonald/InsanityBox.git
-collaborators_url: https://api.github.com/repos/dqmcdonald/InsanityBox/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dqmcdonald/InsanityBox/comments{/number}
-commits_url: https://api.github.com/repos/dqmcdonald/InsanityBox/commits{/sha}
-compare_url: https://api.github.com/repos/dqmcdonald/InsanityBox/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dqmcdonald/InsanityBox/contents/{+path}
-contributors_url: https://api.github.com/repos/dqmcdonald/InsanityBox/contributors
-created_at: '2016-10-17T20:45:45Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/dqmcdonald/InsanityBox/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/dqmcdonald/InsanityBox/downloads
-events_url: https://api.github.com/repos/dqmcdonald/InsanityBox/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/dqmcdonald/InsanityBox/forks
-full_name: dqmcdonald/InsanityBox
-git_commits_url: https://api.github.com/repos/dqmcdonald/InsanityBox/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dqmcdonald/InsanityBox/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dqmcdonald/InsanityBox/git/tags{/sha}
-git_url: git://github.com/dqmcdonald/InsanityBox.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/dqmcdonald/InsanityBox/hooks
-html_url: https://github.com/dqmcdonald/InsanityBox
-id: 71179732
-is_template: false
-issue_comment_url: https://api.github.com/repos/dqmcdonald/InsanityBox/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dqmcdonald/InsanityBox/issues/events{/number}
-issues_url: https://api.github.com/repos/dqmcdonald/InsanityBox/issues{/number}
-keys_url: https://api.github.com/repos/dqmcdonald/InsanityBox/keys{/key_id}
-labels_url: https://api.github.com/repos/dqmcdonald/InsanityBox/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/dqmcdonald/InsanityBox/languages
-license: null
-merges_url: https://api.github.com/repos/dqmcdonald/InsanityBox/merges
-milestones_url: https://api.github.com/repos/dqmcdonald/InsanityBox/milestones{/number}
-mirror_url: null
-name: InsanityBox
-node_id: MDEwOlJlcG9zaXRvcnk3MTE3OTczMg==
-notifications_url: https://api.github.com/repos/dqmcdonald/InsanityBox/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1847673?v=4
-  events_url: https://api.github.com/users/dqmcdonald/events{/privacy}
-  followers_url: https://api.github.com/users/dqmcdonald/followers
-  following_url: https://api.github.com/users/dqmcdonald/following{/other_user}
-  gists_url: https://api.github.com/users/dqmcdonald/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dqmcdonald
-  id: 1847673
-  login: dqmcdonald
-  node_id: MDQ6VXNlcjE4NDc2NzM=
-  organizations_url: https://api.github.com/users/dqmcdonald/orgs
-  received_events_url: https://api.github.com/users/dqmcdonald/received_events
-  repos_url: https://api.github.com/users/dqmcdonald/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dqmcdonald/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dqmcdonald/subscriptions
-  type: User
-  url: https://api.github.com/users/dqmcdonald
-private: false
+links:
+  github_owner: dqmcdonald
+  github_repo_name: InsanityBox
+  github_src: https://github.com/dqmcdonald/InsanityBox
+  github_src_repo: https://github.com/dqmcdonald/InsanityBox
+  oomp_bot: dqmcdonald_insanitybox
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/dqmcdonald_insanitybox
+  oomp_doc: projects/dqmcdonald_insanitybox/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/dqmcdonald_insanitybox
+  oomp_src_flat: projects_flat/dqmcdonald_insanitybox
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/dqmcdonald_insanitybox
+  oomp_src_folder: projects_folder\dqmcdonald\InsanityBox\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\dqmcdonald\InsanityBox\version_current\working
+oomp_key: oomp_dqmcdonald_insanitybox
+oomp_key_simple: dqmcdonald_insanitybox
 projects_flat: projects_flat/dqmcdonald_insanitybox/version_current/working
 projects_folder: projects_folder/dqmcdonald/InsanityBox/version_current/working
-pulls_url: https://api.github.com/repos/dqmcdonald/InsanityBox/pulls{/number}
-pushed_at: '2016-10-17T20:45:51Z'
-releases_url: https://api.github.com/repos/dqmcdonald/InsanityBox/releases{/id}
-size: 54
-ssh_url: git@github.com:dqmcdonald/InsanityBox.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/dqmcdonald/InsanityBox/stargazers
-statuses_url: https://api.github.com/repos/dqmcdonald/InsanityBox/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dqmcdonald/InsanityBox/subscribers
-subscription_url: https://api.github.com/repos/dqmcdonald/InsanityBox/subscription
-svn_url: https://github.com/dqmcdonald/InsanityBox
-tags_url: https://api.github.com/repos/dqmcdonald/InsanityBox/tags
-teams_url: https://api.github.com/repos/dqmcdonald/InsanityBox/teams
-topics: []
-trees_url: https://api.github.com/repos/dqmcdonald/InsanityBox/git/trees{/sha}
-updated_at: '2016-10-17T20:45:52Z'
-url: https://api.github.com/repos/dqmcdonald/InsanityBox
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dqmcdonald/InsanityBox/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dqmcdonald/InsanityBox/assignees{/user}
+  blobs_url: https://api.github.com/repos/dqmcdonald/InsanityBox/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dqmcdonald/InsanityBox/branches{/branch}
+  clone_url: https://github.com/dqmcdonald/InsanityBox.git
+  collaborators_url: https://api.github.com/repos/dqmcdonald/InsanityBox/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dqmcdonald/InsanityBox/comments{/number}
+  commits_url: https://api.github.com/repos/dqmcdonald/InsanityBox/commits{/sha}
+  compare_url: https://api.github.com/repos/dqmcdonald/InsanityBox/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dqmcdonald/InsanityBox/contents/{+path}
+  contributors_url: https://api.github.com/repos/dqmcdonald/InsanityBox/contributors
+  created_at: '2016-10-17T20:45:45Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/dqmcdonald/InsanityBox/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/dqmcdonald/InsanityBox/downloads
+  events_url: https://api.github.com/repos/dqmcdonald/InsanityBox/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/dqmcdonald/InsanityBox/forks
+  full_name: dqmcdonald/InsanityBox
+  git_commits_url: https://api.github.com/repos/dqmcdonald/InsanityBox/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dqmcdonald/InsanityBox/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dqmcdonald/InsanityBox/git/tags{/sha}
+  git_url: git://github.com/dqmcdonald/InsanityBox.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/dqmcdonald/InsanityBox/hooks
+  html_url: https://github.com/dqmcdonald/InsanityBox
+  id: 71179732
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dqmcdonald/InsanityBox/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dqmcdonald/InsanityBox/issues/events{/number}
+  issues_url: https://api.github.com/repos/dqmcdonald/InsanityBox/issues{/number}
+  keys_url: https://api.github.com/repos/dqmcdonald/InsanityBox/keys{/key_id}
+  labels_url: https://api.github.com/repos/dqmcdonald/InsanityBox/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/dqmcdonald/InsanityBox/languages
+  license: null
+  merges_url: https://api.github.com/repos/dqmcdonald/InsanityBox/merges
+  milestones_url: https://api.github.com/repos/dqmcdonald/InsanityBox/milestones{/number}
+  mirror_url: null
+  name: InsanityBox
+  node_id: MDEwOlJlcG9zaXRvcnk3MTE3OTczMg==
+  notifications_url: https://api.github.com/repos/dqmcdonald/InsanityBox/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1847673?v=4
+    events_url: https://api.github.com/users/dqmcdonald/events{/privacy}
+    followers_url: https://api.github.com/users/dqmcdonald/followers
+    following_url: https://api.github.com/users/dqmcdonald/following{/other_user}
+    gists_url: https://api.github.com/users/dqmcdonald/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dqmcdonald
+    id: 1847673
+    login: dqmcdonald
+    node_id: MDQ6VXNlcjE4NDc2NzM=
+    organizations_url: https://api.github.com/users/dqmcdonald/orgs
+    received_events_url: https://api.github.com/users/dqmcdonald/received_events
+    repos_url: https://api.github.com/users/dqmcdonald/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dqmcdonald/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dqmcdonald/subscriptions
+    type: User
+    url: https://api.github.com/users/dqmcdonald
+  private: false
+  pulls_url: https://api.github.com/repos/dqmcdonald/InsanityBox/pulls{/number}
+  pushed_at: '2016-10-17T20:45:51Z'
+  releases_url: https://api.github.com/repos/dqmcdonald/InsanityBox/releases{/id}
+  size: 54
+  ssh_url: git@github.com:dqmcdonald/InsanityBox.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/dqmcdonald/InsanityBox/stargazers
+  statuses_url: https://api.github.com/repos/dqmcdonald/InsanityBox/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dqmcdonald/InsanityBox/subscribers
+  subscription_url: https://api.github.com/repos/dqmcdonald/InsanityBox/subscription
+  svn_url: https://github.com/dqmcdonald/InsanityBox
+  tags_url: https://api.github.com/repos/dqmcdonald/InsanityBox/tags
+  teams_url: https://api.github.com/repos/dqmcdonald/InsanityBox/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dqmcdonald/InsanityBox/git/trees{/sha}
+  updated_at: '2016-10-17T20:45:52Z'
+  url: https://api.github.com/repos/dqmcdonald/InsanityBox
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

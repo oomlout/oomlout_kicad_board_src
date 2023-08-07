@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/{archive_format}{/ref}
-archived: true
-assignees_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/assignees{/user}
-blobs_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/branches{/branch}
-clone_url: https://github.com/ai03-2725/unified-s9-solenoid-controller.git
-collaborators_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/comments{/number}
-commits_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/commits{/sha}
-compare_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/contents/{+path}
-contributors_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/contributors
-created_at: '2020-03-24T01:40:04Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/deployments
-description: An universal 9V solenoid controller based on xwhatit's work
-disabled: false
-downloads_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/downloads
-events_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/forks
-full_name: ai03-2725/unified-s9-solenoid-controller
-git_commits_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/git/tags{/sha}
-git_url: git://github.com/ai03-2725/unified-s9-solenoid-controller.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/hooks
-html_url: https://github.com/ai03-2725/unified-s9-solenoid-controller
-id: 249585419
-is_template: false
-issue_comment_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/issues/events{/number}
-issues_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/issues{/number}
-keys_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/keys{/key_id}
-labels_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/merges
-milestones_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/milestones{/number}
-mirror_url: null
-name: unified-s9-solenoid-controller
-node_id: MDEwOlJlcG9zaXRvcnkyNDk1ODU0MTk=
-notifications_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/26614352?v=4
-  events_url: https://api.github.com/users/ai03-2725/events{/privacy}
-  followers_url: https://api.github.com/users/ai03-2725/followers
-  following_url: https://api.github.com/users/ai03-2725/following{/other_user}
-  gists_url: https://api.github.com/users/ai03-2725/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ai03-2725
-  id: 26614352
-  login: ai03-2725
-  node_id: MDQ6VXNlcjI2NjE0MzUy
-  organizations_url: https://api.github.com/users/ai03-2725/orgs
-  received_events_url: https://api.github.com/users/ai03-2725/received_events
-  repos_url: https://api.github.com/users/ai03-2725/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ai03-2725/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ai03-2725/subscriptions
-  type: User
-  url: https://api.github.com/users/ai03-2725
-private: false
+links:
+  github_owner: ai03-2725
+  github_repo_name: unified-s9-solenoid-controller
+  github_src: https://github.com/ai03-2725/unified-s9-solenoid-controller
+  github_src_repo: https://github.com/ai03-2725/unified-s9-solenoid-controller
+  oomp_bot: ai03_2725_unified_s9_solenoid_controller
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/ai03_2725_unified_s9_solenoid_controller
+  oomp_doc: projects/ai03_2725_unified_s9_solenoid_controller/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/ai03_2725_unified_s9_solenoid_controller
+  oomp_src_flat: projects_flat/ai03_2725_unified_s9_solenoid_controller
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/ai03_2725_unified_s9_solenoid_controller
+  oomp_src_folder: projects_folder\ai03-2725\unified-s9-solenoid-controller\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ai03-2725\unified-s9-solenoid-controller\version_current\working
+oomp_key: oomp_ai03_2725_unified_s9_solenoid_controller
+oomp_key_simple: ai03_2725_unified_s9_solenoid_controller
 projects_flat: projects_flat/ai03_2725_unified_s9_solenoid_controller/version_current/working
 projects_folder: projects_folder/ai03-2725/unified-s9-solenoid-controller/version_current/working
-pulls_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/pulls{/number}
-pushed_at: '2020-07-23T03:03:00Z'
-releases_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/releases{/id}
-size: 1545
-ssh_url: git@github.com:ai03-2725/unified-s9-solenoid-controller.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/stargazers
-statuses_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/subscribers
-subscription_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/subscription
-svn_url: https://github.com/ai03-2725/unified-s9-solenoid-controller
-tags_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/tags
-teams_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/teams
-topics: []
-trees_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/git/trees{/sha}
-updated_at: '2023-01-28T13:35:35Z'
-url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/{archive_format}{/ref}
+  archived: true
+  assignees_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/assignees{/user}
+  blobs_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/branches{/branch}
+  clone_url: https://github.com/ai03-2725/unified-s9-solenoid-controller.git
+  collaborators_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/comments{/number}
+  commits_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/commits{/sha}
+  compare_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/contents/{+path}
+  contributors_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/contributors
+  created_at: '2020-03-24T01:40:04Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/deployments
+  description: An universal 9V solenoid controller based on xwhatit's work
+  disabled: false
+  downloads_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/downloads
+  events_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/forks
+  full_name: ai03-2725/unified-s9-solenoid-controller
+  git_commits_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/git/tags{/sha}
+  git_url: git://github.com/ai03-2725/unified-s9-solenoid-controller.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/hooks
+  html_url: https://github.com/ai03-2725/unified-s9-solenoid-controller
+  id: 249585419
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/issues/events{/number}
+  issues_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/issues{/number}
+  keys_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/keys{/key_id}
+  labels_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/merges
+  milestones_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/milestones{/number}
+  mirror_url: null
+  name: unified-s9-solenoid-controller
+  node_id: MDEwOlJlcG9zaXRvcnkyNDk1ODU0MTk=
+  notifications_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/26614352?v=4
+    events_url: https://api.github.com/users/ai03-2725/events{/privacy}
+    followers_url: https://api.github.com/users/ai03-2725/followers
+    following_url: https://api.github.com/users/ai03-2725/following{/other_user}
+    gists_url: https://api.github.com/users/ai03-2725/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ai03-2725
+    id: 26614352
+    login: ai03-2725
+    node_id: MDQ6VXNlcjI2NjE0MzUy
+    organizations_url: https://api.github.com/users/ai03-2725/orgs
+    received_events_url: https://api.github.com/users/ai03-2725/received_events
+    repos_url: https://api.github.com/users/ai03-2725/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ai03-2725/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ai03-2725/subscriptions
+    type: User
+    url: https://api.github.com/users/ai03-2725
+  private: false
+  pulls_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/pulls{/number}
+  pushed_at: '2020-07-23T03:03:00Z'
+  releases_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/releases{/id}
+  size: 1545
+  ssh_url: git@github.com:ai03-2725/unified-s9-solenoid-controller.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/stargazers
+  statuses_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/subscribers
+  subscription_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/subscription
+  svn_url: https://github.com/ai03-2725/unified-s9-solenoid-controller
+  tags_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/tags
+  teams_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller/git/trees{/sha}
+  updated_at: '2023-01-28T13:35:35Z'
+  url: https://api.github.com/repos/ai03-2725/unified-s9-solenoid-controller
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

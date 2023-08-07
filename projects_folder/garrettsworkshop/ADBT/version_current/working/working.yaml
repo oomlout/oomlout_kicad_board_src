@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/garrettsworkshop/ADBT/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/garrettsworkshop/ADBT/assignees{/user}
-blobs_url: https://api.github.com/repos/garrettsworkshop/ADBT/git/blobs{/sha}
-branches_url: https://api.github.com/repos/garrettsworkshop/ADBT/branches{/branch}
-clone_url: https://github.com/garrettsworkshop/ADBT.git
-collaborators_url: https://api.github.com/repos/garrettsworkshop/ADBT/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/garrettsworkshop/ADBT/comments{/number}
-commits_url: https://api.github.com/repos/garrettsworkshop/ADBT/commits{/sha}
-compare_url: https://api.github.com/repos/garrettsworkshop/ADBT/compare/{base}...{head}
-contents_url: https://api.github.com/repos/garrettsworkshop/ADBT/contents/{+path}
-contributors_url: https://api.github.com/repos/garrettsworkshop/ADBT/contributors
-created_at: '2020-07-26T04:32:19Z'
-default_branch: dev
-deployments_url: https://api.github.com/repos/garrettsworkshop/ADBT/deployments
-description: Apple ADB Keyboard/Mouse to Bluetooth Converter (unfinished)
-disabled: false
-downloads_url: https://api.github.com/repos/garrettsworkshop/ADBT/downloads
-events_url: https://api.github.com/repos/garrettsworkshop/ADBT/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/garrettsworkshop/ADBT/forks
-full_name: garrettsworkshop/ADBT
-git_commits_url: https://api.github.com/repos/garrettsworkshop/ADBT/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/garrettsworkshop/ADBT/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/garrettsworkshop/ADBT/git/tags{/sha}
-git_url: git://github.com/garrettsworkshop/ADBT.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/garrettsworkshop/ADBT/hooks
-html_url: https://github.com/garrettsworkshop/ADBT
-id: 282575945
-is_template: false
-issue_comment_url: https://api.github.com/repos/garrettsworkshop/ADBT/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/garrettsworkshop/ADBT/issues/events{/number}
-issues_url: https://api.github.com/repos/garrettsworkshop/ADBT/issues{/number}
-keys_url: https://api.github.com/repos/garrettsworkshop/ADBT/keys{/key_id}
-labels_url: https://api.github.com/repos/garrettsworkshop/ADBT/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/garrettsworkshop/ADBT/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/garrettsworkshop/ADBT/merges
-milestones_url: https://api.github.com/repos/garrettsworkshop/ADBT/milestones{/number}
-mirror_url: null
-name: ADBT
-node_id: MDEwOlJlcG9zaXRvcnkyODI1NzU5NDU=
-notifications_url: https://api.github.com/repos/garrettsworkshop/ADBT/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
-  events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
-  followers_url: https://api.github.com/users/garrettsworkshop/followers
-  following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
-  gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/garrettsworkshop
-  id: 65582366
-  login: garrettsworkshop
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
-  organizations_url: https://api.github.com/users/garrettsworkshop/orgs
-  received_events_url: https://api.github.com/users/garrettsworkshop/received_events
-  repos_url: https://api.github.com/users/garrettsworkshop/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
-  type: Organization
-  url: https://api.github.com/users/garrettsworkshop
-private: false
+links:
+  github_owner: garrettsworkshop
+  github_repo_name: ADBT
+  github_src: https://github.com/garrettsworkshop/ADBT
+  github_src_repo: https://github.com/garrettsworkshop/ADBT
+  oomp_bot: garrettsworkshop_adbt
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/garrettsworkshop_adbt
+  oomp_doc: projects/garrettsworkshop_adbt/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/garrettsworkshop_adbt
+  oomp_src_flat: projects_flat/garrettsworkshop_adbt
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/garrettsworkshop_adbt
+  oomp_src_folder: projects_folder\garrettsworkshop\ADBT\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\garrettsworkshop\ADBT\version_current\working
+oomp_key: oomp_garrettsworkshop_adbt
+oomp_key_simple: garrettsworkshop_adbt
 projects_flat: projects_flat/garrettsworkshop_adbt/version_current/working
 projects_folder: projects_folder/garrettsworkshop/ADBT/version_current/working
-pulls_url: https://api.github.com/repos/garrettsworkshop/ADBT/pulls{/number}
-pushed_at: '2023-05-04T03:33:26Z'
-releases_url: https://api.github.com/repos/garrettsworkshop/ADBT/releases{/id}
-size: 3452
-ssh_url: git@github.com:garrettsworkshop/ADBT.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/garrettsworkshop/ADBT/stargazers
-statuses_url: https://api.github.com/repos/garrettsworkshop/ADBT/statuses/{sha}
-subscribers_url: https://api.github.com/repos/garrettsworkshop/ADBT/subscribers
-subscription_url: https://api.github.com/repos/garrettsworkshop/ADBT/subscription
-svn_url: https://github.com/garrettsworkshop/ADBT
-tags_url: https://api.github.com/repos/garrettsworkshop/ADBT/tags
-teams_url: https://api.github.com/repos/garrettsworkshop/ADBT/teams
-topics: []
-trees_url: https://api.github.com/repos/garrettsworkshop/ADBT/git/trees{/sha}
-updated_at: '2023-02-18T08:31:06Z'
-url: https://api.github.com/repos/garrettsworkshop/ADBT
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/garrettsworkshop/ADBT/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/garrettsworkshop/ADBT/assignees{/user}
+  blobs_url: https://api.github.com/repos/garrettsworkshop/ADBT/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/garrettsworkshop/ADBT/branches{/branch}
+  clone_url: https://github.com/garrettsworkshop/ADBT.git
+  collaborators_url: https://api.github.com/repos/garrettsworkshop/ADBT/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/garrettsworkshop/ADBT/comments{/number}
+  commits_url: https://api.github.com/repos/garrettsworkshop/ADBT/commits{/sha}
+  compare_url: https://api.github.com/repos/garrettsworkshop/ADBT/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/garrettsworkshop/ADBT/contents/{+path}
+  contributors_url: https://api.github.com/repos/garrettsworkshop/ADBT/contributors
+  created_at: '2020-07-26T04:32:19Z'
+  default_branch: dev
+  deployments_url: https://api.github.com/repos/garrettsworkshop/ADBT/deployments
+  description: Apple ADB Keyboard/Mouse to Bluetooth Converter (unfinished)
+  disabled: false
+  downloads_url: https://api.github.com/repos/garrettsworkshop/ADBT/downloads
+  events_url: https://api.github.com/repos/garrettsworkshop/ADBT/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/garrettsworkshop/ADBT/forks
+  full_name: garrettsworkshop/ADBT
+  git_commits_url: https://api.github.com/repos/garrettsworkshop/ADBT/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/garrettsworkshop/ADBT/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/garrettsworkshop/ADBT/git/tags{/sha}
+  git_url: git://github.com/garrettsworkshop/ADBT.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/garrettsworkshop/ADBT/hooks
+  html_url: https://github.com/garrettsworkshop/ADBT
+  id: 282575945
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/garrettsworkshop/ADBT/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/garrettsworkshop/ADBT/issues/events{/number}
+  issues_url: https://api.github.com/repos/garrettsworkshop/ADBT/issues{/number}
+  keys_url: https://api.github.com/repos/garrettsworkshop/ADBT/keys{/key_id}
+  labels_url: https://api.github.com/repos/garrettsworkshop/ADBT/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/garrettsworkshop/ADBT/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/garrettsworkshop/ADBT/merges
+  milestones_url: https://api.github.com/repos/garrettsworkshop/ADBT/milestones{/number}
+  mirror_url: null
+  name: ADBT
+  node_id: MDEwOlJlcG9zaXRvcnkyODI1NzU5NDU=
+  notifications_url: https://api.github.com/repos/garrettsworkshop/ADBT/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
+    events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
+    followers_url: https://api.github.com/users/garrettsworkshop/followers
+    following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
+    gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/garrettsworkshop
+    id: 65582366
+    login: garrettsworkshop
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
+    organizations_url: https://api.github.com/users/garrettsworkshop/orgs
+    received_events_url: https://api.github.com/users/garrettsworkshop/received_events
+    repos_url: https://api.github.com/users/garrettsworkshop/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
+    type: Organization
+    url: https://api.github.com/users/garrettsworkshop
+  private: false
+  pulls_url: https://api.github.com/repos/garrettsworkshop/ADBT/pulls{/number}
+  pushed_at: '2023-05-04T03:33:26Z'
+  releases_url: https://api.github.com/repos/garrettsworkshop/ADBT/releases{/id}
+  size: 3452
+  ssh_url: git@github.com:garrettsworkshop/ADBT.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/garrettsworkshop/ADBT/stargazers
+  statuses_url: https://api.github.com/repos/garrettsworkshop/ADBT/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/garrettsworkshop/ADBT/subscribers
+  subscription_url: https://api.github.com/repos/garrettsworkshop/ADBT/subscription
+  svn_url: https://github.com/garrettsworkshop/ADBT
+  tags_url: https://api.github.com/repos/garrettsworkshop/ADBT/tags
+  teams_url: https://api.github.com/repos/garrettsworkshop/ADBT/teams
+  topics: []
+  trees_url: https://api.github.com/repos/garrettsworkshop/ADBT/git/trees{/sha}
+  updated_at: '2023-02-18T08:31:06Z'
+  url: https://api.github.com/repos/garrettsworkshop/ADBT
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

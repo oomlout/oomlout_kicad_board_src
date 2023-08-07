@@ -1,109 +1,125 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/coddingtonbear/bullion/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/coddingtonbear/bullion/assignees{/user}
-blobs_url: https://api.github.com/repos/coddingtonbear/bullion/git/blobs{/sha}
-branches_url: https://api.github.com/repos/coddingtonbear/bullion/branches{/branch}
-clone_url: https://github.com/coddingtonbear/bullion.git
-collaborators_url: https://api.github.com/repos/coddingtonbear/bullion/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/coddingtonbear/bullion/comments{/number}
-commits_url: https://api.github.com/repos/coddingtonbear/bullion/commits{/sha}
-compare_url: https://api.github.com/repos/coddingtonbear/bullion/compare/{base}...{head}
-contents_url: https://api.github.com/repos/coddingtonbear/bullion/contents/{+path}
-contributors_url: https://api.github.com/repos/coddingtonbear/bullion/contributors
-created_at: '2017-01-16T02:20:22Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/coddingtonbear/bullion/deployments
-description: USB & SPI Interface for FS9721-based Multimeters (TP4000ZC)
-disabled: false
-downloads_url: https://api.github.com/repos/coddingtonbear/bullion/downloads
-events_url: https://api.github.com/repos/coddingtonbear/bullion/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/coddingtonbear/bullion/forks
-full_name: coddingtonbear/bullion
-git_commits_url: https://api.github.com/repos/coddingtonbear/bullion/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/coddingtonbear/bullion/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/coddingtonbear/bullion/git/tags{/sha}
-git_url: git://github.com/coddingtonbear/bullion.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/coddingtonbear/bullion/hooks
-html_url: https://github.com/coddingtonbear/bullion
-id: 79074895
-is_template: false
-issue_comment_url: https://api.github.com/repos/coddingtonbear/bullion/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/coddingtonbear/bullion/issues/events{/number}
-issues_url: https://api.github.com/repos/coddingtonbear/bullion/issues{/number}
-keys_url: https://api.github.com/repos/coddingtonbear/bullion/keys{/key_id}
-labels_url: https://api.github.com/repos/coddingtonbear/bullion/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/coddingtonbear/bullion/languages
-license: null
-merges_url: https://api.github.com/repos/coddingtonbear/bullion/merges
-milestones_url: https://api.github.com/repos/coddingtonbear/bullion/milestones{/number}
-mirror_url: null
-name: bullion
-node_id: MDEwOlJlcG9zaXRvcnk3OTA3NDg5NQ==
-notifications_url: https://api.github.com/repos/coddingtonbear/bullion/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/527661?v=4
-  events_url: https://api.github.com/users/coddingtonbear/events{/privacy}
-  followers_url: https://api.github.com/users/coddingtonbear/followers
-  following_url: https://api.github.com/users/coddingtonbear/following{/other_user}
-  gists_url: https://api.github.com/users/coddingtonbear/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/coddingtonbear
-  id: 527661
-  login: coddingtonbear
-  node_id: MDQ6VXNlcjUyNzY2MQ==
-  organizations_url: https://api.github.com/users/coddingtonbear/orgs
-  received_events_url: https://api.github.com/users/coddingtonbear/received_events
-  repos_url: https://api.github.com/users/coddingtonbear/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/coddingtonbear/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/coddingtonbear/subscriptions
-  type: User
-  url: https://api.github.com/users/coddingtonbear
-private: false
+links:
+  github_owner: coddingtonbear
+  github_repo_name: bullion
+  github_src: https://github.com/coddingtonbear/bullion
+  github_src_repo: https://github.com/coddingtonbear/bullion
+  oomp_bot: coddingtonbear_bullion
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/coddingtonbear_bullion
+  oomp_doc: projects/coddingtonbear_bullion/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/coddingtonbear_bullion
+  oomp_src_flat: projects_flat/coddingtonbear_bullion
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/coddingtonbear_bullion
+  oomp_src_folder: projects_folder\coddingtonbear\bullion\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\coddingtonbear\bullion\version_current\working
+oomp_key: oomp_coddingtonbear_bullion
+oomp_key_simple: coddingtonbear_bullion
 projects_flat: projects_flat/coddingtonbear_bullion/version_current/working
 projects_folder: projects_folder/coddingtonbear/bullion/version_current/working
-pulls_url: https://api.github.com/repos/coddingtonbear/bullion/pulls{/number}
-pushed_at: '2017-02-20T07:12:18Z'
-releases_url: https://api.github.com/repos/coddingtonbear/bullion/releases{/id}
-size: 119
-ssh_url: git@github.com:coddingtonbear/bullion.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/coddingtonbear/bullion/stargazers
-statuses_url: https://api.github.com/repos/coddingtonbear/bullion/statuses/{sha}
-subscribers_url: https://api.github.com/repos/coddingtonbear/bullion/subscribers
-subscription_url: https://api.github.com/repos/coddingtonbear/bullion/subscription
-svn_url: https://github.com/coddingtonbear/bullion
-tags_url: https://api.github.com/repos/coddingtonbear/bullion/tags
-teams_url: https://api.github.com/repos/coddingtonbear/bullion/teams
-topics:
-- arduino
-- atmega328pb
-- avr
-- hardware
-- hardware-designs
-- microcontroller
-- multimeter
-- pcb
-- spi
-- spi-interface
-trees_url: https://api.github.com/repos/coddingtonbear/bullion/git/trees{/sha}
-updated_at: '2017-12-11T06:25:10Z'
-url: https://api.github.com/repos/coddingtonbear/bullion
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/coddingtonbear/bullion/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/coddingtonbear/bullion/assignees{/user}
+  blobs_url: https://api.github.com/repos/coddingtonbear/bullion/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/coddingtonbear/bullion/branches{/branch}
+  clone_url: https://github.com/coddingtonbear/bullion.git
+  collaborators_url: https://api.github.com/repos/coddingtonbear/bullion/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/coddingtonbear/bullion/comments{/number}
+  commits_url: https://api.github.com/repos/coddingtonbear/bullion/commits{/sha}
+  compare_url: https://api.github.com/repos/coddingtonbear/bullion/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/coddingtonbear/bullion/contents/{+path}
+  contributors_url: https://api.github.com/repos/coddingtonbear/bullion/contributors
+  created_at: '2017-01-16T02:20:22Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/coddingtonbear/bullion/deployments
+  description: USB & SPI Interface for FS9721-based Multimeters (TP4000ZC)
+  disabled: false
+  downloads_url: https://api.github.com/repos/coddingtonbear/bullion/downloads
+  events_url: https://api.github.com/repos/coddingtonbear/bullion/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/coddingtonbear/bullion/forks
+  full_name: coddingtonbear/bullion
+  git_commits_url: https://api.github.com/repos/coddingtonbear/bullion/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/coddingtonbear/bullion/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/coddingtonbear/bullion/git/tags{/sha}
+  git_url: git://github.com/coddingtonbear/bullion.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/coddingtonbear/bullion/hooks
+  html_url: https://github.com/coddingtonbear/bullion
+  id: 79074895
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/coddingtonbear/bullion/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/coddingtonbear/bullion/issues/events{/number}
+  issues_url: https://api.github.com/repos/coddingtonbear/bullion/issues{/number}
+  keys_url: https://api.github.com/repos/coddingtonbear/bullion/keys{/key_id}
+  labels_url: https://api.github.com/repos/coddingtonbear/bullion/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/coddingtonbear/bullion/languages
+  license: null
+  merges_url: https://api.github.com/repos/coddingtonbear/bullion/merges
+  milestones_url: https://api.github.com/repos/coddingtonbear/bullion/milestones{/number}
+  mirror_url: null
+  name: bullion
+  node_id: MDEwOlJlcG9zaXRvcnk3OTA3NDg5NQ==
+  notifications_url: https://api.github.com/repos/coddingtonbear/bullion/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/527661?v=4
+    events_url: https://api.github.com/users/coddingtonbear/events{/privacy}
+    followers_url: https://api.github.com/users/coddingtonbear/followers
+    following_url: https://api.github.com/users/coddingtonbear/following{/other_user}
+    gists_url: https://api.github.com/users/coddingtonbear/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/coddingtonbear
+    id: 527661
+    login: coddingtonbear
+    node_id: MDQ6VXNlcjUyNzY2MQ==
+    organizations_url: https://api.github.com/users/coddingtonbear/orgs
+    received_events_url: https://api.github.com/users/coddingtonbear/received_events
+    repos_url: https://api.github.com/users/coddingtonbear/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/coddingtonbear/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/coddingtonbear/subscriptions
+    type: User
+    url: https://api.github.com/users/coddingtonbear
+  private: false
+  pulls_url: https://api.github.com/repos/coddingtonbear/bullion/pulls{/number}
+  pushed_at: '2017-02-20T07:12:18Z'
+  releases_url: https://api.github.com/repos/coddingtonbear/bullion/releases{/id}
+  size: 119
+  ssh_url: git@github.com:coddingtonbear/bullion.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/coddingtonbear/bullion/stargazers
+  statuses_url: https://api.github.com/repos/coddingtonbear/bullion/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/coddingtonbear/bullion/subscribers
+  subscription_url: https://api.github.com/repos/coddingtonbear/bullion/subscription
+  svn_url: https://github.com/coddingtonbear/bullion
+  tags_url: https://api.github.com/repos/coddingtonbear/bullion/tags
+  teams_url: https://api.github.com/repos/coddingtonbear/bullion/teams
+  topics:
+  - arduino
+  - atmega328pb
+  - avr
+  - hardware
+  - hardware-designs
+  - microcontroller
+  - multimeter
+  - pcb
+  - spi
+  - spi-interface
+  trees_url: https://api.github.com/repos/coddingtonbear/bullion/git/trees{/sha}
+  updated_at: '2017-12-11T06:25:10Z'
+  url: https://api.github.com/repos/coddingtonbear/bullion
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Alasofia/Squid60/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Alasofia/Squid60/assignees{/user}
-blobs_url: https://api.github.com/repos/Alasofia/Squid60/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Alasofia/Squid60/branches{/branch}
-clone_url: https://github.com/Alasofia/Squid60.git
-collaborators_url: https://api.github.com/repos/Alasofia/Squid60/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Alasofia/Squid60/comments{/number}
-commits_url: https://api.github.com/repos/Alasofia/Squid60/commits{/sha}
-compare_url: https://api.github.com/repos/Alasofia/Squid60/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Alasofia/Squid60/contents/{+path}
-contributors_url: https://api.github.com/repos/Alasofia/Squid60/contributors
-created_at: '2020-04-19T05:07:19Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Alasofia/Squid60/deployments
-description: GH60 compatible PCB using Hi-Tek 725 Series (Space Invaders) switches.
-disabled: false
-downloads_url: https://api.github.com/repos/Alasofia/Squid60/downloads
-events_url: https://api.github.com/repos/Alasofia/Squid60/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/Alasofia/Squid60/forks
-full_name: Alasofia/Squid60
-git_commits_url: https://api.github.com/repos/Alasofia/Squid60/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Alasofia/Squid60/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Alasofia/Squid60/git/tags{/sha}
-git_url: git://github.com/Alasofia/Squid60.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/Alasofia/Squid60/hooks
-html_url: https://github.com/Alasofia/Squid60
-id: 256918985
-is_template: false
-issue_comment_url: https://api.github.com/repos/Alasofia/Squid60/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Alasofia/Squid60/issues/events{/number}
-issues_url: https://api.github.com/repos/Alasofia/Squid60/issues{/number}
-keys_url: https://api.github.com/repos/Alasofia/Squid60/keys{/key_id}
-labels_url: https://api.github.com/repos/Alasofia/Squid60/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/Alasofia/Squid60/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/Alasofia/Squid60/merges
-milestones_url: https://api.github.com/repos/Alasofia/Squid60/milestones{/number}
-mirror_url: null
-name: Squid60
-node_id: MDEwOlJlcG9zaXRvcnkyNTY5MTg5ODU=
-notifications_url: https://api.github.com/repos/Alasofia/Squid60/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/84687550?v=4
-  events_url: https://api.github.com/users/Alasofia/events{/privacy}
-  followers_url: https://api.github.com/users/Alasofia/followers
-  following_url: https://api.github.com/users/Alasofia/following{/other_user}
-  gists_url: https://api.github.com/users/Alasofia/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Alasofia
-  id: 84687550
-  login: Alasofia
-  node_id: MDQ6VXNlcjg0Njg3NTUw
-  organizations_url: https://api.github.com/users/Alasofia/orgs
-  received_events_url: https://api.github.com/users/Alasofia/received_events
-  repos_url: https://api.github.com/users/Alasofia/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Alasofia/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Alasofia/subscriptions
-  type: User
-  url: https://api.github.com/users/Alasofia
-private: false
+links:
+  github_owner: Alasofia
+  github_repo_name: Squid60
+  github_src: https://github.com/Alasofia/Squid60
+  github_src_repo: https://github.com/Alasofia/Squid60
+  oomp_bot: alasofia_squid60
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/alasofia_squid60
+  oomp_doc: projects/alasofia_squid60/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/alasofia_squid60
+  oomp_src_flat: projects_flat/alasofia_squid60
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/alasofia_squid60
+  oomp_src_folder: projects_folder\Alasofia\Squid60\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Alasofia\Squid60\version_current\working
+oomp_key: oomp_alasofia_squid60
+oomp_key_simple: alasofia_squid60
 projects_flat: projects_flat/alasofia_squid60/version_current/working
 projects_folder: projects_folder/Alasofia/Squid60/version_current/working
-pulls_url: https://api.github.com/repos/Alasofia/Squid60/pulls{/number}
-pushed_at: '2021-11-24T22:20:27Z'
-releases_url: https://api.github.com/repos/Alasofia/Squid60/releases{/id}
-size: 4809
-ssh_url: git@github.com:Alasofia/Squid60.git
-stargazers_count: 10
-stargazers_url: https://api.github.com/repos/Alasofia/Squid60/stargazers
-statuses_url: https://api.github.com/repos/Alasofia/Squid60/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Alasofia/Squid60/subscribers
-subscription_url: https://api.github.com/repos/Alasofia/Squid60/subscription
-svn_url: https://github.com/Alasofia/Squid60
-tags_url: https://api.github.com/repos/Alasofia/Squid60/tags
-teams_url: https://api.github.com/repos/Alasofia/Squid60/teams
-topics: []
-trees_url: https://api.github.com/repos/Alasofia/Squid60/git/trees{/sha}
-updated_at: '2022-11-04T07:08:54Z'
-url: https://api.github.com/repos/Alasofia/Squid60
-visibility: public
-watchers: 10
-watchers_count: 10
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Alasofia/Squid60/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Alasofia/Squid60/assignees{/user}
+  blobs_url: https://api.github.com/repos/Alasofia/Squid60/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Alasofia/Squid60/branches{/branch}
+  clone_url: https://github.com/Alasofia/Squid60.git
+  collaborators_url: https://api.github.com/repos/Alasofia/Squid60/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Alasofia/Squid60/comments{/number}
+  commits_url: https://api.github.com/repos/Alasofia/Squid60/commits{/sha}
+  compare_url: https://api.github.com/repos/Alasofia/Squid60/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Alasofia/Squid60/contents/{+path}
+  contributors_url: https://api.github.com/repos/Alasofia/Squid60/contributors
+  created_at: '2020-04-19T05:07:19Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Alasofia/Squid60/deployments
+  description: GH60 compatible PCB using Hi-Tek 725 Series (Space Invaders) switches.
+  disabled: false
+  downloads_url: https://api.github.com/repos/Alasofia/Squid60/downloads
+  events_url: https://api.github.com/repos/Alasofia/Squid60/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/Alasofia/Squid60/forks
+  full_name: Alasofia/Squid60
+  git_commits_url: https://api.github.com/repos/Alasofia/Squid60/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Alasofia/Squid60/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Alasofia/Squid60/git/tags{/sha}
+  git_url: git://github.com/Alasofia/Squid60.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/Alasofia/Squid60/hooks
+  html_url: https://github.com/Alasofia/Squid60
+  id: 256918985
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Alasofia/Squid60/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Alasofia/Squid60/issues/events{/number}
+  issues_url: https://api.github.com/repos/Alasofia/Squid60/issues{/number}
+  keys_url: https://api.github.com/repos/Alasofia/Squid60/keys{/key_id}
+  labels_url: https://api.github.com/repos/Alasofia/Squid60/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/Alasofia/Squid60/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/Alasofia/Squid60/merges
+  milestones_url: https://api.github.com/repos/Alasofia/Squid60/milestones{/number}
+  mirror_url: null
+  name: Squid60
+  node_id: MDEwOlJlcG9zaXRvcnkyNTY5MTg5ODU=
+  notifications_url: https://api.github.com/repos/Alasofia/Squid60/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/84687550?v=4
+    events_url: https://api.github.com/users/Alasofia/events{/privacy}
+    followers_url: https://api.github.com/users/Alasofia/followers
+    following_url: https://api.github.com/users/Alasofia/following{/other_user}
+    gists_url: https://api.github.com/users/Alasofia/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Alasofia
+    id: 84687550
+    login: Alasofia
+    node_id: MDQ6VXNlcjg0Njg3NTUw
+    organizations_url: https://api.github.com/users/Alasofia/orgs
+    received_events_url: https://api.github.com/users/Alasofia/received_events
+    repos_url: https://api.github.com/users/Alasofia/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Alasofia/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Alasofia/subscriptions
+    type: User
+    url: https://api.github.com/users/Alasofia
+  private: false
+  pulls_url: https://api.github.com/repos/Alasofia/Squid60/pulls{/number}
+  pushed_at: '2021-11-24T22:20:27Z'
+  releases_url: https://api.github.com/repos/Alasofia/Squid60/releases{/id}
+  size: 4809
+  ssh_url: git@github.com:Alasofia/Squid60.git
+  stargazers_count: 10
+  stargazers_url: https://api.github.com/repos/Alasofia/Squid60/stargazers
+  statuses_url: https://api.github.com/repos/Alasofia/Squid60/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Alasofia/Squid60/subscribers
+  subscription_url: https://api.github.com/repos/Alasofia/Squid60/subscription
+  svn_url: https://github.com/Alasofia/Squid60
+  tags_url: https://api.github.com/repos/Alasofia/Squid60/tags
+  teams_url: https://api.github.com/repos/Alasofia/Squid60/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Alasofia/Squid60/git/trees{/sha}
+  updated_at: '2022-11-04T07:08:54Z'
+  url: https://api.github.com/repos/Alasofia/Squid60
+  visibility: public
+  watchers: 10
+  watchers_count: 10
+  web_commit_signoff_required: false

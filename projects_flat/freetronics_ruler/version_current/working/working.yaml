@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/RULER/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/RULER/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/RULER/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/RULER/branches{/branch}
-clone_url: https://github.com/freetronics/RULER.git
-collaborators_url: https://api.github.com/repos/freetronics/RULER/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/RULER/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/RULER/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/RULER/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/RULER/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/RULER/contributors
-created_at: '2014-05-11T11:25:29Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/RULER/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/RULER/downloads
-events_url: https://api.github.com/repos/freetronics/RULER/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/freetronics/RULER/forks
-full_name: freetronics/RULER
-git_commits_url: https://api.github.com/repos/freetronics/RULER/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/RULER/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/RULER/git/tags{/sha}
-git_url: git://github.com/freetronics/RULER.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/freetronics/RULER/hooks
-html_url: https://github.com/freetronics/RULER
-id: 19664582
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/RULER/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/RULER/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/RULER/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/RULER/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/RULER/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/freetronics/RULER/languages
-license: null
-merges_url: https://api.github.com/repos/freetronics/RULER/merges
-milestones_url: https://api.github.com/repos/freetronics/RULER/milestones{/number}
-mirror_url: null
-name: RULER
-node_id: MDEwOlJlcG9zaXRvcnkxOTY2NDU4Mg==
-notifications_url: https://api.github.com/repos/freetronics/RULER/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: RULER
+  github_src: https://github.com/freetronics/RULER
+  github_src_repo: https://github.com/freetronics/RULER
+  oomp_bot: projects_freetronics_ruler
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_freetronics_ruler
+  oomp_doc: projects/projects_flat_freetronics_ruler/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_freetronics_ruler
+  oomp_src_flat: projects_flat/projects_flat_freetronics_ruler
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_freetronics_ruler
+  oomp_src_folder: projects_flat\freetronics_ruler\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_ruler\version_current\working
+oomp_key: oomp_projects_flat_freetronics_ruler
+oomp_key_simple: projects_flat_freetronics_ruler
 projects_flat: projects_flat/freetronics_ruler/version_current/working
 projects_folder: projects_folder/freetronics/RULER/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/RULER/pulls{/number}
-pushed_at: '2019-04-24T03:20:25Z'
-releases_url: https://api.github.com/repos/freetronics/RULER/releases{/id}
-size: 21
-ssh_url: git@github.com:freetronics/RULER.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/freetronics/RULER/stargazers
-statuses_url: https://api.github.com/repos/freetronics/RULER/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/RULER/subscribers
-subscription_url: https://api.github.com/repos/freetronics/RULER/subscription
-svn_url: https://github.com/freetronics/RULER
-tags_url: https://api.github.com/repos/freetronics/RULER/tags
-teams_url: https://api.github.com/repos/freetronics/RULER/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/RULER/git/trees{/sha}
-updated_at: '2019-04-24T03:20:26Z'
-url: https://api.github.com/repos/freetronics/RULER
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/RULER/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/RULER/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/RULER/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/RULER/branches{/branch}
+  clone_url: https://github.com/freetronics/RULER.git
+  collaborators_url: https://api.github.com/repos/freetronics/RULER/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/RULER/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/RULER/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/RULER/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/RULER/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/RULER/contributors
+  created_at: '2014-05-11T11:25:29Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/RULER/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/RULER/downloads
+  events_url: https://api.github.com/repos/freetronics/RULER/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/freetronics/RULER/forks
+  full_name: freetronics/RULER
+  git_commits_url: https://api.github.com/repos/freetronics/RULER/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/RULER/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/RULER/git/tags{/sha}
+  git_url: git://github.com/freetronics/RULER.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/freetronics/RULER/hooks
+  html_url: https://github.com/freetronics/RULER
+  id: 19664582
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/RULER/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/RULER/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/RULER/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/RULER/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/RULER/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/freetronics/RULER/languages
+  license: null
+  merges_url: https://api.github.com/repos/freetronics/RULER/merges
+  milestones_url: https://api.github.com/repos/freetronics/RULER/milestones{/number}
+  mirror_url: null
+  name: RULER
+  node_id: MDEwOlJlcG9zaXRvcnkxOTY2NDU4Mg==
+  notifications_url: https://api.github.com/repos/freetronics/RULER/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/RULER/pulls{/number}
+  pushed_at: '2019-04-24T03:20:25Z'
+  releases_url: https://api.github.com/repos/freetronics/RULER/releases{/id}
+  size: 21
+  ssh_url: git@github.com:freetronics/RULER.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/freetronics/RULER/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/RULER/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/RULER/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/RULER/subscription
+  svn_url: https://github.com/freetronics/RULER
+  tags_url: https://api.github.com/repos/freetronics/RULER/tags
+  teams_url: https://api.github.com/repos/freetronics/RULER/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/RULER/git/trees{/sha}
+  updated_at: '2019-04-24T03:20:26Z'
+  url: https://api.github.com/repos/freetronics/RULER
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/AcheronProject/SharkPCB/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/AcheronProject/SharkPCB/assignees{/user}
-blobs_url: https://api.github.com/repos/AcheronProject/SharkPCB/git/blobs{/sha}
-branches_url: https://api.github.com/repos/AcheronProject/SharkPCB/branches{/branch}
-clone_url: https://github.com/AcheronProject/SharkPCB.git
-collaborators_url: https://api.github.com/repos/AcheronProject/SharkPCB/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/AcheronProject/SharkPCB/comments{/number}
-commits_url: https://api.github.com/repos/AcheronProject/SharkPCB/commits{/sha}
-compare_url: https://api.github.com/repos/AcheronProject/SharkPCB/compare/{base}...{head}
-contents_url: https://api.github.com/repos/AcheronProject/SharkPCB/contents/{+path}
-contributors_url: https://api.github.com/repos/AcheronProject/SharkPCB/contributors
-created_at: '2018-05-28T04:19:55Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/AcheronProject/SharkPCB/deployments
-description: SharkPCB
-disabled: false
-downloads_url: https://api.github.com/repos/AcheronProject/SharkPCB/downloads
-events_url: https://api.github.com/repos/AcheronProject/SharkPCB/events
-fork: false
-forks: 17
-forks_count: 17
-forks_url: https://api.github.com/repos/AcheronProject/SharkPCB/forks
-full_name: AcheronProject/SharkPCB
-git_commits_url: https://api.github.com/repos/AcheronProject/SharkPCB/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/AcheronProject/SharkPCB/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/AcheronProject/SharkPCB/git/tags{/sha}
-git_url: git://github.com/AcheronProject/SharkPCB.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/AcheronProject/SharkPCB/hooks
-html_url: https://github.com/AcheronProject/SharkPCB
-id: 135108934
-is_template: false
-issue_comment_url: https://api.github.com/repos/AcheronProject/SharkPCB/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/AcheronProject/SharkPCB/issues/events{/number}
-issues_url: https://api.github.com/repos/AcheronProject/SharkPCB/issues{/number}
-keys_url: https://api.github.com/repos/AcheronProject/SharkPCB/keys{/key_id}
-labels_url: https://api.github.com/repos/AcheronProject/SharkPCB/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/AcheronProject/SharkPCB/languages
-license: null
-merges_url: https://api.github.com/repos/AcheronProject/SharkPCB/merges
-milestones_url: https://api.github.com/repos/AcheronProject/SharkPCB/milestones{/number}
-mirror_url: null
-name: SharkPCB
-node_id: MDEwOlJlcG9zaXRvcnkxMzUxMDg5MzQ=
-notifications_url: https://api.github.com/repos/AcheronProject/SharkPCB/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
-  events_url: https://api.github.com/users/AcheronProject/events{/privacy}
-  followers_url: https://api.github.com/users/AcheronProject/followers
-  following_url: https://api.github.com/users/AcheronProject/following{/other_user}
-  gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/AcheronProject
-  id: 63755935
-  login: AcheronProject
-  node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
-  organizations_url: https://api.github.com/users/AcheronProject/orgs
-  received_events_url: https://api.github.com/users/AcheronProject/received_events
-  repos_url: https://api.github.com/users/AcheronProject/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
-  type: Organization
-  url: https://api.github.com/users/AcheronProject
-private: false
+links:
+  github_owner: AcheronProject
+  github_repo_name: SharkPCB
+  github_src: https://github.com/AcheronProject/SharkPCB
+  github_src_repo: https://github.com/AcheronProject/SharkPCB
+  oomp_bot: acheronproject_sharkpcb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/acheronproject_sharkpcb
+  oomp_doc: projects/acheronproject_sharkpcb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/acheronproject_sharkpcb
+  oomp_src_flat: projects_flat/acheronproject_sharkpcb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/acheronproject_sharkpcb
+  oomp_src_folder: projects_folder\AcheronProject\SharkPCB\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\AcheronProject\SharkPCB\version_current\working
+oomp_key: oomp_acheronproject_sharkpcb
+oomp_key_simple: acheronproject_sharkpcb
 projects_flat: projects_flat/acheronproject_sharkpcb/version_current/working
 projects_folder: projects_folder/AcheronProject/SharkPCB/version_current/working
-pulls_url: https://api.github.com/repos/AcheronProject/SharkPCB/pulls{/number}
-pushed_at: '2022-03-23T16:56:15Z'
-releases_url: https://api.github.com/repos/AcheronProject/SharkPCB/releases{/id}
-size: 227889
-ssh_url: git@github.com:AcheronProject/SharkPCB.git
-stargazers_count: 140
-stargazers_url: https://api.github.com/repos/AcheronProject/SharkPCB/stargazers
-statuses_url: https://api.github.com/repos/AcheronProject/SharkPCB/statuses/{sha}
-subscribers_url: https://api.github.com/repos/AcheronProject/SharkPCB/subscribers
-subscription_url: https://api.github.com/repos/AcheronProject/SharkPCB/subscription
-svn_url: https://github.com/AcheronProject/SharkPCB
-tags_url: https://api.github.com/repos/AcheronProject/SharkPCB/tags
-teams_url: https://api.github.com/repos/AcheronProject/SharkPCB/teams
-topics: []
-trees_url: https://api.github.com/repos/AcheronProject/SharkPCB/git/trees{/sha}
-updated_at: '2023-07-11T17:37:13Z'
-url: https://api.github.com/repos/AcheronProject/SharkPCB
-visibility: public
-watchers: 140
-watchers_count: 140
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/AcheronProject/SharkPCB/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/AcheronProject/SharkPCB/assignees{/user}
+  blobs_url: https://api.github.com/repos/AcheronProject/SharkPCB/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/AcheronProject/SharkPCB/branches{/branch}
+  clone_url: https://github.com/AcheronProject/SharkPCB.git
+  collaborators_url: https://api.github.com/repos/AcheronProject/SharkPCB/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/AcheronProject/SharkPCB/comments{/number}
+  commits_url: https://api.github.com/repos/AcheronProject/SharkPCB/commits{/sha}
+  compare_url: https://api.github.com/repos/AcheronProject/SharkPCB/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/AcheronProject/SharkPCB/contents/{+path}
+  contributors_url: https://api.github.com/repos/AcheronProject/SharkPCB/contributors
+  created_at: '2018-05-28T04:19:55Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/AcheronProject/SharkPCB/deployments
+  description: SharkPCB
+  disabled: false
+  downloads_url: https://api.github.com/repos/AcheronProject/SharkPCB/downloads
+  events_url: https://api.github.com/repos/AcheronProject/SharkPCB/events
+  fork: false
+  forks: 16
+  forks_count: 16
+  forks_url: https://api.github.com/repos/AcheronProject/SharkPCB/forks
+  full_name: AcheronProject/SharkPCB
+  git_commits_url: https://api.github.com/repos/AcheronProject/SharkPCB/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/AcheronProject/SharkPCB/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/AcheronProject/SharkPCB/git/tags{/sha}
+  git_url: git://github.com/AcheronProject/SharkPCB.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/AcheronProject/SharkPCB/hooks
+  html_url: https://github.com/AcheronProject/SharkPCB
+  id: 135108934
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/AcheronProject/SharkPCB/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/AcheronProject/SharkPCB/issues/events{/number}
+  issues_url: https://api.github.com/repos/AcheronProject/SharkPCB/issues{/number}
+  keys_url: https://api.github.com/repos/AcheronProject/SharkPCB/keys{/key_id}
+  labels_url: https://api.github.com/repos/AcheronProject/SharkPCB/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/AcheronProject/SharkPCB/languages
+  license: null
+  merges_url: https://api.github.com/repos/AcheronProject/SharkPCB/merges
+  milestones_url: https://api.github.com/repos/AcheronProject/SharkPCB/milestones{/number}
+  mirror_url: null
+  name: SharkPCB
+  node_id: MDEwOlJlcG9zaXRvcnkxMzUxMDg5MzQ=
+  notifications_url: https://api.github.com/repos/AcheronProject/SharkPCB/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+    events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+    followers_url: https://api.github.com/users/AcheronProject/followers
+    following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+    gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/AcheronProject
+    id: 63755935
+    login: AcheronProject
+    node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+    organizations_url: https://api.github.com/users/AcheronProject/orgs
+    received_events_url: https://api.github.com/users/AcheronProject/received_events
+    repos_url: https://api.github.com/users/AcheronProject/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+    type: Organization
+    url: https://api.github.com/users/AcheronProject
+  private: false
+  pulls_url: https://api.github.com/repos/AcheronProject/SharkPCB/pulls{/number}
+  pushed_at: '2022-03-23T16:56:15Z'
+  releases_url: https://api.github.com/repos/AcheronProject/SharkPCB/releases{/id}
+  size: 227889
+  ssh_url: git@github.com:AcheronProject/SharkPCB.git
+  stargazers_count: 140
+  stargazers_url: https://api.github.com/repos/AcheronProject/SharkPCB/stargazers
+  statuses_url: https://api.github.com/repos/AcheronProject/SharkPCB/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/AcheronProject/SharkPCB/subscribers
+  subscription_url: https://api.github.com/repos/AcheronProject/SharkPCB/subscription
+  svn_url: https://github.com/AcheronProject/SharkPCB
+  tags_url: https://api.github.com/repos/AcheronProject/SharkPCB/tags
+  teams_url: https://api.github.com/repos/AcheronProject/SharkPCB/teams
+  topics: []
+  trees_url: https://api.github.com/repos/AcheronProject/SharkPCB/git/trees{/sha}
+  updated_at: '2023-07-11T17:37:13Z'
+  url: https://api.github.com/repos/AcheronProject/SharkPCB
+  visibility: public
+  watchers: 140
+  watchers_count: 140
+  web_commit_signoff_required: false

@@ -1,106 +1,123 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/gator_rtc/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/gator_rtc/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/gator_rtc/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/gator_rtc/branches{/branch}
-clone_url: https://github.com/sparkfun/gator_rtc.git
-collaborators_url: https://api.github.com/repos/sparkfun/gator_rtc/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/gator_rtc/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/gator_rtc/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/gator_rtc/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/gator_rtc/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/gator_rtc/contributors
-created_at: '2019-07-17T23:29:50Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/gator_rtc/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/gator_rtc/downloads
-events_url: https://api.github.com/repos/sparkfun/gator_rtc/events
 file_sch_flat_folder: projects_flat_folder/sparkfun_gator_rtc/version_current/working/working.sch
 file_sch_folder: projects_folder/sparkfun/gator_rtc/version_current/working/working.sch
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfun/gator_rtc/forks
-full_name: sparkfun/gator_rtc
-git_commits_url: https://api.github.com/repos/sparkfun/gator_rtc/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/gator_rtc/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/gator_rtc/git/tags{/sha}
-git_url: git://github.com/sparkfun/gator_rtc.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/gator_rtc/hooks
-html_url: https://github.com/sparkfun/gator_rtc
-id: 197477140
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/gator_rtc/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/gator_rtc/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/gator_rtc/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/gator_rtc/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/gator_rtc/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/gator_rtc/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/gator_rtc/merges
-milestones_url: https://api.github.com/repos/sparkfun/gator_rtc/milestones{/number}
-mirror_url: null
-name: gator_rtc
-node_id: MDEwOlJlcG9zaXRvcnkxOTc0NzcxNDA=
-notifications_url: https://api.github.com/repos/sparkfun/gator_rtc/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: gator_rtc
+  github_src: https://github.com/sparkfun/gator_rtc
+  github_src_repo: https://github.com/sparkfun/gator_rtc
+  oomp_bot: projects_sparkfun_gator_rtc
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_gator_rtc
+  oomp_doc: projects/projects_flat_sparkfun_gator_rtc/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_gator_rtc
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_gator_rtc
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_gator_rtc
+  oomp_src_folder: projects_flat\sparkfun_gator_rtc\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_gator_rtc\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_gator_rtc
+oomp_key_simple: projects_flat_sparkfun_gator_rtc
+projects_flat: projects_flat/sparkfun_gator_rtc/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_gator_rtc/version_current/working
 projects_folder: projects_folder/sparkfun/gator_rtc/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/gator_rtc/pulls{/number}
-pushed_at: '2019-09-04T02:41:10Z'
-releases_url: https://api.github.com/repos/sparkfun/gator_rtc/releases{/id}
-size: 216
-ssh_url: git@github.com:sparkfun/gator_rtc.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/sparkfun/gator_rtc/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/gator_rtc/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/gator_rtc/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/gator_rtc/subscription
-svn_url: https://github.com/sparkfun/gator_rtc
-tags_url: https://api.github.com/repos/sparkfun/gator_rtc/tags
-teams_url: https://api.github.com/repos/sparkfun/gator_rtc/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/gator_rtc/git/trees{/sha}
-updated_at: '2023-04-14T12:21:13Z'
-url: https://api.github.com/repos/sparkfun/gator_rtc
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/gator_rtc/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/gator_rtc/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/gator_rtc/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/gator_rtc/branches{/branch}
+  clone_url: https://github.com/sparkfun/gator_rtc.git
+  collaborators_url: https://api.github.com/repos/sparkfun/gator_rtc/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/gator_rtc/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/gator_rtc/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/gator_rtc/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/gator_rtc/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/gator_rtc/contributors
+  created_at: '2019-07-17T23:29:50Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/gator_rtc/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/gator_rtc/downloads
+  events_url: https://api.github.com/repos/sparkfun/gator_rtc/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfun/gator_rtc/forks
+  full_name: sparkfun/gator_rtc
+  git_commits_url: https://api.github.com/repos/sparkfun/gator_rtc/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/gator_rtc/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/gator_rtc/git/tags{/sha}
+  git_url: git://github.com/sparkfun/gator_rtc.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/gator_rtc/hooks
+  html_url: https://github.com/sparkfun/gator_rtc
+  id: 197477140
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/gator_rtc/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/gator_rtc/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/gator_rtc/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/gator_rtc/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/gator_rtc/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/gator_rtc/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/gator_rtc/merges
+  milestones_url: https://api.github.com/repos/sparkfun/gator_rtc/milestones{/number}
+  mirror_url: null
+  name: gator_rtc
+  node_id: MDEwOlJlcG9zaXRvcnkxOTc0NzcxNDA=
+  notifications_url: https://api.github.com/repos/sparkfun/gator_rtc/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/gator_rtc/pulls{/number}
+  pushed_at: '2019-09-04T02:41:10Z'
+  releases_url: https://api.github.com/repos/sparkfun/gator_rtc/releases{/id}
+  size: 216
+  ssh_url: git@github.com:sparkfun/gator_rtc.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/sparkfun/gator_rtc/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/gator_rtc/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/gator_rtc/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/gator_rtc/subscription
+  svn_url: https://github.com/sparkfun/gator_rtc
+  tags_url: https://api.github.com/repos/sparkfun/gator_rtc/tags
+  teams_url: https://api.github.com/repos/sparkfun/gator_rtc/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/gator_rtc/git/trees{/sha}
+  updated_at: '2023-04-14T12:21:13Z'
+  url: https://api.github.com/repos/sparkfun/gator_rtc
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

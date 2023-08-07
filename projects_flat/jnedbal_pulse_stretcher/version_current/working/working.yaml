@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/jnedbal/pulse_stretcher/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/jnedbal/pulse_stretcher/assignees{/user}
-blobs_url: https://api.github.com/repos/jnedbal/pulse_stretcher/git/blobs{/sha}
-branches_url: https://api.github.com/repos/jnedbal/pulse_stretcher/branches{/branch}
-clone_url: https://github.com/jnedbal/pulse_stretcher.git
-collaborators_url: https://api.github.com/repos/jnedbal/pulse_stretcher/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/jnedbal/pulse_stretcher/comments{/number}
-commits_url: https://api.github.com/repos/jnedbal/pulse_stretcher/commits{/sha}
-compare_url: https://api.github.com/repos/jnedbal/pulse_stretcher/compare/{base}...{head}
-contents_url: https://api.github.com/repos/jnedbal/pulse_stretcher/contents/{+path}
-contributors_url: https://api.github.com/repos/jnedbal/pulse_stretcher/contributors
-created_at: '2021-11-09T13:45:38Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/jnedbal/pulse_stretcher/deployments
-description: Pulse stretcher converting >350 ps pulses to ~5ns pulses with 1.25V amplitude
-  into 50Ohm load
-disabled: false
-downloads_url: https://api.github.com/repos/jnedbal/pulse_stretcher/downloads
-events_url: https://api.github.com/repos/jnedbal/pulse_stretcher/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/jnedbal/pulse_stretcher/forks
-full_name: jnedbal/pulse_stretcher
-git_commits_url: https://api.github.com/repos/jnedbal/pulse_stretcher/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/jnedbal/pulse_stretcher/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/jnedbal/pulse_stretcher/git/tags{/sha}
-git_url: git://github.com/jnedbal/pulse_stretcher.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/jnedbal/pulse_stretcher/hooks
-html_url: https://github.com/jnedbal/pulse_stretcher
-id: 426245701
-is_template: false
-issue_comment_url: https://api.github.com/repos/jnedbal/pulse_stretcher/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/jnedbal/pulse_stretcher/issues/events{/number}
-issues_url: https://api.github.com/repos/jnedbal/pulse_stretcher/issues{/number}
-keys_url: https://api.github.com/repos/jnedbal/pulse_stretcher/keys{/key_id}
-labels_url: https://api.github.com/repos/jnedbal/pulse_stretcher/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/jnedbal/pulse_stretcher/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/jnedbal/pulse_stretcher/merges
-milestones_url: https://api.github.com/repos/jnedbal/pulse_stretcher/milestones{/number}
-mirror_url: null
-name: pulse_stretcher
-node_id: R_kgDOGWf-RQ
-notifications_url: https://api.github.com/repos/jnedbal/pulse_stretcher/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/2115992?v=4
-  events_url: https://api.github.com/users/jnedbal/events{/privacy}
-  followers_url: https://api.github.com/users/jnedbal/followers
-  following_url: https://api.github.com/users/jnedbal/following{/other_user}
-  gists_url: https://api.github.com/users/jnedbal/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/jnedbal
-  id: 2115992
-  login: jnedbal
-  node_id: MDQ6VXNlcjIxMTU5OTI=
-  organizations_url: https://api.github.com/users/jnedbal/orgs
-  received_events_url: https://api.github.com/users/jnedbal/received_events
-  repos_url: https://api.github.com/users/jnedbal/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/jnedbal/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/jnedbal/subscriptions
-  type: User
-  url: https://api.github.com/users/jnedbal
-private: false
+links:
+  github_owner: jnedbal
+  github_repo_name: pulse_stretcher
+  github_src: https://github.com/jnedbal/pulse_stretcher
+  github_src_repo: https://github.com/jnedbal/pulse_stretcher
+  oomp_bot: projects_jnedbal_pulse_stretcher
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_jnedbal_pulse_stretcher
+  oomp_doc: projects/projects_flat_jnedbal_pulse_stretcher/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_jnedbal_pulse_stretcher
+  oomp_src_flat: projects_flat/projects_flat_jnedbal_pulse_stretcher
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_jnedbal_pulse_stretcher
+  oomp_src_folder: projects_flat\jnedbal_pulse_stretcher\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\jnedbal_pulse_stretcher\version_current\working
+oomp_key: oomp_projects_flat_jnedbal_pulse_stretcher
+oomp_key_simple: projects_flat_jnedbal_pulse_stretcher
 projects_flat: projects_flat/jnedbal_pulse_stretcher/version_current/working
 projects_folder: projects_folder/jnedbal/pulse_stretcher/version_current/working
-pulls_url: https://api.github.com/repos/jnedbal/pulse_stretcher/pulls{/number}
-pushed_at: '2021-11-15T23:41:53Z'
-releases_url: https://api.github.com/repos/jnedbal/pulse_stretcher/releases{/id}
-size: 910
-ssh_url: git@github.com:jnedbal/pulse_stretcher.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/jnedbal/pulse_stretcher/stargazers
-statuses_url: https://api.github.com/repos/jnedbal/pulse_stretcher/statuses/{sha}
-subscribers_url: https://api.github.com/repos/jnedbal/pulse_stretcher/subscribers
-subscription_url: https://api.github.com/repos/jnedbal/pulse_stretcher/subscription
-svn_url: https://github.com/jnedbal/pulse_stretcher
-tags_url: https://api.github.com/repos/jnedbal/pulse_stretcher/tags
-teams_url: https://api.github.com/repos/jnedbal/pulse_stretcher/teams
-topics: []
-trees_url: https://api.github.com/repos/jnedbal/pulse_stretcher/git/trees{/sha}
-updated_at: '2021-11-15T23:41:55Z'
-url: https://api.github.com/repos/jnedbal/pulse_stretcher
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/jnedbal/pulse_stretcher/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/jnedbal/pulse_stretcher/assignees{/user}
+  blobs_url: https://api.github.com/repos/jnedbal/pulse_stretcher/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/jnedbal/pulse_stretcher/branches{/branch}
+  clone_url: https://github.com/jnedbal/pulse_stretcher.git
+  collaborators_url: https://api.github.com/repos/jnedbal/pulse_stretcher/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/jnedbal/pulse_stretcher/comments{/number}
+  commits_url: https://api.github.com/repos/jnedbal/pulse_stretcher/commits{/sha}
+  compare_url: https://api.github.com/repos/jnedbal/pulse_stretcher/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/jnedbal/pulse_stretcher/contents/{+path}
+  contributors_url: https://api.github.com/repos/jnedbal/pulse_stretcher/contributors
+  created_at: '2021-11-09T13:45:38Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/jnedbal/pulse_stretcher/deployments
+  description: Pulse stretcher converting >350 ps pulses to ~5ns pulses with 1.25V
+    amplitude into 50Ohm load
+  disabled: false
+  downloads_url: https://api.github.com/repos/jnedbal/pulse_stretcher/downloads
+  events_url: https://api.github.com/repos/jnedbal/pulse_stretcher/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/jnedbal/pulse_stretcher/forks
+  full_name: jnedbal/pulse_stretcher
+  git_commits_url: https://api.github.com/repos/jnedbal/pulse_stretcher/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/jnedbal/pulse_stretcher/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/jnedbal/pulse_stretcher/git/tags{/sha}
+  git_url: git://github.com/jnedbal/pulse_stretcher.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/jnedbal/pulse_stretcher/hooks
+  html_url: https://github.com/jnedbal/pulse_stretcher
+  id: 426245701
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/jnedbal/pulse_stretcher/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/jnedbal/pulse_stretcher/issues/events{/number}
+  issues_url: https://api.github.com/repos/jnedbal/pulse_stretcher/issues{/number}
+  keys_url: https://api.github.com/repos/jnedbal/pulse_stretcher/keys{/key_id}
+  labels_url: https://api.github.com/repos/jnedbal/pulse_stretcher/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/jnedbal/pulse_stretcher/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/jnedbal/pulse_stretcher/merges
+  milestones_url: https://api.github.com/repos/jnedbal/pulse_stretcher/milestones{/number}
+  mirror_url: null
+  name: pulse_stretcher
+  node_id: R_kgDOGWf-RQ
+  notifications_url: https://api.github.com/repos/jnedbal/pulse_stretcher/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/2115992?v=4
+    events_url: https://api.github.com/users/jnedbal/events{/privacy}
+    followers_url: https://api.github.com/users/jnedbal/followers
+    following_url: https://api.github.com/users/jnedbal/following{/other_user}
+    gists_url: https://api.github.com/users/jnedbal/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/jnedbal
+    id: 2115992
+    login: jnedbal
+    node_id: MDQ6VXNlcjIxMTU5OTI=
+    organizations_url: https://api.github.com/users/jnedbal/orgs
+    received_events_url: https://api.github.com/users/jnedbal/received_events
+    repos_url: https://api.github.com/users/jnedbal/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/jnedbal/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/jnedbal/subscriptions
+    type: User
+    url: https://api.github.com/users/jnedbal
+  private: false
+  pulls_url: https://api.github.com/repos/jnedbal/pulse_stretcher/pulls{/number}
+  pushed_at: '2021-11-15T23:41:53Z'
+  releases_url: https://api.github.com/repos/jnedbal/pulse_stretcher/releases{/id}
+  size: 910
+  ssh_url: git@github.com:jnedbal/pulse_stretcher.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/jnedbal/pulse_stretcher/stargazers
+  statuses_url: https://api.github.com/repos/jnedbal/pulse_stretcher/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/jnedbal/pulse_stretcher/subscribers
+  subscription_url: https://api.github.com/repos/jnedbal/pulse_stretcher/subscription
+  svn_url: https://github.com/jnedbal/pulse_stretcher
+  tags_url: https://api.github.com/repos/jnedbal/pulse_stretcher/tags
+  teams_url: https://api.github.com/repos/jnedbal/pulse_stretcher/teams
+  topics: []
+  trees_url: https://api.github.com/repos/jnedbal/pulse_stretcher/git/trees{/sha}
+  updated_at: '2021-11-15T23:41:55Z'
+  url: https://api.github.com/repos/jnedbal/pulse_stretcher
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

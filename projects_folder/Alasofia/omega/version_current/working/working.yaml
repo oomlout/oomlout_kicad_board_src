@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Alasofia/omega/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Alasofia/omega/assignees{/user}
-blobs_url: https://api.github.com/repos/Alasofia/omega/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Alasofia/omega/branches{/branch}
-clone_url: https://github.com/Alasofia/omega.git
-collaborators_url: https://api.github.com/repos/Alasofia/omega/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Alasofia/omega/comments{/number}
-commits_url: https://api.github.com/repos/Alasofia/omega/commits{/sha}
-compare_url: https://api.github.com/repos/Alasofia/omega/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Alasofia/omega/contents/{+path}
-contributors_url: https://api.github.com/repos/Alasofia/omega/contributors
-created_at: '2022-12-03T02:54:26Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Alasofia/omega/deployments
-description: A keybaord with inspiration from the zlant and alpha 28
-disabled: false
-downloads_url: https://api.github.com/repos/Alasofia/omega/downloads
-events_url: https://api.github.com/repos/Alasofia/omega/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Alasofia/omega/forks
-full_name: Alasofia/omega
-git_commits_url: https://api.github.com/repos/Alasofia/omega/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Alasofia/omega/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Alasofia/omega/git/tags{/sha}
-git_url: git://github.com/Alasofia/omega.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/Alasofia/omega/hooks
-html_url: https://github.com/Alasofia/omega
-id: 573662041
-is_template: false
-issue_comment_url: https://api.github.com/repos/Alasofia/omega/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Alasofia/omega/issues/events{/number}
-issues_url: https://api.github.com/repos/Alasofia/omega/issues{/number}
-keys_url: https://api.github.com/repos/Alasofia/omega/keys{/key_id}
-labels_url: https://api.github.com/repos/Alasofia/omega/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/Alasofia/omega/languages
-license: null
-merges_url: https://api.github.com/repos/Alasofia/omega/merges
-milestones_url: https://api.github.com/repos/Alasofia/omega/milestones{/number}
-mirror_url: null
-name: omega
-node_id: R_kgDOIjFjWQ
-notifications_url: https://api.github.com/repos/Alasofia/omega/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/84687550?v=4
-  events_url: https://api.github.com/users/Alasofia/events{/privacy}
-  followers_url: https://api.github.com/users/Alasofia/followers
-  following_url: https://api.github.com/users/Alasofia/following{/other_user}
-  gists_url: https://api.github.com/users/Alasofia/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Alasofia
-  id: 84687550
-  login: Alasofia
-  node_id: MDQ6VXNlcjg0Njg3NTUw
-  organizations_url: https://api.github.com/users/Alasofia/orgs
-  received_events_url: https://api.github.com/users/Alasofia/received_events
-  repos_url: https://api.github.com/users/Alasofia/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Alasofia/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Alasofia/subscriptions
-  type: User
-  url: https://api.github.com/users/Alasofia
-private: false
+links:
+  github_owner: Alasofia
+  github_repo_name: omega
+  github_src: https://github.com/Alasofia/omega
+  github_src_repo: https://github.com/Alasofia/omega
+  oomp_bot: alasofia_omega
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/alasofia_omega
+  oomp_doc: projects/alasofia_omega/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/alasofia_omega
+  oomp_src_flat: projects_flat/alasofia_omega
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/alasofia_omega
+  oomp_src_folder: projects_folder\Alasofia\omega\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Alasofia\omega\version_current\working
+oomp_key: oomp_alasofia_omega
+oomp_key_simple: alasofia_omega
 projects_flat: projects_flat/alasofia_omega/version_current/working
 projects_folder: projects_folder/Alasofia/omega/version_current/working
-pulls_url: https://api.github.com/repos/Alasofia/omega/pulls{/number}
-pushed_at: '2022-12-10T19:17:21Z'
-releases_url: https://api.github.com/repos/Alasofia/omega/releases{/id}
-size: 13926
-ssh_url: git@github.com:Alasofia/omega.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Alasofia/omega/stargazers
-statuses_url: https://api.github.com/repos/Alasofia/omega/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Alasofia/omega/subscribers
-subscription_url: https://api.github.com/repos/Alasofia/omega/subscription
-svn_url: https://github.com/Alasofia/omega
-tags_url: https://api.github.com/repos/Alasofia/omega/tags
-teams_url: https://api.github.com/repos/Alasofia/omega/teams
-topics: []
-trees_url: https://api.github.com/repos/Alasofia/omega/git/trees{/sha}
-updated_at: '2021-12-26T00:41:34Z'
-url: https://api.github.com/repos/Alasofia/omega
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Alasofia/omega/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Alasofia/omega/assignees{/user}
+  blobs_url: https://api.github.com/repos/Alasofia/omega/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Alasofia/omega/branches{/branch}
+  clone_url: https://github.com/Alasofia/omega.git
+  collaborators_url: https://api.github.com/repos/Alasofia/omega/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Alasofia/omega/comments{/number}
+  commits_url: https://api.github.com/repos/Alasofia/omega/commits{/sha}
+  compare_url: https://api.github.com/repos/Alasofia/omega/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Alasofia/omega/contents/{+path}
+  contributors_url: https://api.github.com/repos/Alasofia/omega/contributors
+  created_at: '2022-12-03T02:54:26Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Alasofia/omega/deployments
+  description: A keybaord with inspiration from the zlant and alpha 28
+  disabled: false
+  downloads_url: https://api.github.com/repos/Alasofia/omega/downloads
+  events_url: https://api.github.com/repos/Alasofia/omega/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Alasofia/omega/forks
+  full_name: Alasofia/omega
+  git_commits_url: https://api.github.com/repos/Alasofia/omega/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Alasofia/omega/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Alasofia/omega/git/tags{/sha}
+  git_url: git://github.com/Alasofia/omega.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/Alasofia/omega/hooks
+  html_url: https://github.com/Alasofia/omega
+  id: 573662041
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Alasofia/omega/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Alasofia/omega/issues/events{/number}
+  issues_url: https://api.github.com/repos/Alasofia/omega/issues{/number}
+  keys_url: https://api.github.com/repos/Alasofia/omega/keys{/key_id}
+  labels_url: https://api.github.com/repos/Alasofia/omega/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/Alasofia/omega/languages
+  license: null
+  merges_url: https://api.github.com/repos/Alasofia/omega/merges
+  milestones_url: https://api.github.com/repos/Alasofia/omega/milestones{/number}
+  mirror_url: null
+  name: omega
+  node_id: R_kgDOIjFjWQ
+  notifications_url: https://api.github.com/repos/Alasofia/omega/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/84687550?v=4
+    events_url: https://api.github.com/users/Alasofia/events{/privacy}
+    followers_url: https://api.github.com/users/Alasofia/followers
+    following_url: https://api.github.com/users/Alasofia/following{/other_user}
+    gists_url: https://api.github.com/users/Alasofia/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Alasofia
+    id: 84687550
+    login: Alasofia
+    node_id: MDQ6VXNlcjg0Njg3NTUw
+    organizations_url: https://api.github.com/users/Alasofia/orgs
+    received_events_url: https://api.github.com/users/Alasofia/received_events
+    repos_url: https://api.github.com/users/Alasofia/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Alasofia/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Alasofia/subscriptions
+    type: User
+    url: https://api.github.com/users/Alasofia
+  private: false
+  pulls_url: https://api.github.com/repos/Alasofia/omega/pulls{/number}
+  pushed_at: '2022-12-10T19:17:21Z'
+  releases_url: https://api.github.com/repos/Alasofia/omega/releases{/id}
+  size: 13926
+  ssh_url: git@github.com:Alasofia/omega.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Alasofia/omega/stargazers
+  statuses_url: https://api.github.com/repos/Alasofia/omega/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Alasofia/omega/subscribers
+  subscription_url: https://api.github.com/repos/Alasofia/omega/subscription
+  svn_url: https://github.com/Alasofia/omega
+  tags_url: https://api.github.com/repos/Alasofia/omega/tags
+  teams_url: https://api.github.com/repos/Alasofia/omega/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Alasofia/omega/git/trees{/sha}
+  updated_at: '2021-12-26T00:41:34Z'
+  url: https://api.github.com/repos/Alasofia/omega
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

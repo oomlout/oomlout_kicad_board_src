@@ -1,108 +1,125 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/branches{/branch}
-clone_url: https://github.com/sparkfun/Arduino_Pro_Mini_328.git
-collaborators_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/contributors
-created_at: '2014-01-23T21:44:51Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/deployments
-description: SparkFun's Arduino Pro Mini 328 is a bare bones super small Arduino compatible
-  development board.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/downloads
-events_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_arduino_pro_mini_328/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/Arduino_Pro_Mini_328/version_current/working/working.brd
-fork: false
-forks: 52
-forks_count: 52
-forks_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/forks
-full_name: sparkfun/Arduino_Pro_Mini_328
-git_commits_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/git/tags{/sha}
-git_url: git://github.com/sparkfun/Arduino_Pro_Mini_328.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/hooks
-html_url: https://github.com/sparkfun/Arduino_Pro_Mini_328
-id: 16186665
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/merges
-milestones_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/milestones{/number}
-mirror_url: null
-name: Arduino_Pro_Mini_328
-node_id: MDEwOlJlcG9zaXRvcnkxNjE4NjY2NQ==
-notifications_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Arduino_Pro_Mini_328
+  github_src: https://github.com/sparkfun/Arduino_Pro_Mini_328
+  github_src_repo: https://github.com/sparkfun/Arduino_Pro_Mini_328
+  oomp_bot: projects_sparkfun_arduino_pro_mini_328
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_arduino_pro_mini_328
+  oomp_doc: projects/projects_flat_sparkfun_arduino_pro_mini_328/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_arduino_pro_mini_328
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_arduino_pro_mini_328
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_arduino_pro_mini_328
+  oomp_src_folder: projects_flat\sparkfun_arduino_pro_mini_328\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_arduino_pro_mini_328\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_arduino_pro_mini_328
+oomp_key_simple: projects_flat_sparkfun_arduino_pro_mini_328
+projects_flat: projects_flat/sparkfun_arduino_pro_mini_328/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_arduino_pro_mini_328/version_current/working
 projects_folder: projects_folder/sparkfun/Arduino_Pro_Mini_328/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/pulls{/number}
-pushed_at: '2019-03-29T01:38:17Z'
-releases_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/releases{/id}
-size: 2795
-ssh_url: git@github.com:sparkfun/Arduino_Pro_Mini_328.git
-stargazers_count: 95
-stargazers_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/subscription
-svn_url: https://github.com/sparkfun/Arduino_Pro_Mini_328
-tags_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/tags
-teams_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/teams
-topics:
-- arduino
-- arduino-boards
-- atmega328
-- hardware
-- microcontroller
-- sparkfun-products
-trees_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/git/trees{/sha}
-updated_at: '2023-07-26T01:17:38Z'
-url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328
-visibility: public
-watchers: 95
-watchers_count: 95
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/branches{/branch}
+  clone_url: https://github.com/sparkfun/Arduino_Pro_Mini_328.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/contributors
+  created_at: '2014-01-23T21:44:51Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/deployments
+  description: SparkFun's Arduino Pro Mini 328 is a bare bones super small Arduino
+    compatible development board.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/downloads
+  events_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/events
+  fork: false
+  forks: 52
+  forks_count: 52
+  forks_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/forks
+  full_name: sparkfun/Arduino_Pro_Mini_328
+  git_commits_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Arduino_Pro_Mini_328.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/hooks
+  html_url: https://github.com/sparkfun/Arduino_Pro_Mini_328
+  id: 16186665
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/milestones{/number}
+  mirror_url: null
+  name: Arduino_Pro_Mini_328
+  node_id: MDEwOlJlcG9zaXRvcnkxNjE4NjY2NQ==
+  notifications_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/pulls{/number}
+  pushed_at: '2019-03-29T01:38:17Z'
+  releases_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/releases{/id}
+  size: 2795
+  ssh_url: git@github.com:sparkfun/Arduino_Pro_Mini_328.git
+  stargazers_count: 95
+  stargazers_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/subscription
+  svn_url: https://github.com/sparkfun/Arduino_Pro_Mini_328
+  tags_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/tags
+  teams_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/teams
+  topics:
+  - arduino
+  - arduino-boards
+  - atmega328
+  - hardware
+  - microcontroller
+  - sparkfun-products
+  trees_url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328/git/trees{/sha}
+  updated_at: '2023-07-26T01:17:38Z'
+  url: https://api.github.com/repos/sparkfun/Arduino_Pro_Mini_328
+  visibility: public
+  watchers: 95
+  watchers_count: 95
+  web_commit_signoff_required: false

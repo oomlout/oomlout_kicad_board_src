@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/pbrook/lightcube/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/pbrook/lightcube/assignees{/user}
-blobs_url: https://api.github.com/repos/pbrook/lightcube/git/blobs{/sha}
-branches_url: https://api.github.com/repos/pbrook/lightcube/branches{/branch}
-clone_url: https://github.com/pbrook/lightcube.git
-collaborators_url: https://api.github.com/repos/pbrook/lightcube/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/pbrook/lightcube/comments{/number}
-commits_url: https://api.github.com/repos/pbrook/lightcube/commits{/sha}
-compare_url: https://api.github.com/repos/pbrook/lightcube/compare/{base}...{head}
-contents_url: https://api.github.com/repos/pbrook/lightcube/contents/{+path}
-contributors_url: https://api.github.com/repos/pbrook/lightcube/contributors
-created_at: '2014-08-12T15:19:35Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/pbrook/lightcube/deployments
-description: Large LED cube
-disabled: false
-downloads_url: https://api.github.com/repos/pbrook/lightcube/downloads
-events_url: https://api.github.com/repos/pbrook/lightcube/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/pbrook/lightcube/forks
-full_name: pbrook/lightcube
-git_commits_url: https://api.github.com/repos/pbrook/lightcube/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/pbrook/lightcube/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/pbrook/lightcube/git/tags{/sha}
-git_url: git://github.com/pbrook/lightcube.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/pbrook/lightcube/hooks
-html_url: https://github.com/pbrook/lightcube
-id: 22882208
-is_template: false
-issue_comment_url: https://api.github.com/repos/pbrook/lightcube/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/pbrook/lightcube/issues/events{/number}
-issues_url: https://api.github.com/repos/pbrook/lightcube/issues{/number}
-keys_url: https://api.github.com/repos/pbrook/lightcube/keys{/key_id}
-labels_url: https://api.github.com/repos/pbrook/lightcube/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/pbrook/lightcube/languages
-license: null
-merges_url: https://api.github.com/repos/pbrook/lightcube/merges
-milestones_url: https://api.github.com/repos/pbrook/lightcube/milestones{/number}
-mirror_url: null
-name: lightcube
-node_id: MDEwOlJlcG9zaXRvcnkyMjg4MjIwOA==
-notifications_url: https://api.github.com/repos/pbrook/lightcube/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/182159?v=4
-  events_url: https://api.github.com/users/pbrook/events{/privacy}
-  followers_url: https://api.github.com/users/pbrook/followers
-  following_url: https://api.github.com/users/pbrook/following{/other_user}
-  gists_url: https://api.github.com/users/pbrook/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/pbrook
-  id: 182159
-  login: pbrook
-  node_id: MDQ6VXNlcjE4MjE1OQ==
-  organizations_url: https://api.github.com/users/pbrook/orgs
-  received_events_url: https://api.github.com/users/pbrook/received_events
-  repos_url: https://api.github.com/users/pbrook/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/pbrook/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/pbrook/subscriptions
-  type: User
-  url: https://api.github.com/users/pbrook
-private: false
+links:
+  github_owner: pbrook
+  github_repo_name: lightcube
+  github_src: https://github.com/pbrook/lightcube
+  github_src_repo: https://github.com/pbrook/lightcube
+  oomp_bot: pbrook_lightcube
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/pbrook_lightcube
+  oomp_doc: projects/pbrook_lightcube/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/pbrook_lightcube
+  oomp_src_flat: projects_flat/pbrook_lightcube
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/pbrook_lightcube
+  oomp_src_folder: projects_folder\pbrook\lightcube\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\pbrook\lightcube\version_current\working
+oomp_key: oomp_pbrook_lightcube
+oomp_key_simple: pbrook_lightcube
 projects_flat: projects_flat/pbrook_lightcube/version_current/working
 projects_folder: projects_folder/pbrook/lightcube/version_current/working
-pulls_url: https://api.github.com/repos/pbrook/lightcube/pulls{/number}
-pushed_at: '2014-09-12T22:08:31Z'
-releases_url: https://api.github.com/repos/pbrook/lightcube/releases{/id}
-size: 172
-ssh_url: git@github.com:pbrook/lightcube.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/pbrook/lightcube/stargazers
-statuses_url: https://api.github.com/repos/pbrook/lightcube/statuses/{sha}
-subscribers_url: https://api.github.com/repos/pbrook/lightcube/subscribers
-subscription_url: https://api.github.com/repos/pbrook/lightcube/subscription
-svn_url: https://github.com/pbrook/lightcube
-tags_url: https://api.github.com/repos/pbrook/lightcube/tags
-teams_url: https://api.github.com/repos/pbrook/lightcube/teams
-topics: []
-trees_url: https://api.github.com/repos/pbrook/lightcube/git/trees{/sha}
-updated_at: '2014-09-12T22:08:31Z'
-url: https://api.github.com/repos/pbrook/lightcube
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/pbrook/lightcube/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/pbrook/lightcube/assignees{/user}
+  blobs_url: https://api.github.com/repos/pbrook/lightcube/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/pbrook/lightcube/branches{/branch}
+  clone_url: https://github.com/pbrook/lightcube.git
+  collaborators_url: https://api.github.com/repos/pbrook/lightcube/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/pbrook/lightcube/comments{/number}
+  commits_url: https://api.github.com/repos/pbrook/lightcube/commits{/sha}
+  compare_url: https://api.github.com/repos/pbrook/lightcube/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/pbrook/lightcube/contents/{+path}
+  contributors_url: https://api.github.com/repos/pbrook/lightcube/contributors
+  created_at: '2014-08-12T15:19:35Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/pbrook/lightcube/deployments
+  description: Large LED cube
+  disabled: false
+  downloads_url: https://api.github.com/repos/pbrook/lightcube/downloads
+  events_url: https://api.github.com/repos/pbrook/lightcube/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/pbrook/lightcube/forks
+  full_name: pbrook/lightcube
+  git_commits_url: https://api.github.com/repos/pbrook/lightcube/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/pbrook/lightcube/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/pbrook/lightcube/git/tags{/sha}
+  git_url: git://github.com/pbrook/lightcube.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/pbrook/lightcube/hooks
+  html_url: https://github.com/pbrook/lightcube
+  id: 22882208
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/pbrook/lightcube/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/pbrook/lightcube/issues/events{/number}
+  issues_url: https://api.github.com/repos/pbrook/lightcube/issues{/number}
+  keys_url: https://api.github.com/repos/pbrook/lightcube/keys{/key_id}
+  labels_url: https://api.github.com/repos/pbrook/lightcube/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/pbrook/lightcube/languages
+  license: null
+  merges_url: https://api.github.com/repos/pbrook/lightcube/merges
+  milestones_url: https://api.github.com/repos/pbrook/lightcube/milestones{/number}
+  mirror_url: null
+  name: lightcube
+  node_id: MDEwOlJlcG9zaXRvcnkyMjg4MjIwOA==
+  notifications_url: https://api.github.com/repos/pbrook/lightcube/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/182159?v=4
+    events_url: https://api.github.com/users/pbrook/events{/privacy}
+    followers_url: https://api.github.com/users/pbrook/followers
+    following_url: https://api.github.com/users/pbrook/following{/other_user}
+    gists_url: https://api.github.com/users/pbrook/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/pbrook
+    id: 182159
+    login: pbrook
+    node_id: MDQ6VXNlcjE4MjE1OQ==
+    organizations_url: https://api.github.com/users/pbrook/orgs
+    received_events_url: https://api.github.com/users/pbrook/received_events
+    repos_url: https://api.github.com/users/pbrook/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/pbrook/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/pbrook/subscriptions
+    type: User
+    url: https://api.github.com/users/pbrook
+  private: false
+  pulls_url: https://api.github.com/repos/pbrook/lightcube/pulls{/number}
+  pushed_at: '2014-09-12T22:08:31Z'
+  releases_url: https://api.github.com/repos/pbrook/lightcube/releases{/id}
+  size: 172
+  ssh_url: git@github.com:pbrook/lightcube.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/pbrook/lightcube/stargazers
+  statuses_url: https://api.github.com/repos/pbrook/lightcube/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/pbrook/lightcube/subscribers
+  subscription_url: https://api.github.com/repos/pbrook/lightcube/subscription
+  svn_url: https://github.com/pbrook/lightcube
+  tags_url: https://api.github.com/repos/pbrook/lightcube/tags
+  teams_url: https://api.github.com/repos/pbrook/lightcube/teams
+  topics: []
+  trees_url: https://api.github.com/repos/pbrook/lightcube/git/trees{/sha}
+  updated_at: '2014-09-12T22:08:31Z'
+  url: https://api.github.com/repos/pbrook/lightcube
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

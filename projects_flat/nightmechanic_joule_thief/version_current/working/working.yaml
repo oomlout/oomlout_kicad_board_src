@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/nightmechanic/Joule_Thief/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/nightmechanic/Joule_Thief/assignees{/user}
-blobs_url: https://api.github.com/repos/nightmechanic/Joule_Thief/git/blobs{/sha}
-branches_url: https://api.github.com/repos/nightmechanic/Joule_Thief/branches{/branch}
-clone_url: https://github.com/nightmechanic/Joule_Thief.git
-collaborators_url: https://api.github.com/repos/nightmechanic/Joule_Thief/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/nightmechanic/Joule_Thief/comments{/number}
-commits_url: https://api.github.com/repos/nightmechanic/Joule_Thief/commits{/sha}
-compare_url: https://api.github.com/repos/nightmechanic/Joule_Thief/compare/{base}...{head}
-contents_url: https://api.github.com/repos/nightmechanic/Joule_Thief/contents/{+path}
-contributors_url: https://api.github.com/repos/nightmechanic/Joule_Thief/contributors
-created_at: '2016-03-10T19:42:05Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/nightmechanic/Joule_Thief/deployments
-description: 'Simple "joule thief" circuit '
-disabled: false
-downloads_url: https://api.github.com/repos/nightmechanic/Joule_Thief/downloads
-events_url: https://api.github.com/repos/nightmechanic/Joule_Thief/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/nightmechanic/Joule_Thief/forks
-full_name: nightmechanic/Joule_Thief
-git_commits_url: https://api.github.com/repos/nightmechanic/Joule_Thief/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/nightmechanic/Joule_Thief/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/nightmechanic/Joule_Thief/git/tags{/sha}
-git_url: git://github.com/nightmechanic/Joule_Thief.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/nightmechanic/Joule_Thief/hooks
-html_url: https://github.com/nightmechanic/Joule_Thief
-id: 53611888
-is_template: false
-issue_comment_url: https://api.github.com/repos/nightmechanic/Joule_Thief/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/nightmechanic/Joule_Thief/issues/events{/number}
-issues_url: https://api.github.com/repos/nightmechanic/Joule_Thief/issues{/number}
-keys_url: https://api.github.com/repos/nightmechanic/Joule_Thief/keys{/key_id}
-labels_url: https://api.github.com/repos/nightmechanic/Joule_Thief/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/nightmechanic/Joule_Thief/languages
-license: null
-merges_url: https://api.github.com/repos/nightmechanic/Joule_Thief/merges
-milestones_url: https://api.github.com/repos/nightmechanic/Joule_Thief/milestones{/number}
-mirror_url: null
-name: Joule_Thief
-node_id: MDEwOlJlcG9zaXRvcnk1MzYxMTg4OA==
-notifications_url: https://api.github.com/repos/nightmechanic/Joule_Thief/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1254429?v=4
-  events_url: https://api.github.com/users/nightmechanic/events{/privacy}
-  followers_url: https://api.github.com/users/nightmechanic/followers
-  following_url: https://api.github.com/users/nightmechanic/following{/other_user}
-  gists_url: https://api.github.com/users/nightmechanic/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/nightmechanic
-  id: 1254429
-  login: nightmechanic
-  node_id: MDQ6VXNlcjEyNTQ0Mjk=
-  organizations_url: https://api.github.com/users/nightmechanic/orgs
-  received_events_url: https://api.github.com/users/nightmechanic/received_events
-  repos_url: https://api.github.com/users/nightmechanic/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/nightmechanic/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/nightmechanic/subscriptions
-  type: User
-  url: https://api.github.com/users/nightmechanic
-private: false
+links:
+  github_owner: nightmechanic
+  github_repo_name: Joule_Thief
+  github_src: https://github.com/nightmechanic/Joule_Thief
+  github_src_repo: https://github.com/nightmechanic/Joule_Thief
+  oomp_bot: projects_nightmechanic_joule_thief
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_nightmechanic_joule_thief
+  oomp_doc: projects/projects_flat_nightmechanic_joule_thief/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_nightmechanic_joule_thief
+  oomp_src_flat: projects_flat/projects_flat_nightmechanic_joule_thief
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_nightmechanic_joule_thief
+  oomp_src_folder: projects_flat\nightmechanic_joule_thief\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\nightmechanic_joule_thief\version_current\working
+oomp_key: oomp_projects_flat_nightmechanic_joule_thief
+oomp_key_simple: projects_flat_nightmechanic_joule_thief
 projects_flat: projects_flat/nightmechanic_joule_thief/version_current/working
 projects_folder: projects_folder/nightmechanic/Joule_Thief/version_current/working
-pulls_url: https://api.github.com/repos/nightmechanic/Joule_Thief/pulls{/number}
-pushed_at: '2016-03-11T00:27:12Z'
-releases_url: https://api.github.com/repos/nightmechanic/Joule_Thief/releases{/id}
-size: 36
-ssh_url: git@github.com:nightmechanic/Joule_Thief.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/nightmechanic/Joule_Thief/stargazers
-statuses_url: https://api.github.com/repos/nightmechanic/Joule_Thief/statuses/{sha}
-subscribers_url: https://api.github.com/repos/nightmechanic/Joule_Thief/subscribers
-subscription_url: https://api.github.com/repos/nightmechanic/Joule_Thief/subscription
-svn_url: https://github.com/nightmechanic/Joule_Thief
-tags_url: https://api.github.com/repos/nightmechanic/Joule_Thief/tags
-teams_url: https://api.github.com/repos/nightmechanic/Joule_Thief/teams
-topics: []
-trees_url: https://api.github.com/repos/nightmechanic/Joule_Thief/git/trees{/sha}
-updated_at: '2016-03-10T19:56:09Z'
-url: https://api.github.com/repos/nightmechanic/Joule_Thief
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/nightmechanic/Joule_Thief/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/nightmechanic/Joule_Thief/assignees{/user}
+  blobs_url: https://api.github.com/repos/nightmechanic/Joule_Thief/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/nightmechanic/Joule_Thief/branches{/branch}
+  clone_url: https://github.com/nightmechanic/Joule_Thief.git
+  collaborators_url: https://api.github.com/repos/nightmechanic/Joule_Thief/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/nightmechanic/Joule_Thief/comments{/number}
+  commits_url: https://api.github.com/repos/nightmechanic/Joule_Thief/commits{/sha}
+  compare_url: https://api.github.com/repos/nightmechanic/Joule_Thief/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/nightmechanic/Joule_Thief/contents/{+path}
+  contributors_url: https://api.github.com/repos/nightmechanic/Joule_Thief/contributors
+  created_at: '2016-03-10T19:42:05Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/nightmechanic/Joule_Thief/deployments
+  description: 'Simple "joule thief" circuit '
+  disabled: false
+  downloads_url: https://api.github.com/repos/nightmechanic/Joule_Thief/downloads
+  events_url: https://api.github.com/repos/nightmechanic/Joule_Thief/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/nightmechanic/Joule_Thief/forks
+  full_name: nightmechanic/Joule_Thief
+  git_commits_url: https://api.github.com/repos/nightmechanic/Joule_Thief/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/nightmechanic/Joule_Thief/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/nightmechanic/Joule_Thief/git/tags{/sha}
+  git_url: git://github.com/nightmechanic/Joule_Thief.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/nightmechanic/Joule_Thief/hooks
+  html_url: https://github.com/nightmechanic/Joule_Thief
+  id: 53611888
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/nightmechanic/Joule_Thief/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/nightmechanic/Joule_Thief/issues/events{/number}
+  issues_url: https://api.github.com/repos/nightmechanic/Joule_Thief/issues{/number}
+  keys_url: https://api.github.com/repos/nightmechanic/Joule_Thief/keys{/key_id}
+  labels_url: https://api.github.com/repos/nightmechanic/Joule_Thief/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/nightmechanic/Joule_Thief/languages
+  license: null
+  merges_url: https://api.github.com/repos/nightmechanic/Joule_Thief/merges
+  milestones_url: https://api.github.com/repos/nightmechanic/Joule_Thief/milestones{/number}
+  mirror_url: null
+  name: Joule_Thief
+  node_id: MDEwOlJlcG9zaXRvcnk1MzYxMTg4OA==
+  notifications_url: https://api.github.com/repos/nightmechanic/Joule_Thief/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1254429?v=4
+    events_url: https://api.github.com/users/nightmechanic/events{/privacy}
+    followers_url: https://api.github.com/users/nightmechanic/followers
+    following_url: https://api.github.com/users/nightmechanic/following{/other_user}
+    gists_url: https://api.github.com/users/nightmechanic/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/nightmechanic
+    id: 1254429
+    login: nightmechanic
+    node_id: MDQ6VXNlcjEyNTQ0Mjk=
+    organizations_url: https://api.github.com/users/nightmechanic/orgs
+    received_events_url: https://api.github.com/users/nightmechanic/received_events
+    repos_url: https://api.github.com/users/nightmechanic/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/nightmechanic/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/nightmechanic/subscriptions
+    type: User
+    url: https://api.github.com/users/nightmechanic
+  private: false
+  pulls_url: https://api.github.com/repos/nightmechanic/Joule_Thief/pulls{/number}
+  pushed_at: '2016-03-11T00:27:12Z'
+  releases_url: https://api.github.com/repos/nightmechanic/Joule_Thief/releases{/id}
+  size: 36
+  ssh_url: git@github.com:nightmechanic/Joule_Thief.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/nightmechanic/Joule_Thief/stargazers
+  statuses_url: https://api.github.com/repos/nightmechanic/Joule_Thief/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/nightmechanic/Joule_Thief/subscribers
+  subscription_url: https://api.github.com/repos/nightmechanic/Joule_Thief/subscription
+  svn_url: https://github.com/nightmechanic/Joule_Thief
+  tags_url: https://api.github.com/repos/nightmechanic/Joule_Thief/tags
+  teams_url: https://api.github.com/repos/nightmechanic/Joule_Thief/teams
+  topics: []
+  trees_url: https://api.github.com/repos/nightmechanic/Joule_Thief/git/trees{/sha}
+  updated_at: '2016-03-10T19:56:09Z'
+  url: https://api.github.com/repos/nightmechanic/Joule_Thief
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

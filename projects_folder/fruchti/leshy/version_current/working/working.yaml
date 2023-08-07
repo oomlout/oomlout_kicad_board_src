@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/fruchti/leshy/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/fruchti/leshy/assignees{/user}
-blobs_url: https://api.github.com/repos/fruchti/leshy/git/blobs{/sha}
-branches_url: https://api.github.com/repos/fruchti/leshy/branches{/branch}
-clone_url: https://github.com/fruchti/leshy.git
-collaborators_url: https://api.github.com/repos/fruchti/leshy/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/fruchti/leshy/comments{/number}
-commits_url: https://api.github.com/repos/fruchti/leshy/commits{/sha}
-compare_url: https://api.github.com/repos/fruchti/leshy/compare/{base}...{head}
-contents_url: https://api.github.com/repos/fruchti/leshy/contents/{+path}
-contributors_url: https://api.github.com/repos/fruchti/leshy/contributors
-created_at: '2016-12-20T18:44:20Z'
-default_branch: develop
-deployments_url: https://api.github.com/repos/fruchti/leshy/deployments
-description: A small board for developing small microcontroller projects
-disabled: false
-downloads_url: https://api.github.com/repos/fruchti/leshy/downloads
-events_url: https://api.github.com/repos/fruchti/leshy/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/fruchti/leshy/forks
-full_name: fruchti/leshy
-git_commits_url: https://api.github.com/repos/fruchti/leshy/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/fruchti/leshy/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/fruchti/leshy/git/tags{/sha}
-git_url: git://github.com/fruchti/leshy.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/fruchti/leshy/hooks
-html_url: https://github.com/fruchti/leshy
-id: 76982652
-is_template: false
-issue_comment_url: https://api.github.com/repos/fruchti/leshy/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/fruchti/leshy/issues/events{/number}
-issues_url: https://api.github.com/repos/fruchti/leshy/issues{/number}
-keys_url: https://api.github.com/repos/fruchti/leshy/keys{/key_id}
-labels_url: https://api.github.com/repos/fruchti/leshy/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/fruchti/leshy/languages
-license:
-  key: isc
-  name: ISC License
-  node_id: MDc6TGljZW5zZTEw
-  spdx_id: ISC
-  url: https://api.github.com/licenses/isc
-merges_url: https://api.github.com/repos/fruchti/leshy/merges
-milestones_url: https://api.github.com/repos/fruchti/leshy/milestones{/number}
-mirror_url: null
-name: leshy
-node_id: MDEwOlJlcG9zaXRvcnk3Njk4MjY1Mg==
-notifications_url: https://api.github.com/repos/fruchti/leshy/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/11243448?v=4
-  events_url: https://api.github.com/users/fruchti/events{/privacy}
-  followers_url: https://api.github.com/users/fruchti/followers
-  following_url: https://api.github.com/users/fruchti/following{/other_user}
-  gists_url: https://api.github.com/users/fruchti/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/fruchti
-  id: 11243448
-  login: fruchti
-  node_id: MDQ6VXNlcjExMjQzNDQ4
-  organizations_url: https://api.github.com/users/fruchti/orgs
-  received_events_url: https://api.github.com/users/fruchti/received_events
-  repos_url: https://api.github.com/users/fruchti/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/fruchti/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/fruchti/subscriptions
-  type: User
-  url: https://api.github.com/users/fruchti
-private: false
+links:
+  github_owner: fruchti
+  github_repo_name: leshy
+  github_src: https://github.com/fruchti/leshy
+  github_src_repo: https://github.com/fruchti/leshy
+  oomp_bot: fruchti_leshy
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/fruchti_leshy
+  oomp_doc: projects/fruchti_leshy/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/fruchti_leshy
+  oomp_src_flat: projects_flat/fruchti_leshy
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/fruchti_leshy
+  oomp_src_folder: projects_folder\fruchti\leshy\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\fruchti\leshy\version_current\working
+oomp_key: oomp_fruchti_leshy
+oomp_key_simple: fruchti_leshy
 projects_flat: projects_flat/fruchti_leshy/version_current/working
 projects_folder: projects_folder/fruchti/leshy/version_current/working
-pulls_url: https://api.github.com/repos/fruchti/leshy/pulls{/number}
-pushed_at: '2021-02-10T12:21:24Z'
-releases_url: https://api.github.com/repos/fruchti/leshy/releases{/id}
-size: 4589
-ssh_url: git@github.com:fruchti/leshy.git
-stargazers_count: 7
-stargazers_url: https://api.github.com/repos/fruchti/leshy/stargazers
-statuses_url: https://api.github.com/repos/fruchti/leshy/statuses/{sha}
-subscribers_url: https://api.github.com/repos/fruchti/leshy/subscribers
-subscription_url: https://api.github.com/repos/fruchti/leshy/subscription
-svn_url: https://github.com/fruchti/leshy
-tags_url: https://api.github.com/repos/fruchti/leshy/tags
-teams_url: https://api.github.com/repos/fruchti/leshy/teams
-topics:
-- development-board
-- stm32f0
-trees_url: https://api.github.com/repos/fruchti/leshy/git/trees{/sha}
-updated_at: '2021-06-30T09:02:37Z'
-url: https://api.github.com/repos/fruchti/leshy
-visibility: public
-watchers: 7
-watchers_count: 7
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/fruchti/leshy/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/fruchti/leshy/assignees{/user}
+  blobs_url: https://api.github.com/repos/fruchti/leshy/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/fruchti/leshy/branches{/branch}
+  clone_url: https://github.com/fruchti/leshy.git
+  collaborators_url: https://api.github.com/repos/fruchti/leshy/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/fruchti/leshy/comments{/number}
+  commits_url: https://api.github.com/repos/fruchti/leshy/commits{/sha}
+  compare_url: https://api.github.com/repos/fruchti/leshy/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/fruchti/leshy/contents/{+path}
+  contributors_url: https://api.github.com/repos/fruchti/leshy/contributors
+  created_at: '2016-12-20T18:44:20Z'
+  default_branch: develop
+  deployments_url: https://api.github.com/repos/fruchti/leshy/deployments
+  description: A small board for developing small microcontroller projects
+  disabled: false
+  downloads_url: https://api.github.com/repos/fruchti/leshy/downloads
+  events_url: https://api.github.com/repos/fruchti/leshy/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/fruchti/leshy/forks
+  full_name: fruchti/leshy
+  git_commits_url: https://api.github.com/repos/fruchti/leshy/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/fruchti/leshy/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/fruchti/leshy/git/tags{/sha}
+  git_url: git://github.com/fruchti/leshy.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/fruchti/leshy/hooks
+  html_url: https://github.com/fruchti/leshy
+  id: 76982652
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/fruchti/leshy/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/fruchti/leshy/issues/events{/number}
+  issues_url: https://api.github.com/repos/fruchti/leshy/issues{/number}
+  keys_url: https://api.github.com/repos/fruchti/leshy/keys{/key_id}
+  labels_url: https://api.github.com/repos/fruchti/leshy/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/fruchti/leshy/languages
+  license:
+    key: isc
+    name: ISC License
+    node_id: MDc6TGljZW5zZTEw
+    spdx_id: ISC
+    url: https://api.github.com/licenses/isc
+  merges_url: https://api.github.com/repos/fruchti/leshy/merges
+  milestones_url: https://api.github.com/repos/fruchti/leshy/milestones{/number}
+  mirror_url: null
+  name: leshy
+  node_id: MDEwOlJlcG9zaXRvcnk3Njk4MjY1Mg==
+  notifications_url: https://api.github.com/repos/fruchti/leshy/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/11243448?v=4
+    events_url: https://api.github.com/users/fruchti/events{/privacy}
+    followers_url: https://api.github.com/users/fruchti/followers
+    following_url: https://api.github.com/users/fruchti/following{/other_user}
+    gists_url: https://api.github.com/users/fruchti/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/fruchti
+    id: 11243448
+    login: fruchti
+    node_id: MDQ6VXNlcjExMjQzNDQ4
+    organizations_url: https://api.github.com/users/fruchti/orgs
+    received_events_url: https://api.github.com/users/fruchti/received_events
+    repos_url: https://api.github.com/users/fruchti/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/fruchti/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/fruchti/subscriptions
+    type: User
+    url: https://api.github.com/users/fruchti
+  private: false
+  pulls_url: https://api.github.com/repos/fruchti/leshy/pulls{/number}
+  pushed_at: '2021-02-10T12:21:24Z'
+  releases_url: https://api.github.com/repos/fruchti/leshy/releases{/id}
+  size: 4589
+  ssh_url: git@github.com:fruchti/leshy.git
+  stargazers_count: 7
+  stargazers_url: https://api.github.com/repos/fruchti/leshy/stargazers
+  statuses_url: https://api.github.com/repos/fruchti/leshy/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/fruchti/leshy/subscribers
+  subscription_url: https://api.github.com/repos/fruchti/leshy/subscription
+  svn_url: https://github.com/fruchti/leshy
+  tags_url: https://api.github.com/repos/fruchti/leshy/tags
+  teams_url: https://api.github.com/repos/fruchti/leshy/teams
+  topics:
+  - development-board
+  - stm32f0
+  trees_url: https://api.github.com/repos/fruchti/leshy/git/trees{/sha}
+  updated_at: '2021-06-30T09:02:37Z'
+  url: https://api.github.com/repos/fruchti/leshy
+  visibility: public
+  watchers: 7
+  watchers_count: 7
+  web_commit_signoff_required: false

@@ -1,101 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/DangerShield/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/DangerShield/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/DangerShield/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/DangerShield/branches{/branch}
-clone_url: https://github.com/sparkfun/DangerShield.git
-collaborators_url: https://api.github.com/repos/sparkfun/DangerShield/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/DangerShield/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/DangerShield/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/DangerShield/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/DangerShield/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/DangerShield/contributors
-created_at: '2012-10-22T08:32:03Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/DangerShield/deployments
-description: Fun and basic example code for the Danger Shield. Includes layout files.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/DangerShield/downloads
-events_url: https://api.github.com/repos/sparkfun/DangerShield/events
 file_sch_flat_folder: projects_flat_folder/sparkfun_dangershield/version_current/working/working.sch
 file_sch_folder: projects_folder/sparkfun/DangerShield/version_current/working/working.sch
-fork: false
-forks: 9
-forks_count: 9
-forks_url: https://api.github.com/repos/sparkfun/DangerShield/forks
-full_name: sparkfun/DangerShield
-git_commits_url: https://api.github.com/repos/sparkfun/DangerShield/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/DangerShield/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/DangerShield/git/tags{/sha}
-git_url: git://github.com/sparkfun/DangerShield.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/products/10570
-hooks_url: https://api.github.com/repos/sparkfun/DangerShield/hooks
-html_url: https://github.com/sparkfun/DangerShield
-id: 6331772
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/DangerShield/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/DangerShield/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/DangerShield/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/DangerShield/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/DangerShield/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/sparkfun/DangerShield/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/DangerShield/merges
-milestones_url: https://api.github.com/repos/sparkfun/DangerShield/milestones{/number}
-mirror_url: null
-name: DangerShield
-node_id: MDEwOlJlcG9zaXRvcnk2MzMxNzcy
-notifications_url: https://api.github.com/repos/sparkfun/DangerShield/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: DangerShield
+  github_src: https://github.com/sparkfun/DangerShield
+  github_src_repo: https://github.com/sparkfun/DangerShield
+  oomp_bot: sparkfun_dangershield
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_dangershield
+  oomp_doc: projects/sparkfun_dangershield/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_dangershield
+  oomp_src_flat: projects_flat/sparkfun_dangershield
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_dangershield
+  oomp_src_folder: projects_folder\sparkfun\DangerShield\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\DangerShield\version_current\working
+oomp_key: oomp_sparkfun_dangershield
+oomp_key_simple: sparkfun_dangershield
+projects_flat: projects_flat/sparkfun_dangershield/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_dangershield/version_current/working
 projects_folder: projects_folder/sparkfun/DangerShield/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/DangerShield/pulls{/number}
-pushed_at: '2016-03-09T16:54:18Z'
-releases_url: https://api.github.com/repos/sparkfun/DangerShield/releases{/id}
-size: 228
-ssh_url: git@github.com:sparkfun/DangerShield.git
-stargazers_count: 7
-stargazers_url: https://api.github.com/repos/sparkfun/DangerShield/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/DangerShield/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/DangerShield/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/DangerShield/subscription
-svn_url: https://github.com/sparkfun/DangerShield
-tags_url: https://api.github.com/repos/sparkfun/DangerShield/tags
-teams_url: https://api.github.com/repos/sparkfun/DangerShield/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/DangerShield/git/trees{/sha}
-updated_at: '2018-09-10T01:16:17Z'
-url: https://api.github.com/repos/sparkfun/DangerShield
-visibility: public
-watchers: 7
-watchers_count: 7
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/DangerShield/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/DangerShield/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/DangerShield/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/DangerShield/branches{/branch}
+  clone_url: https://github.com/sparkfun/DangerShield.git
+  collaborators_url: https://api.github.com/repos/sparkfun/DangerShield/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/DangerShield/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/DangerShield/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/DangerShield/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/DangerShield/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/DangerShield/contributors
+  created_at: '2012-10-22T08:32:03Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/DangerShield/deployments
+  description: Fun and basic example code for the Danger Shield. Includes layout files.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/DangerShield/downloads
+  events_url: https://api.github.com/repos/sparkfun/DangerShield/events
+  fork: false
+  forks: 9
+  forks_count: 9
+  forks_url: https://api.github.com/repos/sparkfun/DangerShield/forks
+  full_name: sparkfun/DangerShield
+  git_commits_url: https://api.github.com/repos/sparkfun/DangerShield/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/DangerShield/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/DangerShield/git/tags{/sha}
+  git_url: git://github.com/sparkfun/DangerShield.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/products/10570
+  hooks_url: https://api.github.com/repos/sparkfun/DangerShield/hooks
+  html_url: https://github.com/sparkfun/DangerShield
+  id: 6331772
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/DangerShield/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/DangerShield/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/DangerShield/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/DangerShield/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/DangerShield/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/sparkfun/DangerShield/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/DangerShield/merges
+  milestones_url: https://api.github.com/repos/sparkfun/DangerShield/milestones{/number}
+  mirror_url: null
+  name: DangerShield
+  node_id: MDEwOlJlcG9zaXRvcnk2MzMxNzcy
+  notifications_url: https://api.github.com/repos/sparkfun/DangerShield/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/DangerShield/pulls{/number}
+  pushed_at: '2016-03-09T16:54:18Z'
+  releases_url: https://api.github.com/repos/sparkfun/DangerShield/releases{/id}
+  size: 228
+  ssh_url: git@github.com:sparkfun/DangerShield.git
+  stargazers_count: 7
+  stargazers_url: https://api.github.com/repos/sparkfun/DangerShield/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/DangerShield/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/DangerShield/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/DangerShield/subscription
+  svn_url: https://github.com/sparkfun/DangerShield
+  tags_url: https://api.github.com/repos/sparkfun/DangerShield/tags
+  teams_url: https://api.github.com/repos/sparkfun/DangerShield/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/DangerShield/git/trees{/sha}
+  updated_at: '2018-09-10T01:16:17Z'
+  url: https://api.github.com/repos/sparkfun/DangerShield
+  visibility: public
+  watchers: 7
+  watchers_count: 7
+  web_commit_signoff_required: false

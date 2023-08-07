@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/assignees{/user}
-blobs_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/branches{/branch}
-clone_url: https://github.com/Tinkerforge/silent-stepper-brick.git
-collaborators_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/comments{/number}
-commits_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/commits{/sha}
-compare_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/contents/{+path}
-contributors_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/contributors
-created_at: '2015-09-15T12:36:16Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/deployments
-description: Silently drives one bipolar stepper motor with up to 46V and 1.6A per
-  phase
-disabled: false
-downloads_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/downloads
-events_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/forks
-full_name: Tinkerforge/silent-stepper-brick
-git_commits_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/git/tags{/sha}
-git_url: git://github.com/Tinkerforge/silent-stepper-brick.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.tinkerforge.com/en/doc/Hardware/Bricks/Silent_Stepper_Brick.html
-hooks_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/hooks
-html_url: https://github.com/Tinkerforge/silent-stepper-brick
-id: 42518267
-is_template: false
-issue_comment_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/issues/events{/number}
-issues_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/issues{/number}
-keys_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/keys{/key_id}
-labels_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/languages
-license: null
-merges_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/merges
-milestones_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/milestones{/number}
-mirror_url: null
-name: silent-stepper-brick
-node_id: MDEwOlJlcG9zaXRvcnk0MjUxODI2Nw==
-notifications_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
-  events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
-  followers_url: https://api.github.com/users/Tinkerforge/followers
-  following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
-  gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Tinkerforge
-  id: 1001426
-  login: Tinkerforge
-  node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
-  organizations_url: https://api.github.com/users/Tinkerforge/orgs
-  received_events_url: https://api.github.com/users/Tinkerforge/received_events
-  repos_url: https://api.github.com/users/Tinkerforge/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
-  type: Organization
-  url: https://api.github.com/users/Tinkerforge
-private: false
+links:
+  github_owner: Tinkerforge
+  github_repo_name: silent-stepper-brick
+  github_src: https://github.com/Tinkerforge/silent-stepper-brick
+  github_src_repo: https://github.com/Tinkerforge/silent-stepper-brick
+  oomp_bot: projects_tinkerforge_silent_stepper_brick
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_tinkerforge_silent_stepper_brick
+  oomp_doc: projects/projects_flat_tinkerforge_silent_stepper_brick/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_tinkerforge_silent_stepper_brick
+  oomp_src_flat: projects_flat/projects_flat_tinkerforge_silent_stepper_brick
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_tinkerforge_silent_stepper_brick
+  oomp_src_folder: projects_flat\tinkerforge_silent_stepper_brick\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\tinkerforge_silent_stepper_brick\version_current\working
+oomp_key: oomp_projects_flat_tinkerforge_silent_stepper_brick
+oomp_key_simple: projects_flat_tinkerforge_silent_stepper_brick
 projects_flat: projects_flat/tinkerforge_silent_stepper_brick/version_current/working
 projects_folder: projects_folder/Tinkerforge/silent-stepper-brick/version_current/working
-pulls_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/pulls{/number}
-pushed_at: '2022-07-06T12:50:48Z'
-releases_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/releases{/id}
-size: 29809
-ssh_url: git@github.com:Tinkerforge/silent-stepper-brick.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/stargazers
-statuses_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/subscribers
-subscription_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/subscription
-svn_url: https://github.com/Tinkerforge/silent-stepper-brick
-tags_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/tags
-teams_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/teams
-topics: []
-trees_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/git/trees{/sha}
-updated_at: '2021-10-25T07:57:06Z'
-url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/assignees{/user}
+  blobs_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/branches{/branch}
+  clone_url: https://github.com/Tinkerforge/silent-stepper-brick.git
+  collaborators_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/comments{/number}
+  commits_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/commits{/sha}
+  compare_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/contents/{+path}
+  contributors_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/contributors
+  created_at: '2015-09-15T12:36:16Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/deployments
+  description: Silently drives one bipolar stepper motor with up to 46V and 1.6A per
+    phase
+  disabled: false
+  downloads_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/downloads
+  events_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/forks
+  full_name: Tinkerforge/silent-stepper-brick
+  git_commits_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/git/tags{/sha}
+  git_url: git://github.com/Tinkerforge/silent-stepper-brick.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.tinkerforge.com/en/doc/Hardware/Bricks/Silent_Stepper_Brick.html
+  hooks_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/hooks
+  html_url: https://github.com/Tinkerforge/silent-stepper-brick
+  id: 42518267
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/issues/events{/number}
+  issues_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/issues{/number}
+  keys_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/keys{/key_id}
+  labels_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/languages
+  license: null
+  merges_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/merges
+  milestones_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/milestones{/number}
+  mirror_url: null
+  name: silent-stepper-brick
+  node_id: MDEwOlJlcG9zaXRvcnk0MjUxODI2Nw==
+  notifications_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
+    events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
+    followers_url: https://api.github.com/users/Tinkerforge/followers
+    following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
+    gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Tinkerforge
+    id: 1001426
+    login: Tinkerforge
+    node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
+    organizations_url: https://api.github.com/users/Tinkerforge/orgs
+    received_events_url: https://api.github.com/users/Tinkerforge/received_events
+    repos_url: https://api.github.com/users/Tinkerforge/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
+    type: Organization
+    url: https://api.github.com/users/Tinkerforge
+  private: false
+  pulls_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/pulls{/number}
+  pushed_at: '2022-07-06T12:50:48Z'
+  releases_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/releases{/id}
+  size: 29809
+  ssh_url: git@github.com:Tinkerforge/silent-stepper-brick.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/stargazers
+  statuses_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/subscribers
+  subscription_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/subscription
+  svn_url: https://github.com/Tinkerforge/silent-stepper-brick
+  tags_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/tags
+  teams_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick/git/trees{/sha}
+  updated_at: '2021-10-25T07:57:06Z'
+  url: https://api.github.com/repos/Tinkerforge/silent-stepper-brick
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

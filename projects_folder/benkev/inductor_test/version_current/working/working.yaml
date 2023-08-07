@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/benkev/inductor_test/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/benkev/inductor_test/assignees{/user}
-blobs_url: https://api.github.com/repos/benkev/inductor_test/git/blobs{/sha}
-branches_url: https://api.github.com/repos/benkev/inductor_test/branches{/branch}
-clone_url: https://github.com/benkev/inductor_test.git
-collaborators_url: https://api.github.com/repos/benkev/inductor_test/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/benkev/inductor_test/comments{/number}
-commits_url: https://api.github.com/repos/benkev/inductor_test/commits{/sha}
-compare_url: https://api.github.com/repos/benkev/inductor_test/compare/{base}...{head}
-contents_url: https://api.github.com/repos/benkev/inductor_test/contents/{+path}
-contributors_url: https://api.github.com/repos/benkev/inductor_test/contributors
-created_at: '2017-07-10T04:59:34Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/benkev/inductor_test/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/benkev/inductor_test/downloads
-events_url: https://api.github.com/repos/benkev/inductor_test/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/benkev/inductor_test/forks
-full_name: benkev/inductor_test
-git_commits_url: https://api.github.com/repos/benkev/inductor_test/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/benkev/inductor_test/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/benkev/inductor_test/git/tags{/sha}
-git_url: git://github.com/benkev/inductor_test.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/benkev/inductor_test/hooks
-html_url: https://github.com/benkev/inductor_test
-id: 96737418
-is_template: false
-issue_comment_url: https://api.github.com/repos/benkev/inductor_test/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/benkev/inductor_test/issues/events{/number}
-issues_url: https://api.github.com/repos/benkev/inductor_test/issues{/number}
-keys_url: https://api.github.com/repos/benkev/inductor_test/keys{/key_id}
-labels_url: https://api.github.com/repos/benkev/inductor_test/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/benkev/inductor_test/languages
-license: null
-merges_url: https://api.github.com/repos/benkev/inductor_test/merges
-milestones_url: https://api.github.com/repos/benkev/inductor_test/milestones{/number}
-mirror_url: null
-name: inductor_test
-node_id: MDEwOlJlcG9zaXRvcnk5NjczNzQxOA==
-notifications_url: https://api.github.com/repos/benkev/inductor_test/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/28968390?v=4
-  events_url: https://api.github.com/users/benkev/events{/privacy}
-  followers_url: https://api.github.com/users/benkev/followers
-  following_url: https://api.github.com/users/benkev/following{/other_user}
-  gists_url: https://api.github.com/users/benkev/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/benkev
-  id: 28968390
-  login: benkev
-  node_id: MDQ6VXNlcjI4OTY4Mzkw
-  organizations_url: https://api.github.com/users/benkev/orgs
-  received_events_url: https://api.github.com/users/benkev/received_events
-  repos_url: https://api.github.com/users/benkev/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/benkev/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/benkev/subscriptions
-  type: User
-  url: https://api.github.com/users/benkev
-private: false
+links:
+  github_owner: benkev
+  github_repo_name: inductor_test
+  github_src: https://github.com/benkev/inductor_test
+  github_src_repo: https://github.com/benkev/inductor_test
+  oomp_bot: benkev_inductor_test
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/benkev_inductor_test
+  oomp_doc: projects/benkev_inductor_test/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/benkev_inductor_test
+  oomp_src_flat: projects_flat/benkev_inductor_test
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/benkev_inductor_test
+  oomp_src_folder: projects_folder\benkev\inductor_test\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\benkev\inductor_test\version_current\working
+oomp_key: oomp_benkev_inductor_test
+oomp_key_simple: benkev_inductor_test
 projects_flat: projects_flat/benkev_inductor_test/version_current/working
 projects_folder: projects_folder/benkev/inductor_test/version_current/working
-pulls_url: https://api.github.com/repos/benkev/inductor_test/pulls{/number}
-pushed_at: '2017-07-20T02:08:24Z'
-releases_url: https://api.github.com/repos/benkev/inductor_test/releases{/id}
-size: 38
-ssh_url: git@github.com:benkev/inductor_test.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/benkev/inductor_test/stargazers
-statuses_url: https://api.github.com/repos/benkev/inductor_test/statuses/{sha}
-subscribers_url: https://api.github.com/repos/benkev/inductor_test/subscribers
-subscription_url: https://api.github.com/repos/benkev/inductor_test/subscription
-svn_url: https://github.com/benkev/inductor_test
-tags_url: https://api.github.com/repos/benkev/inductor_test/tags
-teams_url: https://api.github.com/repos/benkev/inductor_test/teams
-topics: []
-trees_url: https://api.github.com/repos/benkev/inductor_test/git/trees{/sha}
-updated_at: '2017-07-10T16:01:23Z'
-url: https://api.github.com/repos/benkev/inductor_test
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/benkev/inductor_test/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/benkev/inductor_test/assignees{/user}
+  blobs_url: https://api.github.com/repos/benkev/inductor_test/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/benkev/inductor_test/branches{/branch}
+  clone_url: https://github.com/benkev/inductor_test.git
+  collaborators_url: https://api.github.com/repos/benkev/inductor_test/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/benkev/inductor_test/comments{/number}
+  commits_url: https://api.github.com/repos/benkev/inductor_test/commits{/sha}
+  compare_url: https://api.github.com/repos/benkev/inductor_test/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/benkev/inductor_test/contents/{+path}
+  contributors_url: https://api.github.com/repos/benkev/inductor_test/contributors
+  created_at: '2017-07-10T04:59:34Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/benkev/inductor_test/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/benkev/inductor_test/downloads
+  events_url: https://api.github.com/repos/benkev/inductor_test/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/benkev/inductor_test/forks
+  full_name: benkev/inductor_test
+  git_commits_url: https://api.github.com/repos/benkev/inductor_test/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/benkev/inductor_test/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/benkev/inductor_test/git/tags{/sha}
+  git_url: git://github.com/benkev/inductor_test.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/benkev/inductor_test/hooks
+  html_url: https://github.com/benkev/inductor_test
+  id: 96737418
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/benkev/inductor_test/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/benkev/inductor_test/issues/events{/number}
+  issues_url: https://api.github.com/repos/benkev/inductor_test/issues{/number}
+  keys_url: https://api.github.com/repos/benkev/inductor_test/keys{/key_id}
+  labels_url: https://api.github.com/repos/benkev/inductor_test/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/benkev/inductor_test/languages
+  license: null
+  merges_url: https://api.github.com/repos/benkev/inductor_test/merges
+  milestones_url: https://api.github.com/repos/benkev/inductor_test/milestones{/number}
+  mirror_url: null
+  name: inductor_test
+  node_id: MDEwOlJlcG9zaXRvcnk5NjczNzQxOA==
+  notifications_url: https://api.github.com/repos/benkev/inductor_test/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/28968390?v=4
+    events_url: https://api.github.com/users/benkev/events{/privacy}
+    followers_url: https://api.github.com/users/benkev/followers
+    following_url: https://api.github.com/users/benkev/following{/other_user}
+    gists_url: https://api.github.com/users/benkev/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/benkev
+    id: 28968390
+    login: benkev
+    node_id: MDQ6VXNlcjI4OTY4Mzkw
+    organizations_url: https://api.github.com/users/benkev/orgs
+    received_events_url: https://api.github.com/users/benkev/received_events
+    repos_url: https://api.github.com/users/benkev/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/benkev/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/benkev/subscriptions
+    type: User
+    url: https://api.github.com/users/benkev
+  private: false
+  pulls_url: https://api.github.com/repos/benkev/inductor_test/pulls{/number}
+  pushed_at: '2017-07-20T02:08:24Z'
+  releases_url: https://api.github.com/repos/benkev/inductor_test/releases{/id}
+  size: 38
+  ssh_url: git@github.com:benkev/inductor_test.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/benkev/inductor_test/stargazers
+  statuses_url: https://api.github.com/repos/benkev/inductor_test/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/benkev/inductor_test/subscribers
+  subscription_url: https://api.github.com/repos/benkev/inductor_test/subscription
+  svn_url: https://github.com/benkev/inductor_test
+  tags_url: https://api.github.com/repos/benkev/inductor_test/tags
+  teams_url: https://api.github.com/repos/benkev/inductor_test/teams
+  topics: []
+  trees_url: https://api.github.com/repos/benkev/inductor_test/git/trees{/sha}
+  updated_at: '2017-07-10T16:01:23Z'
+  url: https://api.github.com/repos/benkev/inductor_test
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

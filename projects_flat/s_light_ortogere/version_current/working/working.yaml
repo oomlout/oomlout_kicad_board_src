@@ -1,111 +1,127 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/s-light/ortogere/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/s-light/ortogere/assignees{/user}
-blobs_url: https://api.github.com/repos/s-light/ortogere/git/blobs{/sha}
-branches_url: https://api.github.com/repos/s-light/ortogere/branches{/branch}
-clone_url: https://github.com/s-light/ortogere.git
-collaborators_url: https://api.github.com/repos/s-light/ortogere/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/s-light/ortogere/comments{/number}
-commits_url: https://api.github.com/repos/s-light/ortogere/commits{/sha}
-compare_url: https://api.github.com/repos/s-light/ortogere/compare/{base}...{head}
-contents_url: https://api.github.com/repos/s-light/ortogere/contents/{+path}
-contributors_url: https://api.github.com/repos/s-light/ortogere/contributors
-created_at: '2018-03-07T10:03:37Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/s-light/ortogere/deployments
-description: ortogere - 'magical' device - similar to a compass
-disabled: false
-downloads_url: https://api.github.com/repos/s-light/ortogere/downloads
-events_url: https://api.github.com/repos/s-light/ortogere/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/s-light/ortogere/forks
-full_name: s-light/ortogere
-git_commits_url: https://api.github.com/repos/s-light/ortogere/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/s-light/ortogere/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/s-light/ortogere/git/tags{/sha}
-git_url: git://github.com/s-light/ortogere.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: https://s-light.github.io/ortogere
-hooks_url: https://api.github.com/repos/s-light/ortogere/hooks
-html_url: https://github.com/s-light/ortogere
-id: 124216374
-is_template: false
-issue_comment_url: https://api.github.com/repos/s-light/ortogere/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/s-light/ortogere/issues/events{/number}
-issues_url: https://api.github.com/repos/s-light/ortogere/issues{/number}
-keys_url: https://api.github.com/repos/s-light/ortogere/keys{/key_id}
-labels_url: https://api.github.com/repos/s-light/ortogere/labels{/name}
-language: JavaScript
-languages_url: https://api.github.com/repos/s-light/ortogere/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/s-light/ortogere/merges
-milestones_url: https://api.github.com/repos/s-light/ortogere/milestones{/number}
-mirror_url: null
-name: ortogere
-node_id: MDEwOlJlcG9zaXRvcnkxMjQyMTYzNzQ=
-notifications_url: https://api.github.com/repos/s-light/ortogere/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1340319?v=4
-  events_url: https://api.github.com/users/s-light/events{/privacy}
-  followers_url: https://api.github.com/users/s-light/followers
-  following_url: https://api.github.com/users/s-light/following{/other_user}
-  gists_url: https://api.github.com/users/s-light/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/s-light
-  id: 1340319
-  login: s-light
-  node_id: MDQ6VXNlcjEzNDAzMTk=
-  organizations_url: https://api.github.com/users/s-light/orgs
-  received_events_url: https://api.github.com/users/s-light/received_events
-  repos_url: https://api.github.com/users/s-light/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/s-light/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/s-light/subscriptions
-  type: User
-  url: https://api.github.com/users/s-light
-private: false
+links:
+  github_owner: s-light
+  github_repo_name: ortogere
+  github_src: https://github.com/s-light/ortogere
+  github_src_repo: https://github.com/s-light/ortogere
+  oomp_bot: projects_s_light_ortogere
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_s_light_ortogere
+  oomp_doc: projects/projects_flat_s_light_ortogere/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_s_light_ortogere
+  oomp_src_flat: projects_flat/projects_flat_s_light_ortogere
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_s_light_ortogere
+  oomp_src_folder: projects_flat\s_light_ortogere\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\s_light_ortogere\version_current\working
+oomp_key: oomp_projects_flat_s_light_ortogere
+oomp_key_simple: projects_flat_s_light_ortogere
 projects_flat: projects_flat/s_light_ortogere/version_current/working
 projects_folder: projects_folder/s-light/ortogere/version_current/working
-pulls_url: https://api.github.com/repos/s-light/ortogere/pulls{/number}
-pushed_at: '2020-07-21T02:21:55Z'
-releases_url: https://api.github.com/repos/s-light/ortogere/releases{/id}
-size: 29744
-ssh_url: git@github.com:s-light/ortogere.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/s-light/ortogere/stargazers
-statuses_url: https://api.github.com/repos/s-light/ortogere/statuses/{sha}
-subscribers_url: https://api.github.com/repos/s-light/ortogere/subscribers
-subscription_url: https://api.github.com/repos/s-light/ortogere/subscription
-svn_url: https://github.com/s-light/ortogere
-tags_url: https://api.github.com/repos/s-light/ortogere/tags
-teams_url: https://api.github.com/repos/s-light/ortogere/teams
-topics:
-- compass
-- design
-- electronics
-- open-hardware
-- pov
-- prop
-- theater
-trees_url: https://api.github.com/repos/s-light/ortogere/git/trees{/sha}
-updated_at: '2020-07-21T02:21:58Z'
-url: https://api.github.com/repos/s-light/ortogere
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/s-light/ortogere/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/s-light/ortogere/assignees{/user}
+  blobs_url: https://api.github.com/repos/s-light/ortogere/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/s-light/ortogere/branches{/branch}
+  clone_url: https://github.com/s-light/ortogere.git
+  collaborators_url: https://api.github.com/repos/s-light/ortogere/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/s-light/ortogere/comments{/number}
+  commits_url: https://api.github.com/repos/s-light/ortogere/commits{/sha}
+  compare_url: https://api.github.com/repos/s-light/ortogere/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/s-light/ortogere/contents/{+path}
+  contributors_url: https://api.github.com/repos/s-light/ortogere/contributors
+  created_at: '2018-03-07T10:03:37Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/s-light/ortogere/deployments
+  description: ortogere - 'magical' device - similar to a compass
+  disabled: false
+  downloads_url: https://api.github.com/repos/s-light/ortogere/downloads
+  events_url: https://api.github.com/repos/s-light/ortogere/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/s-light/ortogere/forks
+  full_name: s-light/ortogere
+  git_commits_url: https://api.github.com/repos/s-light/ortogere/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/s-light/ortogere/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/s-light/ortogere/git/tags{/sha}
+  git_url: git://github.com/s-light/ortogere.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: https://s-light.github.io/ortogere
+  hooks_url: https://api.github.com/repos/s-light/ortogere/hooks
+  html_url: https://github.com/s-light/ortogere
+  id: 124216374
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/s-light/ortogere/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/s-light/ortogere/issues/events{/number}
+  issues_url: https://api.github.com/repos/s-light/ortogere/issues{/number}
+  keys_url: https://api.github.com/repos/s-light/ortogere/keys{/key_id}
+  labels_url: https://api.github.com/repos/s-light/ortogere/labels{/name}
+  language: JavaScript
+  languages_url: https://api.github.com/repos/s-light/ortogere/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/s-light/ortogere/merges
+  milestones_url: https://api.github.com/repos/s-light/ortogere/milestones{/number}
+  mirror_url: null
+  name: ortogere
+  node_id: MDEwOlJlcG9zaXRvcnkxMjQyMTYzNzQ=
+  notifications_url: https://api.github.com/repos/s-light/ortogere/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1340319?v=4
+    events_url: https://api.github.com/users/s-light/events{/privacy}
+    followers_url: https://api.github.com/users/s-light/followers
+    following_url: https://api.github.com/users/s-light/following{/other_user}
+    gists_url: https://api.github.com/users/s-light/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/s-light
+    id: 1340319
+    login: s-light
+    node_id: MDQ6VXNlcjEzNDAzMTk=
+    organizations_url: https://api.github.com/users/s-light/orgs
+    received_events_url: https://api.github.com/users/s-light/received_events
+    repos_url: https://api.github.com/users/s-light/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/s-light/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/s-light/subscriptions
+    type: User
+    url: https://api.github.com/users/s-light
+  private: false
+  pulls_url: https://api.github.com/repos/s-light/ortogere/pulls{/number}
+  pushed_at: '2020-07-21T02:21:55Z'
+  releases_url: https://api.github.com/repos/s-light/ortogere/releases{/id}
+  size: 29744
+  ssh_url: git@github.com:s-light/ortogere.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/s-light/ortogere/stargazers
+  statuses_url: https://api.github.com/repos/s-light/ortogere/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/s-light/ortogere/subscribers
+  subscription_url: https://api.github.com/repos/s-light/ortogere/subscription
+  svn_url: https://github.com/s-light/ortogere
+  tags_url: https://api.github.com/repos/s-light/ortogere/tags
+  teams_url: https://api.github.com/repos/s-light/ortogere/teams
+  topics:
+  - compass
+  - design
+  - electronics
+  - open-hardware
+  - pov
+  - prop
+  - theater
+  trees_url: https://api.github.com/repos/s-light/ortogere/git/trees{/sha}
+  updated_at: '2020-07-21T02:21:58Z'
+  url: https://api.github.com/repos/s-light/ortogere
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

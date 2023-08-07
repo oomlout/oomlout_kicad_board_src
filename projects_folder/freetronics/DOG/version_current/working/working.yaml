@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/DOG/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/DOG/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/DOG/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/DOG/branches{/branch}
-clone_url: https://github.com/freetronics/DOG.git
-collaborators_url: https://api.github.com/repos/freetronics/DOG/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/DOG/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/DOG/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/DOG/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/DOG/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/DOG/contributors
-created_at: '2013-12-15T22:41:37Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/DOG/deployments
-description: Watchdog timer module
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/DOG/downloads
-events_url: https://api.github.com/repos/freetronics/DOG/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/freetronics/DOG/forks
-full_name: freetronics/DOG
-git_commits_url: https://api.github.com/repos/freetronics/DOG/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/DOG/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/DOG/git/tags{/sha}
-git_url: git://github.com/freetronics/DOG.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: http://www.freetronics.com/products/watchdog-timer-module
-hooks_url: https://api.github.com/repos/freetronics/DOG/hooks
-html_url: https://github.com/freetronics/DOG
-id: 15212193
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/DOG/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/DOG/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/DOG/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/DOG/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/DOG/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/freetronics/DOG/languages
-license: null
-merges_url: https://api.github.com/repos/freetronics/DOG/merges
-milestones_url: https://api.github.com/repos/freetronics/DOG/milestones{/number}
-mirror_url: null
-name: DOG
-node_id: MDEwOlJlcG9zaXRvcnkxNTIxMjE5Mw==
-notifications_url: https://api.github.com/repos/freetronics/DOG/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: DOG
+  github_src: https://github.com/freetronics/DOG
+  github_src_repo: https://github.com/freetronics/DOG
+  oomp_bot: freetronics_dog
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/freetronics_dog
+  oomp_doc: projects/freetronics_dog/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/freetronics_dog
+  oomp_src_flat: projects_flat/freetronics_dog
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/freetronics_dog
+  oomp_src_folder: projects_folder\freetronics\DOG\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\freetronics\DOG\version_current\working
+oomp_key: oomp_freetronics_dog
+oomp_key_simple: freetronics_dog
 projects_flat: projects_flat/freetronics_dog/version_current/working
 projects_folder: projects_folder/freetronics/DOG/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/DOG/pulls{/number}
-pushed_at: '2018-03-28T00:47:15Z'
-releases_url: https://api.github.com/repos/freetronics/DOG/releases{/id}
-size: 50
-ssh_url: git@github.com:freetronics/DOG.git
-stargazers_count: 8
-stargazers_url: https://api.github.com/repos/freetronics/DOG/stargazers
-statuses_url: https://api.github.com/repos/freetronics/DOG/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/DOG/subscribers
-subscription_url: https://api.github.com/repos/freetronics/DOG/subscription
-svn_url: https://github.com/freetronics/DOG
-tags_url: https://api.github.com/repos/freetronics/DOG/tags
-teams_url: https://api.github.com/repos/freetronics/DOG/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/DOG/git/trees{/sha}
-updated_at: '2020-06-06T11:47:55Z'
-url: https://api.github.com/repos/freetronics/DOG
-visibility: public
-watchers: 8
-watchers_count: 8
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/DOG/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/DOG/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/DOG/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/DOG/branches{/branch}
+  clone_url: https://github.com/freetronics/DOG.git
+  collaborators_url: https://api.github.com/repos/freetronics/DOG/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/DOG/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/DOG/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/DOG/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/DOG/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/DOG/contributors
+  created_at: '2013-12-15T22:41:37Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/DOG/deployments
+  description: Watchdog timer module
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/DOG/downloads
+  events_url: https://api.github.com/repos/freetronics/DOG/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/freetronics/DOG/forks
+  full_name: freetronics/DOG
+  git_commits_url: https://api.github.com/repos/freetronics/DOG/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/DOG/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/DOG/git/tags{/sha}
+  git_url: git://github.com/freetronics/DOG.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: http://www.freetronics.com/products/watchdog-timer-module
+  hooks_url: https://api.github.com/repos/freetronics/DOG/hooks
+  html_url: https://github.com/freetronics/DOG
+  id: 15212193
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/DOG/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/DOG/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/DOG/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/DOG/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/DOG/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/freetronics/DOG/languages
+  license: null
+  merges_url: https://api.github.com/repos/freetronics/DOG/merges
+  milestones_url: https://api.github.com/repos/freetronics/DOG/milestones{/number}
+  mirror_url: null
+  name: DOG
+  node_id: MDEwOlJlcG9zaXRvcnkxNTIxMjE5Mw==
+  notifications_url: https://api.github.com/repos/freetronics/DOG/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/DOG/pulls{/number}
+  pushed_at: '2018-03-28T00:47:15Z'
+  releases_url: https://api.github.com/repos/freetronics/DOG/releases{/id}
+  size: 50
+  ssh_url: git@github.com:freetronics/DOG.git
+  stargazers_count: 8
+  stargazers_url: https://api.github.com/repos/freetronics/DOG/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/DOG/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/DOG/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/DOG/subscription
+  svn_url: https://github.com/freetronics/DOG
+  tags_url: https://api.github.com/repos/freetronics/DOG/tags
+  teams_url: https://api.github.com/repos/freetronics/DOG/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/DOG/git/trees{/sha}
+  updated_at: '2020-06-06T11:47:55Z'
+  url: https://api.github.com/repos/freetronics/DOG
+  visibility: public
+  watchers: 8
+  watchers_count: 8
+  web_commit_signoff_required: false

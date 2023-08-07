@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/branches{/branch}
-clone_url: https://github.com/OLIMEX/LIME2-SHIELD.git
-collaborators_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/contributors
-created_at: '2020-06-04T06:38:40Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/deployments
-description: Shield for A20-OLinuXino-LIME2 which adds Audio, CAN, microSD-card, 2x
-  UEXT, CAN
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/downloads
-events_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/forks
-full_name: OLIMEX/LIME2-SHIELD
-git_commits_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/git/tags{/sha}
-git_url: git://github.com/OLIMEX/LIME2-SHIELD.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/hooks
-html_url: https://github.com/OLIMEX/LIME2-SHIELD
-id: 269280294
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/merges
-milestones_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/milestones{/number}
-mirror_url: null
-name: LIME2-SHIELD
-node_id: MDEwOlJlcG9zaXRvcnkyNjkyODAyOTQ=
-notifications_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: LIME2-SHIELD
+  github_src: https://github.com/OLIMEX/LIME2-SHIELD
+  github_src_repo: https://github.com/OLIMEX/LIME2-SHIELD
+  oomp_bot: projects_olimex_lime2_shield
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_olimex_lime2_shield
+  oomp_doc: projects/projects_flat_olimex_lime2_shield/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_olimex_lime2_shield
+  oomp_src_flat: projects_flat/projects_flat_olimex_lime2_shield
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_olimex_lime2_shield
+  oomp_src_folder: projects_flat\olimex_lime2_shield\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\olimex_lime2_shield\version_current\working
+oomp_key: oomp_projects_flat_olimex_lime2_shield
+oomp_key_simple: projects_flat_olimex_lime2_shield
 projects_flat: projects_flat/olimex_lime2_shield/version_current/working
 projects_folder: projects_folder/OLIMEX/LIME2-SHIELD/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/pulls{/number}
-pushed_at: '2020-07-09T12:17:20Z'
-releases_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/releases{/id}
-size: 3184
-ssh_url: git@github.com:OLIMEX/LIME2-SHIELD.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/subscription
-svn_url: https://github.com/OLIMEX/LIME2-SHIELD
-tags_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/tags
-teams_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/git/trees{/sha}
-updated_at: '2020-12-24T22:57:49Z'
-url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/branches{/branch}
+  clone_url: https://github.com/OLIMEX/LIME2-SHIELD.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/contributors
+  created_at: '2020-06-04T06:38:40Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/deployments
+  description: Shield for A20-OLinuXino-LIME2 which adds Audio, CAN, microSD-card,
+    2x UEXT, CAN
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/downloads
+  events_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/forks
+  full_name: OLIMEX/LIME2-SHIELD
+  git_commits_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/LIME2-SHIELD.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/hooks
+  html_url: https://github.com/OLIMEX/LIME2-SHIELD
+  id: 269280294
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/milestones{/number}
+  mirror_url: null
+  name: LIME2-SHIELD
+  node_id: MDEwOlJlcG9zaXRvcnkyNjkyODAyOTQ=
+  notifications_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/pulls{/number}
+  pushed_at: '2020-07-09T12:17:20Z'
+  releases_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/releases{/id}
+  size: 3184
+  ssh_url: git@github.com:OLIMEX/LIME2-SHIELD.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/subscription
+  svn_url: https://github.com/OLIMEX/LIME2-SHIELD
+  tags_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/tags
+  teams_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD/git/trees{/sha}
+  updated_at: '2020-12-24T22:57:49Z'
+  url: https://api.github.com/repos/OLIMEX/LIME2-SHIELD
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

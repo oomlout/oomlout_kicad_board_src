@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/coddingtonbear/dolly/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/coddingtonbear/dolly/assignees{/user}
-blobs_url: https://api.github.com/repos/coddingtonbear/dolly/git/blobs{/sha}
-branches_url: https://api.github.com/repos/coddingtonbear/dolly/branches{/branch}
-clone_url: https://github.com/coddingtonbear/dolly.git
-collaborators_url: https://api.github.com/repos/coddingtonbear/dolly/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/coddingtonbear/dolly/comments{/number}
-commits_url: https://api.github.com/repos/coddingtonbear/dolly/commits{/sha}
-compare_url: https://api.github.com/repos/coddingtonbear/dolly/compare/{base}...{head}
-contents_url: https://api.github.com/repos/coddingtonbear/dolly/contents/{+path}
-contributors_url: https://api.github.com/repos/coddingtonbear/dolly/contributors
-created_at: '2018-03-18T21:51:47Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/coddingtonbear/dolly/deployments
-description: GRBL CNC Controller Board with Bluetooth UART
-disabled: false
-downloads_url: https://api.github.com/repos/coddingtonbear/dolly/downloads
-events_url: https://api.github.com/repos/coddingtonbear/dolly/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/coddingtonbear/dolly/forks
-full_name: coddingtonbear/dolly
-git_commits_url: https://api.github.com/repos/coddingtonbear/dolly/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/coddingtonbear/dolly/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/coddingtonbear/dolly/git/tags{/sha}
-git_url: git://github.com/coddingtonbear/dolly.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/coddingtonbear/dolly/hooks
-html_url: https://github.com/coddingtonbear/dolly
-id: 125770961
-is_template: false
-issue_comment_url: https://api.github.com/repos/coddingtonbear/dolly/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/coddingtonbear/dolly/issues/events{/number}
-issues_url: https://api.github.com/repos/coddingtonbear/dolly/issues{/number}
-keys_url: https://api.github.com/repos/coddingtonbear/dolly/keys{/key_id}
-labels_url: https://api.github.com/repos/coddingtonbear/dolly/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/coddingtonbear/dolly/languages
-license: null
-merges_url: https://api.github.com/repos/coddingtonbear/dolly/merges
-milestones_url: https://api.github.com/repos/coddingtonbear/dolly/milestones{/number}
-mirror_url: null
-name: dolly
-node_id: MDEwOlJlcG9zaXRvcnkxMjU3NzA5NjE=
-notifications_url: https://api.github.com/repos/coddingtonbear/dolly/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/527661?v=4
-  events_url: https://api.github.com/users/coddingtonbear/events{/privacy}
-  followers_url: https://api.github.com/users/coddingtonbear/followers
-  following_url: https://api.github.com/users/coddingtonbear/following{/other_user}
-  gists_url: https://api.github.com/users/coddingtonbear/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/coddingtonbear
-  id: 527661
-  login: coddingtonbear
-  node_id: MDQ6VXNlcjUyNzY2MQ==
-  organizations_url: https://api.github.com/users/coddingtonbear/orgs
-  received_events_url: https://api.github.com/users/coddingtonbear/received_events
-  repos_url: https://api.github.com/users/coddingtonbear/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/coddingtonbear/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/coddingtonbear/subscriptions
-  type: User
-  url: https://api.github.com/users/coddingtonbear
-private: false
+links:
+  github_owner: coddingtonbear
+  github_repo_name: dolly
+  github_src: https://github.com/coddingtonbear/dolly
+  github_src_repo: https://github.com/coddingtonbear/dolly
+  oomp_bot: projects_coddingtonbear_dolly
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_coddingtonbear_dolly
+  oomp_doc: projects/projects_flat_coddingtonbear_dolly/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_coddingtonbear_dolly
+  oomp_src_flat: projects_flat/projects_flat_coddingtonbear_dolly
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_coddingtonbear_dolly
+  oomp_src_folder: projects_flat\coddingtonbear_dolly\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\coddingtonbear_dolly\version_current\working
+oomp_key: oomp_projects_flat_coddingtonbear_dolly
+oomp_key_simple: projects_flat_coddingtonbear_dolly
 projects_flat: projects_flat/coddingtonbear_dolly/version_current/working
 projects_folder: projects_folder/coddingtonbear/dolly/version_current/working
-pulls_url: https://api.github.com/repos/coddingtonbear/dolly/pulls{/number}
-pushed_at: '2018-03-25T23:48:18Z'
-releases_url: https://api.github.com/repos/coddingtonbear/dolly/releases{/id}
-size: 42
-ssh_url: git@github.com:coddingtonbear/dolly.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/coddingtonbear/dolly/stargazers
-statuses_url: https://api.github.com/repos/coddingtonbear/dolly/statuses/{sha}
-subscribers_url: https://api.github.com/repos/coddingtonbear/dolly/subscribers
-subscription_url: https://api.github.com/repos/coddingtonbear/dolly/subscription
-svn_url: https://github.com/coddingtonbear/dolly
-tags_url: https://api.github.com/repos/coddingtonbear/dolly/tags
-teams_url: https://api.github.com/repos/coddingtonbear/dolly/teams
-topics: []
-trees_url: https://api.github.com/repos/coddingtonbear/dolly/git/trees{/sha}
-updated_at: '2018-03-25T23:48:19Z'
-url: https://api.github.com/repos/coddingtonbear/dolly
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/coddingtonbear/dolly/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/coddingtonbear/dolly/assignees{/user}
+  blobs_url: https://api.github.com/repos/coddingtonbear/dolly/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/coddingtonbear/dolly/branches{/branch}
+  clone_url: https://github.com/coddingtonbear/dolly.git
+  collaborators_url: https://api.github.com/repos/coddingtonbear/dolly/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/coddingtonbear/dolly/comments{/number}
+  commits_url: https://api.github.com/repos/coddingtonbear/dolly/commits{/sha}
+  compare_url: https://api.github.com/repos/coddingtonbear/dolly/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/coddingtonbear/dolly/contents/{+path}
+  contributors_url: https://api.github.com/repos/coddingtonbear/dolly/contributors
+  created_at: '2018-03-18T21:51:47Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/coddingtonbear/dolly/deployments
+  description: GRBL CNC Controller Board with Bluetooth UART
+  disabled: false
+  downloads_url: https://api.github.com/repos/coddingtonbear/dolly/downloads
+  events_url: https://api.github.com/repos/coddingtonbear/dolly/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/coddingtonbear/dolly/forks
+  full_name: coddingtonbear/dolly
+  git_commits_url: https://api.github.com/repos/coddingtonbear/dolly/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/coddingtonbear/dolly/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/coddingtonbear/dolly/git/tags{/sha}
+  git_url: git://github.com/coddingtonbear/dolly.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/coddingtonbear/dolly/hooks
+  html_url: https://github.com/coddingtonbear/dolly
+  id: 125770961
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/coddingtonbear/dolly/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/coddingtonbear/dolly/issues/events{/number}
+  issues_url: https://api.github.com/repos/coddingtonbear/dolly/issues{/number}
+  keys_url: https://api.github.com/repos/coddingtonbear/dolly/keys{/key_id}
+  labels_url: https://api.github.com/repos/coddingtonbear/dolly/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/coddingtonbear/dolly/languages
+  license: null
+  merges_url: https://api.github.com/repos/coddingtonbear/dolly/merges
+  milestones_url: https://api.github.com/repos/coddingtonbear/dolly/milestones{/number}
+  mirror_url: null
+  name: dolly
+  node_id: MDEwOlJlcG9zaXRvcnkxMjU3NzA5NjE=
+  notifications_url: https://api.github.com/repos/coddingtonbear/dolly/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/527661?v=4
+    events_url: https://api.github.com/users/coddingtonbear/events{/privacy}
+    followers_url: https://api.github.com/users/coddingtonbear/followers
+    following_url: https://api.github.com/users/coddingtonbear/following{/other_user}
+    gists_url: https://api.github.com/users/coddingtonbear/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/coddingtonbear
+    id: 527661
+    login: coddingtonbear
+    node_id: MDQ6VXNlcjUyNzY2MQ==
+    organizations_url: https://api.github.com/users/coddingtonbear/orgs
+    received_events_url: https://api.github.com/users/coddingtonbear/received_events
+    repos_url: https://api.github.com/users/coddingtonbear/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/coddingtonbear/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/coddingtonbear/subscriptions
+    type: User
+    url: https://api.github.com/users/coddingtonbear
+  private: false
+  pulls_url: https://api.github.com/repos/coddingtonbear/dolly/pulls{/number}
+  pushed_at: '2018-03-25T23:48:18Z'
+  releases_url: https://api.github.com/repos/coddingtonbear/dolly/releases{/id}
+  size: 42
+  ssh_url: git@github.com:coddingtonbear/dolly.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/coddingtonbear/dolly/stargazers
+  statuses_url: https://api.github.com/repos/coddingtonbear/dolly/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/coddingtonbear/dolly/subscribers
+  subscription_url: https://api.github.com/repos/coddingtonbear/dolly/subscription
+  svn_url: https://github.com/coddingtonbear/dolly
+  tags_url: https://api.github.com/repos/coddingtonbear/dolly/tags
+  teams_url: https://api.github.com/repos/coddingtonbear/dolly/teams
+  topics: []
+  trees_url: https://api.github.com/repos/coddingtonbear/dolly/git/trees{/sha}
+  updated_at: '2018-03-25T23:48:19Z'
+  url: https://api.github.com/repos/coddingtonbear/dolly
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/rocketscream/RedCometESP32/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/rocketscream/RedCometESP32/assignees{/user}
-blobs_url: https://api.github.com/repos/rocketscream/RedCometESP32/git/blobs{/sha}
-branches_url: https://api.github.com/repos/rocketscream/RedCometESP32/branches{/branch}
-clone_url: https://github.com/rocketscream/RedCometESP32.git
-collaborators_url: https://api.github.com/repos/rocketscream/RedCometESP32/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/rocketscream/RedCometESP32/comments{/number}
-commits_url: https://api.github.com/repos/rocketscream/RedCometESP32/commits{/sha}
-compare_url: https://api.github.com/repos/rocketscream/RedCometESP32/compare/{base}...{head}
-contents_url: https://api.github.com/repos/rocketscream/RedCometESP32/contents/{+path}
-contributors_url: https://api.github.com/repos/rocketscream/RedCometESP32/contributors
-created_at: '2021-05-12T07:19:42Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/rocketscream/RedCometESP32/deployments
-description: Ultra low power ESP32 board
-disabled: false
-downloads_url: https://api.github.com/repos/rocketscream/RedCometESP32/downloads
-events_url: https://api.github.com/repos/rocketscream/RedCometESP32/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/rocketscream/RedCometESP32/forks
-full_name: rocketscream/RedCometESP32
-git_commits_url: https://api.github.com/repos/rocketscream/RedCometESP32/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/rocketscream/RedCometESP32/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/rocketscream/RedCometESP32/git/tags{/sha}
-git_url: git://github.com/rocketscream/RedCometESP32.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/rocketscream/RedCometESP32/hooks
-html_url: https://github.com/rocketscream/RedCometESP32
-id: 366627528
-is_template: false
-issue_comment_url: https://api.github.com/repos/rocketscream/RedCometESP32/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/rocketscream/RedCometESP32/issues/events{/number}
-issues_url: https://api.github.com/repos/rocketscream/RedCometESP32/issues{/number}
-keys_url: https://api.github.com/repos/rocketscream/RedCometESP32/keys{/key_id}
-labels_url: https://api.github.com/repos/rocketscream/RedCometESP32/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/rocketscream/RedCometESP32/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/rocketscream/RedCometESP32/merges
-milestones_url: https://api.github.com/repos/rocketscream/RedCometESP32/milestones{/number}
-mirror_url: null
-name: RedCometESP32
-node_id: MDEwOlJlcG9zaXRvcnkzNjY2Mjc1Mjg=
-notifications_url: https://api.github.com/repos/rocketscream/RedCometESP32/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/822826?v=4
-  events_url: https://api.github.com/users/rocketscream/events{/privacy}
-  followers_url: https://api.github.com/users/rocketscream/followers
-  following_url: https://api.github.com/users/rocketscream/following{/other_user}
-  gists_url: https://api.github.com/users/rocketscream/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/rocketscream
-  id: 822826
-  login: rocketscream
-  node_id: MDQ6VXNlcjgyMjgyNg==
-  organizations_url: https://api.github.com/users/rocketscream/orgs
-  received_events_url: https://api.github.com/users/rocketscream/received_events
-  repos_url: https://api.github.com/users/rocketscream/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/rocketscream/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/rocketscream/subscriptions
-  type: User
-  url: https://api.github.com/users/rocketscream
-private: false
+links:
+  github_owner: rocketscream
+  github_repo_name: RedCometESP32
+  github_src: https://github.com/rocketscream/RedCometESP32
+  github_src_repo: https://github.com/rocketscream/RedCometESP32
+  oomp_bot: projects_rocketscream_redcometesp32
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_rocketscream_redcometesp32
+  oomp_doc: projects/projects_flat_rocketscream_redcometesp32/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_rocketscream_redcometesp32
+  oomp_src_flat: projects_flat/projects_flat_rocketscream_redcometesp32
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_rocketscream_redcometesp32
+  oomp_src_folder: projects_flat\rocketscream_redcometesp32\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\rocketscream_redcometesp32\version_current\working
+oomp_key: oomp_projects_flat_rocketscream_redcometesp32
+oomp_key_simple: projects_flat_rocketscream_redcometesp32
 projects_flat: projects_flat/rocketscream_redcometesp32/version_current/working
 projects_folder: projects_folder/rocketscream/RedCometESP32/version_current/working
-pulls_url: https://api.github.com/repos/rocketscream/RedCometESP32/pulls{/number}
-pushed_at: '2021-05-12T07:20:46Z'
-releases_url: https://api.github.com/repos/rocketscream/RedCometESP32/releases{/id}
-size: 638
-ssh_url: git@github.com:rocketscream/RedCometESP32.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/rocketscream/RedCometESP32/stargazers
-statuses_url: https://api.github.com/repos/rocketscream/RedCometESP32/statuses/{sha}
-subscribers_url: https://api.github.com/repos/rocketscream/RedCometESP32/subscribers
-subscription_url: https://api.github.com/repos/rocketscream/RedCometESP32/subscription
-svn_url: https://github.com/rocketscream/RedCometESP32
-tags_url: https://api.github.com/repos/rocketscream/RedCometESP32/tags
-teams_url: https://api.github.com/repos/rocketscream/RedCometESP32/teams
-topics: []
-trees_url: https://api.github.com/repos/rocketscream/RedCometESP32/git/trees{/sha}
-updated_at: '2023-03-18T07:30:53Z'
-url: https://api.github.com/repos/rocketscream/RedCometESP32
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/rocketscream/RedCometESP32/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/rocketscream/RedCometESP32/assignees{/user}
+  blobs_url: https://api.github.com/repos/rocketscream/RedCometESP32/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/rocketscream/RedCometESP32/branches{/branch}
+  clone_url: https://github.com/rocketscream/RedCometESP32.git
+  collaborators_url: https://api.github.com/repos/rocketscream/RedCometESP32/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/rocketscream/RedCometESP32/comments{/number}
+  commits_url: https://api.github.com/repos/rocketscream/RedCometESP32/commits{/sha}
+  compare_url: https://api.github.com/repos/rocketscream/RedCometESP32/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/rocketscream/RedCometESP32/contents/{+path}
+  contributors_url: https://api.github.com/repos/rocketscream/RedCometESP32/contributors
+  created_at: '2021-05-12T07:19:42Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/rocketscream/RedCometESP32/deployments
+  description: Ultra low power ESP32 board
+  disabled: false
+  downloads_url: https://api.github.com/repos/rocketscream/RedCometESP32/downloads
+  events_url: https://api.github.com/repos/rocketscream/RedCometESP32/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/rocketscream/RedCometESP32/forks
+  full_name: rocketscream/RedCometESP32
+  git_commits_url: https://api.github.com/repos/rocketscream/RedCometESP32/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/rocketscream/RedCometESP32/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/rocketscream/RedCometESP32/git/tags{/sha}
+  git_url: git://github.com/rocketscream/RedCometESP32.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/rocketscream/RedCometESP32/hooks
+  html_url: https://github.com/rocketscream/RedCometESP32
+  id: 366627528
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/rocketscream/RedCometESP32/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/rocketscream/RedCometESP32/issues/events{/number}
+  issues_url: https://api.github.com/repos/rocketscream/RedCometESP32/issues{/number}
+  keys_url: https://api.github.com/repos/rocketscream/RedCometESP32/keys{/key_id}
+  labels_url: https://api.github.com/repos/rocketscream/RedCometESP32/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/rocketscream/RedCometESP32/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/rocketscream/RedCometESP32/merges
+  milestones_url: https://api.github.com/repos/rocketscream/RedCometESP32/milestones{/number}
+  mirror_url: null
+  name: RedCometESP32
+  node_id: MDEwOlJlcG9zaXRvcnkzNjY2Mjc1Mjg=
+  notifications_url: https://api.github.com/repos/rocketscream/RedCometESP32/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/822826?v=4
+    events_url: https://api.github.com/users/rocketscream/events{/privacy}
+    followers_url: https://api.github.com/users/rocketscream/followers
+    following_url: https://api.github.com/users/rocketscream/following{/other_user}
+    gists_url: https://api.github.com/users/rocketscream/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/rocketscream
+    id: 822826
+    login: rocketscream
+    node_id: MDQ6VXNlcjgyMjgyNg==
+    organizations_url: https://api.github.com/users/rocketscream/orgs
+    received_events_url: https://api.github.com/users/rocketscream/received_events
+    repos_url: https://api.github.com/users/rocketscream/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/rocketscream/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/rocketscream/subscriptions
+    type: User
+    url: https://api.github.com/users/rocketscream
+  private: false
+  pulls_url: https://api.github.com/repos/rocketscream/RedCometESP32/pulls{/number}
+  pushed_at: '2021-05-12T07:20:46Z'
+  releases_url: https://api.github.com/repos/rocketscream/RedCometESP32/releases{/id}
+  size: 638
+  ssh_url: git@github.com:rocketscream/RedCometESP32.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/rocketscream/RedCometESP32/stargazers
+  statuses_url: https://api.github.com/repos/rocketscream/RedCometESP32/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/rocketscream/RedCometESP32/subscribers
+  subscription_url: https://api.github.com/repos/rocketscream/RedCometESP32/subscription
+  svn_url: https://github.com/rocketscream/RedCometESP32
+  tags_url: https://api.github.com/repos/rocketscream/RedCometESP32/tags
+  teams_url: https://api.github.com/repos/rocketscream/RedCometESP32/teams
+  topics: []
+  trees_url: https://api.github.com/repos/rocketscream/RedCometESP32/git/trees{/sha}
+  updated_at: '2023-03-18T07:30:53Z'
+  url: https://api.github.com/repos/rocketscream/RedCometESP32
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

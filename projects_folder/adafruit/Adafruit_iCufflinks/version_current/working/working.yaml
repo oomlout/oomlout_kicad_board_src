@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/branches{/branch}
-clone_url: https://github.com/adafruit/Adafruit_iCufflinks.git
-collaborators_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/contributors
-created_at: '2011-06-15T21:52:49Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/deployments
-description: Adafruit iCufflinks
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/downloads
-events_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/events
 file_sch_flat: projects_flat/adafruit_adafruit_icufflinks/version_current/working/working.sch
 file_sch_folder: projects_folder/adafruit/Adafruit_iCufflinks/version_current/working/working.sch
-fork: false
-forks: 18
-forks_count: 18
-forks_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/forks
-full_name: adafruit/Adafruit_iCufflinks
-git_commits_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/git/tags{/sha}
-git_url: git://github.com/adafruit/Adafruit_iCufflinks.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: https://www.adafruit.com/icufflinks
-hooks_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/hooks
-html_url: https://github.com/adafruit/Adafruit_iCufflinks
-id: 1902788
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/labels{/name}
-language: Makefile
-languages_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/languages
-license: null
-merges_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/merges
-milestones_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/milestones{/number}
-mirror_url: null
-name: Adafruit_iCufflinks
-node_id: MDEwOlJlcG9zaXRvcnkxOTAyNzg4
-notifications_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: Adafruit_iCufflinks
+  github_src: https://github.com/adafruit/Adafruit_iCufflinks
+  github_src_repo: https://github.com/adafruit/Adafruit_iCufflinks
+  oomp_bot: adafruit_adafruit_icufflinks
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adafruit_adafruit_icufflinks
+  oomp_doc: projects/adafruit_adafruit_icufflinks/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adafruit_adafruit_icufflinks
+  oomp_src_flat: projects_flat/adafruit_adafruit_icufflinks
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adafruit_adafruit_icufflinks
+  oomp_src_folder: projects_folder\adafruit\Adafruit_iCufflinks\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adafruit\Adafruit_iCufflinks\version_current\working
+oomp_key: oomp_adafruit_adafruit_icufflinks
+oomp_key_simple: adafruit_adafruit_icufflinks
 projects_flat: projects_flat/adafruit_adafruit_icufflinks/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit_iCufflinks/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/pulls{/number}
-pushed_at: '2019-03-22T15:59:31Z'
-releases_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/releases{/id}
-size: 327
-ssh_url: git@github.com:adafruit/Adafruit_iCufflinks.git
-stargazers_count: 76
-stargazers_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/stargazers
-statuses_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/subscribers
-subscription_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/subscription
-svn_url: https://github.com/adafruit/Adafruit_iCufflinks
-tags_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/tags
-teams_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/git/trees{/sha}
-updated_at: '2023-04-02T00:41:43Z'
-url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks
-visibility: public
-watchers: 76
-watchers_count: 76
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/branches{/branch}
+  clone_url: https://github.com/adafruit/Adafruit_iCufflinks.git
+  collaborators_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/contributors
+  created_at: '2011-06-15T21:52:49Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/deployments
+  description: Adafruit iCufflinks
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/downloads
+  events_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/events
+  fork: false
+  forks: 18
+  forks_count: 18
+  forks_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/forks
+  full_name: adafruit/Adafruit_iCufflinks
+  git_commits_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/git/tags{/sha}
+  git_url: git://github.com/adafruit/Adafruit_iCufflinks.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: https://www.adafruit.com/icufflinks
+  hooks_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/hooks
+  html_url: https://github.com/adafruit/Adafruit_iCufflinks
+  id: 1902788
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/labels{/name}
+  language: Makefile
+  languages_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/languages
+  license: null
+  merges_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/merges
+  milestones_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/milestones{/number}
+  mirror_url: null
+  name: Adafruit_iCufflinks
+  node_id: MDEwOlJlcG9zaXRvcnkxOTAyNzg4
+  notifications_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/pulls{/number}
+  pushed_at: '2019-03-22T15:59:31Z'
+  releases_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/releases{/id}
+  size: 327
+  ssh_url: git@github.com:adafruit/Adafruit_iCufflinks.git
+  stargazers_count: 76
+  stargazers_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/subscription
+  svn_url: https://github.com/adafruit/Adafruit_iCufflinks
+  tags_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/tags
+  teams_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks/git/trees{/sha}
+  updated_at: '2023-04-02T00:41:43Z'
+  url: https://api.github.com/repos/adafruit/Adafruit_iCufflinks
+  visibility: public
+  watchers: 76
+  watchers_count: 76
+  web_commit_signoff_required: false

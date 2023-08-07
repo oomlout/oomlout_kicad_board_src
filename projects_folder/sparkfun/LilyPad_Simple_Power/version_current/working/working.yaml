@@ -1,110 +1,127 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/branches{/branch}
-clone_url: https://github.com/sparkfun/LilyPad_Simple_Power.git
-collaborators_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/contributors
-created_at: '2013-05-10T15:36:15Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/deployments
-description: Small board for adding lipo battery capabilities to extextile projects.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/downloads
-events_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_lilypad_simple_power/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/LilyPad_Simple_Power/version_current/working/working.brd
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/forks
-full_name: sparkfun/LilyPad_Simple_Power
-git_commits_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/git/tags{/sha}
-git_url: git://github.com/sparkfun/LilyPad_Simple_Power.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/
-hooks_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/hooks
-html_url: https://github.com/sparkfun/LilyPad_Simple_Power
-id: 9984435
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/merges
-milestones_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/milestones{/number}
-mirror_url: null
-name: LilyPad_Simple_Power
-node_id: MDEwOlJlcG9zaXRvcnk5OTg0NDM1
-notifications_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: LilyPad_Simple_Power
+  github_src: https://github.com/sparkfun/LilyPad_Simple_Power
+  github_src_repo: https://github.com/sparkfun/LilyPad_Simple_Power
+  oomp_bot: sparkfun_lilypad_simple_power
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_lilypad_simple_power
+  oomp_doc: projects/sparkfun_lilypad_simple_power/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_lilypad_simple_power
+  oomp_src_flat: projects_flat/sparkfun_lilypad_simple_power
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_lilypad_simple_power
+  oomp_src_folder: projects_folder\sparkfun\LilyPad_Simple_Power\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\LilyPad_Simple_Power\version_current\working
+oomp_key: oomp_sparkfun_lilypad_simple_power
+oomp_key_simple: sparkfun_lilypad_simple_power
+projects_flat: projects_flat/sparkfun_lilypad_simple_power/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lilypad_simple_power/version_current/working
 projects_folder: projects_folder/sparkfun/LilyPad_Simple_Power/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/pulls{/number}
-pushed_at: '2018-09-24T21:19:05Z'
-releases_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/releases{/id}
-size: 408
-ssh_url: git@github.com:sparkfun/LilyPad_Simple_Power.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/subscription
-svn_url: https://github.com/sparkfun/LilyPad_Simple_Power
-tags_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/tags
-teams_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/teams
-topics:
-- lilypad
-- lipo-charger
-- sparkfun
-- sparkfun-products
-trees_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/git/trees{/sha}
-updated_at: '2018-09-24T21:19:06Z'
-url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/branches{/branch}
+  clone_url: https://github.com/sparkfun/LilyPad_Simple_Power.git
+  collaborators_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/contributors
+  created_at: '2013-05-10T15:36:15Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/deployments
+  description: Small board for adding lipo battery capabilities to extextile projects.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/downloads
+  events_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/forks
+  full_name: sparkfun/LilyPad_Simple_Power
+  git_commits_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/git/tags{/sha}
+  git_url: git://github.com/sparkfun/LilyPad_Simple_Power.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/
+  hooks_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/hooks
+  html_url: https://github.com/sparkfun/LilyPad_Simple_Power
+  id: 9984435
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/merges
+  milestones_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/milestones{/number}
+  mirror_url: null
+  name: LilyPad_Simple_Power
+  node_id: MDEwOlJlcG9zaXRvcnk5OTg0NDM1
+  notifications_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/pulls{/number}
+  pushed_at: '2018-09-24T21:19:05Z'
+  releases_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/releases{/id}
+  size: 408
+  ssh_url: git@github.com:sparkfun/LilyPad_Simple_Power.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/subscription
+  svn_url: https://github.com/sparkfun/LilyPad_Simple_Power
+  tags_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/tags
+  teams_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/teams
+  topics:
+  - lilypad
+  - lipo-charger
+  - sparkfun
+  - sparkfun-products
+  trees_url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power/git/trees{/sha}
+  updated_at: '2018-09-24T21:19:06Z'
+  url: https://api.github.com/repos/sparkfun/LilyPad_Simple_Power
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

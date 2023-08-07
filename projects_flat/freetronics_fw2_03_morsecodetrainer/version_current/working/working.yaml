@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/branches{/branch}
-clone_url: https://github.com/freetronics/FW2-03-MorseCodeTrainer.git
-collaborators_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/contributors
-created_at: '2016-10-09T12:24:29Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/deployments
-description: Morse code trainer project compatible with Dick Smith's "Fun Way Into
-  Electronics Volume 2"
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/downloads
-events_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/forks
-full_name: freetronics/FW2-03-MorseCodeTrainer
-git_commits_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/git/tags{/sha}
-git_url: git://github.com/freetronics/FW2-03-MorseCodeTrainer.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/hooks
-html_url: https://github.com/freetronics/FW2-03-MorseCodeTrainer
-id: 70401397
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/languages
-license: null
-merges_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/merges
-milestones_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/milestones{/number}
-mirror_url: null
-name: FW2-03-MorseCodeTrainer
-node_id: MDEwOlJlcG9zaXRvcnk3MDQwMTM5Nw==
-notifications_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: FW2-03-MorseCodeTrainer
+  github_src: https://github.com/freetronics/FW2-03-MorseCodeTrainer
+  github_src_repo: https://github.com/freetronics/FW2-03-MorseCodeTrainer
+  oomp_bot: projects_freetronics_fw2_03_morsecodetrainer
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_freetronics_fw2_03_morsecodetrainer
+  oomp_doc: projects/projects_flat_freetronics_fw2_03_morsecodetrainer/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_freetronics_fw2_03_morsecodetrainer
+  oomp_src_flat: projects_flat/projects_flat_freetronics_fw2_03_morsecodetrainer
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_freetronics_fw2_03_morsecodetrainer
+  oomp_src_folder: projects_flat\freetronics_fw2_03_morsecodetrainer\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_fw2_03_morsecodetrainer\version_current\working
+oomp_key: oomp_projects_flat_freetronics_fw2_03_morsecodetrainer
+oomp_key_simple: projects_flat_freetronics_fw2_03_morsecodetrainer
 projects_flat: projects_flat/freetronics_fw2_03_morsecodetrainer/version_current/working
 projects_folder: projects_folder/freetronics/FW2-03-MorseCodeTrainer/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/pulls{/number}
-pushed_at: '2016-10-09T12:24:47Z'
-releases_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/releases{/id}
-size: 17
-ssh_url: git@github.com:freetronics/FW2-03-MorseCodeTrainer.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/stargazers
-statuses_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/subscribers
-subscription_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/subscription
-svn_url: https://github.com/freetronics/FW2-03-MorseCodeTrainer
-tags_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/tags
-teams_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/git/trees{/sha}
-updated_at: '2016-10-09T12:25:33Z'
-url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/branches{/branch}
+  clone_url: https://github.com/freetronics/FW2-03-MorseCodeTrainer.git
+  collaborators_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/contributors
+  created_at: '2016-10-09T12:24:29Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/deployments
+  description: Morse code trainer project compatible with Dick Smith's "Fun Way Into
+    Electronics Volume 2"
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/downloads
+  events_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/forks
+  full_name: freetronics/FW2-03-MorseCodeTrainer
+  git_commits_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/git/tags{/sha}
+  git_url: git://github.com/freetronics/FW2-03-MorseCodeTrainer.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/hooks
+  html_url: https://github.com/freetronics/FW2-03-MorseCodeTrainer
+  id: 70401397
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/languages
+  license: null
+  merges_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/merges
+  milestones_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/milestones{/number}
+  mirror_url: null
+  name: FW2-03-MorseCodeTrainer
+  node_id: MDEwOlJlcG9zaXRvcnk3MDQwMTM5Nw==
+  notifications_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/pulls{/number}
+  pushed_at: '2016-10-09T12:24:47Z'
+  releases_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/releases{/id}
+  size: 17
+  ssh_url: git@github.com:freetronics/FW2-03-MorseCodeTrainer.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/subscription
+  svn_url: https://github.com/freetronics/FW2-03-MorseCodeTrainer
+  tags_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/tags
+  teams_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer/git/trees{/sha}
+  updated_at: '2016-10-09T12:25:33Z'
+  url: https://api.github.com/repos/freetronics/FW2-03-MorseCodeTrainer
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

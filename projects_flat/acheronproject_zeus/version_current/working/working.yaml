@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/AcheronProject/Zeus/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/AcheronProject/Zeus/assignees{/user}
-blobs_url: https://api.github.com/repos/AcheronProject/Zeus/git/blobs{/sha}
-branches_url: https://api.github.com/repos/AcheronProject/Zeus/branches{/branch}
-clone_url: https://github.com/AcheronProject/Zeus.git
-collaborators_url: https://api.github.com/repos/AcheronProject/Zeus/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/AcheronProject/Zeus/comments{/number}
-commits_url: https://api.github.com/repos/AcheronProject/Zeus/commits{/sha}
-compare_url: https://api.github.com/repos/AcheronProject/Zeus/compare/{base}...{head}
-contents_url: https://api.github.com/repos/AcheronProject/Zeus/contents/{+path}
-contributors_url: https://api.github.com/repos/AcheronProject/Zeus/contributors
-created_at: '2019-06-06T08:59:49Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/AcheronProject/Zeus/deployments
-description: Official repository of the Zeus power supply
-disabled: false
-downloads_url: https://api.github.com/repos/AcheronProject/Zeus/downloads
-events_url: https://api.github.com/repos/AcheronProject/Zeus/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/AcheronProject/Zeus/forks
-full_name: AcheronProject/Zeus
-git_commits_url: https://api.github.com/repos/AcheronProject/Zeus/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/AcheronProject/Zeus/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/AcheronProject/Zeus/git/tags{/sha}
-git_url: git://github.com/AcheronProject/Zeus.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/AcheronProject/Zeus/hooks
-html_url: https://github.com/AcheronProject/Zeus
-id: 190549628
-is_template: false
-issue_comment_url: https://api.github.com/repos/AcheronProject/Zeus/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/AcheronProject/Zeus/issues/events{/number}
-issues_url: https://api.github.com/repos/AcheronProject/Zeus/issues{/number}
-keys_url: https://api.github.com/repos/AcheronProject/Zeus/keys{/key_id}
-labels_url: https://api.github.com/repos/AcheronProject/Zeus/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/AcheronProject/Zeus/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/AcheronProject/Zeus/merges
-milestones_url: https://api.github.com/repos/AcheronProject/Zeus/milestones{/number}
-mirror_url: null
-name: Zeus
-node_id: MDEwOlJlcG9zaXRvcnkxOTA1NDk2Mjg=
-notifications_url: https://api.github.com/repos/AcheronProject/Zeus/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
-  events_url: https://api.github.com/users/AcheronProject/events{/privacy}
-  followers_url: https://api.github.com/users/AcheronProject/followers
-  following_url: https://api.github.com/users/AcheronProject/following{/other_user}
-  gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/AcheronProject
-  id: 63755935
-  login: AcheronProject
-  node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
-  organizations_url: https://api.github.com/users/AcheronProject/orgs
-  received_events_url: https://api.github.com/users/AcheronProject/received_events
-  repos_url: https://api.github.com/users/AcheronProject/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
-  type: Organization
-  url: https://api.github.com/users/AcheronProject
-private: false
+links:
+  github_owner: AcheronProject
+  github_repo_name: Zeus
+  github_src: https://github.com/AcheronProject/Zeus
+  github_src_repo: https://github.com/AcheronProject/Zeus
+  oomp_bot: projects_acheronproject_zeus
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_acheronproject_zeus
+  oomp_doc: projects/projects_flat_acheronproject_zeus/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_acheronproject_zeus
+  oomp_src_flat: projects_flat/projects_flat_acheronproject_zeus
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_acheronproject_zeus
+  oomp_src_folder: projects_flat\acheronproject_zeus\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\acheronproject_zeus\version_current\working
+oomp_key: oomp_projects_flat_acheronproject_zeus
+oomp_key_simple: projects_flat_acheronproject_zeus
 projects_flat: projects_flat/acheronproject_zeus/version_current/working
 projects_folder: projects_folder/AcheronProject/Zeus/version_current/working
-pulls_url: https://api.github.com/repos/AcheronProject/Zeus/pulls{/number}
-pushed_at: '2020-05-28T04:54:38Z'
-releases_url: https://api.github.com/repos/AcheronProject/Zeus/releases{/id}
-size: 16
-ssh_url: git@github.com:AcheronProject/Zeus.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/AcheronProject/Zeus/stargazers
-statuses_url: https://api.github.com/repos/AcheronProject/Zeus/statuses/{sha}
-subscribers_url: https://api.github.com/repos/AcheronProject/Zeus/subscribers
-subscription_url: https://api.github.com/repos/AcheronProject/Zeus/subscription
-svn_url: https://github.com/AcheronProject/Zeus
-tags_url: https://api.github.com/repos/AcheronProject/Zeus/tags
-teams_url: https://api.github.com/repos/AcheronProject/Zeus/teams
-topics: []
-trees_url: https://api.github.com/repos/AcheronProject/Zeus/git/trees{/sha}
-updated_at: '2020-05-28T04:54:41Z'
-url: https://api.github.com/repos/AcheronProject/Zeus
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/AcheronProject/Zeus/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/AcheronProject/Zeus/assignees{/user}
+  blobs_url: https://api.github.com/repos/AcheronProject/Zeus/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/AcheronProject/Zeus/branches{/branch}
+  clone_url: https://github.com/AcheronProject/Zeus.git
+  collaborators_url: https://api.github.com/repos/AcheronProject/Zeus/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/AcheronProject/Zeus/comments{/number}
+  commits_url: https://api.github.com/repos/AcheronProject/Zeus/commits{/sha}
+  compare_url: https://api.github.com/repos/AcheronProject/Zeus/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/AcheronProject/Zeus/contents/{+path}
+  contributors_url: https://api.github.com/repos/AcheronProject/Zeus/contributors
+  created_at: '2019-06-06T08:59:49Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/AcheronProject/Zeus/deployments
+  description: Official repository of the Zeus power supply
+  disabled: false
+  downloads_url: https://api.github.com/repos/AcheronProject/Zeus/downloads
+  events_url: https://api.github.com/repos/AcheronProject/Zeus/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/AcheronProject/Zeus/forks
+  full_name: AcheronProject/Zeus
+  git_commits_url: https://api.github.com/repos/AcheronProject/Zeus/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/AcheronProject/Zeus/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/AcheronProject/Zeus/git/tags{/sha}
+  git_url: git://github.com/AcheronProject/Zeus.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/AcheronProject/Zeus/hooks
+  html_url: https://github.com/AcheronProject/Zeus
+  id: 190549628
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/AcheronProject/Zeus/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/AcheronProject/Zeus/issues/events{/number}
+  issues_url: https://api.github.com/repos/AcheronProject/Zeus/issues{/number}
+  keys_url: https://api.github.com/repos/AcheronProject/Zeus/keys{/key_id}
+  labels_url: https://api.github.com/repos/AcheronProject/Zeus/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/AcheronProject/Zeus/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/AcheronProject/Zeus/merges
+  milestones_url: https://api.github.com/repos/AcheronProject/Zeus/milestones{/number}
+  mirror_url: null
+  name: Zeus
+  node_id: MDEwOlJlcG9zaXRvcnkxOTA1NDk2Mjg=
+  notifications_url: https://api.github.com/repos/AcheronProject/Zeus/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+    events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+    followers_url: https://api.github.com/users/AcheronProject/followers
+    following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+    gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/AcheronProject
+    id: 63755935
+    login: AcheronProject
+    node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+    organizations_url: https://api.github.com/users/AcheronProject/orgs
+    received_events_url: https://api.github.com/users/AcheronProject/received_events
+    repos_url: https://api.github.com/users/AcheronProject/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+    type: Organization
+    url: https://api.github.com/users/AcheronProject
+  private: false
+  pulls_url: https://api.github.com/repos/AcheronProject/Zeus/pulls{/number}
+  pushed_at: '2020-05-28T04:54:38Z'
+  releases_url: https://api.github.com/repos/AcheronProject/Zeus/releases{/id}
+  size: 16
+  ssh_url: git@github.com:AcheronProject/Zeus.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/AcheronProject/Zeus/stargazers
+  statuses_url: https://api.github.com/repos/AcheronProject/Zeus/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/AcheronProject/Zeus/subscribers
+  subscription_url: https://api.github.com/repos/AcheronProject/Zeus/subscription
+  svn_url: https://github.com/AcheronProject/Zeus
+  tags_url: https://api.github.com/repos/AcheronProject/Zeus/tags
+  teams_url: https://api.github.com/repos/AcheronProject/Zeus/teams
+  topics: []
+  trees_url: https://api.github.com/repos/AcheronProject/Zeus/git/trees{/sha}
+  updated_at: '2020-05-28T04:54:41Z'
+  url: https://api.github.com/repos/AcheronProject/Zeus
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

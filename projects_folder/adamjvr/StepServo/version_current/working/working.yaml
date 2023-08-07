@@ -1,101 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adamjvr/StepServo/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adamjvr/StepServo/assignees{/user}
-blobs_url: https://api.github.com/repos/adamjvr/StepServo/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adamjvr/StepServo/branches{/branch}
-clone_url: https://github.com/adamjvr/StepServo.git
-collaborators_url: https://api.github.com/repos/adamjvr/StepServo/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adamjvr/StepServo/comments{/number}
-commits_url: https://api.github.com/repos/adamjvr/StepServo/commits{/sha}
-compare_url: https://api.github.com/repos/adamjvr/StepServo/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adamjvr/StepServo/contents/{+path}
-contributors_url: https://api.github.com/repos/adamjvr/StepServo/contributors
-created_at: '2018-04-04T13:22:27Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adamjvr/StepServo/deployments
-description: A single channel step/direction/enable/endstop to DC quadrature encoder
-  converter. Uses an L298N DC motor driver stacked on standoffs as a driver, and an
-  Arduino Pro Micro as a processor. A single channel version of my other board, RAMPSSB.
-disabled: false
-downloads_url: https://api.github.com/repos/adamjvr/StepServo/downloads
-events_url: https://api.github.com/repos/adamjvr/StepServo/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/adamjvr/StepServo/forks
-full_name: adamjvr/StepServo
-git_commits_url: https://api.github.com/repos/adamjvr/StepServo/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adamjvr/StepServo/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adamjvr/StepServo/git/tags{/sha}
-git_url: git://github.com/adamjvr/StepServo.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adamjvr/StepServo/hooks
-html_url: https://github.com/adamjvr/StepServo
-id: 128065315
-is_template: false
-issue_comment_url: https://api.github.com/repos/adamjvr/StepServo/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adamjvr/StepServo/issues/events{/number}
-issues_url: https://api.github.com/repos/adamjvr/StepServo/issues{/number}
-keys_url: https://api.github.com/repos/adamjvr/StepServo/keys{/key_id}
-labels_url: https://api.github.com/repos/adamjvr/StepServo/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/adamjvr/StepServo/languages
-license: null
-merges_url: https://api.github.com/repos/adamjvr/StepServo/merges
-milestones_url: https://api.github.com/repos/adamjvr/StepServo/milestones{/number}
-mirror_url: null
-name: StepServo
-node_id: MDEwOlJlcG9zaXRvcnkxMjgwNjUzMTU=
-notifications_url: https://api.github.com/repos/adamjvr/StepServo/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
-  events_url: https://api.github.com/users/adamjvr/events{/privacy}
-  followers_url: https://api.github.com/users/adamjvr/followers
-  following_url: https://api.github.com/users/adamjvr/following{/other_user}
-  gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adamjvr
-  id: 3782102
-  login: adamjvr
-  node_id: MDQ6VXNlcjM3ODIxMDI=
-  organizations_url: https://api.github.com/users/adamjvr/orgs
-  received_events_url: https://api.github.com/users/adamjvr/received_events
-  repos_url: https://api.github.com/users/adamjvr/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
-  type: User
-  url: https://api.github.com/users/adamjvr
-private: false
+links:
+  github_owner: adamjvr
+  github_repo_name: StepServo
+  github_src: https://github.com/adamjvr/StepServo
+  github_src_repo: https://github.com/adamjvr/StepServo
+  oomp_bot: adamjvr_stepservo
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adamjvr_stepservo
+  oomp_doc: projects/adamjvr_stepservo/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adamjvr_stepservo
+  oomp_src_flat: projects_flat/adamjvr_stepservo
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adamjvr_stepservo
+  oomp_src_folder: projects_folder\adamjvr\StepServo\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adamjvr\StepServo\version_current\working
+oomp_key: oomp_adamjvr_stepservo
+oomp_key_simple: adamjvr_stepservo
 projects_flat: projects_flat/adamjvr_stepservo/version_current/working
 projects_folder: projects_folder/adamjvr/StepServo/version_current/working
-pulls_url: https://api.github.com/repos/adamjvr/StepServo/pulls{/number}
-pushed_at: '2017-11-19T08:56:42Z'
-releases_url: https://api.github.com/repos/adamjvr/StepServo/releases{/id}
-size: 229
-ssh_url: git@github.com:adamjvr/StepServo.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/adamjvr/StepServo/stargazers
-statuses_url: https://api.github.com/repos/adamjvr/StepServo/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adamjvr/StepServo/subscribers
-subscription_url: https://api.github.com/repos/adamjvr/StepServo/subscription
-svn_url: https://github.com/adamjvr/StepServo
-tags_url: https://api.github.com/repos/adamjvr/StepServo/tags
-teams_url: https://api.github.com/repos/adamjvr/StepServo/teams
-topics: []
-trees_url: https://api.github.com/repos/adamjvr/StepServo/git/trees{/sha}
-updated_at: '2018-04-04T13:22:29Z'
-url: https://api.github.com/repos/adamjvr/StepServo
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adamjvr/StepServo/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adamjvr/StepServo/assignees{/user}
+  blobs_url: https://api.github.com/repos/adamjvr/StepServo/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adamjvr/StepServo/branches{/branch}
+  clone_url: https://github.com/adamjvr/StepServo.git
+  collaborators_url: https://api.github.com/repos/adamjvr/StepServo/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adamjvr/StepServo/comments{/number}
+  commits_url: https://api.github.com/repos/adamjvr/StepServo/commits{/sha}
+  compare_url: https://api.github.com/repos/adamjvr/StepServo/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adamjvr/StepServo/contents/{+path}
+  contributors_url: https://api.github.com/repos/adamjvr/StepServo/contributors
+  created_at: '2018-04-04T13:22:27Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adamjvr/StepServo/deployments
+  description: A single channel step/direction/enable/endstop to DC quadrature encoder
+    converter. Uses an L298N DC motor driver stacked on standoffs as a driver, and
+    an Arduino Pro Micro as a processor. A single channel version of my other board,
+    RAMPSSB.
+  disabled: false
+  downloads_url: https://api.github.com/repos/adamjvr/StepServo/downloads
+  events_url: https://api.github.com/repos/adamjvr/StepServo/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/adamjvr/StepServo/forks
+  full_name: adamjvr/StepServo
+  git_commits_url: https://api.github.com/repos/adamjvr/StepServo/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adamjvr/StepServo/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adamjvr/StepServo/git/tags{/sha}
+  git_url: git://github.com/adamjvr/StepServo.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adamjvr/StepServo/hooks
+  html_url: https://github.com/adamjvr/StepServo
+  id: 128065315
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adamjvr/StepServo/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adamjvr/StepServo/issues/events{/number}
+  issues_url: https://api.github.com/repos/adamjvr/StepServo/issues{/number}
+  keys_url: https://api.github.com/repos/adamjvr/StepServo/keys{/key_id}
+  labels_url: https://api.github.com/repos/adamjvr/StepServo/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/adamjvr/StepServo/languages
+  license: null
+  merges_url: https://api.github.com/repos/adamjvr/StepServo/merges
+  milestones_url: https://api.github.com/repos/adamjvr/StepServo/milestones{/number}
+  mirror_url: null
+  name: StepServo
+  node_id: MDEwOlJlcG9zaXRvcnkxMjgwNjUzMTU=
+  notifications_url: https://api.github.com/repos/adamjvr/StepServo/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
+    events_url: https://api.github.com/users/adamjvr/events{/privacy}
+    followers_url: https://api.github.com/users/adamjvr/followers
+    following_url: https://api.github.com/users/adamjvr/following{/other_user}
+    gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adamjvr
+    id: 3782102
+    login: adamjvr
+    node_id: MDQ6VXNlcjM3ODIxMDI=
+    organizations_url: https://api.github.com/users/adamjvr/orgs
+    received_events_url: https://api.github.com/users/adamjvr/received_events
+    repos_url: https://api.github.com/users/adamjvr/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
+    type: User
+    url: https://api.github.com/users/adamjvr
+  private: false
+  pulls_url: https://api.github.com/repos/adamjvr/StepServo/pulls{/number}
+  pushed_at: '2017-11-19T08:56:42Z'
+  releases_url: https://api.github.com/repos/adamjvr/StepServo/releases{/id}
+  size: 229
+  ssh_url: git@github.com:adamjvr/StepServo.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/adamjvr/StepServo/stargazers
+  statuses_url: https://api.github.com/repos/adamjvr/StepServo/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adamjvr/StepServo/subscribers
+  subscription_url: https://api.github.com/repos/adamjvr/StepServo/subscription
+  svn_url: https://github.com/adamjvr/StepServo
+  tags_url: https://api.github.com/repos/adamjvr/StepServo/tags
+  teams_url: https://api.github.com/repos/adamjvr/StepServo/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adamjvr/StepServo/git/trees{/sha}
+  updated_at: '2018-04-04T13:22:29Z'
+  url: https://api.github.com/repos/adamjvr/StepServo
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

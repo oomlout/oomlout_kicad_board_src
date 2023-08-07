@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/assignees{/user}
-blobs_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/git/blobs{/sha}
-branches_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/branches{/branch}
-clone_url: https://github.com/garrettsworkshop/RAM2GS.git
-collaborators_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/comments{/number}
-commits_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/commits{/sha}
-compare_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/compare/{base}...{head}
-contents_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/contents/{+path}
-contributors_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/contributors
-created_at: '2020-07-25T08:24:47Z'
-default_branch: release-GW4201D
-deployments_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/deployments
-description: 8 MB RAM expansion card for Apple IIgs
-disabled: false
-downloads_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/downloads
-events_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/forks
-full_name: garrettsworkshop/RAM2GS
-git_commits_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/git/tags{/sha}
-git_url: git://github.com/garrettsworkshop/RAM2GS.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/hooks
-html_url: https://github.com/garrettsworkshop/RAM2GS
-id: 282402656
-is_template: false
-issue_comment_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/issues/events{/number}
-issues_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/issues{/number}
-keys_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/keys{/key_id}
-labels_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/labels{/name}
-language: Verilog
-languages_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/merges
-milestones_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/milestones{/number}
-mirror_url: null
-name: RAM2GS
-node_id: MDEwOlJlcG9zaXRvcnkyODI0MDI2NTY=
-notifications_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
-  events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
-  followers_url: https://api.github.com/users/garrettsworkshop/followers
-  following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
-  gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/garrettsworkshop
-  id: 65582366
-  login: garrettsworkshop
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
-  organizations_url: https://api.github.com/users/garrettsworkshop/orgs
-  received_events_url: https://api.github.com/users/garrettsworkshop/received_events
-  repos_url: https://api.github.com/users/garrettsworkshop/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
-  type: Organization
-  url: https://api.github.com/users/garrettsworkshop
-private: false
+links:
+  github_owner: garrettsworkshop
+  github_repo_name: RAM2GS
+  github_src: https://github.com/garrettsworkshop/RAM2GS
+  github_src_repo: https://github.com/garrettsworkshop/RAM2GS
+  oomp_bot: garrettsworkshop_ram2gs
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/garrettsworkshop_ram2gs
+  oomp_doc: projects/garrettsworkshop_ram2gs/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/garrettsworkshop_ram2gs
+  oomp_src_flat: projects_flat/garrettsworkshop_ram2gs
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/garrettsworkshop_ram2gs
+  oomp_src_folder: projects_folder\garrettsworkshop\RAM2GS\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\garrettsworkshop\RAM2GS\version_current\working
+oomp_key: oomp_garrettsworkshop_ram2gs
+oomp_key_simple: garrettsworkshop_ram2gs
 projects_flat: projects_flat/garrettsworkshop_ram2gs/version_current/working
 projects_folder: projects_folder/garrettsworkshop/RAM2GS/version_current/working
-pulls_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/pulls{/number}
-pushed_at: '2022-02-07T04:40:34Z'
-releases_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/releases{/id}
-size: 46959
-ssh_url: git@github.com:garrettsworkshop/RAM2GS.git
-stargazers_count: 10
-stargazers_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/stargazers
-statuses_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/statuses/{sha}
-subscribers_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/subscribers
-subscription_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/subscription
-svn_url: https://github.com/garrettsworkshop/RAM2GS
-tags_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/tags
-teams_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/teams
-topics: []
-trees_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/git/trees{/sha}
-updated_at: '2023-05-23T13:43:50Z'
-url: https://api.github.com/repos/garrettsworkshop/RAM2GS
-visibility: public
-watchers: 10
-watchers_count: 10
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/assignees{/user}
+  blobs_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/branches{/branch}
+  clone_url: https://github.com/garrettsworkshop/RAM2GS.git
+  collaborators_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/comments{/number}
+  commits_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/commits{/sha}
+  compare_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/contents/{+path}
+  contributors_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/contributors
+  created_at: '2020-07-25T08:24:47Z'
+  default_branch: release-GW4201D
+  deployments_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/deployments
+  description: 8 MB RAM expansion card for Apple IIgs
+  disabled: false
+  downloads_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/downloads
+  events_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/forks
+  full_name: garrettsworkshop/RAM2GS
+  git_commits_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/git/tags{/sha}
+  git_url: git://github.com/garrettsworkshop/RAM2GS.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/hooks
+  html_url: https://github.com/garrettsworkshop/RAM2GS
+  id: 282402656
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/issues/events{/number}
+  issues_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/issues{/number}
+  keys_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/keys{/key_id}
+  labels_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/labels{/name}
+  language: Verilog
+  languages_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/merges
+  milestones_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/milestones{/number}
+  mirror_url: null
+  name: RAM2GS
+  node_id: MDEwOlJlcG9zaXRvcnkyODI0MDI2NTY=
+  notifications_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
+    events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
+    followers_url: https://api.github.com/users/garrettsworkshop/followers
+    following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
+    gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/garrettsworkshop
+    id: 65582366
+    login: garrettsworkshop
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
+    organizations_url: https://api.github.com/users/garrettsworkshop/orgs
+    received_events_url: https://api.github.com/users/garrettsworkshop/received_events
+    repos_url: https://api.github.com/users/garrettsworkshop/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
+    type: Organization
+    url: https://api.github.com/users/garrettsworkshop
+  private: false
+  pulls_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/pulls{/number}
+  pushed_at: '2022-02-07T04:40:34Z'
+  releases_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/releases{/id}
+  size: 46959
+  ssh_url: git@github.com:garrettsworkshop/RAM2GS.git
+  stargazers_count: 11
+  stargazers_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/stargazers
+  statuses_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/subscribers
+  subscription_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/subscription
+  svn_url: https://github.com/garrettsworkshop/RAM2GS
+  tags_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/tags
+  teams_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/teams
+  topics: []
+  trees_url: https://api.github.com/repos/garrettsworkshop/RAM2GS/git/trees{/sha}
+  updated_at: '2023-08-02T09:00:56Z'
+  url: https://api.github.com/repos/garrettsworkshop/RAM2GS
+  visibility: public
+  watchers: 11
+  watchers_count: 11
+  web_commit_signoff_required: false

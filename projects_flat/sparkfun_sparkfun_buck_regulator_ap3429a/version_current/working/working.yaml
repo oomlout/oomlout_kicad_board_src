@@ -1,106 +1,123 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/branches{/branch}
-clone_url: https://github.com/sparkfun/SparkFun_Buck_Regulator_AP3429A.git
-collaborators_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/contributors
-created_at: '2022-12-05T19:50:26Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/deployments
-description: Top level repo for a suite of buck regulator form factors using the AP3429A
-  buck regulator.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/downloads
-events_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/forks
-full_name: sparkfun/SparkFun_Buck_Regulator_AP3429A
-git_commits_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/git/tags{/sha}
-git_url: git://github.com/sparkfun/SparkFun_Buck_Regulator_AP3429A.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: false
-has_wiki: false
-homepage: https://docs.sparkfun.com/SparkFun_Buck_Regulator_AP3429A/
-hooks_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/hooks
-html_url: https://github.com/sparkfun/SparkFun_Buck_Regulator_AP3429A
-id: 574658624
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/merges
-milestones_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/milestones{/number}
-mirror_url: null
-name: SparkFun_Buck_Regulator_AP3429A
-node_id: R_kgDOIkCYQA
-notifications_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: SparkFun_Buck_Regulator_AP3429A
+  github_src: https://github.com/sparkfun/SparkFun_Buck_Regulator_AP3429A
+  github_src_repo: https://github.com/sparkfun/SparkFun_Buck_Regulator_AP3429A
+  oomp_bot: projects_sparkfun_sparkfun_buck_regulator_ap3429a
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_sparkfun_buck_regulator_ap3429a
+  oomp_doc: projects/projects_flat_sparkfun_sparkfun_buck_regulator_ap3429a/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_sparkfun_buck_regulator_ap3429a
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_sparkfun_buck_regulator_ap3429a
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_sparkfun_buck_regulator_ap3429a
+  oomp_src_folder: projects_flat\sparkfun_sparkfun_buck_regulator_ap3429a\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_sparkfun_buck_regulator_ap3429a\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_sparkfun_buck_regulator_ap3429a
+oomp_key_simple: projects_flat_sparkfun_sparkfun_buck_regulator_ap3429a
+projects_flat: projects_flat/sparkfun_sparkfun_buck_regulator_ap3429a/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_sparkfun_buck_regulator_ap3429a/version_current/working
 projects_folder: projects_folder/sparkfun/SparkFun_Buck_Regulator_AP3429A/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/pulls{/number}
-pushed_at: '2023-04-14T06:21:35Z'
-releases_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/releases{/id}
-size: 34100
-ssh_url: git@github.com:sparkfun/SparkFun_Buck_Regulator_AP3429A.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/subscription
-svn_url: https://github.com/sparkfun/SparkFun_Buck_Regulator_AP3429A
-tags_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/tags
-teams_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/teams
-topics:
-- sparkfun-tutorial
-trees_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/git/trees{/sha}
-updated_at: '2023-04-13T23:39:51Z'
-url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/branches{/branch}
+  clone_url: https://github.com/sparkfun/SparkFun_Buck_Regulator_AP3429A.git
+  collaborators_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/contributors
+  created_at: '2022-12-05T19:50:26Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/deployments
+  description: Top level repo for a suite of buck regulator form factors using the
+    AP3429A buck regulator.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/downloads
+  events_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/forks
+  full_name: sparkfun/SparkFun_Buck_Regulator_AP3429A
+  git_commits_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/git/tags{/sha}
+  git_url: git://github.com/sparkfun/SparkFun_Buck_Regulator_AP3429A.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: false
+  has_wiki: false
+  homepage: https://docs.sparkfun.com/SparkFun_Buck_Regulator_AP3429A/
+  hooks_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/hooks
+  html_url: https://github.com/sparkfun/SparkFun_Buck_Regulator_AP3429A
+  id: 574658624
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/merges
+  milestones_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/milestones{/number}
+  mirror_url: null
+  name: SparkFun_Buck_Regulator_AP3429A
+  node_id: R_kgDOIkCYQA
+  notifications_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/pulls{/number}
+  pushed_at: '2023-04-14T06:21:35Z'
+  releases_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/releases{/id}
+  size: 34100
+  ssh_url: git@github.com:sparkfun/SparkFun_Buck_Regulator_AP3429A.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/subscription
+  svn_url: https://github.com/sparkfun/SparkFun_Buck_Regulator_AP3429A
+  tags_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/tags
+  teams_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/teams
+  topics:
+  - sparkfun-tutorial
+  trees_url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A/git/trees{/sha}
+  updated_at: '2023-04-13T23:39:51Z'
+  url: https://api.github.com/repos/sparkfun/SparkFun_Buck_Regulator_AP3429A
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

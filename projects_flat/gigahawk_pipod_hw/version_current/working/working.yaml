@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Gigahawk/pipod_hw/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Gigahawk/pipod_hw/assignees{/user}
-blobs_url: https://api.github.com/repos/Gigahawk/pipod_hw/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Gigahawk/pipod_hw/branches{/branch}
-clone_url: https://github.com/Gigahawk/pipod_hw.git
-collaborators_url: https://api.github.com/repos/Gigahawk/pipod_hw/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Gigahawk/pipod_hw/comments{/number}
-commits_url: https://api.github.com/repos/Gigahawk/pipod_hw/commits{/sha}
-compare_url: https://api.github.com/repos/Gigahawk/pipod_hw/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Gigahawk/pipod_hw/contents/{+path}
-contributors_url: https://api.github.com/repos/Gigahawk/pipod_hw/contributors
-created_at: '2022-08-23T09:33:29Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Gigahawk/pipod_hw/deployments
-description: Hardware for piPod
-disabled: false
-downloads_url: https://api.github.com/repos/Gigahawk/pipod_hw/downloads
-events_url: https://api.github.com/repos/Gigahawk/pipod_hw/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Gigahawk/pipod_hw/forks
-full_name: Gigahawk/pipod_hw
-git_commits_url: https://api.github.com/repos/Gigahawk/pipod_hw/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Gigahawk/pipod_hw/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Gigahawk/pipod_hw/git/tags{/sha}
-git_url: git://github.com/Gigahawk/pipod_hw.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Gigahawk/pipod_hw/hooks
-html_url: https://github.com/Gigahawk/pipod_hw
-id: 527921490
-is_template: false
-issue_comment_url: https://api.github.com/repos/Gigahawk/pipod_hw/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Gigahawk/pipod_hw/issues/events{/number}
-issues_url: https://api.github.com/repos/Gigahawk/pipod_hw/issues{/number}
-keys_url: https://api.github.com/repos/Gigahawk/pipod_hw/keys{/key_id}
-labels_url: https://api.github.com/repos/Gigahawk/pipod_hw/labels{/name}
-language: Jupyter Notebook
-languages_url: https://api.github.com/repos/Gigahawk/pipod_hw/languages
-license:
-  key: cc0-1.0
-  name: Creative Commons Zero v1.0 Universal
-  node_id: MDc6TGljZW5zZTY=
-  spdx_id: CC0-1.0
-  url: https://api.github.com/licenses/cc0-1.0
-merges_url: https://api.github.com/repos/Gigahawk/pipod_hw/merges
-milestones_url: https://api.github.com/repos/Gigahawk/pipod_hw/milestones{/number}
-mirror_url: null
-name: pipod_hw
-node_id: R_kgDOH3dxUg
-notifications_url: https://api.github.com/repos/Gigahawk/pipod_hw/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/10356230?v=4
-  events_url: https://api.github.com/users/Gigahawk/events{/privacy}
-  followers_url: https://api.github.com/users/Gigahawk/followers
-  following_url: https://api.github.com/users/Gigahawk/following{/other_user}
-  gists_url: https://api.github.com/users/Gigahawk/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Gigahawk
-  id: 10356230
-  login: Gigahawk
-  node_id: MDQ6VXNlcjEwMzU2MjMw
-  organizations_url: https://api.github.com/users/Gigahawk/orgs
-  received_events_url: https://api.github.com/users/Gigahawk/received_events
-  repos_url: https://api.github.com/users/Gigahawk/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Gigahawk/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Gigahawk/subscriptions
-  type: User
-  url: https://api.github.com/users/Gigahawk
-private: false
+links:
+  github_owner: Gigahawk
+  github_repo_name: pipod_hw
+  github_src: https://github.com/Gigahawk/pipod_hw
+  github_src_repo: https://github.com/Gigahawk/pipod_hw
+  oomp_bot: projects_gigahawk_pipod_hw
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_gigahawk_pipod_hw
+  oomp_doc: projects/projects_flat_gigahawk_pipod_hw/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_gigahawk_pipod_hw
+  oomp_src_flat: projects_flat/projects_flat_gigahawk_pipod_hw
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_gigahawk_pipod_hw
+  oomp_src_folder: projects_flat\gigahawk_pipod_hw\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\gigahawk_pipod_hw\version_current\working
+oomp_key: oomp_projects_flat_gigahawk_pipod_hw
+oomp_key_simple: projects_flat_gigahawk_pipod_hw
 projects_flat: projects_flat/gigahawk_pipod_hw/version_current/working
 projects_folder: projects_folder/Gigahawk/pipod_hw/version_current/working
-pulls_url: https://api.github.com/repos/Gigahawk/pipod_hw/pulls{/number}
-pushed_at: '2022-12-23T03:04:36Z'
-releases_url: https://api.github.com/repos/Gigahawk/pipod_hw/releases{/id}
-size: 3900
-ssh_url: git@github.com:Gigahawk/pipod_hw.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Gigahawk/pipod_hw/stargazers
-statuses_url: https://api.github.com/repos/Gigahawk/pipod_hw/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Gigahawk/pipod_hw/subscribers
-subscription_url: https://api.github.com/repos/Gigahawk/pipod_hw/subscription
-svn_url: https://github.com/Gigahawk/pipod_hw
-tags_url: https://api.github.com/repos/Gigahawk/pipod_hw/tags
-teams_url: https://api.github.com/repos/Gigahawk/pipod_hw/teams
-topics: []
-trees_url: https://api.github.com/repos/Gigahawk/pipod_hw/git/trees{/sha}
-updated_at: '2022-08-30T07:10:30Z'
-url: https://api.github.com/repos/Gigahawk/pipod_hw
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Gigahawk/pipod_hw/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Gigahawk/pipod_hw/assignees{/user}
+  blobs_url: https://api.github.com/repos/Gigahawk/pipod_hw/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Gigahawk/pipod_hw/branches{/branch}
+  clone_url: https://github.com/Gigahawk/pipod_hw.git
+  collaborators_url: https://api.github.com/repos/Gigahawk/pipod_hw/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Gigahawk/pipod_hw/comments{/number}
+  commits_url: https://api.github.com/repos/Gigahawk/pipod_hw/commits{/sha}
+  compare_url: https://api.github.com/repos/Gigahawk/pipod_hw/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Gigahawk/pipod_hw/contents/{+path}
+  contributors_url: https://api.github.com/repos/Gigahawk/pipod_hw/contributors
+  created_at: '2022-08-23T09:33:29Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Gigahawk/pipod_hw/deployments
+  description: Hardware for piPod
+  disabled: false
+  downloads_url: https://api.github.com/repos/Gigahawk/pipod_hw/downloads
+  events_url: https://api.github.com/repos/Gigahawk/pipod_hw/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Gigahawk/pipod_hw/forks
+  full_name: Gigahawk/pipod_hw
+  git_commits_url: https://api.github.com/repos/Gigahawk/pipod_hw/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Gigahawk/pipod_hw/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Gigahawk/pipod_hw/git/tags{/sha}
+  git_url: git://github.com/Gigahawk/pipod_hw.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Gigahawk/pipod_hw/hooks
+  html_url: https://github.com/Gigahawk/pipod_hw
+  id: 527921490
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Gigahawk/pipod_hw/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Gigahawk/pipod_hw/issues/events{/number}
+  issues_url: https://api.github.com/repos/Gigahawk/pipod_hw/issues{/number}
+  keys_url: https://api.github.com/repos/Gigahawk/pipod_hw/keys{/key_id}
+  labels_url: https://api.github.com/repos/Gigahawk/pipod_hw/labels{/name}
+  language: Jupyter Notebook
+  languages_url: https://api.github.com/repos/Gigahawk/pipod_hw/languages
+  license:
+    key: cc0-1.0
+    name: Creative Commons Zero v1.0 Universal
+    node_id: MDc6TGljZW5zZTY=
+    spdx_id: CC0-1.0
+    url: https://api.github.com/licenses/cc0-1.0
+  merges_url: https://api.github.com/repos/Gigahawk/pipod_hw/merges
+  milestones_url: https://api.github.com/repos/Gigahawk/pipod_hw/milestones{/number}
+  mirror_url: null
+  name: pipod_hw
+  node_id: R_kgDOH3dxUg
+  notifications_url: https://api.github.com/repos/Gigahawk/pipod_hw/notifications{?since,all,participating}
+  open_issues: 3
+  open_issues_count: 3
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/10356230?v=4
+    events_url: https://api.github.com/users/Gigahawk/events{/privacy}
+    followers_url: https://api.github.com/users/Gigahawk/followers
+    following_url: https://api.github.com/users/Gigahawk/following{/other_user}
+    gists_url: https://api.github.com/users/Gigahawk/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Gigahawk
+    id: 10356230
+    login: Gigahawk
+    node_id: MDQ6VXNlcjEwMzU2MjMw
+    organizations_url: https://api.github.com/users/Gigahawk/orgs
+    received_events_url: https://api.github.com/users/Gigahawk/received_events
+    repos_url: https://api.github.com/users/Gigahawk/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Gigahawk/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Gigahawk/subscriptions
+    type: User
+    url: https://api.github.com/users/Gigahawk
+  private: false
+  pulls_url: https://api.github.com/repos/Gigahawk/pipod_hw/pulls{/number}
+  pushed_at: '2022-12-23T03:04:36Z'
+  releases_url: https://api.github.com/repos/Gigahawk/pipod_hw/releases{/id}
+  size: 3900
+  ssh_url: git@github.com:Gigahawk/pipod_hw.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Gigahawk/pipod_hw/stargazers
+  statuses_url: https://api.github.com/repos/Gigahawk/pipod_hw/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Gigahawk/pipod_hw/subscribers
+  subscription_url: https://api.github.com/repos/Gigahawk/pipod_hw/subscription
+  svn_url: https://github.com/Gigahawk/pipod_hw
+  tags_url: https://api.github.com/repos/Gigahawk/pipod_hw/tags
+  teams_url: https://api.github.com/repos/Gigahawk/pipod_hw/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Gigahawk/pipod_hw/git/trees{/sha}
+  updated_at: '2022-08-30T07:10:30Z'
+  url: https://api.github.com/repos/Gigahawk/pipod_hw
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

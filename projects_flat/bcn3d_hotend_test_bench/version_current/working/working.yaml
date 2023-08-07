@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/assignees{/user}
-blobs_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/git/blobs{/sha}
-branches_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/branches{/branch}
-clone_url: https://github.com/BCN3D/Hotend-Test-Bench.git
-collaborators_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/comments{/number}
-commits_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/commits{/sha}
-compare_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/compare/{base}...{head}
-contents_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/contents/{+path}
-contributors_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/contributors
-created_at: '2015-06-16T10:33:41Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/deployments
-description: Electronic Board to test out 6 Hotends at a time
-disabled: false
-downloads_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/downloads
-events_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/events
-fork: false
-forks: 7
-forks_count: 7
-forks_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/forks
-full_name: BCN3D/Hotend-Test-Bench
-git_commits_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/git/tags{/sha}
-git_url: git://github.com/BCN3D/Hotend-Test-Bench.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/hooks
-html_url: https://github.com/BCN3D/Hotend-Test-Bench
-id: 37523741
-is_template: false
-issue_comment_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/issues/events{/number}
-issues_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/issues{/number}
-keys_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/keys{/key_id}
-labels_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/merges
-milestones_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/milestones{/number}
-mirror_url: null
-name: Hotend-Test-Bench
-node_id: MDEwOlJlcG9zaXRvcnkzNzUyMzc0MQ==
-notifications_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/2334838?v=4
-  events_url: https://api.github.com/users/BCN3D/events{/privacy}
-  followers_url: https://api.github.com/users/BCN3D/followers
-  following_url: https://api.github.com/users/BCN3D/following{/other_user}
-  gists_url: https://api.github.com/users/BCN3D/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/BCN3D
-  id: 2334838
-  login: BCN3D
-  node_id: MDEyOk9yZ2FuaXphdGlvbjIzMzQ4Mzg=
-  organizations_url: https://api.github.com/users/BCN3D/orgs
-  received_events_url: https://api.github.com/users/BCN3D/received_events
-  repos_url: https://api.github.com/users/BCN3D/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/BCN3D/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/BCN3D/subscriptions
-  type: Organization
-  url: https://api.github.com/users/BCN3D
-private: false
+links:
+  github_owner: BCN3D
+  github_repo_name: Hotend-Test-Bench
+  github_src: https://github.com/BCN3D/Hotend-Test-Bench
+  github_src_repo: https://github.com/BCN3D/Hotend-Test-Bench
+  oomp_bot: projects_bcn3d_hotend_test_bench
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_bcn3d_hotend_test_bench
+  oomp_doc: projects/projects_flat_bcn3d_hotend_test_bench/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_bcn3d_hotend_test_bench
+  oomp_src_flat: projects_flat/projects_flat_bcn3d_hotend_test_bench
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_bcn3d_hotend_test_bench
+  oomp_src_folder: projects_flat\bcn3d_hotend_test_bench\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\bcn3d_hotend_test_bench\version_current\working
+oomp_key: oomp_projects_flat_bcn3d_hotend_test_bench
+oomp_key_simple: projects_flat_bcn3d_hotend_test_bench
 projects_flat: projects_flat/bcn3d_hotend_test_bench/version_current/working
 projects_folder: projects_folder/BCN3D/Hotend-Test-Bench/version_current/working
-pulls_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/pulls{/number}
-pushed_at: '2017-05-18T10:44:27Z'
-releases_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/releases{/id}
-size: 10450
-ssh_url: git@github.com:BCN3D/Hotend-Test-Bench.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/stargazers
-statuses_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/statuses/{sha}
-subscribers_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/subscribers
-subscription_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/subscription
-svn_url: https://github.com/BCN3D/Hotend-Test-Bench
-tags_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/tags
-teams_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/teams
-topics: []
-trees_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/git/trees{/sha}
-updated_at: '2022-08-31T23:43:16Z'
-url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/assignees{/user}
+  blobs_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/branches{/branch}
+  clone_url: https://github.com/BCN3D/Hotend-Test-Bench.git
+  collaborators_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/comments{/number}
+  commits_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/commits{/sha}
+  compare_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/contents/{+path}
+  contributors_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/contributors
+  created_at: '2015-06-16T10:33:41Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/deployments
+  description: Electronic Board to test out 6 Hotends at a time
+  disabled: false
+  downloads_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/downloads
+  events_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/events
+  fork: false
+  forks: 7
+  forks_count: 7
+  forks_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/forks
+  full_name: BCN3D/Hotend-Test-Bench
+  git_commits_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/git/tags{/sha}
+  git_url: git://github.com/BCN3D/Hotend-Test-Bench.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/hooks
+  html_url: https://github.com/BCN3D/Hotend-Test-Bench
+  id: 37523741
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/issues/events{/number}
+  issues_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/issues{/number}
+  keys_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/keys{/key_id}
+  labels_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/merges
+  milestones_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/milestones{/number}
+  mirror_url: null
+  name: Hotend-Test-Bench
+  node_id: MDEwOlJlcG9zaXRvcnkzNzUyMzc0MQ==
+  notifications_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/2334838?v=4
+    events_url: https://api.github.com/users/BCN3D/events{/privacy}
+    followers_url: https://api.github.com/users/BCN3D/followers
+    following_url: https://api.github.com/users/BCN3D/following{/other_user}
+    gists_url: https://api.github.com/users/BCN3D/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/BCN3D
+    id: 2334838
+    login: BCN3D
+    node_id: MDEyOk9yZ2FuaXphdGlvbjIzMzQ4Mzg=
+    organizations_url: https://api.github.com/users/BCN3D/orgs
+    received_events_url: https://api.github.com/users/BCN3D/received_events
+    repos_url: https://api.github.com/users/BCN3D/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/BCN3D/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/BCN3D/subscriptions
+    type: Organization
+    url: https://api.github.com/users/BCN3D
+  private: false
+  pulls_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/pulls{/number}
+  pushed_at: '2017-05-18T10:44:27Z'
+  releases_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/releases{/id}
+  size: 10450
+  ssh_url: git@github.com:BCN3D/Hotend-Test-Bench.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/stargazers
+  statuses_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/subscribers
+  subscription_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/subscription
+  svn_url: https://github.com/BCN3D/Hotend-Test-Bench
+  tags_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/tags
+  teams_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/teams
+  topics: []
+  trees_url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench/git/trees{/sha}
+  updated_at: '2022-08-31T23:43:16Z'
+  url: https://api.github.com/repos/BCN3D/Hotend-Test-Bench
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

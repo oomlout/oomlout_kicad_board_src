@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/notmart/espriktning/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/notmart/espriktning/assignees{/user}
-blobs_url: https://api.github.com/repos/notmart/espriktning/git/blobs{/sha}
-branches_url: https://api.github.com/repos/notmart/espriktning/branches{/branch}
-clone_url: https://github.com/notmart/espriktning.git
-collaborators_url: https://api.github.com/repos/notmart/espriktning/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/notmart/espriktning/comments{/number}
-commits_url: https://api.github.com/repos/notmart/espriktning/commits{/sha}
-compare_url: https://api.github.com/repos/notmart/espriktning/compare/{base}...{head}
-contents_url: https://api.github.com/repos/notmart/espriktning/contents/{+path}
-contributors_url: https://api.github.com/repos/notmart/espriktning/contributors
-created_at: '2022-04-17T17:26:44Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/notmart/espriktning/deployments
-description: ESP8266 based board replacement for Vindriktning
-disabled: false
-downloads_url: https://api.github.com/repos/notmart/espriktning/downloads
-events_url: https://api.github.com/repos/notmart/espriktning/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/notmart/espriktning/forks
-full_name: notmart/espriktning
-git_commits_url: https://api.github.com/repos/notmart/espriktning/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/notmart/espriktning/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/notmart/espriktning/git/tags{/sha}
-git_url: git://github.com/notmart/espriktning.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/notmart/espriktning/hooks
-html_url: https://github.com/notmart/espriktning
-id: 482588864
-is_template: false
-issue_comment_url: https://api.github.com/repos/notmart/espriktning/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/notmart/espriktning/issues/events{/number}
-issues_url: https://api.github.com/repos/notmart/espriktning/issues{/number}
-keys_url: https://api.github.com/repos/notmart/espriktning/keys{/key_id}
-labels_url: https://api.github.com/repos/notmart/espriktning/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/notmart/espriktning/languages
-license: null
-merges_url: https://api.github.com/repos/notmart/espriktning/merges
-milestones_url: https://api.github.com/repos/notmart/espriktning/milestones{/number}
-mirror_url: null
-name: espriktning
-node_id: R_kgDOHMO4wA
-notifications_url: https://api.github.com/repos/notmart/espriktning/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/4526371?v=4
-  events_url: https://api.github.com/users/notmart/events{/privacy}
-  followers_url: https://api.github.com/users/notmart/followers
-  following_url: https://api.github.com/users/notmart/following{/other_user}
-  gists_url: https://api.github.com/users/notmart/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/notmart
-  id: 4526371
-  login: notmart
-  node_id: MDQ6VXNlcjQ1MjYzNzE=
-  organizations_url: https://api.github.com/users/notmart/orgs
-  received_events_url: https://api.github.com/users/notmart/received_events
-  repos_url: https://api.github.com/users/notmart/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/notmart/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/notmart/subscriptions
-  type: User
-  url: https://api.github.com/users/notmart
-private: false
+links:
+  github_owner: notmart
+  github_repo_name: espriktning
+  github_src: https://github.com/notmart/espriktning
+  github_src_repo: https://github.com/notmart/espriktning
+  oomp_bot: projects_notmart_espriktning
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_notmart_espriktning
+  oomp_doc: projects/projects_flat_notmart_espriktning/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_notmart_espriktning
+  oomp_src_flat: projects_flat/projects_flat_notmart_espriktning
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_notmart_espriktning
+  oomp_src_folder: projects_flat\notmart_espriktning\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\notmart_espriktning\version_current\working
+oomp_key: oomp_projects_flat_notmart_espriktning
+oomp_key_simple: projects_flat_notmart_espriktning
 projects_flat: projects_flat/notmart_espriktning/version_current/working
 projects_folder: projects_folder/notmart/espriktning/version_current/working
-pulls_url: https://api.github.com/repos/notmart/espriktning/pulls{/number}
-pushed_at: '2022-08-28T18:26:12Z'
-releases_url: https://api.github.com/repos/notmart/espriktning/releases{/id}
-size: 5005
-ssh_url: git@github.com:notmart/espriktning.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/notmart/espriktning/stargazers
-statuses_url: https://api.github.com/repos/notmart/espriktning/statuses/{sha}
-subscribers_url: https://api.github.com/repos/notmart/espriktning/subscribers
-subscription_url: https://api.github.com/repos/notmart/espriktning/subscription
-svn_url: https://github.com/notmart/espriktning
-tags_url: https://api.github.com/repos/notmart/espriktning/tags
-teams_url: https://api.github.com/repos/notmart/espriktning/teams
-topics: []
-trees_url: https://api.github.com/repos/notmart/espriktning/git/trees{/sha}
-updated_at: '2023-02-11T12:39:46Z'
-url: https://api.github.com/repos/notmart/espriktning
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/notmart/espriktning/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/notmart/espriktning/assignees{/user}
+  blobs_url: https://api.github.com/repos/notmart/espriktning/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/notmart/espriktning/branches{/branch}
+  clone_url: https://github.com/notmart/espriktning.git
+  collaborators_url: https://api.github.com/repos/notmart/espriktning/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/notmart/espriktning/comments{/number}
+  commits_url: https://api.github.com/repos/notmart/espriktning/commits{/sha}
+  compare_url: https://api.github.com/repos/notmart/espriktning/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/notmart/espriktning/contents/{+path}
+  contributors_url: https://api.github.com/repos/notmart/espriktning/contributors
+  created_at: '2022-04-17T17:26:44Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/notmart/espriktning/deployments
+  description: ESP8266 based board replacement for Vindriktning
+  disabled: false
+  downloads_url: https://api.github.com/repos/notmart/espriktning/downloads
+  events_url: https://api.github.com/repos/notmart/espriktning/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/notmart/espriktning/forks
+  full_name: notmart/espriktning
+  git_commits_url: https://api.github.com/repos/notmart/espriktning/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/notmart/espriktning/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/notmart/espriktning/git/tags{/sha}
+  git_url: git://github.com/notmart/espriktning.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/notmart/espriktning/hooks
+  html_url: https://github.com/notmart/espriktning
+  id: 482588864
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/notmart/espriktning/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/notmart/espriktning/issues/events{/number}
+  issues_url: https://api.github.com/repos/notmart/espriktning/issues{/number}
+  keys_url: https://api.github.com/repos/notmart/espriktning/keys{/key_id}
+  labels_url: https://api.github.com/repos/notmart/espriktning/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/notmart/espriktning/languages
+  license: null
+  merges_url: https://api.github.com/repos/notmart/espriktning/merges
+  milestones_url: https://api.github.com/repos/notmart/espriktning/milestones{/number}
+  mirror_url: null
+  name: espriktning
+  node_id: R_kgDOHMO4wA
+  notifications_url: https://api.github.com/repos/notmart/espriktning/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/4526371?v=4
+    events_url: https://api.github.com/users/notmart/events{/privacy}
+    followers_url: https://api.github.com/users/notmart/followers
+    following_url: https://api.github.com/users/notmart/following{/other_user}
+    gists_url: https://api.github.com/users/notmart/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/notmart
+    id: 4526371
+    login: notmart
+    node_id: MDQ6VXNlcjQ1MjYzNzE=
+    organizations_url: https://api.github.com/users/notmart/orgs
+    received_events_url: https://api.github.com/users/notmart/received_events
+    repos_url: https://api.github.com/users/notmart/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/notmart/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/notmart/subscriptions
+    type: User
+    url: https://api.github.com/users/notmart
+  private: false
+  pulls_url: https://api.github.com/repos/notmart/espriktning/pulls{/number}
+  pushed_at: '2022-08-28T18:26:12Z'
+  releases_url: https://api.github.com/repos/notmart/espriktning/releases{/id}
+  size: 5005
+  ssh_url: git@github.com:notmart/espriktning.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/notmart/espriktning/stargazers
+  statuses_url: https://api.github.com/repos/notmart/espriktning/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/notmart/espriktning/subscribers
+  subscription_url: https://api.github.com/repos/notmart/espriktning/subscription
+  svn_url: https://github.com/notmart/espriktning
+  tags_url: https://api.github.com/repos/notmart/espriktning/tags
+  teams_url: https://api.github.com/repos/notmart/espriktning/teams
+  topics: []
+  trees_url: https://api.github.com/repos/notmart/espriktning/git/trees{/sha}
+  updated_at: '2023-02-11T12:39:46Z'
+  url: https://api.github.com/repos/notmart/espriktning
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

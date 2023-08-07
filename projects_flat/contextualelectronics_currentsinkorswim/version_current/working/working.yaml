@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/assignees{/user}
-blobs_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/branches{/branch}
-clone_url: https://github.com/ContextualElectronics/CurrentSinkOrSwim.git
-collaborators_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/comments{/number}
-commits_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/commits{/sha}
-compare_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/contents/{+path}
-contributors_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/contributors
-created_at: '2015-02-01T02:39:14Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/deployments
-description: Building a Current Sink for battery testing in Contextual Electronics
-disabled: false
-downloads_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/downloads
-events_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/events
-fork: false
-forks: 7
-forks_count: 7
-forks_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/forks
-full_name: ContextualElectronics/CurrentSinkOrSwim
-git_commits_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/git/tags{/sha}
-git_url: git://github.com/ContextualElectronics/CurrentSinkOrSwim.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/hooks
-html_url: https://github.com/ContextualElectronics/CurrentSinkOrSwim
-id: 30134050
-is_template: false
-issue_comment_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/issues/events{/number}
-issues_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/issues{/number}
-keys_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/keys{/key_id}
-labels_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/languages
-license: null
-merges_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/merges
-milestones_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/milestones{/number}
-mirror_url: null
-name: CurrentSinkOrSwim
-node_id: MDEwOlJlcG9zaXRvcnkzMDEzNDA1MA==
-notifications_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5359486?v=4
-  events_url: https://api.github.com/users/ContextualElectronics/events{/privacy}
-  followers_url: https://api.github.com/users/ContextualElectronics/followers
-  following_url: https://api.github.com/users/ContextualElectronics/following{/other_user}
-  gists_url: https://api.github.com/users/ContextualElectronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ContextualElectronics
-  id: 5359486
-  login: ContextualElectronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjUzNTk0ODY=
-  organizations_url: https://api.github.com/users/ContextualElectronics/orgs
-  received_events_url: https://api.github.com/users/ContextualElectronics/received_events
-  repos_url: https://api.github.com/users/ContextualElectronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ContextualElectronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ContextualElectronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ContextualElectronics
-private: false
+links:
+  github_owner: ContextualElectronics
+  github_repo_name: CurrentSinkOrSwim
+  github_src: https://github.com/ContextualElectronics/CurrentSinkOrSwim
+  github_src_repo: https://github.com/ContextualElectronics/CurrentSinkOrSwim
+  oomp_bot: projects_contextualelectronics_currentsinkorswim
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_contextualelectronics_currentsinkorswim
+  oomp_doc: projects/projects_flat_contextualelectronics_currentsinkorswim/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_contextualelectronics_currentsinkorswim
+  oomp_src_flat: projects_flat/projects_flat_contextualelectronics_currentsinkorswim
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_contextualelectronics_currentsinkorswim
+  oomp_src_folder: projects_flat\contextualelectronics_currentsinkorswim\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\contextualelectronics_currentsinkorswim\version_current\working
+oomp_key: oomp_projects_flat_contextualelectronics_currentsinkorswim
+oomp_key_simple: projects_flat_contextualelectronics_currentsinkorswim
 projects_flat: projects_flat/contextualelectronics_currentsinkorswim/version_current/working
 projects_folder: projects_folder/ContextualElectronics/CurrentSinkOrSwim/version_current/working
-pulls_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/pulls{/number}
-pushed_at: '2017-11-04T19:24:41Z'
-releases_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/releases{/id}
-size: 144
-ssh_url: git@github.com:ContextualElectronics/CurrentSinkOrSwim.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/stargazers
-statuses_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/subscribers
-subscription_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/subscription
-svn_url: https://github.com/ContextualElectronics/CurrentSinkOrSwim
-tags_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/tags
-teams_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/teams
-topics: []
-trees_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/git/trees{/sha}
-updated_at: '2015-03-04T04:44:23Z'
-url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/assignees{/user}
+  blobs_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/branches{/branch}
+  clone_url: https://github.com/ContextualElectronics/CurrentSinkOrSwim.git
+  collaborators_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/comments{/number}
+  commits_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/commits{/sha}
+  compare_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/contents/{+path}
+  contributors_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/contributors
+  created_at: '2015-02-01T02:39:14Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/deployments
+  description: Building a Current Sink for battery testing in Contextual Electronics
+  disabled: false
+  downloads_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/downloads
+  events_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/events
+  fork: false
+  forks: 7
+  forks_count: 7
+  forks_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/forks
+  full_name: ContextualElectronics/CurrentSinkOrSwim
+  git_commits_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/git/tags{/sha}
+  git_url: git://github.com/ContextualElectronics/CurrentSinkOrSwim.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/hooks
+  html_url: https://github.com/ContextualElectronics/CurrentSinkOrSwim
+  id: 30134050
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/issues/events{/number}
+  issues_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/issues{/number}
+  keys_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/keys{/key_id}
+  labels_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/languages
+  license: null
+  merges_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/merges
+  milestones_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/milestones{/number}
+  mirror_url: null
+  name: CurrentSinkOrSwim
+  node_id: MDEwOlJlcG9zaXRvcnkzMDEzNDA1MA==
+  notifications_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5359486?v=4
+    events_url: https://api.github.com/users/ContextualElectronics/events{/privacy}
+    followers_url: https://api.github.com/users/ContextualElectronics/followers
+    following_url: https://api.github.com/users/ContextualElectronics/following{/other_user}
+    gists_url: https://api.github.com/users/ContextualElectronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ContextualElectronics
+    id: 5359486
+    login: ContextualElectronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjUzNTk0ODY=
+    organizations_url: https://api.github.com/users/ContextualElectronics/orgs
+    received_events_url: https://api.github.com/users/ContextualElectronics/received_events
+    repos_url: https://api.github.com/users/ContextualElectronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ContextualElectronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ContextualElectronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ContextualElectronics
+  private: false
+  pulls_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/pulls{/number}
+  pushed_at: '2017-11-04T19:24:41Z'
+  releases_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/releases{/id}
+  size: 144
+  ssh_url: git@github.com:ContextualElectronics/CurrentSinkOrSwim.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/stargazers
+  statuses_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/subscribers
+  subscription_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/subscription
+  svn_url: https://github.com/ContextualElectronics/CurrentSinkOrSwim
+  tags_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/tags
+  teams_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim/git/trees{/sha}
+  updated_at: '2015-03-04T04:44:23Z'
+  url: https://api.github.com/repos/ContextualElectronics/CurrentSinkOrSwim
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

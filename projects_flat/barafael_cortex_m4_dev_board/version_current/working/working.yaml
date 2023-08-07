@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/assignees{/user}
-blobs_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/git/blobs{/sha}
-branches_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/branches{/branch}
-clone_url: https://github.com/barafael/cortex-m4-dev-board.git
-collaborators_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/comments{/number}
-commits_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/commits{/sha}
-compare_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/compare/{base}...{head}
-contents_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/contents/{+path}
-contributors_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/contributors
-created_at: '2018-10-15T16:06:22Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/deployments
-description: A board with an STM32F401RD LQFP-64 chip, some peripheral headers and
-  mosfet drivers
-disabled: false
-downloads_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/downloads
-events_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/forks
-full_name: barafael/cortex-m4-dev-board
-git_commits_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/git/tags{/sha}
-git_url: git://github.com/barafael/cortex-m4-dev-board.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/hooks
-html_url: https://github.com/barafael/cortex-m4-dev-board
-id: 153143336
-is_template: false
-issue_comment_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/issues/events{/number}
-issues_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/issues{/number}
-keys_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/keys{/key_id}
-labels_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/merges
-milestones_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/milestones{/number}
-mirror_url: null
-name: cortex-m4-dev-board
-node_id: MDEwOlJlcG9zaXRvcnkxNTMxNDMzMzY=
-notifications_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6966738?v=4
-  events_url: https://api.github.com/users/barafael/events{/privacy}
-  followers_url: https://api.github.com/users/barafael/followers
-  following_url: https://api.github.com/users/barafael/following{/other_user}
-  gists_url: https://api.github.com/users/barafael/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/barafael
-  id: 6966738
-  login: barafael
-  node_id: MDQ6VXNlcjY5NjY3Mzg=
-  organizations_url: https://api.github.com/users/barafael/orgs
-  received_events_url: https://api.github.com/users/barafael/received_events
-  repos_url: https://api.github.com/users/barafael/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/barafael/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/barafael/subscriptions
-  type: User
-  url: https://api.github.com/users/barafael
-private: false
+links:
+  github_owner: barafael
+  github_repo_name: cortex-m4-dev-board
+  github_src: https://github.com/barafael/cortex-m4-dev-board
+  github_src_repo: https://github.com/barafael/cortex-m4-dev-board
+  oomp_bot: projects_barafael_cortex_m4_dev_board
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_barafael_cortex_m4_dev_board
+  oomp_doc: projects/projects_flat_barafael_cortex_m4_dev_board/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_barafael_cortex_m4_dev_board
+  oomp_src_flat: projects_flat/projects_flat_barafael_cortex_m4_dev_board
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_barafael_cortex_m4_dev_board
+  oomp_src_folder: projects_flat\barafael_cortex_m4_dev_board\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\barafael_cortex_m4_dev_board\version_current\working
+oomp_key: oomp_projects_flat_barafael_cortex_m4_dev_board
+oomp_key_simple: projects_flat_barafael_cortex_m4_dev_board
 projects_flat: projects_flat/barafael_cortex_m4_dev_board/version_current/working
 projects_folder: projects_folder/barafael/cortex-m4-dev-board/version_current/working
-pulls_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/pulls{/number}
-pushed_at: '2020-07-22T16:31:52Z'
-releases_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/releases{/id}
-size: 2023
-ssh_url: git@github.com:barafael/cortex-m4-dev-board.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/stargazers
-statuses_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/statuses/{sha}
-subscribers_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/subscribers
-subscription_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/subscription
-svn_url: https://github.com/barafael/cortex-m4-dev-board
-tags_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/tags
-teams_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/teams
-topics: []
-trees_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/git/trees{/sha}
-updated_at: '2021-01-11T15:51:45Z'
-url: https://api.github.com/repos/barafael/cortex-m4-dev-board
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/assignees{/user}
+  blobs_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/branches{/branch}
+  clone_url: https://github.com/barafael/cortex-m4-dev-board.git
+  collaborators_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/comments{/number}
+  commits_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/commits{/sha}
+  compare_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/contents/{+path}
+  contributors_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/contributors
+  created_at: '2018-10-15T16:06:22Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/deployments
+  description: A board with an STM32F401RD LQFP-64 chip, some peripheral headers and
+    mosfet drivers
+  disabled: false
+  downloads_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/downloads
+  events_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/forks
+  full_name: barafael/cortex-m4-dev-board
+  git_commits_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/git/tags{/sha}
+  git_url: git://github.com/barafael/cortex-m4-dev-board.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/hooks
+  html_url: https://github.com/barafael/cortex-m4-dev-board
+  id: 153143336
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/issues/events{/number}
+  issues_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/issues{/number}
+  keys_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/keys{/key_id}
+  labels_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/merges
+  milestones_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/milestones{/number}
+  mirror_url: null
+  name: cortex-m4-dev-board
+  node_id: MDEwOlJlcG9zaXRvcnkxNTMxNDMzMzY=
+  notifications_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6966738?v=4
+    events_url: https://api.github.com/users/barafael/events{/privacy}
+    followers_url: https://api.github.com/users/barafael/followers
+    following_url: https://api.github.com/users/barafael/following{/other_user}
+    gists_url: https://api.github.com/users/barafael/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/barafael
+    id: 6966738
+    login: barafael
+    node_id: MDQ6VXNlcjY5NjY3Mzg=
+    organizations_url: https://api.github.com/users/barafael/orgs
+    received_events_url: https://api.github.com/users/barafael/received_events
+    repos_url: https://api.github.com/users/barafael/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/barafael/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/barafael/subscriptions
+    type: User
+    url: https://api.github.com/users/barafael
+  private: false
+  pulls_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/pulls{/number}
+  pushed_at: '2020-07-22T16:31:52Z'
+  releases_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/releases{/id}
+  size: 2023
+  ssh_url: git@github.com:barafael/cortex-m4-dev-board.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/stargazers
+  statuses_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/subscribers
+  subscription_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/subscription
+  svn_url: https://github.com/barafael/cortex-m4-dev-board
+  tags_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/tags
+  teams_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/teams
+  topics: []
+  trees_url: https://api.github.com/repos/barafael/cortex-m4-dev-board/git/trees{/sha}
+  updated_at: '2021-01-11T15:51:45Z'
+  url: https://api.github.com/repos/barafael/cortex-m4-dev-board
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/assignees{/user}
-blobs_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/git/blobs{/sha}
-branches_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/branches{/branch}
-clone_url: https://github.com/DangerousPrototypes/FPGA-Breakout-Board.git
-collaborators_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/comments{/number}
-commits_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/commits{/sha}
-compare_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/compare/{base}...{head}
-contents_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/contents/{+path}
-contributors_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/contributors
-created_at: '2015-09-10T17:00:32Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/downloads
-events_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/forks
-full_name: DangerousPrototypes/FPGA-Breakout-Board
-git_commits_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/git/tags{/sha}
-git_url: git://github.com/DangerousPrototypes/FPGA-Breakout-Board.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/hooks
-html_url: https://github.com/DangerousPrototypes/FPGA-Breakout-Board
-id: 42258251
-is_template: false
-issue_comment_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/issues/events{/number}
-issues_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/issues{/number}
-keys_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/keys{/key_id}
-labels_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/languages
-license: null
-merges_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/merges
-milestones_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/milestones{/number}
-mirror_url: null
-name: FPGA-Breakout-Board
-node_id: MDEwOlJlcG9zaXRvcnk0MjI1ODI1MQ==
-notifications_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/390299?v=4
-  events_url: https://api.github.com/users/DangerousPrototypes/events{/privacy}
-  followers_url: https://api.github.com/users/DangerousPrototypes/followers
-  following_url: https://api.github.com/users/DangerousPrototypes/following{/other_user}
-  gists_url: https://api.github.com/users/DangerousPrototypes/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/DangerousPrototypes
-  id: 390299
-  login: DangerousPrototypes
-  node_id: MDQ6VXNlcjM5MDI5OQ==
-  organizations_url: https://api.github.com/users/DangerousPrototypes/orgs
-  received_events_url: https://api.github.com/users/DangerousPrototypes/received_events
-  repos_url: https://api.github.com/users/DangerousPrototypes/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/DangerousPrototypes/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/DangerousPrototypes/subscriptions
-  type: User
-  url: https://api.github.com/users/DangerousPrototypes
-private: false
+links:
+  github_owner: DangerousPrototypes
+  github_repo_name: FPGA-Breakout-Board
+  github_src: https://github.com/DangerousPrototypes/FPGA-Breakout-Board
+  github_src_repo: https://github.com/DangerousPrototypes/FPGA-Breakout-Board
+  oomp_bot: dangerousprototypes_fpga_breakout_board
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/dangerousprototypes_fpga_breakout_board
+  oomp_doc: projects/dangerousprototypes_fpga_breakout_board/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/dangerousprototypes_fpga_breakout_board
+  oomp_src_flat: projects_flat/dangerousprototypes_fpga_breakout_board
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/dangerousprototypes_fpga_breakout_board
+  oomp_src_folder: projects_folder\DangerousPrototypes\FPGA-Breakout-Board\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\DangerousPrototypes\FPGA-Breakout-Board\version_current\working
+oomp_key: oomp_dangerousprototypes_fpga_breakout_board
+oomp_key_simple: dangerousprototypes_fpga_breakout_board
 projects_flat: projects_flat/dangerousprototypes_fpga_breakout_board/version_current/working
 projects_folder: projects_folder/DangerousPrototypes/FPGA-Breakout-Board/version_current/working
-pulls_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/pulls{/number}
-pushed_at: '2015-09-10T17:06:22Z'
-releases_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/releases{/id}
-size: 976
-ssh_url: git@github.com:DangerousPrototypes/FPGA-Breakout-Board.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/stargazers
-statuses_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/statuses/{sha}
-subscribers_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/subscribers
-subscription_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/subscription
-svn_url: https://github.com/DangerousPrototypes/FPGA-Breakout-Board
-tags_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/tags
-teams_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/teams
-topics: []
-trees_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/git/trees{/sha}
-updated_at: '2023-07-07T01:16:03Z'
-url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/assignees{/user}
+  blobs_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/branches{/branch}
+  clone_url: https://github.com/DangerousPrototypes/FPGA-Breakout-Board.git
+  collaborators_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/comments{/number}
+  commits_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/commits{/sha}
+  compare_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/contents/{+path}
+  contributors_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/contributors
+  created_at: '2015-09-10T17:00:32Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/downloads
+  events_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/forks
+  full_name: DangerousPrototypes/FPGA-Breakout-Board
+  git_commits_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/git/tags{/sha}
+  git_url: git://github.com/DangerousPrototypes/FPGA-Breakout-Board.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/hooks
+  html_url: https://github.com/DangerousPrototypes/FPGA-Breakout-Board
+  id: 42258251
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/issues/events{/number}
+  issues_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/issues{/number}
+  keys_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/keys{/key_id}
+  labels_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/languages
+  license: null
+  merges_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/merges
+  milestones_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/milestones{/number}
+  mirror_url: null
+  name: FPGA-Breakout-Board
+  node_id: MDEwOlJlcG9zaXRvcnk0MjI1ODI1MQ==
+  notifications_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/390299?v=4
+    events_url: https://api.github.com/users/DangerousPrototypes/events{/privacy}
+    followers_url: https://api.github.com/users/DangerousPrototypes/followers
+    following_url: https://api.github.com/users/DangerousPrototypes/following{/other_user}
+    gists_url: https://api.github.com/users/DangerousPrototypes/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/DangerousPrototypes
+    id: 390299
+    login: DangerousPrototypes
+    node_id: MDQ6VXNlcjM5MDI5OQ==
+    organizations_url: https://api.github.com/users/DangerousPrototypes/orgs
+    received_events_url: https://api.github.com/users/DangerousPrototypes/received_events
+    repos_url: https://api.github.com/users/DangerousPrototypes/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/DangerousPrototypes/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/DangerousPrototypes/subscriptions
+    type: User
+    url: https://api.github.com/users/DangerousPrototypes
+  private: false
+  pulls_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/pulls{/number}
+  pushed_at: '2015-09-10T17:06:22Z'
+  releases_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/releases{/id}
+  size: 976
+  ssh_url: git@github.com:DangerousPrototypes/FPGA-Breakout-Board.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/stargazers
+  statuses_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/subscribers
+  subscription_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/subscription
+  svn_url: https://github.com/DangerousPrototypes/FPGA-Breakout-Board
+  tags_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/tags
+  teams_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/teams
+  topics: []
+  trees_url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board/git/trees{/sha}
+  updated_at: '2023-07-07T01:16:03Z'
+  url: https://api.github.com/repos/DangerousPrototypes/FPGA-Breakout-Board
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

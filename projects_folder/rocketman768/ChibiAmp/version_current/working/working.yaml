@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/rocketman768/ChibiAmp/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/rocketman768/ChibiAmp/assignees{/user}
-blobs_url: https://api.github.com/repos/rocketman768/ChibiAmp/git/blobs{/sha}
-branches_url: https://api.github.com/repos/rocketman768/ChibiAmp/branches{/branch}
-clone_url: https://github.com/rocketman768/ChibiAmp.git
-collaborators_url: https://api.github.com/repos/rocketman768/ChibiAmp/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/rocketman768/ChibiAmp/comments{/number}
-commits_url: https://api.github.com/repos/rocketman768/ChibiAmp/commits{/sha}
-compare_url: https://api.github.com/repos/rocketman768/ChibiAmp/compare/{base}...{head}
-contents_url: https://api.github.com/repos/rocketman768/ChibiAmp/contents/{+path}
-contributors_url: https://api.github.com/repos/rocketman768/ChibiAmp/contributors
-created_at: '2015-01-25T18:24:07Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/rocketman768/ChibiAmp/deployments
-description: 10W microcontroller-based RF amp
-disabled: false
-downloads_url: https://api.github.com/repos/rocketman768/ChibiAmp/downloads
-events_url: https://api.github.com/repos/rocketman768/ChibiAmp/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/rocketman768/ChibiAmp/forks
-full_name: rocketman768/ChibiAmp
-git_commits_url: https://api.github.com/repos/rocketman768/ChibiAmp/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/rocketman768/ChibiAmp/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/rocketman768/ChibiAmp/git/tags{/sha}
-git_url: git://github.com/rocketman768/ChibiAmp.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/rocketman768/ChibiAmp/hooks
-html_url: https://github.com/rocketman768/ChibiAmp
-id: 29825014
-is_template: false
-issue_comment_url: https://api.github.com/repos/rocketman768/ChibiAmp/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/rocketman768/ChibiAmp/issues/events{/number}
-issues_url: https://api.github.com/repos/rocketman768/ChibiAmp/issues{/number}
-keys_url: https://api.github.com/repos/rocketman768/ChibiAmp/keys{/key_id}
-labels_url: https://api.github.com/repos/rocketman768/ChibiAmp/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/rocketman768/ChibiAmp/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/rocketman768/ChibiAmp/merges
-milestones_url: https://api.github.com/repos/rocketman768/ChibiAmp/milestones{/number}
-mirror_url: null
-name: ChibiAmp
-node_id: MDEwOlJlcG9zaXRvcnkyOTgyNTAxNA==
-notifications_url: https://api.github.com/repos/rocketman768/ChibiAmp/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/752558?v=4
-  events_url: https://api.github.com/users/rocketman768/events{/privacy}
-  followers_url: https://api.github.com/users/rocketman768/followers
-  following_url: https://api.github.com/users/rocketman768/following{/other_user}
-  gists_url: https://api.github.com/users/rocketman768/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/rocketman768
-  id: 752558
-  login: rocketman768
-  node_id: MDQ6VXNlcjc1MjU1OA==
-  organizations_url: https://api.github.com/users/rocketman768/orgs
-  received_events_url: https://api.github.com/users/rocketman768/received_events
-  repos_url: https://api.github.com/users/rocketman768/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/rocketman768/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/rocketman768/subscriptions
-  type: User
-  url: https://api.github.com/users/rocketman768
-private: false
+links:
+  github_owner: rocketman768
+  github_repo_name: ChibiAmp
+  github_src: https://github.com/rocketman768/ChibiAmp
+  github_src_repo: https://github.com/rocketman768/ChibiAmp
+  oomp_bot: rocketman768_chibiamp
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/rocketman768_chibiamp
+  oomp_doc: projects/rocketman768_chibiamp/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/rocketman768_chibiamp
+  oomp_src_flat: projects_flat/rocketman768_chibiamp
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/rocketman768_chibiamp
+  oomp_src_folder: projects_folder\rocketman768\ChibiAmp\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\rocketman768\ChibiAmp\version_current\working
+oomp_key: oomp_rocketman768_chibiamp
+oomp_key_simple: rocketman768_chibiamp
 projects_flat: projects_flat/rocketman768_chibiamp/version_current/working
 projects_folder: projects_folder/rocketman768/ChibiAmp/version_current/working
-pulls_url: https://api.github.com/repos/rocketman768/ChibiAmp/pulls{/number}
-pushed_at: '2015-11-30T04:48:28Z'
-releases_url: https://api.github.com/repos/rocketman768/ChibiAmp/releases{/id}
-size: 2276
-ssh_url: git@github.com:rocketman768/ChibiAmp.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/rocketman768/ChibiAmp/stargazers
-statuses_url: https://api.github.com/repos/rocketman768/ChibiAmp/statuses/{sha}
-subscribers_url: https://api.github.com/repos/rocketman768/ChibiAmp/subscribers
-subscription_url: https://api.github.com/repos/rocketman768/ChibiAmp/subscription
-svn_url: https://github.com/rocketman768/ChibiAmp
-tags_url: https://api.github.com/repos/rocketman768/ChibiAmp/tags
-teams_url: https://api.github.com/repos/rocketman768/ChibiAmp/teams
-topics: []
-trees_url: https://api.github.com/repos/rocketman768/ChibiAmp/git/trees{/sha}
-updated_at: '2015-07-03T20:38:19Z'
-url: https://api.github.com/repos/rocketman768/ChibiAmp
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/rocketman768/ChibiAmp/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/rocketman768/ChibiAmp/assignees{/user}
+  blobs_url: https://api.github.com/repos/rocketman768/ChibiAmp/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/rocketman768/ChibiAmp/branches{/branch}
+  clone_url: https://github.com/rocketman768/ChibiAmp.git
+  collaborators_url: https://api.github.com/repos/rocketman768/ChibiAmp/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/rocketman768/ChibiAmp/comments{/number}
+  commits_url: https://api.github.com/repos/rocketman768/ChibiAmp/commits{/sha}
+  compare_url: https://api.github.com/repos/rocketman768/ChibiAmp/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/rocketman768/ChibiAmp/contents/{+path}
+  contributors_url: https://api.github.com/repos/rocketman768/ChibiAmp/contributors
+  created_at: '2015-01-25T18:24:07Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/rocketman768/ChibiAmp/deployments
+  description: 10W microcontroller-based RF amp
+  disabled: false
+  downloads_url: https://api.github.com/repos/rocketman768/ChibiAmp/downloads
+  events_url: https://api.github.com/repos/rocketman768/ChibiAmp/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/rocketman768/ChibiAmp/forks
+  full_name: rocketman768/ChibiAmp
+  git_commits_url: https://api.github.com/repos/rocketman768/ChibiAmp/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/rocketman768/ChibiAmp/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/rocketman768/ChibiAmp/git/tags{/sha}
+  git_url: git://github.com/rocketman768/ChibiAmp.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/rocketman768/ChibiAmp/hooks
+  html_url: https://github.com/rocketman768/ChibiAmp
+  id: 29825014
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/rocketman768/ChibiAmp/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/rocketman768/ChibiAmp/issues/events{/number}
+  issues_url: https://api.github.com/repos/rocketman768/ChibiAmp/issues{/number}
+  keys_url: https://api.github.com/repos/rocketman768/ChibiAmp/keys{/key_id}
+  labels_url: https://api.github.com/repos/rocketman768/ChibiAmp/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/rocketman768/ChibiAmp/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/rocketman768/ChibiAmp/merges
+  milestones_url: https://api.github.com/repos/rocketman768/ChibiAmp/milestones{/number}
+  mirror_url: null
+  name: ChibiAmp
+  node_id: MDEwOlJlcG9zaXRvcnkyOTgyNTAxNA==
+  notifications_url: https://api.github.com/repos/rocketman768/ChibiAmp/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/752558?v=4
+    events_url: https://api.github.com/users/rocketman768/events{/privacy}
+    followers_url: https://api.github.com/users/rocketman768/followers
+    following_url: https://api.github.com/users/rocketman768/following{/other_user}
+    gists_url: https://api.github.com/users/rocketman768/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/rocketman768
+    id: 752558
+    login: rocketman768
+    node_id: MDQ6VXNlcjc1MjU1OA==
+    organizations_url: https://api.github.com/users/rocketman768/orgs
+    received_events_url: https://api.github.com/users/rocketman768/received_events
+    repos_url: https://api.github.com/users/rocketman768/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/rocketman768/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/rocketman768/subscriptions
+    type: User
+    url: https://api.github.com/users/rocketman768
+  private: false
+  pulls_url: https://api.github.com/repos/rocketman768/ChibiAmp/pulls{/number}
+  pushed_at: '2015-11-30T04:48:28Z'
+  releases_url: https://api.github.com/repos/rocketman768/ChibiAmp/releases{/id}
+  size: 2276
+  ssh_url: git@github.com:rocketman768/ChibiAmp.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/rocketman768/ChibiAmp/stargazers
+  statuses_url: https://api.github.com/repos/rocketman768/ChibiAmp/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/rocketman768/ChibiAmp/subscribers
+  subscription_url: https://api.github.com/repos/rocketman768/ChibiAmp/subscription
+  svn_url: https://github.com/rocketman768/ChibiAmp
+  tags_url: https://api.github.com/repos/rocketman768/ChibiAmp/tags
+  teams_url: https://api.github.com/repos/rocketman768/ChibiAmp/teams
+  topics: []
+  trees_url: https://api.github.com/repos/rocketman768/ChibiAmp/git/trees{/sha}
+  updated_at: '2015-07-03T20:38:19Z'
+  url: https://api.github.com/repos/rocketman768/ChibiAmp
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/branches{/branch}
-clone_url: https://github.com/OLIMEX/ESP32-S2-DevKit-LiPo-USB.git
-collaborators_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/contributors
-created_at: '2021-02-18T09:38:27Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/deployments
-description: 'ESP32-S2 development board with native USB-OTG, the hardware supports
-  both USB host and USB device functionality, LiPo battery charger and step up for
-  handheld battery operation '
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/downloads
-events_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/events
-fork: false
-forks: 4
-forks_count: 4
-forks_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/forks
-full_name: OLIMEX/ESP32-S2-DevKit-LiPo-USB
-git_commits_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/git/tags{/sha}
-git_url: git://github.com/OLIMEX/ESP32-S2-DevKit-LiPo-USB.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/hooks
-html_url: https://github.com/OLIMEX/ESP32-S2-DevKit-LiPo-USB
-id: 340001010
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/merges
-milestones_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/milestones{/number}
-mirror_url: null
-name: ESP32-S2-DevKit-LiPo-USB
-node_id: MDEwOlJlcG9zaXRvcnkzNDAwMDEwMTA=
-notifications_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: ESP32-S2-DevKit-LiPo-USB
+  github_src: https://github.com/OLIMEX/ESP32-S2-DevKit-LiPo-USB
+  github_src_repo: https://github.com/OLIMEX/ESP32-S2-DevKit-LiPo-USB
+  oomp_bot: projects_olimex_esp32_s2_devkit_lipo_usb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_olimex_esp32_s2_devkit_lipo_usb
+  oomp_doc: projects/projects_flat_olimex_esp32_s2_devkit_lipo_usb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_olimex_esp32_s2_devkit_lipo_usb
+  oomp_src_flat: projects_flat/projects_flat_olimex_esp32_s2_devkit_lipo_usb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_olimex_esp32_s2_devkit_lipo_usb
+  oomp_src_folder: projects_flat\olimex_esp32_s2_devkit_lipo_usb\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\olimex_esp32_s2_devkit_lipo_usb\version_current\working
+oomp_key: oomp_projects_flat_olimex_esp32_s2_devkit_lipo_usb
+oomp_key_simple: projects_flat_olimex_esp32_s2_devkit_lipo_usb
 projects_flat: projects_flat/olimex_esp32_s2_devkit_lipo_usb/version_current/working
 projects_folder: projects_folder/OLIMEX/ESP32-S2-DevKit-LiPo-USB/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/pulls{/number}
-pushed_at: '2023-05-22T12:41:08Z'
-releases_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/releases{/id}
-size: 3927
-ssh_url: git@github.com:OLIMEX/ESP32-S2-DevKit-LiPo-USB.git
-stargazers_count: 15
-stargazers_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/subscription
-svn_url: https://github.com/OLIMEX/ESP32-S2-DevKit-LiPo-USB
-tags_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/tags
-teams_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/git/trees{/sha}
-updated_at: '2023-07-28T17:42:13Z'
-url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB
-visibility: public
-watchers: 15
-watchers_count: 15
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/branches{/branch}
+  clone_url: https://github.com/OLIMEX/ESP32-S2-DevKit-LiPo-USB.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/contributors
+  created_at: '2021-02-18T09:38:27Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/deployments
+  description: 'ESP32-S2 development board with native USB-OTG, the hardware supports
+    both USB host and USB device functionality, LiPo battery charger and step up for
+    handheld battery operation '
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/downloads
+  events_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/events
+  fork: false
+  forks: 4
+  forks_count: 4
+  forks_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/forks
+  full_name: OLIMEX/ESP32-S2-DevKit-LiPo-USB
+  git_commits_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/ESP32-S2-DevKit-LiPo-USB.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/hooks
+  html_url: https://github.com/OLIMEX/ESP32-S2-DevKit-LiPo-USB
+  id: 340001010
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/milestones{/number}
+  mirror_url: null
+  name: ESP32-S2-DevKit-LiPo-USB
+  node_id: MDEwOlJlcG9zaXRvcnkzNDAwMDEwMTA=
+  notifications_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/pulls{/number}
+  pushed_at: '2023-05-22T12:41:08Z'
+  releases_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/releases{/id}
+  size: 3927
+  ssh_url: git@github.com:OLIMEX/ESP32-S2-DevKit-LiPo-USB.git
+  stargazers_count: 15
+  stargazers_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/subscription
+  svn_url: https://github.com/OLIMEX/ESP32-S2-DevKit-LiPo-USB
+  tags_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/tags
+  teams_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB/git/trees{/sha}
+  updated_at: '2023-07-28T17:42:13Z'
+  url: https://api.github.com/repos/OLIMEX/ESP32-S2-DevKit-LiPo-USB
+  visibility: public
+  watchers: 15
+  watchers_count: 15
+  web_commit_signoff_required: false

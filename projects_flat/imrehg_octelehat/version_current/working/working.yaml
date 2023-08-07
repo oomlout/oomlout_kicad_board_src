@@ -1,102 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/imrehg/octelehat/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/imrehg/octelehat/assignees{/user}
-blobs_url: https://api.github.com/repos/imrehg/octelehat/git/blobs{/sha}
-branches_url: https://api.github.com/repos/imrehg/octelehat/branches{/branch}
-clone_url: https://github.com/imrehg/octelehat.git
-collaborators_url: https://api.github.com/repos/imrehg/octelehat/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/imrehg/octelehat/comments{/number}
-commits_url: https://api.github.com/repos/imrehg/octelehat/commits{/sha}
-compare_url: https://api.github.com/repos/imrehg/octelehat/compare/{base}...{head}
-contents_url: https://api.github.com/repos/imrehg/octelehat/contents/{+path}
-contributors_url: https://api.github.com/repos/imrehg/octelehat/contributors
-created_at: '2016-12-11T11:10:40Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/imrehg/octelehat/deployments
-description: Overclocking Telemetry HAT for Raspberry Pi 3
-disabled: false
-downloads_url: https://api.github.com/repos/imrehg/octelehat/downloads
-events_url: https://api.github.com/repos/imrehg/octelehat/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/imrehg/octelehat/forks
-full_name: imrehg/octelehat
-git_commits_url: https://api.github.com/repos/imrehg/octelehat/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/imrehg/octelehat/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/imrehg/octelehat/git/tags{/sha}
-git_url: git://github.com/imrehg/octelehat.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/imrehg/octelehat/hooks
-html_url: https://github.com/imrehg/octelehat
-id: 76169332
-is_template: false
-issue_comment_url: https://api.github.com/repos/imrehg/octelehat/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/imrehg/octelehat/issues/events{/number}
-issues_url: https://api.github.com/repos/imrehg/octelehat/issues{/number}
-keys_url: https://api.github.com/repos/imrehg/octelehat/keys{/key_id}
-labels_url: https://api.github.com/repos/imrehg/octelehat/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/imrehg/octelehat/languages
-license: null
-merges_url: https://api.github.com/repos/imrehg/octelehat/merges
-milestones_url: https://api.github.com/repos/imrehg/octelehat/milestones{/number}
-mirror_url: null
-name: octelehat
-node_id: MDEwOlJlcG9zaXRvcnk3NjE2OTMzMg==
-notifications_url: https://api.github.com/repos/imrehg/octelehat/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/38863?v=4
-  events_url: https://api.github.com/users/imrehg/events{/privacy}
-  followers_url: https://api.github.com/users/imrehg/followers
-  following_url: https://api.github.com/users/imrehg/following{/other_user}
-  gists_url: https://api.github.com/users/imrehg/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/imrehg
-  id: 38863
-  login: imrehg
-  node_id: MDQ6VXNlcjM4ODYz
-  organizations_url: https://api.github.com/users/imrehg/orgs
-  received_events_url: https://api.github.com/users/imrehg/received_events
-  repos_url: https://api.github.com/users/imrehg/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/imrehg/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/imrehg/subscriptions
-  type: User
-  url: https://api.github.com/users/imrehg
-private: false
+links:
+  github_owner: imrehg
+  github_repo_name: octelehat
+  github_src: https://github.com/imrehg/octelehat
+  github_src_repo: https://github.com/imrehg/octelehat
+  oomp_bot: projects_imrehg_octelehat
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_imrehg_octelehat
+  oomp_doc: projects/projects_flat_imrehg_octelehat/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_imrehg_octelehat
+  oomp_src_flat: projects_flat/projects_flat_imrehg_octelehat
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_imrehg_octelehat
+  oomp_src_folder: projects_flat\imrehg_octelehat\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\imrehg_octelehat\version_current\working
+oomp_key: oomp_projects_flat_imrehg_octelehat
+oomp_key_simple: projects_flat_imrehg_octelehat
 projects_flat: projects_flat/imrehg_octelehat/version_current/working
 projects_folder: projects_folder/imrehg/octelehat/version_current/working
-pulls_url: https://api.github.com/repos/imrehg/octelehat/pulls{/number}
-pushed_at: '2017-06-18T23:15:34Z'
-releases_url: https://api.github.com/repos/imrehg/octelehat/releases{/id}
-size: 865
-ssh_url: git@github.com:imrehg/octelehat.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/imrehg/octelehat/stargazers
-statuses_url: https://api.github.com/repos/imrehg/octelehat/statuses/{sha}
-subscribers_url: https://api.github.com/repos/imrehg/octelehat/subscribers
-subscription_url: https://api.github.com/repos/imrehg/octelehat/subscription
-svn_url: https://github.com/imrehg/octelehat
-tags_url: https://api.github.com/repos/imrehg/octelehat/tags
-teams_url: https://api.github.com/repos/imrehg/octelehat/teams
-topics:
-- electronics
-- kicad
-- raspberry-pi
-trees_url: https://api.github.com/repos/imrehg/octelehat/git/trees{/sha}
-updated_at: '2017-05-19T19:20:11Z'
-url: https://api.github.com/repos/imrehg/octelehat
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/imrehg/octelehat/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/imrehg/octelehat/assignees{/user}
+  blobs_url: https://api.github.com/repos/imrehg/octelehat/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/imrehg/octelehat/branches{/branch}
+  clone_url: https://github.com/imrehg/octelehat.git
+  collaborators_url: https://api.github.com/repos/imrehg/octelehat/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/imrehg/octelehat/comments{/number}
+  commits_url: https://api.github.com/repos/imrehg/octelehat/commits{/sha}
+  compare_url: https://api.github.com/repos/imrehg/octelehat/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/imrehg/octelehat/contents/{+path}
+  contributors_url: https://api.github.com/repos/imrehg/octelehat/contributors
+  created_at: '2016-12-11T11:10:40Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/imrehg/octelehat/deployments
+  description: Overclocking Telemetry HAT for Raspberry Pi 3
+  disabled: false
+  downloads_url: https://api.github.com/repos/imrehg/octelehat/downloads
+  events_url: https://api.github.com/repos/imrehg/octelehat/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/imrehg/octelehat/forks
+  full_name: imrehg/octelehat
+  git_commits_url: https://api.github.com/repos/imrehg/octelehat/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/imrehg/octelehat/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/imrehg/octelehat/git/tags{/sha}
+  git_url: git://github.com/imrehg/octelehat.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/imrehg/octelehat/hooks
+  html_url: https://github.com/imrehg/octelehat
+  id: 76169332
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/imrehg/octelehat/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/imrehg/octelehat/issues/events{/number}
+  issues_url: https://api.github.com/repos/imrehg/octelehat/issues{/number}
+  keys_url: https://api.github.com/repos/imrehg/octelehat/keys{/key_id}
+  labels_url: https://api.github.com/repos/imrehg/octelehat/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/imrehg/octelehat/languages
+  license: null
+  merges_url: https://api.github.com/repos/imrehg/octelehat/merges
+  milestones_url: https://api.github.com/repos/imrehg/octelehat/milestones{/number}
+  mirror_url: null
+  name: octelehat
+  node_id: MDEwOlJlcG9zaXRvcnk3NjE2OTMzMg==
+  notifications_url: https://api.github.com/repos/imrehg/octelehat/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/38863?v=4
+    events_url: https://api.github.com/users/imrehg/events{/privacy}
+    followers_url: https://api.github.com/users/imrehg/followers
+    following_url: https://api.github.com/users/imrehg/following{/other_user}
+    gists_url: https://api.github.com/users/imrehg/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/imrehg
+    id: 38863
+    login: imrehg
+    node_id: MDQ6VXNlcjM4ODYz
+    organizations_url: https://api.github.com/users/imrehg/orgs
+    received_events_url: https://api.github.com/users/imrehg/received_events
+    repos_url: https://api.github.com/users/imrehg/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/imrehg/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/imrehg/subscriptions
+    type: User
+    url: https://api.github.com/users/imrehg
+  private: false
+  pulls_url: https://api.github.com/repos/imrehg/octelehat/pulls{/number}
+  pushed_at: '2017-06-18T23:15:34Z'
+  releases_url: https://api.github.com/repos/imrehg/octelehat/releases{/id}
+  size: 865
+  ssh_url: git@github.com:imrehg/octelehat.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/imrehg/octelehat/stargazers
+  statuses_url: https://api.github.com/repos/imrehg/octelehat/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/imrehg/octelehat/subscribers
+  subscription_url: https://api.github.com/repos/imrehg/octelehat/subscription
+  svn_url: https://github.com/imrehg/octelehat
+  tags_url: https://api.github.com/repos/imrehg/octelehat/tags
+  teams_url: https://api.github.com/repos/imrehg/octelehat/teams
+  topics:
+  - electronics
+  - kicad
+  - raspberry-pi
+  trees_url: https://api.github.com/repos/imrehg/octelehat/git/trees{/sha}
+  updated_at: '2017-05-19T19:20:11Z'
+  url: https://api.github.com/repos/imrehg/octelehat
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

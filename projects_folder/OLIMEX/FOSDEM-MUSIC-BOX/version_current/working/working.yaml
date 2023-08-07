@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/branches{/branch}
-clone_url: https://github.com/OLIMEX/FOSDEM-MUSIC-BOX.git
-collaborators_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/contributors
-created_at: '2020-01-16T07:11:37Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/deployments
-description: Soldering kit programmable with Arduino IDE to play music
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/downloads
-events_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/forks
-full_name: OLIMEX/FOSDEM-MUSIC-BOX
-git_commits_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/git/tags{/sha}
-git_url: git://github.com/OLIMEX/FOSDEM-MUSIC-BOX.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/hooks
-html_url: https://github.com/OLIMEX/FOSDEM-MUSIC-BOX
-id: 234257981
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/merges
-milestones_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/milestones{/number}
-mirror_url: null
-name: FOSDEM-MUSIC-BOX
-node_id: MDEwOlJlcG9zaXRvcnkyMzQyNTc5ODE=
-notifications_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: FOSDEM-MUSIC-BOX
+  github_src: https://github.com/OLIMEX/FOSDEM-MUSIC-BOX
+  github_src_repo: https://github.com/OLIMEX/FOSDEM-MUSIC-BOX
+  oomp_bot: olimex_fosdem_music_box
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/olimex_fosdem_music_box
+  oomp_doc: projects/olimex_fosdem_music_box/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/olimex_fosdem_music_box
+  oomp_src_flat: projects_flat/olimex_fosdem_music_box
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/olimex_fosdem_music_box
+  oomp_src_folder: projects_folder\OLIMEX\FOSDEM-MUSIC-BOX\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\OLIMEX\FOSDEM-MUSIC-BOX\version_current\working
+oomp_key: oomp_olimex_fosdem_music_box
+oomp_key_simple: olimex_fosdem_music_box
 projects_flat: projects_flat/olimex_fosdem_music_box/version_current/working
 projects_folder: projects_folder/OLIMEX/FOSDEM-MUSIC-BOX/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/pulls{/number}
-pushed_at: '2020-06-24T12:16:07Z'
-releases_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/releases{/id}
-size: 4102
-ssh_url: git@github.com:OLIMEX/FOSDEM-MUSIC-BOX.git
-stargazers_count: 8
-stargazers_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/subscription
-svn_url: https://github.com/OLIMEX/FOSDEM-MUSIC-BOX
-tags_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/tags
-teams_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/git/trees{/sha}
-updated_at: '2023-03-07T20:46:03Z'
-url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX
-visibility: public
-watchers: 8
-watchers_count: 8
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/branches{/branch}
+  clone_url: https://github.com/OLIMEX/FOSDEM-MUSIC-BOX.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/contributors
+  created_at: '2020-01-16T07:11:37Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/deployments
+  description: Soldering kit programmable with Arduino IDE to play music
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/downloads
+  events_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/forks
+  full_name: OLIMEX/FOSDEM-MUSIC-BOX
+  git_commits_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/FOSDEM-MUSIC-BOX.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/hooks
+  html_url: https://github.com/OLIMEX/FOSDEM-MUSIC-BOX
+  id: 234257981
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/milestones{/number}
+  mirror_url: null
+  name: FOSDEM-MUSIC-BOX
+  node_id: MDEwOlJlcG9zaXRvcnkyMzQyNTc5ODE=
+  notifications_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/pulls{/number}
+  pushed_at: '2020-06-24T12:16:07Z'
+  releases_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/releases{/id}
+  size: 4102
+  ssh_url: git@github.com:OLIMEX/FOSDEM-MUSIC-BOX.git
+  stargazers_count: 8
+  stargazers_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/subscription
+  svn_url: https://github.com/OLIMEX/FOSDEM-MUSIC-BOX
+  tags_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/tags
+  teams_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX/git/trees{/sha}
+  updated_at: '2023-03-07T20:46:03Z'
+  url: https://api.github.com/repos/OLIMEX/FOSDEM-MUSIC-BOX
+  visibility: public
+  watchers: 8
+  watchers_count: 8
+  web_commit_signoff_required: false

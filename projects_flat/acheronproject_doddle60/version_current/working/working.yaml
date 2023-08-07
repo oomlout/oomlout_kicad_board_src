@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/AcheronProject/Doddle60/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/AcheronProject/Doddle60/assignees{/user}
-blobs_url: https://api.github.com/repos/AcheronProject/Doddle60/git/blobs{/sha}
-branches_url: https://api.github.com/repos/AcheronProject/Doddle60/branches{/branch}
-clone_url: https://github.com/AcheronProject/Doddle60.git
-collaborators_url: https://api.github.com/repos/AcheronProject/Doddle60/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/AcheronProject/Doddle60/comments{/number}
-commits_url: https://api.github.com/repos/AcheronProject/Doddle60/commits{/sha}
-compare_url: https://api.github.com/repos/AcheronProject/Doddle60/compare/{base}...{head}
-contents_url: https://api.github.com/repos/AcheronProject/Doddle60/contents/{+path}
-contributors_url: https://api.github.com/repos/AcheronProject/Doddle60/contributors
-created_at: '2019-09-19T22:04:26Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/AcheronProject/Doddle60/deployments
-description: Doddle60 is a 60% ISO layout PCB with a minimal layout number support
-  intended for ISO users.
-disabled: false
-downloads_url: https://api.github.com/repos/AcheronProject/Doddle60/downloads
-events_url: https://api.github.com/repos/AcheronProject/Doddle60/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/AcheronProject/Doddle60/forks
-full_name: AcheronProject/Doddle60
-git_commits_url: https://api.github.com/repos/AcheronProject/Doddle60/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/AcheronProject/Doddle60/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/AcheronProject/Doddle60/git/tags{/sha}
-git_url: git://github.com/AcheronProject/Doddle60.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/AcheronProject/Doddle60/hooks
-html_url: https://github.com/AcheronProject/Doddle60
-id: 209656234
-is_template: false
-issue_comment_url: https://api.github.com/repos/AcheronProject/Doddle60/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/AcheronProject/Doddle60/issues/events{/number}
-issues_url: https://api.github.com/repos/AcheronProject/Doddle60/issues{/number}
-keys_url: https://api.github.com/repos/AcheronProject/Doddle60/keys{/key_id}
-labels_url: https://api.github.com/repos/AcheronProject/Doddle60/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/AcheronProject/Doddle60/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/AcheronProject/Doddle60/merges
-milestones_url: https://api.github.com/repos/AcheronProject/Doddle60/milestones{/number}
-mirror_url: null
-name: Doddle60
-node_id: MDEwOlJlcG9zaXRvcnkyMDk2NTYyMzQ=
-notifications_url: https://api.github.com/repos/AcheronProject/Doddle60/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
-  events_url: https://api.github.com/users/AcheronProject/events{/privacy}
-  followers_url: https://api.github.com/users/AcheronProject/followers
-  following_url: https://api.github.com/users/AcheronProject/following{/other_user}
-  gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/AcheronProject
-  id: 63755935
-  login: AcheronProject
-  node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
-  organizations_url: https://api.github.com/users/AcheronProject/orgs
-  received_events_url: https://api.github.com/users/AcheronProject/received_events
-  repos_url: https://api.github.com/users/AcheronProject/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
-  type: Organization
-  url: https://api.github.com/users/AcheronProject
-private: false
+links:
+  github_owner: AcheronProject
+  github_repo_name: Doddle60
+  github_src: https://github.com/AcheronProject/Doddle60
+  github_src_repo: https://github.com/AcheronProject/Doddle60
+  oomp_bot: projects_acheronproject_doddle60
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_acheronproject_doddle60
+  oomp_doc: projects/projects_flat_acheronproject_doddle60/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_acheronproject_doddle60
+  oomp_src_flat: projects_flat/projects_flat_acheronproject_doddle60
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_acheronproject_doddle60
+  oomp_src_folder: projects_flat\acheronproject_doddle60\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\acheronproject_doddle60\version_current\working
+oomp_key: oomp_projects_flat_acheronproject_doddle60
+oomp_key_simple: projects_flat_acheronproject_doddle60
 projects_flat: projects_flat/acheronproject_doddle60/version_current/working
 projects_folder: projects_folder/AcheronProject/Doddle60/version_current/working
-pulls_url: https://api.github.com/repos/AcheronProject/Doddle60/pulls{/number}
-pushed_at: '2019-11-11T22:47:07Z'
-releases_url: https://api.github.com/repos/AcheronProject/Doddle60/releases{/id}
-size: 16582
-ssh_url: git@github.com:AcheronProject/Doddle60.git
-stargazers_count: 9
-stargazers_url: https://api.github.com/repos/AcheronProject/Doddle60/stargazers
-statuses_url: https://api.github.com/repos/AcheronProject/Doddle60/statuses/{sha}
-subscribers_url: https://api.github.com/repos/AcheronProject/Doddle60/subscribers
-subscription_url: https://api.github.com/repos/AcheronProject/Doddle60/subscription
-svn_url: https://github.com/AcheronProject/Doddle60
-tags_url: https://api.github.com/repos/AcheronProject/Doddle60/tags
-teams_url: https://api.github.com/repos/AcheronProject/Doddle60/teams
-topics: []
-trees_url: https://api.github.com/repos/AcheronProject/Doddle60/git/trees{/sha}
-updated_at: '2022-02-17T02:08:36Z'
-url: https://api.github.com/repos/AcheronProject/Doddle60
-visibility: public
-watchers: 9
-watchers_count: 9
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/AcheronProject/Doddle60/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/AcheronProject/Doddle60/assignees{/user}
+  blobs_url: https://api.github.com/repos/AcheronProject/Doddle60/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/AcheronProject/Doddle60/branches{/branch}
+  clone_url: https://github.com/AcheronProject/Doddle60.git
+  collaborators_url: https://api.github.com/repos/AcheronProject/Doddle60/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/AcheronProject/Doddle60/comments{/number}
+  commits_url: https://api.github.com/repos/AcheronProject/Doddle60/commits{/sha}
+  compare_url: https://api.github.com/repos/AcheronProject/Doddle60/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/AcheronProject/Doddle60/contents/{+path}
+  contributors_url: https://api.github.com/repos/AcheronProject/Doddle60/contributors
+  created_at: '2019-09-19T22:04:26Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/AcheronProject/Doddle60/deployments
+  description: Doddle60 is a 60% ISO layout PCB with a minimal layout number support
+    intended for ISO users.
+  disabled: false
+  downloads_url: https://api.github.com/repos/AcheronProject/Doddle60/downloads
+  events_url: https://api.github.com/repos/AcheronProject/Doddle60/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/AcheronProject/Doddle60/forks
+  full_name: AcheronProject/Doddle60
+  git_commits_url: https://api.github.com/repos/AcheronProject/Doddle60/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/AcheronProject/Doddle60/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/AcheronProject/Doddle60/git/tags{/sha}
+  git_url: git://github.com/AcheronProject/Doddle60.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/AcheronProject/Doddle60/hooks
+  html_url: https://github.com/AcheronProject/Doddle60
+  id: 209656234
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/AcheronProject/Doddle60/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/AcheronProject/Doddle60/issues/events{/number}
+  issues_url: https://api.github.com/repos/AcheronProject/Doddle60/issues{/number}
+  keys_url: https://api.github.com/repos/AcheronProject/Doddle60/keys{/key_id}
+  labels_url: https://api.github.com/repos/AcheronProject/Doddle60/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/AcheronProject/Doddle60/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/AcheronProject/Doddle60/merges
+  milestones_url: https://api.github.com/repos/AcheronProject/Doddle60/milestones{/number}
+  mirror_url: null
+  name: Doddle60
+  node_id: MDEwOlJlcG9zaXRvcnkyMDk2NTYyMzQ=
+  notifications_url: https://api.github.com/repos/AcheronProject/Doddle60/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+    events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+    followers_url: https://api.github.com/users/AcheronProject/followers
+    following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+    gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/AcheronProject
+    id: 63755935
+    login: AcheronProject
+    node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+    organizations_url: https://api.github.com/users/AcheronProject/orgs
+    received_events_url: https://api.github.com/users/AcheronProject/received_events
+    repos_url: https://api.github.com/users/AcheronProject/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+    type: Organization
+    url: https://api.github.com/users/AcheronProject
+  private: false
+  pulls_url: https://api.github.com/repos/AcheronProject/Doddle60/pulls{/number}
+  pushed_at: '2019-11-11T22:47:07Z'
+  releases_url: https://api.github.com/repos/AcheronProject/Doddle60/releases{/id}
+  size: 16582
+  ssh_url: git@github.com:AcheronProject/Doddle60.git
+  stargazers_count: 9
+  stargazers_url: https://api.github.com/repos/AcheronProject/Doddle60/stargazers
+  statuses_url: https://api.github.com/repos/AcheronProject/Doddle60/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/AcheronProject/Doddle60/subscribers
+  subscription_url: https://api.github.com/repos/AcheronProject/Doddle60/subscription
+  svn_url: https://github.com/AcheronProject/Doddle60
+  tags_url: https://api.github.com/repos/AcheronProject/Doddle60/tags
+  teams_url: https://api.github.com/repos/AcheronProject/Doddle60/teams
+  topics: []
+  trees_url: https://api.github.com/repos/AcheronProject/Doddle60/git/trees{/sha}
+  updated_at: '2022-02-17T02:08:36Z'
+  url: https://api.github.com/repos/AcheronProject/Doddle60
+  visibility: public
+  watchers: 9
+  watchers_count: 9
+  web_commit_signoff_required: false

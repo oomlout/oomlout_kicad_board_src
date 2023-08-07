@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/assignees{/user}
-blobs_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/branches{/branch}
-clone_url: https://github.com/ContextualElectronics/Soldering-Obstacle-Course.git
-collaborators_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/comments{/number}
-commits_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/commits{/sha}
-compare_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/contents/{+path}
-contributors_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/contributors
-created_at: '2017-01-06T06:52:17Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/deployments
-description: Practice your soldering!
-disabled: false
-downloads_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/downloads
-events_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/forks
-full_name: ContextualElectronics/Soldering-Obstacle-Course
-git_commits_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/git/tags{/sha}
-git_url: git://github.com/ContextualElectronics/Soldering-Obstacle-Course.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/hooks
-html_url: https://github.com/ContextualElectronics/Soldering-Obstacle-Course
-id: 78182110
-is_template: false
-issue_comment_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/issues/events{/number}
-issues_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/issues{/number}
-keys_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/keys{/key_id}
-labels_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/languages
-license: null
-merges_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/merges
-milestones_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/milestones{/number}
-mirror_url: null
-name: Soldering-Obstacle-Course
-node_id: MDEwOlJlcG9zaXRvcnk3ODE4MjExMA==
-notifications_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5359486?v=4
-  events_url: https://api.github.com/users/ContextualElectronics/events{/privacy}
-  followers_url: https://api.github.com/users/ContextualElectronics/followers
-  following_url: https://api.github.com/users/ContextualElectronics/following{/other_user}
-  gists_url: https://api.github.com/users/ContextualElectronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ContextualElectronics
-  id: 5359486
-  login: ContextualElectronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjUzNTk0ODY=
-  organizations_url: https://api.github.com/users/ContextualElectronics/orgs
-  received_events_url: https://api.github.com/users/ContextualElectronics/received_events
-  repos_url: https://api.github.com/users/ContextualElectronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ContextualElectronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ContextualElectronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ContextualElectronics
-private: false
+links:
+  github_owner: ContextualElectronics
+  github_repo_name: Soldering-Obstacle-Course
+  github_src: https://github.com/ContextualElectronics/Soldering-Obstacle-Course
+  github_src_repo: https://github.com/ContextualElectronics/Soldering-Obstacle-Course
+  oomp_bot: projects_contextualelectronics_soldering_obstacle_course
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_contextualelectronics_soldering_obstacle_course
+  oomp_doc: projects/projects_flat_contextualelectronics_soldering_obstacle_course/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_contextualelectronics_soldering_obstacle_course
+  oomp_src_flat: projects_flat/projects_flat_contextualelectronics_soldering_obstacle_course
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_contextualelectronics_soldering_obstacle_course
+  oomp_src_folder: projects_flat\contextualelectronics_soldering_obstacle_course\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\contextualelectronics_soldering_obstacle_course\version_current\working
+oomp_key: oomp_projects_flat_contextualelectronics_soldering_obstacle_course
+oomp_key_simple: projects_flat_contextualelectronics_soldering_obstacle_course
 projects_flat: projects_flat/contextualelectronics_soldering_obstacle_course/version_current/working
 projects_folder: projects_folder/ContextualElectronics/Soldering-Obstacle-Course/version_current/working
-pulls_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/pulls{/number}
-pushed_at: '2017-01-06T06:58:04Z'
-releases_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/releases{/id}
-size: 4
-ssh_url: git@github.com:ContextualElectronics/Soldering-Obstacle-Course.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/stargazers
-statuses_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/subscribers
-subscription_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/subscription
-svn_url: https://github.com/ContextualElectronics/Soldering-Obstacle-Course
-tags_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/tags
-teams_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/teams
-topics: []
-trees_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/git/trees{/sha}
-updated_at: '2017-01-06T06:52:51Z'
-url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/assignees{/user}
+  blobs_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/branches{/branch}
+  clone_url: https://github.com/ContextualElectronics/Soldering-Obstacle-Course.git
+  collaborators_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/comments{/number}
+  commits_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/commits{/sha}
+  compare_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/contents/{+path}
+  contributors_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/contributors
+  created_at: '2017-01-06T06:52:17Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/deployments
+  description: Practice your soldering!
+  disabled: false
+  downloads_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/downloads
+  events_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/forks
+  full_name: ContextualElectronics/Soldering-Obstacle-Course
+  git_commits_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/git/tags{/sha}
+  git_url: git://github.com/ContextualElectronics/Soldering-Obstacle-Course.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/hooks
+  html_url: https://github.com/ContextualElectronics/Soldering-Obstacle-Course
+  id: 78182110
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/issues/events{/number}
+  issues_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/issues{/number}
+  keys_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/keys{/key_id}
+  labels_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/languages
+  license: null
+  merges_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/merges
+  milestones_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/milestones{/number}
+  mirror_url: null
+  name: Soldering-Obstacle-Course
+  node_id: MDEwOlJlcG9zaXRvcnk3ODE4MjExMA==
+  notifications_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5359486?v=4
+    events_url: https://api.github.com/users/ContextualElectronics/events{/privacy}
+    followers_url: https://api.github.com/users/ContextualElectronics/followers
+    following_url: https://api.github.com/users/ContextualElectronics/following{/other_user}
+    gists_url: https://api.github.com/users/ContextualElectronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ContextualElectronics
+    id: 5359486
+    login: ContextualElectronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjUzNTk0ODY=
+    organizations_url: https://api.github.com/users/ContextualElectronics/orgs
+    received_events_url: https://api.github.com/users/ContextualElectronics/received_events
+    repos_url: https://api.github.com/users/ContextualElectronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ContextualElectronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ContextualElectronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ContextualElectronics
+  private: false
+  pulls_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/pulls{/number}
+  pushed_at: '2017-01-06T06:58:04Z'
+  releases_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/releases{/id}
+  size: 4
+  ssh_url: git@github.com:ContextualElectronics/Soldering-Obstacle-Course.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/stargazers
+  statuses_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/subscribers
+  subscription_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/subscription
+  svn_url: https://github.com/ContextualElectronics/Soldering-Obstacle-Course
+  tags_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/tags
+  teams_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course/git/trees{/sha}
+  updated_at: '2017-01-06T06:52:51Z'
+  url: https://api.github.com/repos/ContextualElectronics/Soldering-Obstacle-Course
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

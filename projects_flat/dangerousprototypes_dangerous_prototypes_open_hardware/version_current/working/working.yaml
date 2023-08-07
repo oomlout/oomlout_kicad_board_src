@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/assignees{/user}
-blobs_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/git/blobs{/sha}
-branches_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/branches{/branch}
-clone_url: https://github.com/DangerousPrototypes/dangerous-prototypes-open-hardware.git
-collaborators_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/comments{/number}
-commits_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/commits{/sha}
-compare_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/compare/{base}...{head}
-contents_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/contents/{+path}
-contributors_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/contributors
-created_at: '2015-08-28T05:27:49Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/deployments
-description: Automatically exported from code.google.com/p/dangerous-prototypes-open-hardware
-disabled: false
-downloads_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/downloads
-events_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/events
-fork: false
-forks: 37
-forks_count: 37
-forks_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/forks
-full_name: DangerousPrototypes/dangerous-prototypes-open-hardware
-git_commits_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/git/tags{/sha}
-git_url: git://github.com/DangerousPrototypes/dangerous-prototypes-open-hardware.git
-has_discussions: false
-has_downloads: false
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: null
-hooks_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/hooks
-html_url: https://github.com/DangerousPrototypes/dangerous-prototypes-open-hardware
-id: 41528903
-is_template: false
-issue_comment_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/issues/events{/number}
-issues_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/issues{/number}
-keys_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/keys{/key_id}
-labels_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/languages
-license: null
-merges_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/merges
-milestones_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/milestones{/number}
-mirror_url: null
-name: dangerous-prototypes-open-hardware
-node_id: MDEwOlJlcG9zaXRvcnk0MTUyODkwMw==
-notifications_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/notifications{?since,all,participating}
-open_issues: 13
-open_issues_count: 13
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/390299?v=4
-  events_url: https://api.github.com/users/DangerousPrototypes/events{/privacy}
-  followers_url: https://api.github.com/users/DangerousPrototypes/followers
-  following_url: https://api.github.com/users/DangerousPrototypes/following{/other_user}
-  gists_url: https://api.github.com/users/DangerousPrototypes/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/DangerousPrototypes
-  id: 390299
-  login: DangerousPrototypes
-  node_id: MDQ6VXNlcjM5MDI5OQ==
-  organizations_url: https://api.github.com/users/DangerousPrototypes/orgs
-  received_events_url: https://api.github.com/users/DangerousPrototypes/received_events
-  repos_url: https://api.github.com/users/DangerousPrototypes/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/DangerousPrototypes/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/DangerousPrototypes/subscriptions
-  type: User
-  url: https://api.github.com/users/DangerousPrototypes
-private: false
+links:
+  github_owner: DangerousPrototypes
+  github_repo_name: dangerous-prototypes-open-hardware
+  github_src: https://github.com/DangerousPrototypes/dangerous-prototypes-open-hardware
+  github_src_repo: https://github.com/DangerousPrototypes/dangerous-prototypes-open-hardware
+  oomp_bot: projects_dangerousprototypes_dangerous_prototypes_open_hardware
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_dangerousprototypes_dangerous_prototypes_open_hardware
+  oomp_doc: projects/projects_flat_dangerousprototypes_dangerous_prototypes_open_hardware/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_dangerousprototypes_dangerous_prototypes_open_hardware
+  oomp_src_flat: projects_flat/projects_flat_dangerousprototypes_dangerous_prototypes_open_hardware
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_dangerousprototypes_dangerous_prototypes_open_hardware
+  oomp_src_folder: projects_flat\dangerousprototypes_dangerous_prototypes_open_hardware\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\dangerousprototypes_dangerous_prototypes_open_hardware\version_current\working
+oomp_key: oomp_projects_flat_dangerousprototypes_dangerous_prototypes_open_hardware
+oomp_key_simple: projects_flat_dangerousprototypes_dangerous_prototypes_open_hardware
 projects_flat: projects_flat/dangerousprototypes_dangerous_prototypes_open_hardware/version_current/working
 projects_folder: projects_folder/DangerousPrototypes/dangerous-prototypes-open-hardware/version_current/working
-pulls_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/pulls{/number}
-pushed_at: '2019-09-15T17:13:35Z'
-releases_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/releases{/id}
-size: 315932
-ssh_url: git@github.com:DangerousPrototypes/dangerous-prototypes-open-hardware.git
-stargazers_count: 62
-stargazers_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/stargazers
-statuses_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/statuses/{sha}
-subscribers_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/subscribers
-subscription_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/subscription
-svn_url: https://github.com/DangerousPrototypes/dangerous-prototypes-open-hardware
-tags_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/tags
-teams_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/teams
-topics: []
-trees_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/git/trees{/sha}
-updated_at: '2023-07-07T01:15:12Z'
-url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware
-visibility: public
-watchers: 62
-watchers_count: 62
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/assignees{/user}
+  blobs_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/branches{/branch}
+  clone_url: https://github.com/DangerousPrototypes/dangerous-prototypes-open-hardware.git
+  collaborators_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/comments{/number}
+  commits_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/commits{/sha}
+  compare_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/contents/{+path}
+  contributors_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/contributors
+  created_at: '2015-08-28T05:27:49Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/deployments
+  description: Automatically exported from code.google.com/p/dangerous-prototypes-open-hardware
+  disabled: false
+  downloads_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/downloads
+  events_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/events
+  fork: false
+  forks: 37
+  forks_count: 37
+  forks_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/forks
+  full_name: DangerousPrototypes/dangerous-prototypes-open-hardware
+  git_commits_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/git/tags{/sha}
+  git_url: git://github.com/DangerousPrototypes/dangerous-prototypes-open-hardware.git
+  has_discussions: false
+  has_downloads: false
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/hooks
+  html_url: https://github.com/DangerousPrototypes/dangerous-prototypes-open-hardware
+  id: 41528903
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/issues/events{/number}
+  issues_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/issues{/number}
+  keys_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/keys{/key_id}
+  labels_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/languages
+  license: null
+  merges_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/merges
+  milestones_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/milestones{/number}
+  mirror_url: null
+  name: dangerous-prototypes-open-hardware
+  node_id: MDEwOlJlcG9zaXRvcnk0MTUyODkwMw==
+  notifications_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/notifications{?since,all,participating}
+  open_issues: 13
+  open_issues_count: 13
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/390299?v=4
+    events_url: https://api.github.com/users/DangerousPrototypes/events{/privacy}
+    followers_url: https://api.github.com/users/DangerousPrototypes/followers
+    following_url: https://api.github.com/users/DangerousPrototypes/following{/other_user}
+    gists_url: https://api.github.com/users/DangerousPrototypes/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/DangerousPrototypes
+    id: 390299
+    login: DangerousPrototypes
+    node_id: MDQ6VXNlcjM5MDI5OQ==
+    organizations_url: https://api.github.com/users/DangerousPrototypes/orgs
+    received_events_url: https://api.github.com/users/DangerousPrototypes/received_events
+    repos_url: https://api.github.com/users/DangerousPrototypes/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/DangerousPrototypes/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/DangerousPrototypes/subscriptions
+    type: User
+    url: https://api.github.com/users/DangerousPrototypes
+  private: false
+  pulls_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/pulls{/number}
+  pushed_at: '2019-09-15T17:13:35Z'
+  releases_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/releases{/id}
+  size: 315932
+  ssh_url: git@github.com:DangerousPrototypes/dangerous-prototypes-open-hardware.git
+  stargazers_count: 62
+  stargazers_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/stargazers
+  statuses_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/subscribers
+  subscription_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/subscription
+  svn_url: https://github.com/DangerousPrototypes/dangerous-prototypes-open-hardware
+  tags_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/tags
+  teams_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/teams
+  topics: []
+  trees_url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware/git/trees{/sha}
+  updated_at: '2023-07-07T01:15:12Z'
+  url: https://api.github.com/repos/DangerousPrototypes/dangerous-prototypes-open-hardware
+  visibility: public
+  watchers: 62
+  watchers_count: 62
+  web_commit_signoff_required: false

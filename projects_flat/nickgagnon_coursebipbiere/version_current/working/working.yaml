@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/assignees{/user}
-blobs_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/git/blobs{/sha}
-branches_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/branches{/branch}
-clone_url: https://github.com/nickgagnon/CourseBipBiere.git
-collaborators_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/comments{/number}
-commits_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/commits{/sha}
-compare_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/compare/{base}...{head}
-contents_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/contents/{+path}
-contributors_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/contributors
-created_at: '2017-10-11T01:54:38Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/deployments
-description: multi-stage fitness test with beer
-disabled: false
-downloads_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/downloads
-events_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/forks
-full_name: nickgagnon/CourseBipBiere
-git_commits_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/git/tags{/sha}
-git_url: git://github.com/nickgagnon/CourseBipBiere.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/hooks
-html_url: https://github.com/nickgagnon/CourseBipBiere
-id: 106492356
-is_template: false
-issue_comment_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/issues/events{/number}
-issues_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/issues{/number}
-keys_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/keys{/key_id}
-labels_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/languages
-license: null
-merges_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/merges
-milestones_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/milestones{/number}
-mirror_url: null
-name: CourseBipBiere
-node_id: MDEwOlJlcG9zaXRvcnkxMDY0OTIzNTY=
-notifications_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/32691913?v=4
-  events_url: https://api.github.com/users/nickgagnon/events{/privacy}
-  followers_url: https://api.github.com/users/nickgagnon/followers
-  following_url: https://api.github.com/users/nickgagnon/following{/other_user}
-  gists_url: https://api.github.com/users/nickgagnon/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/nickgagnon
-  id: 32691913
-  login: nickgagnon
-  node_id: MDQ6VXNlcjMyNjkxOTEz
-  organizations_url: https://api.github.com/users/nickgagnon/orgs
-  received_events_url: https://api.github.com/users/nickgagnon/received_events
-  repos_url: https://api.github.com/users/nickgagnon/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/nickgagnon/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/nickgagnon/subscriptions
-  type: User
-  url: https://api.github.com/users/nickgagnon
-private: false
+links:
+  github_owner: nickgagnon
+  github_repo_name: CourseBipBiere
+  github_src: https://github.com/nickgagnon/CourseBipBiere
+  github_src_repo: https://github.com/nickgagnon/CourseBipBiere
+  oomp_bot: projects_nickgagnon_coursebipbiere
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_nickgagnon_coursebipbiere
+  oomp_doc: projects/projects_flat_nickgagnon_coursebipbiere/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_nickgagnon_coursebipbiere
+  oomp_src_flat: projects_flat/projects_flat_nickgagnon_coursebipbiere
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_nickgagnon_coursebipbiere
+  oomp_src_folder: projects_flat\nickgagnon_coursebipbiere\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\nickgagnon_coursebipbiere\version_current\working
+oomp_key: oomp_projects_flat_nickgagnon_coursebipbiere
+oomp_key_simple: projects_flat_nickgagnon_coursebipbiere
 projects_flat: projects_flat/nickgagnon_coursebipbiere/version_current/working
 projects_folder: projects_folder/nickgagnon/CourseBipBiere/version_current/working
-pulls_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/pulls{/number}
-pushed_at: '2017-11-03T13:49:48Z'
-releases_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/releases{/id}
-size: 214
-ssh_url: git@github.com:nickgagnon/CourseBipBiere.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/stargazers
-statuses_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/statuses/{sha}
-subscribers_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/subscribers
-subscription_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/subscription
-svn_url: https://github.com/nickgagnon/CourseBipBiere
-tags_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/tags
-teams_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/teams
-topics: []
-trees_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/git/trees{/sha}
-updated_at: '2017-11-03T13:47:32Z'
-url: https://api.github.com/repos/nickgagnon/CourseBipBiere
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/assignees{/user}
+  blobs_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/branches{/branch}
+  clone_url: https://github.com/nickgagnon/CourseBipBiere.git
+  collaborators_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/comments{/number}
+  commits_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/commits{/sha}
+  compare_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/contents/{+path}
+  contributors_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/contributors
+  created_at: '2017-10-11T01:54:38Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/deployments
+  description: multi-stage fitness test with beer
+  disabled: false
+  downloads_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/downloads
+  events_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/forks
+  full_name: nickgagnon/CourseBipBiere
+  git_commits_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/git/tags{/sha}
+  git_url: git://github.com/nickgagnon/CourseBipBiere.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/hooks
+  html_url: https://github.com/nickgagnon/CourseBipBiere
+  id: 106492356
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/issues/events{/number}
+  issues_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/issues{/number}
+  keys_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/keys{/key_id}
+  labels_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/languages
+  license: null
+  merges_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/merges
+  milestones_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/milestones{/number}
+  mirror_url: null
+  name: CourseBipBiere
+  node_id: MDEwOlJlcG9zaXRvcnkxMDY0OTIzNTY=
+  notifications_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/32691913?v=4
+    events_url: https://api.github.com/users/nickgagnon/events{/privacy}
+    followers_url: https://api.github.com/users/nickgagnon/followers
+    following_url: https://api.github.com/users/nickgagnon/following{/other_user}
+    gists_url: https://api.github.com/users/nickgagnon/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/nickgagnon
+    id: 32691913
+    login: nickgagnon
+    node_id: MDQ6VXNlcjMyNjkxOTEz
+    organizations_url: https://api.github.com/users/nickgagnon/orgs
+    received_events_url: https://api.github.com/users/nickgagnon/received_events
+    repos_url: https://api.github.com/users/nickgagnon/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/nickgagnon/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/nickgagnon/subscriptions
+    type: User
+    url: https://api.github.com/users/nickgagnon
+  private: false
+  pulls_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/pulls{/number}
+  pushed_at: '2017-11-03T13:49:48Z'
+  releases_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/releases{/id}
+  size: 214
+  ssh_url: git@github.com:nickgagnon/CourseBipBiere.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/stargazers
+  statuses_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/subscribers
+  subscription_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/subscription
+  svn_url: https://github.com/nickgagnon/CourseBipBiere
+  tags_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/tags
+  teams_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/teams
+  topics: []
+  trees_url: https://api.github.com/repos/nickgagnon/CourseBipBiere/git/trees{/sha}
+  updated_at: '2017-11-03T13:47:32Z'
+  url: https://api.github.com/repos/nickgagnon/CourseBipBiere
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

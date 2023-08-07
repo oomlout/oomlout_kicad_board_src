@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/assignees{/user}
-blobs_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/git/blobs{/sha}
-branches_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/branches{/branch}
-clone_url: https://github.com/madworm/Openbench_logic_sniffer_pull-U_D_wing.git
-collaborators_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/comments{/number}
-commits_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/commits{/sha}
-compare_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/compare/{base}...{head}
-contents_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/contents/{+path}
-contributors_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/contributors
-created_at: '2011-10-02T03:45:16Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/deployments
-description: 'LAYOUT FILES: Adds convenient pull-up/down resistor selection (10k)
-  for the Openbench logic sniffer plus selectable pull-up voltage (5.0, 3.3, 2.5,
-  ...) for each bank. KICAD and Gerber files.'
-disabled: false
-downloads_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/downloads
-events_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/forks
-full_name: madworm/Openbench_logic_sniffer_pull-U_D_wing
-git_commits_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/git/tags{/sha}
-git_url: git://github.com/madworm/Openbench_logic_sniffer_pull-U_D_wing.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/hooks
-html_url: https://github.com/madworm/Openbench_logic_sniffer_pull-U_D_wing
-id: 2497922
-is_template: false
-issue_comment_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/issues/events{/number}
-issues_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/issues{/number}
-keys_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/keys{/key_id}
-labels_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/labels{/name}
-language: Prolog
-languages_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/languages
-license: null
-merges_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/merges
-milestones_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/milestones{/number}
-mirror_url: null
-name: Openbench_logic_sniffer_pull-U_D_wing
-node_id: MDEwOlJlcG9zaXRvcnkyNDk3OTIy
-notifications_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
-  events_url: https://api.github.com/users/madworm/events{/privacy}
-  followers_url: https://api.github.com/users/madworm/followers
-  following_url: https://api.github.com/users/madworm/following{/other_user}
-  gists_url: https://api.github.com/users/madworm/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/madworm
-  id: 343894
-  login: madworm
-  node_id: MDQ6VXNlcjM0Mzg5NA==
-  organizations_url: https://api.github.com/users/madworm/orgs
-  received_events_url: https://api.github.com/users/madworm/received_events
-  repos_url: https://api.github.com/users/madworm/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/madworm/subscriptions
-  type: User
-  url: https://api.github.com/users/madworm
-private: false
+links:
+  github_owner: madworm
+  github_repo_name: Openbench_logic_sniffer_pull-U_D_wing
+  github_src: https://github.com/madworm/Openbench_logic_sniffer_pull-U_D_wing
+  github_src_repo: https://github.com/madworm/Openbench_logic_sniffer_pull-U_D_wing
+  oomp_bot: projects_madworm_openbench_logic_sniffer_pull_u_d_wing
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_madworm_openbench_logic_sniffer_pull_u_d_wing
+  oomp_doc: projects/projects_flat_madworm_openbench_logic_sniffer_pull_u_d_wing/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_madworm_openbench_logic_sniffer_pull_u_d_wing
+  oomp_src_flat: projects_flat/projects_flat_madworm_openbench_logic_sniffer_pull_u_d_wing
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_madworm_openbench_logic_sniffer_pull_u_d_wing
+  oomp_src_folder: projects_flat\madworm_openbench_logic_sniffer_pull_u_d_wing\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\madworm_openbench_logic_sniffer_pull_u_d_wing\version_current\working
+oomp_key: oomp_projects_flat_madworm_openbench_logic_sniffer_pull_u_d_wing
+oomp_key_simple: projects_flat_madworm_openbench_logic_sniffer_pull_u_d_wing
 projects_flat: projects_flat/madworm_openbench_logic_sniffer_pull_u_d_wing/version_current/working
 projects_folder: projects_folder/madworm/Openbench_logic_sniffer_pull-U_D_wing/version_current/working
-pulls_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/pulls{/number}
-pushed_at: '2013-01-24T00:16:25Z'
-releases_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/releases{/id}
-size: 2044
-ssh_url: git@github.com:madworm/Openbench_logic_sniffer_pull-U_D_wing.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/stargazers
-statuses_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/statuses/{sha}
-subscribers_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/subscribers
-subscription_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/subscription
-svn_url: https://github.com/madworm/Openbench_logic_sniffer_pull-U_D_wing
-tags_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/tags
-teams_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/teams
-topics: []
-trees_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/git/trees{/sha}
-updated_at: '2014-05-16T15:05:25Z'
-url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/assignees{/user}
+  blobs_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/branches{/branch}
+  clone_url: https://github.com/madworm/Openbench_logic_sniffer_pull-U_D_wing.git
+  collaborators_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/comments{/number}
+  commits_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/commits{/sha}
+  compare_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/contents/{+path}
+  contributors_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/contributors
+  created_at: '2011-10-02T03:45:16Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/deployments
+  description: 'LAYOUT FILES: Adds convenient pull-up/down resistor selection (10k)
+    for the Openbench logic sniffer plus selectable pull-up voltage (5.0, 3.3, 2.5,
+    ...) for each bank. KICAD and Gerber files.'
+  disabled: false
+  downloads_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/downloads
+  events_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/forks
+  full_name: madworm/Openbench_logic_sniffer_pull-U_D_wing
+  git_commits_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/git/tags{/sha}
+  git_url: git://github.com/madworm/Openbench_logic_sniffer_pull-U_D_wing.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/hooks
+  html_url: https://github.com/madworm/Openbench_logic_sniffer_pull-U_D_wing
+  id: 2497922
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/issues/events{/number}
+  issues_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/issues{/number}
+  keys_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/keys{/key_id}
+  labels_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/labels{/name}
+  language: Prolog
+  languages_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/languages
+  license: null
+  merges_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/merges
+  milestones_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/milestones{/number}
+  mirror_url: null
+  name: Openbench_logic_sniffer_pull-U_D_wing
+  node_id: MDEwOlJlcG9zaXRvcnkyNDk3OTIy
+  notifications_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
+    events_url: https://api.github.com/users/madworm/events{/privacy}
+    followers_url: https://api.github.com/users/madworm/followers
+    following_url: https://api.github.com/users/madworm/following{/other_user}
+    gists_url: https://api.github.com/users/madworm/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/madworm
+    id: 343894
+    login: madworm
+    node_id: MDQ6VXNlcjM0Mzg5NA==
+    organizations_url: https://api.github.com/users/madworm/orgs
+    received_events_url: https://api.github.com/users/madworm/received_events
+    repos_url: https://api.github.com/users/madworm/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/madworm/subscriptions
+    type: User
+    url: https://api.github.com/users/madworm
+  private: false
+  pulls_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/pulls{/number}
+  pushed_at: '2013-01-24T00:16:25Z'
+  releases_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/releases{/id}
+  size: 2044
+  ssh_url: git@github.com:madworm/Openbench_logic_sniffer_pull-U_D_wing.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/stargazers
+  statuses_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/subscribers
+  subscription_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/subscription
+  svn_url: https://github.com/madworm/Openbench_logic_sniffer_pull-U_D_wing
+  tags_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/tags
+  teams_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/teams
+  topics: []
+  trees_url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing/git/trees{/sha}
+  updated_at: '2014-05-16T15:05:25Z'
+  url: https://api.github.com/repos/madworm/Openbench_logic_sniffer_pull-U_D_wing
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

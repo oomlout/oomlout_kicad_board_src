@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/assignees{/user}
-blobs_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/git/blobs{/sha}
-branches_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/branches{/branch}
-clone_url: https://github.com/JoanTheSpark/iC880A-Raspberry-PI.git
-collaborators_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/comments{/number}
-commits_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/commits{/sha}
-compare_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/compare/{base}...{head}
-contents_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/contents/{+path}
-contributors_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/contributors
-created_at: '2017-09-01T04:01:30Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/deployments
-description: Raspberry PI iC880A and LinkLab Lora Gateway Shield
-disabled: false
-downloads_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/downloads
-events_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/forks
-full_name: JoanTheSpark/iC880A-Raspberry-PI
-git_commits_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/git/tags{/sha}
-git_url: git://github.com/JoanTheSpark/iC880A-Raspberry-PI.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/hooks
-html_url: https://github.com/JoanTheSpark/iC880A-Raspberry-PI
-id: 102072468
-is_template: false
-issue_comment_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/issues/events{/number}
-issues_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/issues{/number}
-keys_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/keys{/key_id}
-labels_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/languages
-license: null
-merges_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/merges
-milestones_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/milestones{/number}
-mirror_url: null
-name: iC880A-Raspberry-PI
-node_id: MDEwOlJlcG9zaXRvcnkxMDIwNzI0Njg=
-notifications_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/14078073?v=4
-  events_url: https://api.github.com/users/JoanTheSpark/events{/privacy}
-  followers_url: https://api.github.com/users/JoanTheSpark/followers
-  following_url: https://api.github.com/users/JoanTheSpark/following{/other_user}
-  gists_url: https://api.github.com/users/JoanTheSpark/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/JoanTheSpark
-  id: 14078073
-  login: JoanTheSpark
-  node_id: MDQ6VXNlcjE0MDc4MDcz
-  organizations_url: https://api.github.com/users/JoanTheSpark/orgs
-  received_events_url: https://api.github.com/users/JoanTheSpark/received_events
-  repos_url: https://api.github.com/users/JoanTheSpark/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/JoanTheSpark/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/JoanTheSpark/subscriptions
-  type: User
-  url: https://api.github.com/users/JoanTheSpark
-private: false
+links:
+  github_owner: JoanTheSpark
+  github_repo_name: iC880A-Raspberry-PI
+  github_src: https://github.com/JoanTheSpark/iC880A-Raspberry-PI
+  github_src_repo: https://github.com/JoanTheSpark/iC880A-Raspberry-PI
+  oomp_bot: projects_joanthespark_ic880a_raspberry_pi
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_joanthespark_ic880a_raspberry_pi
+  oomp_doc: projects/projects_flat_joanthespark_ic880a_raspberry_pi/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_joanthespark_ic880a_raspberry_pi
+  oomp_src_flat: projects_flat/projects_flat_joanthespark_ic880a_raspberry_pi
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_joanthespark_ic880a_raspberry_pi
+  oomp_src_folder: projects_flat\joanthespark_ic880a_raspberry_pi\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\joanthespark_ic880a_raspberry_pi\version_current\working
+oomp_key: oomp_projects_flat_joanthespark_ic880a_raspberry_pi
+oomp_key_simple: projects_flat_joanthespark_ic880a_raspberry_pi
 projects_flat: projects_flat/joanthespark_ic880a_raspberry_pi/version_current/working
 projects_folder: projects_folder/JoanTheSpark/iC880A-Raspberry-PI/version_current/working
-pulls_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/pulls{/number}
-pushed_at: '2017-06-25T16:50:38Z'
-releases_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/releases{/id}
-size: 11724
-ssh_url: git@github.com:JoanTheSpark/iC880A-Raspberry-PI.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/stargazers
-statuses_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/statuses/{sha}
-subscribers_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/subscribers
-subscription_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/subscription
-svn_url: https://github.com/JoanTheSpark/iC880A-Raspberry-PI
-tags_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/tags
-teams_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/teams
-topics: []
-trees_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/git/trees{/sha}
-updated_at: '2017-09-01T04:01:32Z'
-url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/assignees{/user}
+  blobs_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/branches{/branch}
+  clone_url: https://github.com/JoanTheSpark/iC880A-Raspberry-PI.git
+  collaborators_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/comments{/number}
+  commits_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/commits{/sha}
+  compare_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/contents/{+path}
+  contributors_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/contributors
+  created_at: '2017-09-01T04:01:30Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/deployments
+  description: Raspberry PI iC880A and LinkLab Lora Gateway Shield
+  disabled: false
+  downloads_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/downloads
+  events_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/forks
+  full_name: JoanTheSpark/iC880A-Raspberry-PI
+  git_commits_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/git/tags{/sha}
+  git_url: git://github.com/JoanTheSpark/iC880A-Raspberry-PI.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/hooks
+  html_url: https://github.com/JoanTheSpark/iC880A-Raspberry-PI
+  id: 102072468
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/issues/events{/number}
+  issues_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/issues{/number}
+  keys_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/keys{/key_id}
+  labels_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/languages
+  license: null
+  merges_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/merges
+  milestones_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/milestones{/number}
+  mirror_url: null
+  name: iC880A-Raspberry-PI
+  node_id: MDEwOlJlcG9zaXRvcnkxMDIwNzI0Njg=
+  notifications_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/14078073?v=4
+    events_url: https://api.github.com/users/JoanTheSpark/events{/privacy}
+    followers_url: https://api.github.com/users/JoanTheSpark/followers
+    following_url: https://api.github.com/users/JoanTheSpark/following{/other_user}
+    gists_url: https://api.github.com/users/JoanTheSpark/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/JoanTheSpark
+    id: 14078073
+    login: JoanTheSpark
+    node_id: MDQ6VXNlcjE0MDc4MDcz
+    organizations_url: https://api.github.com/users/JoanTheSpark/orgs
+    received_events_url: https://api.github.com/users/JoanTheSpark/received_events
+    repos_url: https://api.github.com/users/JoanTheSpark/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/JoanTheSpark/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/JoanTheSpark/subscriptions
+    type: User
+    url: https://api.github.com/users/JoanTheSpark
+  private: false
+  pulls_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/pulls{/number}
+  pushed_at: '2017-06-25T16:50:38Z'
+  releases_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/releases{/id}
+  size: 11724
+  ssh_url: git@github.com:JoanTheSpark/iC880A-Raspberry-PI.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/stargazers
+  statuses_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/subscribers
+  subscription_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/subscription
+  svn_url: https://github.com/JoanTheSpark/iC880A-Raspberry-PI
+  tags_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/tags
+  teams_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/teams
+  topics: []
+  trees_url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI/git/trees{/sha}
+  updated_at: '2017-09-01T04:01:32Z'
+  url: https://api.github.com/repos/JoanTheSpark/iC880A-Raspberry-PI
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

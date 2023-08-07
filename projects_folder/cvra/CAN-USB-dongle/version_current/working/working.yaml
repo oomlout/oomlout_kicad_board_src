@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/cvra/CAN-USB-dongle/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/cvra/CAN-USB-dongle/assignees{/user}
-blobs_url: https://api.github.com/repos/cvra/CAN-USB-dongle/git/blobs{/sha}
-branches_url: https://api.github.com/repos/cvra/CAN-USB-dongle/branches{/branch}
-clone_url: https://github.com/cvra/CAN-USB-dongle.git
-collaborators_url: https://api.github.com/repos/cvra/CAN-USB-dongle/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/cvra/CAN-USB-dongle/comments{/number}
-commits_url: https://api.github.com/repos/cvra/CAN-USB-dongle/commits{/sha}
-compare_url: https://api.github.com/repos/cvra/CAN-USB-dongle/compare/{base}...{head}
-contents_url: https://api.github.com/repos/cvra/CAN-USB-dongle/contents/{+path}
-contributors_url: https://api.github.com/repos/cvra/CAN-USB-dongle/contributors
-created_at: '2015-05-24T21:12:48Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/cvra/CAN-USB-dongle/deployments
-description: CAN bus to USB adapter dongle
-disabled: false
-downloads_url: https://api.github.com/repos/cvra/CAN-USB-dongle/downloads
-events_url: https://api.github.com/repos/cvra/CAN-USB-dongle/events
-fork: false
-forks: 7
-forks_count: 7
-forks_url: https://api.github.com/repos/cvra/CAN-USB-dongle/forks
-full_name: cvra/CAN-USB-dongle
-git_commits_url: https://api.github.com/repos/cvra/CAN-USB-dongle/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/cvra/CAN-USB-dongle/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/cvra/CAN-USB-dongle/git/tags{/sha}
-git_url: git://github.com/cvra/CAN-USB-dongle.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/cvra/CAN-USB-dongle/hooks
-html_url: https://github.com/cvra/CAN-USB-dongle
-id: 36194044
-is_template: false
-issue_comment_url: https://api.github.com/repos/cvra/CAN-USB-dongle/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/cvra/CAN-USB-dongle/issues/events{/number}
-issues_url: https://api.github.com/repos/cvra/CAN-USB-dongle/issues{/number}
-keys_url: https://api.github.com/repos/cvra/CAN-USB-dongle/keys{/key_id}
-labels_url: https://api.github.com/repos/cvra/CAN-USB-dongle/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/cvra/CAN-USB-dongle/languages
-license: null
-merges_url: https://api.github.com/repos/cvra/CAN-USB-dongle/merges
-milestones_url: https://api.github.com/repos/cvra/CAN-USB-dongle/milestones{/number}
-mirror_url: null
-name: CAN-USB-dongle
-node_id: MDEwOlJlcG9zaXRvcnkzNjE5NDA0NA==
-notifications_url: https://api.github.com/repos/cvra/CAN-USB-dongle/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5530328?v=4
-  events_url: https://api.github.com/users/cvra/events{/privacy}
-  followers_url: https://api.github.com/users/cvra/followers
-  following_url: https://api.github.com/users/cvra/following{/other_user}
-  gists_url: https://api.github.com/users/cvra/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/cvra
-  id: 5530328
-  login: cvra
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU1MzAzMjg=
-  organizations_url: https://api.github.com/users/cvra/orgs
-  received_events_url: https://api.github.com/users/cvra/received_events
-  repos_url: https://api.github.com/users/cvra/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/cvra/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/cvra/subscriptions
-  type: Organization
-  url: https://api.github.com/users/cvra
-private: false
+links:
+  github_owner: cvra
+  github_repo_name: CAN-USB-dongle
+  github_src: https://github.com/cvra/CAN-USB-dongle
+  github_src_repo: https://github.com/cvra/CAN-USB-dongle
+  oomp_bot: cvra_can_usb_dongle
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/cvra_can_usb_dongle
+  oomp_doc: projects/cvra_can_usb_dongle/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/cvra_can_usb_dongle
+  oomp_src_flat: projects_flat/cvra_can_usb_dongle
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/cvra_can_usb_dongle
+  oomp_src_folder: projects_folder\cvra\CAN-USB-dongle\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\cvra\CAN-USB-dongle\version_current\working
+oomp_key: oomp_cvra_can_usb_dongle
+oomp_key_simple: cvra_can_usb_dongle
 projects_flat: projects_flat/cvra_can_usb_dongle/version_current/working
 projects_folder: projects_folder/cvra/CAN-USB-dongle/version_current/working
-pulls_url: https://api.github.com/repos/cvra/CAN-USB-dongle/pulls{/number}
-pushed_at: '2023-01-08T16:58:38Z'
-releases_url: https://api.github.com/repos/cvra/CAN-USB-dongle/releases{/id}
-size: 22907
-ssh_url: git@github.com:cvra/CAN-USB-dongle.git
-stargazers_count: 10
-stargazers_url: https://api.github.com/repos/cvra/CAN-USB-dongle/stargazers
-statuses_url: https://api.github.com/repos/cvra/CAN-USB-dongle/statuses/{sha}
-subscribers_url: https://api.github.com/repos/cvra/CAN-USB-dongle/subscribers
-subscription_url: https://api.github.com/repos/cvra/CAN-USB-dongle/subscription
-svn_url: https://github.com/cvra/CAN-USB-dongle
-tags_url: https://api.github.com/repos/cvra/CAN-USB-dongle/tags
-teams_url: https://api.github.com/repos/cvra/CAN-USB-dongle/teams
-topics: []
-trees_url: https://api.github.com/repos/cvra/CAN-USB-dongle/git/trees{/sha}
-updated_at: '2023-05-14T04:12:31Z'
-url: https://api.github.com/repos/cvra/CAN-USB-dongle
-visibility: public
-watchers: 10
-watchers_count: 10
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/cvra/CAN-USB-dongle/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/cvra/CAN-USB-dongle/assignees{/user}
+  blobs_url: https://api.github.com/repos/cvra/CAN-USB-dongle/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/cvra/CAN-USB-dongle/branches{/branch}
+  clone_url: https://github.com/cvra/CAN-USB-dongle.git
+  collaborators_url: https://api.github.com/repos/cvra/CAN-USB-dongle/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/cvra/CAN-USB-dongle/comments{/number}
+  commits_url: https://api.github.com/repos/cvra/CAN-USB-dongle/commits{/sha}
+  compare_url: https://api.github.com/repos/cvra/CAN-USB-dongle/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/cvra/CAN-USB-dongle/contents/{+path}
+  contributors_url: https://api.github.com/repos/cvra/CAN-USB-dongle/contributors
+  created_at: '2015-05-24T21:12:48Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/cvra/CAN-USB-dongle/deployments
+  description: CAN bus to USB adapter dongle
+  disabled: false
+  downloads_url: https://api.github.com/repos/cvra/CAN-USB-dongle/downloads
+  events_url: https://api.github.com/repos/cvra/CAN-USB-dongle/events
+  fork: false
+  forks: 7
+  forks_count: 7
+  forks_url: https://api.github.com/repos/cvra/CAN-USB-dongle/forks
+  full_name: cvra/CAN-USB-dongle
+  git_commits_url: https://api.github.com/repos/cvra/CAN-USB-dongle/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/cvra/CAN-USB-dongle/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/cvra/CAN-USB-dongle/git/tags{/sha}
+  git_url: git://github.com/cvra/CAN-USB-dongle.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/cvra/CAN-USB-dongle/hooks
+  html_url: https://github.com/cvra/CAN-USB-dongle
+  id: 36194044
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/cvra/CAN-USB-dongle/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/cvra/CAN-USB-dongle/issues/events{/number}
+  issues_url: https://api.github.com/repos/cvra/CAN-USB-dongle/issues{/number}
+  keys_url: https://api.github.com/repos/cvra/CAN-USB-dongle/keys{/key_id}
+  labels_url: https://api.github.com/repos/cvra/CAN-USB-dongle/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/cvra/CAN-USB-dongle/languages
+  license: null
+  merges_url: https://api.github.com/repos/cvra/CAN-USB-dongle/merges
+  milestones_url: https://api.github.com/repos/cvra/CAN-USB-dongle/milestones{/number}
+  mirror_url: null
+  name: CAN-USB-dongle
+  node_id: MDEwOlJlcG9zaXRvcnkzNjE5NDA0NA==
+  notifications_url: https://api.github.com/repos/cvra/CAN-USB-dongle/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5530328?v=4
+    events_url: https://api.github.com/users/cvra/events{/privacy}
+    followers_url: https://api.github.com/users/cvra/followers
+    following_url: https://api.github.com/users/cvra/following{/other_user}
+    gists_url: https://api.github.com/users/cvra/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/cvra
+    id: 5530328
+    login: cvra
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU1MzAzMjg=
+    organizations_url: https://api.github.com/users/cvra/orgs
+    received_events_url: https://api.github.com/users/cvra/received_events
+    repos_url: https://api.github.com/users/cvra/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/cvra/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/cvra/subscriptions
+    type: Organization
+    url: https://api.github.com/users/cvra
+  private: false
+  pulls_url: https://api.github.com/repos/cvra/CAN-USB-dongle/pulls{/number}
+  pushed_at: '2023-01-08T16:58:38Z'
+  releases_url: https://api.github.com/repos/cvra/CAN-USB-dongle/releases{/id}
+  size: 22907
+  ssh_url: git@github.com:cvra/CAN-USB-dongle.git
+  stargazers_count: 10
+  stargazers_url: https://api.github.com/repos/cvra/CAN-USB-dongle/stargazers
+  statuses_url: https://api.github.com/repos/cvra/CAN-USB-dongle/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/cvra/CAN-USB-dongle/subscribers
+  subscription_url: https://api.github.com/repos/cvra/CAN-USB-dongle/subscription
+  svn_url: https://github.com/cvra/CAN-USB-dongle
+  tags_url: https://api.github.com/repos/cvra/CAN-USB-dongle/tags
+  teams_url: https://api.github.com/repos/cvra/CAN-USB-dongle/teams
+  topics: []
+  trees_url: https://api.github.com/repos/cvra/CAN-USB-dongle/git/trees{/sha}
+  updated_at: '2023-05-14T04:12:31Z'
+  url: https://api.github.com/repos/cvra/CAN-USB-dongle
+  visibility: public
+  watchers: 10
+  watchers_count: 10
+  web_commit_signoff_required: false

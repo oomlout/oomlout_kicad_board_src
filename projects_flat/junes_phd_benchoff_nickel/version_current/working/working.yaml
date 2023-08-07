@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/assignees{/user}
-blobs_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/branches{/branch}
-clone_url: https://github.com/Junes-PhD/Benchoff-Nickel.git
-collaborators_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/comments{/number}
-commits_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/commits{/sha}
-compare_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/contents/{+path}
-contributors_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/contributors
-created_at: '2017-03-21T04:28:11Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/downloads
-events_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/forks
-full_name: Junes-PhD/Benchoff-Nickel
-git_commits_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/git/tags{/sha}
-git_url: git://github.com/Junes-PhD/Benchoff-Nickel.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/hooks
-html_url: https://github.com/Junes-PhD/Benchoff-Nickel
-id: 85659032
-is_template: false
-issue_comment_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/issues/events{/number}
-issues_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/issues{/number}
-keys_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/keys{/key_id}
-labels_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/languages
-license: null
-merges_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/merges
-milestones_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/milestones{/number}
-mirror_url: null
-name: Benchoff-Nickel
-node_id: MDEwOlJlcG9zaXRvcnk4NTY1OTAzMg==
-notifications_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/7798238?v=4
-  events_url: https://api.github.com/users/Junes-PhD/events{/privacy}
-  followers_url: https://api.github.com/users/Junes-PhD/followers
-  following_url: https://api.github.com/users/Junes-PhD/following{/other_user}
-  gists_url: https://api.github.com/users/Junes-PhD/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Junes-PhD
-  id: 7798238
-  login: Junes-PhD
-  node_id: MDQ6VXNlcjc3OTgyMzg=
-  organizations_url: https://api.github.com/users/Junes-PhD/orgs
-  received_events_url: https://api.github.com/users/Junes-PhD/received_events
-  repos_url: https://api.github.com/users/Junes-PhD/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Junes-PhD/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Junes-PhD/subscriptions
-  type: User
-  url: https://api.github.com/users/Junes-PhD
-private: false
+links:
+  github_owner: Junes-PhD
+  github_repo_name: Benchoff-Nickel
+  github_src: https://github.com/Junes-PhD/Benchoff-Nickel
+  github_src_repo: https://github.com/Junes-PhD/Benchoff-Nickel
+  oomp_bot: projects_junes_phd_benchoff_nickel
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_junes_phd_benchoff_nickel
+  oomp_doc: projects/projects_flat_junes_phd_benchoff_nickel/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_junes_phd_benchoff_nickel
+  oomp_src_flat: projects_flat/projects_flat_junes_phd_benchoff_nickel
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_junes_phd_benchoff_nickel
+  oomp_src_folder: projects_flat\junes_phd_benchoff_nickel\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\junes_phd_benchoff_nickel\version_current\working
+oomp_key: oomp_projects_flat_junes_phd_benchoff_nickel
+oomp_key_simple: projects_flat_junes_phd_benchoff_nickel
 projects_flat: projects_flat/junes_phd_benchoff_nickel/version_current/working
 projects_folder: projects_folder/Junes-PhD/Benchoff-Nickel/version_current/working
-pulls_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/pulls{/number}
-pushed_at: '2017-03-21T04:29:30Z'
-releases_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/releases{/id}
-size: 347
-ssh_url: git@github.com:Junes-PhD/Benchoff-Nickel.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/stargazers
-statuses_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/subscribers
-subscription_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/subscription
-svn_url: https://github.com/Junes-PhD/Benchoff-Nickel
-tags_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/tags
-teams_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/teams
-topics: []
-trees_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/git/trees{/sha}
-updated_at: '2021-04-03T23:08:52Z'
-url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/assignees{/user}
+  blobs_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/branches{/branch}
+  clone_url: https://github.com/Junes-PhD/Benchoff-Nickel.git
+  collaborators_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/comments{/number}
+  commits_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/commits{/sha}
+  compare_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/contents/{+path}
+  contributors_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/contributors
+  created_at: '2017-03-21T04:28:11Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/downloads
+  events_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/forks
+  full_name: Junes-PhD/Benchoff-Nickel
+  git_commits_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/git/tags{/sha}
+  git_url: git://github.com/Junes-PhD/Benchoff-Nickel.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/hooks
+  html_url: https://github.com/Junes-PhD/Benchoff-Nickel
+  id: 85659032
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/issues/events{/number}
+  issues_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/issues{/number}
+  keys_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/keys{/key_id}
+  labels_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/languages
+  license: null
+  merges_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/merges
+  milestones_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/milestones{/number}
+  mirror_url: null
+  name: Benchoff-Nickel
+  node_id: MDEwOlJlcG9zaXRvcnk4NTY1OTAzMg==
+  notifications_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/7798238?v=4
+    events_url: https://api.github.com/users/Junes-PhD/events{/privacy}
+    followers_url: https://api.github.com/users/Junes-PhD/followers
+    following_url: https://api.github.com/users/Junes-PhD/following{/other_user}
+    gists_url: https://api.github.com/users/Junes-PhD/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Junes-PhD
+    id: 7798238
+    login: Junes-PhD
+    node_id: MDQ6VXNlcjc3OTgyMzg=
+    organizations_url: https://api.github.com/users/Junes-PhD/orgs
+    received_events_url: https://api.github.com/users/Junes-PhD/received_events
+    repos_url: https://api.github.com/users/Junes-PhD/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Junes-PhD/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Junes-PhD/subscriptions
+    type: User
+    url: https://api.github.com/users/Junes-PhD
+  private: false
+  pulls_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/pulls{/number}
+  pushed_at: '2017-03-21T04:29:30Z'
+  releases_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/releases{/id}
+  size: 347
+  ssh_url: git@github.com:Junes-PhD/Benchoff-Nickel.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/stargazers
+  statuses_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/subscribers
+  subscription_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/subscription
+  svn_url: https://github.com/Junes-PhD/Benchoff-Nickel
+  tags_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/tags
+  teams_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel/git/trees{/sha}
+  updated_at: '2021-04-03T23:08:52Z'
+  url: https://api.github.com/repos/Junes-PhD/Benchoff-Nickel
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

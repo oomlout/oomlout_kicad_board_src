@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/branches{/branch}
-clone_url: https://github.com/adafruit/NeoPixel-Sticks.git
-collaborators_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/contributors
-created_at: '2013-12-17T17:22:52Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/deployments
-description: PCB files for Adafruit NeoPixel Sticks
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/downloads
-events_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/events
-fork: false
-forks: 12
-forks_count: 12
-forks_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/forks
-full_name: adafruit/NeoPixel-Sticks
-git_commits_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/git/tags{/sha}
-git_url: git://github.com/adafruit/NeoPixel-Sticks.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: http://www.adafruit.com/products/1426
-hooks_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/hooks
-html_url: https://github.com/adafruit/NeoPixel-Sticks
-id: 15261047
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/merges
-milestones_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/milestones{/number}
-mirror_url: null
-name: NeoPixel-Sticks
-node_id: MDEwOlJlcG9zaXRvcnkxNTI2MTA0Nw==
-notifications_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: NeoPixel-Sticks
+  github_src: https://github.com/adafruit/NeoPixel-Sticks
+  github_src_repo: https://github.com/adafruit/NeoPixel-Sticks
+  oomp_bot: projects_adafruit_neopixel_sticks
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_adafruit_neopixel_sticks
+  oomp_doc: projects/projects_flat_adafruit_neopixel_sticks/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_adafruit_neopixel_sticks
+  oomp_src_flat: projects_flat/projects_flat_adafruit_neopixel_sticks
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_adafruit_neopixel_sticks
+  oomp_src_folder: projects_flat\adafruit_neopixel_sticks\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_neopixel_sticks\version_current\working
+oomp_key: oomp_projects_flat_adafruit_neopixel_sticks
+oomp_key_simple: projects_flat_adafruit_neopixel_sticks
 projects_flat: projects_flat/adafruit_neopixel_sticks/version_current/working
 projects_folder: projects_folder/adafruit/NeoPixel-Sticks/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/pulls{/number}
-pushed_at: '2019-06-16T18:36:51Z'
-releases_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/releases{/id}
-size: 386
-ssh_url: git@github.com:adafruit/NeoPixel-Sticks.git
-stargazers_count: 26
-stargazers_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/stargazers
-statuses_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/subscribers
-subscription_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/subscription
-svn_url: https://github.com/adafruit/NeoPixel-Sticks
-tags_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/tags
-teams_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/git/trees{/sha}
-updated_at: '2023-02-15T09:52:04Z'
-url: https://api.github.com/repos/adafruit/NeoPixel-Sticks
-visibility: public
-watchers: 26
-watchers_count: 26
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/branches{/branch}
+  clone_url: https://github.com/adafruit/NeoPixel-Sticks.git
+  collaborators_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/contributors
+  created_at: '2013-12-17T17:22:52Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/deployments
+  description: PCB files for Adafruit NeoPixel Sticks
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/downloads
+  events_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/events
+  fork: false
+  forks: 12
+  forks_count: 12
+  forks_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/forks
+  full_name: adafruit/NeoPixel-Sticks
+  git_commits_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/git/tags{/sha}
+  git_url: git://github.com/adafruit/NeoPixel-Sticks.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: http://www.adafruit.com/products/1426
+  hooks_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/hooks
+  html_url: https://github.com/adafruit/NeoPixel-Sticks
+  id: 15261047
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/merges
+  milestones_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/milestones{/number}
+  mirror_url: null
+  name: NeoPixel-Sticks
+  node_id: MDEwOlJlcG9zaXRvcnkxNTI2MTA0Nw==
+  notifications_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/pulls{/number}
+  pushed_at: '2019-06-16T18:36:51Z'
+  releases_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/releases{/id}
+  size: 386
+  ssh_url: git@github.com:adafruit/NeoPixel-Sticks.git
+  stargazers_count: 26
+  stargazers_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/subscription
+  svn_url: https://github.com/adafruit/NeoPixel-Sticks
+  tags_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/tags
+  teams_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/NeoPixel-Sticks/git/trees{/sha}
+  updated_at: '2023-02-15T09:52:04Z'
+  url: https://api.github.com/repos/adafruit/NeoPixel-Sticks
+  visibility: public
+  watchers: 26
+  watchers_count: 26
+  web_commit_signoff_required: false

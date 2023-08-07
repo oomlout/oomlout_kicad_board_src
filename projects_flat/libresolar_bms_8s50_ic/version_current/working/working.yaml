@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/assignees{/user}
-blobs_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/git/blobs{/sha}
-branches_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/branches{/branch}
-clone_url: https://github.com/LibreSolar/bms-8s50-ic.git
-collaborators_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/comments{/number}
-commits_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/commits{/sha}
-compare_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/compare/{base}...{head}
-contents_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/contents/{+path}
-contributors_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/contributors
-created_at: '2019-08-12T16:43:38Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/deployments
-description: Fully integrated 12V-24V BMS using ISL94202
-disabled: false
-downloads_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/downloads
-events_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/events
-fork: false
-forks: 15
-forks_count: 15
-forks_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/forks
-full_name: LibreSolar/bms-8s50-ic
-git_commits_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/git/tags{/sha}
-git_url: git://github.com/LibreSolar/bms-8s50-ic.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/hooks
-html_url: https://github.com/LibreSolar/bms-8s50-ic
-id: 201970649
-is_template: false
-issue_comment_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/issues/events{/number}
-issues_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/issues{/number}
-keys_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/keys{/key_id}
-labels_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/labels{/name}
-language: KiCad Layout
-languages_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/languages
-license:
-  key: cc-by-sa-4.0
-  name: Creative Commons Attribution Share Alike 4.0 International
-  node_id: MDc6TGljZW5zZTI2
-  spdx_id: CC-BY-SA-4.0
-  url: https://api.github.com/licenses/cc-by-sa-4.0
-merges_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/merges
-milestones_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/milestones{/number}
-mirror_url: null
-name: bms-8s50-ic
-node_id: MDEwOlJlcG9zaXRvcnkyMDE5NzA2NDk=
-notifications_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/notifications{?since,all,participating}
-open_issues: 5
-open_issues_count: 5
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/17674115?v=4
-  events_url: https://api.github.com/users/LibreSolar/events{/privacy}
-  followers_url: https://api.github.com/users/LibreSolar/followers
-  following_url: https://api.github.com/users/LibreSolar/following{/other_user}
-  gists_url: https://api.github.com/users/LibreSolar/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/LibreSolar
-  id: 17674115
-  login: LibreSolar
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE3Njc0MTE1
-  organizations_url: https://api.github.com/users/LibreSolar/orgs
-  received_events_url: https://api.github.com/users/LibreSolar/received_events
-  repos_url: https://api.github.com/users/LibreSolar/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/LibreSolar/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/LibreSolar/subscriptions
-  type: Organization
-  url: https://api.github.com/users/LibreSolar
-private: false
+links:
+  github_owner: LibreSolar
+  github_repo_name: bms-8s50-ic
+  github_src: https://github.com/LibreSolar/bms-8s50-ic
+  github_src_repo: https://github.com/LibreSolar/bms-8s50-ic
+  oomp_bot: projects_libresolar_bms_8s50_ic
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_libresolar_bms_8s50_ic
+  oomp_doc: projects/projects_flat_libresolar_bms_8s50_ic/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_libresolar_bms_8s50_ic
+  oomp_src_flat: projects_flat/projects_flat_libresolar_bms_8s50_ic
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_libresolar_bms_8s50_ic
+  oomp_src_folder: projects_flat\libresolar_bms_8s50_ic\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\libresolar_bms_8s50_ic\version_current\working
+oomp_key: oomp_projects_flat_libresolar_bms_8s50_ic
+oomp_key_simple: projects_flat_libresolar_bms_8s50_ic
 projects_flat: projects_flat/libresolar_bms_8s50_ic/version_current/working
 projects_folder: projects_folder/LibreSolar/bms-8s50-ic/version_current/working
-pulls_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/pulls{/number}
-pushed_at: '2020-06-08T08:45:15Z'
-releases_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/releases{/id}
-size: 1743
-ssh_url: git@github.com:LibreSolar/bms-8s50-ic.git
-stargazers_count: 22
-stargazers_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/stargazers
-statuses_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/statuses/{sha}
-subscribers_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/subscribers
-subscription_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/subscription
-svn_url: https://github.com/LibreSolar/bms-8s50-ic
-tags_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/tags
-teams_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/teams
-topics: []
-trees_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/git/trees{/sha}
-updated_at: '2023-07-25T07:11:22Z'
-url: https://api.github.com/repos/LibreSolar/bms-8s50-ic
-visibility: public
-watchers: 22
-watchers_count: 22
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/assignees{/user}
+  blobs_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/branches{/branch}
+  clone_url: https://github.com/LibreSolar/bms-8s50-ic.git
+  collaborators_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/comments{/number}
+  commits_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/commits{/sha}
+  compare_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/contents/{+path}
+  contributors_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/contributors
+  created_at: '2019-08-12T16:43:38Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/deployments
+  description: Fully integrated 12V-24V BMS using ISL94202
+  disabled: false
+  downloads_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/downloads
+  events_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/events
+  fork: false
+  forks: 15
+  forks_count: 15
+  forks_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/forks
+  full_name: LibreSolar/bms-8s50-ic
+  git_commits_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/git/tags{/sha}
+  git_url: git://github.com/LibreSolar/bms-8s50-ic.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/hooks
+  html_url: https://github.com/LibreSolar/bms-8s50-ic
+  id: 201970649
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/issues/events{/number}
+  issues_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/issues{/number}
+  keys_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/keys{/key_id}
+  labels_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/labels{/name}
+  language: KiCad Layout
+  languages_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/languages
+  license:
+    key: cc-by-sa-4.0
+    name: Creative Commons Attribution Share Alike 4.0 International
+    node_id: MDc6TGljZW5zZTI2
+    spdx_id: CC-BY-SA-4.0
+    url: https://api.github.com/licenses/cc-by-sa-4.0
+  merges_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/merges
+  milestones_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/milestones{/number}
+  mirror_url: null
+  name: bms-8s50-ic
+  node_id: MDEwOlJlcG9zaXRvcnkyMDE5NzA2NDk=
+  notifications_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/notifications{?since,all,participating}
+  open_issues: 5
+  open_issues_count: 5
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/17674115?v=4
+    events_url: https://api.github.com/users/LibreSolar/events{/privacy}
+    followers_url: https://api.github.com/users/LibreSolar/followers
+    following_url: https://api.github.com/users/LibreSolar/following{/other_user}
+    gists_url: https://api.github.com/users/LibreSolar/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/LibreSolar
+    id: 17674115
+    login: LibreSolar
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE3Njc0MTE1
+    organizations_url: https://api.github.com/users/LibreSolar/orgs
+    received_events_url: https://api.github.com/users/LibreSolar/received_events
+    repos_url: https://api.github.com/users/LibreSolar/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/LibreSolar/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/LibreSolar/subscriptions
+    type: Organization
+    url: https://api.github.com/users/LibreSolar
+  private: false
+  pulls_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/pulls{/number}
+  pushed_at: '2020-06-08T08:45:15Z'
+  releases_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/releases{/id}
+  size: 1743
+  ssh_url: git@github.com:LibreSolar/bms-8s50-ic.git
+  stargazers_count: 22
+  stargazers_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/stargazers
+  statuses_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/subscribers
+  subscription_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/subscription
+  svn_url: https://github.com/LibreSolar/bms-8s50-ic
+  tags_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/tags
+  teams_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/teams
+  topics: []
+  trees_url: https://api.github.com/repos/LibreSolar/bms-8s50-ic/git/trees{/sha}
+  updated_at: '2023-07-25T07:11:22Z'
+  url: https://api.github.com/repos/LibreSolar/bms-8s50-ic
+  visibility: public
+  watchers: 22
+  watchers_count: 22
+  web_commit_signoff_required: false

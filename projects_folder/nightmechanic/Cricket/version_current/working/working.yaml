@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/nightmechanic/Cricket/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/nightmechanic/Cricket/assignees{/user}
-blobs_url: https://api.github.com/repos/nightmechanic/Cricket/git/blobs{/sha}
-branches_url: https://api.github.com/repos/nightmechanic/Cricket/branches{/branch}
-clone_url: https://github.com/nightmechanic/Cricket.git
-collaborators_url: https://api.github.com/repos/nightmechanic/Cricket/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/nightmechanic/Cricket/comments{/number}
-commits_url: https://api.github.com/repos/nightmechanic/Cricket/commits{/sha}
-compare_url: https://api.github.com/repos/nightmechanic/Cricket/compare/{base}...{head}
-contents_url: https://api.github.com/repos/nightmechanic/Cricket/contents/{+path}
-contributors_url: https://api.github.com/repos/nightmechanic/Cricket/contributors
-created_at: '2016-08-28T10:24:01Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/nightmechanic/Cricket/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/nightmechanic/Cricket/downloads
-events_url: https://api.github.com/repos/nightmechanic/Cricket/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/nightmechanic/Cricket/forks
-full_name: nightmechanic/Cricket
-git_commits_url: https://api.github.com/repos/nightmechanic/Cricket/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/nightmechanic/Cricket/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/nightmechanic/Cricket/git/tags{/sha}
-git_url: git://github.com/nightmechanic/Cricket.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/nightmechanic/Cricket/hooks
-html_url: https://github.com/nightmechanic/Cricket
-id: 66762217
-is_template: false
-issue_comment_url: https://api.github.com/repos/nightmechanic/Cricket/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/nightmechanic/Cricket/issues/events{/number}
-issues_url: https://api.github.com/repos/nightmechanic/Cricket/issues{/number}
-keys_url: https://api.github.com/repos/nightmechanic/Cricket/keys{/key_id}
-labels_url: https://api.github.com/repos/nightmechanic/Cricket/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/nightmechanic/Cricket/languages
-license: null
-merges_url: https://api.github.com/repos/nightmechanic/Cricket/merges
-milestones_url: https://api.github.com/repos/nightmechanic/Cricket/milestones{/number}
-mirror_url: null
-name: Cricket
-node_id: MDEwOlJlcG9zaXRvcnk2Njc2MjIxNw==
-notifications_url: https://api.github.com/repos/nightmechanic/Cricket/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1254429?v=4
-  events_url: https://api.github.com/users/nightmechanic/events{/privacy}
-  followers_url: https://api.github.com/users/nightmechanic/followers
-  following_url: https://api.github.com/users/nightmechanic/following{/other_user}
-  gists_url: https://api.github.com/users/nightmechanic/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/nightmechanic
-  id: 1254429
-  login: nightmechanic
-  node_id: MDQ6VXNlcjEyNTQ0Mjk=
-  organizations_url: https://api.github.com/users/nightmechanic/orgs
-  received_events_url: https://api.github.com/users/nightmechanic/received_events
-  repos_url: https://api.github.com/users/nightmechanic/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/nightmechanic/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/nightmechanic/subscriptions
-  type: User
-  url: https://api.github.com/users/nightmechanic
-private: false
+links:
+  github_owner: nightmechanic
+  github_repo_name: Cricket
+  github_src: https://github.com/nightmechanic/Cricket
+  github_src_repo: https://github.com/nightmechanic/Cricket
+  oomp_bot: nightmechanic_cricket
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/nightmechanic_cricket
+  oomp_doc: projects/nightmechanic_cricket/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/nightmechanic_cricket
+  oomp_src_flat: projects_flat/nightmechanic_cricket
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/nightmechanic_cricket
+  oomp_src_folder: projects_folder\nightmechanic\Cricket\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\nightmechanic\Cricket\version_current\working
+oomp_key: oomp_nightmechanic_cricket
+oomp_key_simple: nightmechanic_cricket
 projects_flat: projects_flat/nightmechanic_cricket/version_current/working
 projects_folder: projects_folder/nightmechanic/Cricket/version_current/working
-pulls_url: https://api.github.com/repos/nightmechanic/Cricket/pulls{/number}
-pushed_at: '2017-01-02T21:05:57Z'
-releases_url: https://api.github.com/repos/nightmechanic/Cricket/releases{/id}
-size: 63
-ssh_url: git@github.com:nightmechanic/Cricket.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/nightmechanic/Cricket/stargazers
-statuses_url: https://api.github.com/repos/nightmechanic/Cricket/statuses/{sha}
-subscribers_url: https://api.github.com/repos/nightmechanic/Cricket/subscribers
-subscription_url: https://api.github.com/repos/nightmechanic/Cricket/subscription
-svn_url: https://github.com/nightmechanic/Cricket
-tags_url: https://api.github.com/repos/nightmechanic/Cricket/tags
-teams_url: https://api.github.com/repos/nightmechanic/Cricket/teams
-topics: []
-trees_url: https://api.github.com/repos/nightmechanic/Cricket/git/trees{/sha}
-updated_at: '2016-09-05T00:03:10Z'
-url: https://api.github.com/repos/nightmechanic/Cricket
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/nightmechanic/Cricket/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/nightmechanic/Cricket/assignees{/user}
+  blobs_url: https://api.github.com/repos/nightmechanic/Cricket/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/nightmechanic/Cricket/branches{/branch}
+  clone_url: https://github.com/nightmechanic/Cricket.git
+  collaborators_url: https://api.github.com/repos/nightmechanic/Cricket/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/nightmechanic/Cricket/comments{/number}
+  commits_url: https://api.github.com/repos/nightmechanic/Cricket/commits{/sha}
+  compare_url: https://api.github.com/repos/nightmechanic/Cricket/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/nightmechanic/Cricket/contents/{+path}
+  contributors_url: https://api.github.com/repos/nightmechanic/Cricket/contributors
+  created_at: '2016-08-28T10:24:01Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/nightmechanic/Cricket/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/nightmechanic/Cricket/downloads
+  events_url: https://api.github.com/repos/nightmechanic/Cricket/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/nightmechanic/Cricket/forks
+  full_name: nightmechanic/Cricket
+  git_commits_url: https://api.github.com/repos/nightmechanic/Cricket/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/nightmechanic/Cricket/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/nightmechanic/Cricket/git/tags{/sha}
+  git_url: git://github.com/nightmechanic/Cricket.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/nightmechanic/Cricket/hooks
+  html_url: https://github.com/nightmechanic/Cricket
+  id: 66762217
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/nightmechanic/Cricket/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/nightmechanic/Cricket/issues/events{/number}
+  issues_url: https://api.github.com/repos/nightmechanic/Cricket/issues{/number}
+  keys_url: https://api.github.com/repos/nightmechanic/Cricket/keys{/key_id}
+  labels_url: https://api.github.com/repos/nightmechanic/Cricket/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/nightmechanic/Cricket/languages
+  license: null
+  merges_url: https://api.github.com/repos/nightmechanic/Cricket/merges
+  milestones_url: https://api.github.com/repos/nightmechanic/Cricket/milestones{/number}
+  mirror_url: null
+  name: Cricket
+  node_id: MDEwOlJlcG9zaXRvcnk2Njc2MjIxNw==
+  notifications_url: https://api.github.com/repos/nightmechanic/Cricket/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1254429?v=4
+    events_url: https://api.github.com/users/nightmechanic/events{/privacy}
+    followers_url: https://api.github.com/users/nightmechanic/followers
+    following_url: https://api.github.com/users/nightmechanic/following{/other_user}
+    gists_url: https://api.github.com/users/nightmechanic/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/nightmechanic
+    id: 1254429
+    login: nightmechanic
+    node_id: MDQ6VXNlcjEyNTQ0Mjk=
+    organizations_url: https://api.github.com/users/nightmechanic/orgs
+    received_events_url: https://api.github.com/users/nightmechanic/received_events
+    repos_url: https://api.github.com/users/nightmechanic/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/nightmechanic/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/nightmechanic/subscriptions
+    type: User
+    url: https://api.github.com/users/nightmechanic
+  private: false
+  pulls_url: https://api.github.com/repos/nightmechanic/Cricket/pulls{/number}
+  pushed_at: '2017-01-02T21:05:57Z'
+  releases_url: https://api.github.com/repos/nightmechanic/Cricket/releases{/id}
+  size: 63
+  ssh_url: git@github.com:nightmechanic/Cricket.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/nightmechanic/Cricket/stargazers
+  statuses_url: https://api.github.com/repos/nightmechanic/Cricket/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/nightmechanic/Cricket/subscribers
+  subscription_url: https://api.github.com/repos/nightmechanic/Cricket/subscription
+  svn_url: https://github.com/nightmechanic/Cricket
+  tags_url: https://api.github.com/repos/nightmechanic/Cricket/tags
+  teams_url: https://api.github.com/repos/nightmechanic/Cricket/teams
+  topics: []
+  trees_url: https://api.github.com/repos/nightmechanic/Cricket/git/trees{/sha}
+  updated_at: '2016-09-05T00:03:10Z'
+  url: https://api.github.com/repos/nightmechanic/Cricket
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Speed_Trap/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Speed_Trap/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Speed_Trap/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Speed_Trap/branches{/branch}
-clone_url: https://github.com/sparkfun/Speed_Trap.git
-collaborators_url: https://api.github.com/repos/sparkfun/Speed_Trap/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Speed_Trap/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Speed_Trap/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Speed_Trap/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Speed_Trap/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Speed_Trap/contributors
-created_at: '2015-06-17T19:13:49Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Speed_Trap/deployments
-description: Use a LIDAR to display the speed of people walking by
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Speed_Trap/downloads
-events_url: https://api.github.com/repos/sparkfun/Speed_Trap/events
 file_sch_flat_folder: projects_flat_folder/sparkfun_speed_trap/version_current/working/working.sch
 file_sch_folder: projects_folder/sparkfun/Speed_Trap/version_current/working/working.sch
-fork: false
-forks: 8
-forks_count: 8
-forks_url: https://api.github.com/repos/sparkfun/Speed_Trap/forks
-full_name: sparkfun/Speed_Trap
-git_commits_url: https://api.github.com/repos/sparkfun/Speed_Trap/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Speed_Trap/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Speed_Trap/git/tags{/sha}
-git_url: git://github.com/sparkfun/Speed_Trap.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/Speed_Trap/hooks
-html_url: https://github.com/sparkfun/Speed_Trap
-id: 37615505
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Speed_Trap/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Speed_Trap/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Speed_Trap/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Speed_Trap/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Speed_Trap/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/sparkfun/Speed_Trap/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/Speed_Trap/merges
-milestones_url: https://api.github.com/repos/sparkfun/Speed_Trap/milestones{/number}
-mirror_url: null
-name: Speed_Trap
-node_id: MDEwOlJlcG9zaXRvcnkzNzYxNTUwNQ==
-notifications_url: https://api.github.com/repos/sparkfun/Speed_Trap/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Speed_Trap
+  github_src: https://github.com/sparkfun/Speed_Trap
+  github_src_repo: https://github.com/sparkfun/Speed_Trap
+  oomp_bot: projects_sparkfun_speed_trap
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_speed_trap
+  oomp_doc: projects/projects_flat_sparkfun_speed_trap/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_speed_trap
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_speed_trap
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_speed_trap
+  oomp_src_folder: projects_flat\sparkfun_speed_trap\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_speed_trap\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_speed_trap
+oomp_key_simple: projects_flat_sparkfun_speed_trap
+projects_flat: projects_flat/sparkfun_speed_trap/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_speed_trap/version_current/working
 projects_folder: projects_folder/sparkfun/Speed_Trap/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Speed_Trap/pulls{/number}
-pushed_at: '2022-07-02T19:31:22Z'
-releases_url: https://api.github.com/repos/sparkfun/Speed_Trap/releases{/id}
-size: 4318
-ssh_url: git@github.com:sparkfun/Speed_Trap.git
-stargazers_count: 22
-stargazers_url: https://api.github.com/repos/sparkfun/Speed_Trap/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Speed_Trap/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Speed_Trap/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Speed_Trap/subscription
-svn_url: https://github.com/sparkfun/Speed_Trap
-tags_url: https://api.github.com/repos/sparkfun/Speed_Trap/tags
-teams_url: https://api.github.com/repos/sparkfun/Speed_Trap/teams
-topics:
-- lidar
-- sparkfun
-- sparkfun-projects
-trees_url: https://api.github.com/repos/sparkfun/Speed_Trap/git/trees{/sha}
-updated_at: '2023-07-07T20:37:25Z'
-url: https://api.github.com/repos/sparkfun/Speed_Trap
-visibility: public
-watchers: 22
-watchers_count: 22
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Speed_Trap/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Speed_Trap/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Speed_Trap/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Speed_Trap/branches{/branch}
+  clone_url: https://github.com/sparkfun/Speed_Trap.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Speed_Trap/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Speed_Trap/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Speed_Trap/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Speed_Trap/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Speed_Trap/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Speed_Trap/contributors
+  created_at: '2015-06-17T19:13:49Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Speed_Trap/deployments
+  description: Use a LIDAR to display the speed of people walking by
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Speed_Trap/downloads
+  events_url: https://api.github.com/repos/sparkfun/Speed_Trap/events
+  fork: false
+  forks: 8
+  forks_count: 8
+  forks_url: https://api.github.com/repos/sparkfun/Speed_Trap/forks
+  full_name: sparkfun/Speed_Trap
+  git_commits_url: https://api.github.com/repos/sparkfun/Speed_Trap/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Speed_Trap/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Speed_Trap/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Speed_Trap.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/Speed_Trap/hooks
+  html_url: https://github.com/sparkfun/Speed_Trap
+  id: 37615505
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Speed_Trap/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Speed_Trap/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Speed_Trap/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Speed_Trap/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Speed_Trap/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/sparkfun/Speed_Trap/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/Speed_Trap/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Speed_Trap/milestones{/number}
+  mirror_url: null
+  name: Speed_Trap
+  node_id: MDEwOlJlcG9zaXRvcnkzNzYxNTUwNQ==
+  notifications_url: https://api.github.com/repos/sparkfun/Speed_Trap/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Speed_Trap/pulls{/number}
+  pushed_at: '2022-07-02T19:31:22Z'
+  releases_url: https://api.github.com/repos/sparkfun/Speed_Trap/releases{/id}
+  size: 4318
+  ssh_url: git@github.com:sparkfun/Speed_Trap.git
+  stargazers_count: 22
+  stargazers_url: https://api.github.com/repos/sparkfun/Speed_Trap/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Speed_Trap/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Speed_Trap/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Speed_Trap/subscription
+  svn_url: https://github.com/sparkfun/Speed_Trap
+  tags_url: https://api.github.com/repos/sparkfun/Speed_Trap/tags
+  teams_url: https://api.github.com/repos/sparkfun/Speed_Trap/teams
+  topics:
+  - lidar
+  - sparkfun
+  - sparkfun-projects
+  trees_url: https://api.github.com/repos/sparkfun/Speed_Trap/git/trees{/sha}
+  updated_at: '2023-07-07T20:37:25Z'
+  url: https://api.github.com/repos/sparkfun/Speed_Trap
+  visibility: public
+  watchers: 22
+  watchers_count: 22
+  web_commit_signoff_required: false

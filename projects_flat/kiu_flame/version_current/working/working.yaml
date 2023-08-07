@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/kiu/flame/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/kiu/flame/assignees{/user}
-blobs_url: https://api.github.com/repos/kiu/flame/git/blobs{/sha}
-branches_url: https://api.github.com/repos/kiu/flame/branches{/branch}
-clone_url: https://github.com/kiu/flame.git
-collaborators_url: https://api.github.com/repos/kiu/flame/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/kiu/flame/comments{/number}
-commits_url: https://api.github.com/repos/kiu/flame/commits{/sha}
-compare_url: https://api.github.com/repos/kiu/flame/compare/{base}...{head}
-contents_url: https://api.github.com/repos/kiu/flame/contents/{+path}
-contributors_url: https://api.github.com/repos/kiu/flame/contributors
-created_at: '2011-07-03T17:36:59Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/kiu/flame/deployments
-description: r0ket flame m0dul
-disabled: false
-downloads_url: https://api.github.com/repos/kiu/flame/downloads
-events_url: https://api.github.com/repos/kiu/flame/events
 file_sch_flat: projects_flat/kiu_flame/version_current/working/working.sch
 file_sch_folder: projects_folder/kiu/flame/version_current/working/working.sch
-fork: false
-forks: 5
-forks_count: 5
-forks_url: https://api.github.com/repos/kiu/flame/forks
-full_name: kiu/flame
-git_commits_url: https://api.github.com/repos/kiu/flame/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/kiu/flame/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/kiu/flame/git/tags{/sha}
-git_url: git://github.com/kiu/flame.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: false
-has_wiki: false
-homepage: http://www.schoar.de/tinkering/flame/
-hooks_url: https://api.github.com/repos/kiu/flame/hooks
-html_url: https://github.com/kiu/flame
-id: 1991849
-is_template: false
-issue_comment_url: https://api.github.com/repos/kiu/flame/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/kiu/flame/issues/events{/number}
-issues_url: https://api.github.com/repos/kiu/flame/issues{/number}
-keys_url: https://api.github.com/repos/kiu/flame/keys{/key_id}
-labels_url: https://api.github.com/repos/kiu/flame/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/kiu/flame/languages
-license: null
-merges_url: https://api.github.com/repos/kiu/flame/merges
-milestones_url: https://api.github.com/repos/kiu/flame/milestones{/number}
-mirror_url: null
-name: flame
-node_id: MDEwOlJlcG9zaXRvcnkxOTkxODQ5
-notifications_url: https://api.github.com/repos/kiu/flame/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/785968?v=4
-  events_url: https://api.github.com/users/kiu/events{/privacy}
-  followers_url: https://api.github.com/users/kiu/followers
-  following_url: https://api.github.com/users/kiu/following{/other_user}
-  gists_url: https://api.github.com/users/kiu/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/kiu
-  id: 785968
-  login: kiu
-  node_id: MDQ6VXNlcjc4NTk2OA==
-  organizations_url: https://api.github.com/users/kiu/orgs
-  received_events_url: https://api.github.com/users/kiu/received_events
-  repos_url: https://api.github.com/users/kiu/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/kiu/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/kiu/subscriptions
-  type: User
-  url: https://api.github.com/users/kiu
-private: false
+links:
+  github_owner: kiu
+  github_repo_name: flame
+  github_src: https://github.com/kiu/flame
+  github_src_repo: https://github.com/kiu/flame
+  oomp_bot: projects_kiu_flame
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_kiu_flame
+  oomp_doc: projects/projects_flat_kiu_flame/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_kiu_flame
+  oomp_src_flat: projects_flat/projects_flat_kiu_flame
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_kiu_flame
+  oomp_src_folder: projects_flat\kiu_flame\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\kiu_flame\version_current\working
+oomp_key: oomp_projects_flat_kiu_flame
+oomp_key_simple: projects_flat_kiu_flame
 projects_flat: projects_flat/kiu_flame/version_current/working
 projects_folder: projects_folder/kiu/flame/version_current/working
-pulls_url: https://api.github.com/repos/kiu/flame/pulls{/number}
-pushed_at: '2011-07-31T20:12:59Z'
-releases_url: https://api.github.com/repos/kiu/flame/releases{/id}
-size: 2106
-ssh_url: git@github.com:kiu/flame.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/kiu/flame/stargazers
-statuses_url: https://api.github.com/repos/kiu/flame/statuses/{sha}
-subscribers_url: https://api.github.com/repos/kiu/flame/subscribers
-subscription_url: https://api.github.com/repos/kiu/flame/subscription
-svn_url: https://github.com/kiu/flame
-tags_url: https://api.github.com/repos/kiu/flame/tags
-teams_url: https://api.github.com/repos/kiu/flame/teams
-topics: []
-trees_url: https://api.github.com/repos/kiu/flame/git/trees{/sha}
-updated_at: '2021-06-05T21:23:48Z'
-url: https://api.github.com/repos/kiu/flame
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/kiu/flame/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/kiu/flame/assignees{/user}
+  blobs_url: https://api.github.com/repos/kiu/flame/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/kiu/flame/branches{/branch}
+  clone_url: https://github.com/kiu/flame.git
+  collaborators_url: https://api.github.com/repos/kiu/flame/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/kiu/flame/comments{/number}
+  commits_url: https://api.github.com/repos/kiu/flame/commits{/sha}
+  compare_url: https://api.github.com/repos/kiu/flame/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/kiu/flame/contents/{+path}
+  contributors_url: https://api.github.com/repos/kiu/flame/contributors
+  created_at: '2011-07-03T17:36:59Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/kiu/flame/deployments
+  description: r0ket flame m0dul
+  disabled: false
+  downloads_url: https://api.github.com/repos/kiu/flame/downloads
+  events_url: https://api.github.com/repos/kiu/flame/events
+  fork: false
+  forks: 5
+  forks_count: 5
+  forks_url: https://api.github.com/repos/kiu/flame/forks
+  full_name: kiu/flame
+  git_commits_url: https://api.github.com/repos/kiu/flame/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/kiu/flame/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/kiu/flame/git/tags{/sha}
+  git_url: git://github.com/kiu/flame.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: false
+  has_wiki: false
+  homepage: http://www.schoar.de/tinkering/flame/
+  hooks_url: https://api.github.com/repos/kiu/flame/hooks
+  html_url: https://github.com/kiu/flame
+  id: 1991849
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/kiu/flame/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/kiu/flame/issues/events{/number}
+  issues_url: https://api.github.com/repos/kiu/flame/issues{/number}
+  keys_url: https://api.github.com/repos/kiu/flame/keys{/key_id}
+  labels_url: https://api.github.com/repos/kiu/flame/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/kiu/flame/languages
+  license: null
+  merges_url: https://api.github.com/repos/kiu/flame/merges
+  milestones_url: https://api.github.com/repos/kiu/flame/milestones{/number}
+  mirror_url: null
+  name: flame
+  node_id: MDEwOlJlcG9zaXRvcnkxOTkxODQ5
+  notifications_url: https://api.github.com/repos/kiu/flame/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/785968?v=4
+    events_url: https://api.github.com/users/kiu/events{/privacy}
+    followers_url: https://api.github.com/users/kiu/followers
+    following_url: https://api.github.com/users/kiu/following{/other_user}
+    gists_url: https://api.github.com/users/kiu/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/kiu
+    id: 785968
+    login: kiu
+    node_id: MDQ6VXNlcjc4NTk2OA==
+    organizations_url: https://api.github.com/users/kiu/orgs
+    received_events_url: https://api.github.com/users/kiu/received_events
+    repos_url: https://api.github.com/users/kiu/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/kiu/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/kiu/subscriptions
+    type: User
+    url: https://api.github.com/users/kiu
+  private: false
+  pulls_url: https://api.github.com/repos/kiu/flame/pulls{/number}
+  pushed_at: '2011-07-31T20:12:59Z'
+  releases_url: https://api.github.com/repos/kiu/flame/releases{/id}
+  size: 2106
+  ssh_url: git@github.com:kiu/flame.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/kiu/flame/stargazers
+  statuses_url: https://api.github.com/repos/kiu/flame/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/kiu/flame/subscribers
+  subscription_url: https://api.github.com/repos/kiu/flame/subscription
+  svn_url: https://github.com/kiu/flame
+  tags_url: https://api.github.com/repos/kiu/flame/tags
+  teams_url: https://api.github.com/repos/kiu/flame/teams
+  topics: []
+  trees_url: https://api.github.com/repos/kiu/flame/git/trees{/sha}
+  updated_at: '2021-06-05T21:23:48Z'
+  url: https://api.github.com/repos/kiu/flame
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

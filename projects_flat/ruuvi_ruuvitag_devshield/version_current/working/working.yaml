@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/assignees{/user}
-blobs_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/branches{/branch}
-clone_url: https://github.com/ruuvi/ruuvitag-devshield.git
-collaborators_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/comments{/number}
-commits_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/commits{/sha}
-compare_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/contents/{+path}
-contributors_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/contributors
-created_at: '2017-02-13T13:12:45Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/deployments
-description: DevShield related hardware design files
-disabled: false
-downloads_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/downloads
-events_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/forks
-full_name: ruuvi/ruuvitag-devshield
-git_commits_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/git/tags{/sha}
-git_url: git://github.com/ruuvi/ruuvitag-devshield.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/hooks
-html_url: https://github.com/ruuvi/ruuvitag-devshield
-id: 81826617
-is_template: false
-issue_comment_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/issues/events{/number}
-issues_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/issues{/number}
-keys_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/keys{/key_id}
-labels_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/languages
-license: null
-merges_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/merges
-milestones_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/milestones{/number}
-mirror_url: null
-name: ruuvitag-devshield
-node_id: MDEwOlJlcG9zaXRvcnk4MTgyNjYxNw==
-notifications_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/12087190?v=4
-  events_url: https://api.github.com/users/ruuvi/events{/privacy}
-  followers_url: https://api.github.com/users/ruuvi/followers
-  following_url: https://api.github.com/users/ruuvi/following{/other_user}
-  gists_url: https://api.github.com/users/ruuvi/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ruuvi
-  id: 12087190
-  login: ruuvi
-  node_id: MDEyOk9yZ2FuaXphdGlvbjEyMDg3MTkw
-  organizations_url: https://api.github.com/users/ruuvi/orgs
-  received_events_url: https://api.github.com/users/ruuvi/received_events
-  repos_url: https://api.github.com/users/ruuvi/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ruuvi/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ruuvi/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ruuvi
-private: false
+links:
+  github_owner: ruuvi
+  github_repo_name: ruuvitag-devshield
+  github_src: https://github.com/ruuvi/ruuvitag-devshield
+  github_src_repo: https://github.com/ruuvi/ruuvitag-devshield
+  oomp_bot: projects_ruuvi_ruuvitag_devshield
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_ruuvi_ruuvitag_devshield
+  oomp_doc: projects/projects_flat_ruuvi_ruuvitag_devshield/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_ruuvi_ruuvitag_devshield
+  oomp_src_flat: projects_flat/projects_flat_ruuvi_ruuvitag_devshield
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_ruuvi_ruuvitag_devshield
+  oomp_src_folder: projects_flat\ruuvi_ruuvitag_devshield\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ruuvi_ruuvitag_devshield\version_current\working
+oomp_key: oomp_projects_flat_ruuvi_ruuvitag_devshield
+oomp_key_simple: projects_flat_ruuvi_ruuvitag_devshield
 projects_flat: projects_flat/ruuvi_ruuvitag_devshield/version_current/working
 projects_folder: projects_folder/ruuvi/ruuvitag-devshield/version_current/working
-pulls_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/pulls{/number}
-pushed_at: '2017-02-15T03:14:48Z'
-releases_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/releases{/id}
-size: 300
-ssh_url: git@github.com:ruuvi/ruuvitag-devshield.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/stargazers
-statuses_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/subscribers
-subscription_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/subscription
-svn_url: https://github.com/ruuvi/ruuvitag-devshield
-tags_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/tags
-teams_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/teams
-topics: []
-trees_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/git/trees{/sha}
-updated_at: '2017-02-16T05:44:21Z'
-url: https://api.github.com/repos/ruuvi/ruuvitag-devshield
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/assignees{/user}
+  blobs_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/branches{/branch}
+  clone_url: https://github.com/ruuvi/ruuvitag-devshield.git
+  collaborators_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/comments{/number}
+  commits_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/commits{/sha}
+  compare_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/contents/{+path}
+  contributors_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/contributors
+  created_at: '2017-02-13T13:12:45Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/deployments
+  description: DevShield related hardware design files
+  disabled: false
+  downloads_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/downloads
+  events_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/forks
+  full_name: ruuvi/ruuvitag-devshield
+  git_commits_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/git/tags{/sha}
+  git_url: git://github.com/ruuvi/ruuvitag-devshield.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/hooks
+  html_url: https://github.com/ruuvi/ruuvitag-devshield
+  id: 81826617
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/issues/events{/number}
+  issues_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/issues{/number}
+  keys_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/keys{/key_id}
+  labels_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/languages
+  license: null
+  merges_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/merges
+  milestones_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/milestones{/number}
+  mirror_url: null
+  name: ruuvitag-devshield
+  node_id: MDEwOlJlcG9zaXRvcnk4MTgyNjYxNw==
+  notifications_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/12087190?v=4
+    events_url: https://api.github.com/users/ruuvi/events{/privacy}
+    followers_url: https://api.github.com/users/ruuvi/followers
+    following_url: https://api.github.com/users/ruuvi/following{/other_user}
+    gists_url: https://api.github.com/users/ruuvi/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ruuvi
+    id: 12087190
+    login: ruuvi
+    node_id: MDEyOk9yZ2FuaXphdGlvbjEyMDg3MTkw
+    organizations_url: https://api.github.com/users/ruuvi/orgs
+    received_events_url: https://api.github.com/users/ruuvi/received_events
+    repos_url: https://api.github.com/users/ruuvi/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ruuvi/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ruuvi/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ruuvi
+  private: false
+  pulls_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/pulls{/number}
+  pushed_at: '2017-02-15T03:14:48Z'
+  releases_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/releases{/id}
+  size: 300
+  ssh_url: git@github.com:ruuvi/ruuvitag-devshield.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/stargazers
+  statuses_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/subscribers
+  subscription_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/subscription
+  svn_url: https://github.com/ruuvi/ruuvitag-devshield
+  tags_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/tags
+  teams_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ruuvi/ruuvitag-devshield/git/trees{/sha}
+  updated_at: '2017-02-16T05:44:21Z'
+  url: https://api.github.com/repos/ruuvi/ruuvitag-devshield
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

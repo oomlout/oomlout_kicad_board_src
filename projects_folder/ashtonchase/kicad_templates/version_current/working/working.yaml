@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ashtonchase/kicad_templates/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ashtonchase/kicad_templates/assignees{/user}
-blobs_url: https://api.github.com/repos/ashtonchase/kicad_templates/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ashtonchase/kicad_templates/branches{/branch}
-clone_url: https://github.com/ashtonchase/kicad_templates.git
-collaborators_url: https://api.github.com/repos/ashtonchase/kicad_templates/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ashtonchase/kicad_templates/comments{/number}
-commits_url: https://api.github.com/repos/ashtonchase/kicad_templates/commits{/sha}
-compare_url: https://api.github.com/repos/ashtonchase/kicad_templates/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ashtonchase/kicad_templates/contents/{+path}
-contributors_url: https://api.github.com/repos/ashtonchase/kicad_templates/contributors
-created_at: '2016-05-08T04:20:22Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ashtonchase/kicad_templates/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/ashtonchase/kicad_templates/downloads
-events_url: https://api.github.com/repos/ashtonchase/kicad_templates/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ashtonchase/kicad_templates/forks
-full_name: ashtonchase/kicad_templates
-git_commits_url: https://api.github.com/repos/ashtonchase/kicad_templates/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ashtonchase/kicad_templates/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ashtonchase/kicad_templates/git/tags{/sha}
-git_url: git://github.com/ashtonchase/kicad_templates.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ashtonchase/kicad_templates/hooks
-html_url: https://github.com/ashtonchase/kicad_templates
-id: 58296315
-is_template: false
-issue_comment_url: https://api.github.com/repos/ashtonchase/kicad_templates/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ashtonchase/kicad_templates/issues/events{/number}
-issues_url: https://api.github.com/repos/ashtonchase/kicad_templates/issues{/number}
-keys_url: https://api.github.com/repos/ashtonchase/kicad_templates/keys{/key_id}
-labels_url: https://api.github.com/repos/ashtonchase/kicad_templates/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/ashtonchase/kicad_templates/languages
-license:
-  key: apache-2.0
-  name: Apache License 2.0
-  node_id: MDc6TGljZW5zZTI=
-  spdx_id: Apache-2.0
-  url: https://api.github.com/licenses/apache-2.0
-merges_url: https://api.github.com/repos/ashtonchase/kicad_templates/merges
-milestones_url: https://api.github.com/repos/ashtonchase/kicad_templates/milestones{/number}
-mirror_url: null
-name: kicad_templates
-node_id: MDEwOlJlcG9zaXRvcnk1ODI5NjMxNQ==
-notifications_url: https://api.github.com/repos/ashtonchase/kicad_templates/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/10335054?v=4
-  events_url: https://api.github.com/users/ashtonchase/events{/privacy}
-  followers_url: https://api.github.com/users/ashtonchase/followers
-  following_url: https://api.github.com/users/ashtonchase/following{/other_user}
-  gists_url: https://api.github.com/users/ashtonchase/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ashtonchase
-  id: 10335054
-  login: ashtonchase
-  node_id: MDQ6VXNlcjEwMzM1MDU0
-  organizations_url: https://api.github.com/users/ashtonchase/orgs
-  received_events_url: https://api.github.com/users/ashtonchase/received_events
-  repos_url: https://api.github.com/users/ashtonchase/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ashtonchase/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ashtonchase/subscriptions
-  type: User
-  url: https://api.github.com/users/ashtonchase
-private: false
+links:
+  github_owner: ashtonchase
+  github_repo_name: kicad_templates
+  github_src: https://github.com/ashtonchase/kicad_templates
+  github_src_repo: https://github.com/ashtonchase/kicad_templates
+  oomp_bot: ashtonchase_kicad_templates
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/ashtonchase_kicad_templates
+  oomp_doc: projects/ashtonchase_kicad_templates/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/ashtonchase_kicad_templates
+  oomp_src_flat: projects_flat/ashtonchase_kicad_templates
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/ashtonchase_kicad_templates
+  oomp_src_folder: projects_folder\ashtonchase\kicad_templates\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ashtonchase\kicad_templates\version_current\working
+oomp_key: oomp_ashtonchase_kicad_templates
+oomp_key_simple: ashtonchase_kicad_templates
 projects_flat: projects_flat/ashtonchase_kicad_templates/version_current/working
 projects_folder: projects_folder/ashtonchase/kicad_templates/version_current/working
-pulls_url: https://api.github.com/repos/ashtonchase/kicad_templates/pulls{/number}
-pushed_at: '2016-05-08T04:25:04Z'
-releases_url: https://api.github.com/repos/ashtonchase/kicad_templates/releases{/id}
-size: 859
-ssh_url: git@github.com:ashtonchase/kicad_templates.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ashtonchase/kicad_templates/stargazers
-statuses_url: https://api.github.com/repos/ashtonchase/kicad_templates/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ashtonchase/kicad_templates/subscribers
-subscription_url: https://api.github.com/repos/ashtonchase/kicad_templates/subscription
-svn_url: https://github.com/ashtonchase/kicad_templates
-tags_url: https://api.github.com/repos/ashtonchase/kicad_templates/tags
-teams_url: https://api.github.com/repos/ashtonchase/kicad_templates/teams
-topics: []
-trees_url: https://api.github.com/repos/ashtonchase/kicad_templates/git/trees{/sha}
-updated_at: '2016-05-08T04:25:07Z'
-url: https://api.github.com/repos/ashtonchase/kicad_templates
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ashtonchase/kicad_templates/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ashtonchase/kicad_templates/assignees{/user}
+  blobs_url: https://api.github.com/repos/ashtonchase/kicad_templates/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ashtonchase/kicad_templates/branches{/branch}
+  clone_url: https://github.com/ashtonchase/kicad_templates.git
+  collaborators_url: https://api.github.com/repos/ashtonchase/kicad_templates/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ashtonchase/kicad_templates/comments{/number}
+  commits_url: https://api.github.com/repos/ashtonchase/kicad_templates/commits{/sha}
+  compare_url: https://api.github.com/repos/ashtonchase/kicad_templates/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ashtonchase/kicad_templates/contents/{+path}
+  contributors_url: https://api.github.com/repos/ashtonchase/kicad_templates/contributors
+  created_at: '2016-05-08T04:20:22Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ashtonchase/kicad_templates/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/ashtonchase/kicad_templates/downloads
+  events_url: https://api.github.com/repos/ashtonchase/kicad_templates/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ashtonchase/kicad_templates/forks
+  full_name: ashtonchase/kicad_templates
+  git_commits_url: https://api.github.com/repos/ashtonchase/kicad_templates/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ashtonchase/kicad_templates/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ashtonchase/kicad_templates/git/tags{/sha}
+  git_url: git://github.com/ashtonchase/kicad_templates.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ashtonchase/kicad_templates/hooks
+  html_url: https://github.com/ashtonchase/kicad_templates
+  id: 58296315
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ashtonchase/kicad_templates/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ashtonchase/kicad_templates/issues/events{/number}
+  issues_url: https://api.github.com/repos/ashtonchase/kicad_templates/issues{/number}
+  keys_url: https://api.github.com/repos/ashtonchase/kicad_templates/keys{/key_id}
+  labels_url: https://api.github.com/repos/ashtonchase/kicad_templates/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/ashtonchase/kicad_templates/languages
+  license:
+    key: apache-2.0
+    name: Apache License 2.0
+    node_id: MDc6TGljZW5zZTI=
+    spdx_id: Apache-2.0
+    url: https://api.github.com/licenses/apache-2.0
+  merges_url: https://api.github.com/repos/ashtonchase/kicad_templates/merges
+  milestones_url: https://api.github.com/repos/ashtonchase/kicad_templates/milestones{/number}
+  mirror_url: null
+  name: kicad_templates
+  node_id: MDEwOlJlcG9zaXRvcnk1ODI5NjMxNQ==
+  notifications_url: https://api.github.com/repos/ashtonchase/kicad_templates/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/10335054?v=4
+    events_url: https://api.github.com/users/ashtonchase/events{/privacy}
+    followers_url: https://api.github.com/users/ashtonchase/followers
+    following_url: https://api.github.com/users/ashtonchase/following{/other_user}
+    gists_url: https://api.github.com/users/ashtonchase/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ashtonchase
+    id: 10335054
+    login: ashtonchase
+    node_id: MDQ6VXNlcjEwMzM1MDU0
+    organizations_url: https://api.github.com/users/ashtonchase/orgs
+    received_events_url: https://api.github.com/users/ashtonchase/received_events
+    repos_url: https://api.github.com/users/ashtonchase/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ashtonchase/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ashtonchase/subscriptions
+    type: User
+    url: https://api.github.com/users/ashtonchase
+  private: false
+  pulls_url: https://api.github.com/repos/ashtonchase/kicad_templates/pulls{/number}
+  pushed_at: '2016-05-08T04:25:04Z'
+  releases_url: https://api.github.com/repos/ashtonchase/kicad_templates/releases{/id}
+  size: 859
+  ssh_url: git@github.com:ashtonchase/kicad_templates.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ashtonchase/kicad_templates/stargazers
+  statuses_url: https://api.github.com/repos/ashtonchase/kicad_templates/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ashtonchase/kicad_templates/subscribers
+  subscription_url: https://api.github.com/repos/ashtonchase/kicad_templates/subscription
+  svn_url: https://github.com/ashtonchase/kicad_templates
+  tags_url: https://api.github.com/repos/ashtonchase/kicad_templates/tags
+  teams_url: https://api.github.com/repos/ashtonchase/kicad_templates/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ashtonchase/kicad_templates/git/trees{/sha}
+  updated_at: '2016-05-08T04:25:07Z'
+  url: https://api.github.com/repos/ashtonchase/kicad_templates
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

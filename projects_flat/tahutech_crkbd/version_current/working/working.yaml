@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/TahuTech/crkbd/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/TahuTech/crkbd/assignees{/user}
-blobs_url: https://api.github.com/repos/TahuTech/crkbd/git/blobs{/sha}
-branches_url: https://api.github.com/repos/TahuTech/crkbd/branches{/branch}
-clone_url: https://github.com/TahuTech/crkbd.git
-collaborators_url: https://api.github.com/repos/TahuTech/crkbd/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/TahuTech/crkbd/comments{/number}
-commits_url: https://api.github.com/repos/TahuTech/crkbd/commits{/sha}
-compare_url: https://api.github.com/repos/TahuTech/crkbd/compare/{base}...{head}
-contents_url: https://api.github.com/repos/TahuTech/crkbd/contents/{+path}
-contributors_url: https://api.github.com/repos/TahuTech/crkbd/contributors
-created_at: '2021-12-08T03:06:05Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/TahuTech/crkbd/deployments
-description: Corne keyboard, a split keyboard with 3x6 column staggered keys and 3
-  thumb keys.
-disabled: false
-downloads_url: https://api.github.com/repos/TahuTech/crkbd/downloads
-events_url: https://api.github.com/repos/TahuTech/crkbd/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/TahuTech/crkbd/forks
-full_name: TahuTech/crkbd
-git_commits_url: https://api.github.com/repos/TahuTech/crkbd/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/TahuTech/crkbd/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/TahuTech/crkbd/git/tags{/sha}
-git_url: git://github.com/TahuTech/crkbd.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/TahuTech/crkbd/hooks
-html_url: https://github.com/TahuTech/crkbd
-id: 436099028
-is_template: false
-issue_comment_url: https://api.github.com/repos/TahuTech/crkbd/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/TahuTech/crkbd/issues/events{/number}
-issues_url: https://api.github.com/repos/TahuTech/crkbd/issues{/number}
-keys_url: https://api.github.com/repos/TahuTech/crkbd/keys{/key_id}
-labels_url: https://api.github.com/repos/TahuTech/crkbd/labels{/name}
-language: Makefile
-languages_url: https://api.github.com/repos/TahuTech/crkbd/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/TahuTech/crkbd/merges
-milestones_url: https://api.github.com/repos/TahuTech/crkbd/milestones{/number}
-mirror_url: null
-name: crkbd
-node_id: R_kgDOGf5X1A
-notifications_url: https://api.github.com/repos/TahuTech/crkbd/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/66807281?v=4
-  events_url: https://api.github.com/users/TahuTech/events{/privacy}
-  followers_url: https://api.github.com/users/TahuTech/followers
-  following_url: https://api.github.com/users/TahuTech/following{/other_user}
-  gists_url: https://api.github.com/users/TahuTech/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/TahuTech
-  id: 66807281
-  login: TahuTech
-  node_id: MDQ6VXNlcjY2ODA3Mjgx
-  organizations_url: https://api.github.com/users/TahuTech/orgs
-  received_events_url: https://api.github.com/users/TahuTech/received_events
-  repos_url: https://api.github.com/users/TahuTech/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/TahuTech/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/TahuTech/subscriptions
-  type: User
-  url: https://api.github.com/users/TahuTech
-private: false
+links:
+  github_owner: TahuTech
+  github_repo_name: crkbd
+  github_src: https://github.com/TahuTech/crkbd
+  github_src_repo: https://github.com/TahuTech/crkbd
+  oomp_bot: projects_tahutech_crkbd
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_tahutech_crkbd
+  oomp_doc: projects/projects_flat_tahutech_crkbd/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_tahutech_crkbd
+  oomp_src_flat: projects_flat/projects_flat_tahutech_crkbd
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_tahutech_crkbd
+  oomp_src_folder: projects_flat\tahutech_crkbd\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\tahutech_crkbd\version_current\working
+oomp_key: oomp_projects_flat_tahutech_crkbd
+oomp_key_simple: projects_flat_tahutech_crkbd
 projects_flat: projects_flat/tahutech_crkbd/version_current/working
 projects_folder: projects_folder/TahuTech/crkbd/version_current/working
-pulls_url: https://api.github.com/repos/TahuTech/crkbd/pulls{/number}
-pushed_at: '2021-12-08T03:15:28Z'
-releases_url: https://api.github.com/repos/TahuTech/crkbd/releases{/id}
-size: 18847
-ssh_url: git@github.com:TahuTech/crkbd.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/TahuTech/crkbd/stargazers
-statuses_url: https://api.github.com/repos/TahuTech/crkbd/statuses/{sha}
-subscribers_url: https://api.github.com/repos/TahuTech/crkbd/subscribers
-subscription_url: https://api.github.com/repos/TahuTech/crkbd/subscription
-svn_url: https://github.com/TahuTech/crkbd
-tags_url: https://api.github.com/repos/TahuTech/crkbd/tags
-teams_url: https://api.github.com/repos/TahuTech/crkbd/teams
-topics: []
-trees_url: https://api.github.com/repos/TahuTech/crkbd/git/trees{/sha}
-updated_at: '2021-12-08T03:15:30Z'
-url: https://api.github.com/repos/TahuTech/crkbd
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/TahuTech/crkbd/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/TahuTech/crkbd/assignees{/user}
+  blobs_url: https://api.github.com/repos/TahuTech/crkbd/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/TahuTech/crkbd/branches{/branch}
+  clone_url: https://github.com/TahuTech/crkbd.git
+  collaborators_url: https://api.github.com/repos/TahuTech/crkbd/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/TahuTech/crkbd/comments{/number}
+  commits_url: https://api.github.com/repos/TahuTech/crkbd/commits{/sha}
+  compare_url: https://api.github.com/repos/TahuTech/crkbd/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/TahuTech/crkbd/contents/{+path}
+  contributors_url: https://api.github.com/repos/TahuTech/crkbd/contributors
+  created_at: '2021-12-08T03:06:05Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/TahuTech/crkbd/deployments
+  description: Corne keyboard, a split keyboard with 3x6 column staggered keys and
+    3 thumb keys.
+  disabled: false
+  downloads_url: https://api.github.com/repos/TahuTech/crkbd/downloads
+  events_url: https://api.github.com/repos/TahuTech/crkbd/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/TahuTech/crkbd/forks
+  full_name: TahuTech/crkbd
+  git_commits_url: https://api.github.com/repos/TahuTech/crkbd/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/TahuTech/crkbd/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/TahuTech/crkbd/git/tags{/sha}
+  git_url: git://github.com/TahuTech/crkbd.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/TahuTech/crkbd/hooks
+  html_url: https://github.com/TahuTech/crkbd
+  id: 436099028
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/TahuTech/crkbd/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/TahuTech/crkbd/issues/events{/number}
+  issues_url: https://api.github.com/repos/TahuTech/crkbd/issues{/number}
+  keys_url: https://api.github.com/repos/TahuTech/crkbd/keys{/key_id}
+  labels_url: https://api.github.com/repos/TahuTech/crkbd/labels{/name}
+  language: Makefile
+  languages_url: https://api.github.com/repos/TahuTech/crkbd/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/TahuTech/crkbd/merges
+  milestones_url: https://api.github.com/repos/TahuTech/crkbd/milestones{/number}
+  mirror_url: null
+  name: crkbd
+  node_id: R_kgDOGf5X1A
+  notifications_url: https://api.github.com/repos/TahuTech/crkbd/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/66807281?v=4
+    events_url: https://api.github.com/users/TahuTech/events{/privacy}
+    followers_url: https://api.github.com/users/TahuTech/followers
+    following_url: https://api.github.com/users/TahuTech/following{/other_user}
+    gists_url: https://api.github.com/users/TahuTech/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/TahuTech
+    id: 66807281
+    login: TahuTech
+    node_id: MDQ6VXNlcjY2ODA3Mjgx
+    organizations_url: https://api.github.com/users/TahuTech/orgs
+    received_events_url: https://api.github.com/users/TahuTech/received_events
+    repos_url: https://api.github.com/users/TahuTech/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/TahuTech/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/TahuTech/subscriptions
+    type: User
+    url: https://api.github.com/users/TahuTech
+  private: false
+  pulls_url: https://api.github.com/repos/TahuTech/crkbd/pulls{/number}
+  pushed_at: '2021-12-08T03:15:28Z'
+  releases_url: https://api.github.com/repos/TahuTech/crkbd/releases{/id}
+  size: 18847
+  ssh_url: git@github.com:TahuTech/crkbd.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/TahuTech/crkbd/stargazers
+  statuses_url: https://api.github.com/repos/TahuTech/crkbd/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/TahuTech/crkbd/subscribers
+  subscription_url: https://api.github.com/repos/TahuTech/crkbd/subscription
+  svn_url: https://github.com/TahuTech/crkbd
+  tags_url: https://api.github.com/repos/TahuTech/crkbd/tags
+  teams_url: https://api.github.com/repos/TahuTech/crkbd/teams
+  topics: []
+  trees_url: https://api.github.com/repos/TahuTech/crkbd/git/trees{/sha}
+  updated_at: '2021-12-08T03:15:30Z'
+  url: https://api.github.com/repos/TahuTech/crkbd
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

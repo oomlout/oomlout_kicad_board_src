@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/assignees{/user}
-blobs_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/branches{/branch}
-clone_url: https://github.com/Tinkerforge/adapter-xmc-flash.git
-collaborators_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/comments{/number}
-commits_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/commits{/sha}
-compare_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/contents/{+path}
-contributors_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/contributors
-created_at: '2017-02-07T09:22:28Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/deployments
-description: Adapter for flashing new coprocessor bricklets with XMC1XXX processors.
-disabled: false
-downloads_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/downloads
-events_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/forks
-full_name: Tinkerforge/adapter-xmc-flash
-git_commits_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/git/tags{/sha}
-git_url: git://github.com/Tinkerforge/adapter-xmc-flash.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/hooks
-html_url: https://github.com/Tinkerforge/adapter-xmc-flash
-id: 81189963
-is_template: false
-issue_comment_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/issues/events{/number}
-issues_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/issues{/number}
-keys_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/keys{/key_id}
-labels_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/languages
-license: null
-merges_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/merges
-milestones_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/milestones{/number}
-mirror_url: null
-name: adapter-xmc-flash
-node_id: MDEwOlJlcG9zaXRvcnk4MTE4OTk2Mw==
-notifications_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
-  events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
-  followers_url: https://api.github.com/users/Tinkerforge/followers
-  following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
-  gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Tinkerforge
-  id: 1001426
-  login: Tinkerforge
-  node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
-  organizations_url: https://api.github.com/users/Tinkerforge/orgs
-  received_events_url: https://api.github.com/users/Tinkerforge/received_events
-  repos_url: https://api.github.com/users/Tinkerforge/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
-  type: Organization
-  url: https://api.github.com/users/Tinkerforge
-private: false
+links:
+  github_owner: Tinkerforge
+  github_repo_name: adapter-xmc-flash
+  github_src: https://github.com/Tinkerforge/adapter-xmc-flash
+  github_src_repo: https://github.com/Tinkerforge/adapter-xmc-flash
+  oomp_bot: tinkerforge_adapter_xmc_flash
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/tinkerforge_adapter_xmc_flash
+  oomp_doc: projects/tinkerforge_adapter_xmc_flash/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/tinkerforge_adapter_xmc_flash
+  oomp_src_flat: projects_flat/tinkerforge_adapter_xmc_flash
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/tinkerforge_adapter_xmc_flash
+  oomp_src_folder: projects_folder\Tinkerforge\adapter-xmc-flash\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Tinkerforge\adapter-xmc-flash\version_current\working
+oomp_key: oomp_tinkerforge_adapter_xmc_flash
+oomp_key_simple: tinkerforge_adapter_xmc_flash
 projects_flat: projects_flat/tinkerforge_adapter_xmc_flash/version_current/working
 projects_folder: projects_folder/Tinkerforge/adapter-xmc-flash/version_current/working
-pulls_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/pulls{/number}
-pushed_at: '2021-10-25T07:57:03Z'
-releases_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/releases{/id}
-size: 112
-ssh_url: git@github.com:Tinkerforge/adapter-xmc-flash.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/stargazers
-statuses_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/subscribers
-subscription_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/subscription
-svn_url: https://github.com/Tinkerforge/adapter-xmc-flash
-tags_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/tags
-teams_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/teams
-topics: []
-trees_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/git/trees{/sha}
-updated_at: '2021-10-25T07:57:06Z'
-url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/assignees{/user}
+  blobs_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/branches{/branch}
+  clone_url: https://github.com/Tinkerforge/adapter-xmc-flash.git
+  collaborators_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/comments{/number}
+  commits_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/commits{/sha}
+  compare_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/contents/{+path}
+  contributors_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/contributors
+  created_at: '2017-02-07T09:22:28Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/deployments
+  description: Adapter for flashing new coprocessor bricklets with XMC1XXX processors.
+  disabled: false
+  downloads_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/downloads
+  events_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/forks
+  full_name: Tinkerforge/adapter-xmc-flash
+  git_commits_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/git/tags{/sha}
+  git_url: git://github.com/Tinkerforge/adapter-xmc-flash.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/hooks
+  html_url: https://github.com/Tinkerforge/adapter-xmc-flash
+  id: 81189963
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/issues/events{/number}
+  issues_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/issues{/number}
+  keys_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/keys{/key_id}
+  labels_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/languages
+  license: null
+  merges_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/merges
+  milestones_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/milestones{/number}
+  mirror_url: null
+  name: adapter-xmc-flash
+  node_id: MDEwOlJlcG9zaXRvcnk4MTE4OTk2Mw==
+  notifications_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
+    events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
+    followers_url: https://api.github.com/users/Tinkerforge/followers
+    following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
+    gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Tinkerforge
+    id: 1001426
+    login: Tinkerforge
+    node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
+    organizations_url: https://api.github.com/users/Tinkerforge/orgs
+    received_events_url: https://api.github.com/users/Tinkerforge/received_events
+    repos_url: https://api.github.com/users/Tinkerforge/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
+    type: Organization
+    url: https://api.github.com/users/Tinkerforge
+  private: false
+  pulls_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/pulls{/number}
+  pushed_at: '2021-10-25T07:57:03Z'
+  releases_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/releases{/id}
+  size: 112
+  ssh_url: git@github.com:Tinkerforge/adapter-xmc-flash.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/stargazers
+  statuses_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/subscribers
+  subscription_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/subscription
+  svn_url: https://github.com/Tinkerforge/adapter-xmc-flash
+  tags_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/tags
+  teams_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash/git/trees{/sha}
+  updated_at: '2021-10-25T07:57:06Z'
+  url: https://api.github.com/repos/Tinkerforge/adapter-xmc-flash
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

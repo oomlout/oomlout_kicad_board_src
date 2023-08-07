@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/AcheronProject/Fluxon/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/AcheronProject/Fluxon/assignees{/user}
-blobs_url: https://api.github.com/repos/AcheronProject/Fluxon/git/blobs{/sha}
-branches_url: https://api.github.com/repos/AcheronProject/Fluxon/branches{/branch}
-clone_url: https://github.com/AcheronProject/Fluxon.git
-collaborators_url: https://api.github.com/repos/AcheronProject/Fluxon/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/AcheronProject/Fluxon/comments{/number}
-commits_url: https://api.github.com/repos/AcheronProject/Fluxon/commits{/sha}
-compare_url: https://api.github.com/repos/AcheronProject/Fluxon/compare/{base}...{head}
-contents_url: https://api.github.com/repos/AcheronProject/Fluxon/contents/{+path}
-contributors_url: https://api.github.com/repos/AcheronProject/Fluxon/contributors
-created_at: '2020-06-10T07:39:09Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/AcheronProject/Fluxon/deployments
-description: Fluxon is a QMK compatible replacement PCB for the Vortex Core powered
-  by STM32F072CxT MCU.
-disabled: false
-downloads_url: https://api.github.com/repos/AcheronProject/Fluxon/downloads
-events_url: https://api.github.com/repos/AcheronProject/Fluxon/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/AcheronProject/Fluxon/forks
-full_name: AcheronProject/Fluxon
-git_commits_url: https://api.github.com/repos/AcheronProject/Fluxon/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/AcheronProject/Fluxon/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/AcheronProject/Fluxon/git/tags{/sha}
-git_url: git://github.com/AcheronProject/Fluxon.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/AcheronProject/Fluxon/hooks
-html_url: https://github.com/AcheronProject/Fluxon
-id: 271211172
-is_template: false
-issue_comment_url: https://api.github.com/repos/AcheronProject/Fluxon/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/AcheronProject/Fluxon/issues/events{/number}
-issues_url: https://api.github.com/repos/AcheronProject/Fluxon/issues{/number}
-keys_url: https://api.github.com/repos/AcheronProject/Fluxon/keys{/key_id}
-labels_url: https://api.github.com/repos/AcheronProject/Fluxon/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/AcheronProject/Fluxon/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/AcheronProject/Fluxon/merges
-milestones_url: https://api.github.com/repos/AcheronProject/Fluxon/milestones{/number}
-mirror_url: null
-name: Fluxon
-node_id: MDEwOlJlcG9zaXRvcnkyNzEyMTExNzI=
-notifications_url: https://api.github.com/repos/AcheronProject/Fluxon/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
-  events_url: https://api.github.com/users/AcheronProject/events{/privacy}
-  followers_url: https://api.github.com/users/AcheronProject/followers
-  following_url: https://api.github.com/users/AcheronProject/following{/other_user}
-  gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/AcheronProject
-  id: 63755935
-  login: AcheronProject
-  node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
-  organizations_url: https://api.github.com/users/AcheronProject/orgs
-  received_events_url: https://api.github.com/users/AcheronProject/received_events
-  repos_url: https://api.github.com/users/AcheronProject/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
-  type: Organization
-  url: https://api.github.com/users/AcheronProject
-private: false
+links:
+  github_owner: AcheronProject
+  github_repo_name: Fluxon
+  github_src: https://github.com/AcheronProject/Fluxon
+  github_src_repo: https://github.com/AcheronProject/Fluxon
+  oomp_bot: projects_acheronproject_fluxon
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_acheronproject_fluxon
+  oomp_doc: projects/projects_flat_acheronproject_fluxon/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_acheronproject_fluxon
+  oomp_src_flat: projects_flat/projects_flat_acheronproject_fluxon
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_acheronproject_fluxon
+  oomp_src_folder: projects_flat\acheronproject_fluxon\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\acheronproject_fluxon\version_current\working
+oomp_key: oomp_projects_flat_acheronproject_fluxon
+oomp_key_simple: projects_flat_acheronproject_fluxon
 projects_flat: projects_flat/acheronproject_fluxon/version_current/working
 projects_folder: projects_folder/AcheronProject/Fluxon/version_current/working
-pulls_url: https://api.github.com/repos/AcheronProject/Fluxon/pulls{/number}
-pushed_at: '2020-07-25T13:25:32Z'
-releases_url: https://api.github.com/repos/AcheronProject/Fluxon/releases{/id}
-size: 17127
-ssh_url: git@github.com:AcheronProject/Fluxon.git
-stargazers_count: 6
-stargazers_url: https://api.github.com/repos/AcheronProject/Fluxon/stargazers
-statuses_url: https://api.github.com/repos/AcheronProject/Fluxon/statuses/{sha}
-subscribers_url: https://api.github.com/repos/AcheronProject/Fluxon/subscribers
-subscription_url: https://api.github.com/repos/AcheronProject/Fluxon/subscription
-svn_url: https://github.com/AcheronProject/Fluxon
-tags_url: https://api.github.com/repos/AcheronProject/Fluxon/tags
-teams_url: https://api.github.com/repos/AcheronProject/Fluxon/teams
-topics: []
-trees_url: https://api.github.com/repos/AcheronProject/Fluxon/git/trees{/sha}
-updated_at: '2022-05-12T15:44:16Z'
-url: https://api.github.com/repos/AcheronProject/Fluxon
-visibility: public
-watchers: 6
-watchers_count: 6
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/AcheronProject/Fluxon/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/AcheronProject/Fluxon/assignees{/user}
+  blobs_url: https://api.github.com/repos/AcheronProject/Fluxon/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/AcheronProject/Fluxon/branches{/branch}
+  clone_url: https://github.com/AcheronProject/Fluxon.git
+  collaborators_url: https://api.github.com/repos/AcheronProject/Fluxon/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/AcheronProject/Fluxon/comments{/number}
+  commits_url: https://api.github.com/repos/AcheronProject/Fluxon/commits{/sha}
+  compare_url: https://api.github.com/repos/AcheronProject/Fluxon/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/AcheronProject/Fluxon/contents/{+path}
+  contributors_url: https://api.github.com/repos/AcheronProject/Fluxon/contributors
+  created_at: '2020-06-10T07:39:09Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/AcheronProject/Fluxon/deployments
+  description: Fluxon is a QMK compatible replacement PCB for the Vortex Core powered
+    by STM32F072CxT MCU.
+  disabled: false
+  downloads_url: https://api.github.com/repos/AcheronProject/Fluxon/downloads
+  events_url: https://api.github.com/repos/AcheronProject/Fluxon/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/AcheronProject/Fluxon/forks
+  full_name: AcheronProject/Fluxon
+  git_commits_url: https://api.github.com/repos/AcheronProject/Fluxon/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/AcheronProject/Fluxon/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/AcheronProject/Fluxon/git/tags{/sha}
+  git_url: git://github.com/AcheronProject/Fluxon.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/AcheronProject/Fluxon/hooks
+  html_url: https://github.com/AcheronProject/Fluxon
+  id: 271211172
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/AcheronProject/Fluxon/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/AcheronProject/Fluxon/issues/events{/number}
+  issues_url: https://api.github.com/repos/AcheronProject/Fluxon/issues{/number}
+  keys_url: https://api.github.com/repos/AcheronProject/Fluxon/keys{/key_id}
+  labels_url: https://api.github.com/repos/AcheronProject/Fluxon/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/AcheronProject/Fluxon/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/AcheronProject/Fluxon/merges
+  milestones_url: https://api.github.com/repos/AcheronProject/Fluxon/milestones{/number}
+  mirror_url: null
+  name: Fluxon
+  node_id: MDEwOlJlcG9zaXRvcnkyNzEyMTExNzI=
+  notifications_url: https://api.github.com/repos/AcheronProject/Fluxon/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+    events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+    followers_url: https://api.github.com/users/AcheronProject/followers
+    following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+    gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/AcheronProject
+    id: 63755935
+    login: AcheronProject
+    node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+    organizations_url: https://api.github.com/users/AcheronProject/orgs
+    received_events_url: https://api.github.com/users/AcheronProject/received_events
+    repos_url: https://api.github.com/users/AcheronProject/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+    type: Organization
+    url: https://api.github.com/users/AcheronProject
+  private: false
+  pulls_url: https://api.github.com/repos/AcheronProject/Fluxon/pulls{/number}
+  pushed_at: '2020-07-25T13:25:32Z'
+  releases_url: https://api.github.com/repos/AcheronProject/Fluxon/releases{/id}
+  size: 17127
+  ssh_url: git@github.com:AcheronProject/Fluxon.git
+  stargazers_count: 6
+  stargazers_url: https://api.github.com/repos/AcheronProject/Fluxon/stargazers
+  statuses_url: https://api.github.com/repos/AcheronProject/Fluxon/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/AcheronProject/Fluxon/subscribers
+  subscription_url: https://api.github.com/repos/AcheronProject/Fluxon/subscription
+  svn_url: https://github.com/AcheronProject/Fluxon
+  tags_url: https://api.github.com/repos/AcheronProject/Fluxon/tags
+  teams_url: https://api.github.com/repos/AcheronProject/Fluxon/teams
+  topics: []
+  trees_url: https://api.github.com/repos/AcheronProject/Fluxon/git/trees{/sha}
+  updated_at: '2022-05-12T15:44:16Z'
+  url: https://api.github.com/repos/AcheronProject/Fluxon
+  visibility: public
+  watchers: 6
+  watchers_count: 6
+  web_commit_signoff_required: false

@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dchwebb/Quadraphone/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dchwebb/Quadraphone/assignees{/user}
-blobs_url: https://api.github.com/repos/dchwebb/Quadraphone/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dchwebb/Quadraphone/branches{/branch}
-clone_url: https://github.com/dchwebb/Quadraphone.git
-collaborators_url: https://api.github.com/repos/dchwebb/Quadraphone/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dchwebb/Quadraphone/comments{/number}
-commits_url: https://api.github.com/repos/dchwebb/Quadraphone/commits{/sha}
-compare_url: https://api.github.com/repos/dchwebb/Quadraphone/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dchwebb/Quadraphone/contents/{+path}
-contributors_url: https://api.github.com/repos/dchwebb/Quadraphone/contributors
-created_at: '2022-12-24T14:45:40Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/dchwebb/Quadraphone/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/dchwebb/Quadraphone/downloads
-events_url: https://api.github.com/repos/dchwebb/Quadraphone/events
 file_kicad_sch_flat: projects_flat/dchwebb_quadraphone/version_current/working/working.kicad_sch
 file_kicad_sch_folder: projects_folder/dchwebb/Quadraphone/version_current/working/working.kicad_sch
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/dchwebb/Quadraphone/forks
-full_name: dchwebb/Quadraphone
-git_commits_url: https://api.github.com/repos/dchwebb/Quadraphone/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dchwebb/Quadraphone/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dchwebb/Quadraphone/git/tags{/sha}
-git_url: git://github.com/dchwebb/Quadraphone.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/dchwebb/Quadraphone/hooks
-html_url: https://github.com/dchwebb/Quadraphone
-id: 581841654
-is_template: false
-issue_comment_url: https://api.github.com/repos/dchwebb/Quadraphone/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dchwebb/Quadraphone/issues/events{/number}
-issues_url: https://api.github.com/repos/dchwebb/Quadraphone/issues{/number}
-keys_url: https://api.github.com/repos/dchwebb/Quadraphone/keys{/key_id}
-labels_url: https://api.github.com/repos/dchwebb/Quadraphone/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/dchwebb/Quadraphone/languages
-license: null
-merges_url: https://api.github.com/repos/dchwebb/Quadraphone/merges
-milestones_url: https://api.github.com/repos/dchwebb/Quadraphone/milestones{/number}
-mirror_url: null
-name: Quadraphone
-node_id: R_kgDOIq4y9g
-notifications_url: https://api.github.com/repos/dchwebb/Quadraphone/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
-  events_url: https://api.github.com/users/dchwebb/events{/privacy}
-  followers_url: https://api.github.com/users/dchwebb/followers
-  following_url: https://api.github.com/users/dchwebb/following{/other_user}
-  gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dchwebb
-  id: 16348549
-  login: dchwebb
-  node_id: MDQ6VXNlcjE2MzQ4NTQ5
-  organizations_url: https://api.github.com/users/dchwebb/orgs
-  received_events_url: https://api.github.com/users/dchwebb/received_events
-  repos_url: https://api.github.com/users/dchwebb/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
-  type: User
-  url: https://api.github.com/users/dchwebb
-private: false
+links:
+  github_owner: dchwebb
+  github_repo_name: Quadraphone
+  github_src: https://github.com/dchwebb/Quadraphone
+  github_src_repo: https://github.com/dchwebb/Quadraphone
+  oomp_bot: dchwebb_quadraphone
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/dchwebb_quadraphone
+  oomp_doc: projects/dchwebb_quadraphone/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/dchwebb_quadraphone
+  oomp_src_flat: projects_flat/dchwebb_quadraphone
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/dchwebb_quadraphone
+  oomp_src_folder: projects_folder\dchwebb\Quadraphone\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\dchwebb\Quadraphone\version_current\working
+oomp_key: oomp_dchwebb_quadraphone
+oomp_key_simple: dchwebb_quadraphone
 projects_flat: projects_flat/dchwebb_quadraphone/version_current/working
 projects_folder: projects_folder/dchwebb/Quadraphone/version_current/working
-pulls_url: https://api.github.com/repos/dchwebb/Quadraphone/pulls{/number}
-pushed_at: '2023-05-28T10:01:28Z'
-releases_url: https://api.github.com/repos/dchwebb/Quadraphone/releases{/id}
-size: 24897
-ssh_url: git@github.com:dchwebb/Quadraphone.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/dchwebb/Quadraphone/stargazers
-statuses_url: https://api.github.com/repos/dchwebb/Quadraphone/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dchwebb/Quadraphone/subscribers
-subscription_url: https://api.github.com/repos/dchwebb/Quadraphone/subscription
-svn_url: https://github.com/dchwebb/Quadraphone
-tags_url: https://api.github.com/repos/dchwebb/Quadraphone/tags
-teams_url: https://api.github.com/repos/dchwebb/Quadraphone/teams
-topics: []
-trees_url: https://api.github.com/repos/dchwebb/Quadraphone/git/trees{/sha}
-updated_at: '2023-07-20T13:35:26Z'
-url: https://api.github.com/repos/dchwebb/Quadraphone
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dchwebb/Quadraphone/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dchwebb/Quadraphone/assignees{/user}
+  blobs_url: https://api.github.com/repos/dchwebb/Quadraphone/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dchwebb/Quadraphone/branches{/branch}
+  clone_url: https://github.com/dchwebb/Quadraphone.git
+  collaborators_url: https://api.github.com/repos/dchwebb/Quadraphone/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dchwebb/Quadraphone/comments{/number}
+  commits_url: https://api.github.com/repos/dchwebb/Quadraphone/commits{/sha}
+  compare_url: https://api.github.com/repos/dchwebb/Quadraphone/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dchwebb/Quadraphone/contents/{+path}
+  contributors_url: https://api.github.com/repos/dchwebb/Quadraphone/contributors
+  created_at: '2022-12-24T14:45:40Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/dchwebb/Quadraphone/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/dchwebb/Quadraphone/downloads
+  events_url: https://api.github.com/repos/dchwebb/Quadraphone/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/dchwebb/Quadraphone/forks
+  full_name: dchwebb/Quadraphone
+  git_commits_url: https://api.github.com/repos/dchwebb/Quadraphone/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dchwebb/Quadraphone/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dchwebb/Quadraphone/git/tags{/sha}
+  git_url: git://github.com/dchwebb/Quadraphone.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/dchwebb/Quadraphone/hooks
+  html_url: https://github.com/dchwebb/Quadraphone
+  id: 581841654
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dchwebb/Quadraphone/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dchwebb/Quadraphone/issues/events{/number}
+  issues_url: https://api.github.com/repos/dchwebb/Quadraphone/issues{/number}
+  keys_url: https://api.github.com/repos/dchwebb/Quadraphone/keys{/key_id}
+  labels_url: https://api.github.com/repos/dchwebb/Quadraphone/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/dchwebb/Quadraphone/languages
+  license: null
+  merges_url: https://api.github.com/repos/dchwebb/Quadraphone/merges
+  milestones_url: https://api.github.com/repos/dchwebb/Quadraphone/milestones{/number}
+  mirror_url: null
+  name: Quadraphone
+  node_id: R_kgDOIq4y9g
+  notifications_url: https://api.github.com/repos/dchwebb/Quadraphone/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
+    events_url: https://api.github.com/users/dchwebb/events{/privacy}
+    followers_url: https://api.github.com/users/dchwebb/followers
+    following_url: https://api.github.com/users/dchwebb/following{/other_user}
+    gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dchwebb
+    id: 16348549
+    login: dchwebb
+    node_id: MDQ6VXNlcjE2MzQ4NTQ5
+    organizations_url: https://api.github.com/users/dchwebb/orgs
+    received_events_url: https://api.github.com/users/dchwebb/received_events
+    repos_url: https://api.github.com/users/dchwebb/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
+    type: User
+    url: https://api.github.com/users/dchwebb
+  private: false
+  pulls_url: https://api.github.com/repos/dchwebb/Quadraphone/pulls{/number}
+  pushed_at: '2023-05-28T10:01:28Z'
+  releases_url: https://api.github.com/repos/dchwebb/Quadraphone/releases{/id}
+  size: 24897
+  ssh_url: git@github.com:dchwebb/Quadraphone.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/dchwebb/Quadraphone/stargazers
+  statuses_url: https://api.github.com/repos/dchwebb/Quadraphone/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dchwebb/Quadraphone/subscribers
+  subscription_url: https://api.github.com/repos/dchwebb/Quadraphone/subscription
+  svn_url: https://github.com/dchwebb/Quadraphone
+  tags_url: https://api.github.com/repos/dchwebb/Quadraphone/tags
+  teams_url: https://api.github.com/repos/dchwebb/Quadraphone/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dchwebb/Quadraphone/git/trees{/sha}
+  updated_at: '2023-07-20T13:35:26Z'
+  url: https://api.github.com/repos/dchwebb/Quadraphone
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

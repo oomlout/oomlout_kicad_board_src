@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/RelayDriverShield8/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/RelayDriverShield8/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/RelayDriverShield8/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/RelayDriverShield8/branches{/branch}
-clone_url: https://github.com/freetronics/RelayDriverShield8.git
-collaborators_url: https://api.github.com/repos/freetronics/RelayDriverShield8/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/RelayDriverShield8/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/RelayDriverShield8/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/RelayDriverShield8/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/RelayDriverShield8/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/RelayDriverShield8/contributors
-created_at: '2012-02-14T06:20:27Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/freetronics/RelayDriverShield8/deployments
-description: Shield with switchable outputs to drive external relays
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/RelayDriverShield8/downloads
-events_url: https://api.github.com/repos/freetronics/RelayDriverShield8/events
-fork: false
-forks: 5
-forks_count: 5
-forks_url: https://api.github.com/repos/freetronics/RelayDriverShield8/forks
-full_name: freetronics/RelayDriverShield8
-git_commits_url: https://api.github.com/repos/freetronics/RelayDriverShield8/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/RelayDriverShield8/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/RelayDriverShield8/git/tags{/sha}
-git_url: git://github.com/freetronics/RelayDriverShield8.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: www.freetronics.com/relay8
-hooks_url: https://api.github.com/repos/freetronics/RelayDriverShield8/hooks
-html_url: https://github.com/freetronics/RelayDriverShield8
-id: 3437525
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/RelayDriverShield8/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/RelayDriverShield8/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/RelayDriverShield8/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/RelayDriverShield8/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/RelayDriverShield8/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/freetronics/RelayDriverShield8/languages
-license: null
-merges_url: https://api.github.com/repos/freetronics/RelayDriverShield8/merges
-milestones_url: https://api.github.com/repos/freetronics/RelayDriverShield8/milestones{/number}
-mirror_url: null
-name: RelayDriverShield8
-node_id: MDEwOlJlcG9zaXRvcnkzNDM3NTI1
-notifications_url: https://api.github.com/repos/freetronics/RelayDriverShield8/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: RelayDriverShield8
+  github_src: https://github.com/freetronics/RelayDriverShield8
+  github_src_repo: https://github.com/freetronics/RelayDriverShield8
+  oomp_bot: freetronics_relaydrivershield8
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/freetronics_relaydrivershield8
+  oomp_doc: projects/freetronics_relaydrivershield8/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/freetronics_relaydrivershield8
+  oomp_src_flat: projects_flat/freetronics_relaydrivershield8
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/freetronics_relaydrivershield8
+  oomp_src_folder: projects_folder\freetronics\RelayDriverShield8\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\freetronics\RelayDriverShield8\version_current\working
+oomp_key: oomp_freetronics_relaydrivershield8
+oomp_key_simple: freetronics_relaydrivershield8
 projects_flat: projects_flat/freetronics_relaydrivershield8/version_current/working
 projects_folder: projects_folder/freetronics/RelayDriverShield8/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/RelayDriverShield8/pulls{/number}
-pushed_at: '2021-03-11T08:53:36Z'
-releases_url: https://api.github.com/repos/freetronics/RelayDriverShield8/releases{/id}
-size: 459
-ssh_url: git@github.com:freetronics/RelayDriverShield8.git
-stargazers_count: 7
-stargazers_url: https://api.github.com/repos/freetronics/RelayDriverShield8/stargazers
-statuses_url: https://api.github.com/repos/freetronics/RelayDriverShield8/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/RelayDriverShield8/subscribers
-subscription_url: https://api.github.com/repos/freetronics/RelayDriverShield8/subscription
-svn_url: https://github.com/freetronics/RelayDriverShield8
-tags_url: https://api.github.com/repos/freetronics/RelayDriverShield8/tags
-teams_url: https://api.github.com/repos/freetronics/RelayDriverShield8/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/RelayDriverShield8/git/trees{/sha}
-updated_at: '2022-11-09T18:16:08Z'
-url: https://api.github.com/repos/freetronics/RelayDriverShield8
-visibility: public
-watchers: 7
-watchers_count: 7
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/RelayDriverShield8/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/RelayDriverShield8/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/RelayDriverShield8/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/RelayDriverShield8/branches{/branch}
+  clone_url: https://github.com/freetronics/RelayDriverShield8.git
+  collaborators_url: https://api.github.com/repos/freetronics/RelayDriverShield8/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/RelayDriverShield8/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/RelayDriverShield8/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/RelayDriverShield8/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/RelayDriverShield8/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/RelayDriverShield8/contributors
+  created_at: '2012-02-14T06:20:27Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/freetronics/RelayDriverShield8/deployments
+  description: Shield with switchable outputs to drive external relays
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/RelayDriverShield8/downloads
+  events_url: https://api.github.com/repos/freetronics/RelayDriverShield8/events
+  fork: false
+  forks: 5
+  forks_count: 5
+  forks_url: https://api.github.com/repos/freetronics/RelayDriverShield8/forks
+  full_name: freetronics/RelayDriverShield8
+  git_commits_url: https://api.github.com/repos/freetronics/RelayDriverShield8/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/RelayDriverShield8/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/RelayDriverShield8/git/tags{/sha}
+  git_url: git://github.com/freetronics/RelayDriverShield8.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: www.freetronics.com/relay8
+  hooks_url: https://api.github.com/repos/freetronics/RelayDriverShield8/hooks
+  html_url: https://github.com/freetronics/RelayDriverShield8
+  id: 3437525
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/RelayDriverShield8/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/RelayDriverShield8/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/RelayDriverShield8/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/RelayDriverShield8/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/RelayDriverShield8/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/freetronics/RelayDriverShield8/languages
+  license: null
+  merges_url: https://api.github.com/repos/freetronics/RelayDriverShield8/merges
+  milestones_url: https://api.github.com/repos/freetronics/RelayDriverShield8/milestones{/number}
+  mirror_url: null
+  name: RelayDriverShield8
+  node_id: MDEwOlJlcG9zaXRvcnkzNDM3NTI1
+  notifications_url: https://api.github.com/repos/freetronics/RelayDriverShield8/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/RelayDriverShield8/pulls{/number}
+  pushed_at: '2021-03-11T08:53:36Z'
+  releases_url: https://api.github.com/repos/freetronics/RelayDriverShield8/releases{/id}
+  size: 459
+  ssh_url: git@github.com:freetronics/RelayDriverShield8.git
+  stargazers_count: 7
+  stargazers_url: https://api.github.com/repos/freetronics/RelayDriverShield8/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/RelayDriverShield8/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/RelayDriverShield8/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/RelayDriverShield8/subscription
+  svn_url: https://github.com/freetronics/RelayDriverShield8
+  tags_url: https://api.github.com/repos/freetronics/RelayDriverShield8/tags
+  teams_url: https://api.github.com/repos/freetronics/RelayDriverShield8/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/RelayDriverShield8/git/trees{/sha}
+  updated_at: '2022-11-09T18:16:08Z'
+  url: https://api.github.com/repos/freetronics/RelayDriverShield8
+  visibility: public
+  watchers: 7
+  watchers_count: 7
+  web_commit_signoff_required: false

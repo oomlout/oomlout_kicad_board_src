@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/branches{/branch}
-clone_url: https://github.com/OLIMEX/MOD-LCD2.8RTP.git
-collaborators_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/contributors
-created_at: '2018-06-19T11:34:33Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/deployments
-description: TFT COLOR LCD module with UEXT connector for ESP32-EVB
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/downloads
-events_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/events
-fork: false
-forks: 10
-forks_count: 10
-forks_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/forks
-full_name: OLIMEX/MOD-LCD2.8RTP
-git_commits_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/git/tags{/sha}
-git_url: git://github.com/OLIMEX/MOD-LCD2.8RTP.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/hooks
-html_url: https://github.com/OLIMEX/MOD-LCD2.8RTP
-id: 137882927
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/languages
-license:
-  key: apache-2.0
-  name: Apache License 2.0
-  node_id: MDc6TGljZW5zZTI=
-  spdx_id: Apache-2.0
-  url: https://api.github.com/licenses/apache-2.0
-merges_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/merges
-milestones_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/milestones{/number}
-mirror_url: null
-name: MOD-LCD2.8RTP
-node_id: MDEwOlJlcG9zaXRvcnkxMzc4ODI5Mjc=
-notifications_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: MOD-LCD2.8RTP
+  github_src: https://github.com/OLIMEX/MOD-LCD2.8RTP
+  github_src_repo: https://github.com/OLIMEX/MOD-LCD2.8RTP
+  oomp_bot: olimex_mod_lcd2_8rtp
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/olimex_mod_lcd2_8rtp
+  oomp_doc: projects/olimex_mod_lcd2_8rtp/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/olimex_mod_lcd2_8rtp
+  oomp_src_flat: projects_flat/olimex_mod_lcd2_8rtp
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/olimex_mod_lcd2_8rtp
+  oomp_src_folder: projects_folder\OLIMEX\MOD-LCD2.8RTP\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\OLIMEX\MOD-LCD2.8RTP\version_current\working
+oomp_key: oomp_olimex_mod_lcd2_8rtp
+oomp_key_simple: olimex_mod_lcd2_8rtp
 projects_flat: projects_flat/olimex_mod_lcd2_8rtp/version_current/working
 projects_folder: projects_folder/OLIMEX/MOD-LCD2.8RTP/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/pulls{/number}
-pushed_at: '2023-04-11T12:27:25Z'
-releases_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/releases{/id}
-size: 7167
-ssh_url: git@github.com:OLIMEX/MOD-LCD2.8RTP.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/subscription
-svn_url: https://github.com/OLIMEX/MOD-LCD2.8RTP
-tags_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/tags
-teams_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/git/trees{/sha}
-updated_at: '2023-03-06T21:11:24Z'
-url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/branches{/branch}
+  clone_url: https://github.com/OLIMEX/MOD-LCD2.8RTP.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/contributors
+  created_at: '2018-06-19T11:34:33Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/deployments
+  description: TFT COLOR LCD module with UEXT connector for ESP32-EVB
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/downloads
+  events_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/events
+  fork: false
+  forks: 10
+  forks_count: 10
+  forks_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/forks
+  full_name: OLIMEX/MOD-LCD2.8RTP
+  git_commits_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/MOD-LCD2.8RTP.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/hooks
+  html_url: https://github.com/OLIMEX/MOD-LCD2.8RTP
+  id: 137882927
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/languages
+  license:
+    key: apache-2.0
+    name: Apache License 2.0
+    node_id: MDc6TGljZW5zZTI=
+    spdx_id: Apache-2.0
+    url: https://api.github.com/licenses/apache-2.0
+  merges_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/milestones{/number}
+  mirror_url: null
+  name: MOD-LCD2.8RTP
+  node_id: MDEwOlJlcG9zaXRvcnkxMzc4ODI5Mjc=
+  notifications_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/pulls{/number}
+  pushed_at: '2023-04-11T12:27:25Z'
+  releases_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/releases{/id}
+  size: 7167
+  ssh_url: git@github.com:OLIMEX/MOD-LCD2.8RTP.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/subscription
+  svn_url: https://github.com/OLIMEX/MOD-LCD2.8RTP
+  tags_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/tags
+  teams_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP/git/trees{/sha}
+  updated_at: '2023-03-06T21:11:24Z'
+  url: https://api.github.com/repos/OLIMEX/MOD-LCD2.8RTP
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

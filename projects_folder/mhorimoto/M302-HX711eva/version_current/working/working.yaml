@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/assignees{/user}
-blobs_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/git/blobs{/sha}
-branches_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/branches{/branch}
-clone_url: https://github.com/mhorimoto/M302-HX711eva.git
-collaborators_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/comments{/number}
-commits_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/commits{/sha}
-compare_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/compare/{base}...{head}
-contents_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/contents/{+path}
-contributors_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/contributors
-created_at: '2023-07-28T07:41:27Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/deployments
-description: "M302\u3092\u7528\u3044\u305FHX711\u8A55\u4FA1\u30B7\u30B9\u30C6\u30E0"
-disabled: false
-downloads_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/downloads
-events_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/forks
-full_name: mhorimoto/M302-HX711eva
-git_commits_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/git/tags{/sha}
-git_url: git://github.com/mhorimoto/M302-HX711eva.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/hooks
-html_url: https://github.com/mhorimoto/M302-HX711eva
-id: 671814435
-is_template: false
-issue_comment_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/issues/events{/number}
-issues_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/issues{/number}
-keys_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/keys{/key_id}
-labels_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/merges
-milestones_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/milestones{/number}
-mirror_url: null
-name: M302-HX711eva
-node_id: R_kgDOKAsTIw
-notifications_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3594832?v=4
-  events_url: https://api.github.com/users/mhorimoto/events{/privacy}
-  followers_url: https://api.github.com/users/mhorimoto/followers
-  following_url: https://api.github.com/users/mhorimoto/following{/other_user}
-  gists_url: https://api.github.com/users/mhorimoto/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/mhorimoto
-  id: 3594832
-  login: mhorimoto
-  node_id: MDQ6VXNlcjM1OTQ4MzI=
-  organizations_url: https://api.github.com/users/mhorimoto/orgs
-  received_events_url: https://api.github.com/users/mhorimoto/received_events
-  repos_url: https://api.github.com/users/mhorimoto/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/mhorimoto/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/mhorimoto/subscriptions
-  type: User
-  url: https://api.github.com/users/mhorimoto
-private: false
+links:
+  github_owner: mhorimoto
+  github_repo_name: M302-HX711eva
+  github_src: https://github.com/mhorimoto/M302-HX711eva
+  github_src_repo: https://github.com/mhorimoto/M302-HX711eva
+  oomp_bot: mhorimoto_m302_hx711eva
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/mhorimoto_m302_hx711eva
+  oomp_doc: projects/mhorimoto_m302_hx711eva/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/mhorimoto_m302_hx711eva
+  oomp_src_flat: projects_flat/mhorimoto_m302_hx711eva
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/mhorimoto_m302_hx711eva
+  oomp_src_folder: projects_folder\mhorimoto\M302-HX711eva\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\mhorimoto\M302-HX711eva\version_current\working
+oomp_key: oomp_mhorimoto_m302_hx711eva
+oomp_key_simple: mhorimoto_m302_hx711eva
 projects_flat: projects_flat/mhorimoto_m302_hx711eva/version_current/working
 projects_folder: projects_folder/mhorimoto/M302-HX711eva/version_current/working
-pulls_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/pulls{/number}
-pushed_at: '2023-07-28T14:31:28Z'
-releases_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/releases{/id}
-size: 1589
-ssh_url: git@github.com:mhorimoto/M302-HX711eva.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/stargazers
-statuses_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/statuses/{sha}
-subscribers_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/subscribers
-subscription_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/subscription
-svn_url: https://github.com/mhorimoto/M302-HX711eva
-tags_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/tags
-teams_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/teams
-topics: []
-trees_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/git/trees{/sha}
-updated_at: '2023-07-28T07:42:05Z'
-url: https://api.github.com/repos/mhorimoto/M302-HX711eva
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/assignees{/user}
+  blobs_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/branches{/branch}
+  clone_url: https://github.com/mhorimoto/M302-HX711eva.git
+  collaborators_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/comments{/number}
+  commits_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/commits{/sha}
+  compare_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/contents/{+path}
+  contributors_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/contributors
+  created_at: '2023-07-28T07:41:27Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/deployments
+  description: "M302\u3092\u7528\u3044\u305FHX711\u8A55\u4FA1\u30B7\u30B9\u30C6\u30E0"
+  disabled: false
+  downloads_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/downloads
+  events_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/forks
+  full_name: mhorimoto/M302-HX711eva
+  git_commits_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/git/tags{/sha}
+  git_url: git://github.com/mhorimoto/M302-HX711eva.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/hooks
+  html_url: https://github.com/mhorimoto/M302-HX711eva
+  id: 671814435
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/issues/events{/number}
+  issues_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/issues{/number}
+  keys_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/keys{/key_id}
+  labels_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/merges
+  milestones_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/milestones{/number}
+  mirror_url: null
+  name: M302-HX711eva
+  node_id: R_kgDOKAsTIw
+  notifications_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3594832?v=4
+    events_url: https://api.github.com/users/mhorimoto/events{/privacy}
+    followers_url: https://api.github.com/users/mhorimoto/followers
+    following_url: https://api.github.com/users/mhorimoto/following{/other_user}
+    gists_url: https://api.github.com/users/mhorimoto/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/mhorimoto
+    id: 3594832
+    login: mhorimoto
+    node_id: MDQ6VXNlcjM1OTQ4MzI=
+    organizations_url: https://api.github.com/users/mhorimoto/orgs
+    received_events_url: https://api.github.com/users/mhorimoto/received_events
+    repos_url: https://api.github.com/users/mhorimoto/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/mhorimoto/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/mhorimoto/subscriptions
+    type: User
+    url: https://api.github.com/users/mhorimoto
+  private: false
+  pulls_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/pulls{/number}
+  pushed_at: '2023-07-28T14:31:28Z'
+  releases_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/releases{/id}
+  size: 1589
+  ssh_url: git@github.com:mhorimoto/M302-HX711eva.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/stargazers
+  statuses_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/subscribers
+  subscription_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/subscription
+  svn_url: https://github.com/mhorimoto/M302-HX711eva
+  tags_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/tags
+  teams_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/teams
+  topics: []
+  trees_url: https://api.github.com/repos/mhorimoto/M302-HX711eva/git/trees{/sha}
+  updated_at: '2023-07-28T07:42:05Z'
+  url: https://api.github.com/repos/mhorimoto/M302-HX711eva
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

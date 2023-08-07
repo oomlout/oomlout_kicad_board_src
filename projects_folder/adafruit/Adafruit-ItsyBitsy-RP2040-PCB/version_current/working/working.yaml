@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/branches{/branch}
-clone_url: https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB.git
-collaborators_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/contributors
-created_at: '2021-04-20T17:16:51Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/deployments
-description: PCB files for Adafruit ItsyBitsy RP2040.
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/downloads
-events_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/events
-fork: false
-forks: 4
-forks_count: 4
-forks_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/forks
-full_name: adafruit/Adafruit-ItsyBitsy-RP2040-PCB
-git_commits_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/git/tags{/sha}
-git_url: git://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/hooks
-html_url: https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB
-id: 359895568
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/merges
-milestones_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/milestones{/number}
-mirror_url: null
-name: Adafruit-ItsyBitsy-RP2040-PCB
-node_id: MDEwOlJlcG9zaXRvcnkzNTk4OTU1Njg=
-notifications_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: Adafruit-ItsyBitsy-RP2040-PCB
+  github_src: https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB
+  github_src_repo: https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB
+  oomp_bot: adafruit_adafruit_itsybitsy_rp2040_pcb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adafruit_adafruit_itsybitsy_rp2040_pcb
+  oomp_doc: projects/adafruit_adafruit_itsybitsy_rp2040_pcb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adafruit_adafruit_itsybitsy_rp2040_pcb
+  oomp_src_flat: projects_flat/adafruit_adafruit_itsybitsy_rp2040_pcb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adafruit_adafruit_itsybitsy_rp2040_pcb
+  oomp_src_folder: projects_folder\adafruit\Adafruit-ItsyBitsy-RP2040-PCB\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adafruit\Adafruit-ItsyBitsy-RP2040-PCB\version_current\working
+oomp_key: oomp_adafruit_adafruit_itsybitsy_rp2040_pcb
+oomp_key_simple: adafruit_adafruit_itsybitsy_rp2040_pcb
+projects_flat: projects_flat/adafruit_adafruit_itsybitsy_rp2040_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_itsybitsy_rp2040_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/pulls{/number}
-pushed_at: '2021-12-10T18:59:58Z'
-releases_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/releases{/id}
-size: 1618
-ssh_url: git@github.com:adafruit/Adafruit-ItsyBitsy-RP2040-PCB.git
-stargazers_count: 8
-stargazers_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/stargazers
-statuses_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/subscribers
-subscription_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/subscription
-svn_url: https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB
-tags_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/tags
-teams_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/git/trees{/sha}
-updated_at: '2023-05-19T16:23:23Z'
-url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB
-visibility: public
-watchers: 8
-watchers_count: 8
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/branches{/branch}
+  clone_url: https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB.git
+  collaborators_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/contributors
+  created_at: '2021-04-20T17:16:51Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/deployments
+  description: PCB files for Adafruit ItsyBitsy RP2040.
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/downloads
+  events_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/events
+  fork: false
+  forks: 4
+  forks_count: 4
+  forks_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/forks
+  full_name: adafruit/Adafruit-ItsyBitsy-RP2040-PCB
+  git_commits_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/git/tags{/sha}
+  git_url: git://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/hooks
+  html_url: https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB
+  id: 359895568
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/merges
+  milestones_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/milestones{/number}
+  mirror_url: null
+  name: Adafruit-ItsyBitsy-RP2040-PCB
+  node_id: MDEwOlJlcG9zaXRvcnkzNTk4OTU1Njg=
+  notifications_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/pulls{/number}
+  pushed_at: '2021-12-10T18:59:58Z'
+  releases_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/releases{/id}
+  size: 1618
+  ssh_url: git@github.com:adafruit/Adafruit-ItsyBitsy-RP2040-PCB.git
+  stargazers_count: 8
+  stargazers_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/subscription
+  svn_url: https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB
+  tags_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/tags
+  teams_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB/git/trees{/sha}
+  updated_at: '2023-05-19T16:23:23Z'
+  url: https://api.github.com/repos/adafruit/Adafruit-ItsyBitsy-RP2040-PCB
+  visibility: public
+  watchers: 8
+  watchers_count: 8
+  web_commit_signoff_required: false

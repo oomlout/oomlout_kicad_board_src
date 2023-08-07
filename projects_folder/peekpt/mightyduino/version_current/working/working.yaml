@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/peekpt/mightyduino/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/peekpt/mightyduino/assignees{/user}
-blobs_url: https://api.github.com/repos/peekpt/mightyduino/git/blobs{/sha}
-branches_url: https://api.github.com/repos/peekpt/mightyduino/branches{/branch}
-clone_url: https://github.com/peekpt/mightyduino.git
-collaborators_url: https://api.github.com/repos/peekpt/mightyduino/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/peekpt/mightyduino/comments{/number}
-commits_url: https://api.github.com/repos/peekpt/mightyduino/commits{/sha}
-compare_url: https://api.github.com/repos/peekpt/mightyduino/compare/{base}...{head}
-contents_url: https://api.github.com/repos/peekpt/mightyduino/contents/{+path}
-contributors_url: https://api.github.com/repos/peekpt/mightyduino/contributors
-created_at: '2016-12-05T23:08:20Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/peekpt/mightyduino/deployments
-description: Arduino board based on ATmega644p Atmega1284p
-disabled: false
-downloads_url: https://api.github.com/repos/peekpt/mightyduino/downloads
-events_url: https://api.github.com/repos/peekpt/mightyduino/events
-fork: false
-forks: 6
-forks_count: 6
-forks_url: https://api.github.com/repos/peekpt/mightyduino/forks
-full_name: peekpt/mightyduino
-git_commits_url: https://api.github.com/repos/peekpt/mightyduino/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/peekpt/mightyduino/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/peekpt/mightyduino/git/tags{/sha}
-git_url: git://github.com/peekpt/mightyduino.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/peekpt/mightyduino/hooks
-html_url: https://github.com/peekpt/mightyduino
-id: 75674388
-is_template: false
-issue_comment_url: https://api.github.com/repos/peekpt/mightyduino/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/peekpt/mightyduino/issues/events{/number}
-issues_url: https://api.github.com/repos/peekpt/mightyduino/issues{/number}
-keys_url: https://api.github.com/repos/peekpt/mightyduino/keys{/key_id}
-labels_url: https://api.github.com/repos/peekpt/mightyduino/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/peekpt/mightyduino/languages
-license:
-  key: lgpl-2.1
-  name: GNU Lesser General Public License v2.1
-  node_id: MDc6TGljZW5zZTEx
-  spdx_id: LGPL-2.1
-  url: https://api.github.com/licenses/lgpl-2.1
-merges_url: https://api.github.com/repos/peekpt/mightyduino/merges
-milestones_url: https://api.github.com/repos/peekpt/mightyduino/milestones{/number}
-mirror_url: null
-name: mightyduino
-node_id: MDEwOlJlcG9zaXRvcnk3NTY3NDM4OA==
-notifications_url: https://api.github.com/repos/peekpt/mightyduino/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/222385?v=4
-  events_url: https://api.github.com/users/peekpt/events{/privacy}
-  followers_url: https://api.github.com/users/peekpt/followers
-  following_url: https://api.github.com/users/peekpt/following{/other_user}
-  gists_url: https://api.github.com/users/peekpt/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/peekpt
-  id: 222385
-  login: peekpt
-  node_id: MDQ6VXNlcjIyMjM4NQ==
-  organizations_url: https://api.github.com/users/peekpt/orgs
-  received_events_url: https://api.github.com/users/peekpt/received_events
-  repos_url: https://api.github.com/users/peekpt/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/peekpt/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/peekpt/subscriptions
-  type: User
-  url: https://api.github.com/users/peekpt
-private: false
+links:
+  github_owner: peekpt
+  github_repo_name: mightyduino
+  github_src: https://github.com/peekpt/mightyduino
+  github_src_repo: https://github.com/peekpt/mightyduino
+  oomp_bot: peekpt_mightyduino
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/peekpt_mightyduino
+  oomp_doc: projects/peekpt_mightyduino/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/peekpt_mightyduino
+  oomp_src_flat: projects_flat/peekpt_mightyduino
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/peekpt_mightyduino
+  oomp_src_folder: projects_folder\peekpt\mightyduino\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\peekpt\mightyduino\version_current\working
+oomp_key: oomp_peekpt_mightyduino
+oomp_key_simple: peekpt_mightyduino
 projects_flat: projects_flat/peekpt_mightyduino/version_current/working
 projects_folder: projects_folder/peekpt/mightyduino/version_current/working
-pulls_url: https://api.github.com/repos/peekpt/mightyduino/pulls{/number}
-pushed_at: '2017-03-14T02:48:58Z'
-releases_url: https://api.github.com/repos/peekpt/mightyduino/releases{/id}
-size: 5793
-ssh_url: git@github.com:peekpt/mightyduino.git
-stargazers_count: 8
-stargazers_url: https://api.github.com/repos/peekpt/mightyduino/stargazers
-statuses_url: https://api.github.com/repos/peekpt/mightyduino/statuses/{sha}
-subscribers_url: https://api.github.com/repos/peekpt/mightyduino/subscribers
-subscription_url: https://api.github.com/repos/peekpt/mightyduino/subscription
-svn_url: https://github.com/peekpt/mightyduino
-tags_url: https://api.github.com/repos/peekpt/mightyduino/tags
-teams_url: https://api.github.com/repos/peekpt/mightyduino/teams
-topics: []
-trees_url: https://api.github.com/repos/peekpt/mightyduino/git/trees{/sha}
-updated_at: '2022-11-05T14:12:40Z'
-url: https://api.github.com/repos/peekpt/mightyduino
-visibility: public
-watchers: 8
-watchers_count: 8
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/peekpt/mightyduino/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/peekpt/mightyduino/assignees{/user}
+  blobs_url: https://api.github.com/repos/peekpt/mightyduino/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/peekpt/mightyduino/branches{/branch}
+  clone_url: https://github.com/peekpt/mightyduino.git
+  collaborators_url: https://api.github.com/repos/peekpt/mightyduino/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/peekpt/mightyduino/comments{/number}
+  commits_url: https://api.github.com/repos/peekpt/mightyduino/commits{/sha}
+  compare_url: https://api.github.com/repos/peekpt/mightyduino/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/peekpt/mightyduino/contents/{+path}
+  contributors_url: https://api.github.com/repos/peekpt/mightyduino/contributors
+  created_at: '2016-12-05T23:08:20Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/peekpt/mightyduino/deployments
+  description: Arduino board based on ATmega644p Atmega1284p
+  disabled: false
+  downloads_url: https://api.github.com/repos/peekpt/mightyduino/downloads
+  events_url: https://api.github.com/repos/peekpt/mightyduino/events
+  fork: false
+  forks: 6
+  forks_count: 6
+  forks_url: https://api.github.com/repos/peekpt/mightyduino/forks
+  full_name: peekpt/mightyduino
+  git_commits_url: https://api.github.com/repos/peekpt/mightyduino/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/peekpt/mightyduino/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/peekpt/mightyduino/git/tags{/sha}
+  git_url: git://github.com/peekpt/mightyduino.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/peekpt/mightyduino/hooks
+  html_url: https://github.com/peekpt/mightyduino
+  id: 75674388
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/peekpt/mightyduino/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/peekpt/mightyduino/issues/events{/number}
+  issues_url: https://api.github.com/repos/peekpt/mightyduino/issues{/number}
+  keys_url: https://api.github.com/repos/peekpt/mightyduino/keys{/key_id}
+  labels_url: https://api.github.com/repos/peekpt/mightyduino/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/peekpt/mightyduino/languages
+  license:
+    key: lgpl-2.1
+    name: GNU Lesser General Public License v2.1
+    node_id: MDc6TGljZW5zZTEx
+    spdx_id: LGPL-2.1
+    url: https://api.github.com/licenses/lgpl-2.1
+  merges_url: https://api.github.com/repos/peekpt/mightyduino/merges
+  milestones_url: https://api.github.com/repos/peekpt/mightyduino/milestones{/number}
+  mirror_url: null
+  name: mightyduino
+  node_id: MDEwOlJlcG9zaXRvcnk3NTY3NDM4OA==
+  notifications_url: https://api.github.com/repos/peekpt/mightyduino/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/222385?v=4
+    events_url: https://api.github.com/users/peekpt/events{/privacy}
+    followers_url: https://api.github.com/users/peekpt/followers
+    following_url: https://api.github.com/users/peekpt/following{/other_user}
+    gists_url: https://api.github.com/users/peekpt/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/peekpt
+    id: 222385
+    login: peekpt
+    node_id: MDQ6VXNlcjIyMjM4NQ==
+    organizations_url: https://api.github.com/users/peekpt/orgs
+    received_events_url: https://api.github.com/users/peekpt/received_events
+    repos_url: https://api.github.com/users/peekpt/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/peekpt/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/peekpt/subscriptions
+    type: User
+    url: https://api.github.com/users/peekpt
+  private: false
+  pulls_url: https://api.github.com/repos/peekpt/mightyduino/pulls{/number}
+  pushed_at: '2017-03-14T02:48:58Z'
+  releases_url: https://api.github.com/repos/peekpt/mightyduino/releases{/id}
+  size: 5793
+  ssh_url: git@github.com:peekpt/mightyduino.git
+  stargazers_count: 8
+  stargazers_url: https://api.github.com/repos/peekpt/mightyduino/stargazers
+  statuses_url: https://api.github.com/repos/peekpt/mightyduino/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/peekpt/mightyduino/subscribers
+  subscription_url: https://api.github.com/repos/peekpt/mightyduino/subscription
+  svn_url: https://github.com/peekpt/mightyduino
+  tags_url: https://api.github.com/repos/peekpt/mightyduino/tags
+  teams_url: https://api.github.com/repos/peekpt/mightyduino/teams
+  topics: []
+  trees_url: https://api.github.com/repos/peekpt/mightyduino/git/trees{/sha}
+  updated_at: '2022-11-05T14:12:40Z'
+  url: https://api.github.com/repos/peekpt/mightyduino
+  visibility: public
+  watchers: 8
+  watchers_count: 8
+  web_commit_signoff_required: false

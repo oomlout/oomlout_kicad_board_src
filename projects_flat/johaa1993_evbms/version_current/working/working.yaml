@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/johaa1993/evBMS/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/johaa1993/evBMS/assignees{/user}
-blobs_url: https://api.github.com/repos/johaa1993/evBMS/git/blobs{/sha}
-branches_url: https://api.github.com/repos/johaa1993/evBMS/branches{/branch}
-clone_url: https://github.com/johaa1993/evBMS.git
-collaborators_url: https://api.github.com/repos/johaa1993/evBMS/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/johaa1993/evBMS/comments{/number}
-commits_url: https://api.github.com/repos/johaa1993/evBMS/commits{/sha}
-compare_url: https://api.github.com/repos/johaa1993/evBMS/compare/{base}...{head}
-contents_url: https://api.github.com/repos/johaa1993/evBMS/contents/{+path}
-contributors_url: https://api.github.com/repos/johaa1993/evBMS/contributors
-created_at: '2016-09-02T16:40:47Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/johaa1993/evBMS/deployments
-description: Electric Vehicle Battery Management System
-disabled: false
-downloads_url: https://api.github.com/repos/johaa1993/evBMS/downloads
-events_url: https://api.github.com/repos/johaa1993/evBMS/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/johaa1993/evBMS/forks
-full_name: johaa1993/evBMS
-git_commits_url: https://api.github.com/repos/johaa1993/evBMS/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/johaa1993/evBMS/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/johaa1993/evBMS/git/tags{/sha}
-git_url: git://github.com/johaa1993/evBMS.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/johaa1993/evBMS/hooks
-html_url: https://github.com/johaa1993/evBMS
-id: 67239025
-is_template: false
-issue_comment_url: https://api.github.com/repos/johaa1993/evBMS/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/johaa1993/evBMS/issues/events{/number}
-issues_url: https://api.github.com/repos/johaa1993/evBMS/issues{/number}
-keys_url: https://api.github.com/repos/johaa1993/evBMS/keys{/key_id}
-labels_url: https://api.github.com/repos/johaa1993/evBMS/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/johaa1993/evBMS/languages
-license: null
-merges_url: https://api.github.com/repos/johaa1993/evBMS/merges
-milestones_url: https://api.github.com/repos/johaa1993/evBMS/milestones{/number}
-mirror_url: null
-name: evBMS
-node_id: MDEwOlJlcG9zaXRvcnk2NzIzOTAyNQ==
-notifications_url: https://api.github.com/repos/johaa1993/evBMS/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1297510?v=4
-  events_url: https://api.github.com/users/johaa1993/events{/privacy}
-  followers_url: https://api.github.com/users/johaa1993/followers
-  following_url: https://api.github.com/users/johaa1993/following{/other_user}
-  gists_url: https://api.github.com/users/johaa1993/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/johaa1993
-  id: 1297510
-  login: johaa1993
-  node_id: MDQ6VXNlcjEyOTc1MTA=
-  organizations_url: https://api.github.com/users/johaa1993/orgs
-  received_events_url: https://api.github.com/users/johaa1993/received_events
-  repos_url: https://api.github.com/users/johaa1993/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/johaa1993/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/johaa1993/subscriptions
-  type: User
-  url: https://api.github.com/users/johaa1993
-private: false
+links:
+  github_owner: johaa1993
+  github_repo_name: evBMS
+  github_src: https://github.com/johaa1993/evBMS
+  github_src_repo: https://github.com/johaa1993/evBMS
+  oomp_bot: projects_johaa1993_evbms
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_johaa1993_evbms
+  oomp_doc: projects/projects_flat_johaa1993_evbms/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_johaa1993_evbms
+  oomp_src_flat: projects_flat/projects_flat_johaa1993_evbms
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_johaa1993_evbms
+  oomp_src_folder: projects_flat\johaa1993_evbms\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\johaa1993_evbms\version_current\working
+oomp_key: oomp_projects_flat_johaa1993_evbms
+oomp_key_simple: projects_flat_johaa1993_evbms
 projects_flat: projects_flat/johaa1993_evbms/version_current/working
 projects_folder: projects_folder/johaa1993/evBMS/version_current/working
-pulls_url: https://api.github.com/repos/johaa1993/evBMS/pulls{/number}
-pushed_at: '2013-07-05T12:19:34Z'
-releases_url: https://api.github.com/repos/johaa1993/evBMS/releases{/id}
-size: 992
-ssh_url: git@github.com:johaa1993/evBMS.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/johaa1993/evBMS/stargazers
-statuses_url: https://api.github.com/repos/johaa1993/evBMS/statuses/{sha}
-subscribers_url: https://api.github.com/repos/johaa1993/evBMS/subscribers
-subscription_url: https://api.github.com/repos/johaa1993/evBMS/subscription
-svn_url: https://github.com/johaa1993/evBMS
-tags_url: https://api.github.com/repos/johaa1993/evBMS/tags
-teams_url: https://api.github.com/repos/johaa1993/evBMS/teams
-topics: []
-trees_url: https://api.github.com/repos/johaa1993/evBMS/git/trees{/sha}
-updated_at: '2016-09-02T16:40:48Z'
-url: https://api.github.com/repos/johaa1993/evBMS
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/johaa1993/evBMS/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/johaa1993/evBMS/assignees{/user}
+  blobs_url: https://api.github.com/repos/johaa1993/evBMS/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/johaa1993/evBMS/branches{/branch}
+  clone_url: https://github.com/johaa1993/evBMS.git
+  collaborators_url: https://api.github.com/repos/johaa1993/evBMS/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/johaa1993/evBMS/comments{/number}
+  commits_url: https://api.github.com/repos/johaa1993/evBMS/commits{/sha}
+  compare_url: https://api.github.com/repos/johaa1993/evBMS/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/johaa1993/evBMS/contents/{+path}
+  contributors_url: https://api.github.com/repos/johaa1993/evBMS/contributors
+  created_at: '2016-09-02T16:40:47Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/johaa1993/evBMS/deployments
+  description: Electric Vehicle Battery Management System
+  disabled: false
+  downloads_url: https://api.github.com/repos/johaa1993/evBMS/downloads
+  events_url: https://api.github.com/repos/johaa1993/evBMS/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/johaa1993/evBMS/forks
+  full_name: johaa1993/evBMS
+  git_commits_url: https://api.github.com/repos/johaa1993/evBMS/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/johaa1993/evBMS/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/johaa1993/evBMS/git/tags{/sha}
+  git_url: git://github.com/johaa1993/evBMS.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/johaa1993/evBMS/hooks
+  html_url: https://github.com/johaa1993/evBMS
+  id: 67239025
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/johaa1993/evBMS/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/johaa1993/evBMS/issues/events{/number}
+  issues_url: https://api.github.com/repos/johaa1993/evBMS/issues{/number}
+  keys_url: https://api.github.com/repos/johaa1993/evBMS/keys{/key_id}
+  labels_url: https://api.github.com/repos/johaa1993/evBMS/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/johaa1993/evBMS/languages
+  license: null
+  merges_url: https://api.github.com/repos/johaa1993/evBMS/merges
+  milestones_url: https://api.github.com/repos/johaa1993/evBMS/milestones{/number}
+  mirror_url: null
+  name: evBMS
+  node_id: MDEwOlJlcG9zaXRvcnk2NzIzOTAyNQ==
+  notifications_url: https://api.github.com/repos/johaa1993/evBMS/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1297510?v=4
+    events_url: https://api.github.com/users/johaa1993/events{/privacy}
+    followers_url: https://api.github.com/users/johaa1993/followers
+    following_url: https://api.github.com/users/johaa1993/following{/other_user}
+    gists_url: https://api.github.com/users/johaa1993/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/johaa1993
+    id: 1297510
+    login: johaa1993
+    node_id: MDQ6VXNlcjEyOTc1MTA=
+    organizations_url: https://api.github.com/users/johaa1993/orgs
+    received_events_url: https://api.github.com/users/johaa1993/received_events
+    repos_url: https://api.github.com/users/johaa1993/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/johaa1993/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/johaa1993/subscriptions
+    type: User
+    url: https://api.github.com/users/johaa1993
+  private: false
+  pulls_url: https://api.github.com/repos/johaa1993/evBMS/pulls{/number}
+  pushed_at: '2013-07-05T12:19:34Z'
+  releases_url: https://api.github.com/repos/johaa1993/evBMS/releases{/id}
+  size: 992
+  ssh_url: git@github.com:johaa1993/evBMS.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/johaa1993/evBMS/stargazers
+  statuses_url: https://api.github.com/repos/johaa1993/evBMS/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/johaa1993/evBMS/subscribers
+  subscription_url: https://api.github.com/repos/johaa1993/evBMS/subscription
+  svn_url: https://github.com/johaa1993/evBMS
+  tags_url: https://api.github.com/repos/johaa1993/evBMS/tags
+  teams_url: https://api.github.com/repos/johaa1993/evBMS/teams
+  topics: []
+  trees_url: https://api.github.com/repos/johaa1993/evBMS/git/trees{/sha}
+  updated_at: '2016-09-02T16:40:48Z'
+  url: https://api.github.com/repos/johaa1993/evBMS
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

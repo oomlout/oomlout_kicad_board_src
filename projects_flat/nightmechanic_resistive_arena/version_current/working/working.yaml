@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/assignees{/user}
-blobs_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/git/blobs{/sha}
-branches_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/branches{/branch}
-clone_url: https://github.com/nightmechanic/Resistive_Arena.git
-collaborators_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/comments{/number}
-commits_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/commits{/sha}
-compare_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/compare/{base}...{head}
-contents_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/contents/{+path}
-contributors_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/contributors
-created_at: '2014-05-21T19:38:10Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/deployments
-description: Standard resistors board
-disabled: false
-downloads_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/downloads
-events_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/forks
-full_name: nightmechanic/Resistive_Arena
-git_commits_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/git/tags{/sha}
-git_url: git://github.com/nightmechanic/Resistive_Arena.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/hooks
-html_url: https://github.com/nightmechanic/Resistive_Arena
-id: 20034614
-is_template: false
-issue_comment_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/issues/events{/number}
-issues_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/issues{/number}
-keys_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/keys{/key_id}
-labels_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/labels{/name}
-language: IDL
-languages_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/languages
-license: null
-merges_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/merges
-milestones_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/milestones{/number}
-mirror_url: null
-name: Resistive_Arena
-node_id: MDEwOlJlcG9zaXRvcnkyMDAzNDYxNA==
-notifications_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1254429?v=4
-  events_url: https://api.github.com/users/nightmechanic/events{/privacy}
-  followers_url: https://api.github.com/users/nightmechanic/followers
-  following_url: https://api.github.com/users/nightmechanic/following{/other_user}
-  gists_url: https://api.github.com/users/nightmechanic/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/nightmechanic
-  id: 1254429
-  login: nightmechanic
-  node_id: MDQ6VXNlcjEyNTQ0Mjk=
-  organizations_url: https://api.github.com/users/nightmechanic/orgs
-  received_events_url: https://api.github.com/users/nightmechanic/received_events
-  repos_url: https://api.github.com/users/nightmechanic/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/nightmechanic/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/nightmechanic/subscriptions
-  type: User
-  url: https://api.github.com/users/nightmechanic
-private: false
+links:
+  github_owner: nightmechanic
+  github_repo_name: Resistive_Arena
+  github_src: https://github.com/nightmechanic/Resistive_Arena
+  github_src_repo: https://github.com/nightmechanic/Resistive_Arena
+  oomp_bot: projects_nightmechanic_resistive_arena
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_nightmechanic_resistive_arena
+  oomp_doc: projects/projects_flat_nightmechanic_resistive_arena/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_nightmechanic_resistive_arena
+  oomp_src_flat: projects_flat/projects_flat_nightmechanic_resistive_arena
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_nightmechanic_resistive_arena
+  oomp_src_folder: projects_flat\nightmechanic_resistive_arena\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\nightmechanic_resistive_arena\version_current\working
+oomp_key: oomp_projects_flat_nightmechanic_resistive_arena
+oomp_key_simple: projects_flat_nightmechanic_resistive_arena
 projects_flat: projects_flat/nightmechanic_resistive_arena/version_current/working
 projects_folder: projects_folder/nightmechanic/Resistive_Arena/version_current/working
-pulls_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/pulls{/number}
-pushed_at: '2014-06-06T00:36:26Z'
-releases_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/releases{/id}
-size: 564
-ssh_url: git@github.com:nightmechanic/Resistive_Arena.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/stargazers
-statuses_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/statuses/{sha}
-subscribers_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/subscribers
-subscription_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/subscription
-svn_url: https://github.com/nightmechanic/Resistive_Arena
-tags_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/tags
-teams_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/teams
-topics: []
-trees_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/git/trees{/sha}
-updated_at: '2014-06-06T00:36:27Z'
-url: https://api.github.com/repos/nightmechanic/Resistive_Arena
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/assignees{/user}
+  blobs_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/branches{/branch}
+  clone_url: https://github.com/nightmechanic/Resistive_Arena.git
+  collaborators_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/comments{/number}
+  commits_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/commits{/sha}
+  compare_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/contents/{+path}
+  contributors_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/contributors
+  created_at: '2014-05-21T19:38:10Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/deployments
+  description: Standard resistors board
+  disabled: false
+  downloads_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/downloads
+  events_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/forks
+  full_name: nightmechanic/Resistive_Arena
+  git_commits_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/git/tags{/sha}
+  git_url: git://github.com/nightmechanic/Resistive_Arena.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/hooks
+  html_url: https://github.com/nightmechanic/Resistive_Arena
+  id: 20034614
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/issues/events{/number}
+  issues_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/issues{/number}
+  keys_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/keys{/key_id}
+  labels_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/labels{/name}
+  language: IDL
+  languages_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/languages
+  license: null
+  merges_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/merges
+  milestones_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/milestones{/number}
+  mirror_url: null
+  name: Resistive_Arena
+  node_id: MDEwOlJlcG9zaXRvcnkyMDAzNDYxNA==
+  notifications_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1254429?v=4
+    events_url: https://api.github.com/users/nightmechanic/events{/privacy}
+    followers_url: https://api.github.com/users/nightmechanic/followers
+    following_url: https://api.github.com/users/nightmechanic/following{/other_user}
+    gists_url: https://api.github.com/users/nightmechanic/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/nightmechanic
+    id: 1254429
+    login: nightmechanic
+    node_id: MDQ6VXNlcjEyNTQ0Mjk=
+    organizations_url: https://api.github.com/users/nightmechanic/orgs
+    received_events_url: https://api.github.com/users/nightmechanic/received_events
+    repos_url: https://api.github.com/users/nightmechanic/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/nightmechanic/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/nightmechanic/subscriptions
+    type: User
+    url: https://api.github.com/users/nightmechanic
+  private: false
+  pulls_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/pulls{/number}
+  pushed_at: '2014-06-06T00:36:26Z'
+  releases_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/releases{/id}
+  size: 564
+  ssh_url: git@github.com:nightmechanic/Resistive_Arena.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/stargazers
+  statuses_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/subscribers
+  subscription_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/subscription
+  svn_url: https://github.com/nightmechanic/Resistive_Arena
+  tags_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/tags
+  teams_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/teams
+  topics: []
+  trees_url: https://api.github.com/repos/nightmechanic/Resistive_Arena/git/trees{/sha}
+  updated_at: '2014-06-06T00:36:27Z'
+  url: https://api.github.com/repos/nightmechanic/Resistive_Arena
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

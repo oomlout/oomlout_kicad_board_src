@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/assignees{/user}
-blobs_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/branches{/branch}
-clone_url: https://github.com/Tinkerforge/solid-state-relay-bricklet.git
-collaborators_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/comments{/number}
-commits_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/commits{/sha}
-compare_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/contents/{+path}
-contributors_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/contributors
-created_at: '2014-02-25T14:50:54Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/deployments
-description: Controls AC and DC Solid State Relays
-disabled: false
-downloads_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/downloads
-events_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/forks
-full_name: Tinkerforge/solid-state-relay-bricklet
-git_commits_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/git/tags{/sha}
-git_url: git://github.com/Tinkerforge/solid-state-relay-bricklet.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.tinkerforge.com/en/doc/Hardware/Bricklets/Solid_State_Relay.html
-hooks_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/hooks
-html_url: https://github.com/Tinkerforge/solid-state-relay-bricklet
-id: 17176387
-is_template: false
-issue_comment_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/issues/events{/number}
-issues_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/issues{/number}
-keys_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/keys{/key_id}
-labels_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/languages
-license: null
-merges_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/merges
-milestones_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/milestones{/number}
-mirror_url: null
-name: solid-state-relay-bricklet
-node_id: MDEwOlJlcG9zaXRvcnkxNzE3NjM4Nw==
-notifications_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
-  events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
-  followers_url: https://api.github.com/users/Tinkerforge/followers
-  following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
-  gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Tinkerforge
-  id: 1001426
-  login: Tinkerforge
-  node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
-  organizations_url: https://api.github.com/users/Tinkerforge/orgs
-  received_events_url: https://api.github.com/users/Tinkerforge/received_events
-  repos_url: https://api.github.com/users/Tinkerforge/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
-  type: Organization
-  url: https://api.github.com/users/Tinkerforge
-private: false
+links:
+  github_owner: Tinkerforge
+  github_repo_name: solid-state-relay-bricklet
+  github_src: https://github.com/Tinkerforge/solid-state-relay-bricklet
+  github_src_repo: https://github.com/Tinkerforge/solid-state-relay-bricklet
+  oomp_bot: tinkerforge_solid_state_relay_bricklet
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/tinkerforge_solid_state_relay_bricklet
+  oomp_doc: projects/tinkerforge_solid_state_relay_bricklet/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/tinkerforge_solid_state_relay_bricklet
+  oomp_src_flat: projects_flat/tinkerforge_solid_state_relay_bricklet
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/tinkerforge_solid_state_relay_bricklet
+  oomp_src_folder: projects_folder\Tinkerforge\solid-state-relay-bricklet\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Tinkerforge\solid-state-relay-bricklet\version_current\working
+oomp_key: oomp_tinkerforge_solid_state_relay_bricklet
+oomp_key_simple: tinkerforge_solid_state_relay_bricklet
 projects_flat: projects_flat/tinkerforge_solid_state_relay_bricklet/version_current/working
 projects_folder: projects_folder/Tinkerforge/solid-state-relay-bricklet/version_current/working
-pulls_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/pulls{/number}
-pushed_at: '2022-07-06T12:42:32Z'
-releases_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/releases{/id}
-size: 1576
-ssh_url: git@github.com:Tinkerforge/solid-state-relay-bricklet.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/stargazers
-statuses_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/subscribers
-subscription_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/subscription
-svn_url: https://github.com/Tinkerforge/solid-state-relay-bricklet
-tags_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/tags
-teams_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/teams
-topics: []
-trees_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/git/trees{/sha}
-updated_at: '2021-10-25T07:57:06Z'
-url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/assignees{/user}
+  blobs_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/branches{/branch}
+  clone_url: https://github.com/Tinkerforge/solid-state-relay-bricklet.git
+  collaborators_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/comments{/number}
+  commits_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/commits{/sha}
+  compare_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/contents/{+path}
+  contributors_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/contributors
+  created_at: '2014-02-25T14:50:54Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/deployments
+  description: Controls AC and DC Solid State Relays
+  disabled: false
+  downloads_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/downloads
+  events_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/forks
+  full_name: Tinkerforge/solid-state-relay-bricklet
+  git_commits_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/git/tags{/sha}
+  git_url: git://github.com/Tinkerforge/solid-state-relay-bricklet.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.tinkerforge.com/en/doc/Hardware/Bricklets/Solid_State_Relay.html
+  hooks_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/hooks
+  html_url: https://github.com/Tinkerforge/solid-state-relay-bricklet
+  id: 17176387
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/issues/events{/number}
+  issues_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/issues{/number}
+  keys_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/keys{/key_id}
+  labels_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/languages
+  license: null
+  merges_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/merges
+  milestones_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/milestones{/number}
+  mirror_url: null
+  name: solid-state-relay-bricklet
+  node_id: MDEwOlJlcG9zaXRvcnkxNzE3NjM4Nw==
+  notifications_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
+    events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
+    followers_url: https://api.github.com/users/Tinkerforge/followers
+    following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
+    gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Tinkerforge
+    id: 1001426
+    login: Tinkerforge
+    node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
+    organizations_url: https://api.github.com/users/Tinkerforge/orgs
+    received_events_url: https://api.github.com/users/Tinkerforge/received_events
+    repos_url: https://api.github.com/users/Tinkerforge/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
+    type: Organization
+    url: https://api.github.com/users/Tinkerforge
+  private: false
+  pulls_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/pulls{/number}
+  pushed_at: '2022-07-06T12:42:32Z'
+  releases_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/releases{/id}
+  size: 1576
+  ssh_url: git@github.com:Tinkerforge/solid-state-relay-bricklet.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/stargazers
+  statuses_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/subscribers
+  subscription_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/subscription
+  svn_url: https://github.com/Tinkerforge/solid-state-relay-bricklet
+  tags_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/tags
+  teams_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet/git/trees{/sha}
+  updated_at: '2021-10-25T07:57:06Z'
+  url: https://api.github.com/repos/Tinkerforge/solid-state-relay-bricklet
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

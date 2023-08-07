@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/nppc/BatteryProtection/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/nppc/BatteryProtection/assignees{/user}
-blobs_url: https://api.github.com/repos/nppc/BatteryProtection/git/blobs{/sha}
-branches_url: https://api.github.com/repos/nppc/BatteryProtection/branches{/branch}
-clone_url: https://github.com/nppc/BatteryProtection.git
-collaborators_url: https://api.github.com/repos/nppc/BatteryProtection/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/nppc/BatteryProtection/comments{/number}
-commits_url: https://api.github.com/repos/nppc/BatteryProtection/commits{/sha}
-compare_url: https://api.github.com/repos/nppc/BatteryProtection/compare/{base}...{head}
-contents_url: https://api.github.com/repos/nppc/BatteryProtection/contents/{+path}
-contributors_url: https://api.github.com/repos/nppc/BatteryProtection/contributors
-created_at: '2017-09-25T14:58:48Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/nppc/BatteryProtection/deployments
-description: LiIon 5S battery protection (23v max)
-disabled: false
-downloads_url: https://api.github.com/repos/nppc/BatteryProtection/downloads
-events_url: https://api.github.com/repos/nppc/BatteryProtection/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/nppc/BatteryProtection/forks
-full_name: nppc/BatteryProtection
-git_commits_url: https://api.github.com/repos/nppc/BatteryProtection/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/nppc/BatteryProtection/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/nppc/BatteryProtection/git/tags{/sha}
-git_url: git://github.com/nppc/BatteryProtection.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/nppc/BatteryProtection/hooks
-html_url: https://github.com/nppc/BatteryProtection
-id: 104764504
-is_template: false
-issue_comment_url: https://api.github.com/repos/nppc/BatteryProtection/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/nppc/BatteryProtection/issues/events{/number}
-issues_url: https://api.github.com/repos/nppc/BatteryProtection/issues{/number}
-keys_url: https://api.github.com/repos/nppc/BatteryProtection/keys{/key_id}
-labels_url: https://api.github.com/repos/nppc/BatteryProtection/labels{/name}
-language: Assembly
-languages_url: https://api.github.com/repos/nppc/BatteryProtection/languages
-license: null
-merges_url: https://api.github.com/repos/nppc/BatteryProtection/merges
-milestones_url: https://api.github.com/repos/nppc/BatteryProtection/milestones{/number}
-mirror_url: null
-name: BatteryProtection
-node_id: MDEwOlJlcG9zaXRvcnkxMDQ3NjQ1MDQ=
-notifications_url: https://api.github.com/repos/nppc/BatteryProtection/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/10918485?v=4
-  events_url: https://api.github.com/users/nppc/events{/privacy}
-  followers_url: https://api.github.com/users/nppc/followers
-  following_url: https://api.github.com/users/nppc/following{/other_user}
-  gists_url: https://api.github.com/users/nppc/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/nppc
-  id: 10918485
-  login: nppc
-  node_id: MDQ6VXNlcjEwOTE4NDg1
-  organizations_url: https://api.github.com/users/nppc/orgs
-  received_events_url: https://api.github.com/users/nppc/received_events
-  repos_url: https://api.github.com/users/nppc/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/nppc/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/nppc/subscriptions
-  type: User
-  url: https://api.github.com/users/nppc
-private: false
+links:
+  github_owner: nppc
+  github_repo_name: BatteryProtection
+  github_src: https://github.com/nppc/BatteryProtection
+  github_src_repo: https://github.com/nppc/BatteryProtection
+  oomp_bot: projects_nppc_batteryprotection
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_nppc_batteryprotection
+  oomp_doc: projects/projects_flat_nppc_batteryprotection/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_nppc_batteryprotection
+  oomp_src_flat: projects_flat/projects_flat_nppc_batteryprotection
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_nppc_batteryprotection
+  oomp_src_folder: projects_flat\nppc_batteryprotection\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\nppc_batteryprotection\version_current\working
+oomp_key: oomp_projects_flat_nppc_batteryprotection
+oomp_key_simple: projects_flat_nppc_batteryprotection
 projects_flat: projects_flat/nppc_batteryprotection/version_current/working
 projects_folder: projects_folder/nppc/BatteryProtection/version_current/working
-pulls_url: https://api.github.com/repos/nppc/BatteryProtection/pulls{/number}
-pushed_at: '2018-05-25T11:57:54Z'
-releases_url: https://api.github.com/repos/nppc/BatteryProtection/releases{/id}
-size: 563
-ssh_url: git@github.com:nppc/BatteryProtection.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/nppc/BatteryProtection/stargazers
-statuses_url: https://api.github.com/repos/nppc/BatteryProtection/statuses/{sha}
-subscribers_url: https://api.github.com/repos/nppc/BatteryProtection/subscribers
-subscription_url: https://api.github.com/repos/nppc/BatteryProtection/subscription
-svn_url: https://github.com/nppc/BatteryProtection
-tags_url: https://api.github.com/repos/nppc/BatteryProtection/tags
-teams_url: https://api.github.com/repos/nppc/BatteryProtection/teams
-topics: []
-trees_url: https://api.github.com/repos/nppc/BatteryProtection/git/trees{/sha}
-updated_at: '2018-05-25T11:57:55Z'
-url: https://api.github.com/repos/nppc/BatteryProtection
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/nppc/BatteryProtection/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/nppc/BatteryProtection/assignees{/user}
+  blobs_url: https://api.github.com/repos/nppc/BatteryProtection/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/nppc/BatteryProtection/branches{/branch}
+  clone_url: https://github.com/nppc/BatteryProtection.git
+  collaborators_url: https://api.github.com/repos/nppc/BatteryProtection/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/nppc/BatteryProtection/comments{/number}
+  commits_url: https://api.github.com/repos/nppc/BatteryProtection/commits{/sha}
+  compare_url: https://api.github.com/repos/nppc/BatteryProtection/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/nppc/BatteryProtection/contents/{+path}
+  contributors_url: https://api.github.com/repos/nppc/BatteryProtection/contributors
+  created_at: '2017-09-25T14:58:48Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/nppc/BatteryProtection/deployments
+  description: LiIon 5S battery protection (23v max)
+  disabled: false
+  downloads_url: https://api.github.com/repos/nppc/BatteryProtection/downloads
+  events_url: https://api.github.com/repos/nppc/BatteryProtection/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/nppc/BatteryProtection/forks
+  full_name: nppc/BatteryProtection
+  git_commits_url: https://api.github.com/repos/nppc/BatteryProtection/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/nppc/BatteryProtection/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/nppc/BatteryProtection/git/tags{/sha}
+  git_url: git://github.com/nppc/BatteryProtection.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/nppc/BatteryProtection/hooks
+  html_url: https://github.com/nppc/BatteryProtection
+  id: 104764504
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/nppc/BatteryProtection/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/nppc/BatteryProtection/issues/events{/number}
+  issues_url: https://api.github.com/repos/nppc/BatteryProtection/issues{/number}
+  keys_url: https://api.github.com/repos/nppc/BatteryProtection/keys{/key_id}
+  labels_url: https://api.github.com/repos/nppc/BatteryProtection/labels{/name}
+  language: Assembly
+  languages_url: https://api.github.com/repos/nppc/BatteryProtection/languages
+  license: null
+  merges_url: https://api.github.com/repos/nppc/BatteryProtection/merges
+  milestones_url: https://api.github.com/repos/nppc/BatteryProtection/milestones{/number}
+  mirror_url: null
+  name: BatteryProtection
+  node_id: MDEwOlJlcG9zaXRvcnkxMDQ3NjQ1MDQ=
+  notifications_url: https://api.github.com/repos/nppc/BatteryProtection/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/10918485?v=4
+    events_url: https://api.github.com/users/nppc/events{/privacy}
+    followers_url: https://api.github.com/users/nppc/followers
+    following_url: https://api.github.com/users/nppc/following{/other_user}
+    gists_url: https://api.github.com/users/nppc/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/nppc
+    id: 10918485
+    login: nppc
+    node_id: MDQ6VXNlcjEwOTE4NDg1
+    organizations_url: https://api.github.com/users/nppc/orgs
+    received_events_url: https://api.github.com/users/nppc/received_events
+    repos_url: https://api.github.com/users/nppc/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/nppc/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/nppc/subscriptions
+    type: User
+    url: https://api.github.com/users/nppc
+  private: false
+  pulls_url: https://api.github.com/repos/nppc/BatteryProtection/pulls{/number}
+  pushed_at: '2018-05-25T11:57:54Z'
+  releases_url: https://api.github.com/repos/nppc/BatteryProtection/releases{/id}
+  size: 563
+  ssh_url: git@github.com:nppc/BatteryProtection.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/nppc/BatteryProtection/stargazers
+  statuses_url: https://api.github.com/repos/nppc/BatteryProtection/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/nppc/BatteryProtection/subscribers
+  subscription_url: https://api.github.com/repos/nppc/BatteryProtection/subscription
+  svn_url: https://github.com/nppc/BatteryProtection
+  tags_url: https://api.github.com/repos/nppc/BatteryProtection/tags
+  teams_url: https://api.github.com/repos/nppc/BatteryProtection/teams
+  topics: []
+  trees_url: https://api.github.com/repos/nppc/BatteryProtection/git/trees{/sha}
+  updated_at: '2018-05-25T11:57:55Z'
+  url: https://api.github.com/repos/nppc/BatteryProtection
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/branches{/branch}
-clone_url: https://github.com/ElectronicCats/PD-sniffer.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/contributors
-created_at: '2021-02-19T14:19:17Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/deployments
-description: USB PD sniffer
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/downloads
-events_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/forks
-full_name: ElectronicCats/PD-sniffer
-git_commits_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/PD-sniffer.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/hooks
-html_url: https://github.com/ElectronicCats/PD-sniffer
-id: 340390817
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/languages
-license:
-  key: cc-by-4.0
-  name: Creative Commons Attribution 4.0 International
-  node_id: MDc6TGljZW5zZTI1
-  spdx_id: CC-BY-4.0
-  url: https://api.github.com/licenses/cc-by-4.0
-merges_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/milestones{/number}
-mirror_url: null
-name: PD-sniffer
-node_id: MDEwOlJlcG9zaXRvcnkzNDAzOTA4MTc=
-notifications_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: PD-sniffer
+  github_src: https://github.com/ElectronicCats/PD-sniffer
+  github_src_repo: https://github.com/ElectronicCats/PD-sniffer
+  oomp_bot: projects_electroniccats_pd_sniffer
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_electroniccats_pd_sniffer
+  oomp_doc: projects/projects_flat_electroniccats_pd_sniffer/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_electroniccats_pd_sniffer
+  oomp_src_flat: projects_flat/projects_flat_electroniccats_pd_sniffer
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_electroniccats_pd_sniffer
+  oomp_src_folder: projects_flat\electroniccats_pd_sniffer\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_pd_sniffer\version_current\working
+oomp_key: oomp_projects_flat_electroniccats_pd_sniffer
+oomp_key_simple: projects_flat_electroniccats_pd_sniffer
 projects_flat: projects_flat/electroniccats_pd_sniffer/version_current/working
 projects_folder: projects_folder/ElectronicCats/PD-sniffer/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/pulls{/number}
-pushed_at: '2021-03-29T17:43:39Z'
-releases_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/releases{/id}
-size: 5568
-ssh_url: git@github.com:ElectronicCats/PD-sniffer.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/subscription
-svn_url: https://github.com/ElectronicCats/PD-sniffer
-tags_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/tags
-teams_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/teams
-topics: []
-trees_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/git/trees{/sha}
-updated_at: '2022-12-29T17:31:32Z'
-url: https://api.github.com/repos/ElectronicCats/PD-sniffer
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/PD-sniffer.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/contributors
+  created_at: '2021-02-19T14:19:17Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/deployments
+  description: USB PD sniffer
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/forks
+  full_name: ElectronicCats/PD-sniffer
+  git_commits_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/PD-sniffer.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/hooks
+  html_url: https://github.com/ElectronicCats/PD-sniffer
+  id: 340390817
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/languages
+  license:
+    key: cc-by-4.0
+    name: Creative Commons Attribution 4.0 International
+    node_id: MDc6TGljZW5zZTI1
+    spdx_id: CC-BY-4.0
+    url: https://api.github.com/licenses/cc-by-4.0
+  merges_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/milestones{/number}
+  mirror_url: null
+  name: PD-sniffer
+  node_id: MDEwOlJlcG9zaXRvcnkzNDAzOTA4MTc=
+  notifications_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/pulls{/number}
+  pushed_at: '2021-03-29T17:43:39Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/releases{/id}
+  size: 5568
+  ssh_url: git@github.com:ElectronicCats/PD-sniffer.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/subscription
+  svn_url: https://github.com/ElectronicCats/PD-sniffer
+  tags_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ElectronicCats/PD-sniffer/git/trees{/sha}
+  updated_at: '2022-12-29T17:31:32Z'
+  url: https://api.github.com/repos/ElectronicCats/PD-sniffer
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: true

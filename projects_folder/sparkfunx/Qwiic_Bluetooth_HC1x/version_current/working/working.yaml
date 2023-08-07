@@ -1,99 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/branches{/branch}
-clone_url: https://github.com/sparkfunX/Qwiic_Bluetooth_HC1x.git
-collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/comments{/number}
-commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/contributors
-created_at: '2018-05-15T16:56:16Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/deployments
-description: Qwiic interface board for the HC11, HC13, HC17, and HC19 Bluetooth modules.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/downloads
-events_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/forks
-full_name: sparkfunX/Qwiic_Bluetooth_HC1x
-git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/git/tags{/sha}
-git_url: git://github.com/sparkfunX/Qwiic_Bluetooth_HC1x.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/products/14840
-hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/hooks
-html_url: https://github.com/sparkfunX/Qwiic_Bluetooth_HC1x
-id: 133546998
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/issues{/number}
-keys_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/merges
-milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/milestones{/number}
-mirror_url: null
-name: Qwiic_Bluetooth_HC1x
-node_id: MDEwOlJlcG9zaXRvcnkxMzM1NDY5OTg=
-notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
-  events_url: https://api.github.com/users/sparkfunX/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfunX/followers
-  following_url: https://api.github.com/users/sparkfunX/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfunX
-  id: 25487355
-  login: sparkfunX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
-  organizations_url: https://api.github.com/users/sparkfunX/orgs
-  received_events_url: https://api.github.com/users/sparkfunX/received_events
-  repos_url: https://api.github.com/users/sparkfunX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfunX
-private: false
+links:
+  github_owner: sparkfunX
+  github_repo_name: Qwiic_Bluetooth_HC1x
+  github_src: https://github.com/sparkfunX/Qwiic_Bluetooth_HC1x
+  github_src_repo: https://github.com/sparkfunX/Qwiic_Bluetooth_HC1x
+  oomp_bot: sparkfunx_qwiic_bluetooth_hc1x
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfunx_qwiic_bluetooth_hc1x
+  oomp_doc: projects/sparkfunx_qwiic_bluetooth_hc1x/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfunx_qwiic_bluetooth_hc1x
+  oomp_src_flat: projects_flat/sparkfunx_qwiic_bluetooth_hc1x
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfunx_qwiic_bluetooth_hc1x
+  oomp_src_folder: projects_folder\sparkfunx\Qwiic_Bluetooth_HC1x\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfunx\Qwiic_Bluetooth_HC1x\version_current\working
+oomp_key: oomp_sparkfunx_qwiic_bluetooth_hc1x
+oomp_key_simple: sparkfunx_qwiic_bluetooth_hc1x
 projects_flat: projects_flat/sparkfunx_qwiic_bluetooth_hc1x/version_current/working
 projects_folder: projects_folder/sparkfunx/Qwiic_Bluetooth_HC1x/version_current/working
-pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/pulls{/number}
-pushed_at: '2018-07-10T20:39:14Z'
-releases_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/releases{/id}
-size: 4500
-ssh_url: git@github.com:sparkfunX/Qwiic_Bluetooth_HC1x.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/stargazers
-statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/subscribers
-subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/subscription
-svn_url: https://github.com/sparkfunX/Qwiic_Bluetooth_HC1x
-tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/tags
-teams_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/git/trees{/sha}
-updated_at: '2018-07-10T21:04:42Z'
-url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/branches{/branch}
+  clone_url: https://github.com/sparkfunX/Qwiic_Bluetooth_HC1x.git
+  collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/contributors
+  created_at: '2018-05-15T16:56:16Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/deployments
+  description: Qwiic interface board for the HC11, HC13, HC17, and HC19 Bluetooth
+    modules.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/downloads
+  events_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/forks
+  full_name: sparkfunX/Qwiic_Bluetooth_HC1x
+  git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/git/tags{/sha}
+  git_url: git://github.com/sparkfunX/Qwiic_Bluetooth_HC1x.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/products/14840
+  hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/hooks
+  html_url: https://github.com/sparkfunX/Qwiic_Bluetooth_HC1x
+  id: 133546998
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/merges
+  milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/milestones{/number}
+  mirror_url: null
+  name: Qwiic_Bluetooth_HC1x
+  node_id: MDEwOlJlcG9zaXRvcnkxMzM1NDY5OTg=
+  notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
+    events_url: https://api.github.com/users/sparkfunX/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfunX/followers
+    following_url: https://api.github.com/users/sparkfunX/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfunX
+    id: 25487355
+    login: sparkfunX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
+    organizations_url: https://api.github.com/users/sparkfunX/orgs
+    received_events_url: https://api.github.com/users/sparkfunX/received_events
+    repos_url: https://api.github.com/users/sparkfunX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfunX
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/pulls{/number}
+  pushed_at: '2018-07-10T20:39:14Z'
+  releases_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/releases{/id}
+  size: 4500
+  ssh_url: git@github.com:sparkfunX/Qwiic_Bluetooth_HC1x.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/stargazers
+  statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/subscribers
+  subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/subscription
+  svn_url: https://github.com/sparkfunX/Qwiic_Bluetooth_HC1x
+  tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/tags
+  teams_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x/git/trees{/sha}
+  updated_at: '2018-07-10T21:04:42Z'
+  url: https://api.github.com/repos/sparkfunX/Qwiic_Bluetooth_HC1x
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

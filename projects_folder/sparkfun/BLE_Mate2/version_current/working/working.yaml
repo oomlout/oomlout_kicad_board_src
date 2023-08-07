@@ -1,102 +1,119 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/BLE_Mate2/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/BLE_Mate2/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/BLE_Mate2/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/BLE_Mate2/branches{/branch}
-clone_url: https://github.com/sparkfun/BLE_Mate2.git
-collaborators_url: https://api.github.com/repos/sparkfun/BLE_Mate2/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/BLE_Mate2/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/BLE_Mate2/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/BLE_Mate2/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/BLE_Mate2/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/BLE_Mate2/contributors
-created_at: '2014-07-07T19:16:58Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/BLE_Mate2/deployments
-description: A Bluetooth 4.0 (aka, Bluetooth Low Energy) version of SparkFun's classic
-  Bluetooth Mate products.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/BLE_Mate2/downloads
-events_url: https://api.github.com/repos/sparkfun/BLE_Mate2/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_ble_mate2/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/BLE_Mate2/version_current/working/working.brd
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/sparkfun/BLE_Mate2/forks
-full_name: sparkfun/BLE_Mate2
-git_commits_url: https://api.github.com/repos/sparkfun/BLE_Mate2/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/BLE_Mate2/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/BLE_Mate2/git/tags{/sha}
-git_url: git://github.com/sparkfun/BLE_Mate2.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/BLE_Mate2/hooks
-html_url: https://github.com/sparkfun/BLE_Mate2
-id: 21583414
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/BLE_Mate2/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/BLE_Mate2/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/BLE_Mate2/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/BLE_Mate2/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/BLE_Mate2/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/sparkfun/BLE_Mate2/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/BLE_Mate2/merges
-milestones_url: https://api.github.com/repos/sparkfun/BLE_Mate2/milestones{/number}
-mirror_url: null
-name: BLE_Mate2
-node_id: MDEwOlJlcG9zaXRvcnkyMTU4MzQxNA==
-notifications_url: https://api.github.com/repos/sparkfun/BLE_Mate2/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: BLE_Mate2
+  github_src: https://github.com/sparkfun/BLE_Mate2
+  github_src_repo: https://github.com/sparkfun/BLE_Mate2
+  oomp_bot: sparkfun_ble_mate2
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_ble_mate2
+  oomp_doc: projects/sparkfun_ble_mate2/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_ble_mate2
+  oomp_src_flat: projects_flat/sparkfun_ble_mate2
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_ble_mate2
+  oomp_src_folder: projects_folder\sparkfun\BLE_Mate2\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\BLE_Mate2\version_current\working
+oomp_key: oomp_sparkfun_ble_mate2
+oomp_key_simple: sparkfun_ble_mate2
+projects_flat: projects_flat/sparkfun_ble_mate2/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_ble_mate2/version_current/working
 projects_folder: projects_folder/sparkfun/BLE_Mate2/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/BLE_Mate2/pulls{/number}
-pushed_at: '2015-05-05T14:57:52Z'
-releases_url: https://api.github.com/repos/sparkfun/BLE_Mate2/releases{/id}
-size: 495
-ssh_url: git@github.com:sparkfun/BLE_Mate2.git
-stargazers_count: 11
-stargazers_url: https://api.github.com/repos/sparkfun/BLE_Mate2/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/BLE_Mate2/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/BLE_Mate2/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/BLE_Mate2/subscription
-svn_url: https://github.com/sparkfun/BLE_Mate2
-tags_url: https://api.github.com/repos/sparkfun/BLE_Mate2/tags
-teams_url: https://api.github.com/repos/sparkfun/BLE_Mate2/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/BLE_Mate2/git/trees{/sha}
-updated_at: '2020-01-24T18:20:30Z'
-url: https://api.github.com/repos/sparkfun/BLE_Mate2
-visibility: public
-watchers: 11
-watchers_count: 11
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/BLE_Mate2/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/BLE_Mate2/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/BLE_Mate2/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/BLE_Mate2/branches{/branch}
+  clone_url: https://github.com/sparkfun/BLE_Mate2.git
+  collaborators_url: https://api.github.com/repos/sparkfun/BLE_Mate2/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/BLE_Mate2/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/BLE_Mate2/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/BLE_Mate2/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/BLE_Mate2/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/BLE_Mate2/contributors
+  created_at: '2014-07-07T19:16:58Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/BLE_Mate2/deployments
+  description: A Bluetooth 4.0 (aka, Bluetooth Low Energy) version of SparkFun's classic
+    Bluetooth Mate products.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/BLE_Mate2/downloads
+  events_url: https://api.github.com/repos/sparkfun/BLE_Mate2/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/sparkfun/BLE_Mate2/forks
+  full_name: sparkfun/BLE_Mate2
+  git_commits_url: https://api.github.com/repos/sparkfun/BLE_Mate2/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/BLE_Mate2/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/BLE_Mate2/git/tags{/sha}
+  git_url: git://github.com/sparkfun/BLE_Mate2.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/BLE_Mate2/hooks
+  html_url: https://github.com/sparkfun/BLE_Mate2
+  id: 21583414
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/BLE_Mate2/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/BLE_Mate2/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/BLE_Mate2/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/BLE_Mate2/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/BLE_Mate2/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/sparkfun/BLE_Mate2/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/BLE_Mate2/merges
+  milestones_url: https://api.github.com/repos/sparkfun/BLE_Mate2/milestones{/number}
+  mirror_url: null
+  name: BLE_Mate2
+  node_id: MDEwOlJlcG9zaXRvcnkyMTU4MzQxNA==
+  notifications_url: https://api.github.com/repos/sparkfun/BLE_Mate2/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/BLE_Mate2/pulls{/number}
+  pushed_at: '2015-05-05T14:57:52Z'
+  releases_url: https://api.github.com/repos/sparkfun/BLE_Mate2/releases{/id}
+  size: 495
+  ssh_url: git@github.com:sparkfun/BLE_Mate2.git
+  stargazers_count: 11
+  stargazers_url: https://api.github.com/repos/sparkfun/BLE_Mate2/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/BLE_Mate2/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/BLE_Mate2/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/BLE_Mate2/subscription
+  svn_url: https://github.com/sparkfun/BLE_Mate2
+  tags_url: https://api.github.com/repos/sparkfun/BLE_Mate2/tags
+  teams_url: https://api.github.com/repos/sparkfun/BLE_Mate2/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/BLE_Mate2/git/trees{/sha}
+  updated_at: '2020-01-24T18:20:30Z'
+  url: https://api.github.com/repos/sparkfun/BLE_Mate2
+  visibility: public
+  watchers: 11
+  watchers_count: 11
+  web_commit_signoff_required: false

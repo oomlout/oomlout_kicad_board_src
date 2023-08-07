@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/kiu/feinstaubnode/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/kiu/feinstaubnode/assignees{/user}
-blobs_url: https://api.github.com/repos/kiu/feinstaubnode/git/blobs{/sha}
-branches_url: https://api.github.com/repos/kiu/feinstaubnode/branches{/branch}
-clone_url: https://github.com/kiu/feinstaubnode.git
-collaborators_url: https://api.github.com/repos/kiu/feinstaubnode/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/kiu/feinstaubnode/comments{/number}
-commits_url: https://api.github.com/repos/kiu/feinstaubnode/commits{/sha}
-compare_url: https://api.github.com/repos/kiu/feinstaubnode/compare/{base}...{head}
-contents_url: https://api.github.com/repos/kiu/feinstaubnode/contents/{+path}
-contributors_url: https://api.github.com/repos/kiu/feinstaubnode/contributors
-created_at: '2017-02-25T14:35:12Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/kiu/feinstaubnode/deployments
-description: feinstaubnode is a citizen science project measuring air quality (PM2.5/PM10)
-  and temperature/humidity across Germany.
-disabled: false
-downloads_url: https://api.github.com/repos/kiu/feinstaubnode/downloads
-events_url: https://api.github.com/repos/kiu/feinstaubnode/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/kiu/feinstaubnode/forks
-full_name: kiu/feinstaubnode
-git_commits_url: https://api.github.com/repos/kiu/feinstaubnode/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/kiu/feinstaubnode/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/kiu/feinstaubnode/git/tags{/sha}
-git_url: git://github.com/kiu/feinstaubnode.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: false
-has_wiki: false
-homepage: https://schoar.de/tinkering/feinstaubnode
-hooks_url: https://api.github.com/repos/kiu/feinstaubnode/hooks
-html_url: https://github.com/kiu/feinstaubnode
-id: 83137481
-is_template: false
-issue_comment_url: https://api.github.com/repos/kiu/feinstaubnode/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/kiu/feinstaubnode/issues/events{/number}
-issues_url: https://api.github.com/repos/kiu/feinstaubnode/issues{/number}
-keys_url: https://api.github.com/repos/kiu/feinstaubnode/keys{/key_id}
-labels_url: https://api.github.com/repos/kiu/feinstaubnode/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/kiu/feinstaubnode/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/kiu/feinstaubnode/merges
-milestones_url: https://api.github.com/repos/kiu/feinstaubnode/milestones{/number}
-mirror_url: null
-name: feinstaubnode
-node_id: MDEwOlJlcG9zaXRvcnk4MzEzNzQ4MQ==
-notifications_url: https://api.github.com/repos/kiu/feinstaubnode/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/785968?v=4
-  events_url: https://api.github.com/users/kiu/events{/privacy}
-  followers_url: https://api.github.com/users/kiu/followers
-  following_url: https://api.github.com/users/kiu/following{/other_user}
-  gists_url: https://api.github.com/users/kiu/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/kiu
-  id: 785968
-  login: kiu
-  node_id: MDQ6VXNlcjc4NTk2OA==
-  organizations_url: https://api.github.com/users/kiu/orgs
-  received_events_url: https://api.github.com/users/kiu/received_events
-  repos_url: https://api.github.com/users/kiu/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/kiu/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/kiu/subscriptions
-  type: User
-  url: https://api.github.com/users/kiu
-private: false
+links:
+  github_owner: kiu
+  github_repo_name: feinstaubnode
+  github_src: https://github.com/kiu/feinstaubnode
+  github_src_repo: https://github.com/kiu/feinstaubnode
+  oomp_bot: kiu_feinstaubnode
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/kiu_feinstaubnode
+  oomp_doc: projects/kiu_feinstaubnode/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/kiu_feinstaubnode
+  oomp_src_flat: projects_flat/kiu_feinstaubnode
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/kiu_feinstaubnode
+  oomp_src_folder: projects_folder\kiu\feinstaubnode\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\kiu\feinstaubnode\version_current\working
+oomp_key: oomp_kiu_feinstaubnode
+oomp_key_simple: kiu_feinstaubnode
 projects_flat: projects_flat/kiu_feinstaubnode/version_current/working
 projects_folder: projects_folder/kiu/feinstaubnode/version_current/working
-pulls_url: https://api.github.com/repos/kiu/feinstaubnode/pulls{/number}
-pushed_at: '2017-03-17T23:05:56Z'
-releases_url: https://api.github.com/repos/kiu/feinstaubnode/releases{/id}
-size: 2358
-ssh_url: git@github.com:kiu/feinstaubnode.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/kiu/feinstaubnode/stargazers
-statuses_url: https://api.github.com/repos/kiu/feinstaubnode/statuses/{sha}
-subscribers_url: https://api.github.com/repos/kiu/feinstaubnode/subscribers
-subscription_url: https://api.github.com/repos/kiu/feinstaubnode/subscription
-svn_url: https://github.com/kiu/feinstaubnode
-tags_url: https://api.github.com/repos/kiu/feinstaubnode/tags
-teams_url: https://api.github.com/repos/kiu/feinstaubnode/teams
-topics: []
-trees_url: https://api.github.com/repos/kiu/feinstaubnode/git/trees{/sha}
-updated_at: '2021-06-05T21:20:18Z'
-url: https://api.github.com/repos/kiu/feinstaubnode
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/kiu/feinstaubnode/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/kiu/feinstaubnode/assignees{/user}
+  blobs_url: https://api.github.com/repos/kiu/feinstaubnode/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/kiu/feinstaubnode/branches{/branch}
+  clone_url: https://github.com/kiu/feinstaubnode.git
+  collaborators_url: https://api.github.com/repos/kiu/feinstaubnode/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/kiu/feinstaubnode/comments{/number}
+  commits_url: https://api.github.com/repos/kiu/feinstaubnode/commits{/sha}
+  compare_url: https://api.github.com/repos/kiu/feinstaubnode/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/kiu/feinstaubnode/contents/{+path}
+  contributors_url: https://api.github.com/repos/kiu/feinstaubnode/contributors
+  created_at: '2017-02-25T14:35:12Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/kiu/feinstaubnode/deployments
+  description: feinstaubnode is a citizen science project measuring air quality (PM2.5/PM10)
+    and temperature/humidity across Germany.
+  disabled: false
+  downloads_url: https://api.github.com/repos/kiu/feinstaubnode/downloads
+  events_url: https://api.github.com/repos/kiu/feinstaubnode/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/kiu/feinstaubnode/forks
+  full_name: kiu/feinstaubnode
+  git_commits_url: https://api.github.com/repos/kiu/feinstaubnode/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/kiu/feinstaubnode/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/kiu/feinstaubnode/git/tags{/sha}
+  git_url: git://github.com/kiu/feinstaubnode.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: false
+  has_wiki: false
+  homepage: https://schoar.de/tinkering/feinstaubnode
+  hooks_url: https://api.github.com/repos/kiu/feinstaubnode/hooks
+  html_url: https://github.com/kiu/feinstaubnode
+  id: 83137481
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/kiu/feinstaubnode/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/kiu/feinstaubnode/issues/events{/number}
+  issues_url: https://api.github.com/repos/kiu/feinstaubnode/issues{/number}
+  keys_url: https://api.github.com/repos/kiu/feinstaubnode/keys{/key_id}
+  labels_url: https://api.github.com/repos/kiu/feinstaubnode/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/kiu/feinstaubnode/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/kiu/feinstaubnode/merges
+  milestones_url: https://api.github.com/repos/kiu/feinstaubnode/milestones{/number}
+  mirror_url: null
+  name: feinstaubnode
+  node_id: MDEwOlJlcG9zaXRvcnk4MzEzNzQ4MQ==
+  notifications_url: https://api.github.com/repos/kiu/feinstaubnode/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/785968?v=4
+    events_url: https://api.github.com/users/kiu/events{/privacy}
+    followers_url: https://api.github.com/users/kiu/followers
+    following_url: https://api.github.com/users/kiu/following{/other_user}
+    gists_url: https://api.github.com/users/kiu/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/kiu
+    id: 785968
+    login: kiu
+    node_id: MDQ6VXNlcjc4NTk2OA==
+    organizations_url: https://api.github.com/users/kiu/orgs
+    received_events_url: https://api.github.com/users/kiu/received_events
+    repos_url: https://api.github.com/users/kiu/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/kiu/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/kiu/subscriptions
+    type: User
+    url: https://api.github.com/users/kiu
+  private: false
+  pulls_url: https://api.github.com/repos/kiu/feinstaubnode/pulls{/number}
+  pushed_at: '2017-03-17T23:05:56Z'
+  releases_url: https://api.github.com/repos/kiu/feinstaubnode/releases{/id}
+  size: 2358
+  ssh_url: git@github.com:kiu/feinstaubnode.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/kiu/feinstaubnode/stargazers
+  statuses_url: https://api.github.com/repos/kiu/feinstaubnode/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/kiu/feinstaubnode/subscribers
+  subscription_url: https://api.github.com/repos/kiu/feinstaubnode/subscription
+  svn_url: https://github.com/kiu/feinstaubnode
+  tags_url: https://api.github.com/repos/kiu/feinstaubnode/tags
+  teams_url: https://api.github.com/repos/kiu/feinstaubnode/teams
+  topics: []
+  trees_url: https://api.github.com/repos/kiu/feinstaubnode/git/trees{/sha}
+  updated_at: '2021-06-05T21:20:18Z'
+  url: https://api.github.com/repos/kiu/feinstaubnode
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

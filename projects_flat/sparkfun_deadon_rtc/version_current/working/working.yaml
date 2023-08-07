@@ -1,99 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/branches{/branch}
-clone_url: https://github.com/sparkfun/DeadOn_RTC.git
-collaborators_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/contributors
-created_at: '2013-08-05T20:44:28Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/deployments
-description: Example code and board files for the DeadOn_RTC
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/downloads
-events_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/events
-fork: false
-forks: 6
-forks_count: 6
-forks_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/forks
-full_name: sparkfun/DeadOn_RTC
-git_commits_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/git/tags{/sha}
-git_url: git://github.com/sparkfun/DeadOn_RTC.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/products/10160
-hooks_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/hooks
-html_url: https://github.com/sparkfun/DeadOn_RTC
-id: 11908343
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/merges
-milestones_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/milestones{/number}
-mirror_url: null
-name: DeadOn_RTC
-node_id: MDEwOlJlcG9zaXRvcnkxMTkwODM0Mw==
-notifications_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: DeadOn_RTC
+  github_src: https://github.com/sparkfun/DeadOn_RTC
+  github_src_repo: https://github.com/sparkfun/DeadOn_RTC
+  oomp_bot: projects_sparkfun_deadon_rtc
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_deadon_rtc
+  oomp_doc: projects/projects_flat_sparkfun_deadon_rtc/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_deadon_rtc
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_deadon_rtc
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_deadon_rtc
+  oomp_src_folder: projects_flat\sparkfun_deadon_rtc\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_deadon_rtc\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_deadon_rtc
+oomp_key_simple: projects_flat_sparkfun_deadon_rtc
+projects_flat: projects_flat/sparkfun_deadon_rtc/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_deadon_rtc/version_current/working
 projects_folder: projects_folder/sparkfun/DeadOn_RTC/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/pulls{/number}
-pushed_at: '2015-04-29T01:59:59Z'
-releases_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/releases{/id}
-size: 189
-ssh_url: git@github.com:sparkfun/DeadOn_RTC.git
-stargazers_count: 7
-stargazers_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/subscription
-svn_url: https://github.com/sparkfun/DeadOn_RTC
-tags_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/tags
-teams_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/git/trees{/sha}
-updated_at: '2021-07-20T22:08:00Z'
-url: https://api.github.com/repos/sparkfun/DeadOn_RTC
-visibility: public
-watchers: 7
-watchers_count: 7
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/branches{/branch}
+  clone_url: https://github.com/sparkfun/DeadOn_RTC.git
+  collaborators_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/contributors
+  created_at: '2013-08-05T20:44:28Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/deployments
+  description: Example code and board files for the DeadOn_RTC
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/downloads
+  events_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/events
+  fork: false
+  forks: 6
+  forks_count: 6
+  forks_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/forks
+  full_name: sparkfun/DeadOn_RTC
+  git_commits_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/git/tags{/sha}
+  git_url: git://github.com/sparkfun/DeadOn_RTC.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/products/10160
+  hooks_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/hooks
+  html_url: https://github.com/sparkfun/DeadOn_RTC
+  id: 11908343
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/merges
+  milestones_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/milestones{/number}
+  mirror_url: null
+  name: DeadOn_RTC
+  node_id: MDEwOlJlcG9zaXRvcnkxMTkwODM0Mw==
+  notifications_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/pulls{/number}
+  pushed_at: '2015-04-29T01:59:59Z'
+  releases_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/releases{/id}
+  size: 189
+  ssh_url: git@github.com:sparkfun/DeadOn_RTC.git
+  stargazers_count: 7
+  stargazers_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/subscription
+  svn_url: https://github.com/sparkfun/DeadOn_RTC
+  tags_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/tags
+  teams_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/DeadOn_RTC/git/trees{/sha}
+  updated_at: '2021-07-20T22:08:00Z'
+  url: https://api.github.com/repos/sparkfun/DeadOn_RTC
+  visibility: public
+  watchers: 7
+  watchers_count: 7
+  web_commit_signoff_required: false

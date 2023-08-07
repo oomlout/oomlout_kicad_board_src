@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/labitat/pentabug/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/labitat/pentabug/assignees{/user}
-blobs_url: https://api.github.com/repos/labitat/pentabug/git/blobs{/sha}
-branches_url: https://api.github.com/repos/labitat/pentabug/branches{/branch}
-clone_url: https://github.com/labitat/pentabug.git
-collaborators_url: https://api.github.com/repos/labitat/pentabug/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/labitat/pentabug/comments{/number}
-commits_url: https://api.github.com/repos/labitat/pentabug/commits{/sha}
-compare_url: https://api.github.com/repos/labitat/pentabug/compare/{base}...{head}
-contents_url: https://api.github.com/repos/labitat/pentabug/contents/{+path}
-contributors_url: https://api.github.com/repos/labitat/pentabug/contributors
-created_at: '2013-05-13T11:41:28Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/labitat/pentabug/deployments
-description: pentabug
-disabled: false
-downloads_url: https://api.github.com/repos/labitat/pentabug/downloads
-events_url: https://api.github.com/repos/labitat/pentabug/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/labitat/pentabug/forks
-full_name: labitat/pentabug
-git_commits_url: https://api.github.com/repos/labitat/pentabug/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/labitat/pentabug/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/labitat/pentabug/git/tags{/sha}
-git_url: git://github.com/labitat/pentabug.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/labitat/pentabug/hooks
-html_url: https://github.com/labitat/pentabug
-id: 10030425
-is_template: false
-issue_comment_url: https://api.github.com/repos/labitat/pentabug/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/labitat/pentabug/issues/events{/number}
-issues_url: https://api.github.com/repos/labitat/pentabug/issues{/number}
-keys_url: https://api.github.com/repos/labitat/pentabug/keys{/key_id}
-labels_url: https://api.github.com/repos/labitat/pentabug/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/labitat/pentabug/languages
-license: null
-merges_url: https://api.github.com/repos/labitat/pentabug/merges
-milestones_url: https://api.github.com/repos/labitat/pentabug/milestones{/number}
-mirror_url: null
-name: pentabug
-node_id: MDEwOlJlcG9zaXRvcnkxMDAzMDQyNQ==
-notifications_url: https://api.github.com/repos/labitat/pentabug/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/346178?v=4
-  events_url: https://api.github.com/users/labitat/events{/privacy}
-  followers_url: https://api.github.com/users/labitat/followers
-  following_url: https://api.github.com/users/labitat/following{/other_user}
-  gists_url: https://api.github.com/users/labitat/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/labitat
-  id: 346178
-  login: labitat
-  node_id: MDEyOk9yZ2FuaXphdGlvbjM0NjE3OA==
-  organizations_url: https://api.github.com/users/labitat/orgs
-  received_events_url: https://api.github.com/users/labitat/received_events
-  repos_url: https://api.github.com/users/labitat/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/labitat/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/labitat/subscriptions
-  type: Organization
-  url: https://api.github.com/users/labitat
-private: false
+links:
+  github_owner: labitat
+  github_repo_name: pentabug
+  github_src: https://github.com/labitat/pentabug
+  github_src_repo: https://github.com/labitat/pentabug
+  oomp_bot: projects_labitat_pentabug
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_labitat_pentabug
+  oomp_doc: projects/projects_flat_labitat_pentabug/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_labitat_pentabug
+  oomp_src_flat: projects_flat/projects_flat_labitat_pentabug
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_labitat_pentabug
+  oomp_src_folder: projects_flat\labitat_pentabug\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\labitat_pentabug\version_current\working
+oomp_key: oomp_projects_flat_labitat_pentabug
+oomp_key_simple: projects_flat_labitat_pentabug
 projects_flat: projects_flat/labitat_pentabug/version_current/working
 projects_folder: projects_folder/labitat/pentabug/version_current/working
-pulls_url: https://api.github.com/repos/labitat/pentabug/pulls{/number}
-pushed_at: '2013-03-28T19:27:42Z'
-releases_url: https://api.github.com/repos/labitat/pentabug/releases{/id}
-size: 19212
-ssh_url: git@github.com:labitat/pentabug.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/labitat/pentabug/stargazers
-statuses_url: https://api.github.com/repos/labitat/pentabug/statuses/{sha}
-subscribers_url: https://api.github.com/repos/labitat/pentabug/subscribers
-subscription_url: https://api.github.com/repos/labitat/pentabug/subscription
-svn_url: https://github.com/labitat/pentabug
-tags_url: https://api.github.com/repos/labitat/pentabug/tags
-teams_url: https://api.github.com/repos/labitat/pentabug/teams
-topics: []
-trees_url: https://api.github.com/repos/labitat/pentabug/git/trees{/sha}
-updated_at: '2013-05-19T15:07:17Z'
-url: https://api.github.com/repos/labitat/pentabug
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/labitat/pentabug/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/labitat/pentabug/assignees{/user}
+  blobs_url: https://api.github.com/repos/labitat/pentabug/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/labitat/pentabug/branches{/branch}
+  clone_url: https://github.com/labitat/pentabug.git
+  collaborators_url: https://api.github.com/repos/labitat/pentabug/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/labitat/pentabug/comments{/number}
+  commits_url: https://api.github.com/repos/labitat/pentabug/commits{/sha}
+  compare_url: https://api.github.com/repos/labitat/pentabug/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/labitat/pentabug/contents/{+path}
+  contributors_url: https://api.github.com/repos/labitat/pentabug/contributors
+  created_at: '2013-05-13T11:41:28Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/labitat/pentabug/deployments
+  description: pentabug
+  disabled: false
+  downloads_url: https://api.github.com/repos/labitat/pentabug/downloads
+  events_url: https://api.github.com/repos/labitat/pentabug/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/labitat/pentabug/forks
+  full_name: labitat/pentabug
+  git_commits_url: https://api.github.com/repos/labitat/pentabug/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/labitat/pentabug/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/labitat/pentabug/git/tags{/sha}
+  git_url: git://github.com/labitat/pentabug.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/labitat/pentabug/hooks
+  html_url: https://github.com/labitat/pentabug
+  id: 10030425
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/labitat/pentabug/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/labitat/pentabug/issues/events{/number}
+  issues_url: https://api.github.com/repos/labitat/pentabug/issues{/number}
+  keys_url: https://api.github.com/repos/labitat/pentabug/keys{/key_id}
+  labels_url: https://api.github.com/repos/labitat/pentabug/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/labitat/pentabug/languages
+  license: null
+  merges_url: https://api.github.com/repos/labitat/pentabug/merges
+  milestones_url: https://api.github.com/repos/labitat/pentabug/milestones{/number}
+  mirror_url: null
+  name: pentabug
+  node_id: MDEwOlJlcG9zaXRvcnkxMDAzMDQyNQ==
+  notifications_url: https://api.github.com/repos/labitat/pentabug/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/346178?v=4
+    events_url: https://api.github.com/users/labitat/events{/privacy}
+    followers_url: https://api.github.com/users/labitat/followers
+    following_url: https://api.github.com/users/labitat/following{/other_user}
+    gists_url: https://api.github.com/users/labitat/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/labitat
+    id: 346178
+    login: labitat
+    node_id: MDEyOk9yZ2FuaXphdGlvbjM0NjE3OA==
+    organizations_url: https://api.github.com/users/labitat/orgs
+    received_events_url: https://api.github.com/users/labitat/received_events
+    repos_url: https://api.github.com/users/labitat/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/labitat/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/labitat/subscriptions
+    type: Organization
+    url: https://api.github.com/users/labitat
+  private: false
+  pulls_url: https://api.github.com/repos/labitat/pentabug/pulls{/number}
+  pushed_at: '2013-03-28T19:27:42Z'
+  releases_url: https://api.github.com/repos/labitat/pentabug/releases{/id}
+  size: 19212
+  ssh_url: git@github.com:labitat/pentabug.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/labitat/pentabug/stargazers
+  statuses_url: https://api.github.com/repos/labitat/pentabug/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/labitat/pentabug/subscribers
+  subscription_url: https://api.github.com/repos/labitat/pentabug/subscription
+  svn_url: https://github.com/labitat/pentabug
+  tags_url: https://api.github.com/repos/labitat/pentabug/tags
+  teams_url: https://api.github.com/repos/labitat/pentabug/teams
+  topics: []
+  trees_url: https://api.github.com/repos/labitat/pentabug/git/trees{/sha}
+  updated_at: '2013-05-19T15:07:17Z'
+  url: https://api.github.com/repos/labitat/pentabug
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

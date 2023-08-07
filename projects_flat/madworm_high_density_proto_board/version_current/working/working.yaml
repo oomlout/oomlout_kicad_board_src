@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/madworm/High-density-proto-board/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/madworm/High-density-proto-board/assignees{/user}
-blobs_url: https://api.github.com/repos/madworm/High-density-proto-board/git/blobs{/sha}
-branches_url: https://api.github.com/repos/madworm/High-density-proto-board/branches{/branch}
-clone_url: https://github.com/madworm/High-density-proto-board.git
-collaborators_url: https://api.github.com/repos/madworm/High-density-proto-board/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/madworm/High-density-proto-board/comments{/number}
-commits_url: https://api.github.com/repos/madworm/High-density-proto-board/commits{/sha}
-compare_url: https://api.github.com/repos/madworm/High-density-proto-board/compare/{base}...{head}
-contents_url: https://api.github.com/repos/madworm/High-density-proto-board/contents/{+path}
-contributors_url: https://api.github.com/repos/madworm/High-density-proto-board/contributors
-created_at: '2014-06-11T16:39:34Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/madworm/High-density-proto-board/deployments
-description: 'LAYOUT FILES: Bread-board like proto-board with 1.27mm raster (50mil).'
-disabled: false
-downloads_url: https://api.github.com/repos/madworm/High-density-proto-board/downloads
-events_url: https://api.github.com/repos/madworm/High-density-proto-board/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/madworm/High-density-proto-board/forks
-full_name: madworm/High-density-proto-board
-git_commits_url: https://api.github.com/repos/madworm/High-density-proto-board/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/madworm/High-density-proto-board/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/madworm/High-density-proto-board/git/tags{/sha}
-git_url: git://github.com/madworm/High-density-proto-board.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/madworm/High-density-proto-board/hooks
-html_url: https://github.com/madworm/High-density-proto-board
-id: 20732774
-is_template: false
-issue_comment_url: https://api.github.com/repos/madworm/High-density-proto-board/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/madworm/High-density-proto-board/issues/events{/number}
-issues_url: https://api.github.com/repos/madworm/High-density-proto-board/issues{/number}
-keys_url: https://api.github.com/repos/madworm/High-density-proto-board/keys{/key_id}
-labels_url: https://api.github.com/repos/madworm/High-density-proto-board/labels{/name}
-language: Shell
-languages_url: https://api.github.com/repos/madworm/High-density-proto-board/languages
-license: null
-merges_url: https://api.github.com/repos/madworm/High-density-proto-board/merges
-milestones_url: https://api.github.com/repos/madworm/High-density-proto-board/milestones{/number}
-mirror_url: null
-name: High-density-proto-board
-node_id: MDEwOlJlcG9zaXRvcnkyMDczMjc3NA==
-notifications_url: https://api.github.com/repos/madworm/High-density-proto-board/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
-  events_url: https://api.github.com/users/madworm/events{/privacy}
-  followers_url: https://api.github.com/users/madworm/followers
-  following_url: https://api.github.com/users/madworm/following{/other_user}
-  gists_url: https://api.github.com/users/madworm/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/madworm
-  id: 343894
-  login: madworm
-  node_id: MDQ6VXNlcjM0Mzg5NA==
-  organizations_url: https://api.github.com/users/madworm/orgs
-  received_events_url: https://api.github.com/users/madworm/received_events
-  repos_url: https://api.github.com/users/madworm/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/madworm/subscriptions
-  type: User
-  url: https://api.github.com/users/madworm
-private: false
+links:
+  github_owner: madworm
+  github_repo_name: High-density-proto-board
+  github_src: https://github.com/madworm/High-density-proto-board
+  github_src_repo: https://github.com/madworm/High-density-proto-board
+  oomp_bot: projects_madworm_high_density_proto_board
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_madworm_high_density_proto_board
+  oomp_doc: projects/projects_flat_madworm_high_density_proto_board/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_madworm_high_density_proto_board
+  oomp_src_flat: projects_flat/projects_flat_madworm_high_density_proto_board
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_madworm_high_density_proto_board
+  oomp_src_folder: projects_flat\madworm_high_density_proto_board\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\madworm_high_density_proto_board\version_current\working
+oomp_key: oomp_projects_flat_madworm_high_density_proto_board
+oomp_key_simple: projects_flat_madworm_high_density_proto_board
 projects_flat: projects_flat/madworm_high_density_proto_board/version_current/working
 projects_folder: projects_folder/madworm/High-density-proto-board/version_current/working
-pulls_url: https://api.github.com/repos/madworm/High-density-proto-board/pulls{/number}
-pushed_at: '2014-07-30T09:40:18Z'
-releases_url: https://api.github.com/repos/madworm/High-density-proto-board/releases{/id}
-size: 960
-ssh_url: git@github.com:madworm/High-density-proto-board.git
-stargazers_count: 7
-stargazers_url: https://api.github.com/repos/madworm/High-density-proto-board/stargazers
-statuses_url: https://api.github.com/repos/madworm/High-density-proto-board/statuses/{sha}
-subscribers_url: https://api.github.com/repos/madworm/High-density-proto-board/subscribers
-subscription_url: https://api.github.com/repos/madworm/High-density-proto-board/subscription
-svn_url: https://github.com/madworm/High-density-proto-board
-tags_url: https://api.github.com/repos/madworm/High-density-proto-board/tags
-teams_url: https://api.github.com/repos/madworm/High-density-proto-board/teams
-topics: []
-trees_url: https://api.github.com/repos/madworm/High-density-proto-board/git/trees{/sha}
-updated_at: '2023-07-25T13:52:09Z'
-url: https://api.github.com/repos/madworm/High-density-proto-board
-visibility: public
-watchers: 7
-watchers_count: 7
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/madworm/High-density-proto-board/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/madworm/High-density-proto-board/assignees{/user}
+  blobs_url: https://api.github.com/repos/madworm/High-density-proto-board/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/madworm/High-density-proto-board/branches{/branch}
+  clone_url: https://github.com/madworm/High-density-proto-board.git
+  collaborators_url: https://api.github.com/repos/madworm/High-density-proto-board/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/madworm/High-density-proto-board/comments{/number}
+  commits_url: https://api.github.com/repos/madworm/High-density-proto-board/commits{/sha}
+  compare_url: https://api.github.com/repos/madworm/High-density-proto-board/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/madworm/High-density-proto-board/contents/{+path}
+  contributors_url: https://api.github.com/repos/madworm/High-density-proto-board/contributors
+  created_at: '2014-06-11T16:39:34Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/madworm/High-density-proto-board/deployments
+  description: 'LAYOUT FILES: Bread-board like proto-board with 1.27mm raster (50mil).'
+  disabled: false
+  downloads_url: https://api.github.com/repos/madworm/High-density-proto-board/downloads
+  events_url: https://api.github.com/repos/madworm/High-density-proto-board/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/madworm/High-density-proto-board/forks
+  full_name: madworm/High-density-proto-board
+  git_commits_url: https://api.github.com/repos/madworm/High-density-proto-board/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/madworm/High-density-proto-board/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/madworm/High-density-proto-board/git/tags{/sha}
+  git_url: git://github.com/madworm/High-density-proto-board.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/madworm/High-density-proto-board/hooks
+  html_url: https://github.com/madworm/High-density-proto-board
+  id: 20732774
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/madworm/High-density-proto-board/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/madworm/High-density-proto-board/issues/events{/number}
+  issues_url: https://api.github.com/repos/madworm/High-density-proto-board/issues{/number}
+  keys_url: https://api.github.com/repos/madworm/High-density-proto-board/keys{/key_id}
+  labels_url: https://api.github.com/repos/madworm/High-density-proto-board/labels{/name}
+  language: Shell
+  languages_url: https://api.github.com/repos/madworm/High-density-proto-board/languages
+  license: null
+  merges_url: https://api.github.com/repos/madworm/High-density-proto-board/merges
+  milestones_url: https://api.github.com/repos/madworm/High-density-proto-board/milestones{/number}
+  mirror_url: null
+  name: High-density-proto-board
+  node_id: MDEwOlJlcG9zaXRvcnkyMDczMjc3NA==
+  notifications_url: https://api.github.com/repos/madworm/High-density-proto-board/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
+    events_url: https://api.github.com/users/madworm/events{/privacy}
+    followers_url: https://api.github.com/users/madworm/followers
+    following_url: https://api.github.com/users/madworm/following{/other_user}
+    gists_url: https://api.github.com/users/madworm/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/madworm
+    id: 343894
+    login: madworm
+    node_id: MDQ6VXNlcjM0Mzg5NA==
+    organizations_url: https://api.github.com/users/madworm/orgs
+    received_events_url: https://api.github.com/users/madworm/received_events
+    repos_url: https://api.github.com/users/madworm/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/madworm/subscriptions
+    type: User
+    url: https://api.github.com/users/madworm
+  private: false
+  pulls_url: https://api.github.com/repos/madworm/High-density-proto-board/pulls{/number}
+  pushed_at: '2014-07-30T09:40:18Z'
+  releases_url: https://api.github.com/repos/madworm/High-density-proto-board/releases{/id}
+  size: 960
+  ssh_url: git@github.com:madworm/High-density-proto-board.git
+  stargazers_count: 7
+  stargazers_url: https://api.github.com/repos/madworm/High-density-proto-board/stargazers
+  statuses_url: https://api.github.com/repos/madworm/High-density-proto-board/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/madworm/High-density-proto-board/subscribers
+  subscription_url: https://api.github.com/repos/madworm/High-density-proto-board/subscription
+  svn_url: https://github.com/madworm/High-density-proto-board
+  tags_url: https://api.github.com/repos/madworm/High-density-proto-board/tags
+  teams_url: https://api.github.com/repos/madworm/High-density-proto-board/teams
+  topics: []
+  trees_url: https://api.github.com/repos/madworm/High-density-proto-board/git/trees{/sha}
+  updated_at: '2023-07-25T13:52:09Z'
+  url: https://api.github.com/repos/madworm/High-density-proto-board
+  visibility: public
+  watchers: 7
+  watchers_count: 7
+  web_commit_signoff_required: false

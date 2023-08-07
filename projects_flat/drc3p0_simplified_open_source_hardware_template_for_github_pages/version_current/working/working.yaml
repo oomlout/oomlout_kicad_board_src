@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/assignees{/user}
-blobs_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/branches{/branch}
-clone_url: https://github.com/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages.git
-collaborators_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/comments{/number}
-commits_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/commits{/sha}
-compare_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/contents/{+path}
-contributors_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/contributors
-created_at: '2023-01-12T23:54:03Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/deployments
-description: example repo for using GitHub Pages
-disabled: false
-downloads_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/downloads
-events_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/forks
-full_name: Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages
-git_commits_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/git/tags{/sha}
-git_url: git://github.com/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/hooks
-html_url: https://github.com/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages
-id: 588363216
-is_template: false
-issue_comment_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/issues/events{/number}
-issues_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/issues{/number}
-keys_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/keys{/key_id}
-labels_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/merges
-milestones_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/milestones{/number}
-mirror_url: null
-name: simplified-open-source-hardware-template-for-GitHub-Pages
-node_id: R_kgDOIxG10A
-notifications_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5934416?v=4
-  events_url: https://api.github.com/users/Drc3p0/events{/privacy}
-  followers_url: https://api.github.com/users/Drc3p0/followers
-  following_url: https://api.github.com/users/Drc3p0/following{/other_user}
-  gists_url: https://api.github.com/users/Drc3p0/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Drc3p0
-  id: 5934416
-  login: Drc3p0
-  node_id: MDQ6VXNlcjU5MzQ0MTY=
-  organizations_url: https://api.github.com/users/Drc3p0/orgs
-  received_events_url: https://api.github.com/users/Drc3p0/received_events
-  repos_url: https://api.github.com/users/Drc3p0/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Drc3p0/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Drc3p0/subscriptions
-  type: User
-  url: https://api.github.com/users/Drc3p0
-private: false
+links:
+  github_owner: Drc3p0
+  github_repo_name: simplified-open-source-hardware-template-for-GitHub-Pages
+  github_src: https://github.com/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages
+  github_src_repo: https://github.com/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages
+  oomp_bot: projects_drc3p0_simplified_open_source_hardware_template_for_github_pages
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_drc3p0_simplified_open_source_hardware_template_for_github_pages
+  oomp_doc: projects/projects_flat_drc3p0_simplified_open_source_hardware_template_for_github_pages/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_drc3p0_simplified_open_source_hardware_template_for_github_pages
+  oomp_src_flat: projects_flat/projects_flat_drc3p0_simplified_open_source_hardware_template_for_github_pages
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_drc3p0_simplified_open_source_hardware_template_for_github_pages
+  oomp_src_folder: projects_flat\drc3p0_simplified_open_source_hardware_template_for_github_pages\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\drc3p0_simplified_open_source_hardware_template_for_github_pages\version_current\working
+oomp_key: oomp_projects_flat_drc3p0_simplified_open_source_hardware_template_for_github_pages
+oomp_key_simple: projects_flat_drc3p0_simplified_open_source_hardware_template_for_github_pages
 projects_flat: projects_flat/drc3p0_simplified_open_source_hardware_template_for_github_pages/version_current/working
 projects_folder: projects_folder/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/version_current/working
-pulls_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/pulls{/number}
-pushed_at: '2023-01-13T00:03:25Z'
-releases_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/releases{/id}
-size: 44
-ssh_url: git@github.com:Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/stargazers
-statuses_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/subscribers
-subscription_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/subscription
-svn_url: https://github.com/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages
-tags_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/tags
-teams_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/teams
-topics: []
-trees_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/git/trees{/sha}
-updated_at: '2023-01-12T23:54:10Z'
-url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/assignees{/user}
+  blobs_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/branches{/branch}
+  clone_url: https://github.com/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages.git
+  collaborators_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/comments{/number}
+  commits_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/commits{/sha}
+  compare_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/contents/{+path}
+  contributors_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/contributors
+  created_at: '2023-01-12T23:54:03Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/deployments
+  description: example repo for using GitHub Pages
+  disabled: false
+  downloads_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/downloads
+  events_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/forks
+  full_name: Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages
+  git_commits_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/git/tags{/sha}
+  git_url: git://github.com/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/hooks
+  html_url: https://github.com/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages
+  id: 588363216
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/issues/events{/number}
+  issues_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/issues{/number}
+  keys_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/keys{/key_id}
+  labels_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/merges
+  milestones_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/milestones{/number}
+  mirror_url: null
+  name: simplified-open-source-hardware-template-for-GitHub-Pages
+  node_id: R_kgDOIxG10A
+  notifications_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5934416?v=4
+    events_url: https://api.github.com/users/Drc3p0/events{/privacy}
+    followers_url: https://api.github.com/users/Drc3p0/followers
+    following_url: https://api.github.com/users/Drc3p0/following{/other_user}
+    gists_url: https://api.github.com/users/Drc3p0/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Drc3p0
+    id: 5934416
+    login: Drc3p0
+    node_id: MDQ6VXNlcjU5MzQ0MTY=
+    organizations_url: https://api.github.com/users/Drc3p0/orgs
+    received_events_url: https://api.github.com/users/Drc3p0/received_events
+    repos_url: https://api.github.com/users/Drc3p0/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Drc3p0/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Drc3p0/subscriptions
+    type: User
+    url: https://api.github.com/users/Drc3p0
+  private: false
+  pulls_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/pulls{/number}
+  pushed_at: '2023-01-13T00:03:25Z'
+  releases_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/releases{/id}
+  size: 44
+  ssh_url: git@github.com:Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/stargazers
+  statuses_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/subscribers
+  subscription_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/subscription
+  svn_url: https://github.com/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages
+  tags_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/tags
+  teams_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages/git/trees{/sha}
+  updated_at: '2023-01-12T23:54:10Z'
+  url: https://api.github.com/repos/Drc3p0/simplified-open-source-hardware-template-for-GitHub-Pages
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/cmos-droner/UM-TSS/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/cmos-droner/UM-TSS/assignees{/user}
-blobs_url: https://api.github.com/repos/cmos-droner/UM-TSS/git/blobs{/sha}
-branches_url: https://api.github.com/repos/cmos-droner/UM-TSS/branches{/branch}
-clone_url: https://github.com/cmos-droner/UM-TSS.git
-collaborators_url: https://api.github.com/repos/cmos-droner/UM-TSS/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/cmos-droner/UM-TSS/comments{/number}
-commits_url: https://api.github.com/repos/cmos-droner/UM-TSS/commits{/sha}
-compare_url: https://api.github.com/repos/cmos-droner/UM-TSS/compare/{base}...{head}
-contents_url: https://api.github.com/repos/cmos-droner/UM-TSS/contents/{+path}
-contributors_url: https://api.github.com/repos/cmos-droner/UM-TSS/contributors
-created_at: '2017-01-09T10:59:57Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/cmos-droner/UM-TSS/deployments
-description: This is a circuit by Jacob Watters (check the original block post), I
-  just did the PCB-layout. In agreement with Jacob this is released here as open hardware.
-  Hopefully you enjoy the project and maybe you can even improve it!
-disabled: false
-downloads_url: https://api.github.com/repos/cmos-droner/UM-TSS/downloads
-events_url: https://api.github.com/repos/cmos-droner/UM-TSS/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/cmos-droner/UM-TSS/forks
-full_name: cmos-droner/UM-TSS
-git_commits_url: https://api.github.com/repos/cmos-droner/UM-TSS/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/cmos-droner/UM-TSS/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/cmos-droner/UM-TSS/git/tags{/sha}
-git_url: git://github.com/cmos-droner/UM-TSS.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/cmos-droner/UM-TSS/hooks
-html_url: https://github.com/cmos-droner/UM-TSS
-id: 78420903
-is_template: false
-issue_comment_url: https://api.github.com/repos/cmos-droner/UM-TSS/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/cmos-droner/UM-TSS/issues/events{/number}
-issues_url: https://api.github.com/repos/cmos-droner/UM-TSS/issues{/number}
-keys_url: https://api.github.com/repos/cmos-droner/UM-TSS/keys{/key_id}
-labels_url: https://api.github.com/repos/cmos-droner/UM-TSS/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/cmos-droner/UM-TSS/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/cmos-droner/UM-TSS/merges
-milestones_url: https://api.github.com/repos/cmos-droner/UM-TSS/milestones{/number}
-mirror_url: null
-name: UM-TSS
-node_id: MDEwOlJlcG9zaXRvcnk3ODQyMDkwMw==
-notifications_url: https://api.github.com/repos/cmos-droner/UM-TSS/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/36418055?v=4
-  events_url: https://api.github.com/users/cmos-droner/events{/privacy}
-  followers_url: https://api.github.com/users/cmos-droner/followers
-  following_url: https://api.github.com/users/cmos-droner/following{/other_user}
-  gists_url: https://api.github.com/users/cmos-droner/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/cmos-droner
-  id: 36418055
-  login: cmos-droner
-  node_id: MDQ6VXNlcjM2NDE4MDU1
-  organizations_url: https://api.github.com/users/cmos-droner/orgs
-  received_events_url: https://api.github.com/users/cmos-droner/received_events
-  repos_url: https://api.github.com/users/cmos-droner/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/cmos-droner/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/cmos-droner/subscriptions
-  type: User
-  url: https://api.github.com/users/cmos-droner
-private: false
+links:
+  github_owner: cmos-droner
+  github_repo_name: UM-TSS
+  github_src: https://github.com/cmos-droner/UM-TSS
+  github_src_repo: https://github.com/cmos-droner/UM-TSS
+  oomp_bot: cmos_droner_um_tss
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/cmos_droner_um_tss
+  oomp_doc: projects/cmos_droner_um_tss/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/cmos_droner_um_tss
+  oomp_src_flat: projects_flat/cmos_droner_um_tss
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/cmos_droner_um_tss
+  oomp_src_folder: projects_folder\cmos-droner\UM-TSS\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\cmos-droner\UM-TSS\version_current\working
+oomp_key: oomp_cmos_droner_um_tss
+oomp_key_simple: cmos_droner_um_tss
 projects_flat: projects_flat/cmos_droner_um_tss/version_current/working
 projects_folder: projects_folder/cmos-droner/UM-TSS/version_current/working
-pulls_url: https://api.github.com/repos/cmos-droner/UM-TSS/pulls{/number}
-pushed_at: '2017-11-21T07:57:58Z'
-releases_url: https://api.github.com/repos/cmos-droner/UM-TSS/releases{/id}
-size: 2907
-ssh_url: git@github.com:cmos-droner/UM-TSS.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/cmos-droner/UM-TSS/stargazers
-statuses_url: https://api.github.com/repos/cmos-droner/UM-TSS/statuses/{sha}
-subscribers_url: https://api.github.com/repos/cmos-droner/UM-TSS/subscribers
-subscription_url: https://api.github.com/repos/cmos-droner/UM-TSS/subscription
-svn_url: https://github.com/cmos-droner/UM-TSS
-tags_url: https://api.github.com/repos/cmos-droner/UM-TSS/tags
-teams_url: https://api.github.com/repos/cmos-droner/UM-TSS/teams
-topics: []
-trees_url: https://api.github.com/repos/cmos-droner/UM-TSS/git/trees{/sha}
-updated_at: '2021-06-27T03:42:25Z'
-url: https://api.github.com/repos/cmos-droner/UM-TSS
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/cmos-droner/UM-TSS/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/cmos-droner/UM-TSS/assignees{/user}
+  blobs_url: https://api.github.com/repos/cmos-droner/UM-TSS/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/cmos-droner/UM-TSS/branches{/branch}
+  clone_url: https://github.com/cmos-droner/UM-TSS.git
+  collaborators_url: https://api.github.com/repos/cmos-droner/UM-TSS/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/cmos-droner/UM-TSS/comments{/number}
+  commits_url: https://api.github.com/repos/cmos-droner/UM-TSS/commits{/sha}
+  compare_url: https://api.github.com/repos/cmos-droner/UM-TSS/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/cmos-droner/UM-TSS/contents/{+path}
+  contributors_url: https://api.github.com/repos/cmos-droner/UM-TSS/contributors
+  created_at: '2017-01-09T10:59:57Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/cmos-droner/UM-TSS/deployments
+  description: This is a circuit by Jacob Watters (check the original block post),
+    I just did the PCB-layout. In agreement with Jacob this is released here as open
+    hardware. Hopefully you enjoy the project and maybe you can even improve it!
+  disabled: false
+  downloads_url: https://api.github.com/repos/cmos-droner/UM-TSS/downloads
+  events_url: https://api.github.com/repos/cmos-droner/UM-TSS/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/cmos-droner/UM-TSS/forks
+  full_name: cmos-droner/UM-TSS
+  git_commits_url: https://api.github.com/repos/cmos-droner/UM-TSS/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/cmos-droner/UM-TSS/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/cmos-droner/UM-TSS/git/tags{/sha}
+  git_url: git://github.com/cmos-droner/UM-TSS.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/cmos-droner/UM-TSS/hooks
+  html_url: https://github.com/cmos-droner/UM-TSS
+  id: 78420903
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/cmos-droner/UM-TSS/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/cmos-droner/UM-TSS/issues/events{/number}
+  issues_url: https://api.github.com/repos/cmos-droner/UM-TSS/issues{/number}
+  keys_url: https://api.github.com/repos/cmos-droner/UM-TSS/keys{/key_id}
+  labels_url: https://api.github.com/repos/cmos-droner/UM-TSS/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/cmos-droner/UM-TSS/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/cmos-droner/UM-TSS/merges
+  milestones_url: https://api.github.com/repos/cmos-droner/UM-TSS/milestones{/number}
+  mirror_url: null
+  name: UM-TSS
+  node_id: MDEwOlJlcG9zaXRvcnk3ODQyMDkwMw==
+  notifications_url: https://api.github.com/repos/cmos-droner/UM-TSS/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/36418055?v=4
+    events_url: https://api.github.com/users/cmos-droner/events{/privacy}
+    followers_url: https://api.github.com/users/cmos-droner/followers
+    following_url: https://api.github.com/users/cmos-droner/following{/other_user}
+    gists_url: https://api.github.com/users/cmos-droner/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/cmos-droner
+    id: 36418055
+    login: cmos-droner
+    node_id: MDQ6VXNlcjM2NDE4MDU1
+    organizations_url: https://api.github.com/users/cmos-droner/orgs
+    received_events_url: https://api.github.com/users/cmos-droner/received_events
+    repos_url: https://api.github.com/users/cmos-droner/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/cmos-droner/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/cmos-droner/subscriptions
+    type: User
+    url: https://api.github.com/users/cmos-droner
+  private: false
+  pulls_url: https://api.github.com/repos/cmos-droner/UM-TSS/pulls{/number}
+  pushed_at: '2017-11-21T07:57:58Z'
+  releases_url: https://api.github.com/repos/cmos-droner/UM-TSS/releases{/id}
+  size: 2907
+  ssh_url: git@github.com:cmos-droner/UM-TSS.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/cmos-droner/UM-TSS/stargazers
+  statuses_url: https://api.github.com/repos/cmos-droner/UM-TSS/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/cmos-droner/UM-TSS/subscribers
+  subscription_url: https://api.github.com/repos/cmos-droner/UM-TSS/subscription
+  svn_url: https://github.com/cmos-droner/UM-TSS
+  tags_url: https://api.github.com/repos/cmos-droner/UM-TSS/tags
+  teams_url: https://api.github.com/repos/cmos-droner/UM-TSS/teams
+  topics: []
+  trees_url: https://api.github.com/repos/cmos-droner/UM-TSS/git/trees{/sha}
+  updated_at: '2021-06-27T03:42:25Z'
+  url: https://api.github.com/repos/cmos-droner/UM-TSS
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

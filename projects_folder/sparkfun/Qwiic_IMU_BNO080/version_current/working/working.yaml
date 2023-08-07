@@ -1,107 +1,124 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/branches{/branch}
-clone_url: https://github.com/sparkfun/Qwiic_IMU_BNO080.git
-collaborators_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/contributors
-created_at: '2018-04-09T16:49:13Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/deployments
-description: The BNO080/BNO085 IMU has a combination triple axis accelerometer/gyro/magnetometer
-  packaged with an ARM Cortex M0+ running powerful algorithms.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/downloads
-events_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/events
-fork: false
-forks: 4
-forks_count: 4
-forks_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/forks
-full_name: sparkfun/Qwiic_IMU_BNO080
-git_commits_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/git/tags{/sha}
-git_url: git://github.com/sparkfun/Qwiic_IMU_BNO080.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/products/14686
-hooks_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/hooks
-html_url: https://github.com/sparkfun/Qwiic_IMU_BNO080
-id: 128804719
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/merges
-milestones_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/milestones{/number}
-mirror_url: null
-name: Qwiic_IMU_BNO080
-node_id: MDEwOlJlcG9zaXRvcnkxMjg4MDQ3MTk=
-notifications_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Qwiic_IMU_BNO080
+  github_src: https://github.com/sparkfun/Qwiic_IMU_BNO080
+  github_src_repo: https://github.com/sparkfun/Qwiic_IMU_BNO080
+  oomp_bot: sparkfun_qwiic_imu_bno080
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_qwiic_imu_bno080
+  oomp_doc: projects/sparkfun_qwiic_imu_bno080/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_qwiic_imu_bno080
+  oomp_src_flat: projects_flat/sparkfun_qwiic_imu_bno080
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_qwiic_imu_bno080
+  oomp_src_folder: projects_folder\sparkfun\Qwiic_IMU_BNO080\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\Qwiic_IMU_BNO080\version_current\working
+oomp_key: oomp_sparkfun_qwiic_imu_bno080
+oomp_key_simple: sparkfun_qwiic_imu_bno080
+projects_flat: projects_flat/sparkfun_qwiic_imu_bno080/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_qwiic_imu_bno080/version_current/working
 projects_folder: projects_folder/sparkfun/Qwiic_IMU_BNO080/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/pulls{/number}
-pushed_at: '2020-12-15T16:48:01Z'
-releases_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/releases{/id}
-size: 7746
-ssh_url: git@github.com:sparkfun/Qwiic_IMU_BNO080.git
-stargazers_count: 29
-stargazers_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/subscription
-svn_url: https://github.com/sparkfun/Qwiic_IMU_BNO080
-tags_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/tags
-teams_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/teams
-topics:
-- sparkfun
-- sparkfun-products
-trees_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/git/trees{/sha}
-updated_at: '2023-07-02T00:42:58Z'
-url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080
-visibility: public
-watchers: 29
-watchers_count: 29
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/branches{/branch}
+  clone_url: https://github.com/sparkfun/Qwiic_IMU_BNO080.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/contributors
+  created_at: '2018-04-09T16:49:13Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/deployments
+  description: The BNO080/BNO085 IMU has a combination triple axis accelerometer/gyro/magnetometer
+    packaged with an ARM Cortex M0+ running powerful algorithms.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/downloads
+  events_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/events
+  fork: false
+  forks: 4
+  forks_count: 4
+  forks_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/forks
+  full_name: sparkfun/Qwiic_IMU_BNO080
+  git_commits_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Qwiic_IMU_BNO080.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/products/14686
+  hooks_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/hooks
+  html_url: https://github.com/sparkfun/Qwiic_IMU_BNO080
+  id: 128804719
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/milestones{/number}
+  mirror_url: null
+  name: Qwiic_IMU_BNO080
+  node_id: MDEwOlJlcG9zaXRvcnkxMjg4MDQ3MTk=
+  notifications_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/pulls{/number}
+  pushed_at: '2020-12-15T16:48:01Z'
+  releases_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/releases{/id}
+  size: 7746
+  ssh_url: git@github.com:sparkfun/Qwiic_IMU_BNO080.git
+  stargazers_count: 29
+  stargazers_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/subscription
+  svn_url: https://github.com/sparkfun/Qwiic_IMU_BNO080
+  tags_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/tags
+  teams_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/teams
+  topics:
+  - sparkfun
+  - sparkfun-products
+  trees_url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080/git/trees{/sha}
+  updated_at: '2023-07-02T00:42:58Z'
+  url: https://api.github.com/repos/sparkfun/Qwiic_IMU_BNO080
+  visibility: public
+  watchers: 29
+  watchers_count: 29
+  web_commit_signoff_required: false

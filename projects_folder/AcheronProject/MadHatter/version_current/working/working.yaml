@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/AcheronProject/MadHatter/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/AcheronProject/MadHatter/assignees{/user}
-blobs_url: https://api.github.com/repos/AcheronProject/MadHatter/git/blobs{/sha}
-branches_url: https://api.github.com/repos/AcheronProject/MadHatter/branches{/branch}
-clone_url: https://github.com/AcheronProject/MadHatter.git
-collaborators_url: https://api.github.com/repos/AcheronProject/MadHatter/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/AcheronProject/MadHatter/comments{/number}
-commits_url: https://api.github.com/repos/AcheronProject/MadHatter/commits{/sha}
-compare_url: https://api.github.com/repos/AcheronProject/MadHatter/compare/{base}...{head}
-contents_url: https://api.github.com/repos/AcheronProject/MadHatter/contents/{+path}
-contributors_url: https://api.github.com/repos/AcheronProject/MadHatter/contributors
-created_at: '2020-03-20T14:36:49Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/AcheronProject/MadHatter/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/AcheronProject/MadHatter/downloads
-events_url: https://api.github.com/repos/AcheronProject/MadHatter/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/AcheronProject/MadHatter/forks
-full_name: AcheronProject/MadHatter
-git_commits_url: https://api.github.com/repos/AcheronProject/MadHatter/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/AcheronProject/MadHatter/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/AcheronProject/MadHatter/git/tags{/sha}
-git_url: git://github.com/AcheronProject/MadHatter.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/AcheronProject/MadHatter/hooks
-html_url: https://github.com/AcheronProject/MadHatter
-id: 248777469
-is_template: false
-issue_comment_url: https://api.github.com/repos/AcheronProject/MadHatter/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/AcheronProject/MadHatter/issues/events{/number}
-issues_url: https://api.github.com/repos/AcheronProject/MadHatter/issues{/number}
-keys_url: https://api.github.com/repos/AcheronProject/MadHatter/keys{/key_id}
-labels_url: https://api.github.com/repos/AcheronProject/MadHatter/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/AcheronProject/MadHatter/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/AcheronProject/MadHatter/merges
-milestones_url: https://api.github.com/repos/AcheronProject/MadHatter/milestones{/number}
-mirror_url: null
-name: MadHatter
-node_id: MDEwOlJlcG9zaXRvcnkyNDg3Nzc0Njk=
-notifications_url: https://api.github.com/repos/AcheronProject/MadHatter/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
-  events_url: https://api.github.com/users/AcheronProject/events{/privacy}
-  followers_url: https://api.github.com/users/AcheronProject/followers
-  following_url: https://api.github.com/users/AcheronProject/following{/other_user}
-  gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/AcheronProject
-  id: 63755935
-  login: AcheronProject
-  node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
-  organizations_url: https://api.github.com/users/AcheronProject/orgs
-  received_events_url: https://api.github.com/users/AcheronProject/received_events
-  repos_url: https://api.github.com/users/AcheronProject/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
-  type: Organization
-  url: https://api.github.com/users/AcheronProject
-private: false
+links:
+  github_owner: AcheronProject
+  github_repo_name: MadHatter
+  github_src: https://github.com/AcheronProject/MadHatter
+  github_src_repo: https://github.com/AcheronProject/MadHatter
+  oomp_bot: acheronproject_madhatter
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/acheronproject_madhatter
+  oomp_doc: projects/acheronproject_madhatter/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/acheronproject_madhatter
+  oomp_src_flat: projects_flat/acheronproject_madhatter
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/acheronproject_madhatter
+  oomp_src_folder: projects_folder\AcheronProject\MadHatter\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\AcheronProject\MadHatter\version_current\working
+oomp_key: oomp_acheronproject_madhatter
+oomp_key_simple: acheronproject_madhatter
 projects_flat: projects_flat/acheronproject_madhatter/version_current/working
 projects_folder: projects_folder/AcheronProject/MadHatter/version_current/working
-pulls_url: https://api.github.com/repos/AcheronProject/MadHatter/pulls{/number}
-pushed_at: '2020-09-21T22:46:14Z'
-releases_url: https://api.github.com/repos/AcheronProject/MadHatter/releases{/id}
-size: 30096
-ssh_url: git@github.com:AcheronProject/MadHatter.git
-stargazers_count: 7
-stargazers_url: https://api.github.com/repos/AcheronProject/MadHatter/stargazers
-statuses_url: https://api.github.com/repos/AcheronProject/MadHatter/statuses/{sha}
-subscribers_url: https://api.github.com/repos/AcheronProject/MadHatter/subscribers
-subscription_url: https://api.github.com/repos/AcheronProject/MadHatter/subscription
-svn_url: https://github.com/AcheronProject/MadHatter
-tags_url: https://api.github.com/repos/AcheronProject/MadHatter/tags
-teams_url: https://api.github.com/repos/AcheronProject/MadHatter/teams
-topics: []
-trees_url: https://api.github.com/repos/AcheronProject/MadHatter/git/trees{/sha}
-updated_at: '2023-05-18T15:02:58Z'
-url: https://api.github.com/repos/AcheronProject/MadHatter
-visibility: public
-watchers: 7
-watchers_count: 7
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/AcheronProject/MadHatter/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/AcheronProject/MadHatter/assignees{/user}
+  blobs_url: https://api.github.com/repos/AcheronProject/MadHatter/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/AcheronProject/MadHatter/branches{/branch}
+  clone_url: https://github.com/AcheronProject/MadHatter.git
+  collaborators_url: https://api.github.com/repos/AcheronProject/MadHatter/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/AcheronProject/MadHatter/comments{/number}
+  commits_url: https://api.github.com/repos/AcheronProject/MadHatter/commits{/sha}
+  compare_url: https://api.github.com/repos/AcheronProject/MadHatter/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/AcheronProject/MadHatter/contents/{+path}
+  contributors_url: https://api.github.com/repos/AcheronProject/MadHatter/contributors
+  created_at: '2020-03-20T14:36:49Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/AcheronProject/MadHatter/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/AcheronProject/MadHatter/downloads
+  events_url: https://api.github.com/repos/AcheronProject/MadHatter/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/AcheronProject/MadHatter/forks
+  full_name: AcheronProject/MadHatter
+  git_commits_url: https://api.github.com/repos/AcheronProject/MadHatter/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/AcheronProject/MadHatter/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/AcheronProject/MadHatter/git/tags{/sha}
+  git_url: git://github.com/AcheronProject/MadHatter.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/AcheronProject/MadHatter/hooks
+  html_url: https://github.com/AcheronProject/MadHatter
+  id: 248777469
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/AcheronProject/MadHatter/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/AcheronProject/MadHatter/issues/events{/number}
+  issues_url: https://api.github.com/repos/AcheronProject/MadHatter/issues{/number}
+  keys_url: https://api.github.com/repos/AcheronProject/MadHatter/keys{/key_id}
+  labels_url: https://api.github.com/repos/AcheronProject/MadHatter/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/AcheronProject/MadHatter/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/AcheronProject/MadHatter/merges
+  milestones_url: https://api.github.com/repos/AcheronProject/MadHatter/milestones{/number}
+  mirror_url: null
+  name: MadHatter
+  node_id: MDEwOlJlcG9zaXRvcnkyNDg3Nzc0Njk=
+  notifications_url: https://api.github.com/repos/AcheronProject/MadHatter/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+    events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+    followers_url: https://api.github.com/users/AcheronProject/followers
+    following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+    gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/AcheronProject
+    id: 63755935
+    login: AcheronProject
+    node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+    organizations_url: https://api.github.com/users/AcheronProject/orgs
+    received_events_url: https://api.github.com/users/AcheronProject/received_events
+    repos_url: https://api.github.com/users/AcheronProject/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+    type: Organization
+    url: https://api.github.com/users/AcheronProject
+  private: false
+  pulls_url: https://api.github.com/repos/AcheronProject/MadHatter/pulls{/number}
+  pushed_at: '2020-09-21T22:46:14Z'
+  releases_url: https://api.github.com/repos/AcheronProject/MadHatter/releases{/id}
+  size: 30096
+  ssh_url: git@github.com:AcheronProject/MadHatter.git
+  stargazers_count: 7
+  stargazers_url: https://api.github.com/repos/AcheronProject/MadHatter/stargazers
+  statuses_url: https://api.github.com/repos/AcheronProject/MadHatter/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/AcheronProject/MadHatter/subscribers
+  subscription_url: https://api.github.com/repos/AcheronProject/MadHatter/subscription
+  svn_url: https://github.com/AcheronProject/MadHatter
+  tags_url: https://api.github.com/repos/AcheronProject/MadHatter/tags
+  teams_url: https://api.github.com/repos/AcheronProject/MadHatter/teams
+  topics: []
+  trees_url: https://api.github.com/repos/AcheronProject/MadHatter/git/trees{/sha}
+  updated_at: '2023-05-18T15:02:58Z'
+  url: https://api.github.com/repos/AcheronProject/MadHatter
+  visibility: public
+  watchers: 7
+  watchers_count: 7
+  web_commit_signoff_required: false

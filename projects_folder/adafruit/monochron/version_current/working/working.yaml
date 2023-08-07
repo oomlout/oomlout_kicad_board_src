@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/monochron/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/monochron/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/monochron/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/monochron/branches{/branch}
-clone_url: https://github.com/adafruit/monochron.git
-collaborators_url: https://api.github.com/repos/adafruit/monochron/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/monochron/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/monochron/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/monochron/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/monochron/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/monochron/contributors
-created_at: '2010-01-31T19:08:39Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adafruit/monochron/deployments
-description: MONOCHRON Clock kit - Open source clock platform, make clocks!
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/monochron/downloads
-events_url: https://api.github.com/repos/adafruit/monochron/events
-fork: false
-forks: 38
-forks_count: 38
-forks_url: https://api.github.com/repos/adafruit/monochron/forks
-full_name: adafruit/monochron
-git_commits_url: https://api.github.com/repos/adafruit/monochron/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/monochron/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/monochron/git/tags{/sha}
-git_url: git://github.com/adafruit/monochron.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: http://www.ladyada.net/make/monochron
-hooks_url: https://api.github.com/repos/adafruit/monochron/hooks
-html_url: https://github.com/adafruit/monochron
-id: 496420
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/monochron/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/monochron/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/monochron/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/monochron/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/monochron/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/adafruit/monochron/languages
-license: null
-merges_url: https://api.github.com/repos/adafruit/monochron/merges
-milestones_url: https://api.github.com/repos/adafruit/monochron/milestones{/number}
-mirror_url: null
-name: monochron
-node_id: MDEwOlJlcG9zaXRvcnk0OTY0MjA=
-notifications_url: https://api.github.com/repos/adafruit/monochron/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: monochron
+  github_src: https://github.com/adafruit/monochron
+  github_src_repo: https://github.com/adafruit/monochron
+  oomp_bot: adafruit_monochron
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adafruit_monochron
+  oomp_doc: projects/adafruit_monochron/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adafruit_monochron
+  oomp_src_flat: projects_flat/adafruit_monochron
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adafruit_monochron
+  oomp_src_folder: projects_folder\adafruit\monochron\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adafruit\monochron\version_current\working
+oomp_key: oomp_adafruit_monochron
+oomp_key_simple: adafruit_monochron
 projects_flat: projects_flat/adafruit_monochron/version_current/working
 projects_folder: projects_folder/adafruit/monochron/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/monochron/pulls{/number}
-pushed_at: '2019-04-04T16:24:25Z'
-releases_url: https://api.github.com/repos/adafruit/monochron/releases{/id}
-size: 1552
-ssh_url: git@github.com:adafruit/monochron.git
-stargazers_count: 39
-stargazers_url: https://api.github.com/repos/adafruit/monochron/stargazers
-statuses_url: https://api.github.com/repos/adafruit/monochron/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/monochron/subscribers
-subscription_url: https://api.github.com/repos/adafruit/monochron/subscription
-svn_url: https://github.com/adafruit/monochron
-tags_url: https://api.github.com/repos/adafruit/monochron/tags
-teams_url: https://api.github.com/repos/adafruit/monochron/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/monochron/git/trees{/sha}
-updated_at: '2022-05-25T10:02:30Z'
-url: https://api.github.com/repos/adafruit/monochron
-visibility: public
-watchers: 39
-watchers_count: 39
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/monochron/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/monochron/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/monochron/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/monochron/branches{/branch}
+  clone_url: https://github.com/adafruit/monochron.git
+  collaborators_url: https://api.github.com/repos/adafruit/monochron/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/monochron/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/monochron/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/monochron/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/monochron/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/monochron/contributors
+  created_at: '2010-01-31T19:08:39Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adafruit/monochron/deployments
+  description: MONOCHRON Clock kit - Open source clock platform, make clocks!
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/monochron/downloads
+  events_url: https://api.github.com/repos/adafruit/monochron/events
+  fork: false
+  forks: 38
+  forks_count: 38
+  forks_url: https://api.github.com/repos/adafruit/monochron/forks
+  full_name: adafruit/monochron
+  git_commits_url: https://api.github.com/repos/adafruit/monochron/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/monochron/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/monochron/git/tags{/sha}
+  git_url: git://github.com/adafruit/monochron.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: http://www.ladyada.net/make/monochron
+  hooks_url: https://api.github.com/repos/adafruit/monochron/hooks
+  html_url: https://github.com/adafruit/monochron
+  id: 496420
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/monochron/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/monochron/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/monochron/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/monochron/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/monochron/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/adafruit/monochron/languages
+  license: null
+  merges_url: https://api.github.com/repos/adafruit/monochron/merges
+  milestones_url: https://api.github.com/repos/adafruit/monochron/milestones{/number}
+  mirror_url: null
+  name: monochron
+  node_id: MDEwOlJlcG9zaXRvcnk0OTY0MjA=
+  notifications_url: https://api.github.com/repos/adafruit/monochron/notifications{?since,all,participating}
+  open_issues: 3
+  open_issues_count: 3
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/monochron/pulls{/number}
+  pushed_at: '2019-04-04T16:24:25Z'
+  releases_url: https://api.github.com/repos/adafruit/monochron/releases{/id}
+  size: 1552
+  ssh_url: git@github.com:adafruit/monochron.git
+  stargazers_count: 39
+  stargazers_url: https://api.github.com/repos/adafruit/monochron/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/monochron/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/monochron/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/monochron/subscription
+  svn_url: https://github.com/adafruit/monochron
+  tags_url: https://api.github.com/repos/adafruit/monochron/tags
+  teams_url: https://api.github.com/repos/adafruit/monochron/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/monochron/git/trees{/sha}
+  updated_at: '2022-05-25T10:02:30Z'
+  url: https://api.github.com/repos/adafruit/monochron
+  visibility: public
+  watchers: 39
+  watchers_count: 39
+  web_commit_signoff_required: false

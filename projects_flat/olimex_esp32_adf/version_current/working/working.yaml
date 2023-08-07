@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/branches{/branch}
-clone_url: https://github.com/OLIMEX/ESP32-ADF.git
-collaborators_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/contributors
-created_at: '2019-07-18T12:59:41Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/deployments
-description: ESP32 Audio Development Framework development board
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/downloads
-events_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/events
-fork: false
-forks: 19
-forks_count: 19
-forks_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/forks
-full_name: OLIMEX/ESP32-ADF
-git_commits_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/git/tags{/sha}
-git_url: git://github.com/OLIMEX/ESP32-ADF.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/hooks
-html_url: https://github.com/OLIMEX/ESP32-ADF
-id: 197587658
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/merges
-milestones_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/milestones{/number}
-mirror_url: null
-name: ESP32-ADF
-node_id: MDEwOlJlcG9zaXRvcnkxOTc1ODc2NTg=
-notifications_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: ESP32-ADF
+  github_src: https://github.com/OLIMEX/ESP32-ADF
+  github_src_repo: https://github.com/OLIMEX/ESP32-ADF
+  oomp_bot: projects_olimex_esp32_adf
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_olimex_esp32_adf
+  oomp_doc: projects/projects_flat_olimex_esp32_adf/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_olimex_esp32_adf
+  oomp_src_flat: projects_flat/projects_flat_olimex_esp32_adf
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_olimex_esp32_adf
+  oomp_src_folder: projects_flat\olimex_esp32_adf\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\olimex_esp32_adf\version_current\working
+oomp_key: oomp_projects_flat_olimex_esp32_adf
+oomp_key_simple: projects_flat_olimex_esp32_adf
 projects_flat: projects_flat/olimex_esp32_adf/version_current/working
 projects_folder: projects_folder/OLIMEX/ESP32-ADF/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/pulls{/number}
-pushed_at: '2021-10-04T07:22:05Z'
-releases_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/releases{/id}
-size: 9237
-ssh_url: git@github.com:OLIMEX/ESP32-ADF.git
-stargazers_count: 30
-stargazers_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/subscription
-svn_url: https://github.com/OLIMEX/ESP32-ADF
-tags_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/tags
-teams_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/git/trees{/sha}
-updated_at: '2023-06-11T06:07:45Z'
-url: https://api.github.com/repos/OLIMEX/ESP32-ADF
-visibility: public
-watchers: 30
-watchers_count: 30
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/branches{/branch}
+  clone_url: https://github.com/OLIMEX/ESP32-ADF.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/contributors
+  created_at: '2019-07-18T12:59:41Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/deployments
+  description: ESP32 Audio Development Framework development board
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/downloads
+  events_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/events
+  fork: false
+  forks: 19
+  forks_count: 19
+  forks_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/forks
+  full_name: OLIMEX/ESP32-ADF
+  git_commits_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/ESP32-ADF.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/hooks
+  html_url: https://github.com/OLIMEX/ESP32-ADF
+  id: 197587658
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/milestones{/number}
+  mirror_url: null
+  name: ESP32-ADF
+  node_id: MDEwOlJlcG9zaXRvcnkxOTc1ODc2NTg=
+  notifications_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/pulls{/number}
+  pushed_at: '2021-10-04T07:22:05Z'
+  releases_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/releases{/id}
+  size: 9237
+  ssh_url: git@github.com:OLIMEX/ESP32-ADF.git
+  stargazers_count: 30
+  stargazers_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/subscription
+  svn_url: https://github.com/OLIMEX/ESP32-ADF
+  tags_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/tags
+  teams_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/ESP32-ADF/git/trees{/sha}
+  updated_at: '2023-06-11T06:07:45Z'
+  url: https://api.github.com/repos/OLIMEX/ESP32-ADF
+  visibility: public
+  watchers: 30
+  watchers_count: 30
+  web_commit_signoff_required: false

@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ojousima/zephyr/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ojousima/zephyr/assignees{/user}
-blobs_url: https://api.github.com/repos/ojousima/zephyr/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ojousima/zephyr/branches{/branch}
-clone_url: https://github.com/ojousima/zephyr.git
-collaborators_url: https://api.github.com/repos/ojousima/zephyr/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ojousima/zephyr/comments{/number}
-commits_url: https://api.github.com/repos/ojousima/zephyr/commits{/sha}
-compare_url: https://api.github.com/repos/ojousima/zephyr/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ojousima/zephyr/contents/{+path}
-contributors_url: https://api.github.com/repos/ojousima/zephyr/contributors
-created_at: '2019-06-05T18:26:47Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ojousima/zephyr/deployments
-description: Primary Git Repository for the Zephyr Project. Zephyr is a new generation,
-  scalable, optimized, secure RTOS for multiple hardware architectures.
-disabled: false
-downloads_url: https://api.github.com/repos/ojousima/zephyr/downloads
-events_url: https://api.github.com/repos/ojousima/zephyr/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ojousima/zephyr/forks
-full_name: ojousima/zephyr
-git_commits_url: https://api.github.com/repos/ojousima/zephyr/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ojousima/zephyr/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ojousima/zephyr/git/tags{/sha}
-git_url: git://github.com/ojousima/zephyr.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://docs.zephyrproject.org
-hooks_url: https://api.github.com/repos/ojousima/zephyr/hooks
-html_url: https://github.com/ojousima/zephyr
-id: 190447448
-is_template: false
-issue_comment_url: https://api.github.com/repos/ojousima/zephyr/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ojousima/zephyr/issues/events{/number}
-issues_url: https://api.github.com/repos/ojousima/zephyr/issues{/number}
-keys_url: https://api.github.com/repos/ojousima/zephyr/keys{/key_id}
-labels_url: https://api.github.com/repos/ojousima/zephyr/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/ojousima/zephyr/languages
-license:
-  key: apache-2.0
-  name: Apache License 2.0
-  node_id: MDc6TGljZW5zZTI=
-  spdx_id: Apache-2.0
-  url: https://api.github.com/licenses/apache-2.0
-merges_url: https://api.github.com/repos/ojousima/zephyr/merges
-milestones_url: https://api.github.com/repos/ojousima/zephyr/milestones{/number}
-mirror_url: null
-name: zephyr
-node_id: MDEwOlJlcG9zaXRvcnkxOTA0NDc0NDg=
-notifications_url: https://api.github.com/repos/ojousima/zephyr/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/2360368?v=4
-  events_url: https://api.github.com/users/ojousima/events{/privacy}
-  followers_url: https://api.github.com/users/ojousima/followers
-  following_url: https://api.github.com/users/ojousima/following{/other_user}
-  gists_url: https://api.github.com/users/ojousima/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ojousima
-  id: 2360368
-  login: ojousima
-  node_id: MDQ6VXNlcjIzNjAzNjg=
-  organizations_url: https://api.github.com/users/ojousima/orgs
-  received_events_url: https://api.github.com/users/ojousima/received_events
-  repos_url: https://api.github.com/users/ojousima/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ojousima/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ojousima/subscriptions
-  type: User
-  url: https://api.github.com/users/ojousima
-private: false
+links:
+  github_owner: ojousima
+  github_repo_name: zephyr
+  github_src: https://github.com/ojousima/zephyr
+  github_src_repo: https://github.com/ojousima/zephyr
+  oomp_bot: projects_ojousima_zephyr
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_ojousima_zephyr
+  oomp_doc: projects/projects_flat_ojousima_zephyr/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_ojousima_zephyr
+  oomp_src_flat: projects_flat/projects_flat_ojousima_zephyr
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_ojousima_zephyr
+  oomp_src_folder: projects_flat\ojousima_zephyr\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ojousima_zephyr\version_current\working
+oomp_key: oomp_projects_flat_ojousima_zephyr
+oomp_key_simple: projects_flat_ojousima_zephyr
 projects_flat: projects_flat/ojousima_zephyr/version_current/working
 projects_folder: projects_folder/ojousima/zephyr/version_current/working
-pulls_url: https://api.github.com/repos/ojousima/zephyr/pulls{/number}
-pushed_at: '2019-06-05T17:43:17Z'
-releases_url: https://api.github.com/repos/ojousima/zephyr/releases{/id}
-size: 225780
-ssh_url: git@github.com:ojousima/zephyr.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ojousima/zephyr/stargazers
-statuses_url: https://api.github.com/repos/ojousima/zephyr/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ojousima/zephyr/subscribers
-subscription_url: https://api.github.com/repos/ojousima/zephyr/subscription
-svn_url: https://github.com/ojousima/zephyr
-tags_url: https://api.github.com/repos/ojousima/zephyr/tags
-teams_url: https://api.github.com/repos/ojousima/zephyr/teams
-topics: []
-trees_url: https://api.github.com/repos/ojousima/zephyr/git/trees{/sha}
-updated_at: '2019-06-05T18:27:50Z'
-url: https://api.github.com/repos/ojousima/zephyr
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ojousima/zephyr/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ojousima/zephyr/assignees{/user}
+  blobs_url: https://api.github.com/repos/ojousima/zephyr/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ojousima/zephyr/branches{/branch}
+  clone_url: https://github.com/ojousima/zephyr.git
+  collaborators_url: https://api.github.com/repos/ojousima/zephyr/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ojousima/zephyr/comments{/number}
+  commits_url: https://api.github.com/repos/ojousima/zephyr/commits{/sha}
+  compare_url: https://api.github.com/repos/ojousima/zephyr/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ojousima/zephyr/contents/{+path}
+  contributors_url: https://api.github.com/repos/ojousima/zephyr/contributors
+  created_at: '2019-06-05T18:26:47Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ojousima/zephyr/deployments
+  description: Primary Git Repository for the Zephyr Project. Zephyr is a new generation,
+    scalable, optimized, secure RTOS for multiple hardware architectures.
+  disabled: false
+  downloads_url: https://api.github.com/repos/ojousima/zephyr/downloads
+  events_url: https://api.github.com/repos/ojousima/zephyr/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ojousima/zephyr/forks
+  full_name: ojousima/zephyr
+  git_commits_url: https://api.github.com/repos/ojousima/zephyr/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ojousima/zephyr/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ojousima/zephyr/git/tags{/sha}
+  git_url: git://github.com/ojousima/zephyr.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://docs.zephyrproject.org
+  hooks_url: https://api.github.com/repos/ojousima/zephyr/hooks
+  html_url: https://github.com/ojousima/zephyr
+  id: 190447448
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ojousima/zephyr/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ojousima/zephyr/issues/events{/number}
+  issues_url: https://api.github.com/repos/ojousima/zephyr/issues{/number}
+  keys_url: https://api.github.com/repos/ojousima/zephyr/keys{/key_id}
+  labels_url: https://api.github.com/repos/ojousima/zephyr/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/ojousima/zephyr/languages
+  license:
+    key: apache-2.0
+    name: Apache License 2.0
+    node_id: MDc6TGljZW5zZTI=
+    spdx_id: Apache-2.0
+    url: https://api.github.com/licenses/apache-2.0
+  merges_url: https://api.github.com/repos/ojousima/zephyr/merges
+  milestones_url: https://api.github.com/repos/ojousima/zephyr/milestones{/number}
+  mirror_url: null
+  name: zephyr
+  node_id: MDEwOlJlcG9zaXRvcnkxOTA0NDc0NDg=
+  notifications_url: https://api.github.com/repos/ojousima/zephyr/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/2360368?v=4
+    events_url: https://api.github.com/users/ojousima/events{/privacy}
+    followers_url: https://api.github.com/users/ojousima/followers
+    following_url: https://api.github.com/users/ojousima/following{/other_user}
+    gists_url: https://api.github.com/users/ojousima/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ojousima
+    id: 2360368
+    login: ojousima
+    node_id: MDQ6VXNlcjIzNjAzNjg=
+    organizations_url: https://api.github.com/users/ojousima/orgs
+    received_events_url: https://api.github.com/users/ojousima/received_events
+    repos_url: https://api.github.com/users/ojousima/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ojousima/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ojousima/subscriptions
+    type: User
+    url: https://api.github.com/users/ojousima
+  private: false
+  pulls_url: https://api.github.com/repos/ojousima/zephyr/pulls{/number}
+  pushed_at: '2019-06-05T17:43:17Z'
+  releases_url: https://api.github.com/repos/ojousima/zephyr/releases{/id}
+  size: 225780
+  ssh_url: git@github.com:ojousima/zephyr.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ojousima/zephyr/stargazers
+  statuses_url: https://api.github.com/repos/ojousima/zephyr/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ojousima/zephyr/subscribers
+  subscription_url: https://api.github.com/repos/ojousima/zephyr/subscription
+  svn_url: https://github.com/ojousima/zephyr
+  tags_url: https://api.github.com/repos/ojousima/zephyr/tags
+  teams_url: https://api.github.com/repos/ojousima/zephyr/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ojousima/zephyr/git/trees{/sha}
+  updated_at: '2019-06-05T18:27:50Z'
+  url: https://api.github.com/repos/ojousima/zephyr
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

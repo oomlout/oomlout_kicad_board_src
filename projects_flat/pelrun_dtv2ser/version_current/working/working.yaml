@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/pelrun/dtv2ser/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/pelrun/dtv2ser/assignees{/user}
-blobs_url: https://api.github.com/repos/pelrun/dtv2ser/git/blobs{/sha}
-branches_url: https://api.github.com/repos/pelrun/dtv2ser/branches{/branch}
-clone_url: https://github.com/pelrun/dtv2ser.git
-collaborators_url: https://api.github.com/repos/pelrun/dtv2ser/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/pelrun/dtv2ser/comments{/number}
-commits_url: https://api.github.com/repos/pelrun/dtv2ser/commits{/sha}
-compare_url: https://api.github.com/repos/pelrun/dtv2ser/compare/{base}...{head}
-contents_url: https://api.github.com/repos/pelrun/dtv2ser/contents/{+path}
-contributors_url: https://api.github.com/repos/pelrun/dtv2ser/contributors
-created_at: '2017-12-23T01:10:55Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/pelrun/dtv2ser/deployments
-description: Program/update a C64 DTV over USB via an AVR or ARM based dongle.
-disabled: false
-downloads_url: https://api.github.com/repos/pelrun/dtv2ser/downloads
-events_url: https://api.github.com/repos/pelrun/dtv2ser/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/pelrun/dtv2ser/forks
-full_name: pelrun/dtv2ser
-git_commits_url: https://api.github.com/repos/pelrun/dtv2ser/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/pelrun/dtv2ser/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/pelrun/dtv2ser/git/tags{/sha}
-git_url: git://github.com/pelrun/dtv2ser.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/pelrun/dtv2ser/hooks
-html_url: https://github.com/pelrun/dtv2ser
-id: 115161500
-is_template: false
-issue_comment_url: https://api.github.com/repos/pelrun/dtv2ser/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/pelrun/dtv2ser/issues/events{/number}
-issues_url: https://api.github.com/repos/pelrun/dtv2ser/issues{/number}
-keys_url: https://api.github.com/repos/pelrun/dtv2ser/keys{/key_id}
-labels_url: https://api.github.com/repos/pelrun/dtv2ser/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/pelrun/dtv2ser/languages
-license:
-  key: gpl-2.0
-  name: GNU General Public License v2.0
-  node_id: MDc6TGljZW5zZTg=
-  spdx_id: GPL-2.0
-  url: https://api.github.com/licenses/gpl-2.0
-merges_url: https://api.github.com/repos/pelrun/dtv2ser/merges
-milestones_url: https://api.github.com/repos/pelrun/dtv2ser/milestones{/number}
-mirror_url: null
-name: dtv2ser
-node_id: MDEwOlJlcG9zaXRvcnkxMTUxNjE1MDA=
-notifications_url: https://api.github.com/repos/pelrun/dtv2ser/notifications{?since,all,participating}
-open_issues: 6
-open_issues_count: 6
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/316223?v=4
-  events_url: https://api.github.com/users/pelrun/events{/privacy}
-  followers_url: https://api.github.com/users/pelrun/followers
-  following_url: https://api.github.com/users/pelrun/following{/other_user}
-  gists_url: https://api.github.com/users/pelrun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/pelrun
-  id: 316223
-  login: pelrun
-  node_id: MDQ6VXNlcjMxNjIyMw==
-  organizations_url: https://api.github.com/users/pelrun/orgs
-  received_events_url: https://api.github.com/users/pelrun/received_events
-  repos_url: https://api.github.com/users/pelrun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/pelrun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/pelrun/subscriptions
-  type: User
-  url: https://api.github.com/users/pelrun
-private: false
+links:
+  github_owner: pelrun
+  github_repo_name: dtv2ser
+  github_src: https://github.com/pelrun/dtv2ser
+  github_src_repo: https://github.com/pelrun/dtv2ser
+  oomp_bot: projects_pelrun_dtv2ser
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_pelrun_dtv2ser
+  oomp_doc: projects/projects_flat_pelrun_dtv2ser/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_pelrun_dtv2ser
+  oomp_src_flat: projects_flat/projects_flat_pelrun_dtv2ser
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_pelrun_dtv2ser
+  oomp_src_folder: projects_flat\pelrun_dtv2ser\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\pelrun_dtv2ser\version_current\working
+oomp_key: oomp_projects_flat_pelrun_dtv2ser
+oomp_key_simple: projects_flat_pelrun_dtv2ser
 projects_flat: projects_flat/pelrun_dtv2ser/version_current/working
 projects_folder: projects_folder/pelrun/dtv2ser/version_current/working
-pulls_url: https://api.github.com/repos/pelrun/dtv2ser/pulls{/number}
-pushed_at: '2018-01-05T10:05:26Z'
-releases_url: https://api.github.com/repos/pelrun/dtv2ser/releases{/id}
-size: 1559
-ssh_url: git@github.com:pelrun/dtv2ser.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/pelrun/dtv2ser/stargazers
-statuses_url: https://api.github.com/repos/pelrun/dtv2ser/statuses/{sha}
-subscribers_url: https://api.github.com/repos/pelrun/dtv2ser/subscribers
-subscription_url: https://api.github.com/repos/pelrun/dtv2ser/subscription
-svn_url: https://github.com/pelrun/dtv2ser
-tags_url: https://api.github.com/repos/pelrun/dtv2ser/tags
-teams_url: https://api.github.com/repos/pelrun/dtv2ser/teams
-topics: []
-trees_url: https://api.github.com/repos/pelrun/dtv2ser/git/trees{/sha}
-updated_at: '2020-11-05T05:14:50Z'
-url: https://api.github.com/repos/pelrun/dtv2ser
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/pelrun/dtv2ser/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/pelrun/dtv2ser/assignees{/user}
+  blobs_url: https://api.github.com/repos/pelrun/dtv2ser/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/pelrun/dtv2ser/branches{/branch}
+  clone_url: https://github.com/pelrun/dtv2ser.git
+  collaborators_url: https://api.github.com/repos/pelrun/dtv2ser/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/pelrun/dtv2ser/comments{/number}
+  commits_url: https://api.github.com/repos/pelrun/dtv2ser/commits{/sha}
+  compare_url: https://api.github.com/repos/pelrun/dtv2ser/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/pelrun/dtv2ser/contents/{+path}
+  contributors_url: https://api.github.com/repos/pelrun/dtv2ser/contributors
+  created_at: '2017-12-23T01:10:55Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/pelrun/dtv2ser/deployments
+  description: Program/update a C64 DTV over USB via an AVR or ARM based dongle.
+  disabled: false
+  downloads_url: https://api.github.com/repos/pelrun/dtv2ser/downloads
+  events_url: https://api.github.com/repos/pelrun/dtv2ser/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/pelrun/dtv2ser/forks
+  full_name: pelrun/dtv2ser
+  git_commits_url: https://api.github.com/repos/pelrun/dtv2ser/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/pelrun/dtv2ser/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/pelrun/dtv2ser/git/tags{/sha}
+  git_url: git://github.com/pelrun/dtv2ser.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/pelrun/dtv2ser/hooks
+  html_url: https://github.com/pelrun/dtv2ser
+  id: 115161500
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/pelrun/dtv2ser/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/pelrun/dtv2ser/issues/events{/number}
+  issues_url: https://api.github.com/repos/pelrun/dtv2ser/issues{/number}
+  keys_url: https://api.github.com/repos/pelrun/dtv2ser/keys{/key_id}
+  labels_url: https://api.github.com/repos/pelrun/dtv2ser/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/pelrun/dtv2ser/languages
+  license:
+    key: gpl-2.0
+    name: GNU General Public License v2.0
+    node_id: MDc6TGljZW5zZTg=
+    spdx_id: GPL-2.0
+    url: https://api.github.com/licenses/gpl-2.0
+  merges_url: https://api.github.com/repos/pelrun/dtv2ser/merges
+  milestones_url: https://api.github.com/repos/pelrun/dtv2ser/milestones{/number}
+  mirror_url: null
+  name: dtv2ser
+  node_id: MDEwOlJlcG9zaXRvcnkxMTUxNjE1MDA=
+  notifications_url: https://api.github.com/repos/pelrun/dtv2ser/notifications{?since,all,participating}
+  open_issues: 6
+  open_issues_count: 6
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/316223?v=4
+    events_url: https://api.github.com/users/pelrun/events{/privacy}
+    followers_url: https://api.github.com/users/pelrun/followers
+    following_url: https://api.github.com/users/pelrun/following{/other_user}
+    gists_url: https://api.github.com/users/pelrun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/pelrun
+    id: 316223
+    login: pelrun
+    node_id: MDQ6VXNlcjMxNjIyMw==
+    organizations_url: https://api.github.com/users/pelrun/orgs
+    received_events_url: https://api.github.com/users/pelrun/received_events
+    repos_url: https://api.github.com/users/pelrun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/pelrun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/pelrun/subscriptions
+    type: User
+    url: https://api.github.com/users/pelrun
+  private: false
+  pulls_url: https://api.github.com/repos/pelrun/dtv2ser/pulls{/number}
+  pushed_at: '2018-01-05T10:05:26Z'
+  releases_url: https://api.github.com/repos/pelrun/dtv2ser/releases{/id}
+  size: 1559
+  ssh_url: git@github.com:pelrun/dtv2ser.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/pelrun/dtv2ser/stargazers
+  statuses_url: https://api.github.com/repos/pelrun/dtv2ser/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/pelrun/dtv2ser/subscribers
+  subscription_url: https://api.github.com/repos/pelrun/dtv2ser/subscription
+  svn_url: https://github.com/pelrun/dtv2ser
+  tags_url: https://api.github.com/repos/pelrun/dtv2ser/tags
+  teams_url: https://api.github.com/repos/pelrun/dtv2ser/teams
+  topics: []
+  trees_url: https://api.github.com/repos/pelrun/dtv2ser/git/trees{/sha}
+  updated_at: '2020-11-05T05:14:50Z'
+  url: https://api.github.com/repos/pelrun/dtv2ser
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

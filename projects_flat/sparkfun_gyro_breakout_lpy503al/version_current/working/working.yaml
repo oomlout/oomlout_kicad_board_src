@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/branches{/branch}
-clone_url: https://github.com/sparkfun/Gyro_Breakout-LPY503AL.git
-collaborators_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/contributors
-created_at: '2015-05-06T22:12:49Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/deployments
-description: "SparkFun Gyro Breakout - LPY503AL (Dual 30\xB0/s)"
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/downloads
-events_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/forks
-full_name: sparkfun/Gyro_Breakout-LPY503AL
-git_commits_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/git/tags{/sha}
-git_url: git://github.com/sparkfun/Gyro_Breakout-LPY503AL.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/hooks
-html_url: https://github.com/sparkfun/Gyro_Breakout-LPY503AL
-id: 35185503
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/merges
-milestones_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/milestones{/number}
-mirror_url: null
-name: Gyro_Breakout-LPY503AL
-node_id: MDEwOlJlcG9zaXRvcnkzNTE4NTUwMw==
-notifications_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Gyro_Breakout-LPY503AL
+  github_src: https://github.com/sparkfun/Gyro_Breakout-LPY503AL
+  github_src_repo: https://github.com/sparkfun/Gyro_Breakout-LPY503AL
+  oomp_bot: projects_sparkfun_gyro_breakout_lpy503al
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_gyro_breakout_lpy503al
+  oomp_doc: projects/projects_flat_sparkfun_gyro_breakout_lpy503al/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_gyro_breakout_lpy503al
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_gyro_breakout_lpy503al
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_gyro_breakout_lpy503al
+  oomp_src_folder: projects_flat\sparkfun_gyro_breakout_lpy503al\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_gyro_breakout_lpy503al\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_gyro_breakout_lpy503al
+oomp_key_simple: projects_flat_sparkfun_gyro_breakout_lpy503al
+projects_flat: projects_flat/sparkfun_gyro_breakout_lpy503al/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_gyro_breakout_lpy503al/version_current/working
 projects_folder: projects_folder/sparkfun/Gyro_Breakout-LPY503AL/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/pulls{/number}
-pushed_at: '2015-05-06T22:22:00Z'
-releases_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/releases{/id}
-size: 110
-ssh_url: git@github.com:sparkfun/Gyro_Breakout-LPY503AL.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/subscription
-svn_url: https://github.com/sparkfun/Gyro_Breakout-LPY503AL
-tags_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/tags
-teams_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/git/trees{/sha}
-updated_at: '2015-08-05T00:26:18Z'
-url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/branches{/branch}
+  clone_url: https://github.com/sparkfun/Gyro_Breakout-LPY503AL.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/contributors
+  created_at: '2015-05-06T22:12:49Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/deployments
+  description: "SparkFun Gyro Breakout - LPY503AL (Dual 30\xB0/s)"
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/downloads
+  events_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/forks
+  full_name: sparkfun/Gyro_Breakout-LPY503AL
+  git_commits_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Gyro_Breakout-LPY503AL.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/hooks
+  html_url: https://github.com/sparkfun/Gyro_Breakout-LPY503AL
+  id: 35185503
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/milestones{/number}
+  mirror_url: null
+  name: Gyro_Breakout-LPY503AL
+  node_id: MDEwOlJlcG9zaXRvcnkzNTE4NTUwMw==
+  notifications_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/pulls{/number}
+  pushed_at: '2015-05-06T22:22:00Z'
+  releases_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/releases{/id}
+  size: 110
+  ssh_url: git@github.com:sparkfun/Gyro_Breakout-LPY503AL.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/subscription
+  svn_url: https://github.com/sparkfun/Gyro_Breakout-LPY503AL
+  tags_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/tags
+  teams_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL/git/trees{/sha}
+  updated_at: '2015-08-05T00:26:18Z'
+  url: https://api.github.com/repos/sparkfun/Gyro_Breakout-LPY503AL
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

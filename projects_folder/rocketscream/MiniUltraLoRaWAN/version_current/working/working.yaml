@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/assignees{/user}
-blobs_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/git/blobs{/sha}
-branches_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/branches{/branch}
-clone_url: https://github.com/rocketscream/MiniUltraLoRaWAN.git
-collaborators_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/comments{/number}
-commits_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/commits{/sha}
-compare_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/compare/{base}...{head}
-contents_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/contents/{+path}
-contributors_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/contributors
-created_at: '2018-08-04T11:10:29Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/deployments
-description: Arduino compatible single cell ultra low power LoRaWAN node
-disabled: false
-downloads_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/downloads
-events_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/events
-fork: false
-forks: 4
-forks_count: 4
-forks_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/forks
-full_name: rocketscream/MiniUltraLoRaWAN
-git_commits_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/git/tags{/sha}
-git_url: git://github.com/rocketscream/MiniUltraLoRaWAN.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/hooks
-html_url: https://github.com/rocketscream/MiniUltraLoRaWAN
-id: 143522055
-is_template: false
-issue_comment_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/issues/events{/number}
-issues_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/issues{/number}
-keys_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/keys{/key_id}
-labels_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/languages
-license: null
-merges_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/merges
-milestones_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/milestones{/number}
-mirror_url: null
-name: MiniUltraLoRaWAN
-node_id: MDEwOlJlcG9zaXRvcnkxNDM1MjIwNTU=
-notifications_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/822826?v=4
-  events_url: https://api.github.com/users/rocketscream/events{/privacy}
-  followers_url: https://api.github.com/users/rocketscream/followers
-  following_url: https://api.github.com/users/rocketscream/following{/other_user}
-  gists_url: https://api.github.com/users/rocketscream/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/rocketscream
-  id: 822826
-  login: rocketscream
-  node_id: MDQ6VXNlcjgyMjgyNg==
-  organizations_url: https://api.github.com/users/rocketscream/orgs
-  received_events_url: https://api.github.com/users/rocketscream/received_events
-  repos_url: https://api.github.com/users/rocketscream/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/rocketscream/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/rocketscream/subscriptions
-  type: User
-  url: https://api.github.com/users/rocketscream
-private: false
+links:
+  github_owner: rocketscream
+  github_repo_name: MiniUltraLoRaWAN
+  github_src: https://github.com/rocketscream/MiniUltraLoRaWAN
+  github_src_repo: https://github.com/rocketscream/MiniUltraLoRaWAN
+  oomp_bot: rocketscream_miniultralorawan
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/rocketscream_miniultralorawan
+  oomp_doc: projects/rocketscream_miniultralorawan/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/rocketscream_miniultralorawan
+  oomp_src_flat: projects_flat/rocketscream_miniultralorawan
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/rocketscream_miniultralorawan
+  oomp_src_folder: projects_folder\rocketscream\MiniUltraLoRaWAN\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\rocketscream\MiniUltraLoRaWAN\version_current\working
+oomp_key: oomp_rocketscream_miniultralorawan
+oomp_key_simple: rocketscream_miniultralorawan
 projects_flat: projects_flat/rocketscream_miniultralorawan/version_current/working
 projects_folder: projects_folder/rocketscream/MiniUltraLoRaWAN/version_current/working
-pulls_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/pulls{/number}
-pushed_at: '2018-09-05T14:29:55Z'
-releases_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/releases{/id}
-size: 3265
-ssh_url: git@github.com:rocketscream/MiniUltraLoRaWAN.git
-stargazers_count: 19
-stargazers_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/stargazers
-statuses_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/statuses/{sha}
-subscribers_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/subscribers
-subscription_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/subscription
-svn_url: https://github.com/rocketscream/MiniUltraLoRaWAN
-tags_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/tags
-teams_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/teams
-topics: []
-trees_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/git/trees{/sha}
-updated_at: '2022-10-14T12:46:29Z'
-url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN
-visibility: public
-watchers: 19
-watchers_count: 19
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/assignees{/user}
+  blobs_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/branches{/branch}
+  clone_url: https://github.com/rocketscream/MiniUltraLoRaWAN.git
+  collaborators_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/comments{/number}
+  commits_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/commits{/sha}
+  compare_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/contents/{+path}
+  contributors_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/contributors
+  created_at: '2018-08-04T11:10:29Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/deployments
+  description: Arduino compatible single cell ultra low power LoRaWAN node
+  disabled: false
+  downloads_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/downloads
+  events_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/events
+  fork: false
+  forks: 4
+  forks_count: 4
+  forks_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/forks
+  full_name: rocketscream/MiniUltraLoRaWAN
+  git_commits_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/git/tags{/sha}
+  git_url: git://github.com/rocketscream/MiniUltraLoRaWAN.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/hooks
+  html_url: https://github.com/rocketscream/MiniUltraLoRaWAN
+  id: 143522055
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/issues/events{/number}
+  issues_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/issues{/number}
+  keys_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/keys{/key_id}
+  labels_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/languages
+  license: null
+  merges_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/merges
+  milestones_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/milestones{/number}
+  mirror_url: null
+  name: MiniUltraLoRaWAN
+  node_id: MDEwOlJlcG9zaXRvcnkxNDM1MjIwNTU=
+  notifications_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/822826?v=4
+    events_url: https://api.github.com/users/rocketscream/events{/privacy}
+    followers_url: https://api.github.com/users/rocketscream/followers
+    following_url: https://api.github.com/users/rocketscream/following{/other_user}
+    gists_url: https://api.github.com/users/rocketscream/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/rocketscream
+    id: 822826
+    login: rocketscream
+    node_id: MDQ6VXNlcjgyMjgyNg==
+    organizations_url: https://api.github.com/users/rocketscream/orgs
+    received_events_url: https://api.github.com/users/rocketscream/received_events
+    repos_url: https://api.github.com/users/rocketscream/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/rocketscream/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/rocketscream/subscriptions
+    type: User
+    url: https://api.github.com/users/rocketscream
+  private: false
+  pulls_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/pulls{/number}
+  pushed_at: '2018-09-05T14:29:55Z'
+  releases_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/releases{/id}
+  size: 3265
+  ssh_url: git@github.com:rocketscream/MiniUltraLoRaWAN.git
+  stargazers_count: 19
+  stargazers_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/stargazers
+  statuses_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/subscribers
+  subscription_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/subscription
+  svn_url: https://github.com/rocketscream/MiniUltraLoRaWAN
+  tags_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/tags
+  teams_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/teams
+  topics: []
+  trees_url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN/git/trees{/sha}
+  updated_at: '2022-10-14T12:46:29Z'
+  url: https://api.github.com/repos/rocketscream/MiniUltraLoRaWAN
+  visibility: public
+  watchers: 19
+  watchers_count: 19
+  web_commit_signoff_required: false

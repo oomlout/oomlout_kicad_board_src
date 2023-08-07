@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Cylindric3D/uv-box/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Cylindric3D/uv-box/assignees{/user}
-blobs_url: https://api.github.com/repos/Cylindric3D/uv-box/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Cylindric3D/uv-box/branches{/branch}
-clone_url: https://github.com/Cylindric3D/uv-box.git
-collaborators_url: https://api.github.com/repos/Cylindric3D/uv-box/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Cylindric3D/uv-box/comments{/number}
-commits_url: https://api.github.com/repos/Cylindric3D/uv-box/commits{/sha}
-compare_url: https://api.github.com/repos/Cylindric3D/uv-box/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Cylindric3D/uv-box/contents/{+path}
-contributors_url: https://api.github.com/repos/Cylindric3D/uv-box/contributors
-created_at: '2014-12-01T10:24:34Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Cylindric3D/uv-box/deployments
-description: A UV-Exposure box for creating home-made PCBs
-disabled: false
-downloads_url: https://api.github.com/repos/Cylindric3D/uv-box/downloads
-events_url: https://api.github.com/repos/Cylindric3D/uv-box/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/Cylindric3D/uv-box/forks
-full_name: Cylindric3D/uv-box
-git_commits_url: https://api.github.com/repos/Cylindric3D/uv-box/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Cylindric3D/uv-box/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Cylindric3D/uv-box/git/tags{/sha}
-git_url: git://github.com/Cylindric3D/uv-box.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Cylindric3D/uv-box/hooks
-html_url: https://github.com/Cylindric3D/uv-box
-id: 27374204
-is_template: false
-issue_comment_url: https://api.github.com/repos/Cylindric3D/uv-box/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Cylindric3D/uv-box/issues/events{/number}
-issues_url: https://api.github.com/repos/Cylindric3D/uv-box/issues{/number}
-keys_url: https://api.github.com/repos/Cylindric3D/uv-box/keys{/key_id}
-labels_url: https://api.github.com/repos/Cylindric3D/uv-box/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/Cylindric3D/uv-box/languages
-license: null
-merges_url: https://api.github.com/repos/Cylindric3D/uv-box/merges
-milestones_url: https://api.github.com/repos/Cylindric3D/uv-box/milestones{/number}
-mirror_url: null
-name: uv-box
-node_id: MDEwOlJlcG9zaXRvcnkyNzM3NDIwNA==
-notifications_url: https://api.github.com/repos/Cylindric3D/uv-box/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5824441?v=4
-  events_url: https://api.github.com/users/Cylindric3D/events{/privacy}
-  followers_url: https://api.github.com/users/Cylindric3D/followers
-  following_url: https://api.github.com/users/Cylindric3D/following{/other_user}
-  gists_url: https://api.github.com/users/Cylindric3D/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Cylindric3D
-  id: 5824441
-  login: Cylindric3D
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU4MjQ0NDE=
-  organizations_url: https://api.github.com/users/Cylindric3D/orgs
-  received_events_url: https://api.github.com/users/Cylindric3D/received_events
-  repos_url: https://api.github.com/users/Cylindric3D/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Cylindric3D/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Cylindric3D/subscriptions
-  type: Organization
-  url: https://api.github.com/users/Cylindric3D
-private: false
+links:
+  github_owner: Cylindric3D
+  github_repo_name: uv-box
+  github_src: https://github.com/Cylindric3D/uv-box
+  github_src_repo: https://github.com/Cylindric3D/uv-box
+  oomp_bot: cylindric3d_uv_box
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/cylindric3d_uv_box
+  oomp_doc: projects/cylindric3d_uv_box/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/cylindric3d_uv_box
+  oomp_src_flat: projects_flat/cylindric3d_uv_box
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/cylindric3d_uv_box
+  oomp_src_folder: projects_folder\Cylindric3D\uv-box\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Cylindric3D\uv-box\version_current\working
+oomp_key: oomp_cylindric3d_uv_box
+oomp_key_simple: cylindric3d_uv_box
 projects_flat: projects_flat/cylindric3d_uv_box/version_current/working
 projects_folder: projects_folder/Cylindric3D/uv-box/version_current/working
-pulls_url: https://api.github.com/repos/Cylindric3D/uv-box/pulls{/number}
-pushed_at: '2014-12-28T23:18:32Z'
-releases_url: https://api.github.com/repos/Cylindric3D/uv-box/releases{/id}
-size: 27140
-ssh_url: git@github.com:Cylindric3D/uv-box.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/Cylindric3D/uv-box/stargazers
-statuses_url: https://api.github.com/repos/Cylindric3D/uv-box/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Cylindric3D/uv-box/subscribers
-subscription_url: https://api.github.com/repos/Cylindric3D/uv-box/subscription
-svn_url: https://github.com/Cylindric3D/uv-box
-tags_url: https://api.github.com/repos/Cylindric3D/uv-box/tags
-teams_url: https://api.github.com/repos/Cylindric3D/uv-box/teams
-topics: []
-trees_url: https://api.github.com/repos/Cylindric3D/uv-box/git/trees{/sha}
-updated_at: '2016-12-28T22:05:30Z'
-url: https://api.github.com/repos/Cylindric3D/uv-box
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Cylindric3D/uv-box/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Cylindric3D/uv-box/assignees{/user}
+  blobs_url: https://api.github.com/repos/Cylindric3D/uv-box/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Cylindric3D/uv-box/branches{/branch}
+  clone_url: https://github.com/Cylindric3D/uv-box.git
+  collaborators_url: https://api.github.com/repos/Cylindric3D/uv-box/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Cylindric3D/uv-box/comments{/number}
+  commits_url: https://api.github.com/repos/Cylindric3D/uv-box/commits{/sha}
+  compare_url: https://api.github.com/repos/Cylindric3D/uv-box/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Cylindric3D/uv-box/contents/{+path}
+  contributors_url: https://api.github.com/repos/Cylindric3D/uv-box/contributors
+  created_at: '2014-12-01T10:24:34Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Cylindric3D/uv-box/deployments
+  description: A UV-Exposure box for creating home-made PCBs
+  disabled: false
+  downloads_url: https://api.github.com/repos/Cylindric3D/uv-box/downloads
+  events_url: https://api.github.com/repos/Cylindric3D/uv-box/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/Cylindric3D/uv-box/forks
+  full_name: Cylindric3D/uv-box
+  git_commits_url: https://api.github.com/repos/Cylindric3D/uv-box/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Cylindric3D/uv-box/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Cylindric3D/uv-box/git/tags{/sha}
+  git_url: git://github.com/Cylindric3D/uv-box.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Cylindric3D/uv-box/hooks
+  html_url: https://github.com/Cylindric3D/uv-box
+  id: 27374204
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Cylindric3D/uv-box/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Cylindric3D/uv-box/issues/events{/number}
+  issues_url: https://api.github.com/repos/Cylindric3D/uv-box/issues{/number}
+  keys_url: https://api.github.com/repos/Cylindric3D/uv-box/keys{/key_id}
+  labels_url: https://api.github.com/repos/Cylindric3D/uv-box/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/Cylindric3D/uv-box/languages
+  license: null
+  merges_url: https://api.github.com/repos/Cylindric3D/uv-box/merges
+  milestones_url: https://api.github.com/repos/Cylindric3D/uv-box/milestones{/number}
+  mirror_url: null
+  name: uv-box
+  node_id: MDEwOlJlcG9zaXRvcnkyNzM3NDIwNA==
+  notifications_url: https://api.github.com/repos/Cylindric3D/uv-box/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5824441?v=4
+    events_url: https://api.github.com/users/Cylindric3D/events{/privacy}
+    followers_url: https://api.github.com/users/Cylindric3D/followers
+    following_url: https://api.github.com/users/Cylindric3D/following{/other_user}
+    gists_url: https://api.github.com/users/Cylindric3D/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Cylindric3D
+    id: 5824441
+    login: Cylindric3D
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU4MjQ0NDE=
+    organizations_url: https://api.github.com/users/Cylindric3D/orgs
+    received_events_url: https://api.github.com/users/Cylindric3D/received_events
+    repos_url: https://api.github.com/users/Cylindric3D/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Cylindric3D/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Cylindric3D/subscriptions
+    type: Organization
+    url: https://api.github.com/users/Cylindric3D
+  private: false
+  pulls_url: https://api.github.com/repos/Cylindric3D/uv-box/pulls{/number}
+  pushed_at: '2014-12-28T23:18:32Z'
+  releases_url: https://api.github.com/repos/Cylindric3D/uv-box/releases{/id}
+  size: 27140
+  ssh_url: git@github.com:Cylindric3D/uv-box.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/Cylindric3D/uv-box/stargazers
+  statuses_url: https://api.github.com/repos/Cylindric3D/uv-box/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Cylindric3D/uv-box/subscribers
+  subscription_url: https://api.github.com/repos/Cylindric3D/uv-box/subscription
+  svn_url: https://github.com/Cylindric3D/uv-box
+  tags_url: https://api.github.com/repos/Cylindric3D/uv-box/tags
+  teams_url: https://api.github.com/repos/Cylindric3D/uv-box/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Cylindric3D/uv-box/git/trees{/sha}
+  updated_at: '2016-12-28T22:05:30Z'
+  url: https://api.github.com/repos/Cylindric3D/uv-box
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

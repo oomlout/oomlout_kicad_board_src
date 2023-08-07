@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/assignees{/user}
-blobs_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/git/blobs{/sha}
-branches_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/branches{/branch}
-clone_url: https://github.com/garrettsworkshop/Warp-LC.git
-collaborators_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/comments{/number}
-commits_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/commits{/sha}
-compare_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/compare/{base}...{head}
-contents_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/contents/{+path}
-contributors_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/contributors
-created_at: '2021-10-29T08:54:59Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/deployments
-description: WIP 33 MHz MC68030-based accelerator card for Macintosh LC (unfinished)
-disabled: false
-downloads_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/downloads
-events_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/forks
-full_name: garrettsworkshop/Warp-LC
-git_commits_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/git/tags{/sha}
-git_url: git://github.com/garrettsworkshop/Warp-LC.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/hooks
-html_url: https://github.com/garrettsworkshop/Warp-LC
-id: 422507091
-is_template: false
-issue_comment_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/issues/events{/number}
-issues_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/issues{/number}
-keys_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/keys{/key_id}
-labels_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/labels{/name}
-language: VHDL
-languages_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/merges
-milestones_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/milestones{/number}
-mirror_url: null
-name: Warp-LC
-node_id: R_kgDOGS7yUw
-notifications_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
-  events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
-  followers_url: https://api.github.com/users/garrettsworkshop/followers
-  following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
-  gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/garrettsworkshop
-  id: 65582366
-  login: garrettsworkshop
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
-  organizations_url: https://api.github.com/users/garrettsworkshop/orgs
-  received_events_url: https://api.github.com/users/garrettsworkshop/received_events
-  repos_url: https://api.github.com/users/garrettsworkshop/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
-  type: Organization
-  url: https://api.github.com/users/garrettsworkshop
-private: false
+links:
+  github_owner: garrettsworkshop
+  github_repo_name: Warp-LC
+  github_src: https://github.com/garrettsworkshop/Warp-LC
+  github_src_repo: https://github.com/garrettsworkshop/Warp-LC
+  oomp_bot: garrettsworkshop_warp_lc
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/garrettsworkshop_warp_lc
+  oomp_doc: projects/garrettsworkshop_warp_lc/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/garrettsworkshop_warp_lc
+  oomp_src_flat: projects_flat/garrettsworkshop_warp_lc
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/garrettsworkshop_warp_lc
+  oomp_src_folder: projects_folder\garrettsworkshop\Warp-LC\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\garrettsworkshop\Warp-LC\version_current\working
+oomp_key: oomp_garrettsworkshop_warp_lc
+oomp_key_simple: garrettsworkshop_warp_lc
 projects_flat: projects_flat/garrettsworkshop_warp_lc/version_current/working
 projects_folder: projects_folder/garrettsworkshop/Warp-LC/version_current/working
-pulls_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/pulls{/number}
-pushed_at: '2023-06-07T22:53:56Z'
-releases_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/releases{/id}
-size: 6808
-ssh_url: git@github.com:garrettsworkshop/Warp-LC.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/stargazers
-statuses_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/statuses/{sha}
-subscribers_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/subscribers
-subscription_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/subscription
-svn_url: https://github.com/garrettsworkshop/Warp-LC
-tags_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/tags
-teams_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/teams
-topics: []
-trees_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/git/trees{/sha}
-updated_at: '2022-09-06T22:14:18Z'
-url: https://api.github.com/repos/garrettsworkshop/Warp-LC
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/assignees{/user}
+  blobs_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/branches{/branch}
+  clone_url: https://github.com/garrettsworkshop/Warp-LC.git
+  collaborators_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/comments{/number}
+  commits_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/commits{/sha}
+  compare_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/contents/{+path}
+  contributors_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/contributors
+  created_at: '2021-10-29T08:54:59Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/deployments
+  description: WIP 33 MHz MC68030-based accelerator card for Macintosh LC (unfinished)
+  disabled: false
+  downloads_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/downloads
+  events_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/forks
+  full_name: garrettsworkshop/Warp-LC
+  git_commits_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/git/tags{/sha}
+  git_url: git://github.com/garrettsworkshop/Warp-LC.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/hooks
+  html_url: https://github.com/garrettsworkshop/Warp-LC
+  id: 422507091
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/issues/events{/number}
+  issues_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/issues{/number}
+  keys_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/keys{/key_id}
+  labels_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/labels{/name}
+  language: VHDL
+  languages_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/merges
+  milestones_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/milestones{/number}
+  mirror_url: null
+  name: Warp-LC
+  node_id: R_kgDOGS7yUw
+  notifications_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
+    events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
+    followers_url: https://api.github.com/users/garrettsworkshop/followers
+    following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
+    gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/garrettsworkshop
+    id: 65582366
+    login: garrettsworkshop
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
+    organizations_url: https://api.github.com/users/garrettsworkshop/orgs
+    received_events_url: https://api.github.com/users/garrettsworkshop/received_events
+    repos_url: https://api.github.com/users/garrettsworkshop/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
+    type: Organization
+    url: https://api.github.com/users/garrettsworkshop
+  private: false
+  pulls_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/pulls{/number}
+  pushed_at: '2023-06-07T22:53:56Z'
+  releases_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/releases{/id}
+  size: 6808
+  ssh_url: git@github.com:garrettsworkshop/Warp-LC.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/stargazers
+  statuses_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/subscribers
+  subscription_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/subscription
+  svn_url: https://github.com/garrettsworkshop/Warp-LC
+  tags_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/tags
+  teams_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/teams
+  topics: []
+  trees_url: https://api.github.com/repos/garrettsworkshop/Warp-LC/git/trees{/sha}
+  updated_at: '2022-09-06T22:14:18Z'
+  url: https://api.github.com/repos/garrettsworkshop/Warp-LC
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

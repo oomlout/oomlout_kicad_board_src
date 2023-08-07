@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/mhorimoto/qok001/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/mhorimoto/qok001/assignees{/user}
-blobs_url: https://api.github.com/repos/mhorimoto/qok001/git/blobs{/sha}
-branches_url: https://api.github.com/repos/mhorimoto/qok001/branches{/branch}
-clone_url: https://github.com/mhorimoto/qok001.git
-collaborators_url: https://api.github.com/repos/mhorimoto/qok001/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/mhorimoto/qok001/comments{/number}
-commits_url: https://api.github.com/repos/mhorimoto/qok001/commits{/sha}
-compare_url: https://api.github.com/repos/mhorimoto/qok001/compare/{base}...{head}
-contents_url: https://api.github.com/repos/mhorimoto/qok001/contents/{+path}
-contributors_url: https://api.github.com/repos/mhorimoto/qok001/contributors
-created_at: '2020-06-12T09:35:07Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/mhorimoto/qok001/deployments
-description: "\u30ED\u30B8\u30C3\u30AFIC\u3092\u4F7F\u3063\u3066Arduino\u3084XPi\u3092\
-  \u3082\u3063\u3068\u697D\u3057\u304F\u4F7F\u3046\u624B\u6CD5\u3092\u8003\u3048\u308B\
-  \u4F1A\u7684\u56DE\u8DEF\u3002"
-disabled: false
-downloads_url: https://api.github.com/repos/mhorimoto/qok001/downloads
-events_url: https://api.github.com/repos/mhorimoto/qok001/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/mhorimoto/qok001/forks
-full_name: mhorimoto/qok001
-git_commits_url: https://api.github.com/repos/mhorimoto/qok001/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/mhorimoto/qok001/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/mhorimoto/qok001/git/tags{/sha}
-git_url: git://github.com/mhorimoto/qok001.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/mhorimoto/qok001/hooks
-html_url: https://github.com/mhorimoto/qok001
-id: 271761511
-is_template: false
-issue_comment_url: https://api.github.com/repos/mhorimoto/qok001/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/mhorimoto/qok001/issues/events{/number}
-issues_url: https://api.github.com/repos/mhorimoto/qok001/issues{/number}
-keys_url: https://api.github.com/repos/mhorimoto/qok001/keys{/key_id}
-labels_url: https://api.github.com/repos/mhorimoto/qok001/labels{/name}
-language: Prolog
-languages_url: https://api.github.com/repos/mhorimoto/qok001/languages
-license: null
-merges_url: https://api.github.com/repos/mhorimoto/qok001/merges
-milestones_url: https://api.github.com/repos/mhorimoto/qok001/milestones{/number}
-mirror_url: null
-name: qok001
-node_id: MDEwOlJlcG9zaXRvcnkyNzE3NjE1MTE=
-notifications_url: https://api.github.com/repos/mhorimoto/qok001/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3594832?v=4
-  events_url: https://api.github.com/users/mhorimoto/events{/privacy}
-  followers_url: https://api.github.com/users/mhorimoto/followers
-  following_url: https://api.github.com/users/mhorimoto/following{/other_user}
-  gists_url: https://api.github.com/users/mhorimoto/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/mhorimoto
-  id: 3594832
-  login: mhorimoto
-  node_id: MDQ6VXNlcjM1OTQ4MzI=
-  organizations_url: https://api.github.com/users/mhorimoto/orgs
-  received_events_url: https://api.github.com/users/mhorimoto/received_events
-  repos_url: https://api.github.com/users/mhorimoto/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/mhorimoto/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/mhorimoto/subscriptions
-  type: User
-  url: https://api.github.com/users/mhorimoto
-private: false
+links:
+  github_owner: mhorimoto
+  github_repo_name: qok001
+  github_src: https://github.com/mhorimoto/qok001
+  github_src_repo: https://github.com/mhorimoto/qok001
+  oomp_bot: projects_mhorimoto_qok001
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_mhorimoto_qok001
+  oomp_doc: projects/projects_flat_mhorimoto_qok001/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_mhorimoto_qok001
+  oomp_src_flat: projects_flat/projects_flat_mhorimoto_qok001
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_mhorimoto_qok001
+  oomp_src_folder: projects_flat\mhorimoto_qok001\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\mhorimoto_qok001\version_current\working
+oomp_key: oomp_projects_flat_mhorimoto_qok001
+oomp_key_simple: projects_flat_mhorimoto_qok001
 projects_flat: projects_flat/mhorimoto_qok001/version_current/working
 projects_folder: projects_folder/mhorimoto/qok001/version_current/working
-pulls_url: https://api.github.com/repos/mhorimoto/qok001/pulls{/number}
-pushed_at: '2020-06-14T17:05:34Z'
-releases_url: https://api.github.com/repos/mhorimoto/qok001/releases{/id}
-size: 305
-ssh_url: git@github.com:mhorimoto/qok001.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/mhorimoto/qok001/stargazers
-statuses_url: https://api.github.com/repos/mhorimoto/qok001/statuses/{sha}
-subscribers_url: https://api.github.com/repos/mhorimoto/qok001/subscribers
-subscription_url: https://api.github.com/repos/mhorimoto/qok001/subscription
-svn_url: https://github.com/mhorimoto/qok001
-tags_url: https://api.github.com/repos/mhorimoto/qok001/tags
-teams_url: https://api.github.com/repos/mhorimoto/qok001/teams
-topics: []
-trees_url: https://api.github.com/repos/mhorimoto/qok001/git/trees{/sha}
-updated_at: '2020-06-14T17:05:36Z'
-url: https://api.github.com/repos/mhorimoto/qok001
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/mhorimoto/qok001/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/mhorimoto/qok001/assignees{/user}
+  blobs_url: https://api.github.com/repos/mhorimoto/qok001/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/mhorimoto/qok001/branches{/branch}
+  clone_url: https://github.com/mhorimoto/qok001.git
+  collaborators_url: https://api.github.com/repos/mhorimoto/qok001/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/mhorimoto/qok001/comments{/number}
+  commits_url: https://api.github.com/repos/mhorimoto/qok001/commits{/sha}
+  compare_url: https://api.github.com/repos/mhorimoto/qok001/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/mhorimoto/qok001/contents/{+path}
+  contributors_url: https://api.github.com/repos/mhorimoto/qok001/contributors
+  created_at: '2020-06-12T09:35:07Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/mhorimoto/qok001/deployments
+  description: "\u30ED\u30B8\u30C3\u30AFIC\u3092\u4F7F\u3063\u3066Arduino\u3084XPi\u3092\
+    \u3082\u3063\u3068\u697D\u3057\u304F\u4F7F\u3046\u624B\u6CD5\u3092\u8003\u3048\
+    \u308B\u4F1A\u7684\u56DE\u8DEF\u3002"
+  disabled: false
+  downloads_url: https://api.github.com/repos/mhorimoto/qok001/downloads
+  events_url: https://api.github.com/repos/mhorimoto/qok001/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/mhorimoto/qok001/forks
+  full_name: mhorimoto/qok001
+  git_commits_url: https://api.github.com/repos/mhorimoto/qok001/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/mhorimoto/qok001/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/mhorimoto/qok001/git/tags{/sha}
+  git_url: git://github.com/mhorimoto/qok001.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/mhorimoto/qok001/hooks
+  html_url: https://github.com/mhorimoto/qok001
+  id: 271761511
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/mhorimoto/qok001/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/mhorimoto/qok001/issues/events{/number}
+  issues_url: https://api.github.com/repos/mhorimoto/qok001/issues{/number}
+  keys_url: https://api.github.com/repos/mhorimoto/qok001/keys{/key_id}
+  labels_url: https://api.github.com/repos/mhorimoto/qok001/labels{/name}
+  language: Prolog
+  languages_url: https://api.github.com/repos/mhorimoto/qok001/languages
+  license: null
+  merges_url: https://api.github.com/repos/mhorimoto/qok001/merges
+  milestones_url: https://api.github.com/repos/mhorimoto/qok001/milestones{/number}
+  mirror_url: null
+  name: qok001
+  node_id: MDEwOlJlcG9zaXRvcnkyNzE3NjE1MTE=
+  notifications_url: https://api.github.com/repos/mhorimoto/qok001/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3594832?v=4
+    events_url: https://api.github.com/users/mhorimoto/events{/privacy}
+    followers_url: https://api.github.com/users/mhorimoto/followers
+    following_url: https://api.github.com/users/mhorimoto/following{/other_user}
+    gists_url: https://api.github.com/users/mhorimoto/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/mhorimoto
+    id: 3594832
+    login: mhorimoto
+    node_id: MDQ6VXNlcjM1OTQ4MzI=
+    organizations_url: https://api.github.com/users/mhorimoto/orgs
+    received_events_url: https://api.github.com/users/mhorimoto/received_events
+    repos_url: https://api.github.com/users/mhorimoto/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/mhorimoto/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/mhorimoto/subscriptions
+    type: User
+    url: https://api.github.com/users/mhorimoto
+  private: false
+  pulls_url: https://api.github.com/repos/mhorimoto/qok001/pulls{/number}
+  pushed_at: '2020-06-14T17:05:34Z'
+  releases_url: https://api.github.com/repos/mhorimoto/qok001/releases{/id}
+  size: 305
+  ssh_url: git@github.com:mhorimoto/qok001.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/mhorimoto/qok001/stargazers
+  statuses_url: https://api.github.com/repos/mhorimoto/qok001/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/mhorimoto/qok001/subscribers
+  subscription_url: https://api.github.com/repos/mhorimoto/qok001/subscription
+  svn_url: https://github.com/mhorimoto/qok001
+  tags_url: https://api.github.com/repos/mhorimoto/qok001/tags
+  teams_url: https://api.github.com/repos/mhorimoto/qok001/teams
+  topics: []
+  trees_url: https://api.github.com/repos/mhorimoto/qok001/git/trees{/sha}
+  updated_at: '2020-06-14T17:05:36Z'
+  url: https://api.github.com/repos/mhorimoto/qok001
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

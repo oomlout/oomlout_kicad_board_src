@@ -1,103 +1,119 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/asukiaaa/esp32bb/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/asukiaaa/esp32bb/assignees{/user}
-blobs_url: https://api.github.com/repos/asukiaaa/esp32bb/git/blobs{/sha}
-branches_url: https://api.github.com/repos/asukiaaa/esp32bb/branches{/branch}
-clone_url: https://github.com/asukiaaa/esp32bb.git
-collaborators_url: https://api.github.com/repos/asukiaaa/esp32bb/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/asukiaaa/esp32bb/comments{/number}
-commits_url: https://api.github.com/repos/asukiaaa/esp32bb/commits{/sha}
-compare_url: https://api.github.com/repos/asukiaaa/esp32bb/compare/{base}...{head}
-contents_url: https://api.github.com/repos/asukiaaa/esp32bb/contents/{+path}
-contributors_url: https://api.github.com/repos/asukiaaa/esp32bb/contributors
-created_at: '2017-02-18T01:00:25Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/asukiaaa/esp32bb/deployments
-description: A KiCad project for esp-wroom-32 and breadboard.
-disabled: false
-downloads_url: https://api.github.com/repos/asukiaaa/esp32bb/downloads
-events_url: https://api.github.com/repos/asukiaaa/esp32bb/events
-fork: false
-forks: 7
-forks_count: 7
-forks_url: https://api.github.com/repos/asukiaaa/esp32bb/forks
-full_name: asukiaaa/esp32bb
-git_commits_url: https://api.github.com/repos/asukiaaa/esp32bb/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/asukiaaa/esp32bb/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/asukiaaa/esp32bb/git/tags{/sha}
-git_url: git://github.com/asukiaaa/esp32bb.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/asukiaaa/esp32bb/hooks
-html_url: https://github.com/asukiaaa/esp32bb
-id: 82351237
-is_template: false
-issue_comment_url: https://api.github.com/repos/asukiaaa/esp32bb/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/asukiaaa/esp32bb/issues/events{/number}
-issues_url: https://api.github.com/repos/asukiaaa/esp32bb/issues{/number}
-keys_url: https://api.github.com/repos/asukiaaa/esp32bb/keys{/key_id}
-labels_url: https://api.github.com/repos/asukiaaa/esp32bb/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/asukiaaa/esp32bb/languages
-license: null
-merges_url: https://api.github.com/repos/asukiaaa/esp32bb/merges
-milestones_url: https://api.github.com/repos/asukiaaa/esp32bb/milestones{/number}
-mirror_url: null
-name: esp32bb
-node_id: MDEwOlJlcG9zaXRvcnk4MjM1MTIzNw==
-notifications_url: https://api.github.com/repos/asukiaaa/esp32bb/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5975178?v=4
-  events_url: https://api.github.com/users/asukiaaa/events{/privacy}
-  followers_url: https://api.github.com/users/asukiaaa/followers
-  following_url: https://api.github.com/users/asukiaaa/following{/other_user}
-  gists_url: https://api.github.com/users/asukiaaa/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/asukiaaa
-  id: 5975178
-  login: asukiaaa
-  node_id: MDQ6VXNlcjU5NzUxNzg=
-  organizations_url: https://api.github.com/users/asukiaaa/orgs
-  received_events_url: https://api.github.com/users/asukiaaa/received_events
-  repos_url: https://api.github.com/users/asukiaaa/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/asukiaaa/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/asukiaaa/subscriptions
-  type: User
-  url: https://api.github.com/users/asukiaaa
-private: false
+links:
+  github_owner: asukiaaa
+  github_repo_name: esp32bb
+  github_src: https://github.com/asukiaaa/esp32bb
+  github_src_repo: https://github.com/asukiaaa/esp32bb
+  oomp_bot: projects_asukiaaa_esp32bb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_asukiaaa_esp32bb
+  oomp_doc: projects/projects_flat_asukiaaa_esp32bb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_asukiaaa_esp32bb
+  oomp_src_flat: projects_flat/projects_flat_asukiaaa_esp32bb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_asukiaaa_esp32bb
+  oomp_src_folder: projects_flat\asukiaaa_esp32bb\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\asukiaaa_esp32bb\version_current\working
+oomp_key: oomp_projects_flat_asukiaaa_esp32bb
+oomp_key_simple: projects_flat_asukiaaa_esp32bb
 projects_flat: projects_flat/asukiaaa_esp32bb/version_current/working
 projects_folder: projects_folder/asukiaaa/esp32bb/version_current/working
-pulls_url: https://api.github.com/repos/asukiaaa/esp32bb/pulls{/number}
-pushed_at: '2019-01-18T03:19:47Z'
-releases_url: https://api.github.com/repos/asukiaaa/esp32bb/releases{/id}
-size: 3984
-ssh_url: git@github.com:asukiaaa/esp32bb.git
-stargazers_count: 47
-stargazers_url: https://api.github.com/repos/asukiaaa/esp32bb/stargazers
-statuses_url: https://api.github.com/repos/asukiaaa/esp32bb/statuses/{sha}
-subscribers_url: https://api.github.com/repos/asukiaaa/esp32bb/subscribers
-subscription_url: https://api.github.com/repos/asukiaaa/esp32bb/subscription
-svn_url: https://github.com/asukiaaa/esp32bb
-tags_url: https://api.github.com/repos/asukiaaa/esp32bb/tags
-teams_url: https://api.github.com/repos/asukiaaa/esp32bb/teams
-topics:
-- breadboard
-- breakout
-- esp32
-- kicad
-trees_url: https://api.github.com/repos/asukiaaa/esp32bb/git/trees{/sha}
-updated_at: '2023-07-26T14:43:10Z'
-url: https://api.github.com/repos/asukiaaa/esp32bb
-visibility: public
-watchers: 47
-watchers_count: 47
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/asukiaaa/esp32bb/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/asukiaaa/esp32bb/assignees{/user}
+  blobs_url: https://api.github.com/repos/asukiaaa/esp32bb/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/asukiaaa/esp32bb/branches{/branch}
+  clone_url: https://github.com/asukiaaa/esp32bb.git
+  collaborators_url: https://api.github.com/repos/asukiaaa/esp32bb/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/asukiaaa/esp32bb/comments{/number}
+  commits_url: https://api.github.com/repos/asukiaaa/esp32bb/commits{/sha}
+  compare_url: https://api.github.com/repos/asukiaaa/esp32bb/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/asukiaaa/esp32bb/contents/{+path}
+  contributors_url: https://api.github.com/repos/asukiaaa/esp32bb/contributors
+  created_at: '2017-02-18T01:00:25Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/asukiaaa/esp32bb/deployments
+  description: A KiCad project for esp-wroom-32 and breadboard.
+  disabled: false
+  downloads_url: https://api.github.com/repos/asukiaaa/esp32bb/downloads
+  events_url: https://api.github.com/repos/asukiaaa/esp32bb/events
+  fork: false
+  forks: 7
+  forks_count: 7
+  forks_url: https://api.github.com/repos/asukiaaa/esp32bb/forks
+  full_name: asukiaaa/esp32bb
+  git_commits_url: https://api.github.com/repos/asukiaaa/esp32bb/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/asukiaaa/esp32bb/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/asukiaaa/esp32bb/git/tags{/sha}
+  git_url: git://github.com/asukiaaa/esp32bb.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/asukiaaa/esp32bb/hooks
+  html_url: https://github.com/asukiaaa/esp32bb
+  id: 82351237
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/asukiaaa/esp32bb/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/asukiaaa/esp32bb/issues/events{/number}
+  issues_url: https://api.github.com/repos/asukiaaa/esp32bb/issues{/number}
+  keys_url: https://api.github.com/repos/asukiaaa/esp32bb/keys{/key_id}
+  labels_url: https://api.github.com/repos/asukiaaa/esp32bb/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/asukiaaa/esp32bb/languages
+  license: null
+  merges_url: https://api.github.com/repos/asukiaaa/esp32bb/merges
+  milestones_url: https://api.github.com/repos/asukiaaa/esp32bb/milestones{/number}
+  mirror_url: null
+  name: esp32bb
+  node_id: MDEwOlJlcG9zaXRvcnk4MjM1MTIzNw==
+  notifications_url: https://api.github.com/repos/asukiaaa/esp32bb/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5975178?v=4
+    events_url: https://api.github.com/users/asukiaaa/events{/privacy}
+    followers_url: https://api.github.com/users/asukiaaa/followers
+    following_url: https://api.github.com/users/asukiaaa/following{/other_user}
+    gists_url: https://api.github.com/users/asukiaaa/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/asukiaaa
+    id: 5975178
+    login: asukiaaa
+    node_id: MDQ6VXNlcjU5NzUxNzg=
+    organizations_url: https://api.github.com/users/asukiaaa/orgs
+    received_events_url: https://api.github.com/users/asukiaaa/received_events
+    repos_url: https://api.github.com/users/asukiaaa/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/asukiaaa/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/asukiaaa/subscriptions
+    type: User
+    url: https://api.github.com/users/asukiaaa
+  private: false
+  pulls_url: https://api.github.com/repos/asukiaaa/esp32bb/pulls{/number}
+  pushed_at: '2019-01-18T03:19:47Z'
+  releases_url: https://api.github.com/repos/asukiaaa/esp32bb/releases{/id}
+  size: 3984
+  ssh_url: git@github.com:asukiaaa/esp32bb.git
+  stargazers_count: 47
+  stargazers_url: https://api.github.com/repos/asukiaaa/esp32bb/stargazers
+  statuses_url: https://api.github.com/repos/asukiaaa/esp32bb/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/asukiaaa/esp32bb/subscribers
+  subscription_url: https://api.github.com/repos/asukiaaa/esp32bb/subscription
+  svn_url: https://github.com/asukiaaa/esp32bb
+  tags_url: https://api.github.com/repos/asukiaaa/esp32bb/tags
+  teams_url: https://api.github.com/repos/asukiaaa/esp32bb/teams
+  topics:
+  - breadboard
+  - breakout
+  - esp32
+  - kicad
+  trees_url: https://api.github.com/repos/asukiaaa/esp32bb/git/trees{/sha}
+  updated_at: '2023-07-26T14:43:10Z'
+  url: https://api.github.com/repos/asukiaaa/esp32bb
+  visibility: public
+  watchers: 47
+  watchers_count: 47
+  web_commit_signoff_required: false

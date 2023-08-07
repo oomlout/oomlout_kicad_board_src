@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/branches{/branch}
-clone_url: https://github.com/sparkfun/RedBoard_Artemis.git
-collaborators_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/contributors
-created_at: '2019-07-01T22:49:17Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/downloads
-events_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/forks
-full_name: sparkfun/RedBoard_Artemis
-git_commits_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/git/tags{/sha}
-git_url: git://github.com/sparkfun/RedBoard_Artemis.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/hooks
-html_url: https://github.com/sparkfun/RedBoard_Artemis
-id: 194752615
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/merges
-milestones_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/milestones{/number}
-mirror_url: null
-name: RedBoard_Artemis
-node_id: MDEwOlJlcG9zaXRvcnkxOTQ3NTI2MTU=
-notifications_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: RedBoard_Artemis
+  github_src: https://github.com/sparkfun/RedBoard_Artemis
+  github_src_repo: https://github.com/sparkfun/RedBoard_Artemis
+  oomp_bot: sparkfun_redboard_artemis
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_redboard_artemis
+  oomp_doc: projects/sparkfun_redboard_artemis/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_redboard_artemis
+  oomp_src_flat: projects_flat/sparkfun_redboard_artemis
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_redboard_artemis
+  oomp_src_folder: projects_folder\sparkfun\RedBoard_Artemis\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\RedBoard_Artemis\version_current\working
+oomp_key: oomp_sparkfun_redboard_artemis
+oomp_key_simple: sparkfun_redboard_artemis
+projects_flat: projects_flat/sparkfun_redboard_artemis/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_redboard_artemis/version_current/working
 projects_folder: projects_folder/sparkfun/RedBoard_Artemis/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/pulls{/number}
-pushed_at: '2019-08-15T15:17:14Z'
-releases_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/releases{/id}
-size: 7396
-ssh_url: git@github.com:sparkfun/RedBoard_Artemis.git
-stargazers_count: 7
-stargazers_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/subscription
-svn_url: https://github.com/sparkfun/RedBoard_Artemis
-tags_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/tags
-teams_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/git/trees{/sha}
-updated_at: '2022-12-23T00:22:07Z'
-url: https://api.github.com/repos/sparkfun/RedBoard_Artemis
-visibility: public
-watchers: 7
-watchers_count: 7
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/branches{/branch}
+  clone_url: https://github.com/sparkfun/RedBoard_Artemis.git
+  collaborators_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/contributors
+  created_at: '2019-07-01T22:49:17Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/downloads
+  events_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/forks
+  full_name: sparkfun/RedBoard_Artemis
+  git_commits_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/git/tags{/sha}
+  git_url: git://github.com/sparkfun/RedBoard_Artemis.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/hooks
+  html_url: https://github.com/sparkfun/RedBoard_Artemis
+  id: 194752615
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/merges
+  milestones_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/milestones{/number}
+  mirror_url: null
+  name: RedBoard_Artemis
+  node_id: MDEwOlJlcG9zaXRvcnkxOTQ3NTI2MTU=
+  notifications_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/notifications{?since,all,participating}
+  open_issues: 4
+  open_issues_count: 4
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/pulls{/number}
+  pushed_at: '2019-08-15T15:17:14Z'
+  releases_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/releases{/id}
+  size: 7396
+  ssh_url: git@github.com:sparkfun/RedBoard_Artemis.git
+  stargazers_count: 7
+  stargazers_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/subscription
+  svn_url: https://github.com/sparkfun/RedBoard_Artemis
+  tags_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/tags
+  teams_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/RedBoard_Artemis/git/trees{/sha}
+  updated_at: '2022-12-23T00:22:07Z'
+  url: https://api.github.com/repos/sparkfun/RedBoard_Artemis
+  visibility: public
+  watchers: 7
+  watchers_count: 7
+  web_commit_signoff_required: false

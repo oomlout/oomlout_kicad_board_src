@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/assignees{/user}
-blobs_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/git/blobs{/sha}
-branches_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/branches{/branch}
-clone_url: https://github.com/rocketscream/MiniUltraProProtoShield.git
-collaborators_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/comments{/number}
-commits_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/commits{/sha}
-compare_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/compare/{base}...{head}
-contents_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/contents/{+path}
-contributors_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/contributors
-created_at: '2016-02-23T04:20:24Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/deployments
-description: Proto Shield for Mini Ultra Pro
-disabled: false
-downloads_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/downloads
-events_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/forks
-full_name: rocketscream/MiniUltraProProtoShield
-git_commits_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/git/tags{/sha}
-git_url: git://github.com/rocketscream/MiniUltraProProtoShield.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/hooks
-html_url: https://github.com/rocketscream/MiniUltraProProtoShield
-id: 52329720
-is_template: false
-issue_comment_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/issues/events{/number}
-issues_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/issues{/number}
-keys_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/keys{/key_id}
-labels_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/languages
-license: null
-merges_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/merges
-milestones_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/milestones{/number}
-mirror_url: null
-name: MiniUltraProProtoShield
-node_id: MDEwOlJlcG9zaXRvcnk1MjMyOTcyMA==
-notifications_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/822826?v=4
-  events_url: https://api.github.com/users/rocketscream/events{/privacy}
-  followers_url: https://api.github.com/users/rocketscream/followers
-  following_url: https://api.github.com/users/rocketscream/following{/other_user}
-  gists_url: https://api.github.com/users/rocketscream/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/rocketscream
-  id: 822826
-  login: rocketscream
-  node_id: MDQ6VXNlcjgyMjgyNg==
-  organizations_url: https://api.github.com/users/rocketscream/orgs
-  received_events_url: https://api.github.com/users/rocketscream/received_events
-  repos_url: https://api.github.com/users/rocketscream/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/rocketscream/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/rocketscream/subscriptions
-  type: User
-  url: https://api.github.com/users/rocketscream
-private: false
+links:
+  github_owner: rocketscream
+  github_repo_name: MiniUltraProProtoShield
+  github_src: https://github.com/rocketscream/MiniUltraProProtoShield
+  github_src_repo: https://github.com/rocketscream/MiniUltraProProtoShield
+  oomp_bot: rocketscream_miniultraproprotoshield
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/rocketscream_miniultraproprotoshield
+  oomp_doc: projects/rocketscream_miniultraproprotoshield/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/rocketscream_miniultraproprotoshield
+  oomp_src_flat: projects_flat/rocketscream_miniultraproprotoshield
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/rocketscream_miniultraproprotoshield
+  oomp_src_folder: projects_folder\rocketscream\MiniUltraProProtoShield\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\rocketscream\MiniUltraProProtoShield\version_current\working
+oomp_key: oomp_rocketscream_miniultraproprotoshield
+oomp_key_simple: rocketscream_miniultraproprotoshield
 projects_flat: projects_flat/rocketscream_miniultraproprotoshield/version_current/working
 projects_folder: projects_folder/rocketscream/MiniUltraProProtoShield/version_current/working
-pulls_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/pulls{/number}
-pushed_at: '2016-02-23T04:25:04Z'
-releases_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/releases{/id}
-size: 44
-ssh_url: git@github.com:rocketscream/MiniUltraProProtoShield.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/stargazers
-statuses_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/statuses/{sha}
-subscribers_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/subscribers
-subscription_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/subscription
-svn_url: https://github.com/rocketscream/MiniUltraProProtoShield
-tags_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/tags
-teams_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/teams
-topics: []
-trees_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/git/trees{/sha}
-updated_at: '2016-02-23T04:23:46Z'
-url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/assignees{/user}
+  blobs_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/branches{/branch}
+  clone_url: https://github.com/rocketscream/MiniUltraProProtoShield.git
+  collaborators_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/comments{/number}
+  commits_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/commits{/sha}
+  compare_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/contents/{+path}
+  contributors_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/contributors
+  created_at: '2016-02-23T04:20:24Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/deployments
+  description: Proto Shield for Mini Ultra Pro
+  disabled: false
+  downloads_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/downloads
+  events_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/forks
+  full_name: rocketscream/MiniUltraProProtoShield
+  git_commits_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/git/tags{/sha}
+  git_url: git://github.com/rocketscream/MiniUltraProProtoShield.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/hooks
+  html_url: https://github.com/rocketscream/MiniUltraProProtoShield
+  id: 52329720
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/issues/events{/number}
+  issues_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/issues{/number}
+  keys_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/keys{/key_id}
+  labels_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/languages
+  license: null
+  merges_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/merges
+  milestones_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/milestones{/number}
+  mirror_url: null
+  name: MiniUltraProProtoShield
+  node_id: MDEwOlJlcG9zaXRvcnk1MjMyOTcyMA==
+  notifications_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/822826?v=4
+    events_url: https://api.github.com/users/rocketscream/events{/privacy}
+    followers_url: https://api.github.com/users/rocketscream/followers
+    following_url: https://api.github.com/users/rocketscream/following{/other_user}
+    gists_url: https://api.github.com/users/rocketscream/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/rocketscream
+    id: 822826
+    login: rocketscream
+    node_id: MDQ6VXNlcjgyMjgyNg==
+    organizations_url: https://api.github.com/users/rocketscream/orgs
+    received_events_url: https://api.github.com/users/rocketscream/received_events
+    repos_url: https://api.github.com/users/rocketscream/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/rocketscream/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/rocketscream/subscriptions
+    type: User
+    url: https://api.github.com/users/rocketscream
+  private: false
+  pulls_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/pulls{/number}
+  pushed_at: '2016-02-23T04:25:04Z'
+  releases_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/releases{/id}
+  size: 44
+  ssh_url: git@github.com:rocketscream/MiniUltraProProtoShield.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/stargazers
+  statuses_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/subscribers
+  subscription_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/subscription
+  svn_url: https://github.com/rocketscream/MiniUltraProProtoShield
+  tags_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/tags
+  teams_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/teams
+  topics: []
+  trees_url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield/git/trees{/sha}
+  updated_at: '2016-02-23T04:23:46Z'
+  url: https://api.github.com/repos/rocketscream/MiniUltraProProtoShield
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

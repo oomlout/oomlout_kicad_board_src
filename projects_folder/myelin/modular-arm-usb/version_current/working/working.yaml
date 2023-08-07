@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/myelin/modular-arm-usb/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/myelin/modular-arm-usb/assignees{/user}
-blobs_url: https://api.github.com/repos/myelin/modular-arm-usb/git/blobs{/sha}
-branches_url: https://api.github.com/repos/myelin/modular-arm-usb/branches{/branch}
-clone_url: https://github.com/myelin/modular-arm-usb.git
-collaborators_url: https://api.github.com/repos/myelin/modular-arm-usb/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/myelin/modular-arm-usb/comments{/number}
-commits_url: https://api.github.com/repos/myelin/modular-arm-usb/commits{/sha}
-compare_url: https://api.github.com/repos/myelin/modular-arm-usb/compare/{base}...{head}
-contents_url: https://api.github.com/repos/myelin/modular-arm-usb/contents/{+path}
-contributors_url: https://api.github.com/repos/myelin/modular-arm-usb/contributors
-created_at: '2014-12-26T11:45:04Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/myelin/modular-arm-usb/deployments
-description: LPC11U14 USB test board by Phil Pearson and Philip Lindsay
-disabled: false
-downloads_url: https://api.github.com/repos/myelin/modular-arm-usb/downloads
-events_url: https://api.github.com/repos/myelin/modular-arm-usb/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/myelin/modular-arm-usb/forks
-full_name: myelin/modular-arm-usb
-git_commits_url: https://api.github.com/repos/myelin/modular-arm-usb/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/myelin/modular-arm-usb/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/myelin/modular-arm-usb/git/tags{/sha}
-git_url: git://github.com/myelin/modular-arm-usb.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/myelin/modular-arm-usb/hooks
-html_url: https://github.com/myelin/modular-arm-usb
-id: 28509351
-is_template: false
-issue_comment_url: https://api.github.com/repos/myelin/modular-arm-usb/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/myelin/modular-arm-usb/issues/events{/number}
-issues_url: https://api.github.com/repos/myelin/modular-arm-usb/issues{/number}
-keys_url: https://api.github.com/repos/myelin/modular-arm-usb/keys{/key_id}
-labels_url: https://api.github.com/repos/myelin/modular-arm-usb/labels{/name}
-language: Prolog
-languages_url: https://api.github.com/repos/myelin/modular-arm-usb/languages
-license: null
-merges_url: https://api.github.com/repos/myelin/modular-arm-usb/merges
-milestones_url: https://api.github.com/repos/myelin/modular-arm-usb/milestones{/number}
-mirror_url: null
-name: modular-arm-usb
-node_id: MDEwOlJlcG9zaXRvcnkyODUwOTM1MQ==
-notifications_url: https://api.github.com/repos/myelin/modular-arm-usb/notifications{?since,all,participating}
-open_issues: 9
-open_issues_count: 9
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/2219?v=4
-  events_url: https://api.github.com/users/myelin/events{/privacy}
-  followers_url: https://api.github.com/users/myelin/followers
-  following_url: https://api.github.com/users/myelin/following{/other_user}
-  gists_url: https://api.github.com/users/myelin/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/myelin
-  id: 2219
-  login: myelin
-  node_id: MDQ6VXNlcjIyMTk=
-  organizations_url: https://api.github.com/users/myelin/orgs
-  received_events_url: https://api.github.com/users/myelin/received_events
-  repos_url: https://api.github.com/users/myelin/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/myelin/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/myelin/subscriptions
-  type: User
-  url: https://api.github.com/users/myelin
-private: false
+links:
+  github_owner: myelin
+  github_repo_name: modular-arm-usb
+  github_src: https://github.com/myelin/modular-arm-usb
+  github_src_repo: https://github.com/myelin/modular-arm-usb
+  oomp_bot: myelin_modular_arm_usb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/myelin_modular_arm_usb
+  oomp_doc: projects/myelin_modular_arm_usb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/myelin_modular_arm_usb
+  oomp_src_flat: projects_flat/myelin_modular_arm_usb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/myelin_modular_arm_usb
+  oomp_src_folder: projects_folder\myelin\modular-arm-usb\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\myelin\modular-arm-usb\version_current\working
+oomp_key: oomp_myelin_modular_arm_usb
+oomp_key_simple: myelin_modular_arm_usb
 projects_flat: projects_flat/myelin_modular_arm_usb/version_current/working
 projects_folder: projects_folder/myelin/modular-arm-usb/version_current/working
-pulls_url: https://api.github.com/repos/myelin/modular-arm-usb/pulls{/number}
-pushed_at: '2015-01-15T23:57:08Z'
-releases_url: https://api.github.com/repos/myelin/modular-arm-usb/releases{/id}
-size: 592
-ssh_url: git@github.com:myelin/modular-arm-usb.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/myelin/modular-arm-usb/stargazers
-statuses_url: https://api.github.com/repos/myelin/modular-arm-usb/statuses/{sha}
-subscribers_url: https://api.github.com/repos/myelin/modular-arm-usb/subscribers
-subscription_url: https://api.github.com/repos/myelin/modular-arm-usb/subscription
-svn_url: https://github.com/myelin/modular-arm-usb
-tags_url: https://api.github.com/repos/myelin/modular-arm-usb/tags
-teams_url: https://api.github.com/repos/myelin/modular-arm-usb/teams
-topics: []
-trees_url: https://api.github.com/repos/myelin/modular-arm-usb/git/trees{/sha}
-updated_at: '2016-03-13T00:26:55Z'
-url: https://api.github.com/repos/myelin/modular-arm-usb
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/myelin/modular-arm-usb/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/myelin/modular-arm-usb/assignees{/user}
+  blobs_url: https://api.github.com/repos/myelin/modular-arm-usb/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/myelin/modular-arm-usb/branches{/branch}
+  clone_url: https://github.com/myelin/modular-arm-usb.git
+  collaborators_url: https://api.github.com/repos/myelin/modular-arm-usb/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/myelin/modular-arm-usb/comments{/number}
+  commits_url: https://api.github.com/repos/myelin/modular-arm-usb/commits{/sha}
+  compare_url: https://api.github.com/repos/myelin/modular-arm-usb/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/myelin/modular-arm-usb/contents/{+path}
+  contributors_url: https://api.github.com/repos/myelin/modular-arm-usb/contributors
+  created_at: '2014-12-26T11:45:04Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/myelin/modular-arm-usb/deployments
+  description: LPC11U14 USB test board by Phil Pearson and Philip Lindsay
+  disabled: false
+  downloads_url: https://api.github.com/repos/myelin/modular-arm-usb/downloads
+  events_url: https://api.github.com/repos/myelin/modular-arm-usb/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/myelin/modular-arm-usb/forks
+  full_name: myelin/modular-arm-usb
+  git_commits_url: https://api.github.com/repos/myelin/modular-arm-usb/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/myelin/modular-arm-usb/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/myelin/modular-arm-usb/git/tags{/sha}
+  git_url: git://github.com/myelin/modular-arm-usb.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/myelin/modular-arm-usb/hooks
+  html_url: https://github.com/myelin/modular-arm-usb
+  id: 28509351
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/myelin/modular-arm-usb/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/myelin/modular-arm-usb/issues/events{/number}
+  issues_url: https://api.github.com/repos/myelin/modular-arm-usb/issues{/number}
+  keys_url: https://api.github.com/repos/myelin/modular-arm-usb/keys{/key_id}
+  labels_url: https://api.github.com/repos/myelin/modular-arm-usb/labels{/name}
+  language: Prolog
+  languages_url: https://api.github.com/repos/myelin/modular-arm-usb/languages
+  license: null
+  merges_url: https://api.github.com/repos/myelin/modular-arm-usb/merges
+  milestones_url: https://api.github.com/repos/myelin/modular-arm-usb/milestones{/number}
+  mirror_url: null
+  name: modular-arm-usb
+  node_id: MDEwOlJlcG9zaXRvcnkyODUwOTM1MQ==
+  notifications_url: https://api.github.com/repos/myelin/modular-arm-usb/notifications{?since,all,participating}
+  open_issues: 9
+  open_issues_count: 9
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/2219?v=4
+    events_url: https://api.github.com/users/myelin/events{/privacy}
+    followers_url: https://api.github.com/users/myelin/followers
+    following_url: https://api.github.com/users/myelin/following{/other_user}
+    gists_url: https://api.github.com/users/myelin/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/myelin
+    id: 2219
+    login: myelin
+    node_id: MDQ6VXNlcjIyMTk=
+    organizations_url: https://api.github.com/users/myelin/orgs
+    received_events_url: https://api.github.com/users/myelin/received_events
+    repos_url: https://api.github.com/users/myelin/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/myelin/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/myelin/subscriptions
+    type: User
+    url: https://api.github.com/users/myelin
+  private: false
+  pulls_url: https://api.github.com/repos/myelin/modular-arm-usb/pulls{/number}
+  pushed_at: '2015-01-15T23:57:08Z'
+  releases_url: https://api.github.com/repos/myelin/modular-arm-usb/releases{/id}
+  size: 592
+  ssh_url: git@github.com:myelin/modular-arm-usb.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/myelin/modular-arm-usb/stargazers
+  statuses_url: https://api.github.com/repos/myelin/modular-arm-usb/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/myelin/modular-arm-usb/subscribers
+  subscription_url: https://api.github.com/repos/myelin/modular-arm-usb/subscription
+  svn_url: https://github.com/myelin/modular-arm-usb
+  tags_url: https://api.github.com/repos/myelin/modular-arm-usb/tags
+  teams_url: https://api.github.com/repos/myelin/modular-arm-usb/teams
+  topics: []
+  trees_url: https://api.github.com/repos/myelin/modular-arm-usb/git/trees{/sha}
+  updated_at: '2016-03-13T00:26:55Z'
+  url: https://api.github.com/repos/myelin/modular-arm-usb
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/cvra/pi-shield/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/cvra/pi-shield/assignees{/user}
-blobs_url: https://api.github.com/repos/cvra/pi-shield/git/blobs{/sha}
-branches_url: https://api.github.com/repos/cvra/pi-shield/branches{/branch}
-clone_url: https://github.com/cvra/pi-shield.git
-collaborators_url: https://api.github.com/repos/cvra/pi-shield/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/cvra/pi-shield/comments{/number}
-commits_url: https://api.github.com/repos/cvra/pi-shield/commits{/sha}
-compare_url: https://api.github.com/repos/cvra/pi-shield/compare/{base}...{head}
-contents_url: https://api.github.com/repos/cvra/pi-shield/contents/{+path}
-contributors_url: https://api.github.com/repos/cvra/pi-shield/contributors
-created_at: '2020-06-11T22:09:42Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/cvra/pi-shield/deployments
-description: A shield to add a raspberry pi in our robot
-disabled: false
-downloads_url: https://api.github.com/repos/cvra/pi-shield/downloads
-events_url: https://api.github.com/repos/cvra/pi-shield/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/cvra/pi-shield/forks
-full_name: cvra/pi-shield
-git_commits_url: https://api.github.com/repos/cvra/pi-shield/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/cvra/pi-shield/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/cvra/pi-shield/git/tags{/sha}
-git_url: git://github.com/cvra/pi-shield.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/cvra/pi-shield/hooks
-html_url: https://github.com/cvra/pi-shield
-id: 271655946
-is_template: false
-issue_comment_url: https://api.github.com/repos/cvra/pi-shield/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/cvra/pi-shield/issues/events{/number}
-issues_url: https://api.github.com/repos/cvra/pi-shield/issues{/number}
-keys_url: https://api.github.com/repos/cvra/pi-shield/keys{/key_id}
-labels_url: https://api.github.com/repos/cvra/pi-shield/labels{/name}
-language: Python
-languages_url: https://api.github.com/repos/cvra/pi-shield/languages
-license: null
-merges_url: https://api.github.com/repos/cvra/pi-shield/merges
-milestones_url: https://api.github.com/repos/cvra/pi-shield/milestones{/number}
-mirror_url: null
-name: pi-shield
-node_id: MDEwOlJlcG9zaXRvcnkyNzE2NTU5NDY=
-notifications_url: https://api.github.com/repos/cvra/pi-shield/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5530328?v=4
-  events_url: https://api.github.com/users/cvra/events{/privacy}
-  followers_url: https://api.github.com/users/cvra/followers
-  following_url: https://api.github.com/users/cvra/following{/other_user}
-  gists_url: https://api.github.com/users/cvra/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/cvra
-  id: 5530328
-  login: cvra
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU1MzAzMjg=
-  organizations_url: https://api.github.com/users/cvra/orgs
-  received_events_url: https://api.github.com/users/cvra/received_events
-  repos_url: https://api.github.com/users/cvra/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/cvra/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/cvra/subscriptions
-  type: Organization
-  url: https://api.github.com/users/cvra
-private: false
+links:
+  github_owner: cvra
+  github_repo_name: pi-shield
+  github_src: https://github.com/cvra/pi-shield
+  github_src_repo: https://github.com/cvra/pi-shield
+  oomp_bot: projects_cvra_pi_shield
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_cvra_pi_shield
+  oomp_doc: projects/projects_flat_cvra_pi_shield/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_cvra_pi_shield
+  oomp_src_flat: projects_flat/projects_flat_cvra_pi_shield
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_cvra_pi_shield
+  oomp_src_folder: projects_flat\cvra_pi_shield\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\cvra_pi_shield\version_current\working
+oomp_key: oomp_projects_flat_cvra_pi_shield
+oomp_key_simple: projects_flat_cvra_pi_shield
 projects_flat: projects_flat/cvra_pi_shield/version_current/working
 projects_folder: projects_folder/cvra/pi-shield/version_current/working
-pulls_url: https://api.github.com/repos/cvra/pi-shield/pulls{/number}
-pushed_at: '2021-09-07T15:21:22Z'
-releases_url: https://api.github.com/repos/cvra/pi-shield/releases{/id}
-size: 11033
-ssh_url: git@github.com:cvra/pi-shield.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/cvra/pi-shield/stargazers
-statuses_url: https://api.github.com/repos/cvra/pi-shield/statuses/{sha}
-subscribers_url: https://api.github.com/repos/cvra/pi-shield/subscribers
-subscription_url: https://api.github.com/repos/cvra/pi-shield/subscription
-svn_url: https://github.com/cvra/pi-shield
-tags_url: https://api.github.com/repos/cvra/pi-shield/tags
-teams_url: https://api.github.com/repos/cvra/pi-shield/teams
-topics: []
-trees_url: https://api.github.com/repos/cvra/pi-shield/git/trees{/sha}
-updated_at: '2021-09-07T15:21:25Z'
-url: https://api.github.com/repos/cvra/pi-shield
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/cvra/pi-shield/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/cvra/pi-shield/assignees{/user}
+  blobs_url: https://api.github.com/repos/cvra/pi-shield/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/cvra/pi-shield/branches{/branch}
+  clone_url: https://github.com/cvra/pi-shield.git
+  collaborators_url: https://api.github.com/repos/cvra/pi-shield/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/cvra/pi-shield/comments{/number}
+  commits_url: https://api.github.com/repos/cvra/pi-shield/commits{/sha}
+  compare_url: https://api.github.com/repos/cvra/pi-shield/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/cvra/pi-shield/contents/{+path}
+  contributors_url: https://api.github.com/repos/cvra/pi-shield/contributors
+  created_at: '2020-06-11T22:09:42Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/cvra/pi-shield/deployments
+  description: A shield to add a raspberry pi in our robot
+  disabled: false
+  downloads_url: https://api.github.com/repos/cvra/pi-shield/downloads
+  events_url: https://api.github.com/repos/cvra/pi-shield/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/cvra/pi-shield/forks
+  full_name: cvra/pi-shield
+  git_commits_url: https://api.github.com/repos/cvra/pi-shield/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/cvra/pi-shield/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/cvra/pi-shield/git/tags{/sha}
+  git_url: git://github.com/cvra/pi-shield.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/cvra/pi-shield/hooks
+  html_url: https://github.com/cvra/pi-shield
+  id: 271655946
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/cvra/pi-shield/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/cvra/pi-shield/issues/events{/number}
+  issues_url: https://api.github.com/repos/cvra/pi-shield/issues{/number}
+  keys_url: https://api.github.com/repos/cvra/pi-shield/keys{/key_id}
+  labels_url: https://api.github.com/repos/cvra/pi-shield/labels{/name}
+  language: Python
+  languages_url: https://api.github.com/repos/cvra/pi-shield/languages
+  license: null
+  merges_url: https://api.github.com/repos/cvra/pi-shield/merges
+  milestones_url: https://api.github.com/repos/cvra/pi-shield/milestones{/number}
+  mirror_url: null
+  name: pi-shield
+  node_id: MDEwOlJlcG9zaXRvcnkyNzE2NTU5NDY=
+  notifications_url: https://api.github.com/repos/cvra/pi-shield/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5530328?v=4
+    events_url: https://api.github.com/users/cvra/events{/privacy}
+    followers_url: https://api.github.com/users/cvra/followers
+    following_url: https://api.github.com/users/cvra/following{/other_user}
+    gists_url: https://api.github.com/users/cvra/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/cvra
+    id: 5530328
+    login: cvra
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU1MzAzMjg=
+    organizations_url: https://api.github.com/users/cvra/orgs
+    received_events_url: https://api.github.com/users/cvra/received_events
+    repos_url: https://api.github.com/users/cvra/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/cvra/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/cvra/subscriptions
+    type: Organization
+    url: https://api.github.com/users/cvra
+  private: false
+  pulls_url: https://api.github.com/repos/cvra/pi-shield/pulls{/number}
+  pushed_at: '2021-09-07T15:21:22Z'
+  releases_url: https://api.github.com/repos/cvra/pi-shield/releases{/id}
+  size: 11033
+  ssh_url: git@github.com:cvra/pi-shield.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/cvra/pi-shield/stargazers
+  statuses_url: https://api.github.com/repos/cvra/pi-shield/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/cvra/pi-shield/subscribers
+  subscription_url: https://api.github.com/repos/cvra/pi-shield/subscription
+  svn_url: https://github.com/cvra/pi-shield
+  tags_url: https://api.github.com/repos/cvra/pi-shield/tags
+  teams_url: https://api.github.com/repos/cvra/pi-shield/teams
+  topics: []
+  trees_url: https://api.github.com/repos/cvra/pi-shield/git/trees{/sha}
+  updated_at: '2021-09-07T15:21:25Z'
+  url: https://api.github.com/repos/cvra/pi-shield
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

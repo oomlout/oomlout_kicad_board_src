@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/ch55xduino/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/ch55xduino/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/ch55xduino/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/ch55xduino/branches{/branch}
-clone_url: https://github.com/ElectronicCats/ch55xduino.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/ch55xduino/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/ch55xduino/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/ch55xduino/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/ch55xduino/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/ch55xduino/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/ch55xduino/contributors
-created_at: '2020-08-29T21:06:03Z'
-default_branch: ch55xduino
-deployments_url: https://api.github.com/repos/ElectronicCats/ch55xduino/deployments
-description: An Arduino-like programming API for the CH55X
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/ch55xduino/downloads
-events_url: https://api.github.com/repos/ElectronicCats/ch55xduino/events
 file_sch_flat: projects_flat/electroniccats_ch55xduino/version_current/working/working.sch
 file_sch_folder: projects_folder/ElectronicCats/ch55xduino/version_current/working/working.sch
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ElectronicCats/ch55xduino/forks
-full_name: ElectronicCats/ch55xduino
-git_commits_url: https://api.github.com/repos/ElectronicCats/ch55xduino/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/ch55xduino/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/ch55xduino/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/ch55xduino.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ElectronicCats/ch55xduino/hooks
-html_url: https://github.com/ElectronicCats/ch55xduino
-id: 291349138
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/ch55xduino/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/ch55xduino/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/ch55xduino/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/ch55xduino/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/ch55xduino/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/ElectronicCats/ch55xduino/languages
-license:
-  key: lgpl-2.1
-  name: GNU Lesser General Public License v2.1
-  node_id: MDc6TGljZW5zZTEx
-  spdx_id: LGPL-2.1
-  url: https://api.github.com/licenses/lgpl-2.1
-merges_url: https://api.github.com/repos/ElectronicCats/ch55xduino/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/ch55xduino/milestones{/number}
-mirror_url: null
-name: ch55xduino
-node_id: MDEwOlJlcG9zaXRvcnkyOTEzNDkxMzg=
-notifications_url: https://api.github.com/repos/ElectronicCats/ch55xduino/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: ch55xduino
+  github_src: https://github.com/ElectronicCats/ch55xduino
+  github_src_repo: https://github.com/ElectronicCats/ch55xduino
+  oomp_bot: electroniccats_ch55xduino
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electroniccats_ch55xduino
+  oomp_doc: projects/electroniccats_ch55xduino/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electroniccats_ch55xduino
+  oomp_src_flat: projects_flat/electroniccats_ch55xduino
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electroniccats_ch55xduino
+  oomp_src_folder: projects_folder\ElectronicCats\ch55xduino\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ElectronicCats\ch55xduino\version_current\working
+oomp_key: oomp_electroniccats_ch55xduino
+oomp_key_simple: electroniccats_ch55xduino
 projects_flat: projects_flat/electroniccats_ch55xduino/version_current/working
 projects_folder: projects_folder/ElectronicCats/ch55xduino/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/ch55xduino/pulls{/number}
-pushed_at: '2020-08-29T21:18:44Z'
-releases_url: https://api.github.com/repos/ElectronicCats/ch55xduino/releases{/id}
-size: 13737
-ssh_url: git@github.com:ElectronicCats/ch55xduino.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ElectronicCats/ch55xduino/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/ch55xduino/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/ch55xduino/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/ch55xduino/subscription
-svn_url: https://github.com/ElectronicCats/ch55xduino
-tags_url: https://api.github.com/repos/ElectronicCats/ch55xduino/tags
-teams_url: https://api.github.com/repos/ElectronicCats/ch55xduino/teams
-topics: []
-trees_url: https://api.github.com/repos/ElectronicCats/ch55xduino/git/trees{/sha}
-updated_at: '2020-08-29T21:18:46Z'
-url: https://api.github.com/repos/ElectronicCats/ch55xduino
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/ch55xduino/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/ch55xduino/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/ch55xduino/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/ch55xduino/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/ch55xduino.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/ch55xduino/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/ch55xduino/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/ch55xduino/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/ch55xduino/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/ch55xduino/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/ch55xduino/contributors
+  created_at: '2020-08-29T21:06:03Z'
+  default_branch: ch55xduino
+  deployments_url: https://api.github.com/repos/ElectronicCats/ch55xduino/deployments
+  description: An Arduino-like programming API for the CH55X
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/ch55xduino/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/ch55xduino/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ElectronicCats/ch55xduino/forks
+  full_name: ElectronicCats/ch55xduino
+  git_commits_url: https://api.github.com/repos/ElectronicCats/ch55xduino/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/ch55xduino/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/ch55xduino/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/ch55xduino.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ElectronicCats/ch55xduino/hooks
+  html_url: https://github.com/ElectronicCats/ch55xduino
+  id: 291349138
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/ch55xduino/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/ch55xduino/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/ch55xduino/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/ch55xduino/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/ch55xduino/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/ElectronicCats/ch55xduino/languages
+  license:
+    key: lgpl-2.1
+    name: GNU Lesser General Public License v2.1
+    node_id: MDc6TGljZW5zZTEx
+    spdx_id: LGPL-2.1
+    url: https://api.github.com/licenses/lgpl-2.1
+  merges_url: https://api.github.com/repos/ElectronicCats/ch55xduino/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/ch55xduino/milestones{/number}
+  mirror_url: null
+  name: ch55xduino
+  node_id: MDEwOlJlcG9zaXRvcnkyOTEzNDkxMzg=
+  notifications_url: https://api.github.com/repos/ElectronicCats/ch55xduino/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/ch55xduino/pulls{/number}
+  pushed_at: '2020-08-29T21:18:44Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/ch55xduino/releases{/id}
+  size: 13737
+  ssh_url: git@github.com:ElectronicCats/ch55xduino.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ElectronicCats/ch55xduino/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/ch55xduino/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/ch55xduino/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/ch55xduino/subscription
+  svn_url: https://github.com/ElectronicCats/ch55xduino
+  tags_url: https://api.github.com/repos/ElectronicCats/ch55xduino/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/ch55xduino/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ElectronicCats/ch55xduino/git/trees{/sha}
+  updated_at: '2020-08-29T21:18:46Z'
+  url: https://api.github.com/repos/ElectronicCats/ch55xduino
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: true

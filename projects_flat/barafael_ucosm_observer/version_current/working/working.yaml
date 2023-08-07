@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/barafael/uCosm-observer/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/barafael/uCosm-observer/assignees{/user}
-blobs_url: https://api.github.com/repos/barafael/uCosm-observer/git/blobs{/sha}
-branches_url: https://api.github.com/repos/barafael/uCosm-observer/branches{/branch}
-clone_url: https://github.com/barafael/uCosm-observer.git
-collaborators_url: https://api.github.com/repos/barafael/uCosm-observer/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/barafael/uCosm-observer/comments{/number}
-commits_url: https://api.github.com/repos/barafael/uCosm-observer/commits{/sha}
-compare_url: https://api.github.com/repos/barafael/uCosm-observer/compare/{base}...{head}
-contents_url: https://api.github.com/repos/barafael/uCosm-observer/contents/{+path}
-contributors_url: https://api.github.com/repos/barafael/uCosm-observer/contributors
-created_at: '2021-06-13T15:19:04Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/barafael/uCosm-observer/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/barafael/uCosm-observer/downloads
-events_url: https://api.github.com/repos/barafael/uCosm-observer/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/barafael/uCosm-observer/forks
-full_name: barafael/uCosm-observer
-git_commits_url: https://api.github.com/repos/barafael/uCosm-observer/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/barafael/uCosm-observer/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/barafael/uCosm-observer/git/tags{/sha}
-git_url: git://github.com/barafael/uCosm-observer.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/barafael/uCosm-observer/hooks
-html_url: https://github.com/barafael/uCosm-observer
-id: 376575293
-is_template: false
-issue_comment_url: https://api.github.com/repos/barafael/uCosm-observer/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/barafael/uCosm-observer/issues/events{/number}
-issues_url: https://api.github.com/repos/barafael/uCosm-observer/issues{/number}
-keys_url: https://api.github.com/repos/barafael/uCosm-observer/keys{/key_id}
-labels_url: https://api.github.com/repos/barafael/uCosm-observer/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/barafael/uCosm-observer/languages
-license:
-  key: apache-2.0
-  name: Apache License 2.0
-  node_id: MDc6TGljZW5zZTI=
-  spdx_id: Apache-2.0
-  url: https://api.github.com/licenses/apache-2.0
-merges_url: https://api.github.com/repos/barafael/uCosm-observer/merges
-milestones_url: https://api.github.com/repos/barafael/uCosm-observer/milestones{/number}
-mirror_url: null
-name: uCosm-observer
-node_id: MDEwOlJlcG9zaXRvcnkzNzY1NzUyOTM=
-notifications_url: https://api.github.com/repos/barafael/uCosm-observer/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6966738?v=4
-  events_url: https://api.github.com/users/barafael/events{/privacy}
-  followers_url: https://api.github.com/users/barafael/followers
-  following_url: https://api.github.com/users/barafael/following{/other_user}
-  gists_url: https://api.github.com/users/barafael/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/barafael
-  id: 6966738
-  login: barafael
-  node_id: MDQ6VXNlcjY5NjY3Mzg=
-  organizations_url: https://api.github.com/users/barafael/orgs
-  received_events_url: https://api.github.com/users/barafael/received_events
-  repos_url: https://api.github.com/users/barafael/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/barafael/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/barafael/subscriptions
-  type: User
-  url: https://api.github.com/users/barafael
-private: false
+links:
+  github_owner: barafael
+  github_repo_name: uCosm-observer
+  github_src: https://github.com/barafael/uCosm-observer
+  github_src_repo: https://github.com/barafael/uCosm-observer
+  oomp_bot: projects_barafael_ucosm_observer
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_barafael_ucosm_observer
+  oomp_doc: projects/projects_flat_barafael_ucosm_observer/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_barafael_ucosm_observer
+  oomp_src_flat: projects_flat/projects_flat_barafael_ucosm_observer
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_barafael_ucosm_observer
+  oomp_src_folder: projects_flat\barafael_ucosm_observer\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\barafael_ucosm_observer\version_current\working
+oomp_key: oomp_projects_flat_barafael_ucosm_observer
+oomp_key_simple: projects_flat_barafael_ucosm_observer
 projects_flat: projects_flat/barafael_ucosm_observer/version_current/working
 projects_folder: projects_folder/barafael/uCosm-observer/version_current/working
-pulls_url: https://api.github.com/repos/barafael/uCosm-observer/pulls{/number}
-pushed_at: '2021-06-16T15:18:06Z'
-releases_url: https://api.github.com/repos/barafael/uCosm-observer/releases{/id}
-size: 21
-ssh_url: git@github.com:barafael/uCosm-observer.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/barafael/uCosm-observer/stargazers
-statuses_url: https://api.github.com/repos/barafael/uCosm-observer/statuses/{sha}
-subscribers_url: https://api.github.com/repos/barafael/uCosm-observer/subscribers
-subscription_url: https://api.github.com/repos/barafael/uCosm-observer/subscription
-svn_url: https://github.com/barafael/uCosm-observer
-tags_url: https://api.github.com/repos/barafael/uCosm-observer/tags
-teams_url: https://api.github.com/repos/barafael/uCosm-observer/teams
-topics: []
-trees_url: https://api.github.com/repos/barafael/uCosm-observer/git/trees{/sha}
-updated_at: '2021-06-13T17:23:37Z'
-url: https://api.github.com/repos/barafael/uCosm-observer
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/barafael/uCosm-observer/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/barafael/uCosm-observer/assignees{/user}
+  blobs_url: https://api.github.com/repos/barafael/uCosm-observer/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/barafael/uCosm-observer/branches{/branch}
+  clone_url: https://github.com/barafael/uCosm-observer.git
+  collaborators_url: https://api.github.com/repos/barafael/uCosm-observer/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/barafael/uCosm-observer/comments{/number}
+  commits_url: https://api.github.com/repos/barafael/uCosm-observer/commits{/sha}
+  compare_url: https://api.github.com/repos/barafael/uCosm-observer/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/barafael/uCosm-observer/contents/{+path}
+  contributors_url: https://api.github.com/repos/barafael/uCosm-observer/contributors
+  created_at: '2021-06-13T15:19:04Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/barafael/uCosm-observer/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/barafael/uCosm-observer/downloads
+  events_url: https://api.github.com/repos/barafael/uCosm-observer/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/barafael/uCosm-observer/forks
+  full_name: barafael/uCosm-observer
+  git_commits_url: https://api.github.com/repos/barafael/uCosm-observer/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/barafael/uCosm-observer/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/barafael/uCosm-observer/git/tags{/sha}
+  git_url: git://github.com/barafael/uCosm-observer.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/barafael/uCosm-observer/hooks
+  html_url: https://github.com/barafael/uCosm-observer
+  id: 376575293
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/barafael/uCosm-observer/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/barafael/uCosm-observer/issues/events{/number}
+  issues_url: https://api.github.com/repos/barafael/uCosm-observer/issues{/number}
+  keys_url: https://api.github.com/repos/barafael/uCosm-observer/keys{/key_id}
+  labels_url: https://api.github.com/repos/barafael/uCosm-observer/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/barafael/uCosm-observer/languages
+  license:
+    key: apache-2.0
+    name: Apache License 2.0
+    node_id: MDc6TGljZW5zZTI=
+    spdx_id: Apache-2.0
+    url: https://api.github.com/licenses/apache-2.0
+  merges_url: https://api.github.com/repos/barafael/uCosm-observer/merges
+  milestones_url: https://api.github.com/repos/barafael/uCosm-observer/milestones{/number}
+  mirror_url: null
+  name: uCosm-observer
+  node_id: MDEwOlJlcG9zaXRvcnkzNzY1NzUyOTM=
+  notifications_url: https://api.github.com/repos/barafael/uCosm-observer/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6966738?v=4
+    events_url: https://api.github.com/users/barafael/events{/privacy}
+    followers_url: https://api.github.com/users/barafael/followers
+    following_url: https://api.github.com/users/barafael/following{/other_user}
+    gists_url: https://api.github.com/users/barafael/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/barafael
+    id: 6966738
+    login: barafael
+    node_id: MDQ6VXNlcjY5NjY3Mzg=
+    organizations_url: https://api.github.com/users/barafael/orgs
+    received_events_url: https://api.github.com/users/barafael/received_events
+    repos_url: https://api.github.com/users/barafael/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/barafael/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/barafael/subscriptions
+    type: User
+    url: https://api.github.com/users/barafael
+  private: false
+  pulls_url: https://api.github.com/repos/barafael/uCosm-observer/pulls{/number}
+  pushed_at: '2021-06-16T15:18:06Z'
+  releases_url: https://api.github.com/repos/barafael/uCosm-observer/releases{/id}
+  size: 21
+  ssh_url: git@github.com:barafael/uCosm-observer.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/barafael/uCosm-observer/stargazers
+  statuses_url: https://api.github.com/repos/barafael/uCosm-observer/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/barafael/uCosm-observer/subscribers
+  subscription_url: https://api.github.com/repos/barafael/uCosm-observer/subscription
+  svn_url: https://github.com/barafael/uCosm-observer
+  tags_url: https://api.github.com/repos/barafael/uCosm-observer/tags
+  teams_url: https://api.github.com/repos/barafael/uCosm-observer/teams
+  topics: []
+  trees_url: https://api.github.com/repos/barafael/uCosm-observer/git/trees{/sha}
+  updated_at: '2021-06-13T17:23:37Z'
+  url: https://api.github.com/repos/barafael/uCosm-observer
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

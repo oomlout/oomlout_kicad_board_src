@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/URC/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/URC/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/URC/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/URC/branches{/branch}
-clone_url: https://github.com/OLIMEX/URC.git
-collaborators_url: https://api.github.com/repos/OLIMEX/URC/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/URC/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/URC/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/URC/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/URC/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/URC/contributors
-created_at: '2019-06-09T07:33:28Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/OLIMEX/URC/deployments
-description: Universal Remote Control soldering kit
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/URC/downloads
-events_url: https://api.github.com/repos/OLIMEX/URC/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/OLIMEX/URC/forks
-full_name: OLIMEX/URC
-git_commits_url: https://api.github.com/repos/OLIMEX/URC/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/URC/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/URC/git/tags{/sha}
-git_url: git://github.com/OLIMEX/URC.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/URC/hooks
-html_url: https://github.com/OLIMEX/URC
-id: 190977326
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/URC/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/URC/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/URC/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/URC/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/URC/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/OLIMEX/URC/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/OLIMEX/URC/merges
-milestones_url: https://api.github.com/repos/OLIMEX/URC/milestones{/number}
-mirror_url: null
-name: URC
-node_id: MDEwOlJlcG9zaXRvcnkxOTA5NzczMjY=
-notifications_url: https://api.github.com/repos/OLIMEX/URC/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: URC
+  github_src: https://github.com/OLIMEX/URC
+  github_src_repo: https://github.com/OLIMEX/URC
+  oomp_bot: projects_olimex_urc
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_olimex_urc
+  oomp_doc: projects/projects_flat_olimex_urc/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_olimex_urc
+  oomp_src_flat: projects_flat/projects_flat_olimex_urc
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_olimex_urc
+  oomp_src_folder: projects_flat\olimex_urc\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\olimex_urc\version_current\working
+oomp_key: oomp_projects_flat_olimex_urc
+oomp_key_simple: projects_flat_olimex_urc
 projects_flat: projects_flat/olimex_urc/version_current/working
 projects_folder: projects_folder/OLIMEX/URC/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/URC/pulls{/number}
-pushed_at: '2019-06-25T11:06:54Z'
-releases_url: https://api.github.com/repos/OLIMEX/URC/releases{/id}
-size: 7373
-ssh_url: git@github.com:OLIMEX/URC.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/OLIMEX/URC/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/URC/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/URC/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/URC/subscription
-svn_url: https://github.com/OLIMEX/URC
-tags_url: https://api.github.com/repos/OLIMEX/URC/tags
-teams_url: https://api.github.com/repos/OLIMEX/URC/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/URC/git/trees{/sha}
-updated_at: '2020-12-18T00:22:10Z'
-url: https://api.github.com/repos/OLIMEX/URC
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/URC/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/URC/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/URC/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/URC/branches{/branch}
+  clone_url: https://github.com/OLIMEX/URC.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/URC/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/URC/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/URC/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/URC/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/URC/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/URC/contributors
+  created_at: '2019-06-09T07:33:28Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/OLIMEX/URC/deployments
+  description: Universal Remote Control soldering kit
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/URC/downloads
+  events_url: https://api.github.com/repos/OLIMEX/URC/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/OLIMEX/URC/forks
+  full_name: OLIMEX/URC
+  git_commits_url: https://api.github.com/repos/OLIMEX/URC/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/URC/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/URC/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/URC.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/URC/hooks
+  html_url: https://github.com/OLIMEX/URC
+  id: 190977326
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/URC/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/URC/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/URC/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/URC/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/URC/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/OLIMEX/URC/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/OLIMEX/URC/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/URC/milestones{/number}
+  mirror_url: null
+  name: URC
+  node_id: MDEwOlJlcG9zaXRvcnkxOTA5NzczMjY=
+  notifications_url: https://api.github.com/repos/OLIMEX/URC/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/URC/pulls{/number}
+  pushed_at: '2019-06-25T11:06:54Z'
+  releases_url: https://api.github.com/repos/OLIMEX/URC/releases{/id}
+  size: 7373
+  ssh_url: git@github.com:OLIMEX/URC.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/OLIMEX/URC/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/URC/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/URC/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/URC/subscription
+  svn_url: https://github.com/OLIMEX/URC
+  tags_url: https://api.github.com/repos/OLIMEX/URC/tags
+  teams_url: https://api.github.com/repos/OLIMEX/URC/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/URC/git/trees{/sha}
+  updated_at: '2020-12-18T00:22:10Z'
+  url: https://api.github.com/repos/OLIMEX/URC
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

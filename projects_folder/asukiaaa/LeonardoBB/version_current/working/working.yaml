@@ -1,102 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/asukiaaa/LeonardoBB/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/asukiaaa/LeonardoBB/assignees{/user}
-blobs_url: https://api.github.com/repos/asukiaaa/LeonardoBB/git/blobs{/sha}
-branches_url: https://api.github.com/repos/asukiaaa/LeonardoBB/branches{/branch}
-clone_url: https://github.com/asukiaaa/LeonardoBB.git
-collaborators_url: https://api.github.com/repos/asukiaaa/LeonardoBB/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/asukiaaa/LeonardoBB/comments{/number}
-commits_url: https://api.github.com/repos/asukiaaa/LeonardoBB/commits{/sha}
-compare_url: https://api.github.com/repos/asukiaaa/LeonardoBB/compare/{base}...{head}
-contents_url: https://api.github.com/repos/asukiaaa/LeonardoBB/contents/{+path}
-contributors_url: https://api.github.com/repos/asukiaaa/LeonardoBB/contributors
-created_at: '2019-02-13T16:35:48Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/asukiaaa/LeonardoBB/deployments
-description: A KiCad project for merging an Arduino Loenardo and a bread board,
-disabled: false
-downloads_url: https://api.github.com/repos/asukiaaa/LeonardoBB/downloads
-events_url: https://api.github.com/repos/asukiaaa/LeonardoBB/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/asukiaaa/LeonardoBB/forks
-full_name: asukiaaa/LeonardoBB
-git_commits_url: https://api.github.com/repos/asukiaaa/LeonardoBB/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/asukiaaa/LeonardoBB/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/asukiaaa/LeonardoBB/git/tags{/sha}
-git_url: git://github.com/asukiaaa/LeonardoBB.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/asukiaaa/LeonardoBB/hooks
-html_url: https://github.com/asukiaaa/LeonardoBB
-id: 170541614
-is_template: false
-issue_comment_url: https://api.github.com/repos/asukiaaa/LeonardoBB/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/asukiaaa/LeonardoBB/issues/events{/number}
-issues_url: https://api.github.com/repos/asukiaaa/LeonardoBB/issues{/number}
-keys_url: https://api.github.com/repos/asukiaaa/LeonardoBB/keys{/key_id}
-labels_url: https://api.github.com/repos/asukiaaa/LeonardoBB/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/asukiaaa/LeonardoBB/languages
-license: null
-merges_url: https://api.github.com/repos/asukiaaa/LeonardoBB/merges
-milestones_url: https://api.github.com/repos/asukiaaa/LeonardoBB/milestones{/number}
-mirror_url: null
-name: LeonardoBB
-node_id: MDEwOlJlcG9zaXRvcnkxNzA1NDE2MTQ=
-notifications_url: https://api.github.com/repos/asukiaaa/LeonardoBB/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5975178?v=4
-  events_url: https://api.github.com/users/asukiaaa/events{/privacy}
-  followers_url: https://api.github.com/users/asukiaaa/followers
-  following_url: https://api.github.com/users/asukiaaa/following{/other_user}
-  gists_url: https://api.github.com/users/asukiaaa/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/asukiaaa
-  id: 5975178
-  login: asukiaaa
-  node_id: MDQ6VXNlcjU5NzUxNzg=
-  organizations_url: https://api.github.com/users/asukiaaa/orgs
-  received_events_url: https://api.github.com/users/asukiaaa/received_events
-  repos_url: https://api.github.com/users/asukiaaa/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/asukiaaa/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/asukiaaa/subscriptions
-  type: User
-  url: https://api.github.com/users/asukiaaa
-private: false
+links:
+  github_owner: asukiaaa
+  github_repo_name: LeonardoBB
+  github_src: https://github.com/asukiaaa/LeonardoBB
+  github_src_repo: https://github.com/asukiaaa/LeonardoBB
+  oomp_bot: asukiaaa_leonardobb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/asukiaaa_leonardobb
+  oomp_doc: projects/asukiaaa_leonardobb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/asukiaaa_leonardobb
+  oomp_src_flat: projects_flat/asukiaaa_leonardobb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/asukiaaa_leonardobb
+  oomp_src_folder: projects_folder\asukiaaa\LeonardoBB\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\asukiaaa\LeonardoBB\version_current\working
+oomp_key: oomp_asukiaaa_leonardobb
+oomp_key_simple: asukiaaa_leonardobb
 projects_flat: projects_flat/asukiaaa_leonardobb/version_current/working
 projects_folder: projects_folder/asukiaaa/LeonardoBB/version_current/working
-pulls_url: https://api.github.com/repos/asukiaaa/LeonardoBB/pulls{/number}
-pushed_at: '2019-03-18T13:39:15Z'
-releases_url: https://api.github.com/repos/asukiaaa/LeonardoBB/releases{/id}
-size: 743
-ssh_url: git@github.com:asukiaaa/LeonardoBB.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/asukiaaa/LeonardoBB/stargazers
-statuses_url: https://api.github.com/repos/asukiaaa/LeonardoBB/statuses/{sha}
-subscribers_url: https://api.github.com/repos/asukiaaa/LeonardoBB/subscribers
-subscription_url: https://api.github.com/repos/asukiaaa/LeonardoBB/subscription
-svn_url: https://github.com/asukiaaa/LeonardoBB
-tags_url: https://api.github.com/repos/asukiaaa/LeonardoBB/tags
-teams_url: https://api.github.com/repos/asukiaaa/LeonardoBB/teams
-topics:
-- arduino
-- breadboard
-- kicad
-trees_url: https://api.github.com/repos/asukiaaa/LeonardoBB/git/trees{/sha}
-updated_at: '2019-03-18T13:39:17Z'
-url: https://api.github.com/repos/asukiaaa/LeonardoBB
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/asukiaaa/LeonardoBB/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/asukiaaa/LeonardoBB/assignees{/user}
+  blobs_url: https://api.github.com/repos/asukiaaa/LeonardoBB/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/asukiaaa/LeonardoBB/branches{/branch}
+  clone_url: https://github.com/asukiaaa/LeonardoBB.git
+  collaborators_url: https://api.github.com/repos/asukiaaa/LeonardoBB/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/asukiaaa/LeonardoBB/comments{/number}
+  commits_url: https://api.github.com/repos/asukiaaa/LeonardoBB/commits{/sha}
+  compare_url: https://api.github.com/repos/asukiaaa/LeonardoBB/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/asukiaaa/LeonardoBB/contents/{+path}
+  contributors_url: https://api.github.com/repos/asukiaaa/LeonardoBB/contributors
+  created_at: '2019-02-13T16:35:48Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/asukiaaa/LeonardoBB/deployments
+  description: A KiCad project for merging an Arduino Loenardo and a bread board,
+  disabled: false
+  downloads_url: https://api.github.com/repos/asukiaaa/LeonardoBB/downloads
+  events_url: https://api.github.com/repos/asukiaaa/LeonardoBB/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/asukiaaa/LeonardoBB/forks
+  full_name: asukiaaa/LeonardoBB
+  git_commits_url: https://api.github.com/repos/asukiaaa/LeonardoBB/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/asukiaaa/LeonardoBB/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/asukiaaa/LeonardoBB/git/tags{/sha}
+  git_url: git://github.com/asukiaaa/LeonardoBB.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/asukiaaa/LeonardoBB/hooks
+  html_url: https://github.com/asukiaaa/LeonardoBB
+  id: 170541614
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/asukiaaa/LeonardoBB/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/asukiaaa/LeonardoBB/issues/events{/number}
+  issues_url: https://api.github.com/repos/asukiaaa/LeonardoBB/issues{/number}
+  keys_url: https://api.github.com/repos/asukiaaa/LeonardoBB/keys{/key_id}
+  labels_url: https://api.github.com/repos/asukiaaa/LeonardoBB/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/asukiaaa/LeonardoBB/languages
+  license: null
+  merges_url: https://api.github.com/repos/asukiaaa/LeonardoBB/merges
+  milestones_url: https://api.github.com/repos/asukiaaa/LeonardoBB/milestones{/number}
+  mirror_url: null
+  name: LeonardoBB
+  node_id: MDEwOlJlcG9zaXRvcnkxNzA1NDE2MTQ=
+  notifications_url: https://api.github.com/repos/asukiaaa/LeonardoBB/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5975178?v=4
+    events_url: https://api.github.com/users/asukiaaa/events{/privacy}
+    followers_url: https://api.github.com/users/asukiaaa/followers
+    following_url: https://api.github.com/users/asukiaaa/following{/other_user}
+    gists_url: https://api.github.com/users/asukiaaa/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/asukiaaa
+    id: 5975178
+    login: asukiaaa
+    node_id: MDQ6VXNlcjU5NzUxNzg=
+    organizations_url: https://api.github.com/users/asukiaaa/orgs
+    received_events_url: https://api.github.com/users/asukiaaa/received_events
+    repos_url: https://api.github.com/users/asukiaaa/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/asukiaaa/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/asukiaaa/subscriptions
+    type: User
+    url: https://api.github.com/users/asukiaaa
+  private: false
+  pulls_url: https://api.github.com/repos/asukiaaa/LeonardoBB/pulls{/number}
+  pushed_at: '2019-03-18T13:39:15Z'
+  releases_url: https://api.github.com/repos/asukiaaa/LeonardoBB/releases{/id}
+  size: 743
+  ssh_url: git@github.com:asukiaaa/LeonardoBB.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/asukiaaa/LeonardoBB/stargazers
+  statuses_url: https://api.github.com/repos/asukiaaa/LeonardoBB/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/asukiaaa/LeonardoBB/subscribers
+  subscription_url: https://api.github.com/repos/asukiaaa/LeonardoBB/subscription
+  svn_url: https://github.com/asukiaaa/LeonardoBB
+  tags_url: https://api.github.com/repos/asukiaaa/LeonardoBB/tags
+  teams_url: https://api.github.com/repos/asukiaaa/LeonardoBB/teams
+  topics:
+  - arduino
+  - breadboard
+  - kicad
+  trees_url: https://api.github.com/repos/asukiaaa/LeonardoBB/git/trees{/sha}
+  updated_at: '2019-03-18T13:39:17Z'
+  url: https://api.github.com/repos/asukiaaa/LeonardoBB
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/assignees{/user}
-blobs_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/git/blobs{/sha}
-branches_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/branches{/branch}
-clone_url: https://github.com/johslarsen/50x50_2x6_to_sma.git
-collaborators_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/comments{/number}
-commits_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/commits{/sha}
-compare_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/compare/{base}...{head}
-contents_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/contents/{+path}
-contributors_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/contributors
-created_at: '2017-09-18T21:33:52Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/deployments
-description: A 50x50mm 2x6 .1" header to SMA breakout PCB
-disabled: false
-downloads_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/downloads
-events_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/forks
-full_name: johslarsen/50x50_2x6_to_sma
-git_commits_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/git/tags{/sha}
-git_url: git://github.com/johslarsen/50x50_2x6_to_sma.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/hooks
-html_url: https://github.com/johslarsen/50x50_2x6_to_sma
-id: 103994327
-is_template: false
-issue_comment_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/issues/events{/number}
-issues_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/issues{/number}
-keys_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/keys{/key_id}
-labels_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/languages
-license:
-  key: unlicense
-  name: The Unlicense
-  node_id: MDc6TGljZW5zZTE1
-  spdx_id: Unlicense
-  url: https://api.github.com/licenses/unlicense
-merges_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/merges
-milestones_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/milestones{/number}
-mirror_url: null
-name: 50x50_2x6_to_sma
-node_id: MDEwOlJlcG9zaXRvcnkxMDM5OTQzMjc=
-notifications_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1331670?v=4
-  events_url: https://api.github.com/users/johslarsen/events{/privacy}
-  followers_url: https://api.github.com/users/johslarsen/followers
-  following_url: https://api.github.com/users/johslarsen/following{/other_user}
-  gists_url: https://api.github.com/users/johslarsen/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/johslarsen
-  id: 1331670
-  login: johslarsen
-  node_id: MDQ6VXNlcjEzMzE2NzA=
-  organizations_url: https://api.github.com/users/johslarsen/orgs
-  received_events_url: https://api.github.com/users/johslarsen/received_events
-  repos_url: https://api.github.com/users/johslarsen/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/johslarsen/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/johslarsen/subscriptions
-  type: User
-  url: https://api.github.com/users/johslarsen
-private: false
+links:
+  github_owner: johslarsen
+  github_repo_name: 50x50_2x6_to_sma
+  github_src: https://github.com/johslarsen/50x50_2x6_to_sma
+  github_src_repo: https://github.com/johslarsen/50x50_2x6_to_sma
+  oomp_bot: johslarsen_50x50_2x6_to_sma
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/johslarsen_50x50_2x6_to_sma
+  oomp_doc: projects/johslarsen_50x50_2x6_to_sma/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/johslarsen_50x50_2x6_to_sma
+  oomp_src_flat: projects_flat/johslarsen_50x50_2x6_to_sma
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/johslarsen_50x50_2x6_to_sma
+  oomp_src_folder: projects_folder\johslarsen\50x50_2x6_to_sma\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\johslarsen\50x50_2x6_to_sma\version_current\working
+oomp_key: oomp_johslarsen_50x50_2x6_to_sma
+oomp_key_simple: johslarsen_50x50_2x6_to_sma
 projects_flat: projects_flat/johslarsen_50x50_2x6_to_sma/version_current/working
 projects_folder: projects_folder/johslarsen/50x50_2x6_to_sma/version_current/working
-pulls_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/pulls{/number}
-pushed_at: '2017-09-19T00:29:00Z'
-releases_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/releases{/id}
-size: 105
-ssh_url: git@github.com:johslarsen/50x50_2x6_to_sma.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/stargazers
-statuses_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/statuses/{sha}
-subscribers_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/subscribers
-subscription_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/subscription
-svn_url: https://github.com/johslarsen/50x50_2x6_to_sma
-tags_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/tags
-teams_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/teams
-topics: []
-trees_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/git/trees{/sha}
-updated_at: '2017-09-18T21:33:52Z'
-url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/assignees{/user}
+  blobs_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/branches{/branch}
+  clone_url: https://github.com/johslarsen/50x50_2x6_to_sma.git
+  collaborators_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/comments{/number}
+  commits_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/commits{/sha}
+  compare_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/contents/{+path}
+  contributors_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/contributors
+  created_at: '2017-09-18T21:33:52Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/deployments
+  description: A 50x50mm 2x6 .1" header to SMA breakout PCB
+  disabled: false
+  downloads_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/downloads
+  events_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/forks
+  full_name: johslarsen/50x50_2x6_to_sma
+  git_commits_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/git/tags{/sha}
+  git_url: git://github.com/johslarsen/50x50_2x6_to_sma.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/hooks
+  html_url: https://github.com/johslarsen/50x50_2x6_to_sma
+  id: 103994327
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/issues/events{/number}
+  issues_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/issues{/number}
+  keys_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/keys{/key_id}
+  labels_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/languages
+  license:
+    key: unlicense
+    name: The Unlicense
+    node_id: MDc6TGljZW5zZTE1
+    spdx_id: Unlicense
+    url: https://api.github.com/licenses/unlicense
+  merges_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/merges
+  milestones_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/milestones{/number}
+  mirror_url: null
+  name: 50x50_2x6_to_sma
+  node_id: MDEwOlJlcG9zaXRvcnkxMDM5OTQzMjc=
+  notifications_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1331670?v=4
+    events_url: https://api.github.com/users/johslarsen/events{/privacy}
+    followers_url: https://api.github.com/users/johslarsen/followers
+    following_url: https://api.github.com/users/johslarsen/following{/other_user}
+    gists_url: https://api.github.com/users/johslarsen/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/johslarsen
+    id: 1331670
+    login: johslarsen
+    node_id: MDQ6VXNlcjEzMzE2NzA=
+    organizations_url: https://api.github.com/users/johslarsen/orgs
+    received_events_url: https://api.github.com/users/johslarsen/received_events
+    repos_url: https://api.github.com/users/johslarsen/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/johslarsen/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/johslarsen/subscriptions
+    type: User
+    url: https://api.github.com/users/johslarsen
+  private: false
+  pulls_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/pulls{/number}
+  pushed_at: '2017-09-19T00:29:00Z'
+  releases_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/releases{/id}
+  size: 105
+  ssh_url: git@github.com:johslarsen/50x50_2x6_to_sma.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/stargazers
+  statuses_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/subscribers
+  subscription_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/subscription
+  svn_url: https://github.com/johslarsen/50x50_2x6_to_sma
+  tags_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/tags
+  teams_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/teams
+  topics: []
+  trees_url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma/git/trees{/sha}
+  updated_at: '2017-09-18T21:33:52Z'
+  url: https://api.github.com/repos/johslarsen/50x50_2x6_to_sma
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

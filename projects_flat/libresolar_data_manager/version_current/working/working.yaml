@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/LibreSolar/data-manager/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/LibreSolar/data-manager/assignees{/user}
-blobs_url: https://api.github.com/repos/LibreSolar/data-manager/git/blobs{/sha}
-branches_url: https://api.github.com/repos/LibreSolar/data-manager/branches{/branch}
-clone_url: https://github.com/LibreSolar/data-manager.git
-collaborators_url: https://api.github.com/repos/LibreSolar/data-manager/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/LibreSolar/data-manager/comments{/number}
-commits_url: https://api.github.com/repos/LibreSolar/data-manager/commits{/sha}
-compare_url: https://api.github.com/repos/LibreSolar/data-manager/compare/{base}...{head}
-contents_url: https://api.github.com/repos/LibreSolar/data-manager/contents/{+path}
-contributors_url: https://api.github.com/repos/LibreSolar/data-manager/contributors
-created_at: '2019-12-23T09:36:16Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/LibreSolar/data-manager/deployments
-description: CAN/UART to WiFi gateway and SD card data logger based on ESP32
-disabled: false
-downloads_url: https://api.github.com/repos/LibreSolar/data-manager/downloads
-events_url: https://api.github.com/repos/LibreSolar/data-manager/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/LibreSolar/data-manager/forks
-full_name: LibreSolar/data-manager
-git_commits_url: https://api.github.com/repos/LibreSolar/data-manager/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/LibreSolar/data-manager/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/LibreSolar/data-manager/git/tags{/sha}
-git_url: git://github.com/LibreSolar/data-manager.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/LibreSolar/data-manager/hooks
-html_url: https://github.com/LibreSolar/data-manager
-id: 229721143
-is_template: false
-issue_comment_url: https://api.github.com/repos/LibreSolar/data-manager/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/LibreSolar/data-manager/issues/events{/number}
-issues_url: https://api.github.com/repos/LibreSolar/data-manager/issues{/number}
-keys_url: https://api.github.com/repos/LibreSolar/data-manager/keys{/key_id}
-labels_url: https://api.github.com/repos/LibreSolar/data-manager/labels{/name}
-language: KiCad Layout
-languages_url: https://api.github.com/repos/LibreSolar/data-manager/languages
-license:
-  key: cc-by-sa-4.0
-  name: Creative Commons Attribution Share Alike 4.0 International
-  node_id: MDc6TGljZW5zZTI2
-  spdx_id: CC-BY-SA-4.0
-  url: https://api.github.com/licenses/cc-by-sa-4.0
-merges_url: https://api.github.com/repos/LibreSolar/data-manager/merges
-milestones_url: https://api.github.com/repos/LibreSolar/data-manager/milestones{/number}
-mirror_url: null
-name: data-manager
-node_id: MDEwOlJlcG9zaXRvcnkyMjk3MjExNDM=
-notifications_url: https://api.github.com/repos/LibreSolar/data-manager/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/17674115?v=4
-  events_url: https://api.github.com/users/LibreSolar/events{/privacy}
-  followers_url: https://api.github.com/users/LibreSolar/followers
-  following_url: https://api.github.com/users/LibreSolar/following{/other_user}
-  gists_url: https://api.github.com/users/LibreSolar/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/LibreSolar
-  id: 17674115
-  login: LibreSolar
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE3Njc0MTE1
-  organizations_url: https://api.github.com/users/LibreSolar/orgs
-  received_events_url: https://api.github.com/users/LibreSolar/received_events
-  repos_url: https://api.github.com/users/LibreSolar/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/LibreSolar/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/LibreSolar/subscriptions
-  type: Organization
-  url: https://api.github.com/users/LibreSolar
-private: false
+links:
+  github_owner: LibreSolar
+  github_repo_name: data-manager
+  github_src: https://github.com/LibreSolar/data-manager
+  github_src_repo: https://github.com/LibreSolar/data-manager
+  oomp_bot: projects_libresolar_data_manager
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_libresolar_data_manager
+  oomp_doc: projects/projects_flat_libresolar_data_manager/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_libresolar_data_manager
+  oomp_src_flat: projects_flat/projects_flat_libresolar_data_manager
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_libresolar_data_manager
+  oomp_src_folder: projects_flat\libresolar_data_manager\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\libresolar_data_manager\version_current\working
+oomp_key: oomp_projects_flat_libresolar_data_manager
+oomp_key_simple: projects_flat_libresolar_data_manager
 projects_flat: projects_flat/libresolar_data_manager/version_current/working
 projects_folder: projects_folder/LibreSolar/data-manager/version_current/working
-pulls_url: https://api.github.com/repos/LibreSolar/data-manager/pulls{/number}
-pushed_at: '2019-12-23T10:15:52Z'
-releases_url: https://api.github.com/repos/LibreSolar/data-manager/releases{/id}
-size: 506
-ssh_url: git@github.com:LibreSolar/data-manager.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/LibreSolar/data-manager/stargazers
-statuses_url: https://api.github.com/repos/LibreSolar/data-manager/statuses/{sha}
-subscribers_url: https://api.github.com/repos/LibreSolar/data-manager/subscribers
-subscription_url: https://api.github.com/repos/LibreSolar/data-manager/subscription
-svn_url: https://github.com/LibreSolar/data-manager
-tags_url: https://api.github.com/repos/LibreSolar/data-manager/tags
-teams_url: https://api.github.com/repos/LibreSolar/data-manager/teams
-topics: []
-trees_url: https://api.github.com/repos/LibreSolar/data-manager/git/trees{/sha}
-updated_at: '2023-06-02T02:14:33Z'
-url: https://api.github.com/repos/LibreSolar/data-manager
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/LibreSolar/data-manager/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/LibreSolar/data-manager/assignees{/user}
+  blobs_url: https://api.github.com/repos/LibreSolar/data-manager/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/LibreSolar/data-manager/branches{/branch}
+  clone_url: https://github.com/LibreSolar/data-manager.git
+  collaborators_url: https://api.github.com/repos/LibreSolar/data-manager/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/LibreSolar/data-manager/comments{/number}
+  commits_url: https://api.github.com/repos/LibreSolar/data-manager/commits{/sha}
+  compare_url: https://api.github.com/repos/LibreSolar/data-manager/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/LibreSolar/data-manager/contents/{+path}
+  contributors_url: https://api.github.com/repos/LibreSolar/data-manager/contributors
+  created_at: '2019-12-23T09:36:16Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/LibreSolar/data-manager/deployments
+  description: CAN/UART to WiFi gateway and SD card data logger based on ESP32
+  disabled: false
+  downloads_url: https://api.github.com/repos/LibreSolar/data-manager/downloads
+  events_url: https://api.github.com/repos/LibreSolar/data-manager/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/LibreSolar/data-manager/forks
+  full_name: LibreSolar/data-manager
+  git_commits_url: https://api.github.com/repos/LibreSolar/data-manager/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/LibreSolar/data-manager/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/LibreSolar/data-manager/git/tags{/sha}
+  git_url: git://github.com/LibreSolar/data-manager.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/LibreSolar/data-manager/hooks
+  html_url: https://github.com/LibreSolar/data-manager
+  id: 229721143
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/LibreSolar/data-manager/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/LibreSolar/data-manager/issues/events{/number}
+  issues_url: https://api.github.com/repos/LibreSolar/data-manager/issues{/number}
+  keys_url: https://api.github.com/repos/LibreSolar/data-manager/keys{/key_id}
+  labels_url: https://api.github.com/repos/LibreSolar/data-manager/labels{/name}
+  language: KiCad Layout
+  languages_url: https://api.github.com/repos/LibreSolar/data-manager/languages
+  license:
+    key: cc-by-sa-4.0
+    name: Creative Commons Attribution Share Alike 4.0 International
+    node_id: MDc6TGljZW5zZTI2
+    spdx_id: CC-BY-SA-4.0
+    url: https://api.github.com/licenses/cc-by-sa-4.0
+  merges_url: https://api.github.com/repos/LibreSolar/data-manager/merges
+  milestones_url: https://api.github.com/repos/LibreSolar/data-manager/milestones{/number}
+  mirror_url: null
+  name: data-manager
+  node_id: MDEwOlJlcG9zaXRvcnkyMjk3MjExNDM=
+  notifications_url: https://api.github.com/repos/LibreSolar/data-manager/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/17674115?v=4
+    events_url: https://api.github.com/users/LibreSolar/events{/privacy}
+    followers_url: https://api.github.com/users/LibreSolar/followers
+    following_url: https://api.github.com/users/LibreSolar/following{/other_user}
+    gists_url: https://api.github.com/users/LibreSolar/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/LibreSolar
+    id: 17674115
+    login: LibreSolar
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE3Njc0MTE1
+    organizations_url: https://api.github.com/users/LibreSolar/orgs
+    received_events_url: https://api.github.com/users/LibreSolar/received_events
+    repos_url: https://api.github.com/users/LibreSolar/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/LibreSolar/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/LibreSolar/subscriptions
+    type: Organization
+    url: https://api.github.com/users/LibreSolar
+  private: false
+  pulls_url: https://api.github.com/repos/LibreSolar/data-manager/pulls{/number}
+  pushed_at: '2019-12-23T10:15:52Z'
+  releases_url: https://api.github.com/repos/LibreSolar/data-manager/releases{/id}
+  size: 506
+  ssh_url: git@github.com:LibreSolar/data-manager.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/LibreSolar/data-manager/stargazers
+  statuses_url: https://api.github.com/repos/LibreSolar/data-manager/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/LibreSolar/data-manager/subscribers
+  subscription_url: https://api.github.com/repos/LibreSolar/data-manager/subscription
+  svn_url: https://github.com/LibreSolar/data-manager
+  tags_url: https://api.github.com/repos/LibreSolar/data-manager/tags
+  teams_url: https://api.github.com/repos/LibreSolar/data-manager/teams
+  topics: []
+  trees_url: https://api.github.com/repos/LibreSolar/data-manager/git/trees{/sha}
+  updated_at: '2023-06-02T02:14:33Z'
+  url: https://api.github.com/repos/LibreSolar/data-manager
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

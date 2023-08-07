@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/assignees{/user}
-blobs_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/git/blobs{/sha}
-branches_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/branches{/branch}
-clone_url: https://github.com/DangerousPrototypes/DPbadge.git
-collaborators_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/comments{/number}
-commits_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/commits{/sha}
-compare_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/compare/{base}...{head}
-contents_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/contents/{+path}
-contributors_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/contributors
-created_at: '2015-09-10T15:30:44Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/downloads
-events_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/events
 file_sch_flat: projects_flat/dangerousprototypes_dpbadge/version_current/working/working.sch
 file_sch_folder: projects_folder/DangerousPrototypes/DPbadge/version_current/working/working.sch
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/forks
-full_name: DangerousPrototypes/DPbadge
-git_commits_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/git/tags{/sha}
-git_url: git://github.com/DangerousPrototypes/DPbadge.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/hooks
-html_url: https://github.com/DangerousPrototypes/DPbadge
-id: 42253340
-is_template: false
-issue_comment_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/issues/events{/number}
-issues_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/issues{/number}
-keys_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/keys{/key_id}
-labels_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/languages
-license: null
-merges_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/merges
-milestones_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/milestones{/number}
-mirror_url: null
-name: DPbadge
-node_id: MDEwOlJlcG9zaXRvcnk0MjI1MzM0MA==
-notifications_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/390299?v=4
-  events_url: https://api.github.com/users/DangerousPrototypes/events{/privacy}
-  followers_url: https://api.github.com/users/DangerousPrototypes/followers
-  following_url: https://api.github.com/users/DangerousPrototypes/following{/other_user}
-  gists_url: https://api.github.com/users/DangerousPrototypes/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/DangerousPrototypes
-  id: 390299
-  login: DangerousPrototypes
-  node_id: MDQ6VXNlcjM5MDI5OQ==
-  organizations_url: https://api.github.com/users/DangerousPrototypes/orgs
-  received_events_url: https://api.github.com/users/DangerousPrototypes/received_events
-  repos_url: https://api.github.com/users/DangerousPrototypes/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/DangerousPrototypes/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/DangerousPrototypes/subscriptions
-  type: User
-  url: https://api.github.com/users/DangerousPrototypes
-private: false
+links:
+  github_owner: DangerousPrototypes
+  github_repo_name: DPbadge
+  github_src: https://github.com/DangerousPrototypes/DPbadge
+  github_src_repo: https://github.com/DangerousPrototypes/DPbadge
+  oomp_bot: dangerousprototypes_dpbadge
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/dangerousprototypes_dpbadge
+  oomp_doc: projects/dangerousprototypes_dpbadge/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/dangerousprototypes_dpbadge
+  oomp_src_flat: projects_flat/dangerousprototypes_dpbadge
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/dangerousprototypes_dpbadge
+  oomp_src_folder: projects_folder\DangerousPrototypes\DPbadge\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\DangerousPrototypes\DPbadge\version_current\working
+oomp_key: oomp_dangerousprototypes_dpbadge
+oomp_key_simple: dangerousprototypes_dpbadge
 projects_flat: projects_flat/dangerousprototypes_dpbadge/version_current/working
 projects_folder: projects_folder/DangerousPrototypes/DPbadge/version_current/working
-pulls_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/pulls{/number}
-pushed_at: '2015-09-10T15:35:10Z'
-releases_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/releases{/id}
-size: 756
-ssh_url: git@github.com:DangerousPrototypes/DPbadge.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/stargazers
-statuses_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/statuses/{sha}
-subscribers_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/subscribers
-subscription_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/subscription
-svn_url: https://github.com/DangerousPrototypes/DPbadge
-tags_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/tags
-teams_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/teams
-topics: []
-trees_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/git/trees{/sha}
-updated_at: '2023-07-07T01:15:40Z'
-url: https://api.github.com/repos/DangerousPrototypes/DPbadge
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/assignees{/user}
+  blobs_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/branches{/branch}
+  clone_url: https://github.com/DangerousPrototypes/DPbadge.git
+  collaborators_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/comments{/number}
+  commits_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/commits{/sha}
+  compare_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/contents/{+path}
+  contributors_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/contributors
+  created_at: '2015-09-10T15:30:44Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/downloads
+  events_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/forks
+  full_name: DangerousPrototypes/DPbadge
+  git_commits_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/git/tags{/sha}
+  git_url: git://github.com/DangerousPrototypes/DPbadge.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/hooks
+  html_url: https://github.com/DangerousPrototypes/DPbadge
+  id: 42253340
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/issues/events{/number}
+  issues_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/issues{/number}
+  keys_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/keys{/key_id}
+  labels_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/languages
+  license: null
+  merges_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/merges
+  milestones_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/milestones{/number}
+  mirror_url: null
+  name: DPbadge
+  node_id: MDEwOlJlcG9zaXRvcnk0MjI1MzM0MA==
+  notifications_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/390299?v=4
+    events_url: https://api.github.com/users/DangerousPrototypes/events{/privacy}
+    followers_url: https://api.github.com/users/DangerousPrototypes/followers
+    following_url: https://api.github.com/users/DangerousPrototypes/following{/other_user}
+    gists_url: https://api.github.com/users/DangerousPrototypes/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/DangerousPrototypes
+    id: 390299
+    login: DangerousPrototypes
+    node_id: MDQ6VXNlcjM5MDI5OQ==
+    organizations_url: https://api.github.com/users/DangerousPrototypes/orgs
+    received_events_url: https://api.github.com/users/DangerousPrototypes/received_events
+    repos_url: https://api.github.com/users/DangerousPrototypes/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/DangerousPrototypes/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/DangerousPrototypes/subscriptions
+    type: User
+    url: https://api.github.com/users/DangerousPrototypes
+  private: false
+  pulls_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/pulls{/number}
+  pushed_at: '2015-09-10T15:35:10Z'
+  releases_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/releases{/id}
+  size: 756
+  ssh_url: git@github.com:DangerousPrototypes/DPbadge.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/stargazers
+  statuses_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/subscribers
+  subscription_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/subscription
+  svn_url: https://github.com/DangerousPrototypes/DPbadge
+  tags_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/tags
+  teams_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/teams
+  topics: []
+  trees_url: https://api.github.com/repos/DangerousPrototypes/DPbadge/git/trees{/sha}
+  updated_at: '2023-07-07T01:15:40Z'
+  url: https://api.github.com/repos/DangerousPrototypes/DPbadge
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

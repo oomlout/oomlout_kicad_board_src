@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/PatrickBaus/line_injector/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/PatrickBaus/line_injector/assignees{/user}
-blobs_url: https://api.github.com/repos/PatrickBaus/line_injector/git/blobs{/sha}
-branches_url: https://api.github.com/repos/PatrickBaus/line_injector/branches{/branch}
-clone_url: https://github.com/PatrickBaus/line_injector.git
-collaborators_url: https://api.github.com/repos/PatrickBaus/line_injector/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/PatrickBaus/line_injector/comments{/number}
-commits_url: https://api.github.com/repos/PatrickBaus/line_injector/commits{/sha}
-compare_url: https://api.github.com/repos/PatrickBaus/line_injector/compare/{base}...{head}
-contents_url: https://api.github.com/repos/PatrickBaus/line_injector/contents/{+path}
-contributors_url: https://api.github.com/repos/PatrickBaus/line_injector/contributors
-created_at: '2022-07-29T08:54:33Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/PatrickBaus/line_injector/deployments
-description: A line injector for PSRR measurements
-disabled: false
-downloads_url: https://api.github.com/repos/PatrickBaus/line_injector/downloads
-events_url: https://api.github.com/repos/PatrickBaus/line_injector/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/PatrickBaus/line_injector/forks
-full_name: PatrickBaus/line_injector
-git_commits_url: https://api.github.com/repos/PatrickBaus/line_injector/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/PatrickBaus/line_injector/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/PatrickBaus/line_injector/git/tags{/sha}
-git_url: git://github.com/PatrickBaus/line_injector.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/PatrickBaus/line_injector/hooks
-html_url: https://github.com/PatrickBaus/line_injector
-id: 519146891
-is_template: false
-issue_comment_url: https://api.github.com/repos/PatrickBaus/line_injector/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/PatrickBaus/line_injector/issues/events{/number}
-issues_url: https://api.github.com/repos/PatrickBaus/line_injector/issues{/number}
-keys_url: https://api.github.com/repos/PatrickBaus/line_injector/keys{/key_id}
-labels_url: https://api.github.com/repos/PatrickBaus/line_injector/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/PatrickBaus/line_injector/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/PatrickBaus/line_injector/merges
-milestones_url: https://api.github.com/repos/PatrickBaus/line_injector/milestones{/number}
-mirror_url: null
-name: line_injector
-node_id: R_kgDOHvGNiw
-notifications_url: https://api.github.com/repos/PatrickBaus/line_injector/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/15003430?v=4
-  events_url: https://api.github.com/users/PatrickBaus/events{/privacy}
-  followers_url: https://api.github.com/users/PatrickBaus/followers
-  following_url: https://api.github.com/users/PatrickBaus/following{/other_user}
-  gists_url: https://api.github.com/users/PatrickBaus/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/PatrickBaus
-  id: 15003430
-  login: PatrickBaus
-  node_id: MDQ6VXNlcjE1MDAzNDMw
-  organizations_url: https://api.github.com/users/PatrickBaus/orgs
-  received_events_url: https://api.github.com/users/PatrickBaus/received_events
-  repos_url: https://api.github.com/users/PatrickBaus/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/PatrickBaus/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/PatrickBaus/subscriptions
-  type: User
-  url: https://api.github.com/users/PatrickBaus
-private: false
+links:
+  github_owner: PatrickBaus
+  github_repo_name: line_injector
+  github_src: https://github.com/PatrickBaus/line_injector
+  github_src_repo: https://github.com/PatrickBaus/line_injector
+  oomp_bot: projects_patrickbaus_line_injector
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_patrickbaus_line_injector
+  oomp_doc: projects/projects_flat_patrickbaus_line_injector/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_patrickbaus_line_injector
+  oomp_src_flat: projects_flat/projects_flat_patrickbaus_line_injector
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_patrickbaus_line_injector
+  oomp_src_folder: projects_flat\patrickbaus_line_injector\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\patrickbaus_line_injector\version_current\working
+oomp_key: oomp_projects_flat_patrickbaus_line_injector
+oomp_key_simple: projects_flat_patrickbaus_line_injector
 projects_flat: projects_flat/patrickbaus_line_injector/version_current/working
 projects_folder: projects_folder/PatrickBaus/line_injector/version_current/working
-pulls_url: https://api.github.com/repos/PatrickBaus/line_injector/pulls{/number}
-pushed_at: '2023-03-03T14:48:04Z'
-releases_url: https://api.github.com/repos/PatrickBaus/line_injector/releases{/id}
-size: 4713
-ssh_url: git@github.com:PatrickBaus/line_injector.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/PatrickBaus/line_injector/stargazers
-statuses_url: https://api.github.com/repos/PatrickBaus/line_injector/statuses/{sha}
-subscribers_url: https://api.github.com/repos/PatrickBaus/line_injector/subscribers
-subscription_url: https://api.github.com/repos/PatrickBaus/line_injector/subscription
-svn_url: https://github.com/PatrickBaus/line_injector
-tags_url: https://api.github.com/repos/PatrickBaus/line_injector/tags
-teams_url: https://api.github.com/repos/PatrickBaus/line_injector/teams
-topics:
-- kicad
-- test-equipment
-trees_url: https://api.github.com/repos/PatrickBaus/line_injector/git/trees{/sha}
-updated_at: '2022-08-29T09:20:55Z'
-url: https://api.github.com/repos/PatrickBaus/line_injector
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/PatrickBaus/line_injector/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/PatrickBaus/line_injector/assignees{/user}
+  blobs_url: https://api.github.com/repos/PatrickBaus/line_injector/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/PatrickBaus/line_injector/branches{/branch}
+  clone_url: https://github.com/PatrickBaus/line_injector.git
+  collaborators_url: https://api.github.com/repos/PatrickBaus/line_injector/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/PatrickBaus/line_injector/comments{/number}
+  commits_url: https://api.github.com/repos/PatrickBaus/line_injector/commits{/sha}
+  compare_url: https://api.github.com/repos/PatrickBaus/line_injector/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/PatrickBaus/line_injector/contents/{+path}
+  contributors_url: https://api.github.com/repos/PatrickBaus/line_injector/contributors
+  created_at: '2022-07-29T08:54:33Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/PatrickBaus/line_injector/deployments
+  description: A line injector for PSRR measurements
+  disabled: false
+  downloads_url: https://api.github.com/repos/PatrickBaus/line_injector/downloads
+  events_url: https://api.github.com/repos/PatrickBaus/line_injector/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/PatrickBaus/line_injector/forks
+  full_name: PatrickBaus/line_injector
+  git_commits_url: https://api.github.com/repos/PatrickBaus/line_injector/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/PatrickBaus/line_injector/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/PatrickBaus/line_injector/git/tags{/sha}
+  git_url: git://github.com/PatrickBaus/line_injector.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/PatrickBaus/line_injector/hooks
+  html_url: https://github.com/PatrickBaus/line_injector
+  id: 519146891
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/PatrickBaus/line_injector/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/PatrickBaus/line_injector/issues/events{/number}
+  issues_url: https://api.github.com/repos/PatrickBaus/line_injector/issues{/number}
+  keys_url: https://api.github.com/repos/PatrickBaus/line_injector/keys{/key_id}
+  labels_url: https://api.github.com/repos/PatrickBaus/line_injector/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/PatrickBaus/line_injector/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/PatrickBaus/line_injector/merges
+  milestones_url: https://api.github.com/repos/PatrickBaus/line_injector/milestones{/number}
+  mirror_url: null
+  name: line_injector
+  node_id: R_kgDOHvGNiw
+  notifications_url: https://api.github.com/repos/PatrickBaus/line_injector/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/15003430?v=4
+    events_url: https://api.github.com/users/PatrickBaus/events{/privacy}
+    followers_url: https://api.github.com/users/PatrickBaus/followers
+    following_url: https://api.github.com/users/PatrickBaus/following{/other_user}
+    gists_url: https://api.github.com/users/PatrickBaus/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/PatrickBaus
+    id: 15003430
+    login: PatrickBaus
+    node_id: MDQ6VXNlcjE1MDAzNDMw
+    organizations_url: https://api.github.com/users/PatrickBaus/orgs
+    received_events_url: https://api.github.com/users/PatrickBaus/received_events
+    repos_url: https://api.github.com/users/PatrickBaus/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/PatrickBaus/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/PatrickBaus/subscriptions
+    type: User
+    url: https://api.github.com/users/PatrickBaus
+  private: false
+  pulls_url: https://api.github.com/repos/PatrickBaus/line_injector/pulls{/number}
+  pushed_at: '2023-03-03T14:48:04Z'
+  releases_url: https://api.github.com/repos/PatrickBaus/line_injector/releases{/id}
+  size: 4713
+  ssh_url: git@github.com:PatrickBaus/line_injector.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/PatrickBaus/line_injector/stargazers
+  statuses_url: https://api.github.com/repos/PatrickBaus/line_injector/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/PatrickBaus/line_injector/subscribers
+  subscription_url: https://api.github.com/repos/PatrickBaus/line_injector/subscription
+  svn_url: https://github.com/PatrickBaus/line_injector
+  tags_url: https://api.github.com/repos/PatrickBaus/line_injector/tags
+  teams_url: https://api.github.com/repos/PatrickBaus/line_injector/teams
+  topics:
+  - kicad
+  - test-equipment
+  trees_url: https://api.github.com/repos/PatrickBaus/line_injector/git/trees{/sha}
+  updated_at: '2022-08-29T09:20:55Z'
+  url: https://api.github.com/repos/PatrickBaus/line_injector
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

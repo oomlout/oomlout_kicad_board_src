@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/re-innovation/RenewableRegulator/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/re-innovation/RenewableRegulator/assignees{/user}
-blobs_url: https://api.github.com/repos/re-innovation/RenewableRegulator/git/blobs{/sha}
-branches_url: https://api.github.com/repos/re-innovation/RenewableRegulator/branches{/branch}
-clone_url: https://github.com/re-innovation/RenewableRegulator.git
-collaborators_url: https://api.github.com/repos/re-innovation/RenewableRegulator/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/re-innovation/RenewableRegulator/comments{/number}
-commits_url: https://api.github.com/repos/re-innovation/RenewableRegulator/commits{/sha}
-compare_url: https://api.github.com/repos/re-innovation/RenewableRegulator/compare/{base}...{head}
-contents_url: https://api.github.com/repos/re-innovation/RenewableRegulator/contents/{+path}
-contributors_url: https://api.github.com/repos/re-innovation/RenewableRegulator/contributors
-created_at: '2016-04-04T09:53:50Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/re-innovation/RenewableRegulator/deployments
-description: Charge Regulator Designs for off-grid renewable energy projects. Series.
-  Shunt. MPPT.
-disabled: false
-downloads_url: https://api.github.com/repos/re-innovation/RenewableRegulator/downloads
-events_url: https://api.github.com/repos/re-innovation/RenewableRegulator/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/re-innovation/RenewableRegulator/forks
-full_name: re-innovation/RenewableRegulator
-git_commits_url: https://api.github.com/repos/re-innovation/RenewableRegulator/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/re-innovation/RenewableRegulator/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/re-innovation/RenewableRegulator/git/tags{/sha}
-git_url: git://github.com/re-innovation/RenewableRegulator.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: http://www.re-innovation.co.uk
-hooks_url: https://api.github.com/repos/re-innovation/RenewableRegulator/hooks
-html_url: https://github.com/re-innovation/RenewableRegulator
-id: 55400685
-is_template: false
-issue_comment_url: https://api.github.com/repos/re-innovation/RenewableRegulator/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/re-innovation/RenewableRegulator/issues/events{/number}
-issues_url: https://api.github.com/repos/re-innovation/RenewableRegulator/issues{/number}
-keys_url: https://api.github.com/repos/re-innovation/RenewableRegulator/keys{/key_id}
-labels_url: https://api.github.com/repos/re-innovation/RenewableRegulator/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/re-innovation/RenewableRegulator/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/re-innovation/RenewableRegulator/merges
-milestones_url: https://api.github.com/repos/re-innovation/RenewableRegulator/milestones{/number}
-mirror_url: null
-name: RenewableRegulator
-node_id: MDEwOlJlcG9zaXRvcnk1NTQwMDY4NQ==
-notifications_url: https://api.github.com/repos/re-innovation/RenewableRegulator/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/910639?v=4
-  events_url: https://api.github.com/users/re-innovation/events{/privacy}
-  followers_url: https://api.github.com/users/re-innovation/followers
-  following_url: https://api.github.com/users/re-innovation/following{/other_user}
-  gists_url: https://api.github.com/users/re-innovation/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/re-innovation
-  id: 910639
-  login: re-innovation
-  node_id: MDQ6VXNlcjkxMDYzOQ==
-  organizations_url: https://api.github.com/users/re-innovation/orgs
-  received_events_url: https://api.github.com/users/re-innovation/received_events
-  repos_url: https://api.github.com/users/re-innovation/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/re-innovation/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/re-innovation/subscriptions
-  type: User
-  url: https://api.github.com/users/re-innovation
-private: false
+links:
+  github_owner: re-innovation
+  github_repo_name: RenewableRegulator
+  github_src: https://github.com/re-innovation/RenewableRegulator
+  github_src_repo: https://github.com/re-innovation/RenewableRegulator
+  oomp_bot: re_innovation_renewableregulator
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/re_innovation_renewableregulator
+  oomp_doc: projects/re_innovation_renewableregulator/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/re_innovation_renewableregulator
+  oomp_src_flat: projects_flat/re_innovation_renewableregulator
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/re_innovation_renewableregulator
+  oomp_src_folder: projects_folder\re-innovation\RenewableRegulator\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\re-innovation\RenewableRegulator\version_current\working
+oomp_key: oomp_re_innovation_renewableregulator
+oomp_key_simple: re_innovation_renewableregulator
 projects_flat: projects_flat/re_innovation_renewableregulator/version_current/working
 projects_folder: projects_folder/re-innovation/RenewableRegulator/version_current/working
-pulls_url: https://api.github.com/repos/re-innovation/RenewableRegulator/pulls{/number}
-pushed_at: '2017-05-31T09:36:06Z'
-releases_url: https://api.github.com/repos/re-innovation/RenewableRegulator/releases{/id}
-size: 33491
-ssh_url: git@github.com:re-innovation/RenewableRegulator.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/re-innovation/RenewableRegulator/stargazers
-statuses_url: https://api.github.com/repos/re-innovation/RenewableRegulator/statuses/{sha}
-subscribers_url: https://api.github.com/repos/re-innovation/RenewableRegulator/subscribers
-subscription_url: https://api.github.com/repos/re-innovation/RenewableRegulator/subscription
-svn_url: https://github.com/re-innovation/RenewableRegulator
-tags_url: https://api.github.com/repos/re-innovation/RenewableRegulator/tags
-teams_url: https://api.github.com/repos/re-innovation/RenewableRegulator/teams
-topics: []
-trees_url: https://api.github.com/repos/re-innovation/RenewableRegulator/git/trees{/sha}
-updated_at: '2017-06-05T10:34:26Z'
-url: https://api.github.com/repos/re-innovation/RenewableRegulator
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/re-innovation/RenewableRegulator/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/re-innovation/RenewableRegulator/assignees{/user}
+  blobs_url: https://api.github.com/repos/re-innovation/RenewableRegulator/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/re-innovation/RenewableRegulator/branches{/branch}
+  clone_url: https://github.com/re-innovation/RenewableRegulator.git
+  collaborators_url: https://api.github.com/repos/re-innovation/RenewableRegulator/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/re-innovation/RenewableRegulator/comments{/number}
+  commits_url: https://api.github.com/repos/re-innovation/RenewableRegulator/commits{/sha}
+  compare_url: https://api.github.com/repos/re-innovation/RenewableRegulator/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/re-innovation/RenewableRegulator/contents/{+path}
+  contributors_url: https://api.github.com/repos/re-innovation/RenewableRegulator/contributors
+  created_at: '2016-04-04T09:53:50Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/re-innovation/RenewableRegulator/deployments
+  description: Charge Regulator Designs for off-grid renewable energy projects. Series.
+    Shunt. MPPT.
+  disabled: false
+  downloads_url: https://api.github.com/repos/re-innovation/RenewableRegulator/downloads
+  events_url: https://api.github.com/repos/re-innovation/RenewableRegulator/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/re-innovation/RenewableRegulator/forks
+  full_name: re-innovation/RenewableRegulator
+  git_commits_url: https://api.github.com/repos/re-innovation/RenewableRegulator/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/re-innovation/RenewableRegulator/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/re-innovation/RenewableRegulator/git/tags{/sha}
+  git_url: git://github.com/re-innovation/RenewableRegulator.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: http://www.re-innovation.co.uk
+  hooks_url: https://api.github.com/repos/re-innovation/RenewableRegulator/hooks
+  html_url: https://github.com/re-innovation/RenewableRegulator
+  id: 55400685
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/re-innovation/RenewableRegulator/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/re-innovation/RenewableRegulator/issues/events{/number}
+  issues_url: https://api.github.com/repos/re-innovation/RenewableRegulator/issues{/number}
+  keys_url: https://api.github.com/repos/re-innovation/RenewableRegulator/keys{/key_id}
+  labels_url: https://api.github.com/repos/re-innovation/RenewableRegulator/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/re-innovation/RenewableRegulator/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/re-innovation/RenewableRegulator/merges
+  milestones_url: https://api.github.com/repos/re-innovation/RenewableRegulator/milestones{/number}
+  mirror_url: null
+  name: RenewableRegulator
+  node_id: MDEwOlJlcG9zaXRvcnk1NTQwMDY4NQ==
+  notifications_url: https://api.github.com/repos/re-innovation/RenewableRegulator/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/910639?v=4
+    events_url: https://api.github.com/users/re-innovation/events{/privacy}
+    followers_url: https://api.github.com/users/re-innovation/followers
+    following_url: https://api.github.com/users/re-innovation/following{/other_user}
+    gists_url: https://api.github.com/users/re-innovation/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/re-innovation
+    id: 910639
+    login: re-innovation
+    node_id: MDQ6VXNlcjkxMDYzOQ==
+    organizations_url: https://api.github.com/users/re-innovation/orgs
+    received_events_url: https://api.github.com/users/re-innovation/received_events
+    repos_url: https://api.github.com/users/re-innovation/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/re-innovation/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/re-innovation/subscriptions
+    type: User
+    url: https://api.github.com/users/re-innovation
+  private: false
+  pulls_url: https://api.github.com/repos/re-innovation/RenewableRegulator/pulls{/number}
+  pushed_at: '2017-05-31T09:36:06Z'
+  releases_url: https://api.github.com/repos/re-innovation/RenewableRegulator/releases{/id}
+  size: 33491
+  ssh_url: git@github.com:re-innovation/RenewableRegulator.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/re-innovation/RenewableRegulator/stargazers
+  statuses_url: https://api.github.com/repos/re-innovation/RenewableRegulator/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/re-innovation/RenewableRegulator/subscribers
+  subscription_url: https://api.github.com/repos/re-innovation/RenewableRegulator/subscription
+  svn_url: https://github.com/re-innovation/RenewableRegulator
+  tags_url: https://api.github.com/repos/re-innovation/RenewableRegulator/tags
+  teams_url: https://api.github.com/repos/re-innovation/RenewableRegulator/teams
+  topics: []
+  trees_url: https://api.github.com/repos/re-innovation/RenewableRegulator/git/trees{/sha}
+  updated_at: '2017-06-05T10:34:26Z'
+  url: https://api.github.com/repos/re-innovation/RenewableRegulator
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

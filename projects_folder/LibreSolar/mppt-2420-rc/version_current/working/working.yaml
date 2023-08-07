@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/assignees{/user}
-blobs_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/git/blobs{/sha}
-branches_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/branches{/branch}
-clone_url: https://github.com/LibreSolar/mppt-2420-rc.git
-collaborators_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/comments{/number}
-commits_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/commits{/sha}
-compare_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/compare/{base}...{head}
-contents_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/contents/{+path}
-contributors_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/contributors
-created_at: '2020-05-30T15:49:25Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/deployments
-description: Solar/Wind MPPT charge controller for DIN rail mounting
-disabled: false
-downloads_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/downloads
-events_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/forks
-full_name: LibreSolar/mppt-2420-rc
-git_commits_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/git/tags{/sha}
-git_url: git://github.com/LibreSolar/mppt-2420-rc.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/hooks
-html_url: https://github.com/LibreSolar/mppt-2420-rc
-id: 268111006
-is_template: false
-issue_comment_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/issues/events{/number}
-issues_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/issues{/number}
-keys_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/keys{/key_id}
-labels_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/labels{/name}
-language: KiCad Layout
-languages_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/languages
-license:
-  key: cc-by-sa-4.0
-  name: Creative Commons Attribution Share Alike 4.0 International
-  node_id: MDc6TGljZW5zZTI2
-  spdx_id: CC-BY-SA-4.0
-  url: https://api.github.com/licenses/cc-by-sa-4.0
-merges_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/merges
-milestones_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/milestones{/number}
-mirror_url: null
-name: mppt-2420-rc
-node_id: MDEwOlJlcG9zaXRvcnkyNjgxMTEwMDY=
-notifications_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/notifications{?since,all,participating}
-open_issues: 9
-open_issues_count: 9
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/17674115?v=4
-  events_url: https://api.github.com/users/LibreSolar/events{/privacy}
-  followers_url: https://api.github.com/users/LibreSolar/followers
-  following_url: https://api.github.com/users/LibreSolar/following{/other_user}
-  gists_url: https://api.github.com/users/LibreSolar/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/LibreSolar
-  id: 17674115
-  login: LibreSolar
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE3Njc0MTE1
-  organizations_url: https://api.github.com/users/LibreSolar/orgs
-  received_events_url: https://api.github.com/users/LibreSolar/received_events
-  repos_url: https://api.github.com/users/LibreSolar/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/LibreSolar/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/LibreSolar/subscriptions
-  type: Organization
-  url: https://api.github.com/users/LibreSolar
-private: false
+links:
+  github_owner: LibreSolar
+  github_repo_name: mppt-2420-rc
+  github_src: https://github.com/LibreSolar/mppt-2420-rc
+  github_src_repo: https://github.com/LibreSolar/mppt-2420-rc
+  oomp_bot: libresolar_mppt_2420_rc
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/libresolar_mppt_2420_rc
+  oomp_doc: projects/libresolar_mppt_2420_rc/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/libresolar_mppt_2420_rc
+  oomp_src_flat: projects_flat/libresolar_mppt_2420_rc
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/libresolar_mppt_2420_rc
+  oomp_src_folder: projects_folder\LibreSolar\mppt-2420-rc\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\LibreSolar\mppt-2420-rc\version_current\working
+oomp_key: oomp_libresolar_mppt_2420_rc
+oomp_key_simple: libresolar_mppt_2420_rc
 projects_flat: projects_flat/libresolar_mppt_2420_rc/version_current/working
 projects_folder: projects_folder/LibreSolar/mppt-2420-rc/version_current/working
-pulls_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/pulls{/number}
-pushed_at: '2020-06-17T10:47:52Z'
-releases_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/releases{/id}
-size: 1702
-ssh_url: git@github.com:LibreSolar/mppt-2420-rc.git
-stargazers_count: 13
-stargazers_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/stargazers
-statuses_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/statuses/{sha}
-subscribers_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/subscribers
-subscription_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/subscription
-svn_url: https://github.com/LibreSolar/mppt-2420-rc
-tags_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/tags
-teams_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/teams
-topics: []
-trees_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/git/trees{/sha}
-updated_at: '2023-03-10T18:53:58Z'
-url: https://api.github.com/repos/LibreSolar/mppt-2420-rc
-visibility: public
-watchers: 13
-watchers_count: 13
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/assignees{/user}
+  blobs_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/branches{/branch}
+  clone_url: https://github.com/LibreSolar/mppt-2420-rc.git
+  collaborators_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/comments{/number}
+  commits_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/commits{/sha}
+  compare_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/contents/{+path}
+  contributors_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/contributors
+  created_at: '2020-05-30T15:49:25Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/deployments
+  description: Solar/Wind MPPT charge controller for DIN rail mounting
+  disabled: false
+  downloads_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/downloads
+  events_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/forks
+  full_name: LibreSolar/mppt-2420-rc
+  git_commits_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/git/tags{/sha}
+  git_url: git://github.com/LibreSolar/mppt-2420-rc.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/hooks
+  html_url: https://github.com/LibreSolar/mppt-2420-rc
+  id: 268111006
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/issues/events{/number}
+  issues_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/issues{/number}
+  keys_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/keys{/key_id}
+  labels_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/labels{/name}
+  language: KiCad Layout
+  languages_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/languages
+  license:
+    key: cc-by-sa-4.0
+    name: Creative Commons Attribution Share Alike 4.0 International
+    node_id: MDc6TGljZW5zZTI2
+    spdx_id: CC-BY-SA-4.0
+    url: https://api.github.com/licenses/cc-by-sa-4.0
+  merges_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/merges
+  milestones_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/milestones{/number}
+  mirror_url: null
+  name: mppt-2420-rc
+  node_id: MDEwOlJlcG9zaXRvcnkyNjgxMTEwMDY=
+  notifications_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/notifications{?since,all,participating}
+  open_issues: 9
+  open_issues_count: 9
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/17674115?v=4
+    events_url: https://api.github.com/users/LibreSolar/events{/privacy}
+    followers_url: https://api.github.com/users/LibreSolar/followers
+    following_url: https://api.github.com/users/LibreSolar/following{/other_user}
+    gists_url: https://api.github.com/users/LibreSolar/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/LibreSolar
+    id: 17674115
+    login: LibreSolar
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE3Njc0MTE1
+    organizations_url: https://api.github.com/users/LibreSolar/orgs
+    received_events_url: https://api.github.com/users/LibreSolar/received_events
+    repos_url: https://api.github.com/users/LibreSolar/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/LibreSolar/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/LibreSolar/subscriptions
+    type: Organization
+    url: https://api.github.com/users/LibreSolar
+  private: false
+  pulls_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/pulls{/number}
+  pushed_at: '2020-06-17T10:47:52Z'
+  releases_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/releases{/id}
+  size: 1702
+  ssh_url: git@github.com:LibreSolar/mppt-2420-rc.git
+  stargazers_count: 13
+  stargazers_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/stargazers
+  statuses_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/subscribers
+  subscription_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/subscription
+  svn_url: https://github.com/LibreSolar/mppt-2420-rc
+  tags_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/tags
+  teams_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/teams
+  topics: []
+  trees_url: https://api.github.com/repos/LibreSolar/mppt-2420-rc/git/trees{/sha}
+  updated_at: '2023-03-10T18:53:58Z'
+  url: https://api.github.com/repos/LibreSolar/mppt-2420-rc
+  visibility: public
+  watchers: 13
+  watchers_count: 13
+  web_commit_signoff_required: false

@@ -1,107 +1,124 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/branches{/branch}
-clone_url: https://github.com/sparkfun/Soil_Moisture_Sensor.git
-collaborators_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/contributors
-created_at: '2015-02-17T20:33:23Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/deployments
-description: 'A simple breakout to aid in the measuring of moisture in soil and similar
-  materials. '
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/downloads
-events_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_soil_moisture_sensor/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/Soil_Moisture_Sensor/version_current/working/working.brd
-fork: false
-forks: 18
-forks_count: 18
-forks_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/forks
-full_name: sparkfun/Soil_Moisture_Sensor
-git_commits_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/git/tags{/sha}
-git_url: git://github.com/sparkfun/Soil_Moisture_Sensor.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/hooks
-html_url: https://github.com/sparkfun/Soil_Moisture_Sensor
-id: 30936393
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/merges
-milestones_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/milestones{/number}
-mirror_url: null
-name: Soil_Moisture_Sensor
-node_id: MDEwOlJlcG9zaXRvcnkzMDkzNjM5Mw==
-notifications_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Soil_Moisture_Sensor
+  github_src: https://github.com/sparkfun/Soil_Moisture_Sensor
+  github_src_repo: https://github.com/sparkfun/Soil_Moisture_Sensor
+  oomp_bot: projects_sparkfun_soil_moisture_sensor
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_soil_moisture_sensor
+  oomp_doc: projects/projects_flat_sparkfun_soil_moisture_sensor/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_soil_moisture_sensor
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_soil_moisture_sensor
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_soil_moisture_sensor
+  oomp_src_folder: projects_flat\sparkfun_soil_moisture_sensor\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_soil_moisture_sensor\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_soil_moisture_sensor
+oomp_key_simple: projects_flat_sparkfun_soil_moisture_sensor
+projects_flat: projects_flat/sparkfun_soil_moisture_sensor/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_soil_moisture_sensor/version_current/working
 projects_folder: projects_folder/sparkfun/Soil_Moisture_Sensor/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/pulls{/number}
-pushed_at: '2015-09-08T17:14:19Z'
-releases_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/releases{/id}
-size: 317
-ssh_url: git@github.com:sparkfun/Soil_Moisture_Sensor.git
-stargazers_count: 27
-stargazers_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/subscription
-svn_url: https://github.com/sparkfun/Soil_Moisture_Sensor
-tags_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/tags
-teams_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/git/trees{/sha}
-updated_at: '2022-08-31T09:22:31Z'
-url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor
-visibility: public
-watchers: 27
-watchers_count: 27
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/branches{/branch}
+  clone_url: https://github.com/sparkfun/Soil_Moisture_Sensor.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/contributors
+  created_at: '2015-02-17T20:33:23Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/deployments
+  description: 'A simple breakout to aid in the measuring of moisture in soil and
+    similar materials. '
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/downloads
+  events_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/events
+  fork: false
+  forks: 18
+  forks_count: 18
+  forks_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/forks
+  full_name: sparkfun/Soil_Moisture_Sensor
+  git_commits_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Soil_Moisture_Sensor.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/hooks
+  html_url: https://github.com/sparkfun/Soil_Moisture_Sensor
+  id: 30936393
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/milestones{/number}
+  mirror_url: null
+  name: Soil_Moisture_Sensor
+  node_id: MDEwOlJlcG9zaXRvcnkzMDkzNjM5Mw==
+  notifications_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/pulls{/number}
+  pushed_at: '2015-09-08T17:14:19Z'
+  releases_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/releases{/id}
+  size: 317
+  ssh_url: git@github.com:sparkfun/Soil_Moisture_Sensor.git
+  stargazers_count: 27
+  stargazers_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/subscription
+  svn_url: https://github.com/sparkfun/Soil_Moisture_Sensor
+  tags_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/tags
+  teams_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor/git/trees{/sha}
+  updated_at: '2022-08-31T09:22:31Z'
+  url: https://api.github.com/repos/sparkfun/Soil_Moisture_Sensor
+  visibility: public
+  watchers: 27
+  watchers_count: 27
+  web_commit_signoff_required: false

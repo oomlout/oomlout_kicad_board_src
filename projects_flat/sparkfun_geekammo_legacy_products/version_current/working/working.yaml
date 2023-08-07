@@ -1,99 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/branches{/branch}
-clone_url: https://github.com/sparkfun/GeekAmmo_Legacy_Products.git
-collaborators_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/contributors
-created_at: '2015-01-15T21:52:36Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/deployments
-description: Legacy products from GeekAmmo, which is now owned by SparkFun Electronics
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/downloads
-events_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/forks
-full_name: sparkfun/GeekAmmo_Legacy_Products
-git_commits_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/git/tags{/sha}
-git_url: git://github.com/sparkfun/GeekAmmo_Legacy_Products.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/hooks
-html_url: https://github.com/sparkfun/GeekAmmo_Legacy_Products
-id: 29320040
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/merges
-milestones_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/milestones{/number}
-mirror_url: null
-name: GeekAmmo_Legacy_Products
-node_id: MDEwOlJlcG9zaXRvcnkyOTMyMDA0MA==
-notifications_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: GeekAmmo_Legacy_Products
+  github_src: https://github.com/sparkfun/GeekAmmo_Legacy_Products
+  github_src_repo: https://github.com/sparkfun/GeekAmmo_Legacy_Products
+  oomp_bot: projects_sparkfun_geekammo_legacy_products
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_geekammo_legacy_products
+  oomp_doc: projects/projects_flat_sparkfun_geekammo_legacy_products/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_geekammo_legacy_products
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_geekammo_legacy_products
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_geekammo_legacy_products
+  oomp_src_folder: projects_flat\sparkfun_geekammo_legacy_products\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_geekammo_legacy_products\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_geekammo_legacy_products
+oomp_key_simple: projects_flat_sparkfun_geekammo_legacy_products
+projects_flat: projects_flat/sparkfun_geekammo_legacy_products/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_geekammo_legacy_products/version_current/working
 projects_folder: projects_folder/sparkfun/GeekAmmo_Legacy_Products/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/pulls{/number}
-pushed_at: '2015-01-15T22:08:31Z'
-releases_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/releases{/id}
-size: 2758
-ssh_url: git@github.com:sparkfun/GeekAmmo_Legacy_Products.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/subscription
-svn_url: https://github.com/sparkfun/GeekAmmo_Legacy_Products
-tags_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/tags
-teams_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/git/trees{/sha}
-updated_at: '2015-07-30T01:06:29Z'
-url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/branches{/branch}
+  clone_url: https://github.com/sparkfun/GeekAmmo_Legacy_Products.git
+  collaborators_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/contributors
+  created_at: '2015-01-15T21:52:36Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/deployments
+  description: Legacy products from GeekAmmo, which is now owned by SparkFun Electronics
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/downloads
+  events_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/forks
+  full_name: sparkfun/GeekAmmo_Legacy_Products
+  git_commits_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/git/tags{/sha}
+  git_url: git://github.com/sparkfun/GeekAmmo_Legacy_Products.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/hooks
+  html_url: https://github.com/sparkfun/GeekAmmo_Legacy_Products
+  id: 29320040
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/merges
+  milestones_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/milestones{/number}
+  mirror_url: null
+  name: GeekAmmo_Legacy_Products
+  node_id: MDEwOlJlcG9zaXRvcnkyOTMyMDA0MA==
+  notifications_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/pulls{/number}
+  pushed_at: '2015-01-15T22:08:31Z'
+  releases_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/releases{/id}
+  size: 2758
+  ssh_url: git@github.com:sparkfun/GeekAmmo_Legacy_Products.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/subscription
+  svn_url: https://github.com/sparkfun/GeekAmmo_Legacy_Products
+  tags_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/tags
+  teams_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products/git/trees{/sha}
+  updated_at: '2015-07-30T01:06:29Z'
+  url: https://api.github.com/repos/sparkfun/GeekAmmo_Legacy_Products
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

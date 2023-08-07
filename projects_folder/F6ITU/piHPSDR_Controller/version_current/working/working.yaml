@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/assignees{/user}
-blobs_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/git/blobs{/sha}
-branches_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/branches{/branch}
-clone_url: https://github.com/F6ITU/piHPSDR_Controller.git
-collaborators_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/comments{/number}
-commits_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/commits{/sha}
-compare_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/compare/{base}...{head}
-contents_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/contents/{+path}
-contributors_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/contributors
-created_at: '2020-07-22T15:14:17Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/deployments
-description: 'OpenHPSDR console based on a Raspi CPU (LA2NI design after a G0ORX original
-  idea) '
-disabled: false
-downloads_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/downloads
-events_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/forks
-full_name: F6ITU/piHPSDR_Controller
-git_commits_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/git/tags{/sha}
-git_url: git://github.com/F6ITU/piHPSDR_Controller.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/hooks
-html_url: https://github.com/F6ITU/piHPSDR_Controller
-id: 281711170
-is_template: false
-issue_comment_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/issues/events{/number}
-issues_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/issues{/number}
-keys_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/keys{/key_id}
-labels_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/languages
-license: null
-merges_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/merges
-milestones_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/milestones{/number}
-mirror_url: null
-name: piHPSDR_Controller
-node_id: MDEwOlJlcG9zaXRvcnkyODE3MTExNzA=
-notifications_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/19146590?v=4
-  events_url: https://api.github.com/users/F6ITU/events{/privacy}
-  followers_url: https://api.github.com/users/F6ITU/followers
-  following_url: https://api.github.com/users/F6ITU/following{/other_user}
-  gists_url: https://api.github.com/users/F6ITU/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/F6ITU
-  id: 19146590
-  login: F6ITU
-  node_id: MDQ6VXNlcjE5MTQ2NTkw
-  organizations_url: https://api.github.com/users/F6ITU/orgs
-  received_events_url: https://api.github.com/users/F6ITU/received_events
-  repos_url: https://api.github.com/users/F6ITU/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/F6ITU/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/F6ITU/subscriptions
-  type: User
-  url: https://api.github.com/users/F6ITU
-private: false
+links:
+  github_owner: F6ITU
+  github_repo_name: piHPSDR_Controller
+  github_src: https://github.com/F6ITU/piHPSDR_Controller
+  github_src_repo: https://github.com/F6ITU/piHPSDR_Controller
+  oomp_bot: f6itu_pihpsdr_controller
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/f6itu_pihpsdr_controller
+  oomp_doc: projects/f6itu_pihpsdr_controller/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/f6itu_pihpsdr_controller
+  oomp_src_flat: projects_flat/f6itu_pihpsdr_controller
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/f6itu_pihpsdr_controller
+  oomp_src_folder: projects_folder\F6ITU\piHPSDR_Controller\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\F6ITU\piHPSDR_Controller\version_current\working
+oomp_key: oomp_f6itu_pihpsdr_controller
+oomp_key_simple: f6itu_pihpsdr_controller
 projects_flat: projects_flat/f6itu_pihpsdr_controller/version_current/working
 projects_folder: projects_folder/F6ITU/piHPSDR_Controller/version_current/working
-pulls_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/pulls{/number}
-pushed_at: '2020-07-22T16:22:14Z'
-releases_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/releases{/id}
-size: 10853
-ssh_url: git@github.com:F6ITU/piHPSDR_Controller.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/stargazers
-statuses_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/statuses/{sha}
-subscribers_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/subscribers
-subscription_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/subscription
-svn_url: https://github.com/F6ITU/piHPSDR_Controller
-tags_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/tags
-teams_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/teams
-topics: []
-trees_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/git/trees{/sha}
-updated_at: '2023-04-26T19:58:07Z'
-url: https://api.github.com/repos/F6ITU/piHPSDR_Controller
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/assignees{/user}
+  blobs_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/branches{/branch}
+  clone_url: https://github.com/F6ITU/piHPSDR_Controller.git
+  collaborators_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/comments{/number}
+  commits_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/commits{/sha}
+  compare_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/contents/{+path}
+  contributors_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/contributors
+  created_at: '2020-07-22T15:14:17Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/deployments
+  description: 'OpenHPSDR console based on a Raspi CPU (LA2NI design after a G0ORX
+    original idea) '
+  disabled: false
+  downloads_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/downloads
+  events_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/forks
+  full_name: F6ITU/piHPSDR_Controller
+  git_commits_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/git/tags{/sha}
+  git_url: git://github.com/F6ITU/piHPSDR_Controller.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/hooks
+  html_url: https://github.com/F6ITU/piHPSDR_Controller
+  id: 281711170
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/issues/events{/number}
+  issues_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/issues{/number}
+  keys_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/keys{/key_id}
+  labels_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/languages
+  license: null
+  merges_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/merges
+  milestones_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/milestones{/number}
+  mirror_url: null
+  name: piHPSDR_Controller
+  node_id: MDEwOlJlcG9zaXRvcnkyODE3MTExNzA=
+  notifications_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/19146590?v=4
+    events_url: https://api.github.com/users/F6ITU/events{/privacy}
+    followers_url: https://api.github.com/users/F6ITU/followers
+    following_url: https://api.github.com/users/F6ITU/following{/other_user}
+    gists_url: https://api.github.com/users/F6ITU/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/F6ITU
+    id: 19146590
+    login: F6ITU
+    node_id: MDQ6VXNlcjE5MTQ2NTkw
+    organizations_url: https://api.github.com/users/F6ITU/orgs
+    received_events_url: https://api.github.com/users/F6ITU/received_events
+    repos_url: https://api.github.com/users/F6ITU/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/F6ITU/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/F6ITU/subscriptions
+    type: User
+    url: https://api.github.com/users/F6ITU
+  private: false
+  pulls_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/pulls{/number}
+  pushed_at: '2020-07-22T16:22:14Z'
+  releases_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/releases{/id}
+  size: 10853
+  ssh_url: git@github.com:F6ITU/piHPSDR_Controller.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/stargazers
+  statuses_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/subscribers
+  subscription_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/subscription
+  svn_url: https://github.com/F6ITU/piHPSDR_Controller
+  tags_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/tags
+  teams_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/teams
+  topics: []
+  trees_url: https://api.github.com/repos/F6ITU/piHPSDR_Controller/git/trees{/sha}
+  updated_at: '2023-04-26T19:58:07Z'
+  url: https://api.github.com/repos/F6ITU/piHPSDR_Controller
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

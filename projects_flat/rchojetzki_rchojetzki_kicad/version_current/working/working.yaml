@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/assignees{/user}
-blobs_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/git/blobs{/sha}
-branches_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/branches{/branch}
-clone_url: https://github.com/rchojetzki/rchojetzki-kicad.git
-collaborators_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/comments{/number}
-commits_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/commits{/sha}
-compare_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/compare/{base}...{head}
-contents_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/contents/{+path}
-contributors_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/contributors
-created_at: '2017-05-23T15:33:36Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/deployments
-description: a library containing all the weird an wonderful footprints I created
-disabled: false
-downloads_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/downloads
-events_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/forks
-full_name: rchojetzki/rchojetzki-kicad
-git_commits_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/git/tags{/sha}
-git_url: git://github.com/rchojetzki/rchojetzki-kicad.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/hooks
-html_url: https://github.com/rchojetzki/rchojetzki-kicad
-id: 92189803
-is_template: false
-issue_comment_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/issues/events{/number}
-issues_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/issues{/number}
-keys_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/keys{/key_id}
-labels_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/labels{/name}
-language: OpenSCAD
-languages_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/languages
-license: null
-merges_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/merges
-milestones_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/milestones{/number}
-mirror_url: null
-name: rchojetzki-kicad
-node_id: MDEwOlJlcG9zaXRvcnk5MjE4OTgwMw==
-notifications_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/7549569?v=4
-  events_url: https://api.github.com/users/rchojetzki/events{/privacy}
-  followers_url: https://api.github.com/users/rchojetzki/followers
-  following_url: https://api.github.com/users/rchojetzki/following{/other_user}
-  gists_url: https://api.github.com/users/rchojetzki/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/rchojetzki
-  id: 7549569
-  login: rchojetzki
-  node_id: MDQ6VXNlcjc1NDk1Njk=
-  organizations_url: https://api.github.com/users/rchojetzki/orgs
-  received_events_url: https://api.github.com/users/rchojetzki/received_events
-  repos_url: https://api.github.com/users/rchojetzki/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/rchojetzki/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/rchojetzki/subscriptions
-  type: User
-  url: https://api.github.com/users/rchojetzki
-private: false
+links:
+  github_owner: rchojetzki
+  github_repo_name: rchojetzki-kicad
+  github_src: https://github.com/rchojetzki/rchojetzki-kicad
+  github_src_repo: https://github.com/rchojetzki/rchojetzki-kicad
+  oomp_bot: projects_rchojetzki_rchojetzki_kicad
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_rchojetzki_rchojetzki_kicad
+  oomp_doc: projects/projects_flat_rchojetzki_rchojetzki_kicad/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_rchojetzki_rchojetzki_kicad
+  oomp_src_flat: projects_flat/projects_flat_rchojetzki_rchojetzki_kicad
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_rchojetzki_rchojetzki_kicad
+  oomp_src_folder: projects_flat\rchojetzki_rchojetzki_kicad\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\rchojetzki_rchojetzki_kicad\version_current\working
+oomp_key: oomp_projects_flat_rchojetzki_rchojetzki_kicad
+oomp_key_simple: projects_flat_rchojetzki_rchojetzki_kicad
 projects_flat: projects_flat/rchojetzki_rchojetzki_kicad/version_current/working
 projects_folder: projects_folder/rchojetzki/rchojetzki-kicad/version_current/working
-pulls_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/pulls{/number}
-pushed_at: '2017-09-23T16:51:06Z'
-releases_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/releases{/id}
-size: 42
-ssh_url: git@github.com:rchojetzki/rchojetzki-kicad.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/stargazers
-statuses_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/statuses/{sha}
-subscribers_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/subscribers
-subscription_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/subscription
-svn_url: https://github.com/rchojetzki/rchojetzki-kicad
-tags_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/tags
-teams_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/teams
-topics: []
-trees_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/git/trees{/sha}
-updated_at: '2017-09-23T16:51:07Z'
-url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/assignees{/user}
+  blobs_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/branches{/branch}
+  clone_url: https://github.com/rchojetzki/rchojetzki-kicad.git
+  collaborators_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/comments{/number}
+  commits_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/commits{/sha}
+  compare_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/contents/{+path}
+  contributors_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/contributors
+  created_at: '2017-05-23T15:33:36Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/deployments
+  description: a library containing all the weird an wonderful footprints I created
+  disabled: false
+  downloads_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/downloads
+  events_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/forks
+  full_name: rchojetzki/rchojetzki-kicad
+  git_commits_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/git/tags{/sha}
+  git_url: git://github.com/rchojetzki/rchojetzki-kicad.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/hooks
+  html_url: https://github.com/rchojetzki/rchojetzki-kicad
+  id: 92189803
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/issues/events{/number}
+  issues_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/issues{/number}
+  keys_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/keys{/key_id}
+  labels_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/labels{/name}
+  language: OpenSCAD
+  languages_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/languages
+  license: null
+  merges_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/merges
+  milestones_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/milestones{/number}
+  mirror_url: null
+  name: rchojetzki-kicad
+  node_id: MDEwOlJlcG9zaXRvcnk5MjE4OTgwMw==
+  notifications_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/7549569?v=4
+    events_url: https://api.github.com/users/rchojetzki/events{/privacy}
+    followers_url: https://api.github.com/users/rchojetzki/followers
+    following_url: https://api.github.com/users/rchojetzki/following{/other_user}
+    gists_url: https://api.github.com/users/rchojetzki/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/rchojetzki
+    id: 7549569
+    login: rchojetzki
+    node_id: MDQ6VXNlcjc1NDk1Njk=
+    organizations_url: https://api.github.com/users/rchojetzki/orgs
+    received_events_url: https://api.github.com/users/rchojetzki/received_events
+    repos_url: https://api.github.com/users/rchojetzki/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/rchojetzki/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/rchojetzki/subscriptions
+    type: User
+    url: https://api.github.com/users/rchojetzki
+  private: false
+  pulls_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/pulls{/number}
+  pushed_at: '2017-09-23T16:51:06Z'
+  releases_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/releases{/id}
+  size: 42
+  ssh_url: git@github.com:rchojetzki/rchojetzki-kicad.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/stargazers
+  statuses_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/subscribers
+  subscription_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/subscription
+  svn_url: https://github.com/rchojetzki/rchojetzki-kicad
+  tags_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/tags
+  teams_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/teams
+  topics: []
+  trees_url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad/git/trees{/sha}
+  updated_at: '2017-09-23T16:51:07Z'
+  url: https://api.github.com/repos/rchojetzki/rchojetzki-kicad
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

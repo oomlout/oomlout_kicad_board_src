@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/bveenema/kicad-library/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/bveenema/kicad-library/assignees{/user}
-blobs_url: https://api.github.com/repos/bveenema/kicad-library/git/blobs{/sha}
-branches_url: https://api.github.com/repos/bveenema/kicad-library/branches{/branch}
-clone_url: https://github.com/bveenema/kicad-library.git
-collaborators_url: https://api.github.com/repos/bveenema/kicad-library/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/bveenema/kicad-library/comments{/number}
-commits_url: https://api.github.com/repos/bveenema/kicad-library/commits{/sha}
-compare_url: https://api.github.com/repos/bveenema/kicad-library/compare/{base}...{head}
-contents_url: https://api.github.com/repos/bveenema/kicad-library/contents/{+path}
-contributors_url: https://api.github.com/repos/bveenema/kicad-library/contributors
-created_at: '2017-07-30T14:59:03Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/bveenema/kicad-library/deployments
-description: The schematic and 3D libraries supported by KiCad team.  Note that the
-  footprint libraries are the *.pretty repos themselves.
-disabled: false
-downloads_url: https://api.github.com/repos/bveenema/kicad-library/downloads
-events_url: https://api.github.com/repos/bveenema/kicad-library/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/bveenema/kicad-library/forks
-full_name: bveenema/kicad-library
-git_commits_url: https://api.github.com/repos/bveenema/kicad-library/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/bveenema/kicad-library/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/bveenema/kicad-library/git/tags{/sha}
-git_url: git://github.com/bveenema/kicad-library.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/bveenema/kicad-library/hooks
-html_url: https://github.com/bveenema/kicad-library
-id: 98804819
-is_template: false
-issue_comment_url: https://api.github.com/repos/bveenema/kicad-library/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/bveenema/kicad-library/issues/events{/number}
-issues_url: https://api.github.com/repos/bveenema/kicad-library/issues{/number}
-keys_url: https://api.github.com/repos/bveenema/kicad-library/keys{/key_id}
-labels_url: https://api.github.com/repos/bveenema/kicad-library/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/bveenema/kicad-library/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/bveenema/kicad-library/merges
-milestones_url: https://api.github.com/repos/bveenema/kicad-library/milestones{/number}
-mirror_url: null
-name: kicad-library
-node_id: MDEwOlJlcG9zaXRvcnk5ODgwNDgxOQ==
-notifications_url: https://api.github.com/repos/bveenema/kicad-library/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6935674?v=4
-  events_url: https://api.github.com/users/bveenema/events{/privacy}
-  followers_url: https://api.github.com/users/bveenema/followers
-  following_url: https://api.github.com/users/bveenema/following{/other_user}
-  gists_url: https://api.github.com/users/bveenema/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/bveenema
-  id: 6935674
-  login: bveenema
-  node_id: MDQ6VXNlcjY5MzU2NzQ=
-  organizations_url: https://api.github.com/users/bveenema/orgs
-  received_events_url: https://api.github.com/users/bveenema/received_events
-  repos_url: https://api.github.com/users/bveenema/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/bveenema/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/bveenema/subscriptions
-  type: User
-  url: https://api.github.com/users/bveenema
-private: false
+links:
+  github_owner: bveenema
+  github_repo_name: kicad-library
+  github_src: https://github.com/bveenema/kicad-library
+  github_src_repo: https://github.com/bveenema/kicad-library
+  oomp_bot: bveenema_kicad_library
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/bveenema_kicad_library
+  oomp_doc: projects/bveenema_kicad_library/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/bveenema_kicad_library
+  oomp_src_flat: projects_flat/bveenema_kicad_library
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/bveenema_kicad_library
+  oomp_src_folder: projects_folder\bveenema\kicad-library\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\bveenema\kicad-library\version_current\working
+oomp_key: oomp_bveenema_kicad_library
+oomp_key_simple: bveenema_kicad_library
 projects_flat: projects_flat/bveenema_kicad_library/version_current/working
 projects_folder: projects_folder/bveenema/kicad-library/version_current/working
-pulls_url: https://api.github.com/repos/bveenema/kicad-library/pulls{/number}
-pushed_at: '2017-07-31T20:20:09Z'
-releases_url: https://api.github.com/repos/bveenema/kicad-library/releases{/id}
-size: 521332
-ssh_url: git@github.com:bveenema/kicad-library.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/bveenema/kicad-library/stargazers
-statuses_url: https://api.github.com/repos/bveenema/kicad-library/statuses/{sha}
-subscribers_url: https://api.github.com/repos/bveenema/kicad-library/subscribers
-subscription_url: https://api.github.com/repos/bveenema/kicad-library/subscription
-svn_url: https://github.com/bveenema/kicad-library
-tags_url: https://api.github.com/repos/bveenema/kicad-library/tags
-teams_url: https://api.github.com/repos/bveenema/kicad-library/teams
-topics: []
-trees_url: https://api.github.com/repos/bveenema/kicad-library/git/trees{/sha}
-updated_at: '2017-07-30T15:00:03Z'
-url: https://api.github.com/repos/bveenema/kicad-library
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/bveenema/kicad-library/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/bveenema/kicad-library/assignees{/user}
+  blobs_url: https://api.github.com/repos/bveenema/kicad-library/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/bveenema/kicad-library/branches{/branch}
+  clone_url: https://github.com/bveenema/kicad-library.git
+  collaborators_url: https://api.github.com/repos/bveenema/kicad-library/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/bveenema/kicad-library/comments{/number}
+  commits_url: https://api.github.com/repos/bveenema/kicad-library/commits{/sha}
+  compare_url: https://api.github.com/repos/bveenema/kicad-library/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/bveenema/kicad-library/contents/{+path}
+  contributors_url: https://api.github.com/repos/bveenema/kicad-library/contributors
+  created_at: '2017-07-30T14:59:03Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/bveenema/kicad-library/deployments
+  description: The schematic and 3D libraries supported by KiCad team.  Note that
+    the footprint libraries are the *.pretty repos themselves.
+  disabled: false
+  downloads_url: https://api.github.com/repos/bveenema/kicad-library/downloads
+  events_url: https://api.github.com/repos/bveenema/kicad-library/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/bveenema/kicad-library/forks
+  full_name: bveenema/kicad-library
+  git_commits_url: https://api.github.com/repos/bveenema/kicad-library/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/bveenema/kicad-library/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/bveenema/kicad-library/git/tags{/sha}
+  git_url: git://github.com/bveenema/kicad-library.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/bveenema/kicad-library/hooks
+  html_url: https://github.com/bveenema/kicad-library
+  id: 98804819
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/bveenema/kicad-library/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/bveenema/kicad-library/issues/events{/number}
+  issues_url: https://api.github.com/repos/bveenema/kicad-library/issues{/number}
+  keys_url: https://api.github.com/repos/bveenema/kicad-library/keys{/key_id}
+  labels_url: https://api.github.com/repos/bveenema/kicad-library/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/bveenema/kicad-library/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/bveenema/kicad-library/merges
+  milestones_url: https://api.github.com/repos/bveenema/kicad-library/milestones{/number}
+  mirror_url: null
+  name: kicad-library
+  node_id: MDEwOlJlcG9zaXRvcnk5ODgwNDgxOQ==
+  notifications_url: https://api.github.com/repos/bveenema/kicad-library/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6935674?v=4
+    events_url: https://api.github.com/users/bveenema/events{/privacy}
+    followers_url: https://api.github.com/users/bveenema/followers
+    following_url: https://api.github.com/users/bveenema/following{/other_user}
+    gists_url: https://api.github.com/users/bveenema/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/bveenema
+    id: 6935674
+    login: bveenema
+    node_id: MDQ6VXNlcjY5MzU2NzQ=
+    organizations_url: https://api.github.com/users/bveenema/orgs
+    received_events_url: https://api.github.com/users/bveenema/received_events
+    repos_url: https://api.github.com/users/bveenema/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/bveenema/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/bveenema/subscriptions
+    type: User
+    url: https://api.github.com/users/bveenema
+  private: false
+  pulls_url: https://api.github.com/repos/bveenema/kicad-library/pulls{/number}
+  pushed_at: '2017-07-31T20:20:09Z'
+  releases_url: https://api.github.com/repos/bveenema/kicad-library/releases{/id}
+  size: 521332
+  ssh_url: git@github.com:bveenema/kicad-library.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/bveenema/kicad-library/stargazers
+  statuses_url: https://api.github.com/repos/bveenema/kicad-library/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/bveenema/kicad-library/subscribers
+  subscription_url: https://api.github.com/repos/bveenema/kicad-library/subscription
+  svn_url: https://github.com/bveenema/kicad-library
+  tags_url: https://api.github.com/repos/bveenema/kicad-library/tags
+  teams_url: https://api.github.com/repos/bveenema/kicad-library/teams
+  topics: []
+  trees_url: https://api.github.com/repos/bveenema/kicad-library/git/trees{/sha}
+  updated_at: '2017-07-30T15:00:03Z'
+  url: https://api.github.com/repos/bveenema/kicad-library
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

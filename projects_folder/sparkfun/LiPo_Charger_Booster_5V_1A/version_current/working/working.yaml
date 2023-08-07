@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/branches{/branch}
-clone_url: https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A.git
-collaborators_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/contributors
-created_at: '2017-05-16T22:37:28Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/deployments
-description: A 5V, 1A booster with battery charger
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/downloads
-events_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/forks
-full_name: sparkfun/LiPo_Charger_Booster_5V_1A
-git_commits_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/git/tags{/sha}
-git_url: git://github.com/sparkfun/LiPo_Charger_Booster_5V_1A.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/hooks
-html_url: https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A
-id: 91510526
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/merges
-milestones_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/milestones{/number}
-mirror_url: null
-name: LiPo_Charger_Booster_5V_1A
-node_id: MDEwOlJlcG9zaXRvcnk5MTUxMDUyNg==
-notifications_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: LiPo_Charger_Booster_5V_1A
+  github_src: https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A
+  github_src_repo: https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A
+  oomp_bot: sparkfun_lipo_charger_booster_5v_1a
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_lipo_charger_booster_5v_1a
+  oomp_doc: projects/sparkfun_lipo_charger_booster_5v_1a/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_lipo_charger_booster_5v_1a
+  oomp_src_flat: projects_flat/sparkfun_lipo_charger_booster_5v_1a
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_lipo_charger_booster_5v_1a
+  oomp_src_folder: projects_folder\sparkfun\LiPo_Charger_Booster_5V_1A\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\LiPo_Charger_Booster_5V_1A\version_current\working
+oomp_key: oomp_sparkfun_lipo_charger_booster_5v_1a
+oomp_key_simple: sparkfun_lipo_charger_booster_5v_1a
+projects_flat: projects_flat/sparkfun_lipo_charger_booster_5v_1a/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lipo_charger_booster_5v_1a/version_current/working
 projects_folder: projects_folder/sparkfun/LiPo_Charger_Booster_5V_1A/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/pulls{/number}
-pushed_at: '2023-02-22T07:11:11Z'
-releases_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/releases{/id}
-size: 5441
-ssh_url: git@github.com:sparkfun/LiPo_Charger_Booster_5V_1A.git
-stargazers_count: 14
-stargazers_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/subscription
-svn_url: https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A
-tags_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/tags
-teams_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/git/trees{/sha}
-updated_at: '2023-07-25T18:41:45Z'
-url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A
-visibility: public
-watchers: 14
-watchers_count: 14
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/branches{/branch}
+  clone_url: https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A.git
+  collaborators_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/contributors
+  created_at: '2017-05-16T22:37:28Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/deployments
+  description: A 5V, 1A booster with battery charger
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/downloads
+  events_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/forks
+  full_name: sparkfun/LiPo_Charger_Booster_5V_1A
+  git_commits_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/git/tags{/sha}
+  git_url: git://github.com/sparkfun/LiPo_Charger_Booster_5V_1A.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/hooks
+  html_url: https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A
+  id: 91510526
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/merges
+  milestones_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/milestones{/number}
+  mirror_url: null
+  name: LiPo_Charger_Booster_5V_1A
+  node_id: MDEwOlJlcG9zaXRvcnk5MTUxMDUyNg==
+  notifications_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/pulls{/number}
+  pushed_at: '2023-02-22T07:11:11Z'
+  releases_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/releases{/id}
+  size: 5441
+  ssh_url: git@github.com:sparkfun/LiPo_Charger_Booster_5V_1A.git
+  stargazers_count: 13
+  stargazers_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/subscription
+  svn_url: https://github.com/sparkfun/LiPo_Charger_Booster_5V_1A
+  tags_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/tags
+  teams_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A/git/trees{/sha}
+  updated_at: '2023-07-31T07:29:44Z'
+  url: https://api.github.com/repos/sparkfun/LiPo_Charger_Booster_5V_1A
+  visibility: public
+  watchers: 13
+  watchers_count: 13
+  web_commit_signoff_required: false

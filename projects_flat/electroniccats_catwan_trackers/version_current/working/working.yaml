@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/branches{/branch}
-clone_url: https://github.com/ElectronicCats/CatWAN_Trackers.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/contributors
-created_at: '2018-11-27T01:13:11Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/deployments
-description: Tracker of CatWAN Family
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/downloads
-events_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/forks
-full_name: ElectronicCats/CatWAN_Trackers
-git_commits_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/CatWAN_Trackers.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/hooks
-html_url: https://github.com/ElectronicCats/CatWAN_Trackers
-id: 159255465
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/languages
-license: null
-merges_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/milestones{/number}
-mirror_url: null
-name: CatWAN_Trackers
-node_id: MDEwOlJlcG9zaXRvcnkxNTkyNTU0NjU=
-notifications_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: CatWAN_Trackers
+  github_src: https://github.com/ElectronicCats/CatWAN_Trackers
+  github_src_repo: https://github.com/ElectronicCats/CatWAN_Trackers
+  oomp_bot: projects_electroniccats_catwan_trackers
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_electroniccats_catwan_trackers
+  oomp_doc: projects/projects_flat_electroniccats_catwan_trackers/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_electroniccats_catwan_trackers
+  oomp_src_flat: projects_flat/projects_flat_electroniccats_catwan_trackers
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_electroniccats_catwan_trackers
+  oomp_src_folder: projects_flat\electroniccats_catwan_trackers\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_catwan_trackers\version_current\working
+oomp_key: oomp_projects_flat_electroniccats_catwan_trackers
+oomp_key_simple: projects_flat_electroniccats_catwan_trackers
 projects_flat: projects_flat/electroniccats_catwan_trackers/version_current/working
 projects_folder: projects_folder/ElectronicCats/CatWAN_Trackers/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/pulls{/number}
-pushed_at: '2019-11-05T01:26:23Z'
-releases_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/releases{/id}
-size: 12910
-ssh_url: git@github.com:ElectronicCats/CatWAN_Trackers.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/subscription
-svn_url: https://github.com/ElectronicCats/CatWAN_Trackers
-tags_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/tags
-teams_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/teams
-topics:
-- catwan
-- electronic-cats
-- gps-tracker
-- hardware
-- lora
-- lorawan
-trees_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/git/trees{/sha}
-updated_at: '2022-07-05T05:13:47Z'
-url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/CatWAN_Trackers.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/contributors
+  created_at: '2018-11-27T01:13:11Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/deployments
+  description: Tracker of CatWAN Family
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/forks
+  full_name: ElectronicCats/CatWAN_Trackers
+  git_commits_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/CatWAN_Trackers.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/hooks
+  html_url: https://github.com/ElectronicCats/CatWAN_Trackers
+  id: 159255465
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/languages
+  license: null
+  merges_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/milestones{/number}
+  mirror_url: null
+  name: CatWAN_Trackers
+  node_id: MDEwOlJlcG9zaXRvcnkxNTkyNTU0NjU=
+  notifications_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/pulls{/number}
+  pushed_at: '2019-11-05T01:26:23Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/releases{/id}
+  size: 12910
+  ssh_url: git@github.com:ElectronicCats/CatWAN_Trackers.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/subscription
+  svn_url: https://github.com/ElectronicCats/CatWAN_Trackers
+  tags_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/teams
+  topics:
+  - catwan
+  - electronic-cats
+  - gps-tracker
+  - hardware
+  - lora
+  - lorawan
+  trees_url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers/git/trees{/sha}
+  updated_at: '2022-07-05T05:13:47Z'
+  url: https://api.github.com/repos/ElectronicCats/CatWAN_Trackers
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: true

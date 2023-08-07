@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/PILM/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/PILM/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/PILM/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/PILM/branches{/branch}
-clone_url: https://github.com/freetronics/PILM.git
-collaborators_url: https://api.github.com/repos/freetronics/PILM/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/PILM/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/PILM/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/PILM/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/PILM/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/PILM/contributors
-created_at: '2018-03-28T06:41:01Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/PILM/deployments
-description: PiLeven Mini
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/PILM/downloads
-events_url: https://api.github.com/repos/freetronics/PILM/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/freetronics/PILM/forks
-full_name: freetronics/PILM
-git_commits_url: https://api.github.com/repos/freetronics/PILM/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/PILM/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/PILM/git/tags{/sha}
-git_url: git://github.com/freetronics/PILM.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/freetronics/PILM/hooks
-html_url: https://github.com/freetronics/PILM
-id: 127095763
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/PILM/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/PILM/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/PILM/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/PILM/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/PILM/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/freetronics/PILM/languages
-license: null
-merges_url: https://api.github.com/repos/freetronics/PILM/merges
-milestones_url: https://api.github.com/repos/freetronics/PILM/milestones{/number}
-mirror_url: null
-name: PILM
-node_id: MDEwOlJlcG9zaXRvcnkxMjcwOTU3NjM=
-notifications_url: https://api.github.com/repos/freetronics/PILM/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: PILM
+  github_src: https://github.com/freetronics/PILM
+  github_src_repo: https://github.com/freetronics/PILM
+  oomp_bot: freetronics_pilm
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/freetronics_pilm
+  oomp_doc: projects/freetronics_pilm/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/freetronics_pilm
+  oomp_src_flat: projects_flat/freetronics_pilm
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/freetronics_pilm
+  oomp_src_folder: projects_folder\freetronics\PILM\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\freetronics\PILM\version_current\working
+oomp_key: oomp_freetronics_pilm
+oomp_key_simple: freetronics_pilm
 projects_flat: projects_flat/freetronics_pilm/version_current/working
 projects_folder: projects_folder/freetronics/PILM/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/PILM/pulls{/number}
-pushed_at: '2018-03-28T06:41:16Z'
-releases_url: https://api.github.com/repos/freetronics/PILM/releases{/id}
-size: 55
-ssh_url: git@github.com:freetronics/PILM.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/freetronics/PILM/stargazers
-statuses_url: https://api.github.com/repos/freetronics/PILM/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/PILM/subscribers
-subscription_url: https://api.github.com/repos/freetronics/PILM/subscription
-svn_url: https://github.com/freetronics/PILM
-tags_url: https://api.github.com/repos/freetronics/PILM/tags
-teams_url: https://api.github.com/repos/freetronics/PILM/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/PILM/git/trees{/sha}
-updated_at: '2018-03-28T06:41:17Z'
-url: https://api.github.com/repos/freetronics/PILM
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/PILM/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/PILM/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/PILM/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/PILM/branches{/branch}
+  clone_url: https://github.com/freetronics/PILM.git
+  collaborators_url: https://api.github.com/repos/freetronics/PILM/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/PILM/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/PILM/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/PILM/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/PILM/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/PILM/contributors
+  created_at: '2018-03-28T06:41:01Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/PILM/deployments
+  description: PiLeven Mini
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/PILM/downloads
+  events_url: https://api.github.com/repos/freetronics/PILM/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/freetronics/PILM/forks
+  full_name: freetronics/PILM
+  git_commits_url: https://api.github.com/repos/freetronics/PILM/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/PILM/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/PILM/git/tags{/sha}
+  git_url: git://github.com/freetronics/PILM.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/freetronics/PILM/hooks
+  html_url: https://github.com/freetronics/PILM
+  id: 127095763
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/PILM/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/PILM/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/PILM/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/PILM/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/PILM/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/freetronics/PILM/languages
+  license: null
+  merges_url: https://api.github.com/repos/freetronics/PILM/merges
+  milestones_url: https://api.github.com/repos/freetronics/PILM/milestones{/number}
+  mirror_url: null
+  name: PILM
+  node_id: MDEwOlJlcG9zaXRvcnkxMjcwOTU3NjM=
+  notifications_url: https://api.github.com/repos/freetronics/PILM/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/PILM/pulls{/number}
+  pushed_at: '2018-03-28T06:41:16Z'
+  releases_url: https://api.github.com/repos/freetronics/PILM/releases{/id}
+  size: 55
+  ssh_url: git@github.com:freetronics/PILM.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/freetronics/PILM/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/PILM/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/PILM/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/PILM/subscription
+  svn_url: https://github.com/freetronics/PILM
+  tags_url: https://api.github.com/repos/freetronics/PILM/tags
+  teams_url: https://api.github.com/repos/freetronics/PILM/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/PILM/git/trees{/sha}
+  updated_at: '2018-03-28T06:41:17Z'
+  url: https://api.github.com/repos/freetronics/PILM
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

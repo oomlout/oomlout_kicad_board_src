@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/assignees{/user}
-blobs_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/branches{/branch}
-clone_url: https://github.com/Seeed-Studio/beaglebone-getting-started.git
-collaborators_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/comments{/number}
-commits_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/commits{/sha}
-compare_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/contents/{+path}
-contributors_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/contributors
-created_at: '2016-04-20T01:41:12Z'
-default_branch: BBGW
-deployments_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/deployments
-description: BeagleBone Getting Started Guide
-disabled: false
-downloads_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/downloads
-events_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/events
-fork: true
-forks: 9
-forks_count: 9
-forks_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/forks
-full_name: Seeed-Studio/beaglebone-getting-started
-git_commits_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/git/tags{/sha}
-git_url: git://github.com/Seeed-Studio/beaglebone-getting-started.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: http://beagleboard.org
-hooks_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/hooks
-html_url: https://github.com/Seeed-Studio/beaglebone-getting-started
-id: 56645925
-is_template: false
-issue_comment_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/issues/events{/number}
-issues_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/issues{/number}
-keys_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/keys{/key_id}
-labels_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/labels{/name}
-language: JavaScript
-languages_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/merges
-milestones_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/milestones{/number}
-mirror_url: null
-name: beaglebone-getting-started
-node_id: MDEwOlJlcG9zaXRvcnk1NjY0NTkyNQ==
-notifications_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/688117?v=4
-  events_url: https://api.github.com/users/Seeed-Studio/events{/privacy}
-  followers_url: https://api.github.com/users/Seeed-Studio/followers
-  following_url: https://api.github.com/users/Seeed-Studio/following{/other_user}
-  gists_url: https://api.github.com/users/Seeed-Studio/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Seeed-Studio
-  id: 688117
-  login: Seeed-Studio
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY4ODExNw==
-  organizations_url: https://api.github.com/users/Seeed-Studio/orgs
-  received_events_url: https://api.github.com/users/Seeed-Studio/received_events
-  repos_url: https://api.github.com/users/Seeed-Studio/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Seeed-Studio/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Seeed-Studio/subscriptions
-  type: Organization
-  url: https://api.github.com/users/Seeed-Studio
-private: false
+links:
+  github_owner: Seeed-Studio
+  github_repo_name: beaglebone-getting-started
+  github_src: https://github.com/Seeed-Studio/beaglebone-getting-started
+  github_src_repo: https://github.com/Seeed-Studio/beaglebone-getting-started
+  oomp_bot: projects_seeed_studio_beaglebone_getting_started
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_seeed_studio_beaglebone_getting_started
+  oomp_doc: projects/projects_flat_seeed_studio_beaglebone_getting_started/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_seeed_studio_beaglebone_getting_started
+  oomp_src_flat: projects_flat/projects_flat_seeed_studio_beaglebone_getting_started
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_seeed_studio_beaglebone_getting_started
+  oomp_src_folder: projects_flat\seeed_studio_beaglebone_getting_started\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\seeed_studio_beaglebone_getting_started\version_current\working
+oomp_key: oomp_projects_flat_seeed_studio_beaglebone_getting_started
+oomp_key_simple: projects_flat_seeed_studio_beaglebone_getting_started
 projects_flat: projects_flat/seeed_studio_beaglebone_getting_started/version_current/working
 projects_folder: projects_folder/Seeed-Studio/beaglebone-getting-started/version_current/working
-pulls_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/pulls{/number}
-pushed_at: '2017-01-27T08:13:22Z'
-releases_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/releases{/id}
-size: 398941
-ssh_url: git@github.com:Seeed-Studio/beaglebone-getting-started.git
-stargazers_count: 8
-stargazers_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/stargazers
-statuses_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/subscribers
-subscription_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/subscription
-svn_url: https://github.com/Seeed-Studio/beaglebone-getting-started
-tags_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/tags
-teams_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/teams
-topics: []
-trees_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/git/trees{/sha}
-updated_at: '2020-07-07T11:32:08Z'
-url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started
-visibility: public
-watchers: 8
-watchers_count: 8
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/assignees{/user}
+  blobs_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/branches{/branch}
+  clone_url: https://github.com/Seeed-Studio/beaglebone-getting-started.git
+  collaborators_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/comments{/number}
+  commits_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/commits{/sha}
+  compare_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/contents/{+path}
+  contributors_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/contributors
+  created_at: '2016-04-20T01:41:12Z'
+  default_branch: BBGW
+  deployments_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/deployments
+  description: BeagleBone Getting Started Guide
+  disabled: false
+  downloads_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/downloads
+  events_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/events
+  fork: true
+  forks: 9
+  forks_count: 9
+  forks_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/forks
+  full_name: Seeed-Studio/beaglebone-getting-started
+  git_commits_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/git/tags{/sha}
+  git_url: git://github.com/Seeed-Studio/beaglebone-getting-started.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: http://beagleboard.org
+  hooks_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/hooks
+  html_url: https://github.com/Seeed-Studio/beaglebone-getting-started
+  id: 56645925
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/issues/events{/number}
+  issues_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/issues{/number}
+  keys_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/keys{/key_id}
+  labels_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/labels{/name}
+  language: JavaScript
+  languages_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/merges
+  milestones_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/milestones{/number}
+  mirror_url: null
+  name: beaglebone-getting-started
+  node_id: MDEwOlJlcG9zaXRvcnk1NjY0NTkyNQ==
+  notifications_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/688117?v=4
+    events_url: https://api.github.com/users/Seeed-Studio/events{/privacy}
+    followers_url: https://api.github.com/users/Seeed-Studio/followers
+    following_url: https://api.github.com/users/Seeed-Studio/following{/other_user}
+    gists_url: https://api.github.com/users/Seeed-Studio/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Seeed-Studio
+    id: 688117
+    login: Seeed-Studio
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY4ODExNw==
+    organizations_url: https://api.github.com/users/Seeed-Studio/orgs
+    received_events_url: https://api.github.com/users/Seeed-Studio/received_events
+    repos_url: https://api.github.com/users/Seeed-Studio/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Seeed-Studio/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Seeed-Studio/subscriptions
+    type: Organization
+    url: https://api.github.com/users/Seeed-Studio
+  private: false
+  pulls_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/pulls{/number}
+  pushed_at: '2017-01-27T08:13:22Z'
+  releases_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/releases{/id}
+  size: 398941
+  ssh_url: git@github.com:Seeed-Studio/beaglebone-getting-started.git
+  stargazers_count: 8
+  stargazers_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/stargazers
+  statuses_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/subscribers
+  subscription_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/subscription
+  svn_url: https://github.com/Seeed-Studio/beaglebone-getting-started
+  tags_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/tags
+  teams_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started/git/trees{/sha}
+  updated_at: '2020-07-07T11:32:08Z'
+  url: https://api.github.com/repos/Seeed-Studio/beaglebone-getting-started
+  visibility: public
+  watchers: 8
+  watchers_count: 8
+  web_commit_signoff_required: false

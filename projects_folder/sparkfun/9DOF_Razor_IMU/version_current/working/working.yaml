@@ -1,110 +1,127 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/branches{/branch}
-clone_url: https://github.com/sparkfun/9DOF_Razor_IMU.git
-collaborators_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/contributors
-created_at: '2013-08-09T15:57:38Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/deployments
-description: 9DOF Razor IMU available from SparkFun Electronics
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/downloads
-events_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_9dof_razor_imu/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/9DOF_Razor_IMU/version_current/working/working.brd
-fork: false
-forks: 94
-forks_count: 94
-forks_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/forks
-full_name: sparkfun/9DOF_Razor_IMU
-git_commits_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/git/tags{/sha}
-git_url: git://github.com/sparkfun/9DOF_Razor_IMU.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/hooks
-html_url: https://github.com/sparkfun/9DOF_Razor_IMU
-id: 12004713
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/merges
-milestones_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/milestones{/number}
-mirror_url: null
-name: 9DOF_Razor_IMU
-node_id: MDEwOlJlcG9zaXRvcnkxMjAwNDcxMw==
-notifications_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/notifications{?since,all,participating}
-open_issues: 6
-open_issues_count: 6
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: 9DOF_Razor_IMU
+  github_src: https://github.com/sparkfun/9DOF_Razor_IMU
+  github_src_repo: https://github.com/sparkfun/9DOF_Razor_IMU
+  oomp_bot: sparkfun_9dof_razor_imu
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_9dof_razor_imu
+  oomp_doc: projects/sparkfun_9dof_razor_imu/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_9dof_razor_imu
+  oomp_src_flat: projects_flat/sparkfun_9dof_razor_imu
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_9dof_razor_imu
+  oomp_src_folder: projects_folder\sparkfun\9DOF_Razor_IMU\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\9DOF_Razor_IMU\version_current\working
+oomp_key: oomp_sparkfun_9dof_razor_imu
+oomp_key_simple: sparkfun_9dof_razor_imu
+projects_flat: projects_flat/sparkfun_9dof_razor_imu/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_9dof_razor_imu/version_current/working
 projects_folder: projects_folder/sparkfun/9DOF_Razor_IMU/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/pulls{/number}
-pushed_at: '2020-03-09T18:13:26Z'
-releases_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/releases{/id}
-size: 6161
-ssh_url: git@github.com:sparkfun/9DOF_Razor_IMU.git
-stargazers_count: 111
-stargazers_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/subscription
-svn_url: https://github.com/sparkfun/9DOF_Razor_IMU
-tags_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/tags
-teams_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/teams
-topics:
-- arm-cortex-m0
-- imu
-- samd21
-- sparkfun-products
-trees_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/git/trees{/sha}
-updated_at: '2023-05-01T20:24:14Z'
-url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU
-visibility: public
-watchers: 111
-watchers_count: 111
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/branches{/branch}
+  clone_url: https://github.com/sparkfun/9DOF_Razor_IMU.git
+  collaborators_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/contributors
+  created_at: '2013-08-09T15:57:38Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/deployments
+  description: 9DOF Razor IMU available from SparkFun Electronics
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/downloads
+  events_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/events
+  fork: false
+  forks: 94
+  forks_count: 94
+  forks_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/forks
+  full_name: sparkfun/9DOF_Razor_IMU
+  git_commits_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/git/tags{/sha}
+  git_url: git://github.com/sparkfun/9DOF_Razor_IMU.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/hooks
+  html_url: https://github.com/sparkfun/9DOF_Razor_IMU
+  id: 12004713
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/merges
+  milestones_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/milestones{/number}
+  mirror_url: null
+  name: 9DOF_Razor_IMU
+  node_id: MDEwOlJlcG9zaXRvcnkxMjAwNDcxMw==
+  notifications_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/notifications{?since,all,participating}
+  open_issues: 6
+  open_issues_count: 6
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/pulls{/number}
+  pushed_at: '2020-03-09T18:13:26Z'
+  releases_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/releases{/id}
+  size: 6161
+  ssh_url: git@github.com:sparkfun/9DOF_Razor_IMU.git
+  stargazers_count: 111
+  stargazers_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/subscription
+  svn_url: https://github.com/sparkfun/9DOF_Razor_IMU
+  tags_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/tags
+  teams_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/teams
+  topics:
+  - arm-cortex-m0
+  - imu
+  - samd21
+  - sparkfun-products
+  trees_url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU/git/trees{/sha}
+  updated_at: '2023-05-01T20:24:14Z'
+  url: https://api.github.com/repos/sparkfun/9DOF_Razor_IMU
+  visibility: public
+  watchers: 111
+  watchers_count: 111
+  web_commit_signoff_required: false

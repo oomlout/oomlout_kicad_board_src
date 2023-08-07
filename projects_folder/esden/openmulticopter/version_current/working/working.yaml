@@ -1,102 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/esden/openmulticopter/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/esden/openmulticopter/assignees{/user}
-blobs_url: https://api.github.com/repos/esden/openmulticopter/git/blobs{/sha}
-branches_url: https://api.github.com/repos/esden/openmulticopter/branches{/branch}
-clone_url: https://github.com/esden/openmulticopter.git
-collaborators_url: https://api.github.com/repos/esden/openmulticopter/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/esden/openmulticopter/comments{/number}
-commits_url: https://api.github.com/repos/esden/openmulticopter/commits{/sha}
-compare_url: https://api.github.com/repos/esden/openmulticopter/compare/{base}...{head}
-contents_url: https://api.github.com/repos/esden/openmulticopter/contents/{+path}
-contributors_url: https://api.github.com/repos/esden/openmulticopter/contributors
-created_at: '2009-07-14T16:23:58Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/esden/openmulticopter/deployments
-description: openmulticopter is an effort to create a multicopter based on 100% Free
-  Software and Free Hardware.
-disabled: false
-downloads_url: https://api.github.com/repos/esden/openmulticopter/downloads
-events_url: https://api.github.com/repos/esden/openmulticopter/events
 file_sch_flat: projects_flat/esden_openmulticopter/version_current/working/working.sch
 file_sch_folder: projects_folder/esden/openmulticopter/version_current/working/working.sch
-fork: false
-forks: 4
-forks_count: 4
-forks_url: https://api.github.com/repos/esden/openmulticopter/forks
-full_name: esden/openmulticopter
-git_commits_url: https://api.github.com/repos/esden/openmulticopter/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/esden/openmulticopter/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/esden/openmulticopter/git/tags{/sha}
-git_url: git://github.com/esden/openmulticopter.git
-has_discussions: false
-has_downloads: false
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: http://openmulticopter.org
-hooks_url: https://api.github.com/repos/esden/openmulticopter/hooks
-html_url: https://github.com/esden/openmulticopter
-id: 251037
-is_template: false
-issue_comment_url: https://api.github.com/repos/esden/openmulticopter/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/esden/openmulticopter/issues/events{/number}
-issues_url: https://api.github.com/repos/esden/openmulticopter/issues{/number}
-keys_url: https://api.github.com/repos/esden/openmulticopter/keys{/key_id}
-labels_url: https://api.github.com/repos/esden/openmulticopter/labels{/name}
-language: PHP
-languages_url: https://api.github.com/repos/esden/openmulticopter/languages
-license: null
-merges_url: https://api.github.com/repos/esden/openmulticopter/merges
-milestones_url: https://api.github.com/repos/esden/openmulticopter/milestones{/number}
-mirror_url: null
-name: openmulticopter
-node_id: MDEwOlJlcG9zaXRvcnkyNTEwMzc=
-notifications_url: https://api.github.com/repos/esden/openmulticopter/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/17334?v=4
-  events_url: https://api.github.com/users/esden/events{/privacy}
-  followers_url: https://api.github.com/users/esden/followers
-  following_url: https://api.github.com/users/esden/following{/other_user}
-  gists_url: https://api.github.com/users/esden/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/esden
-  id: 17334
-  login: esden
-  node_id: MDQ6VXNlcjE3MzM0
-  organizations_url: https://api.github.com/users/esden/orgs
-  received_events_url: https://api.github.com/users/esden/received_events
-  repos_url: https://api.github.com/users/esden/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/esden/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/esden/subscriptions
-  type: User
-  url: https://api.github.com/users/esden
-private: false
+links:
+  github_owner: esden
+  github_repo_name: openmulticopter
+  github_src: https://github.com/esden/openmulticopter
+  github_src_repo: https://github.com/esden/openmulticopter
+  oomp_bot: esden_openmulticopter
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/esden_openmulticopter
+  oomp_doc: projects/esden_openmulticopter/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/esden_openmulticopter
+  oomp_src_flat: projects_flat/esden_openmulticopter
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/esden_openmulticopter
+  oomp_src_folder: projects_folder\esden\openmulticopter\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\esden\openmulticopter\version_current\working
+oomp_key: oomp_esden_openmulticopter
+oomp_key_simple: esden_openmulticopter
 projects_flat: projects_flat/esden_openmulticopter/version_current/working
 projects_folder: projects_folder/esden/openmulticopter/version_current/working
-pulls_url: https://api.github.com/repos/esden/openmulticopter/pulls{/number}
-pushed_at: '2010-09-13T07:47:52Z'
-releases_url: https://api.github.com/repos/esden/openmulticopter/releases{/id}
-size: 1687
-ssh_url: git@github.com:esden/openmulticopter.git
-stargazers_count: 8
-stargazers_url: https://api.github.com/repos/esden/openmulticopter/stargazers
-statuses_url: https://api.github.com/repos/esden/openmulticopter/statuses/{sha}
-subscribers_url: https://api.github.com/repos/esden/openmulticopter/subscribers
-subscription_url: https://api.github.com/repos/esden/openmulticopter/subscription
-svn_url: https://github.com/esden/openmulticopter
-tags_url: https://api.github.com/repos/esden/openmulticopter/tags
-teams_url: https://api.github.com/repos/esden/openmulticopter/teams
-topics: []
-trees_url: https://api.github.com/repos/esden/openmulticopter/git/trees{/sha}
-updated_at: '2019-01-11T16:21:15Z'
-url: https://api.github.com/repos/esden/openmulticopter
-visibility: public
-watchers: 8
-watchers_count: 8
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/esden/openmulticopter/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/esden/openmulticopter/assignees{/user}
+  blobs_url: https://api.github.com/repos/esden/openmulticopter/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/esden/openmulticopter/branches{/branch}
+  clone_url: https://github.com/esden/openmulticopter.git
+  collaborators_url: https://api.github.com/repos/esden/openmulticopter/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/esden/openmulticopter/comments{/number}
+  commits_url: https://api.github.com/repos/esden/openmulticopter/commits{/sha}
+  compare_url: https://api.github.com/repos/esden/openmulticopter/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/esden/openmulticopter/contents/{+path}
+  contributors_url: https://api.github.com/repos/esden/openmulticopter/contributors
+  created_at: '2009-07-14T16:23:58Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/esden/openmulticopter/deployments
+  description: openmulticopter is an effort to create a multicopter based on 100%
+    Free Software and Free Hardware.
+  disabled: false
+  downloads_url: https://api.github.com/repos/esden/openmulticopter/downloads
+  events_url: https://api.github.com/repos/esden/openmulticopter/events
+  fork: false
+  forks: 4
+  forks_count: 4
+  forks_url: https://api.github.com/repos/esden/openmulticopter/forks
+  full_name: esden/openmulticopter
+  git_commits_url: https://api.github.com/repos/esden/openmulticopter/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/esden/openmulticopter/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/esden/openmulticopter/git/tags{/sha}
+  git_url: git://github.com/esden/openmulticopter.git
+  has_discussions: false
+  has_downloads: false
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: http://openmulticopter.org
+  hooks_url: https://api.github.com/repos/esden/openmulticopter/hooks
+  html_url: https://github.com/esden/openmulticopter
+  id: 251037
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/esden/openmulticopter/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/esden/openmulticopter/issues/events{/number}
+  issues_url: https://api.github.com/repos/esden/openmulticopter/issues{/number}
+  keys_url: https://api.github.com/repos/esden/openmulticopter/keys{/key_id}
+  labels_url: https://api.github.com/repos/esden/openmulticopter/labels{/name}
+  language: PHP
+  languages_url: https://api.github.com/repos/esden/openmulticopter/languages
+  license: null
+  merges_url: https://api.github.com/repos/esden/openmulticopter/merges
+  milestones_url: https://api.github.com/repos/esden/openmulticopter/milestones{/number}
+  mirror_url: null
+  name: openmulticopter
+  node_id: MDEwOlJlcG9zaXRvcnkyNTEwMzc=
+  notifications_url: https://api.github.com/repos/esden/openmulticopter/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/17334?v=4
+    events_url: https://api.github.com/users/esden/events{/privacy}
+    followers_url: https://api.github.com/users/esden/followers
+    following_url: https://api.github.com/users/esden/following{/other_user}
+    gists_url: https://api.github.com/users/esden/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/esden
+    id: 17334
+    login: esden
+    node_id: MDQ6VXNlcjE3MzM0
+    organizations_url: https://api.github.com/users/esden/orgs
+    received_events_url: https://api.github.com/users/esden/received_events
+    repos_url: https://api.github.com/users/esden/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/esden/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/esden/subscriptions
+    type: User
+    url: https://api.github.com/users/esden
+  private: false
+  pulls_url: https://api.github.com/repos/esden/openmulticopter/pulls{/number}
+  pushed_at: '2010-09-13T07:47:52Z'
+  releases_url: https://api.github.com/repos/esden/openmulticopter/releases{/id}
+  size: 1687
+  ssh_url: git@github.com:esden/openmulticopter.git
+  stargazers_count: 8
+  stargazers_url: https://api.github.com/repos/esden/openmulticopter/stargazers
+  statuses_url: https://api.github.com/repos/esden/openmulticopter/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/esden/openmulticopter/subscribers
+  subscription_url: https://api.github.com/repos/esden/openmulticopter/subscription
+  svn_url: https://github.com/esden/openmulticopter
+  tags_url: https://api.github.com/repos/esden/openmulticopter/tags
+  teams_url: https://api.github.com/repos/esden/openmulticopter/teams
+  topics: []
+  trees_url: https://api.github.com/repos/esden/openmulticopter/git/trees{/sha}
+  updated_at: '2019-01-11T16:21:15Z'
+  url: https://api.github.com/repos/esden/openmulticopter
+  visibility: public
+  watchers: 8
+  watchers_count: 8
+  web_commit_signoff_required: false

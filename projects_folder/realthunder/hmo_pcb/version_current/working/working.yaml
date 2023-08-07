@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/realthunder/hmo_pcb/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/realthunder/hmo_pcb/assignees{/user}
-blobs_url: https://api.github.com/repos/realthunder/hmo_pcb/git/blobs{/sha}
-branches_url: https://api.github.com/repos/realthunder/hmo_pcb/branches{/branch}
-clone_url: https://github.com/realthunder/hmo_pcb.git
-collaborators_url: https://api.github.com/repos/realthunder/hmo_pcb/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/realthunder/hmo_pcb/comments{/number}
-commits_url: https://api.github.com/repos/realthunder/hmo_pcb/commits{/sha}
-compare_url: https://api.github.com/repos/realthunder/hmo_pcb/compare/{base}...{head}
-contents_url: https://api.github.com/repos/realthunder/hmo_pcb/contents/{+path}
-contributors_url: https://api.github.com/repos/realthunder/hmo_pcb/contributors
-created_at: '2016-06-24T10:33:57Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/realthunder/hmo_pcb/deployments
-description: Headmaster PCB designs
-disabled: false
-downloads_url: https://api.github.com/repos/realthunder/hmo_pcb/downloads
-events_url: https://api.github.com/repos/realthunder/hmo_pcb/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/realthunder/hmo_pcb/forks
-full_name: realthunder/hmo_pcb
-git_commits_url: https://api.github.com/repos/realthunder/hmo_pcb/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/realthunder/hmo_pcb/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/realthunder/hmo_pcb/git/tags{/sha}
-git_url: git://github.com/realthunder/hmo_pcb.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/realthunder/hmo_pcb/hooks
-html_url: https://github.com/realthunder/hmo_pcb
-id: 61877343
-is_template: false
-issue_comment_url: https://api.github.com/repos/realthunder/hmo_pcb/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/realthunder/hmo_pcb/issues/events{/number}
-issues_url: https://api.github.com/repos/realthunder/hmo_pcb/issues{/number}
-keys_url: https://api.github.com/repos/realthunder/hmo_pcb/keys{/key_id}
-labels_url: https://api.github.com/repos/realthunder/hmo_pcb/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/realthunder/hmo_pcb/languages
-license: null
-merges_url: https://api.github.com/repos/realthunder/hmo_pcb/merges
-milestones_url: https://api.github.com/repos/realthunder/hmo_pcb/milestones{/number}
-mirror_url: null
-name: hmo_pcb
-node_id: MDEwOlJlcG9zaXRvcnk2MTg3NzM0Mw==
-notifications_url: https://api.github.com/repos/realthunder/hmo_pcb/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1207888?v=4
-  events_url: https://api.github.com/users/realthunder/events{/privacy}
-  followers_url: https://api.github.com/users/realthunder/followers
-  following_url: https://api.github.com/users/realthunder/following{/other_user}
-  gists_url: https://api.github.com/users/realthunder/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/realthunder
-  id: 1207888
-  login: realthunder
-  node_id: MDQ6VXNlcjEyMDc4ODg=
-  organizations_url: https://api.github.com/users/realthunder/orgs
-  received_events_url: https://api.github.com/users/realthunder/received_events
-  repos_url: https://api.github.com/users/realthunder/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/realthunder/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/realthunder/subscriptions
-  type: User
-  url: https://api.github.com/users/realthunder
-private: false
+links:
+  github_owner: realthunder
+  github_repo_name: hmo_pcb
+  github_src: https://github.com/realthunder/hmo_pcb
+  github_src_repo: https://github.com/realthunder/hmo_pcb
+  oomp_bot: realthunder_hmo_pcb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/realthunder_hmo_pcb
+  oomp_doc: projects/realthunder_hmo_pcb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/realthunder_hmo_pcb
+  oomp_src_flat: projects_flat/realthunder_hmo_pcb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/realthunder_hmo_pcb
+  oomp_src_folder: projects_folder\realthunder\hmo_pcb\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\realthunder\hmo_pcb\version_current\working
+oomp_key: oomp_realthunder_hmo_pcb
+oomp_key_simple: realthunder_hmo_pcb
 projects_flat: projects_flat/realthunder_hmo_pcb/version_current/working
 projects_folder: projects_folder/realthunder/hmo_pcb/version_current/working
-pulls_url: https://api.github.com/repos/realthunder/hmo_pcb/pulls{/number}
-pushed_at: '2016-08-23T21:29:39Z'
-releases_url: https://api.github.com/repos/realthunder/hmo_pcb/releases{/id}
-size: 11
-ssh_url: git@github.com:realthunder/hmo_pcb.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/realthunder/hmo_pcb/stargazers
-statuses_url: https://api.github.com/repos/realthunder/hmo_pcb/statuses/{sha}
-subscribers_url: https://api.github.com/repos/realthunder/hmo_pcb/subscribers
-subscription_url: https://api.github.com/repos/realthunder/hmo_pcb/subscription
-svn_url: https://github.com/realthunder/hmo_pcb
-tags_url: https://api.github.com/repos/realthunder/hmo_pcb/tags
-teams_url: https://api.github.com/repos/realthunder/hmo_pcb/teams
-topics: []
-trees_url: https://api.github.com/repos/realthunder/hmo_pcb/git/trees{/sha}
-updated_at: '2023-07-25T14:02:31Z'
-url: https://api.github.com/repos/realthunder/hmo_pcb
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/realthunder/hmo_pcb/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/realthunder/hmo_pcb/assignees{/user}
+  blobs_url: https://api.github.com/repos/realthunder/hmo_pcb/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/realthunder/hmo_pcb/branches{/branch}
+  clone_url: https://github.com/realthunder/hmo_pcb.git
+  collaborators_url: https://api.github.com/repos/realthunder/hmo_pcb/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/realthunder/hmo_pcb/comments{/number}
+  commits_url: https://api.github.com/repos/realthunder/hmo_pcb/commits{/sha}
+  compare_url: https://api.github.com/repos/realthunder/hmo_pcb/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/realthunder/hmo_pcb/contents/{+path}
+  contributors_url: https://api.github.com/repos/realthunder/hmo_pcb/contributors
+  created_at: '2016-06-24T10:33:57Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/realthunder/hmo_pcb/deployments
+  description: Headmaster PCB designs
+  disabled: false
+  downloads_url: https://api.github.com/repos/realthunder/hmo_pcb/downloads
+  events_url: https://api.github.com/repos/realthunder/hmo_pcb/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/realthunder/hmo_pcb/forks
+  full_name: realthunder/hmo_pcb
+  git_commits_url: https://api.github.com/repos/realthunder/hmo_pcb/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/realthunder/hmo_pcb/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/realthunder/hmo_pcb/git/tags{/sha}
+  git_url: git://github.com/realthunder/hmo_pcb.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/realthunder/hmo_pcb/hooks
+  html_url: https://github.com/realthunder/hmo_pcb
+  id: 61877343
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/realthunder/hmo_pcb/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/realthunder/hmo_pcb/issues/events{/number}
+  issues_url: https://api.github.com/repos/realthunder/hmo_pcb/issues{/number}
+  keys_url: https://api.github.com/repos/realthunder/hmo_pcb/keys{/key_id}
+  labels_url: https://api.github.com/repos/realthunder/hmo_pcb/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/realthunder/hmo_pcb/languages
+  license: null
+  merges_url: https://api.github.com/repos/realthunder/hmo_pcb/merges
+  milestones_url: https://api.github.com/repos/realthunder/hmo_pcb/milestones{/number}
+  mirror_url: null
+  name: hmo_pcb
+  node_id: MDEwOlJlcG9zaXRvcnk2MTg3NzM0Mw==
+  notifications_url: https://api.github.com/repos/realthunder/hmo_pcb/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1207888?v=4
+    events_url: https://api.github.com/users/realthunder/events{/privacy}
+    followers_url: https://api.github.com/users/realthunder/followers
+    following_url: https://api.github.com/users/realthunder/following{/other_user}
+    gists_url: https://api.github.com/users/realthunder/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/realthunder
+    id: 1207888
+    login: realthunder
+    node_id: MDQ6VXNlcjEyMDc4ODg=
+    organizations_url: https://api.github.com/users/realthunder/orgs
+    received_events_url: https://api.github.com/users/realthunder/received_events
+    repos_url: https://api.github.com/users/realthunder/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/realthunder/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/realthunder/subscriptions
+    type: User
+    url: https://api.github.com/users/realthunder
+  private: false
+  pulls_url: https://api.github.com/repos/realthunder/hmo_pcb/pulls{/number}
+  pushed_at: '2016-08-23T21:29:39Z'
+  releases_url: https://api.github.com/repos/realthunder/hmo_pcb/releases{/id}
+  size: 11
+  ssh_url: git@github.com:realthunder/hmo_pcb.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/realthunder/hmo_pcb/stargazers
+  statuses_url: https://api.github.com/repos/realthunder/hmo_pcb/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/realthunder/hmo_pcb/subscribers
+  subscription_url: https://api.github.com/repos/realthunder/hmo_pcb/subscription
+  svn_url: https://github.com/realthunder/hmo_pcb
+  tags_url: https://api.github.com/repos/realthunder/hmo_pcb/tags
+  teams_url: https://api.github.com/repos/realthunder/hmo_pcb/teams
+  topics: []
+  trees_url: https://api.github.com/repos/realthunder/hmo_pcb/git/trees{/sha}
+  updated_at: '2023-07-25T14:02:31Z'
+  url: https://api.github.com/repos/realthunder/hmo_pcb
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

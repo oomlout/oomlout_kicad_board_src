@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/assignees{/user}
-blobs_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/git/blobs{/sha}
-branches_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/branches{/branch}
-clone_url: https://github.com/NorbotNorway/TeensyProtoboard.git
-collaborators_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/comments{/number}
-commits_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/commits{/sha}
-compare_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/compare/{base}...{head}
-contents_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/contents/{+path}
-contributors_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/contributors
-created_at: '2016-03-25T10:03:58Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/deployments
-description: A Teensy breakout card
-disabled: false
-downloads_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/downloads
-events_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/forks
-full_name: NorbotNorway/TeensyProtoboard
-git_commits_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/git/tags{/sha}
-git_url: git://github.com/NorbotNorway/TeensyProtoboard.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/hooks
-html_url: https://github.com/NorbotNorway/TeensyProtoboard
-id: 54710997
-is_template: false
-issue_comment_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/issues/events{/number}
-issues_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/issues{/number}
-keys_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/keys{/key_id}
-labels_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/languages
-license: null
-merges_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/merges
-milestones_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/milestones{/number}
-mirror_url: null
-name: TeensyProtoboard
-node_id: MDEwOlJlcG9zaXRvcnk1NDcxMDk5Nw==
-notifications_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/15955867?v=4
-  events_url: https://api.github.com/users/NorbotNorway/events{/privacy}
-  followers_url: https://api.github.com/users/NorbotNorway/followers
-  following_url: https://api.github.com/users/NorbotNorway/following{/other_user}
-  gists_url: https://api.github.com/users/NorbotNorway/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/NorbotNorway
-  id: 15955867
-  login: NorbotNorway
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1OTU1ODY3
-  organizations_url: https://api.github.com/users/NorbotNorway/orgs
-  received_events_url: https://api.github.com/users/NorbotNorway/received_events
-  repos_url: https://api.github.com/users/NorbotNorway/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/NorbotNorway/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/NorbotNorway/subscriptions
-  type: Organization
-  url: https://api.github.com/users/NorbotNorway
-private: false
+links:
+  github_owner: NorbotNorway
+  github_repo_name: TeensyProtoboard
+  github_src: https://github.com/NorbotNorway/TeensyProtoboard
+  github_src_repo: https://github.com/NorbotNorway/TeensyProtoboard
+  oomp_bot: norbotnorway_teensyprotoboard
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/norbotnorway_teensyprotoboard
+  oomp_doc: projects/norbotnorway_teensyprotoboard/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/norbotnorway_teensyprotoboard
+  oomp_src_flat: projects_flat/norbotnorway_teensyprotoboard
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/norbotnorway_teensyprotoboard
+  oomp_src_folder: projects_folder\NorbotNorway\TeensyProtoboard\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\NorbotNorway\TeensyProtoboard\version_current\working
+oomp_key: oomp_norbotnorway_teensyprotoboard
+oomp_key_simple: norbotnorway_teensyprotoboard
 projects_flat: projects_flat/norbotnorway_teensyprotoboard/version_current/working
 projects_folder: projects_folder/NorbotNorway/TeensyProtoboard/version_current/working
-pulls_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/pulls{/number}
-pushed_at: '2016-03-25T12:30:31Z'
-releases_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/releases{/id}
-size: 448
-ssh_url: git@github.com:NorbotNorway/TeensyProtoboard.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/stargazers
-statuses_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/statuses/{sha}
-subscribers_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/subscribers
-subscription_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/subscription
-svn_url: https://github.com/NorbotNorway/TeensyProtoboard
-tags_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/tags
-teams_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/teams
-topics: []
-trees_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/git/trees{/sha}
-updated_at: '2019-10-11T13:49:21Z'
-url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/assignees{/user}
+  blobs_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/branches{/branch}
+  clone_url: https://github.com/NorbotNorway/TeensyProtoboard.git
+  collaborators_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/comments{/number}
+  commits_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/commits{/sha}
+  compare_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/contents/{+path}
+  contributors_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/contributors
+  created_at: '2016-03-25T10:03:58Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/deployments
+  description: A Teensy breakout card
+  disabled: false
+  downloads_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/downloads
+  events_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/forks
+  full_name: NorbotNorway/TeensyProtoboard
+  git_commits_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/git/tags{/sha}
+  git_url: git://github.com/NorbotNorway/TeensyProtoboard.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/hooks
+  html_url: https://github.com/NorbotNorway/TeensyProtoboard
+  id: 54710997
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/issues/events{/number}
+  issues_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/issues{/number}
+  keys_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/keys{/key_id}
+  labels_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/languages
+  license: null
+  merges_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/merges
+  milestones_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/milestones{/number}
+  mirror_url: null
+  name: TeensyProtoboard
+  node_id: MDEwOlJlcG9zaXRvcnk1NDcxMDk5Nw==
+  notifications_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/15955867?v=4
+    events_url: https://api.github.com/users/NorbotNorway/events{/privacy}
+    followers_url: https://api.github.com/users/NorbotNorway/followers
+    following_url: https://api.github.com/users/NorbotNorway/following{/other_user}
+    gists_url: https://api.github.com/users/NorbotNorway/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/NorbotNorway
+    id: 15955867
+    login: NorbotNorway
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1OTU1ODY3
+    organizations_url: https://api.github.com/users/NorbotNorway/orgs
+    received_events_url: https://api.github.com/users/NorbotNorway/received_events
+    repos_url: https://api.github.com/users/NorbotNorway/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/NorbotNorway/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/NorbotNorway/subscriptions
+    type: Organization
+    url: https://api.github.com/users/NorbotNorway
+  private: false
+  pulls_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/pulls{/number}
+  pushed_at: '2016-03-25T12:30:31Z'
+  releases_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/releases{/id}
+  size: 448
+  ssh_url: git@github.com:NorbotNorway/TeensyProtoboard.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/stargazers
+  statuses_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/subscribers
+  subscription_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/subscription
+  svn_url: https://github.com/NorbotNorway/TeensyProtoboard
+  tags_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/tags
+  teams_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/teams
+  topics: []
+  trees_url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard/git/trees{/sha}
+  updated_at: '2019-10-11T13:49:21Z'
+  url: https://api.github.com/repos/NorbotNorway/TeensyProtoboard
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

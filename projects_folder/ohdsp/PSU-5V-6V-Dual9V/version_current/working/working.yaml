@@ -1,111 +1,127 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/assignees{/user}
-blobs_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/branches{/branch}
-clone_url: https://github.com/ohdsp/PSU-5V-6V-Dual9V.git
-collaborators_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/comments{/number}
-commits_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/commits{/sha}
-compare_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/contents/{+path}
-contributors_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/contributors
-created_at: '2016-01-24T21:57:36Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/deployments
-description: A power supply for use with OHDSP boards. One 9Vac input. 5V, 6V and
-  +/-9V output rails.
-disabled: false
-downloads_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/downloads
-events_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/forks
-full_name: ohdsp/PSU-5V-6V-Dual9V
-git_commits_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/git/tags{/sha}
-git_url: git://github.com/ohdsp/PSU-5V-6V-Dual9V.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/hooks
-html_url: https://github.com/ohdsp/PSU-5V-6V-Dual9V
-id: 50310279
-is_template: false
-issue_comment_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/issues/events{/number}
-issues_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/issues{/number}
-keys_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/keys{/key_id}
-labels_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/merges
-milestones_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/milestones{/number}
-mirror_url: null
-name: PSU-5V-6V-Dual9V
-node_id: MDEwOlJlcG9zaXRvcnk1MDMxMDI3OQ==
-notifications_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16755757?v=4
-  events_url: https://api.github.com/users/ohdsp/events{/privacy}
-  followers_url: https://api.github.com/users/ohdsp/followers
-  following_url: https://api.github.com/users/ohdsp/following{/other_user}
-  gists_url: https://api.github.com/users/ohdsp/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ohdsp
-  id: 16755757
-  login: ohdsp
-  node_id: MDQ6VXNlcjE2NzU1NzU3
-  organizations_url: https://api.github.com/users/ohdsp/orgs
-  received_events_url: https://api.github.com/users/ohdsp/received_events
-  repos_url: https://api.github.com/users/ohdsp/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ohdsp/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ohdsp/subscriptions
-  type: User
-  url: https://api.github.com/users/ohdsp
-private: false
+links:
+  github_owner: ohdsp
+  github_repo_name: PSU-5V-6V-Dual9V
+  github_src: https://github.com/ohdsp/PSU-5V-6V-Dual9V
+  github_src_repo: https://github.com/ohdsp/PSU-5V-6V-Dual9V
+  oomp_bot: ohdsp_psu_5v_6v_dual9v
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/ohdsp_psu_5v_6v_dual9v
+  oomp_doc: projects/ohdsp_psu_5v_6v_dual9v/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/ohdsp_psu_5v_6v_dual9v
+  oomp_src_flat: projects_flat/ohdsp_psu_5v_6v_dual9v
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/ohdsp_psu_5v_6v_dual9v
+  oomp_src_folder: projects_folder\ohdsp\PSU-5V-6V-Dual9V\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ohdsp\PSU-5V-6V-Dual9V\version_current\working
+oomp_key: oomp_ohdsp_psu_5v_6v_dual9v
+oomp_key_simple: ohdsp_psu_5v_6v_dual9v
 projects_flat: projects_flat/ohdsp_psu_5v_6v_dual9v/version_current/working
 projects_folder: projects_folder/ohdsp/PSU-5V-6V-Dual9V/version_current/working
-pulls_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/pulls{/number}
-pushed_at: '2016-07-01T10:29:05Z'
-releases_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/releases{/id}
-size: 1438
-ssh_url: git@github.com:ohdsp/PSU-5V-6V-Dual9V.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/stargazers
-statuses_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/subscribers
-subscription_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/subscription
-svn_url: https://github.com/ohdsp/PSU-5V-6V-Dual9V
-tags_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/tags
-teams_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/teams
-topics:
-- audio
-- dsp
-- electronics
-- hardware
-- kicad
-- power
-trees_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/git/trees{/sha}
-updated_at: '2017-04-13T12:02:36Z'
-url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/assignees{/user}
+  blobs_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/branches{/branch}
+  clone_url: https://github.com/ohdsp/PSU-5V-6V-Dual9V.git
+  collaborators_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/comments{/number}
+  commits_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/commits{/sha}
+  compare_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/contents/{+path}
+  contributors_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/contributors
+  created_at: '2016-01-24T21:57:36Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/deployments
+  description: A power supply for use with OHDSP boards. One 9Vac input. 5V, 6V and
+    +/-9V output rails.
+  disabled: false
+  downloads_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/downloads
+  events_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/forks
+  full_name: ohdsp/PSU-5V-6V-Dual9V
+  git_commits_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/git/tags{/sha}
+  git_url: git://github.com/ohdsp/PSU-5V-6V-Dual9V.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/hooks
+  html_url: https://github.com/ohdsp/PSU-5V-6V-Dual9V
+  id: 50310279
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/issues/events{/number}
+  issues_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/issues{/number}
+  keys_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/keys{/key_id}
+  labels_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/merges
+  milestones_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/milestones{/number}
+  mirror_url: null
+  name: PSU-5V-6V-Dual9V
+  node_id: MDEwOlJlcG9zaXRvcnk1MDMxMDI3OQ==
+  notifications_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16755757?v=4
+    events_url: https://api.github.com/users/ohdsp/events{/privacy}
+    followers_url: https://api.github.com/users/ohdsp/followers
+    following_url: https://api.github.com/users/ohdsp/following{/other_user}
+    gists_url: https://api.github.com/users/ohdsp/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ohdsp
+    id: 16755757
+    login: ohdsp
+    node_id: MDQ6VXNlcjE2NzU1NzU3
+    organizations_url: https://api.github.com/users/ohdsp/orgs
+    received_events_url: https://api.github.com/users/ohdsp/received_events
+    repos_url: https://api.github.com/users/ohdsp/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ohdsp/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ohdsp/subscriptions
+    type: User
+    url: https://api.github.com/users/ohdsp
+  private: false
+  pulls_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/pulls{/number}
+  pushed_at: '2016-07-01T10:29:05Z'
+  releases_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/releases{/id}
+  size: 1438
+  ssh_url: git@github.com:ohdsp/PSU-5V-6V-Dual9V.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/stargazers
+  statuses_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/subscribers
+  subscription_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/subscription
+  svn_url: https://github.com/ohdsp/PSU-5V-6V-Dual9V
+  tags_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/tags
+  teams_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/teams
+  topics:
+  - audio
+  - dsp
+  - electronics
+  - hardware
+  - kicad
+  - power
+  trees_url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V/git/trees{/sha}
+  updated_at: '2017-04-13T12:02:36Z'
+  url: https://api.github.com/repos/ohdsp/PSU-5V-6V-Dual9V
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

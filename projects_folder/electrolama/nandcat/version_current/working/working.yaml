@@ -1,99 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/electrolama/nandcat/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/electrolama/nandcat/assignees{/user}
-blobs_url: https://api.github.com/repos/electrolama/nandcat/git/blobs{/sha}
-branches_url: https://api.github.com/repos/electrolama/nandcat/branches{/branch}
-clone_url: https://github.com/electrolama/nandcat.git
-collaborators_url: https://api.github.com/repos/electrolama/nandcat/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/electrolama/nandcat/comments{/number}
-commits_url: https://api.github.com/repos/electrolama/nandcat/commits{/sha}
-compare_url: https://api.github.com/repos/electrolama/nandcat/compare/{base}...{head}
-contents_url: https://api.github.com/repos/electrolama/nandcat/contents/{+path}
-contributors_url: https://api.github.com/repos/electrolama/nandcat/contributors
-created_at: '2019-11-08T18:15:32Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/electrolama/nandcat/deployments
-description: frivolous logic gate demonstrator
-disabled: false
-downloads_url: https://api.github.com/repos/electrolama/nandcat/downloads
-events_url: https://api.github.com/repos/electrolama/nandcat/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/electrolama/nandcat/forks
-full_name: electrolama/nandcat
-git_commits_url: https://api.github.com/repos/electrolama/nandcat/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/electrolama/nandcat/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/electrolama/nandcat/git/tags{/sha}
-git_url: git://github.com/electrolama/nandcat.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/electrolama/nandcat/hooks
-html_url: https://github.com/electrolama/nandcat
-id: 220523490
-is_template: false
-issue_comment_url: https://api.github.com/repos/electrolama/nandcat/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/electrolama/nandcat/issues/events{/number}
-issues_url: https://api.github.com/repos/electrolama/nandcat/issues{/number}
-keys_url: https://api.github.com/repos/electrolama/nandcat/keys{/key_id}
-labels_url: https://api.github.com/repos/electrolama/nandcat/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/electrolama/nandcat/languages
-license: null
-merges_url: https://api.github.com/repos/electrolama/nandcat/merges
-milestones_url: https://api.github.com/repos/electrolama/nandcat/milestones{/number}
-mirror_url: null
-name: nandcat
-node_id: MDEwOlJlcG9zaXRvcnkyMjA1MjM0OTA=
-notifications_url: https://api.github.com/repos/electrolama/nandcat/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/680280?v=4
-  events_url: https://api.github.com/users/electrolama/events{/privacy}
-  followers_url: https://api.github.com/users/electrolama/followers
-  following_url: https://api.github.com/users/electrolama/following{/other_user}
-  gists_url: https://api.github.com/users/electrolama/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/electrolama
-  id: 680280
-  login: electrolama
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY4MDI4MA==
-  organizations_url: https://api.github.com/users/electrolama/orgs
-  received_events_url: https://api.github.com/users/electrolama/received_events
-  repos_url: https://api.github.com/users/electrolama/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/electrolama/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/electrolama/subscriptions
-  type: Organization
-  url: https://api.github.com/users/electrolama
-private: false
+links:
+  github_owner: electrolama
+  github_repo_name: nandcat
+  github_src: https://github.com/electrolama/nandcat
+  github_src_repo: https://github.com/electrolama/nandcat
+  oomp_bot: electrolama_nandcat
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electrolama_nandcat
+  oomp_doc: projects/electrolama_nandcat/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electrolama_nandcat
+  oomp_src_flat: projects_flat/electrolama_nandcat
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electrolama_nandcat
+  oomp_src_folder: projects_folder\electrolama\nandcat\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\electrolama\nandcat\version_current\working
+oomp_key: oomp_electrolama_nandcat
+oomp_key_simple: electrolama_nandcat
+projects_flat: projects_flat/electrolama_nandcat/version_current/working
 projects_flat_folder: projects_flat_folder/electrolama_nandcat/version_current/working
 projects_folder: projects_folder/electrolama/nandcat/version_current/working
-pulls_url: https://api.github.com/repos/electrolama/nandcat/pulls{/number}
-pushed_at: '2019-11-08T22:44:36Z'
-releases_url: https://api.github.com/repos/electrolama/nandcat/releases{/id}
-size: 320
-ssh_url: git@github.com:electrolama/nandcat.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/electrolama/nandcat/stargazers
-statuses_url: https://api.github.com/repos/electrolama/nandcat/statuses/{sha}
-subscribers_url: https://api.github.com/repos/electrolama/nandcat/subscribers
-subscription_url: https://api.github.com/repos/electrolama/nandcat/subscription
-svn_url: https://github.com/electrolama/nandcat
-tags_url: https://api.github.com/repos/electrolama/nandcat/tags
-teams_url: https://api.github.com/repos/electrolama/nandcat/teams
-topics: []
-trees_url: https://api.github.com/repos/electrolama/nandcat/git/trees{/sha}
-updated_at: '2019-11-08T22:44:38Z'
-url: https://api.github.com/repos/electrolama/nandcat
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/electrolama/nandcat/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/electrolama/nandcat/assignees{/user}
+  blobs_url: https://api.github.com/repos/electrolama/nandcat/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/electrolama/nandcat/branches{/branch}
+  clone_url: https://github.com/electrolama/nandcat.git
+  collaborators_url: https://api.github.com/repos/electrolama/nandcat/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/electrolama/nandcat/comments{/number}
+  commits_url: https://api.github.com/repos/electrolama/nandcat/commits{/sha}
+  compare_url: https://api.github.com/repos/electrolama/nandcat/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/electrolama/nandcat/contents/{+path}
+  contributors_url: https://api.github.com/repos/electrolama/nandcat/contributors
+  created_at: '2019-11-08T18:15:32Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/electrolama/nandcat/deployments
+  description: frivolous logic gate demonstrator
+  disabled: false
+  downloads_url: https://api.github.com/repos/electrolama/nandcat/downloads
+  events_url: https://api.github.com/repos/electrolama/nandcat/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/electrolama/nandcat/forks
+  full_name: electrolama/nandcat
+  git_commits_url: https://api.github.com/repos/electrolama/nandcat/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/electrolama/nandcat/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/electrolama/nandcat/git/tags{/sha}
+  git_url: git://github.com/electrolama/nandcat.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/electrolama/nandcat/hooks
+  html_url: https://github.com/electrolama/nandcat
+  id: 220523490
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/electrolama/nandcat/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/electrolama/nandcat/issues/events{/number}
+  issues_url: https://api.github.com/repos/electrolama/nandcat/issues{/number}
+  keys_url: https://api.github.com/repos/electrolama/nandcat/keys{/key_id}
+  labels_url: https://api.github.com/repos/electrolama/nandcat/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/electrolama/nandcat/languages
+  license: null
+  merges_url: https://api.github.com/repos/electrolama/nandcat/merges
+  milestones_url: https://api.github.com/repos/electrolama/nandcat/milestones{/number}
+  mirror_url: null
+  name: nandcat
+  node_id: MDEwOlJlcG9zaXRvcnkyMjA1MjM0OTA=
+  notifications_url: https://api.github.com/repos/electrolama/nandcat/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/680280?v=4
+    events_url: https://api.github.com/users/electrolama/events{/privacy}
+    followers_url: https://api.github.com/users/electrolama/followers
+    following_url: https://api.github.com/users/electrolama/following{/other_user}
+    gists_url: https://api.github.com/users/electrolama/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/electrolama
+    id: 680280
+    login: electrolama
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY4MDI4MA==
+    organizations_url: https://api.github.com/users/electrolama/orgs
+    received_events_url: https://api.github.com/users/electrolama/received_events
+    repos_url: https://api.github.com/users/electrolama/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/electrolama/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/electrolama/subscriptions
+    type: Organization
+    url: https://api.github.com/users/electrolama
+  private: false
+  pulls_url: https://api.github.com/repos/electrolama/nandcat/pulls{/number}
+  pushed_at: '2019-11-08T22:44:36Z'
+  releases_url: https://api.github.com/repos/electrolama/nandcat/releases{/id}
+  size: 320
+  ssh_url: git@github.com:electrolama/nandcat.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/electrolama/nandcat/stargazers
+  statuses_url: https://api.github.com/repos/electrolama/nandcat/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/electrolama/nandcat/subscribers
+  subscription_url: https://api.github.com/repos/electrolama/nandcat/subscription
+  svn_url: https://github.com/electrolama/nandcat
+  tags_url: https://api.github.com/repos/electrolama/nandcat/tags
+  teams_url: https://api.github.com/repos/electrolama/nandcat/teams
+  topics: []
+  trees_url: https://api.github.com/repos/electrolama/nandcat/git/trees{/sha}
+  updated_at: '2019-11-08T22:44:38Z'
+  url: https://api.github.com/repos/electrolama/nandcat
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

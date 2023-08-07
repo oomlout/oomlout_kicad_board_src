@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/DonutCables/vial-qmk/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/DonutCables/vial-qmk/assignees{/user}
-blobs_url: https://api.github.com/repos/DonutCables/vial-qmk/git/blobs{/sha}
-branches_url: https://api.github.com/repos/DonutCables/vial-qmk/branches{/branch}
-clone_url: https://github.com/DonutCables/vial-qmk.git
-collaborators_url: https://api.github.com/repos/DonutCables/vial-qmk/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/DonutCables/vial-qmk/comments{/number}
-commits_url: https://api.github.com/repos/DonutCables/vial-qmk/commits{/sha}
-compare_url: https://api.github.com/repos/DonutCables/vial-qmk/compare/{base}...{head}
-contents_url: https://api.github.com/repos/DonutCables/vial-qmk/contents/{+path}
-contributors_url: https://api.github.com/repos/DonutCables/vial-qmk/contributors
-created_at: '2021-06-20T20:47:16Z'
-default_branch: vial
-deployments_url: https://api.github.com/repos/DonutCables/vial-qmk/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/DonutCables/vial-qmk/downloads
-events_url: https://api.github.com/repos/DonutCables/vial-qmk/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/DonutCables/vial-qmk/forks
-full_name: DonutCables/vial-qmk
-git_commits_url: https://api.github.com/repos/DonutCables/vial-qmk/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/DonutCables/vial-qmk/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/DonutCables/vial-qmk/git/tags{/sha}
-git_url: git://github.com/DonutCables/vial-qmk.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: https://get.vial.today/
-hooks_url: https://api.github.com/repos/DonutCables/vial-qmk/hooks
-html_url: https://github.com/DonutCables/vial-qmk
-id: 378737197
-is_template: false
-issue_comment_url: https://api.github.com/repos/DonutCables/vial-qmk/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/DonutCables/vial-qmk/issues/events{/number}
-issues_url: https://api.github.com/repos/DonutCables/vial-qmk/issues{/number}
-keys_url: https://api.github.com/repos/DonutCables/vial-qmk/keys{/key_id}
-labels_url: https://api.github.com/repos/DonutCables/vial-qmk/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/DonutCables/vial-qmk/languages
-license:
-  key: gpl-2.0
-  name: GNU General Public License v2.0
-  node_id: MDc6TGljZW5zZTg=
-  spdx_id: GPL-2.0
-  url: https://api.github.com/licenses/gpl-2.0
-merges_url: https://api.github.com/repos/DonutCables/vial-qmk/merges
-milestones_url: https://api.github.com/repos/DonutCables/vial-qmk/milestones{/number}
-mirror_url: null
-name: vial-qmk
-node_id: MDEwOlJlcG9zaXRvcnkzNzg3MzcxOTc=
-notifications_url: https://api.github.com/repos/DonutCables/vial-qmk/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/19825893?v=4
-  events_url: https://api.github.com/users/DonutCables/events{/privacy}
-  followers_url: https://api.github.com/users/DonutCables/followers
-  following_url: https://api.github.com/users/DonutCables/following{/other_user}
-  gists_url: https://api.github.com/users/DonutCables/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/DonutCables
-  id: 19825893
-  login: DonutCables
-  node_id: MDQ6VXNlcjE5ODI1ODkz
-  organizations_url: https://api.github.com/users/DonutCables/orgs
-  received_events_url: https://api.github.com/users/DonutCables/received_events
-  repos_url: https://api.github.com/users/DonutCables/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/DonutCables/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/DonutCables/subscriptions
-  type: User
-  url: https://api.github.com/users/DonutCables
-private: false
+links:
+  github_owner: DonutCables
+  github_repo_name: vial-qmk
+  github_src: https://github.com/DonutCables/vial-qmk
+  github_src_repo: https://github.com/DonutCables/vial-qmk
+  oomp_bot: donutcables_vial_qmk
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/donutcables_vial_qmk
+  oomp_doc: projects/donutcables_vial_qmk/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/donutcables_vial_qmk
+  oomp_src_flat: projects_flat/donutcables_vial_qmk
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/donutcables_vial_qmk
+  oomp_src_folder: projects_folder\DonutCables\vial-qmk\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\DonutCables\vial-qmk\version_current\working
+oomp_key: oomp_donutcables_vial_qmk
+oomp_key_simple: donutcables_vial_qmk
 projects_flat: projects_flat/donutcables_vial_qmk/version_current/working
 projects_folder: projects_folder/DonutCables/vial-qmk/version_current/working
-pulls_url: https://api.github.com/repos/DonutCables/vial-qmk/pulls{/number}
-pushed_at: '2023-04-28T21:09:33Z'
-releases_url: https://api.github.com/repos/DonutCables/vial-qmk/releases{/id}
-size: 204396
-ssh_url: git@github.com:DonutCables/vial-qmk.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/DonutCables/vial-qmk/stargazers
-statuses_url: https://api.github.com/repos/DonutCables/vial-qmk/statuses/{sha}
-subscribers_url: https://api.github.com/repos/DonutCables/vial-qmk/subscribers
-subscription_url: https://api.github.com/repos/DonutCables/vial-qmk/subscription
-svn_url: https://github.com/DonutCables/vial-qmk
-tags_url: https://api.github.com/repos/DonutCables/vial-qmk/tags
-teams_url: https://api.github.com/repos/DonutCables/vial-qmk/teams
-topics: []
-trees_url: https://api.github.com/repos/DonutCables/vial-qmk/git/trees{/sha}
-updated_at: '2022-08-08T17:11:09Z'
-url: https://api.github.com/repos/DonutCables/vial-qmk
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/DonutCables/vial-qmk/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/DonutCables/vial-qmk/assignees{/user}
+  blobs_url: https://api.github.com/repos/DonutCables/vial-qmk/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/DonutCables/vial-qmk/branches{/branch}
+  clone_url: https://github.com/DonutCables/vial-qmk.git
+  collaborators_url: https://api.github.com/repos/DonutCables/vial-qmk/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/DonutCables/vial-qmk/comments{/number}
+  commits_url: https://api.github.com/repos/DonutCables/vial-qmk/commits{/sha}
+  compare_url: https://api.github.com/repos/DonutCables/vial-qmk/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/DonutCables/vial-qmk/contents/{+path}
+  contributors_url: https://api.github.com/repos/DonutCables/vial-qmk/contributors
+  created_at: '2021-06-20T20:47:16Z'
+  default_branch: vial
+  deployments_url: https://api.github.com/repos/DonutCables/vial-qmk/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/DonutCables/vial-qmk/downloads
+  events_url: https://api.github.com/repos/DonutCables/vial-qmk/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/DonutCables/vial-qmk/forks
+  full_name: DonutCables/vial-qmk
+  git_commits_url: https://api.github.com/repos/DonutCables/vial-qmk/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/DonutCables/vial-qmk/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/DonutCables/vial-qmk/git/tags{/sha}
+  git_url: git://github.com/DonutCables/vial-qmk.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: https://get.vial.today/
+  hooks_url: https://api.github.com/repos/DonutCables/vial-qmk/hooks
+  html_url: https://github.com/DonutCables/vial-qmk
+  id: 378737197
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/DonutCables/vial-qmk/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/DonutCables/vial-qmk/issues/events{/number}
+  issues_url: https://api.github.com/repos/DonutCables/vial-qmk/issues{/number}
+  keys_url: https://api.github.com/repos/DonutCables/vial-qmk/keys{/key_id}
+  labels_url: https://api.github.com/repos/DonutCables/vial-qmk/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/DonutCables/vial-qmk/languages
+  license:
+    key: gpl-2.0
+    name: GNU General Public License v2.0
+    node_id: MDc6TGljZW5zZTg=
+    spdx_id: GPL-2.0
+    url: https://api.github.com/licenses/gpl-2.0
+  merges_url: https://api.github.com/repos/DonutCables/vial-qmk/merges
+  milestones_url: https://api.github.com/repos/DonutCables/vial-qmk/milestones{/number}
+  mirror_url: null
+  name: vial-qmk
+  node_id: MDEwOlJlcG9zaXRvcnkzNzg3MzcxOTc=
+  notifications_url: https://api.github.com/repos/DonutCables/vial-qmk/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/19825893?v=4
+    events_url: https://api.github.com/users/DonutCables/events{/privacy}
+    followers_url: https://api.github.com/users/DonutCables/followers
+    following_url: https://api.github.com/users/DonutCables/following{/other_user}
+    gists_url: https://api.github.com/users/DonutCables/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/DonutCables
+    id: 19825893
+    login: DonutCables
+    node_id: MDQ6VXNlcjE5ODI1ODkz
+    organizations_url: https://api.github.com/users/DonutCables/orgs
+    received_events_url: https://api.github.com/users/DonutCables/received_events
+    repos_url: https://api.github.com/users/DonutCables/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/DonutCables/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/DonutCables/subscriptions
+    type: User
+    url: https://api.github.com/users/DonutCables
+  private: false
+  pulls_url: https://api.github.com/repos/DonutCables/vial-qmk/pulls{/number}
+  pushed_at: '2023-04-28T21:09:33Z'
+  releases_url: https://api.github.com/repos/DonutCables/vial-qmk/releases{/id}
+  size: 204396
+  ssh_url: git@github.com:DonutCables/vial-qmk.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/DonutCables/vial-qmk/stargazers
+  statuses_url: https://api.github.com/repos/DonutCables/vial-qmk/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/DonutCables/vial-qmk/subscribers
+  subscription_url: https://api.github.com/repos/DonutCables/vial-qmk/subscription
+  svn_url: https://github.com/DonutCables/vial-qmk
+  tags_url: https://api.github.com/repos/DonutCables/vial-qmk/tags
+  teams_url: https://api.github.com/repos/DonutCables/vial-qmk/teams
+  topics: []
+  trees_url: https://api.github.com/repos/DonutCables/vial-qmk/git/trees{/sha}
+  updated_at: '2022-08-08T17:11:09Z'
+  url: https://api.github.com/repos/DonutCables/vial-qmk
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

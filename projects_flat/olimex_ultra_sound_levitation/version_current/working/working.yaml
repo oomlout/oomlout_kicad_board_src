@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/branches{/branch}
-clone_url: https://github.com/OLIMEX/Ultra-Sound-Levitation.git
-collaborators_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/contributors
-created_at: '2022-10-12T10:30:12Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/deployments
-description: Ultra Sound Levitation board with two speakers and potentiometer
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/downloads
-events_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/forks
-full_name: OLIMEX/Ultra-Sound-Levitation
-git_commits_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/git/tags{/sha}
-git_url: git://github.com/OLIMEX/Ultra-Sound-Levitation.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/hooks
-html_url: https://github.com/OLIMEX/Ultra-Sound-Levitation
-id: 550179894
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/merges
-milestones_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/milestones{/number}
-mirror_url: null
-name: Ultra-Sound-Levitation
-node_id: R_kgDOIMsUNg
-notifications_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: Ultra-Sound-Levitation
+  github_src: https://github.com/OLIMEX/Ultra-Sound-Levitation
+  github_src_repo: https://github.com/OLIMEX/Ultra-Sound-Levitation
+  oomp_bot: projects_olimex_ultra_sound_levitation
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_olimex_ultra_sound_levitation
+  oomp_doc: projects/projects_flat_olimex_ultra_sound_levitation/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_olimex_ultra_sound_levitation
+  oomp_src_flat: projects_flat/projects_flat_olimex_ultra_sound_levitation
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_olimex_ultra_sound_levitation
+  oomp_src_folder: projects_flat\olimex_ultra_sound_levitation\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\olimex_ultra_sound_levitation\version_current\working
+oomp_key: oomp_projects_flat_olimex_ultra_sound_levitation
+oomp_key_simple: projects_flat_olimex_ultra_sound_levitation
 projects_flat: projects_flat/olimex_ultra_sound_levitation/version_current/working
 projects_folder: projects_folder/OLIMEX/Ultra-Sound-Levitation/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/pulls{/number}
-pushed_at: '2022-10-17T12:02:04Z'
-releases_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/releases{/id}
-size: 473
-ssh_url: git@github.com:OLIMEX/Ultra-Sound-Levitation.git
-stargazers_count: 20
-stargazers_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/subscription
-svn_url: https://github.com/OLIMEX/Ultra-Sound-Levitation
-tags_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/tags
-teams_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/git/trees{/sha}
-updated_at: '2023-07-23T20:25:15Z'
-url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation
-visibility: public
-watchers: 20
-watchers_count: 20
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/branches{/branch}
+  clone_url: https://github.com/OLIMEX/Ultra-Sound-Levitation.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/contributors
+  created_at: '2022-10-12T10:30:12Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/deployments
+  description: Ultra Sound Levitation board with two speakers and potentiometer
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/downloads
+  events_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/forks
+  full_name: OLIMEX/Ultra-Sound-Levitation
+  git_commits_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/Ultra-Sound-Levitation.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/hooks
+  html_url: https://github.com/OLIMEX/Ultra-Sound-Levitation
+  id: 550179894
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/milestones{/number}
+  mirror_url: null
+  name: Ultra-Sound-Levitation
+  node_id: R_kgDOIMsUNg
+  notifications_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/pulls{/number}
+  pushed_at: '2022-10-17T12:02:04Z'
+  releases_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/releases{/id}
+  size: 473
+  ssh_url: git@github.com:OLIMEX/Ultra-Sound-Levitation.git
+  stargazers_count: 20
+  stargazers_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/subscription
+  svn_url: https://github.com/OLIMEX/Ultra-Sound-Levitation
+  tags_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/tags
+  teams_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation/git/trees{/sha}
+  updated_at: '2023-07-23T20:25:15Z'
+  url: https://api.github.com/repos/OLIMEX/Ultra-Sound-Levitation
+  visibility: public
+  watchers: 20
+  watchers_count: 20
+  web_commit_signoff_required: false

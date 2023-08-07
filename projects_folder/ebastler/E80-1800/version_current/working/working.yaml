@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ebastler/E80-1800/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ebastler/E80-1800/assignees{/user}
-blobs_url: https://api.github.com/repos/ebastler/E80-1800/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ebastler/E80-1800/branches{/branch}
-clone_url: https://github.com/ebastler/E80-1800.git
-collaborators_url: https://api.github.com/repos/ebastler/E80-1800/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ebastler/E80-1800/comments{/number}
-commits_url: https://api.github.com/repos/ebastler/E80-1800/commits{/sha}
-compare_url: https://api.github.com/repos/ebastler/E80-1800/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ebastler/E80-1800/contents/{+path}
-contributors_url: https://api.github.com/repos/ebastler/E80-1800/contributors
-created_at: '2020-05-25T08:55:19Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ebastler/E80-1800/deployments
-description: QMK compatible PCB replacement for Cherry G80-1800
-disabled: false
-downloads_url: https://api.github.com/repos/ebastler/E80-1800/downloads
-events_url: https://api.github.com/repos/ebastler/E80-1800/events
-fork: false
-forks: 11
-forks_count: 11
-forks_url: https://api.github.com/repos/ebastler/E80-1800/forks
-full_name: ebastler/E80-1800
-git_commits_url: https://api.github.com/repos/ebastler/E80-1800/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ebastler/E80-1800/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ebastler/E80-1800/git/tags{/sha}
-git_url: git://github.com/ebastler/E80-1800.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ebastler/E80-1800/hooks
-html_url: https://github.com/ebastler/E80-1800
-id: 266730981
-is_template: false
-issue_comment_url: https://api.github.com/repos/ebastler/E80-1800/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ebastler/E80-1800/issues/events{/number}
-issues_url: https://api.github.com/repos/ebastler/E80-1800/issues{/number}
-keys_url: https://api.github.com/repos/ebastler/E80-1800/keys{/key_id}
-labels_url: https://api.github.com/repos/ebastler/E80-1800/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ebastler/E80-1800/languages
-license:
-  key: bsd-2-clause
-  name: BSD 2-Clause "Simplified" License
-  node_id: MDc6TGljZW5zZTQ=
-  spdx_id: BSD-2-Clause
-  url: https://api.github.com/licenses/bsd-2-clause
-merges_url: https://api.github.com/repos/ebastler/E80-1800/merges
-milestones_url: https://api.github.com/repos/ebastler/E80-1800/milestones{/number}
-mirror_url: null
-name: E80-1800
-node_id: MDEwOlJlcG9zaXRvcnkyNjY3MzA5ODE=
-notifications_url: https://api.github.com/repos/ebastler/E80-1800/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/22500643?v=4
-  events_url: https://api.github.com/users/ebastler/events{/privacy}
-  followers_url: https://api.github.com/users/ebastler/followers
-  following_url: https://api.github.com/users/ebastler/following{/other_user}
-  gists_url: https://api.github.com/users/ebastler/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ebastler
-  id: 22500643
-  login: ebastler
-  node_id: MDQ6VXNlcjIyNTAwNjQz
-  organizations_url: https://api.github.com/users/ebastler/orgs
-  received_events_url: https://api.github.com/users/ebastler/received_events
-  repos_url: https://api.github.com/users/ebastler/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ebastler/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ebastler/subscriptions
-  type: User
-  url: https://api.github.com/users/ebastler
-private: false
+links:
+  github_owner: ebastler
+  github_repo_name: E80-1800
+  github_src: https://github.com/ebastler/E80-1800
+  github_src_repo: https://github.com/ebastler/E80-1800
+  oomp_bot: ebastler_e80_1800
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/ebastler_e80_1800
+  oomp_doc: projects/ebastler_e80_1800/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/ebastler_e80_1800
+  oomp_src_flat: projects_flat/ebastler_e80_1800
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/ebastler_e80_1800
+  oomp_src_folder: projects_folder\ebastler\E80-1800\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ebastler\E80-1800\version_current\working
+oomp_key: oomp_ebastler_e80_1800
+oomp_key_simple: ebastler_e80_1800
 projects_flat: projects_flat/ebastler_e80_1800/version_current/working
 projects_folder: projects_folder/ebastler/E80-1800/version_current/working
-pulls_url: https://api.github.com/repos/ebastler/E80-1800/pulls{/number}
-pushed_at: '2022-08-12T17:40:50Z'
-releases_url: https://api.github.com/repos/ebastler/E80-1800/releases{/id}
-size: 25486
-ssh_url: git@github.com:ebastler/E80-1800.git
-stargazers_count: 60
-stargazers_url: https://api.github.com/repos/ebastler/E80-1800/stargazers
-statuses_url: https://api.github.com/repos/ebastler/E80-1800/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ebastler/E80-1800/subscribers
-subscription_url: https://api.github.com/repos/ebastler/E80-1800/subscription
-svn_url: https://github.com/ebastler/E80-1800
-tags_url: https://api.github.com/repos/ebastler/E80-1800/tags
-teams_url: https://api.github.com/repos/ebastler/E80-1800/teams
-topics: []
-trees_url: https://api.github.com/repos/ebastler/E80-1800/git/trees{/sha}
-updated_at: '2023-06-18T16:44:00Z'
-url: https://api.github.com/repos/ebastler/E80-1800
-visibility: public
-watchers: 60
-watchers_count: 60
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ebastler/E80-1800/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ebastler/E80-1800/assignees{/user}
+  blobs_url: https://api.github.com/repos/ebastler/E80-1800/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ebastler/E80-1800/branches{/branch}
+  clone_url: https://github.com/ebastler/E80-1800.git
+  collaborators_url: https://api.github.com/repos/ebastler/E80-1800/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ebastler/E80-1800/comments{/number}
+  commits_url: https://api.github.com/repos/ebastler/E80-1800/commits{/sha}
+  compare_url: https://api.github.com/repos/ebastler/E80-1800/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ebastler/E80-1800/contents/{+path}
+  contributors_url: https://api.github.com/repos/ebastler/E80-1800/contributors
+  created_at: '2020-05-25T08:55:19Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ebastler/E80-1800/deployments
+  description: QMK compatible PCB replacement for Cherry G80-1800
+  disabled: false
+  downloads_url: https://api.github.com/repos/ebastler/E80-1800/downloads
+  events_url: https://api.github.com/repos/ebastler/E80-1800/events
+  fork: false
+  forks: 11
+  forks_count: 11
+  forks_url: https://api.github.com/repos/ebastler/E80-1800/forks
+  full_name: ebastler/E80-1800
+  git_commits_url: https://api.github.com/repos/ebastler/E80-1800/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ebastler/E80-1800/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ebastler/E80-1800/git/tags{/sha}
+  git_url: git://github.com/ebastler/E80-1800.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ebastler/E80-1800/hooks
+  html_url: https://github.com/ebastler/E80-1800
+  id: 266730981
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ebastler/E80-1800/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ebastler/E80-1800/issues/events{/number}
+  issues_url: https://api.github.com/repos/ebastler/E80-1800/issues{/number}
+  keys_url: https://api.github.com/repos/ebastler/E80-1800/keys{/key_id}
+  labels_url: https://api.github.com/repos/ebastler/E80-1800/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ebastler/E80-1800/languages
+  license:
+    key: bsd-2-clause
+    name: BSD 2-Clause "Simplified" License
+    node_id: MDc6TGljZW5zZTQ=
+    spdx_id: BSD-2-Clause
+    url: https://api.github.com/licenses/bsd-2-clause
+  merges_url: https://api.github.com/repos/ebastler/E80-1800/merges
+  milestones_url: https://api.github.com/repos/ebastler/E80-1800/milestones{/number}
+  mirror_url: null
+  name: E80-1800
+  node_id: MDEwOlJlcG9zaXRvcnkyNjY3MzA5ODE=
+  notifications_url: https://api.github.com/repos/ebastler/E80-1800/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/22500643?v=4
+    events_url: https://api.github.com/users/ebastler/events{/privacy}
+    followers_url: https://api.github.com/users/ebastler/followers
+    following_url: https://api.github.com/users/ebastler/following{/other_user}
+    gists_url: https://api.github.com/users/ebastler/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ebastler
+    id: 22500643
+    login: ebastler
+    node_id: MDQ6VXNlcjIyNTAwNjQz
+    organizations_url: https://api.github.com/users/ebastler/orgs
+    received_events_url: https://api.github.com/users/ebastler/received_events
+    repos_url: https://api.github.com/users/ebastler/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ebastler/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ebastler/subscriptions
+    type: User
+    url: https://api.github.com/users/ebastler
+  private: false
+  pulls_url: https://api.github.com/repos/ebastler/E80-1800/pulls{/number}
+  pushed_at: '2022-08-12T17:40:50Z'
+  releases_url: https://api.github.com/repos/ebastler/E80-1800/releases{/id}
+  size: 25486
+  ssh_url: git@github.com:ebastler/E80-1800.git
+  stargazers_count: 60
+  stargazers_url: https://api.github.com/repos/ebastler/E80-1800/stargazers
+  statuses_url: https://api.github.com/repos/ebastler/E80-1800/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ebastler/E80-1800/subscribers
+  subscription_url: https://api.github.com/repos/ebastler/E80-1800/subscription
+  svn_url: https://github.com/ebastler/E80-1800
+  tags_url: https://api.github.com/repos/ebastler/E80-1800/tags
+  teams_url: https://api.github.com/repos/ebastler/E80-1800/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ebastler/E80-1800/git/trees{/sha}
+  updated_at: '2023-06-18T16:44:00Z'
+  url: https://api.github.com/repos/ebastler/E80-1800
+  visibility: public
+  watchers: 60
+  watchers_count: 60
+  web_commit_signoff_required: false

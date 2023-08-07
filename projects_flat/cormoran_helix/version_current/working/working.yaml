@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/cormoran/helix/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/cormoran/helix/assignees{/user}
-blobs_url: https://api.github.com/repos/cormoran/helix/git/blobs{/sha}
-branches_url: https://api.github.com/repos/cormoran/helix/branches{/branch}
-clone_url: https://github.com/cormoran/helix.git
-collaborators_url: https://api.github.com/repos/cormoran/helix/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/cormoran/helix/comments{/number}
-commits_url: https://api.github.com/repos/cormoran/helix/commits{/sha}
-compare_url: https://api.github.com/repos/cormoran/helix/compare/{base}...{head}
-contents_url: https://api.github.com/repos/cormoran/helix/contents/{+path}
-contributors_url: https://api.github.com/repos/cormoran/helix/contributors
-created_at: '2019-02-06T05:28:25Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/cormoran/helix/deployments
-description: A compact split ortholinear keyboard.
-disabled: false
-downloads_url: https://api.github.com/repos/cormoran/helix/downloads
-events_url: https://api.github.com/repos/cormoran/helix/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/cormoran/helix/forks
-full_name: cormoran/helix
-git_commits_url: https://api.github.com/repos/cormoran/helix/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/cormoran/helix/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/cormoran/helix/git/tags{/sha}
-git_url: git://github.com/cormoran/helix.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/cormoran/helix/hooks
-html_url: https://github.com/cormoran/helix
-id: 169359515
-is_template: false
-issue_comment_url: https://api.github.com/repos/cormoran/helix/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/cormoran/helix/issues/events{/number}
-issues_url: https://api.github.com/repos/cormoran/helix/issues{/number}
-keys_url: https://api.github.com/repos/cormoran/helix/keys{/key_id}
-labels_url: https://api.github.com/repos/cormoran/helix/labels{/name}
-language: Python
-languages_url: https://api.github.com/repos/cormoran/helix/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/cormoran/helix/merges
-milestones_url: https://api.github.com/repos/cormoran/helix/milestones{/number}
-mirror_url: null
-name: helix
-node_id: MDEwOlJlcG9zaXRvcnkxNjkzNTk1MTU=
-notifications_url: https://api.github.com/repos/cormoran/helix/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/7994064?v=4
-  events_url: https://api.github.com/users/cormoran/events{/privacy}
-  followers_url: https://api.github.com/users/cormoran/followers
-  following_url: https://api.github.com/users/cormoran/following{/other_user}
-  gists_url: https://api.github.com/users/cormoran/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/cormoran
-  id: 7994064
-  login: cormoran
-  node_id: MDQ6VXNlcjc5OTQwNjQ=
-  organizations_url: https://api.github.com/users/cormoran/orgs
-  received_events_url: https://api.github.com/users/cormoran/received_events
-  repos_url: https://api.github.com/users/cormoran/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/cormoran/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/cormoran/subscriptions
-  type: User
-  url: https://api.github.com/users/cormoran
-private: false
+links:
+  github_owner: cormoran
+  github_repo_name: helix
+  github_src: https://github.com/cormoran/helix
+  github_src_repo: https://github.com/cormoran/helix
+  oomp_bot: projects_cormoran_helix
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_cormoran_helix
+  oomp_doc: projects/projects_flat_cormoran_helix/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_cormoran_helix
+  oomp_src_flat: projects_flat/projects_flat_cormoran_helix
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_cormoran_helix
+  oomp_src_folder: projects_flat\cormoran_helix\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\cormoran_helix\version_current\working
+oomp_key: oomp_projects_flat_cormoran_helix
+oomp_key_simple: projects_flat_cormoran_helix
 projects_flat: projects_flat/cormoran_helix/version_current/working
 projects_folder: projects_folder/cormoran/helix/version_current/working
-pulls_url: https://api.github.com/repos/cormoran/helix/pulls{/number}
-pushed_at: '2018-11-11T16:56:32Z'
-releases_url: https://api.github.com/repos/cormoran/helix/releases{/id}
-size: 3648
-ssh_url: git@github.com:cormoran/helix.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/cormoran/helix/stargazers
-statuses_url: https://api.github.com/repos/cormoran/helix/statuses/{sha}
-subscribers_url: https://api.github.com/repos/cormoran/helix/subscribers
-subscription_url: https://api.github.com/repos/cormoran/helix/subscription
-svn_url: https://github.com/cormoran/helix
-tags_url: https://api.github.com/repos/cormoran/helix/tags
-teams_url: https://api.github.com/repos/cormoran/helix/teams
-topics: []
-trees_url: https://api.github.com/repos/cormoran/helix/git/trees{/sha}
-updated_at: '2019-02-06T05:28:27Z'
-url: https://api.github.com/repos/cormoran/helix
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/cormoran/helix/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/cormoran/helix/assignees{/user}
+  blobs_url: https://api.github.com/repos/cormoran/helix/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/cormoran/helix/branches{/branch}
+  clone_url: https://github.com/cormoran/helix.git
+  collaborators_url: https://api.github.com/repos/cormoran/helix/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/cormoran/helix/comments{/number}
+  commits_url: https://api.github.com/repos/cormoran/helix/commits{/sha}
+  compare_url: https://api.github.com/repos/cormoran/helix/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/cormoran/helix/contents/{+path}
+  contributors_url: https://api.github.com/repos/cormoran/helix/contributors
+  created_at: '2019-02-06T05:28:25Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/cormoran/helix/deployments
+  description: A compact split ortholinear keyboard.
+  disabled: false
+  downloads_url: https://api.github.com/repos/cormoran/helix/downloads
+  events_url: https://api.github.com/repos/cormoran/helix/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/cormoran/helix/forks
+  full_name: cormoran/helix
+  git_commits_url: https://api.github.com/repos/cormoran/helix/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/cormoran/helix/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/cormoran/helix/git/tags{/sha}
+  git_url: git://github.com/cormoran/helix.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/cormoran/helix/hooks
+  html_url: https://github.com/cormoran/helix
+  id: 169359515
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/cormoran/helix/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/cormoran/helix/issues/events{/number}
+  issues_url: https://api.github.com/repos/cormoran/helix/issues{/number}
+  keys_url: https://api.github.com/repos/cormoran/helix/keys{/key_id}
+  labels_url: https://api.github.com/repos/cormoran/helix/labels{/name}
+  language: Python
+  languages_url: https://api.github.com/repos/cormoran/helix/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/cormoran/helix/merges
+  milestones_url: https://api.github.com/repos/cormoran/helix/milestones{/number}
+  mirror_url: null
+  name: helix
+  node_id: MDEwOlJlcG9zaXRvcnkxNjkzNTk1MTU=
+  notifications_url: https://api.github.com/repos/cormoran/helix/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/7994064?v=4
+    events_url: https://api.github.com/users/cormoran/events{/privacy}
+    followers_url: https://api.github.com/users/cormoran/followers
+    following_url: https://api.github.com/users/cormoran/following{/other_user}
+    gists_url: https://api.github.com/users/cormoran/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/cormoran
+    id: 7994064
+    login: cormoran
+    node_id: MDQ6VXNlcjc5OTQwNjQ=
+    organizations_url: https://api.github.com/users/cormoran/orgs
+    received_events_url: https://api.github.com/users/cormoran/received_events
+    repos_url: https://api.github.com/users/cormoran/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/cormoran/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/cormoran/subscriptions
+    type: User
+    url: https://api.github.com/users/cormoran
+  private: false
+  pulls_url: https://api.github.com/repos/cormoran/helix/pulls{/number}
+  pushed_at: '2018-11-11T16:56:32Z'
+  releases_url: https://api.github.com/repos/cormoran/helix/releases{/id}
+  size: 3648
+  ssh_url: git@github.com:cormoran/helix.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/cormoran/helix/stargazers
+  statuses_url: https://api.github.com/repos/cormoran/helix/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/cormoran/helix/subscribers
+  subscription_url: https://api.github.com/repos/cormoran/helix/subscription
+  svn_url: https://github.com/cormoran/helix
+  tags_url: https://api.github.com/repos/cormoran/helix/tags
+  teams_url: https://api.github.com/repos/cormoran/helix/teams
+  topics: []
+  trees_url: https://api.github.com/repos/cormoran/helix/git/trees{/sha}
+  updated_at: '2019-02-06T05:28:27Z'
+  url: https://api.github.com/repos/cormoran/helix
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

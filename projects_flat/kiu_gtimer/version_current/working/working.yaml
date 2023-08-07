@@ -1,108 +1,124 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/kiu/gtimer/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/kiu/gtimer/assignees{/user}
-blobs_url: https://api.github.com/repos/kiu/gtimer/git/blobs{/sha}
-branches_url: https://api.github.com/repos/kiu/gtimer/branches{/branch}
-clone_url: https://github.com/kiu/gtimer.git
-collaborators_url: https://api.github.com/repos/kiu/gtimer/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/kiu/gtimer/comments{/number}
-commits_url: https://api.github.com/repos/kiu/gtimer/commits{/sha}
-compare_url: https://api.github.com/repos/kiu/gtimer/compare/{base}...{head}
-contents_url: https://api.github.com/repos/kiu/gtimer/contents/{+path}
-contributors_url: https://api.github.com/repos/kiu/gtimer/contributors
-created_at: '2021-05-16T02:18:51Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/kiu/gtimer/deployments
-description: gtimer is a programmable controller for the GARDENA "Fully Automatic
-  Flower Box Watering" system.
-disabled: false
-downloads_url: https://api.github.com/repos/kiu/gtimer/downloads
-events_url: https://api.github.com/repos/kiu/gtimer/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/kiu/gtimer/forks
-full_name: kiu/gtimer
-git_commits_url: https://api.github.com/repos/kiu/gtimer/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/kiu/gtimer/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/kiu/gtimer/git/tags{/sha}
-git_url: git://github.com/kiu/gtimer.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: false
-has_wiki: false
-homepage: https://www.schoar.de/tinkering/gtimer
-hooks_url: https://api.github.com/repos/kiu/gtimer/hooks
-html_url: https://github.com/kiu/gtimer
-id: 367767747
-is_template: false
-issue_comment_url: https://api.github.com/repos/kiu/gtimer/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/kiu/gtimer/issues/events{/number}
-issues_url: https://api.github.com/repos/kiu/gtimer/issues{/number}
-keys_url: https://api.github.com/repos/kiu/gtimer/keys{/key_id}
-labels_url: https://api.github.com/repos/kiu/gtimer/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/kiu/gtimer/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/kiu/gtimer/merges
-milestones_url: https://api.github.com/repos/kiu/gtimer/milestones{/number}
-mirror_url: null
-name: gtimer
-node_id: MDEwOlJlcG9zaXRvcnkzNjc3Njc3NDc=
-notifications_url: https://api.github.com/repos/kiu/gtimer/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/785968?v=4
-  events_url: https://api.github.com/users/kiu/events{/privacy}
-  followers_url: https://api.github.com/users/kiu/followers
-  following_url: https://api.github.com/users/kiu/following{/other_user}
-  gists_url: https://api.github.com/users/kiu/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/kiu
-  id: 785968
-  login: kiu
-  node_id: MDQ6VXNlcjc4NTk2OA==
-  organizations_url: https://api.github.com/users/kiu/orgs
-  received_events_url: https://api.github.com/users/kiu/received_events
-  repos_url: https://api.github.com/users/kiu/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/kiu/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/kiu/subscriptions
-  type: User
-  url: https://api.github.com/users/kiu
-private: false
+links:
+  github_owner: kiu
+  github_repo_name: gtimer
+  github_src: https://github.com/kiu/gtimer
+  github_src_repo: https://github.com/kiu/gtimer
+  oomp_bot: projects_kiu_gtimer
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_kiu_gtimer
+  oomp_doc: projects/projects_flat_kiu_gtimer/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_kiu_gtimer
+  oomp_src_flat: projects_flat/projects_flat_kiu_gtimer
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_kiu_gtimer
+  oomp_src_folder: projects_flat\kiu_gtimer\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\kiu_gtimer\version_current\working
+oomp_key: oomp_projects_flat_kiu_gtimer
+oomp_key_simple: projects_flat_kiu_gtimer
 projects_flat: projects_flat/kiu_gtimer/version_current/working
 projects_folder: projects_folder/kiu/gtimer/version_current/working
-pulls_url: https://api.github.com/repos/kiu/gtimer/pulls{/number}
-pushed_at: '2021-06-09T11:02:01Z'
-releases_url: https://api.github.com/repos/kiu/gtimer/releases{/id}
-size: 5994
-ssh_url: git@github.com:kiu/gtimer.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/kiu/gtimer/stargazers
-statuses_url: https://api.github.com/repos/kiu/gtimer/statuses/{sha}
-subscribers_url: https://api.github.com/repos/kiu/gtimer/subscribers
-subscription_url: https://api.github.com/repos/kiu/gtimer/subscription
-svn_url: https://github.com/kiu/gtimer
-tags_url: https://api.github.com/repos/kiu/gtimer/tags
-teams_url: https://api.github.com/repos/kiu/gtimer/teams
-topics:
-- avr
-- gardena
-- watering
-trees_url: https://api.github.com/repos/kiu/gtimer/git/trees{/sha}
-updated_at: '2021-06-09T11:02:04Z'
-url: https://api.github.com/repos/kiu/gtimer
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/kiu/gtimer/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/kiu/gtimer/assignees{/user}
+  blobs_url: https://api.github.com/repos/kiu/gtimer/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/kiu/gtimer/branches{/branch}
+  clone_url: https://github.com/kiu/gtimer.git
+  collaborators_url: https://api.github.com/repos/kiu/gtimer/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/kiu/gtimer/comments{/number}
+  commits_url: https://api.github.com/repos/kiu/gtimer/commits{/sha}
+  compare_url: https://api.github.com/repos/kiu/gtimer/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/kiu/gtimer/contents/{+path}
+  contributors_url: https://api.github.com/repos/kiu/gtimer/contributors
+  created_at: '2021-05-16T02:18:51Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/kiu/gtimer/deployments
+  description: gtimer is a programmable controller for the GARDENA "Fully Automatic
+    Flower Box Watering" system.
+  disabled: false
+  downloads_url: https://api.github.com/repos/kiu/gtimer/downloads
+  events_url: https://api.github.com/repos/kiu/gtimer/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/kiu/gtimer/forks
+  full_name: kiu/gtimer
+  git_commits_url: https://api.github.com/repos/kiu/gtimer/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/kiu/gtimer/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/kiu/gtimer/git/tags{/sha}
+  git_url: git://github.com/kiu/gtimer.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: false
+  has_wiki: false
+  homepage: https://www.schoar.de/tinkering/gtimer
+  hooks_url: https://api.github.com/repos/kiu/gtimer/hooks
+  html_url: https://github.com/kiu/gtimer
+  id: 367767747
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/kiu/gtimer/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/kiu/gtimer/issues/events{/number}
+  issues_url: https://api.github.com/repos/kiu/gtimer/issues{/number}
+  keys_url: https://api.github.com/repos/kiu/gtimer/keys{/key_id}
+  labels_url: https://api.github.com/repos/kiu/gtimer/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/kiu/gtimer/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/kiu/gtimer/merges
+  milestones_url: https://api.github.com/repos/kiu/gtimer/milestones{/number}
+  mirror_url: null
+  name: gtimer
+  node_id: MDEwOlJlcG9zaXRvcnkzNjc3Njc3NDc=
+  notifications_url: https://api.github.com/repos/kiu/gtimer/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/785968?v=4
+    events_url: https://api.github.com/users/kiu/events{/privacy}
+    followers_url: https://api.github.com/users/kiu/followers
+    following_url: https://api.github.com/users/kiu/following{/other_user}
+    gists_url: https://api.github.com/users/kiu/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/kiu
+    id: 785968
+    login: kiu
+    node_id: MDQ6VXNlcjc4NTk2OA==
+    organizations_url: https://api.github.com/users/kiu/orgs
+    received_events_url: https://api.github.com/users/kiu/received_events
+    repos_url: https://api.github.com/users/kiu/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/kiu/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/kiu/subscriptions
+    type: User
+    url: https://api.github.com/users/kiu
+  private: false
+  pulls_url: https://api.github.com/repos/kiu/gtimer/pulls{/number}
+  pushed_at: '2021-06-09T11:02:01Z'
+  releases_url: https://api.github.com/repos/kiu/gtimer/releases{/id}
+  size: 5994
+  ssh_url: git@github.com:kiu/gtimer.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/kiu/gtimer/stargazers
+  statuses_url: https://api.github.com/repos/kiu/gtimer/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/kiu/gtimer/subscribers
+  subscription_url: https://api.github.com/repos/kiu/gtimer/subscription
+  svn_url: https://github.com/kiu/gtimer
+  tags_url: https://api.github.com/repos/kiu/gtimer/tags
+  teams_url: https://api.github.com/repos/kiu/gtimer/teams
+  topics:
+  - avr
+  - gardena
+  - watering
+  trees_url: https://api.github.com/repos/kiu/gtimer/git/trees{/sha}
+  updated_at: '2021-06-09T11:02:04Z'
+  url: https://api.github.com/repos/kiu/gtimer
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

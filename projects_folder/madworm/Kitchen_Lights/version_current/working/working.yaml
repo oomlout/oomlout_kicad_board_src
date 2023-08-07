@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/madworm/Kitchen_Lights/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/madworm/Kitchen_Lights/assignees{/user}
-blobs_url: https://api.github.com/repos/madworm/Kitchen_Lights/git/blobs{/sha}
-branches_url: https://api.github.com/repos/madworm/Kitchen_Lights/branches{/branch}
-clone_url: https://github.com/madworm/Kitchen_Lights.git
-collaborators_url: https://api.github.com/repos/madworm/Kitchen_Lights/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/madworm/Kitchen_Lights/comments{/number}
-commits_url: https://api.github.com/repos/madworm/Kitchen_Lights/commits{/sha}
-compare_url: https://api.github.com/repos/madworm/Kitchen_Lights/compare/{base}...{head}
-contents_url: https://api.github.com/repos/madworm/Kitchen_Lights/contents/{+path}
-contributors_url: https://api.github.com/repos/madworm/Kitchen_Lights/contributors
-created_at: '2011-03-31T20:09:54Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/madworm/Kitchen_Lights/deployments
-description: 'LAYOUT FILES: ATtiny24 (pre v1.10) / ATtiny2313 + MBI5168 controlled
-  lamp with 32x superflux-class LEDs. Under heavy development --> unsafe to use!'
-disabled: false
-downloads_url: https://api.github.com/repos/madworm/Kitchen_Lights/downloads
-events_url: https://api.github.com/repos/madworm/Kitchen_Lights/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/madworm/Kitchen_Lights/forks
-full_name: madworm/Kitchen_Lights
-git_commits_url: https://api.github.com/repos/madworm/Kitchen_Lights/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/madworm/Kitchen_Lights/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/madworm/Kitchen_Lights/git/tags{/sha}
-git_url: git://github.com/madworm/Kitchen_Lights.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: ''
-hooks_url: https://api.github.com/repos/madworm/Kitchen_Lights/hooks
-html_url: https://github.com/madworm/Kitchen_Lights
-id: 1552528
-is_template: false
-issue_comment_url: https://api.github.com/repos/madworm/Kitchen_Lights/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/madworm/Kitchen_Lights/issues/events{/number}
-issues_url: https://api.github.com/repos/madworm/Kitchen_Lights/issues{/number}
-keys_url: https://api.github.com/repos/madworm/Kitchen_Lights/keys{/key_id}
-labels_url: https://api.github.com/repos/madworm/Kitchen_Lights/labels{/name}
-language: IDL
-languages_url: https://api.github.com/repos/madworm/Kitchen_Lights/languages
-license: null
-merges_url: https://api.github.com/repos/madworm/Kitchen_Lights/merges
-milestones_url: https://api.github.com/repos/madworm/Kitchen_Lights/milestones{/number}
-mirror_url: null
-name: Kitchen_Lights
-node_id: MDEwOlJlcG9zaXRvcnkxNTUyNTI4
-notifications_url: https://api.github.com/repos/madworm/Kitchen_Lights/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
-  events_url: https://api.github.com/users/madworm/events{/privacy}
-  followers_url: https://api.github.com/users/madworm/followers
-  following_url: https://api.github.com/users/madworm/following{/other_user}
-  gists_url: https://api.github.com/users/madworm/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/madworm
-  id: 343894
-  login: madworm
-  node_id: MDQ6VXNlcjM0Mzg5NA==
-  organizations_url: https://api.github.com/users/madworm/orgs
-  received_events_url: https://api.github.com/users/madworm/received_events
-  repos_url: https://api.github.com/users/madworm/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/madworm/subscriptions
-  type: User
-  url: https://api.github.com/users/madworm
-private: false
+links:
+  github_owner: madworm
+  github_repo_name: Kitchen_Lights
+  github_src: https://github.com/madworm/Kitchen_Lights
+  github_src_repo: https://github.com/madworm/Kitchen_Lights
+  oomp_bot: madworm_kitchen_lights
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/madworm_kitchen_lights
+  oomp_doc: projects/madworm_kitchen_lights/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/madworm_kitchen_lights
+  oomp_src_flat: projects_flat/madworm_kitchen_lights
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/madworm_kitchen_lights
+  oomp_src_folder: projects_folder\madworm\Kitchen_Lights\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\madworm\Kitchen_Lights\version_current\working
+oomp_key: oomp_madworm_kitchen_lights
+oomp_key_simple: madworm_kitchen_lights
 projects_flat: projects_flat/madworm_kitchen_lights/version_current/working
 projects_folder: projects_folder/madworm/Kitchen_Lights/version_current/working
-pulls_url: https://api.github.com/repos/madworm/Kitchen_Lights/pulls{/number}
-pushed_at: '2014-06-25T15:01:41Z'
-releases_url: https://api.github.com/repos/madworm/Kitchen_Lights/releases{/id}
-size: 3988
-ssh_url: git@github.com:madworm/Kitchen_Lights.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/madworm/Kitchen_Lights/stargazers
-statuses_url: https://api.github.com/repos/madworm/Kitchen_Lights/statuses/{sha}
-subscribers_url: https://api.github.com/repos/madworm/Kitchen_Lights/subscribers
-subscription_url: https://api.github.com/repos/madworm/Kitchen_Lights/subscription
-svn_url: https://github.com/madworm/Kitchen_Lights
-tags_url: https://api.github.com/repos/madworm/Kitchen_Lights/tags
-teams_url: https://api.github.com/repos/madworm/Kitchen_Lights/teams
-topics: []
-trees_url: https://api.github.com/repos/madworm/Kitchen_Lights/git/trees{/sha}
-updated_at: '2014-06-25T15:01:41Z'
-url: https://api.github.com/repos/madworm/Kitchen_Lights
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/madworm/Kitchen_Lights/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/madworm/Kitchen_Lights/assignees{/user}
+  blobs_url: https://api.github.com/repos/madworm/Kitchen_Lights/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/madworm/Kitchen_Lights/branches{/branch}
+  clone_url: https://github.com/madworm/Kitchen_Lights.git
+  collaborators_url: https://api.github.com/repos/madworm/Kitchen_Lights/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/madworm/Kitchen_Lights/comments{/number}
+  commits_url: https://api.github.com/repos/madworm/Kitchen_Lights/commits{/sha}
+  compare_url: https://api.github.com/repos/madworm/Kitchen_Lights/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/madworm/Kitchen_Lights/contents/{+path}
+  contributors_url: https://api.github.com/repos/madworm/Kitchen_Lights/contributors
+  created_at: '2011-03-31T20:09:54Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/madworm/Kitchen_Lights/deployments
+  description: 'LAYOUT FILES: ATtiny24 (pre v1.10) / ATtiny2313 + MBI5168 controlled
+    lamp with 32x superflux-class LEDs. Under heavy development --> unsafe to use!'
+  disabled: false
+  downloads_url: https://api.github.com/repos/madworm/Kitchen_Lights/downloads
+  events_url: https://api.github.com/repos/madworm/Kitchen_Lights/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/madworm/Kitchen_Lights/forks
+  full_name: madworm/Kitchen_Lights
+  git_commits_url: https://api.github.com/repos/madworm/Kitchen_Lights/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/madworm/Kitchen_Lights/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/madworm/Kitchen_Lights/git/tags{/sha}
+  git_url: git://github.com/madworm/Kitchen_Lights.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: ''
+  hooks_url: https://api.github.com/repos/madworm/Kitchen_Lights/hooks
+  html_url: https://github.com/madworm/Kitchen_Lights
+  id: 1552528
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/madworm/Kitchen_Lights/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/madworm/Kitchen_Lights/issues/events{/number}
+  issues_url: https://api.github.com/repos/madworm/Kitchen_Lights/issues{/number}
+  keys_url: https://api.github.com/repos/madworm/Kitchen_Lights/keys{/key_id}
+  labels_url: https://api.github.com/repos/madworm/Kitchen_Lights/labels{/name}
+  language: IDL
+  languages_url: https://api.github.com/repos/madworm/Kitchen_Lights/languages
+  license: null
+  merges_url: https://api.github.com/repos/madworm/Kitchen_Lights/merges
+  milestones_url: https://api.github.com/repos/madworm/Kitchen_Lights/milestones{/number}
+  mirror_url: null
+  name: Kitchen_Lights
+  node_id: MDEwOlJlcG9zaXRvcnkxNTUyNTI4
+  notifications_url: https://api.github.com/repos/madworm/Kitchen_Lights/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
+    events_url: https://api.github.com/users/madworm/events{/privacy}
+    followers_url: https://api.github.com/users/madworm/followers
+    following_url: https://api.github.com/users/madworm/following{/other_user}
+    gists_url: https://api.github.com/users/madworm/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/madworm
+    id: 343894
+    login: madworm
+    node_id: MDQ6VXNlcjM0Mzg5NA==
+    organizations_url: https://api.github.com/users/madworm/orgs
+    received_events_url: https://api.github.com/users/madworm/received_events
+    repos_url: https://api.github.com/users/madworm/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/madworm/subscriptions
+    type: User
+    url: https://api.github.com/users/madworm
+  private: false
+  pulls_url: https://api.github.com/repos/madworm/Kitchen_Lights/pulls{/number}
+  pushed_at: '2014-06-25T15:01:41Z'
+  releases_url: https://api.github.com/repos/madworm/Kitchen_Lights/releases{/id}
+  size: 3988
+  ssh_url: git@github.com:madworm/Kitchen_Lights.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/madworm/Kitchen_Lights/stargazers
+  statuses_url: https://api.github.com/repos/madworm/Kitchen_Lights/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/madworm/Kitchen_Lights/subscribers
+  subscription_url: https://api.github.com/repos/madworm/Kitchen_Lights/subscription
+  svn_url: https://github.com/madworm/Kitchen_Lights
+  tags_url: https://api.github.com/repos/madworm/Kitchen_Lights/tags
+  teams_url: https://api.github.com/repos/madworm/Kitchen_Lights/teams
+  topics: []
+  trees_url: https://api.github.com/repos/madworm/Kitchen_Lights/git/trees{/sha}
+  updated_at: '2014-06-25T15:01:41Z'
+  url: https://api.github.com/repos/madworm/Kitchen_Lights
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

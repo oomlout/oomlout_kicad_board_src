@@ -1,107 +1,123 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/assignees{/user}
-blobs_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/git/blobs{/sha}
-branches_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/branches{/branch}
-clone_url: https://github.com/newAM/DevBoard_NCP1090.git
-collaborators_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/comments{/number}
-commits_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/commits{/sha}
-compare_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/compare/{base}...{head}
-contents_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/contents/{+path}
-contributors_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/contributors
-created_at: '2018-10-09T04:00:50Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/deployments
-description: NCP1090 802.3af power over Ethernet development board
-disabled: false
-downloads_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/downloads
-events_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/forks
-full_name: newAM/DevBoard_NCP1090
-git_commits_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/git/tags{/sha}
-git_url: git://github.com/newAM/DevBoard_NCP1090.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/hooks
-html_url: https://github.com/newAM/DevBoard_NCP1090
-id: 152185488
-is_template: false
-issue_comment_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/issues/events{/number}
-issues_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/issues{/number}
-keys_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/keys{/key_id}
-labels_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/merges
-milestones_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/milestones{/number}
-mirror_url: null
-name: DevBoard_NCP1090
-node_id: MDEwOlJlcG9zaXRvcnkxNTIxODU0ODg=
-notifications_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/7845120?v=4
-  events_url: https://api.github.com/users/newAM/events{/privacy}
-  followers_url: https://api.github.com/users/newAM/followers
-  following_url: https://api.github.com/users/newAM/following{/other_user}
-  gists_url: https://api.github.com/users/newAM/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/newAM
-  id: 7845120
-  login: newAM
-  node_id: MDQ6VXNlcjc4NDUxMjA=
-  organizations_url: https://api.github.com/users/newAM/orgs
-  received_events_url: https://api.github.com/users/newAM/received_events
-  repos_url: https://api.github.com/users/newAM/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/newAM/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/newAM/subscriptions
-  type: User
-  url: https://api.github.com/users/newAM
-private: false
+links:
+  github_owner: newAM
+  github_repo_name: DevBoard_NCP1090
+  github_src: https://github.com/newAM/DevBoard_NCP1090
+  github_src_repo: https://github.com/newAM/DevBoard_NCP1090
+  oomp_bot: newam_devboard_ncp1090
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/newam_devboard_ncp1090
+  oomp_doc: projects/newam_devboard_ncp1090/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/newam_devboard_ncp1090
+  oomp_src_flat: projects_flat/newam_devboard_ncp1090
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/newam_devboard_ncp1090
+  oomp_src_folder: projects_folder\newAM\DevBoard_NCP1090\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\newAM\DevBoard_NCP1090\version_current\working
+oomp_key: oomp_newam_devboard_ncp1090
+oomp_key_simple: newam_devboard_ncp1090
 projects_flat: projects_flat/newam_devboard_ncp1090/version_current/working
 projects_folder: projects_folder/newAM/DevBoard_NCP1090/version_current/working
-pulls_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/pulls{/number}
-pushed_at: '2018-10-09T04:02:46Z'
-releases_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/releases{/id}
-size: 906
-ssh_url: git@github.com:newAM/DevBoard_NCP1090.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/stargazers
-statuses_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/statuses/{sha}
-subscribers_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/subscribers
-subscription_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/subscription
-svn_url: https://github.com/newAM/DevBoard_NCP1090
-tags_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/tags
-teams_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/teams
-topics:
-- development-board
-- kicad
-- poe
-trees_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/git/trees{/sha}
-updated_at: '2020-12-22T22:29:21Z'
-url: https://api.github.com/repos/newAM/DevBoard_NCP1090
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/assignees{/user}
+  blobs_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/branches{/branch}
+  clone_url: https://github.com/newAM/DevBoard_NCP1090.git
+  collaborators_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/comments{/number}
+  commits_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/commits{/sha}
+  compare_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/contents/{+path}
+  contributors_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/contributors
+  created_at: '2018-10-09T04:00:50Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/deployments
+  description: NCP1090 802.3af power over Ethernet development board
+  disabled: false
+  downloads_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/downloads
+  events_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/forks
+  full_name: newAM/DevBoard_NCP1090
+  git_commits_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/git/tags{/sha}
+  git_url: git://github.com/newAM/DevBoard_NCP1090.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/hooks
+  html_url: https://github.com/newAM/DevBoard_NCP1090
+  id: 152185488
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/issues/events{/number}
+  issues_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/issues{/number}
+  keys_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/keys{/key_id}
+  labels_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/merges
+  milestones_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/milestones{/number}
+  mirror_url: null
+  name: DevBoard_NCP1090
+  node_id: MDEwOlJlcG9zaXRvcnkxNTIxODU0ODg=
+  notifications_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/7845120?v=4
+    events_url: https://api.github.com/users/newAM/events{/privacy}
+    followers_url: https://api.github.com/users/newAM/followers
+    following_url: https://api.github.com/users/newAM/following{/other_user}
+    gists_url: https://api.github.com/users/newAM/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/newAM
+    id: 7845120
+    login: newAM
+    node_id: MDQ6VXNlcjc4NDUxMjA=
+    organizations_url: https://api.github.com/users/newAM/orgs
+    received_events_url: https://api.github.com/users/newAM/received_events
+    repos_url: https://api.github.com/users/newAM/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/newAM/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/newAM/subscriptions
+    type: User
+    url: https://api.github.com/users/newAM
+  private: false
+  pulls_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/pulls{/number}
+  pushed_at: '2018-10-09T04:02:46Z'
+  releases_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/releases{/id}
+  size: 906
+  ssh_url: git@github.com:newAM/DevBoard_NCP1090.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/stargazers
+  statuses_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/subscribers
+  subscription_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/subscription
+  svn_url: https://github.com/newAM/DevBoard_NCP1090
+  tags_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/tags
+  teams_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/teams
+  topics:
+  - development-board
+  - kicad
+  - poe
+  trees_url: https://api.github.com/repos/newAM/DevBoard_NCP1090/git/trees{/sha}
+  updated_at: '2020-12-22T22:29:21Z'
+  url: https://api.github.com/repos/newAM/DevBoard_NCP1090
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

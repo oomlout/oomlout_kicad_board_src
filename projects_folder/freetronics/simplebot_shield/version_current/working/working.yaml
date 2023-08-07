@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/simplebot_shield/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/simplebot_shield/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/simplebot_shield/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/simplebot_shield/branches{/branch}
-clone_url: https://github.com/freetronics/simplebot_shield.git
-collaborators_url: https://api.github.com/repos/freetronics/simplebot_shield/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/simplebot_shield/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/simplebot_shield/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/simplebot_shield/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/simplebot_shield/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/simplebot_shield/contributors
-created_at: '2014-11-13T23:13:58Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/simplebot_shield/deployments
-description: A shield providing sensors for small robots such as SimpleBot
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/simplebot_shield/downloads
-events_url: https://api.github.com/repos/freetronics/simplebot_shield/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/freetronics/simplebot_shield/forks
-full_name: freetronics/simplebot_shield
-git_commits_url: https://api.github.com/repos/freetronics/simplebot_shield/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/simplebot_shield/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/simplebot_shield/git/tags{/sha}
-git_url: git://github.com/freetronics/simplebot_shield.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: http://www.freetronics.com.au/products/simplebot-shield-kit
-hooks_url: https://api.github.com/repos/freetronics/simplebot_shield/hooks
-html_url: https://github.com/freetronics/simplebot_shield
-id: 26612515
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/simplebot_shield/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/simplebot_shield/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/simplebot_shield/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/simplebot_shield/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/simplebot_shield/labels{/name}
-language: Prolog
-languages_url: https://api.github.com/repos/freetronics/simplebot_shield/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/freetronics/simplebot_shield/merges
-milestones_url: https://api.github.com/repos/freetronics/simplebot_shield/milestones{/number}
-mirror_url: null
-name: simplebot_shield
-node_id: MDEwOlJlcG9zaXRvcnkyNjYxMjUxNQ==
-notifications_url: https://api.github.com/repos/freetronics/simplebot_shield/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: simplebot_shield
+  github_src: https://github.com/freetronics/simplebot_shield
+  github_src_repo: https://github.com/freetronics/simplebot_shield
+  oomp_bot: freetronics_simplebot_shield
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/freetronics_simplebot_shield
+  oomp_doc: projects/freetronics_simplebot_shield/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/freetronics_simplebot_shield
+  oomp_src_flat: projects_flat/freetronics_simplebot_shield
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/freetronics_simplebot_shield
+  oomp_src_folder: projects_folder\freetronics\simplebot_shield\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\freetronics\simplebot_shield\version_current\working
+oomp_key: oomp_freetronics_simplebot_shield
+oomp_key_simple: freetronics_simplebot_shield
 projects_flat: projects_flat/freetronics_simplebot_shield/version_current/working
 projects_folder: projects_folder/freetronics/simplebot_shield/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/simplebot_shield/pulls{/number}
-pushed_at: '2014-11-26T23:02:09Z'
-releases_url: https://api.github.com/repos/freetronics/simplebot_shield/releases{/id}
-size: 514
-ssh_url: git@github.com:freetronics/simplebot_shield.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/freetronics/simplebot_shield/stargazers
-statuses_url: https://api.github.com/repos/freetronics/simplebot_shield/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/simplebot_shield/subscribers
-subscription_url: https://api.github.com/repos/freetronics/simplebot_shield/subscription
-svn_url: https://github.com/freetronics/simplebot_shield
-tags_url: https://api.github.com/repos/freetronics/simplebot_shield/tags
-teams_url: https://api.github.com/repos/freetronics/simplebot_shield/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/simplebot_shield/git/trees{/sha}
-updated_at: '2017-11-28T08:25:31Z'
-url: https://api.github.com/repos/freetronics/simplebot_shield
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/simplebot_shield/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/simplebot_shield/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/simplebot_shield/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/simplebot_shield/branches{/branch}
+  clone_url: https://github.com/freetronics/simplebot_shield.git
+  collaborators_url: https://api.github.com/repos/freetronics/simplebot_shield/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/simplebot_shield/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/simplebot_shield/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/simplebot_shield/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/simplebot_shield/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/simplebot_shield/contributors
+  created_at: '2014-11-13T23:13:58Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/simplebot_shield/deployments
+  description: A shield providing sensors for small robots such as SimpleBot
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/simplebot_shield/downloads
+  events_url: https://api.github.com/repos/freetronics/simplebot_shield/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/freetronics/simplebot_shield/forks
+  full_name: freetronics/simplebot_shield
+  git_commits_url: https://api.github.com/repos/freetronics/simplebot_shield/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/simplebot_shield/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/simplebot_shield/git/tags{/sha}
+  git_url: git://github.com/freetronics/simplebot_shield.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: http://www.freetronics.com.au/products/simplebot-shield-kit
+  hooks_url: https://api.github.com/repos/freetronics/simplebot_shield/hooks
+  html_url: https://github.com/freetronics/simplebot_shield
+  id: 26612515
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/simplebot_shield/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/simplebot_shield/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/simplebot_shield/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/simplebot_shield/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/simplebot_shield/labels{/name}
+  language: Prolog
+  languages_url: https://api.github.com/repos/freetronics/simplebot_shield/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/freetronics/simplebot_shield/merges
+  milestones_url: https://api.github.com/repos/freetronics/simplebot_shield/milestones{/number}
+  mirror_url: null
+  name: simplebot_shield
+  node_id: MDEwOlJlcG9zaXRvcnkyNjYxMjUxNQ==
+  notifications_url: https://api.github.com/repos/freetronics/simplebot_shield/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/simplebot_shield/pulls{/number}
+  pushed_at: '2014-11-26T23:02:09Z'
+  releases_url: https://api.github.com/repos/freetronics/simplebot_shield/releases{/id}
+  size: 514
+  ssh_url: git@github.com:freetronics/simplebot_shield.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/freetronics/simplebot_shield/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/simplebot_shield/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/simplebot_shield/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/simplebot_shield/subscription
+  svn_url: https://github.com/freetronics/simplebot_shield
+  tags_url: https://api.github.com/repos/freetronics/simplebot_shield/tags
+  teams_url: https://api.github.com/repos/freetronics/simplebot_shield/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/simplebot_shield/git/trees{/sha}
+  updated_at: '2017-11-28T08:25:31Z'
+  url: https://api.github.com/repos/freetronics/simplebot_shield
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

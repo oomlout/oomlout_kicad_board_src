@@ -1,115 +1,131 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/CatSniffer/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/CatSniffer/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/CatSniffer/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/CatSniffer/branches{/branch}
-clone_url: https://github.com/ElectronicCats/CatSniffer.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/CatSniffer/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/CatSniffer/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/CatSniffer/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/CatSniffer/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/CatSniffer/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/CatSniffer/contributors
-created_at: '2020-08-15T02:24:25Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ElectronicCats/CatSniffer/deployments
-description: CatSniffer is an original multiprotocol, and multiband board made for
-  sniffing, communicating, and attacking IoT (Internet of Things) devices. It was
-  designed as a highly portable USB stick that integrates the new chips TI CC1352,
-  Semtech SX1262.
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/CatSniffer/downloads
-events_url: https://api.github.com/repos/ElectronicCats/CatSniffer/events
-fork: false
-forks: 58
-forks_count: 58
-forks_url: https://api.github.com/repos/ElectronicCats/CatSniffer/forks
-full_name: ElectronicCats/CatSniffer
-git_commits_url: https://api.github.com/repos/ElectronicCats/CatSniffer/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/CatSniffer/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/CatSniffer/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/CatSniffer.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ElectronicCats/CatSniffer/hooks
-html_url: https://github.com/ElectronicCats/CatSniffer
-id: 287662588
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/CatSniffer/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/CatSniffer/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/CatSniffer/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/CatSniffer/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/CatSniffer/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/ElectronicCats/CatSniffer/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/ElectronicCats/CatSniffer/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/CatSniffer/milestones{/number}
-mirror_url: null
-name: CatSniffer
-node_id: MDEwOlJlcG9zaXRvcnkyODc2NjI1ODg=
-notifications_url: https://api.github.com/repos/ElectronicCats/CatSniffer/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: CatSniffer
+  github_src: https://github.com/ElectronicCats/CatSniffer
+  github_src_repo: https://github.com/ElectronicCats/CatSniffer
+  oomp_bot: electroniccats_catsniffer
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electroniccats_catsniffer
+  oomp_doc: projects/electroniccats_catsniffer/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electroniccats_catsniffer
+  oomp_src_flat: projects_flat/electroniccats_catsniffer
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electroniccats_catsniffer
+  oomp_src_folder: projects_folder\ElectronicCats\CatSniffer\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ElectronicCats\CatSniffer\version_current\working
+oomp_key: oomp_electroniccats_catsniffer
+oomp_key_simple: electroniccats_catsniffer
 projects_flat: projects_flat/electroniccats_catsniffer/version_current/working
 projects_folder: projects_folder/ElectronicCats/CatSniffer/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/CatSniffer/pulls{/number}
-pushed_at: '2023-07-22T22:08:46Z'
-releases_url: https://api.github.com/repos/ElectronicCats/CatSniffer/releases{/id}
-size: 23932
-ssh_url: git@github.com:ElectronicCats/CatSniffer.git
-stargazers_count: 342
-stargazers_url: https://api.github.com/repos/ElectronicCats/CatSniffer/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/CatSniffer/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/CatSniffer/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/CatSniffer/subscription
-svn_url: https://github.com/ElectronicCats/CatSniffer
-tags_url: https://api.github.com/repos/ElectronicCats/CatSniffer/tags
-teams_url: https://api.github.com/repos/ElectronicCats/CatSniffer/teams
-topics:
-- ble
-- hardware
-- lora
-- rp2040
-- samd21
-- security
-- security-tools
-- zigbee
-trees_url: https://api.github.com/repos/ElectronicCats/CatSniffer/git/trees{/sha}
-updated_at: '2023-07-24T06:48:49Z'
-url: https://api.github.com/repos/ElectronicCats/CatSniffer
-visibility: public
-watchers: 342
-watchers_count: 342
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/CatSniffer/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/CatSniffer/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/CatSniffer/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/CatSniffer/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/CatSniffer.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/CatSniffer/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/CatSniffer/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/CatSniffer/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/CatSniffer/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/CatSniffer/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/CatSniffer/contributors
+  created_at: '2020-08-15T02:24:25Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ElectronicCats/CatSniffer/deployments
+  description: CatSniffer is an original multiprotocol, and multiband board made for
+    sniffing, communicating, and attacking IoT (Internet of Things) devices. It was
+    designed as a highly portable USB stick that integrates the new chips TI CC1352,
+    Semtech SX1262.
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/CatSniffer/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/CatSniffer/events
+  fork: false
+  forks: 58
+  forks_count: 58
+  forks_url: https://api.github.com/repos/ElectronicCats/CatSniffer/forks
+  full_name: ElectronicCats/CatSniffer
+  git_commits_url: https://api.github.com/repos/ElectronicCats/CatSniffer/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/CatSniffer/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/CatSniffer/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/CatSniffer.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ElectronicCats/CatSniffer/hooks
+  html_url: https://github.com/ElectronicCats/CatSniffer
+  id: 287662588
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/CatSniffer/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/CatSniffer/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/CatSniffer/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/CatSniffer/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/CatSniffer/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/ElectronicCats/CatSniffer/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/ElectronicCats/CatSniffer/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/CatSniffer/milestones{/number}
+  mirror_url: null
+  name: CatSniffer
+  node_id: MDEwOlJlcG9zaXRvcnkyODc2NjI1ODg=
+  notifications_url: https://api.github.com/repos/ElectronicCats/CatSniffer/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/CatSniffer/pulls{/number}
+  pushed_at: '2023-08-02T20:20:25Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/CatSniffer/releases{/id}
+  size: 24566
+  ssh_url: git@github.com:ElectronicCats/CatSniffer.git
+  stargazers_count: 346
+  stargazers_url: https://api.github.com/repos/ElectronicCats/CatSniffer/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/CatSniffer/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/CatSniffer/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/CatSniffer/subscription
+  svn_url: https://github.com/ElectronicCats/CatSniffer
+  tags_url: https://api.github.com/repos/ElectronicCats/CatSniffer/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/CatSniffer/teams
+  topics:
+  - ble
+  - hardware
+  - lora
+  - rp2040
+  - samd21
+  - security
+  - security-tools
+  - zigbee
+  trees_url: https://api.github.com/repos/ElectronicCats/CatSniffer/git/trees{/sha}
+  updated_at: '2023-08-03T16:21:41Z'
+  url: https://api.github.com/repos/ElectronicCats/CatSniffer
+  visibility: public
+  watchers: 346
+  watchers_count: 346
+  web_commit_signoff_required: true

@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ohdsp/AmpOne/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ohdsp/AmpOne/assignees{/user}
-blobs_url: https://api.github.com/repos/ohdsp/AmpOne/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ohdsp/AmpOne/branches{/branch}
-clone_url: https://github.com/ohdsp/AmpOne.git
-collaborators_url: https://api.github.com/repos/ohdsp/AmpOne/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ohdsp/AmpOne/comments{/number}
-commits_url: https://api.github.com/repos/ohdsp/AmpOne/commits{/sha}
-compare_url: https://api.github.com/repos/ohdsp/AmpOne/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ohdsp/AmpOne/contents/{+path}
-contributors_url: https://api.github.com/repos/ohdsp/AmpOne/contributors
-created_at: '2017-02-19T23:00:45Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ohdsp/AmpOne/deployments
-description: Open Hardware DSP Platform - Class D Amplifier TDA7498, TDA7492 PCB design
-  - Open Source Hardware - Untested
-disabled: false
-downloads_url: https://api.github.com/repos/ohdsp/AmpOne/downloads
-events_url: https://api.github.com/repos/ohdsp/AmpOne/events
-fork: false
-forks: 7
-forks_count: 7
-forks_url: https://api.github.com/repos/ohdsp/AmpOne/forks
-full_name: ohdsp/AmpOne
-git_commits_url: https://api.github.com/repos/ohdsp/AmpOne/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ohdsp/AmpOne/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ohdsp/AmpOne/git/tags{/sha}
-git_url: git://github.com/ohdsp/AmpOne.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ohdsp/AmpOne/hooks
-html_url: https://github.com/ohdsp/AmpOne
-id: 82495872
-is_template: false
-issue_comment_url: https://api.github.com/repos/ohdsp/AmpOne/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ohdsp/AmpOne/issues/events{/number}
-issues_url: https://api.github.com/repos/ohdsp/AmpOne/issues{/number}
-keys_url: https://api.github.com/repos/ohdsp/AmpOne/keys{/key_id}
-labels_url: https://api.github.com/repos/ohdsp/AmpOne/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/ohdsp/AmpOne/languages
-license: null
-merges_url: https://api.github.com/repos/ohdsp/AmpOne/merges
-milestones_url: https://api.github.com/repos/ohdsp/AmpOne/milestones{/number}
-mirror_url: null
-name: AmpOne
-node_id: MDEwOlJlcG9zaXRvcnk4MjQ5NTg3Mg==
-notifications_url: https://api.github.com/repos/ohdsp/AmpOne/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16755757?v=4
-  events_url: https://api.github.com/users/ohdsp/events{/privacy}
-  followers_url: https://api.github.com/users/ohdsp/followers
-  following_url: https://api.github.com/users/ohdsp/following{/other_user}
-  gists_url: https://api.github.com/users/ohdsp/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ohdsp
-  id: 16755757
-  login: ohdsp
-  node_id: MDQ6VXNlcjE2NzU1NzU3
-  organizations_url: https://api.github.com/users/ohdsp/orgs
-  received_events_url: https://api.github.com/users/ohdsp/received_events
-  repos_url: https://api.github.com/users/ohdsp/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ohdsp/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ohdsp/subscriptions
-  type: User
-  url: https://api.github.com/users/ohdsp
-private: false
+links:
+  github_owner: ohdsp
+  github_repo_name: AmpOne
+  github_src: https://github.com/ohdsp/AmpOne
+  github_src_repo: https://github.com/ohdsp/AmpOne
+  oomp_bot: projects_ohdsp_ampone
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_ohdsp_ampone
+  oomp_doc: projects/projects_flat_ohdsp_ampone/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_ohdsp_ampone
+  oomp_src_flat: projects_flat/projects_flat_ohdsp_ampone
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_ohdsp_ampone
+  oomp_src_folder: projects_flat\ohdsp_ampone\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ohdsp_ampone\version_current\working
+oomp_key: oomp_projects_flat_ohdsp_ampone
+oomp_key_simple: projects_flat_ohdsp_ampone
 projects_flat: projects_flat/ohdsp_ampone/version_current/working
 projects_folder: projects_folder/ohdsp/AmpOne/version_current/working
-pulls_url: https://api.github.com/repos/ohdsp/AmpOne/pulls{/number}
-pushed_at: '2017-02-19T23:05:02Z'
-releases_url: https://api.github.com/repos/ohdsp/AmpOne/releases{/id}
-size: 1347
-ssh_url: git@github.com:ohdsp/AmpOne.git
-stargazers_count: 14
-stargazers_url: https://api.github.com/repos/ohdsp/AmpOne/stargazers
-statuses_url: https://api.github.com/repos/ohdsp/AmpOne/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ohdsp/AmpOne/subscribers
-subscription_url: https://api.github.com/repos/ohdsp/AmpOne/subscription
-svn_url: https://github.com/ohdsp/AmpOne
-tags_url: https://api.github.com/repos/ohdsp/AmpOne/tags
-teams_url: https://api.github.com/repos/ohdsp/AmpOne/teams
-topics:
-- amplifier
-- audio
-- dsp
-- electronics
-- hardware
-- kicad
-trees_url: https://api.github.com/repos/ohdsp/AmpOne/git/trees{/sha}
-updated_at: '2023-07-15T10:18:05Z'
-url: https://api.github.com/repos/ohdsp/AmpOne
-visibility: public
-watchers: 14
-watchers_count: 14
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ohdsp/AmpOne/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ohdsp/AmpOne/assignees{/user}
+  blobs_url: https://api.github.com/repos/ohdsp/AmpOne/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ohdsp/AmpOne/branches{/branch}
+  clone_url: https://github.com/ohdsp/AmpOne.git
+  collaborators_url: https://api.github.com/repos/ohdsp/AmpOne/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ohdsp/AmpOne/comments{/number}
+  commits_url: https://api.github.com/repos/ohdsp/AmpOne/commits{/sha}
+  compare_url: https://api.github.com/repos/ohdsp/AmpOne/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ohdsp/AmpOne/contents/{+path}
+  contributors_url: https://api.github.com/repos/ohdsp/AmpOne/contributors
+  created_at: '2017-02-19T23:00:45Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ohdsp/AmpOne/deployments
+  description: Open Hardware DSP Platform - Class D Amplifier TDA7498, TDA7492 PCB
+    design - Open Source Hardware - Untested
+  disabled: false
+  downloads_url: https://api.github.com/repos/ohdsp/AmpOne/downloads
+  events_url: https://api.github.com/repos/ohdsp/AmpOne/events
+  fork: false
+  forks: 7
+  forks_count: 7
+  forks_url: https://api.github.com/repos/ohdsp/AmpOne/forks
+  full_name: ohdsp/AmpOne
+  git_commits_url: https://api.github.com/repos/ohdsp/AmpOne/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ohdsp/AmpOne/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ohdsp/AmpOne/git/tags{/sha}
+  git_url: git://github.com/ohdsp/AmpOne.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ohdsp/AmpOne/hooks
+  html_url: https://github.com/ohdsp/AmpOne
+  id: 82495872
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ohdsp/AmpOne/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ohdsp/AmpOne/issues/events{/number}
+  issues_url: https://api.github.com/repos/ohdsp/AmpOne/issues{/number}
+  keys_url: https://api.github.com/repos/ohdsp/AmpOne/keys{/key_id}
+  labels_url: https://api.github.com/repos/ohdsp/AmpOne/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/ohdsp/AmpOne/languages
+  license: null
+  merges_url: https://api.github.com/repos/ohdsp/AmpOne/merges
+  milestones_url: https://api.github.com/repos/ohdsp/AmpOne/milestones{/number}
+  mirror_url: null
+  name: AmpOne
+  node_id: MDEwOlJlcG9zaXRvcnk4MjQ5NTg3Mg==
+  notifications_url: https://api.github.com/repos/ohdsp/AmpOne/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16755757?v=4
+    events_url: https://api.github.com/users/ohdsp/events{/privacy}
+    followers_url: https://api.github.com/users/ohdsp/followers
+    following_url: https://api.github.com/users/ohdsp/following{/other_user}
+    gists_url: https://api.github.com/users/ohdsp/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ohdsp
+    id: 16755757
+    login: ohdsp
+    node_id: MDQ6VXNlcjE2NzU1NzU3
+    organizations_url: https://api.github.com/users/ohdsp/orgs
+    received_events_url: https://api.github.com/users/ohdsp/received_events
+    repos_url: https://api.github.com/users/ohdsp/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ohdsp/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ohdsp/subscriptions
+    type: User
+    url: https://api.github.com/users/ohdsp
+  private: false
+  pulls_url: https://api.github.com/repos/ohdsp/AmpOne/pulls{/number}
+  pushed_at: '2017-02-19T23:05:02Z'
+  releases_url: https://api.github.com/repos/ohdsp/AmpOne/releases{/id}
+  size: 1347
+  ssh_url: git@github.com:ohdsp/AmpOne.git
+  stargazers_count: 15
+  stargazers_url: https://api.github.com/repos/ohdsp/AmpOne/stargazers
+  statuses_url: https://api.github.com/repos/ohdsp/AmpOne/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ohdsp/AmpOne/subscribers
+  subscription_url: https://api.github.com/repos/ohdsp/AmpOne/subscription
+  svn_url: https://github.com/ohdsp/AmpOne
+  tags_url: https://api.github.com/repos/ohdsp/AmpOne/tags
+  teams_url: https://api.github.com/repos/ohdsp/AmpOne/teams
+  topics:
+  - amplifier
+  - audio
+  - dsp
+  - electronics
+  - hardware
+  - kicad
+  trees_url: https://api.github.com/repos/ohdsp/AmpOne/git/trees{/sha}
+  updated_at: '2023-08-03T12:17:46Z'
+  url: https://api.github.com/repos/ohdsp/AmpOne
+  visibility: public
+  watchers: 15
+  watchers_count: 15
+  web_commit_signoff_required: false

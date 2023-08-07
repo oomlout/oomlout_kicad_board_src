@@ -1,106 +1,123 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/branches{/branch}
-clone_url: https://github.com/sparkfun/Si4707_Breakout.git
-collaborators_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/contributors
-created_at: '2013-01-14T22:05:01Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/deployments
-description: Breakout board and example code for the Si4707 weather band radio receiver.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/downloads
-events_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_si4707_breakout/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/Si4707_Breakout/version_current/working/working.brd
-fork: false
-forks: 12
-forks_count: 12
-forks_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/forks
-full_name: sparkfun/Si4707_Breakout
-git_commits_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/git/tags{/sha}
-git_url: git://github.com/sparkfun/Si4707_Breakout.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/products/11129
-hooks_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/hooks
-html_url: https://github.com/sparkfun/Si4707_Breakout
-id: 7613635
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/merges
-milestones_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/milestones{/number}
-mirror_url: null
-name: Si4707_Breakout
-node_id: MDEwOlJlcG9zaXRvcnk3NjEzNjM1
-notifications_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Si4707_Breakout
+  github_src: https://github.com/sparkfun/Si4707_Breakout
+  github_src_repo: https://github.com/sparkfun/Si4707_Breakout
+  oomp_bot: projects_sparkfun_si4707_breakout
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_si4707_breakout
+  oomp_doc: projects/projects_flat_sparkfun_si4707_breakout/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_si4707_breakout
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_si4707_breakout
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_si4707_breakout
+  oomp_src_folder: projects_flat\sparkfun_si4707_breakout\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_si4707_breakout\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_si4707_breakout
+oomp_key_simple: projects_flat_sparkfun_si4707_breakout
+projects_flat: projects_flat/sparkfun_si4707_breakout/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_si4707_breakout/version_current/working
 projects_folder: projects_folder/sparkfun/Si4707_Breakout/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/pulls{/number}
-pushed_at: '2019-11-05T21:28:21Z'
-releases_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/releases{/id}
-size: 261
-ssh_url: git@github.com:sparkfun/Si4707_Breakout.git
-stargazers_count: 16
-stargazers_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/subscription
-svn_url: https://github.com/sparkfun/Si4707_Breakout
-tags_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/tags
-teams_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/git/trees{/sha}
-updated_at: '2023-05-09T22:55:20Z'
-url: https://api.github.com/repos/sparkfun/Si4707_Breakout
-visibility: public
-watchers: 16
-watchers_count: 16
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/branches{/branch}
+  clone_url: https://github.com/sparkfun/Si4707_Breakout.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/contributors
+  created_at: '2013-01-14T22:05:01Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/deployments
+  description: Breakout board and example code for the Si4707 weather band radio receiver.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/downloads
+  events_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/events
+  fork: false
+  forks: 12
+  forks_count: 12
+  forks_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/forks
+  full_name: sparkfun/Si4707_Breakout
+  git_commits_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Si4707_Breakout.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/products/11129
+  hooks_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/hooks
+  html_url: https://github.com/sparkfun/Si4707_Breakout
+  id: 7613635
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/milestones{/number}
+  mirror_url: null
+  name: Si4707_Breakout
+  node_id: MDEwOlJlcG9zaXRvcnk3NjEzNjM1
+  notifications_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/pulls{/number}
+  pushed_at: '2019-11-05T21:28:21Z'
+  releases_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/releases{/id}
+  size: 261
+  ssh_url: git@github.com:sparkfun/Si4707_Breakout.git
+  stargazers_count: 16
+  stargazers_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/subscription
+  svn_url: https://github.com/sparkfun/Si4707_Breakout
+  tags_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/tags
+  teams_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/Si4707_Breakout/git/trees{/sha}
+  updated_at: '2023-05-09T22:55:20Z'
+  url: https://api.github.com/repos/sparkfun/Si4707_Breakout
+  visibility: public
+  watchers: 16
+  watchers_count: 16
+  web_commit_signoff_required: false

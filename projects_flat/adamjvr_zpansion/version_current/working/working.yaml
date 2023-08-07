@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adamjvr/ZPansion/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adamjvr/ZPansion/assignees{/user}
-blobs_url: https://api.github.com/repos/adamjvr/ZPansion/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adamjvr/ZPansion/branches{/branch}
-clone_url: https://github.com/adamjvr/ZPansion.git
-collaborators_url: https://api.github.com/repos/adamjvr/ZPansion/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adamjvr/ZPansion/comments{/number}
-commits_url: https://api.github.com/repos/adamjvr/ZPansion/commits{/sha}
-compare_url: https://api.github.com/repos/adamjvr/ZPansion/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adamjvr/ZPansion/contents/{+path}
-contributors_url: https://api.github.com/repos/adamjvr/ZPansion/contributors
-created_at: '2021-12-06T22:27:13Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/adamjvr/ZPansion/deployments
-description: 'A Z stage control board for RepRap 3D Printers, designed to interface
-  with mainboard expasnion pins. '
-disabled: false
-downloads_url: https://api.github.com/repos/adamjvr/ZPansion/downloads
-events_url: https://api.github.com/repos/adamjvr/ZPansion/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/adamjvr/ZPansion/forks
-full_name: adamjvr/ZPansion
-git_commits_url: https://api.github.com/repos/adamjvr/ZPansion/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adamjvr/ZPansion/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adamjvr/ZPansion/git/tags{/sha}
-git_url: git://github.com/adamjvr/ZPansion.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adamjvr/ZPansion/hooks
-html_url: https://github.com/adamjvr/ZPansion
-id: 435667048
-is_template: false
-issue_comment_url: https://api.github.com/repos/adamjvr/ZPansion/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adamjvr/ZPansion/issues/events{/number}
-issues_url: https://api.github.com/repos/adamjvr/ZPansion/issues{/number}
-keys_url: https://api.github.com/repos/adamjvr/ZPansion/keys{/key_id}
-labels_url: https://api.github.com/repos/adamjvr/ZPansion/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adamjvr/ZPansion/languages
-license: null
-merges_url: https://api.github.com/repos/adamjvr/ZPansion/merges
-milestones_url: https://api.github.com/repos/adamjvr/ZPansion/milestones{/number}
-mirror_url: null
-name: ZPansion
-node_id: R_kgDOGffAaA
-notifications_url: https://api.github.com/repos/adamjvr/ZPansion/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
-  events_url: https://api.github.com/users/adamjvr/events{/privacy}
-  followers_url: https://api.github.com/users/adamjvr/followers
-  following_url: https://api.github.com/users/adamjvr/following{/other_user}
-  gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adamjvr
-  id: 3782102
-  login: adamjvr
-  node_id: MDQ6VXNlcjM3ODIxMDI=
-  organizations_url: https://api.github.com/users/adamjvr/orgs
-  received_events_url: https://api.github.com/users/adamjvr/received_events
-  repos_url: https://api.github.com/users/adamjvr/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
-  type: User
-  url: https://api.github.com/users/adamjvr
-private: false
+links:
+  github_owner: adamjvr
+  github_repo_name: ZPansion
+  github_src: https://github.com/adamjvr/ZPansion
+  github_src_repo: https://github.com/adamjvr/ZPansion
+  oomp_bot: projects_adamjvr_zpansion
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_adamjvr_zpansion
+  oomp_doc: projects/projects_flat_adamjvr_zpansion/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_adamjvr_zpansion
+  oomp_src_flat: projects_flat/projects_flat_adamjvr_zpansion
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_adamjvr_zpansion
+  oomp_src_folder: projects_flat\adamjvr_zpansion\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adamjvr_zpansion\version_current\working
+oomp_key: oomp_projects_flat_adamjvr_zpansion
+oomp_key_simple: projects_flat_adamjvr_zpansion
 projects_flat: projects_flat/adamjvr_zpansion/version_current/working
 projects_folder: projects_folder/adamjvr/ZPansion/version_current/working
-pulls_url: https://api.github.com/repos/adamjvr/ZPansion/pulls{/number}
-pushed_at: '2022-01-15T03:02:43Z'
-releases_url: https://api.github.com/repos/adamjvr/ZPansion/releases{/id}
-size: 3999
-ssh_url: git@github.com:adamjvr/ZPansion.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/adamjvr/ZPansion/stargazers
-statuses_url: https://api.github.com/repos/adamjvr/ZPansion/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adamjvr/ZPansion/subscribers
-subscription_url: https://api.github.com/repos/adamjvr/ZPansion/subscription
-svn_url: https://github.com/adamjvr/ZPansion
-tags_url: https://api.github.com/repos/adamjvr/ZPansion/tags
-teams_url: https://api.github.com/repos/adamjvr/ZPansion/teams
-topics: []
-trees_url: https://api.github.com/repos/adamjvr/ZPansion/git/trees{/sha}
-updated_at: '2022-01-02T03:16:13Z'
-url: https://api.github.com/repos/adamjvr/ZPansion
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adamjvr/ZPansion/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adamjvr/ZPansion/assignees{/user}
+  blobs_url: https://api.github.com/repos/adamjvr/ZPansion/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adamjvr/ZPansion/branches{/branch}
+  clone_url: https://github.com/adamjvr/ZPansion.git
+  collaborators_url: https://api.github.com/repos/adamjvr/ZPansion/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adamjvr/ZPansion/comments{/number}
+  commits_url: https://api.github.com/repos/adamjvr/ZPansion/commits{/sha}
+  compare_url: https://api.github.com/repos/adamjvr/ZPansion/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adamjvr/ZPansion/contents/{+path}
+  contributors_url: https://api.github.com/repos/adamjvr/ZPansion/contributors
+  created_at: '2021-12-06T22:27:13Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/adamjvr/ZPansion/deployments
+  description: 'A Z stage control board for RepRap 3D Printers, designed to interface
+    with mainboard expasnion pins. '
+  disabled: false
+  downloads_url: https://api.github.com/repos/adamjvr/ZPansion/downloads
+  events_url: https://api.github.com/repos/adamjvr/ZPansion/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/adamjvr/ZPansion/forks
+  full_name: adamjvr/ZPansion
+  git_commits_url: https://api.github.com/repos/adamjvr/ZPansion/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adamjvr/ZPansion/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adamjvr/ZPansion/git/tags{/sha}
+  git_url: git://github.com/adamjvr/ZPansion.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adamjvr/ZPansion/hooks
+  html_url: https://github.com/adamjvr/ZPansion
+  id: 435667048
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adamjvr/ZPansion/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adamjvr/ZPansion/issues/events{/number}
+  issues_url: https://api.github.com/repos/adamjvr/ZPansion/issues{/number}
+  keys_url: https://api.github.com/repos/adamjvr/ZPansion/keys{/key_id}
+  labels_url: https://api.github.com/repos/adamjvr/ZPansion/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adamjvr/ZPansion/languages
+  license: null
+  merges_url: https://api.github.com/repos/adamjvr/ZPansion/merges
+  milestones_url: https://api.github.com/repos/adamjvr/ZPansion/milestones{/number}
+  mirror_url: null
+  name: ZPansion
+  node_id: R_kgDOGffAaA
+  notifications_url: https://api.github.com/repos/adamjvr/ZPansion/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
+    events_url: https://api.github.com/users/adamjvr/events{/privacy}
+    followers_url: https://api.github.com/users/adamjvr/followers
+    following_url: https://api.github.com/users/adamjvr/following{/other_user}
+    gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adamjvr
+    id: 3782102
+    login: adamjvr
+    node_id: MDQ6VXNlcjM3ODIxMDI=
+    organizations_url: https://api.github.com/users/adamjvr/orgs
+    received_events_url: https://api.github.com/users/adamjvr/received_events
+    repos_url: https://api.github.com/users/adamjvr/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
+    type: User
+    url: https://api.github.com/users/adamjvr
+  private: false
+  pulls_url: https://api.github.com/repos/adamjvr/ZPansion/pulls{/number}
+  pushed_at: '2022-01-15T03:02:43Z'
+  releases_url: https://api.github.com/repos/adamjvr/ZPansion/releases{/id}
+  size: 3999
+  ssh_url: git@github.com:adamjvr/ZPansion.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/adamjvr/ZPansion/stargazers
+  statuses_url: https://api.github.com/repos/adamjvr/ZPansion/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adamjvr/ZPansion/subscribers
+  subscription_url: https://api.github.com/repos/adamjvr/ZPansion/subscription
+  svn_url: https://github.com/adamjvr/ZPansion
+  tags_url: https://api.github.com/repos/adamjvr/ZPansion/tags
+  teams_url: https://api.github.com/repos/adamjvr/ZPansion/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adamjvr/ZPansion/git/trees{/sha}
+  updated_at: '2022-01-02T03:16:13Z'
+  url: https://api.github.com/repos/adamjvr/ZPansion
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

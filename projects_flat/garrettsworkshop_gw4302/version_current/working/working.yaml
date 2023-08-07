@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/garrettsworkshop/GW4302/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/garrettsworkshop/GW4302/assignees{/user}
-blobs_url: https://api.github.com/repos/garrettsworkshop/GW4302/git/blobs{/sha}
-branches_url: https://api.github.com/repos/garrettsworkshop/GW4302/branches{/branch}
-clone_url: https://github.com/garrettsworkshop/GW4302.git
-collaborators_url: https://api.github.com/repos/garrettsworkshop/GW4302/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/garrettsworkshop/GW4302/comments{/number}
-commits_url: https://api.github.com/repos/garrettsworkshop/GW4302/commits{/sha}
-compare_url: https://api.github.com/repos/garrettsworkshop/GW4302/compare/{base}...{head}
-contents_url: https://api.github.com/repos/garrettsworkshop/GW4302/contents/{+path}
-contributors_url: https://api.github.com/repos/garrettsworkshop/GW4302/contributors
-created_at: '2022-01-02T04:11:12Z'
-default_branch: dev
-deployments_url: https://api.github.com/repos/garrettsworkshop/GW4302/deployments
-description: RAM cartridge compatible with Commodore 1700/1750/1764 RAM Expansion
-  Unit (REU)
-disabled: false
-downloads_url: https://api.github.com/repos/garrettsworkshop/GW4302/downloads
-events_url: https://api.github.com/repos/garrettsworkshop/GW4302/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/garrettsworkshop/GW4302/forks
-full_name: garrettsworkshop/GW4302
-git_commits_url: https://api.github.com/repos/garrettsworkshop/GW4302/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/garrettsworkshop/GW4302/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/garrettsworkshop/GW4302/git/tags{/sha}
-git_url: git://github.com/garrettsworkshop/GW4302.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/garrettsworkshop/GW4302/hooks
-html_url: https://github.com/garrettsworkshop/GW4302
-id: 443678640
-is_template: false
-issue_comment_url: https://api.github.com/repos/garrettsworkshop/GW4302/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/garrettsworkshop/GW4302/issues/events{/number}
-issues_url: https://api.github.com/repos/garrettsworkshop/GW4302/issues{/number}
-keys_url: https://api.github.com/repos/garrettsworkshop/GW4302/keys{/key_id}
-labels_url: https://api.github.com/repos/garrettsworkshop/GW4302/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/garrettsworkshop/GW4302/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/garrettsworkshop/GW4302/merges
-milestones_url: https://api.github.com/repos/garrettsworkshop/GW4302/milestones{/number}
-mirror_url: null
-name: GW4302
-node_id: R_kgDOGnH_sA
-notifications_url: https://api.github.com/repos/garrettsworkshop/GW4302/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
-  events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
-  followers_url: https://api.github.com/users/garrettsworkshop/followers
-  following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
-  gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/garrettsworkshop
-  id: 65582366
-  login: garrettsworkshop
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
-  organizations_url: https://api.github.com/users/garrettsworkshop/orgs
-  received_events_url: https://api.github.com/users/garrettsworkshop/received_events
-  repos_url: https://api.github.com/users/garrettsworkshop/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
-  type: Organization
-  url: https://api.github.com/users/garrettsworkshop
-private: false
+links:
+  github_owner: garrettsworkshop
+  github_repo_name: GW4302
+  github_src: https://github.com/garrettsworkshop/GW4302
+  github_src_repo: https://github.com/garrettsworkshop/GW4302
+  oomp_bot: projects_garrettsworkshop_gw4302
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_garrettsworkshop_gw4302
+  oomp_doc: projects/projects_flat_garrettsworkshop_gw4302/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_garrettsworkshop_gw4302
+  oomp_src_flat: projects_flat/projects_flat_garrettsworkshop_gw4302
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_garrettsworkshop_gw4302
+  oomp_src_folder: projects_flat\garrettsworkshop_gw4302\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\garrettsworkshop_gw4302\version_current\working
+oomp_key: oomp_projects_flat_garrettsworkshop_gw4302
+oomp_key_simple: projects_flat_garrettsworkshop_gw4302
 projects_flat: projects_flat/garrettsworkshop_gw4302/version_current/working
 projects_folder: projects_folder/garrettsworkshop/GW4302/version_current/working
-pulls_url: https://api.github.com/repos/garrettsworkshop/GW4302/pulls{/number}
-pushed_at: '2023-02-28T16:34:22Z'
-releases_url: https://api.github.com/repos/garrettsworkshop/GW4302/releases{/id}
-size: 19908
-ssh_url: git@github.com:garrettsworkshop/GW4302.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/garrettsworkshop/GW4302/stargazers
-statuses_url: https://api.github.com/repos/garrettsworkshop/GW4302/statuses/{sha}
-subscribers_url: https://api.github.com/repos/garrettsworkshop/GW4302/subscribers
-subscription_url: https://api.github.com/repos/garrettsworkshop/GW4302/subscription
-svn_url: https://github.com/garrettsworkshop/GW4302
-tags_url: https://api.github.com/repos/garrettsworkshop/GW4302/tags
-teams_url: https://api.github.com/repos/garrettsworkshop/GW4302/teams
-topics: []
-trees_url: https://api.github.com/repos/garrettsworkshop/GW4302/git/trees{/sha}
-updated_at: '2023-05-13T15:58:14Z'
-url: https://api.github.com/repos/garrettsworkshop/GW4302
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/garrettsworkshop/GW4302/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/garrettsworkshop/GW4302/assignees{/user}
+  blobs_url: https://api.github.com/repos/garrettsworkshop/GW4302/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/garrettsworkshop/GW4302/branches{/branch}
+  clone_url: https://github.com/garrettsworkshop/GW4302.git
+  collaborators_url: https://api.github.com/repos/garrettsworkshop/GW4302/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/garrettsworkshop/GW4302/comments{/number}
+  commits_url: https://api.github.com/repos/garrettsworkshop/GW4302/commits{/sha}
+  compare_url: https://api.github.com/repos/garrettsworkshop/GW4302/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/garrettsworkshop/GW4302/contents/{+path}
+  contributors_url: https://api.github.com/repos/garrettsworkshop/GW4302/contributors
+  created_at: '2022-01-02T04:11:12Z'
+  default_branch: dev
+  deployments_url: https://api.github.com/repos/garrettsworkshop/GW4302/deployments
+  description: RAM cartridge compatible with Commodore 1700/1750/1764 RAM Expansion
+    Unit (REU)
+  disabled: false
+  downloads_url: https://api.github.com/repos/garrettsworkshop/GW4302/downloads
+  events_url: https://api.github.com/repos/garrettsworkshop/GW4302/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/garrettsworkshop/GW4302/forks
+  full_name: garrettsworkshop/GW4302
+  git_commits_url: https://api.github.com/repos/garrettsworkshop/GW4302/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/garrettsworkshop/GW4302/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/garrettsworkshop/GW4302/git/tags{/sha}
+  git_url: git://github.com/garrettsworkshop/GW4302.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/garrettsworkshop/GW4302/hooks
+  html_url: https://github.com/garrettsworkshop/GW4302
+  id: 443678640
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/garrettsworkshop/GW4302/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/garrettsworkshop/GW4302/issues/events{/number}
+  issues_url: https://api.github.com/repos/garrettsworkshop/GW4302/issues{/number}
+  keys_url: https://api.github.com/repos/garrettsworkshop/GW4302/keys{/key_id}
+  labels_url: https://api.github.com/repos/garrettsworkshop/GW4302/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/garrettsworkshop/GW4302/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/garrettsworkshop/GW4302/merges
+  milestones_url: https://api.github.com/repos/garrettsworkshop/GW4302/milestones{/number}
+  mirror_url: null
+  name: GW4302
+  node_id: R_kgDOGnH_sA
+  notifications_url: https://api.github.com/repos/garrettsworkshop/GW4302/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
+    events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
+    followers_url: https://api.github.com/users/garrettsworkshop/followers
+    following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
+    gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/garrettsworkshop
+    id: 65582366
+    login: garrettsworkshop
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
+    organizations_url: https://api.github.com/users/garrettsworkshop/orgs
+    received_events_url: https://api.github.com/users/garrettsworkshop/received_events
+    repos_url: https://api.github.com/users/garrettsworkshop/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
+    type: Organization
+    url: https://api.github.com/users/garrettsworkshop
+  private: false
+  pulls_url: https://api.github.com/repos/garrettsworkshop/GW4302/pulls{/number}
+  pushed_at: '2023-02-28T16:34:22Z'
+  releases_url: https://api.github.com/repos/garrettsworkshop/GW4302/releases{/id}
+  size: 19908
+  ssh_url: git@github.com:garrettsworkshop/GW4302.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/garrettsworkshop/GW4302/stargazers
+  statuses_url: https://api.github.com/repos/garrettsworkshop/GW4302/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/garrettsworkshop/GW4302/subscribers
+  subscription_url: https://api.github.com/repos/garrettsworkshop/GW4302/subscription
+  svn_url: https://github.com/garrettsworkshop/GW4302
+  tags_url: https://api.github.com/repos/garrettsworkshop/GW4302/tags
+  teams_url: https://api.github.com/repos/garrettsworkshop/GW4302/teams
+  topics: []
+  trees_url: https://api.github.com/repos/garrettsworkshop/GW4302/git/trees{/sha}
+  updated_at: '2023-05-13T15:58:14Z'
+  url: https://api.github.com/repos/garrettsworkshop/GW4302
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

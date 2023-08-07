@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/branches{/branch}
-clone_url: https://github.com/sparkfunX/Qwiic_CO2_Sensor-SCD4x.git
-collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/comments{/number}
-commits_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/contributors
-created_at: '2021-05-26T17:10:39Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/deployments
-description: Qwiic breakout for the Sensirion SCD4x CO2 sensors.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/downloads
-events_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/forks
-full_name: sparkfunX/Qwiic_CO2_Sensor-SCD4x
-git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/git/tags{/sha}
-git_url: git://github.com/sparkfunX/Qwiic_CO2_Sensor-SCD4x.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/hooks
-html_url: https://github.com/sparkfunX/Qwiic_CO2_Sensor-SCD4x
-id: 371112757
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/issues{/number}
-keys_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/merges
-milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/milestones{/number}
-mirror_url: null
-name: Qwiic_CO2_Sensor-SCD4x
-node_id: MDEwOlJlcG9zaXRvcnkzNzExMTI3NTc=
-notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
-  events_url: https://api.github.com/users/sparkfunX/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfunX/followers
-  following_url: https://api.github.com/users/sparkfunX/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfunX
-  id: 25487355
-  login: sparkfunX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
-  organizations_url: https://api.github.com/users/sparkfunX/orgs
-  received_events_url: https://api.github.com/users/sparkfunX/received_events
-  repos_url: https://api.github.com/users/sparkfunX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfunX
-private: false
+links:
+  github_owner: sparkfunX
+  github_repo_name: Qwiic_CO2_Sensor-SCD4x
+  github_src: https://github.com/sparkfunX/Qwiic_CO2_Sensor-SCD4x
+  github_src_repo: https://github.com/sparkfunX/Qwiic_CO2_Sensor-SCD4x
+  oomp_bot: sparkfunx_qwiic_co2_sensor_scd4x
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfunx_qwiic_co2_sensor_scd4x
+  oomp_doc: projects/sparkfunx_qwiic_co2_sensor_scd4x/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfunx_qwiic_co2_sensor_scd4x
+  oomp_src_flat: projects_flat/sparkfunx_qwiic_co2_sensor_scd4x
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfunx_qwiic_co2_sensor_scd4x
+  oomp_src_folder: projects_folder\sparkfunx\Qwiic_CO2_Sensor-SCD4x\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfunx\Qwiic_CO2_Sensor-SCD4x\version_current\working
+oomp_key: oomp_sparkfunx_qwiic_co2_sensor_scd4x
+oomp_key_simple: sparkfunx_qwiic_co2_sensor_scd4x
 projects_flat: projects_flat/sparkfunx_qwiic_co2_sensor_scd4x/version_current/working
 projects_folder: projects_folder/sparkfunx/Qwiic_CO2_Sensor-SCD4x/version_current/working
-pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/pulls{/number}
-pushed_at: '2021-05-26T17:10:45Z'
-releases_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/releases{/id}
-size: 6495
-ssh_url: git@github.com:sparkfunX/Qwiic_CO2_Sensor-SCD4x.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/stargazers
-statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/subscribers
-subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/subscription
-svn_url: https://github.com/sparkfunX/Qwiic_CO2_Sensor-SCD4x
-tags_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/tags
-teams_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/git/trees{/sha}
-updated_at: '2021-06-29T16:39:06Z'
-url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/branches{/branch}
+  clone_url: https://github.com/sparkfunX/Qwiic_CO2_Sensor-SCD4x.git
+  collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/contributors
+  created_at: '2021-05-26T17:10:39Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/deployments
+  description: Qwiic breakout for the Sensirion SCD4x CO2 sensors.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/downloads
+  events_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/forks
+  full_name: sparkfunX/Qwiic_CO2_Sensor-SCD4x
+  git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/git/tags{/sha}
+  git_url: git://github.com/sparkfunX/Qwiic_CO2_Sensor-SCD4x.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/hooks
+  html_url: https://github.com/sparkfunX/Qwiic_CO2_Sensor-SCD4x
+  id: 371112757
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/merges
+  milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/milestones{/number}
+  mirror_url: null
+  name: Qwiic_CO2_Sensor-SCD4x
+  node_id: MDEwOlJlcG9zaXRvcnkzNzExMTI3NTc=
+  notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
+    events_url: https://api.github.com/users/sparkfunX/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfunX/followers
+    following_url: https://api.github.com/users/sparkfunX/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfunX
+    id: 25487355
+    login: sparkfunX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
+    organizations_url: https://api.github.com/users/sparkfunX/orgs
+    received_events_url: https://api.github.com/users/sparkfunX/received_events
+    repos_url: https://api.github.com/users/sparkfunX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfunX
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/pulls{/number}
+  pushed_at: '2021-05-26T17:10:45Z'
+  releases_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/releases{/id}
+  size: 6495
+  ssh_url: git@github.com:sparkfunX/Qwiic_CO2_Sensor-SCD4x.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/stargazers
+  statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/subscribers
+  subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/subscription
+  svn_url: https://github.com/sparkfunX/Qwiic_CO2_Sensor-SCD4x
+  tags_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/tags
+  teams_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x/git/trees{/sha}
+  updated_at: '2021-06-29T16:39:06Z'
+  url: https://api.github.com/repos/sparkfunX/Qwiic_CO2_Sensor-SCD4x
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/jerkey/raspican/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/jerkey/raspican/assignees{/user}
-blobs_url: https://api.github.com/repos/jerkey/raspican/git/blobs{/sha}
-branches_url: https://api.github.com/repos/jerkey/raspican/branches{/branch}
-clone_url: https://github.com/jerkey/raspican.git
-collaborators_url: https://api.github.com/repos/jerkey/raspican/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/jerkey/raspican/comments{/number}
-commits_url: https://api.github.com/repos/jerkey/raspican/commits{/sha}
-compare_url: https://api.github.com/repos/jerkey/raspican/compare/{base}...{head}
-contents_url: https://api.github.com/repos/jerkey/raspican/contents/{+path}
-contributors_url: https://api.github.com/repos/jerkey/raspican/contributors
-created_at: '2017-03-03T22:35:12Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/jerkey/raspican/deployments
-description: 'a kicad clone of original pican, CAN-bus shield for original Raspberry
-  Pi '
-disabled: false
-downloads_url: https://api.github.com/repos/jerkey/raspican/downloads
-events_url: https://api.github.com/repos/jerkey/raspican/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/jerkey/raspican/forks
-full_name: jerkey/raspican
-git_commits_url: https://api.github.com/repos/jerkey/raspican/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/jerkey/raspican/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/jerkey/raspican/git/tags{/sha}
-git_url: git://github.com/jerkey/raspican.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: http://skpang.co.uk/catalog/pican-canbus-board-retired-replacement-available-p-1196.html
-hooks_url: https://api.github.com/repos/jerkey/raspican/hooks
-html_url: https://github.com/jerkey/raspican
-id: 83847701
-is_template: false
-issue_comment_url: https://api.github.com/repos/jerkey/raspican/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/jerkey/raspican/issues/events{/number}
-issues_url: https://api.github.com/repos/jerkey/raspican/issues{/number}
-keys_url: https://api.github.com/repos/jerkey/raspican/keys{/key_id}
-labels_url: https://api.github.com/repos/jerkey/raspican/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/jerkey/raspican/languages
-license: null
-merges_url: https://api.github.com/repos/jerkey/raspican/merges
-milestones_url: https://api.github.com/repos/jerkey/raspican/milestones{/number}
-mirror_url: null
-name: raspican
-node_id: MDEwOlJlcG9zaXRvcnk4Mzg0NzcwMQ==
-notifications_url: https://api.github.com/repos/jerkey/raspican/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1930655?v=4
-  events_url: https://api.github.com/users/jerkey/events{/privacy}
-  followers_url: https://api.github.com/users/jerkey/followers
-  following_url: https://api.github.com/users/jerkey/following{/other_user}
-  gists_url: https://api.github.com/users/jerkey/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/jerkey
-  id: 1930655
-  login: jerkey
-  node_id: MDQ6VXNlcjE5MzA2NTU=
-  organizations_url: https://api.github.com/users/jerkey/orgs
-  received_events_url: https://api.github.com/users/jerkey/received_events
-  repos_url: https://api.github.com/users/jerkey/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/jerkey/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/jerkey/subscriptions
-  type: User
-  url: https://api.github.com/users/jerkey
-private: false
+links:
+  github_owner: jerkey
+  github_repo_name: raspican
+  github_src: https://github.com/jerkey/raspican
+  github_src_repo: https://github.com/jerkey/raspican
+  oomp_bot: projects_jerkey_raspican
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_jerkey_raspican
+  oomp_doc: projects/projects_flat_jerkey_raspican/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_jerkey_raspican
+  oomp_src_flat: projects_flat/projects_flat_jerkey_raspican
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_jerkey_raspican
+  oomp_src_folder: projects_flat\jerkey_raspican\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\jerkey_raspican\version_current\working
+oomp_key: oomp_projects_flat_jerkey_raspican
+oomp_key_simple: projects_flat_jerkey_raspican
 projects_flat: projects_flat/jerkey_raspican/version_current/working
 projects_folder: projects_folder/jerkey/raspican/version_current/working
-pulls_url: https://api.github.com/repos/jerkey/raspican/pulls{/number}
-pushed_at: '2017-03-14T21:03:14Z'
-releases_url: https://api.github.com/repos/jerkey/raspican/releases{/id}
-size: 732
-ssh_url: git@github.com:jerkey/raspican.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/jerkey/raspican/stargazers
-statuses_url: https://api.github.com/repos/jerkey/raspican/statuses/{sha}
-subscribers_url: https://api.github.com/repos/jerkey/raspican/subscribers
-subscription_url: https://api.github.com/repos/jerkey/raspican/subscription
-svn_url: https://github.com/jerkey/raspican
-tags_url: https://api.github.com/repos/jerkey/raspican/tags
-teams_url: https://api.github.com/repos/jerkey/raspican/teams
-topics: []
-trees_url: https://api.github.com/repos/jerkey/raspican/git/trees{/sha}
-updated_at: '2023-03-17T16:41:29Z'
-url: https://api.github.com/repos/jerkey/raspican
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/jerkey/raspican/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/jerkey/raspican/assignees{/user}
+  blobs_url: https://api.github.com/repos/jerkey/raspican/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/jerkey/raspican/branches{/branch}
+  clone_url: https://github.com/jerkey/raspican.git
+  collaborators_url: https://api.github.com/repos/jerkey/raspican/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/jerkey/raspican/comments{/number}
+  commits_url: https://api.github.com/repos/jerkey/raspican/commits{/sha}
+  compare_url: https://api.github.com/repos/jerkey/raspican/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/jerkey/raspican/contents/{+path}
+  contributors_url: https://api.github.com/repos/jerkey/raspican/contributors
+  created_at: '2017-03-03T22:35:12Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/jerkey/raspican/deployments
+  description: 'a kicad clone of original pican, CAN-bus shield for original Raspberry
+    Pi '
+  disabled: false
+  downloads_url: https://api.github.com/repos/jerkey/raspican/downloads
+  events_url: https://api.github.com/repos/jerkey/raspican/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/jerkey/raspican/forks
+  full_name: jerkey/raspican
+  git_commits_url: https://api.github.com/repos/jerkey/raspican/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/jerkey/raspican/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/jerkey/raspican/git/tags{/sha}
+  git_url: git://github.com/jerkey/raspican.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: http://skpang.co.uk/catalog/pican-canbus-board-retired-replacement-available-p-1196.html
+  hooks_url: https://api.github.com/repos/jerkey/raspican/hooks
+  html_url: https://github.com/jerkey/raspican
+  id: 83847701
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/jerkey/raspican/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/jerkey/raspican/issues/events{/number}
+  issues_url: https://api.github.com/repos/jerkey/raspican/issues{/number}
+  keys_url: https://api.github.com/repos/jerkey/raspican/keys{/key_id}
+  labels_url: https://api.github.com/repos/jerkey/raspican/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/jerkey/raspican/languages
+  license: null
+  merges_url: https://api.github.com/repos/jerkey/raspican/merges
+  milestones_url: https://api.github.com/repos/jerkey/raspican/milestones{/number}
+  mirror_url: null
+  name: raspican
+  node_id: MDEwOlJlcG9zaXRvcnk4Mzg0NzcwMQ==
+  notifications_url: https://api.github.com/repos/jerkey/raspican/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1930655?v=4
+    events_url: https://api.github.com/users/jerkey/events{/privacy}
+    followers_url: https://api.github.com/users/jerkey/followers
+    following_url: https://api.github.com/users/jerkey/following{/other_user}
+    gists_url: https://api.github.com/users/jerkey/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/jerkey
+    id: 1930655
+    login: jerkey
+    node_id: MDQ6VXNlcjE5MzA2NTU=
+    organizations_url: https://api.github.com/users/jerkey/orgs
+    received_events_url: https://api.github.com/users/jerkey/received_events
+    repos_url: https://api.github.com/users/jerkey/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/jerkey/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/jerkey/subscriptions
+    type: User
+    url: https://api.github.com/users/jerkey
+  private: false
+  pulls_url: https://api.github.com/repos/jerkey/raspican/pulls{/number}
+  pushed_at: '2017-03-14T21:03:14Z'
+  releases_url: https://api.github.com/repos/jerkey/raspican/releases{/id}
+  size: 732
+  ssh_url: git@github.com:jerkey/raspican.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/jerkey/raspican/stargazers
+  statuses_url: https://api.github.com/repos/jerkey/raspican/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/jerkey/raspican/subscribers
+  subscription_url: https://api.github.com/repos/jerkey/raspican/subscription
+  svn_url: https://github.com/jerkey/raspican
+  tags_url: https://api.github.com/repos/jerkey/raspican/tags
+  teams_url: https://api.github.com/repos/jerkey/raspican/teams
+  topics: []
+  trees_url: https://api.github.com/repos/jerkey/raspican/git/trees{/sha}
+  updated_at: '2023-03-17T16:41:29Z'
+  url: https://api.github.com/repos/jerkey/raspican
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

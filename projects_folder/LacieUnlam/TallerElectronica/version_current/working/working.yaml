@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/assignees{/user}
-blobs_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/git/blobs{/sha}
-branches_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/branches{/branch}
-clone_url: https://github.com/LacieUnlam/TallerElectronica.git
-collaborators_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/comments{/number}
-commits_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/commits{/sha}
-compare_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/compare/{base}...{head}
-contents_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/contents/{+path}
-contributors_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/contributors
-created_at: '2016-05-14T14:59:39Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/deployments
-description: "Pr\xE1cticas de los alumnos del taller de electr\xF3nica"
-disabled: false
-downloads_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/downloads
-events_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/events
 file_sch_flat: projects_flat/lacieunlam_tallerelectronica/version_current/working/working.sch
 file_sch_folder: projects_folder/LacieUnlam/TallerElectronica/version_current/working/working.sch
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/forks
-full_name: LacieUnlam/TallerElectronica
-git_commits_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/git/tags{/sha}
-git_url: git://github.com/LacieUnlam/TallerElectronica.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: null
-hooks_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/hooks
-html_url: https://github.com/LacieUnlam/TallerElectronica
-id: 58813711
-is_template: false
-issue_comment_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/issues/events{/number}
-issues_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/issues{/number}
-keys_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/keys{/key_id}
-labels_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/languages
-license: null
-merges_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/merges
-milestones_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/milestones{/number}
-mirror_url: null
-name: TallerElectronica
-node_id: MDEwOlJlcG9zaXRvcnk1ODgxMzcxMQ==
-notifications_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/14929529?v=4
-  events_url: https://api.github.com/users/LacieUnlam/events{/privacy}
-  followers_url: https://api.github.com/users/LacieUnlam/followers
-  following_url: https://api.github.com/users/LacieUnlam/following{/other_user}
-  gists_url: https://api.github.com/users/LacieUnlam/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/LacieUnlam
-  id: 14929529
-  login: LacieUnlam
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0OTI5NTI5
-  organizations_url: https://api.github.com/users/LacieUnlam/orgs
-  received_events_url: https://api.github.com/users/LacieUnlam/received_events
-  repos_url: https://api.github.com/users/LacieUnlam/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/LacieUnlam/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/LacieUnlam/subscriptions
-  type: Organization
-  url: https://api.github.com/users/LacieUnlam
-private: false
+links:
+  github_owner: LacieUnlam
+  github_repo_name: TallerElectronica
+  github_src: https://github.com/LacieUnlam/TallerElectronica
+  github_src_repo: https://github.com/LacieUnlam/TallerElectronica
+  oomp_bot: lacieunlam_tallerelectronica
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/lacieunlam_tallerelectronica
+  oomp_doc: projects/lacieunlam_tallerelectronica/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/lacieunlam_tallerelectronica
+  oomp_src_flat: projects_flat/lacieunlam_tallerelectronica
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/lacieunlam_tallerelectronica
+  oomp_src_folder: projects_folder\LacieUnlam\TallerElectronica\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\LacieUnlam\TallerElectronica\version_current\working
+oomp_key: oomp_lacieunlam_tallerelectronica
+oomp_key_simple: lacieunlam_tallerelectronica
 projects_flat: projects_flat/lacieunlam_tallerelectronica/version_current/working
 projects_folder: projects_folder/LacieUnlam/TallerElectronica/version_current/working
-pulls_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/pulls{/number}
-pushed_at: '2019-10-24T00:41:31Z'
-releases_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/releases{/id}
-size: 3927
-ssh_url: git@github.com:LacieUnlam/TallerElectronica.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/stargazers
-statuses_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/statuses/{sha}
-subscribers_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/subscribers
-subscription_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/subscription
-svn_url: https://github.com/LacieUnlam/TallerElectronica
-tags_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/tags
-teams_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/teams
-topics: []
-trees_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/git/trees{/sha}
-updated_at: '2019-10-24T00:41:33Z'
-url: https://api.github.com/repos/LacieUnlam/TallerElectronica
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/assignees{/user}
+  blobs_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/branches{/branch}
+  clone_url: https://github.com/LacieUnlam/TallerElectronica.git
+  collaborators_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/comments{/number}
+  commits_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/commits{/sha}
+  compare_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/contents/{+path}
+  contributors_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/contributors
+  created_at: '2016-05-14T14:59:39Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/deployments
+  description: "Pr\xE1cticas de los alumnos del taller de electr\xF3nica"
+  disabled: false
+  downloads_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/downloads
+  events_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/forks
+  full_name: LacieUnlam/TallerElectronica
+  git_commits_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/git/tags{/sha}
+  git_url: git://github.com/LacieUnlam/TallerElectronica.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/hooks
+  html_url: https://github.com/LacieUnlam/TallerElectronica
+  id: 58813711
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/issues/events{/number}
+  issues_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/issues{/number}
+  keys_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/keys{/key_id}
+  labels_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/languages
+  license: null
+  merges_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/merges
+  milestones_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/milestones{/number}
+  mirror_url: null
+  name: TallerElectronica
+  node_id: MDEwOlJlcG9zaXRvcnk1ODgxMzcxMQ==
+  notifications_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/14929529?v=4
+    events_url: https://api.github.com/users/LacieUnlam/events{/privacy}
+    followers_url: https://api.github.com/users/LacieUnlam/followers
+    following_url: https://api.github.com/users/LacieUnlam/following{/other_user}
+    gists_url: https://api.github.com/users/LacieUnlam/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/LacieUnlam
+    id: 14929529
+    login: LacieUnlam
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0OTI5NTI5
+    organizations_url: https://api.github.com/users/LacieUnlam/orgs
+    received_events_url: https://api.github.com/users/LacieUnlam/received_events
+    repos_url: https://api.github.com/users/LacieUnlam/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/LacieUnlam/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/LacieUnlam/subscriptions
+    type: Organization
+    url: https://api.github.com/users/LacieUnlam
+  private: false
+  pulls_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/pulls{/number}
+  pushed_at: '2019-10-24T00:41:31Z'
+  releases_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/releases{/id}
+  size: 3927
+  ssh_url: git@github.com:LacieUnlam/TallerElectronica.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/stargazers
+  statuses_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/subscribers
+  subscription_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/subscription
+  svn_url: https://github.com/LacieUnlam/TallerElectronica
+  tags_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/tags
+  teams_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/teams
+  topics: []
+  trees_url: https://api.github.com/repos/LacieUnlam/TallerElectronica/git/trees{/sha}
+  updated_at: '2019-10-24T00:41:33Z'
+  url: https://api.github.com/repos/LacieUnlam/TallerElectronica
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

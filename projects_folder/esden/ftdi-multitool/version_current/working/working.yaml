@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/esden/ftdi-multitool/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/esden/ftdi-multitool/assignees{/user}
-blobs_url: https://api.github.com/repos/esden/ftdi-multitool/git/blobs{/sha}
-branches_url: https://api.github.com/repos/esden/ftdi-multitool/branches{/branch}
-clone_url: https://github.com/esden/ftdi-multitool.git
-collaborators_url: https://api.github.com/repos/esden/ftdi-multitool/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/esden/ftdi-multitool/comments{/number}
-commits_url: https://api.github.com/repos/esden/ftdi-multitool/commits{/sha}
-compare_url: https://api.github.com/repos/esden/ftdi-multitool/compare/{base}...{head}
-contents_url: https://api.github.com/repos/esden/ftdi-multitool/contents/{+path}
-contributors_url: https://api.github.com/repos/esden/ftdi-multitool/contributors
-created_at: '2018-05-09T23:14:10Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/esden/ftdi-multitool/deployments
-description: A modular FTDI FT232H USB to X tool.
-disabled: false
-downloads_url: https://api.github.com/repos/esden/ftdi-multitool/downloads
-events_url: https://api.github.com/repos/esden/ftdi-multitool/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/esden/ftdi-multitool/forks
-full_name: esden/ftdi-multitool
-git_commits_url: https://api.github.com/repos/esden/ftdi-multitool/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/esden/ftdi-multitool/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/esden/ftdi-multitool/git/tags{/sha}
-git_url: git://github.com/esden/ftdi-multitool.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/esden/ftdi-multitool/hooks
-html_url: https://github.com/esden/ftdi-multitool
-id: 132822314
-is_template: false
-issue_comment_url: https://api.github.com/repos/esden/ftdi-multitool/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/esden/ftdi-multitool/issues/events{/number}
-issues_url: https://api.github.com/repos/esden/ftdi-multitool/issues{/number}
-keys_url: https://api.github.com/repos/esden/ftdi-multitool/keys{/key_id}
-labels_url: https://api.github.com/repos/esden/ftdi-multitool/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/esden/ftdi-multitool/languages
-license: null
-merges_url: https://api.github.com/repos/esden/ftdi-multitool/merges
-milestones_url: https://api.github.com/repos/esden/ftdi-multitool/milestones{/number}
-mirror_url: null
-name: ftdi-multitool
-node_id: MDEwOlJlcG9zaXRvcnkxMzI4MjIzMTQ=
-notifications_url: https://api.github.com/repos/esden/ftdi-multitool/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/17334?v=4
-  events_url: https://api.github.com/users/esden/events{/privacy}
-  followers_url: https://api.github.com/users/esden/followers
-  following_url: https://api.github.com/users/esden/following{/other_user}
-  gists_url: https://api.github.com/users/esden/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/esden
-  id: 17334
-  login: esden
-  node_id: MDQ6VXNlcjE3MzM0
-  organizations_url: https://api.github.com/users/esden/orgs
-  received_events_url: https://api.github.com/users/esden/received_events
-  repos_url: https://api.github.com/users/esden/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/esden/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/esden/subscriptions
-  type: User
-  url: https://api.github.com/users/esden
-private: false
+links:
+  github_owner: esden
+  github_repo_name: ftdi-multitool
+  github_src: https://github.com/esden/ftdi-multitool
+  github_src_repo: https://github.com/esden/ftdi-multitool
+  oomp_bot: esden_ftdi_multitool
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/esden_ftdi_multitool
+  oomp_doc: projects/esden_ftdi_multitool/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/esden_ftdi_multitool
+  oomp_src_flat: projects_flat/esden_ftdi_multitool
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/esden_ftdi_multitool
+  oomp_src_folder: projects_folder\esden\ftdi-multitool\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\esden\ftdi-multitool\version_current\working
+oomp_key: oomp_esden_ftdi_multitool
+oomp_key_simple: esden_ftdi_multitool
 projects_flat: projects_flat/esden_ftdi_multitool/version_current/working
 projects_folder: projects_folder/esden/ftdi-multitool/version_current/working
-pulls_url: https://api.github.com/repos/esden/ftdi-multitool/pulls{/number}
-pushed_at: '2018-05-09T23:51:24Z'
-releases_url: https://api.github.com/repos/esden/ftdi-multitool/releases{/id}
-size: 204
-ssh_url: git@github.com:esden/ftdi-multitool.git
-stargazers_count: 16
-stargazers_url: https://api.github.com/repos/esden/ftdi-multitool/stargazers
-statuses_url: https://api.github.com/repos/esden/ftdi-multitool/statuses/{sha}
-subscribers_url: https://api.github.com/repos/esden/ftdi-multitool/subscribers
-subscription_url: https://api.github.com/repos/esden/ftdi-multitool/subscription
-svn_url: https://github.com/esden/ftdi-multitool
-tags_url: https://api.github.com/repos/esden/ftdi-multitool/tags
-teams_url: https://api.github.com/repos/esden/ftdi-multitool/teams
-topics: []
-trees_url: https://api.github.com/repos/esden/ftdi-multitool/git/trees{/sha}
-updated_at: '2022-03-17T22:58:48Z'
-url: https://api.github.com/repos/esden/ftdi-multitool
-visibility: public
-watchers: 16
-watchers_count: 16
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/esden/ftdi-multitool/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/esden/ftdi-multitool/assignees{/user}
+  blobs_url: https://api.github.com/repos/esden/ftdi-multitool/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/esden/ftdi-multitool/branches{/branch}
+  clone_url: https://github.com/esden/ftdi-multitool.git
+  collaborators_url: https://api.github.com/repos/esden/ftdi-multitool/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/esden/ftdi-multitool/comments{/number}
+  commits_url: https://api.github.com/repos/esden/ftdi-multitool/commits{/sha}
+  compare_url: https://api.github.com/repos/esden/ftdi-multitool/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/esden/ftdi-multitool/contents/{+path}
+  contributors_url: https://api.github.com/repos/esden/ftdi-multitool/contributors
+  created_at: '2018-05-09T23:14:10Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/esden/ftdi-multitool/deployments
+  description: A modular FTDI FT232H USB to X tool.
+  disabled: false
+  downloads_url: https://api.github.com/repos/esden/ftdi-multitool/downloads
+  events_url: https://api.github.com/repos/esden/ftdi-multitool/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/esden/ftdi-multitool/forks
+  full_name: esden/ftdi-multitool
+  git_commits_url: https://api.github.com/repos/esden/ftdi-multitool/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/esden/ftdi-multitool/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/esden/ftdi-multitool/git/tags{/sha}
+  git_url: git://github.com/esden/ftdi-multitool.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/esden/ftdi-multitool/hooks
+  html_url: https://github.com/esden/ftdi-multitool
+  id: 132822314
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/esden/ftdi-multitool/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/esden/ftdi-multitool/issues/events{/number}
+  issues_url: https://api.github.com/repos/esden/ftdi-multitool/issues{/number}
+  keys_url: https://api.github.com/repos/esden/ftdi-multitool/keys{/key_id}
+  labels_url: https://api.github.com/repos/esden/ftdi-multitool/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/esden/ftdi-multitool/languages
+  license: null
+  merges_url: https://api.github.com/repos/esden/ftdi-multitool/merges
+  milestones_url: https://api.github.com/repos/esden/ftdi-multitool/milestones{/number}
+  mirror_url: null
+  name: ftdi-multitool
+  node_id: MDEwOlJlcG9zaXRvcnkxMzI4MjIzMTQ=
+  notifications_url: https://api.github.com/repos/esden/ftdi-multitool/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/17334?v=4
+    events_url: https://api.github.com/users/esden/events{/privacy}
+    followers_url: https://api.github.com/users/esden/followers
+    following_url: https://api.github.com/users/esden/following{/other_user}
+    gists_url: https://api.github.com/users/esden/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/esden
+    id: 17334
+    login: esden
+    node_id: MDQ6VXNlcjE3MzM0
+    organizations_url: https://api.github.com/users/esden/orgs
+    received_events_url: https://api.github.com/users/esden/received_events
+    repos_url: https://api.github.com/users/esden/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/esden/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/esden/subscriptions
+    type: User
+    url: https://api.github.com/users/esden
+  private: false
+  pulls_url: https://api.github.com/repos/esden/ftdi-multitool/pulls{/number}
+  pushed_at: '2018-05-09T23:51:24Z'
+  releases_url: https://api.github.com/repos/esden/ftdi-multitool/releases{/id}
+  size: 204
+  ssh_url: git@github.com:esden/ftdi-multitool.git
+  stargazers_count: 16
+  stargazers_url: https://api.github.com/repos/esden/ftdi-multitool/stargazers
+  statuses_url: https://api.github.com/repos/esden/ftdi-multitool/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/esden/ftdi-multitool/subscribers
+  subscription_url: https://api.github.com/repos/esden/ftdi-multitool/subscription
+  svn_url: https://github.com/esden/ftdi-multitool
+  tags_url: https://api.github.com/repos/esden/ftdi-multitool/tags
+  teams_url: https://api.github.com/repos/esden/ftdi-multitool/teams
+  topics: []
+  trees_url: https://api.github.com/repos/esden/ftdi-multitool/git/trees{/sha}
+  updated_at: '2022-03-17T22:58:48Z'
+  url: https://api.github.com/repos/esden/ftdi-multitool
+  visibility: public
+  watchers: 16
+  watchers_count: 16
+  web_commit_signoff_required: false

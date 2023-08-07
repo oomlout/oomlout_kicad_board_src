@@ -1,114 +1,130 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/newAM/AmbientSensor/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/newAM/AmbientSensor/assignees{/user}
-blobs_url: https://api.github.com/repos/newAM/AmbientSensor/git/blobs{/sha}
-branches_url: https://api.github.com/repos/newAM/AmbientSensor/branches{/branch}
-clone_url: https://github.com/newAM/AmbientSensor.git
-collaborators_url: https://api.github.com/repos/newAM/AmbientSensor/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/newAM/AmbientSensor/comments{/number}
-commits_url: https://api.github.com/repos/newAM/AmbientSensor/commits{/sha}
-compare_url: https://api.github.com/repos/newAM/AmbientSensor/compare/{base}...{head}
-contents_url: https://api.github.com/repos/newAM/AmbientSensor/contents/{+path}
-contributors_url: https://api.github.com/repos/newAM/AmbientSensor/contributors
-created_at: '2019-06-01T22:34:08Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/newAM/AmbientSensor/deployments
-description: Ambient Environment Sensor for Home Assistant
-disabled: false
-downloads_url: https://api.github.com/repos/newAM/AmbientSensor/downloads
-events_url: https://api.github.com/repos/newAM/AmbientSensor/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/newAM/AmbientSensor/forks
-full_name: newAM/AmbientSensor
-git_commits_url: https://api.github.com/repos/newAM/AmbientSensor/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/newAM/AmbientSensor/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/newAM/AmbientSensor/git/tags{/sha}
-git_url: git://github.com/newAM/AmbientSensor.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/newAM/AmbientSensor/hooks
-html_url: https://github.com/newAM/AmbientSensor
-id: 189783208
-is_template: false
-issue_comment_url: https://api.github.com/repos/newAM/AmbientSensor/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/newAM/AmbientSensor/issues/events{/number}
-issues_url: https://api.github.com/repos/newAM/AmbientSensor/issues{/number}
-keys_url: https://api.github.com/repos/newAM/AmbientSensor/keys{/key_id}
-labels_url: https://api.github.com/repos/newAM/AmbientSensor/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/newAM/AmbientSensor/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/newAM/AmbientSensor/merges
-milestones_url: https://api.github.com/repos/newAM/AmbientSensor/milestones{/number}
-mirror_url: null
-name: AmbientSensor
-node_id: MDEwOlJlcG9zaXRvcnkxODk3ODMyMDg=
-notifications_url: https://api.github.com/repos/newAM/AmbientSensor/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/7845120?v=4
-  events_url: https://api.github.com/users/newAM/events{/privacy}
-  followers_url: https://api.github.com/users/newAM/followers
-  following_url: https://api.github.com/users/newAM/following{/other_user}
-  gists_url: https://api.github.com/users/newAM/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/newAM
-  id: 7845120
-  login: newAM
-  node_id: MDQ6VXNlcjc4NDUxMjA=
-  organizations_url: https://api.github.com/users/newAM/orgs
-  received_events_url: https://api.github.com/users/newAM/received_events
-  repos_url: https://api.github.com/users/newAM/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/newAM/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/newAM/subscriptions
-  type: User
-  url: https://api.github.com/users/newAM
-private: false
+links:
+  github_owner: newAM
+  github_repo_name: AmbientSensor
+  github_src: https://github.com/newAM/AmbientSensor
+  github_src_repo: https://github.com/newAM/AmbientSensor
+  oomp_bot: newam_ambientsensor
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/newam_ambientsensor
+  oomp_doc: projects/newam_ambientsensor/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/newam_ambientsensor
+  oomp_src_flat: projects_flat/newam_ambientsensor
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/newam_ambientsensor
+  oomp_src_folder: projects_folder\newAM\AmbientSensor\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\newAM\AmbientSensor\version_current\working
+oomp_key: oomp_newam_ambientsensor
+oomp_key_simple: newam_ambientsensor
 projects_flat: projects_flat/newam_ambientsensor/version_current/working
 projects_folder: projects_folder/newAM/AmbientSensor/version_current/working
-pulls_url: https://api.github.com/repos/newAM/AmbientSensor/pulls{/number}
-pushed_at: '2019-06-01T23:01:21Z'
-releases_url: https://api.github.com/repos/newAM/AmbientSensor/releases{/id}
-size: 16945
-ssh_url: git@github.com:newAM/AmbientSensor.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/newAM/AmbientSensor/stargazers
-statuses_url: https://api.github.com/repos/newAM/AmbientSensor/statuses/{sha}
-subscribers_url: https://api.github.com/repos/newAM/AmbientSensor/subscribers
-subscription_url: https://api.github.com/repos/newAM/AmbientSensor/subscription
-svn_url: https://github.com/newAM/AmbientSensor
-tags_url: https://api.github.com/repos/newAM/AmbientSensor/tags
-teams_url: https://api.github.com/repos/newAM/AmbientSensor/teams
-topics:
-- freertos
-- home-assistant
-- home-automation
-- humidity
-- ieee-802-3af
-- luminosity
-- mqtt
-- pressure
-- stm32
-- temperature
-trees_url: https://api.github.com/repos/newAM/AmbientSensor/git/trees{/sha}
-updated_at: '2022-08-17T14:57:49Z'
-url: https://api.github.com/repos/newAM/AmbientSensor
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/newAM/AmbientSensor/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/newAM/AmbientSensor/assignees{/user}
+  blobs_url: https://api.github.com/repos/newAM/AmbientSensor/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/newAM/AmbientSensor/branches{/branch}
+  clone_url: https://github.com/newAM/AmbientSensor.git
+  collaborators_url: https://api.github.com/repos/newAM/AmbientSensor/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/newAM/AmbientSensor/comments{/number}
+  commits_url: https://api.github.com/repos/newAM/AmbientSensor/commits{/sha}
+  compare_url: https://api.github.com/repos/newAM/AmbientSensor/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/newAM/AmbientSensor/contents/{+path}
+  contributors_url: https://api.github.com/repos/newAM/AmbientSensor/contributors
+  created_at: '2019-06-01T22:34:08Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/newAM/AmbientSensor/deployments
+  description: Ambient Environment Sensor for Home Assistant
+  disabled: false
+  downloads_url: https://api.github.com/repos/newAM/AmbientSensor/downloads
+  events_url: https://api.github.com/repos/newAM/AmbientSensor/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/newAM/AmbientSensor/forks
+  full_name: newAM/AmbientSensor
+  git_commits_url: https://api.github.com/repos/newAM/AmbientSensor/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/newAM/AmbientSensor/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/newAM/AmbientSensor/git/tags{/sha}
+  git_url: git://github.com/newAM/AmbientSensor.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/newAM/AmbientSensor/hooks
+  html_url: https://github.com/newAM/AmbientSensor
+  id: 189783208
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/newAM/AmbientSensor/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/newAM/AmbientSensor/issues/events{/number}
+  issues_url: https://api.github.com/repos/newAM/AmbientSensor/issues{/number}
+  keys_url: https://api.github.com/repos/newAM/AmbientSensor/keys{/key_id}
+  labels_url: https://api.github.com/repos/newAM/AmbientSensor/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/newAM/AmbientSensor/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/newAM/AmbientSensor/merges
+  milestones_url: https://api.github.com/repos/newAM/AmbientSensor/milestones{/number}
+  mirror_url: null
+  name: AmbientSensor
+  node_id: MDEwOlJlcG9zaXRvcnkxODk3ODMyMDg=
+  notifications_url: https://api.github.com/repos/newAM/AmbientSensor/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/7845120?v=4
+    events_url: https://api.github.com/users/newAM/events{/privacy}
+    followers_url: https://api.github.com/users/newAM/followers
+    following_url: https://api.github.com/users/newAM/following{/other_user}
+    gists_url: https://api.github.com/users/newAM/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/newAM
+    id: 7845120
+    login: newAM
+    node_id: MDQ6VXNlcjc4NDUxMjA=
+    organizations_url: https://api.github.com/users/newAM/orgs
+    received_events_url: https://api.github.com/users/newAM/received_events
+    repos_url: https://api.github.com/users/newAM/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/newAM/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/newAM/subscriptions
+    type: User
+    url: https://api.github.com/users/newAM
+  private: false
+  pulls_url: https://api.github.com/repos/newAM/AmbientSensor/pulls{/number}
+  pushed_at: '2019-06-01T23:01:21Z'
+  releases_url: https://api.github.com/repos/newAM/AmbientSensor/releases{/id}
+  size: 16945
+  ssh_url: git@github.com:newAM/AmbientSensor.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/newAM/AmbientSensor/stargazers
+  statuses_url: https://api.github.com/repos/newAM/AmbientSensor/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/newAM/AmbientSensor/subscribers
+  subscription_url: https://api.github.com/repos/newAM/AmbientSensor/subscription
+  svn_url: https://github.com/newAM/AmbientSensor
+  tags_url: https://api.github.com/repos/newAM/AmbientSensor/tags
+  teams_url: https://api.github.com/repos/newAM/AmbientSensor/teams
+  topics:
+  - freertos
+  - home-assistant
+  - home-automation
+  - humidity
+  - ieee-802-3af
+  - luminosity
+  - mqtt
+  - pressure
+  - stm32
+  - temperature
+  trees_url: https://api.github.com/repos/newAM/AmbientSensor/git/trees{/sha}
+  updated_at: '2022-08-17T14:57:49Z'
+  url: https://api.github.com/repos/newAM/AmbientSensor
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

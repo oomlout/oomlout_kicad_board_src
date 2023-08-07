@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ai03-2725/Pluto/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ai03-2725/Pluto/assignees{/user}
-blobs_url: https://api.github.com/repos/ai03-2725/Pluto/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ai03-2725/Pluto/branches{/branch}
-clone_url: https://github.com/ai03-2725/Pluto.git
-collaborators_url: https://api.github.com/repos/ai03-2725/Pluto/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ai03-2725/Pluto/comments{/number}
-commits_url: https://api.github.com/repos/ai03-2725/Pluto/commits{/sha}
-compare_url: https://api.github.com/repos/ai03-2725/Pluto/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ai03-2725/Pluto/contents/{+path}
-contributors_url: https://api.github.com/repos/ai03-2725/Pluto/contributors
-created_at: '2017-10-23T18:22:22Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ai03-2725/Pluto/deployments
-description: Cut-PCB MX switch modding plate
-disabled: false
-downloads_url: https://api.github.com/repos/ai03-2725/Pluto/downloads
-events_url: https://api.github.com/repos/ai03-2725/Pluto/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/ai03-2725/Pluto/forks
-full_name: ai03-2725/Pluto
-git_commits_url: https://api.github.com/repos/ai03-2725/Pluto/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ai03-2725/Pluto/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ai03-2725/Pluto/git/tags{/sha}
-git_url: git://github.com/ai03-2725/Pluto.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ai03-2725/Pluto/hooks
-html_url: https://github.com/ai03-2725/Pluto
-id: 108021855
-is_template: false
-issue_comment_url: https://api.github.com/repos/ai03-2725/Pluto/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ai03-2725/Pluto/issues/events{/number}
-issues_url: https://api.github.com/repos/ai03-2725/Pluto/issues{/number}
-keys_url: https://api.github.com/repos/ai03-2725/Pluto/keys{/key_id}
-labels_url: https://api.github.com/repos/ai03-2725/Pluto/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ai03-2725/Pluto/languages
-license: null
-merges_url: https://api.github.com/repos/ai03-2725/Pluto/merges
-milestones_url: https://api.github.com/repos/ai03-2725/Pluto/milestones{/number}
-mirror_url: null
-name: Pluto
-node_id: MDEwOlJlcG9zaXRvcnkxMDgwMjE4NTU=
-notifications_url: https://api.github.com/repos/ai03-2725/Pluto/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/26614352?v=4
-  events_url: https://api.github.com/users/ai03-2725/events{/privacy}
-  followers_url: https://api.github.com/users/ai03-2725/followers
-  following_url: https://api.github.com/users/ai03-2725/following{/other_user}
-  gists_url: https://api.github.com/users/ai03-2725/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ai03-2725
-  id: 26614352
-  login: ai03-2725
-  node_id: MDQ6VXNlcjI2NjE0MzUy
-  organizations_url: https://api.github.com/users/ai03-2725/orgs
-  received_events_url: https://api.github.com/users/ai03-2725/received_events
-  repos_url: https://api.github.com/users/ai03-2725/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ai03-2725/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ai03-2725/subscriptions
-  type: User
-  url: https://api.github.com/users/ai03-2725
-private: false
+links:
+  github_owner: ai03-2725
+  github_repo_name: Pluto
+  github_src: https://github.com/ai03-2725/Pluto
+  github_src_repo: https://github.com/ai03-2725/Pluto
+  oomp_bot: ai03_2725_pluto
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/ai03_2725_pluto
+  oomp_doc: projects/ai03_2725_pluto/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/ai03_2725_pluto
+  oomp_src_flat: projects_flat/ai03_2725_pluto
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/ai03_2725_pluto
+  oomp_src_folder: projects_folder\ai03-2725\Pluto\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ai03-2725\Pluto\version_current\working
+oomp_key: oomp_ai03_2725_pluto
+oomp_key_simple: ai03_2725_pluto
 projects_flat: projects_flat/ai03_2725_pluto/version_current/working
 projects_folder: projects_folder/ai03-2725/Pluto/version_current/working
-pulls_url: https://api.github.com/repos/ai03-2725/Pluto/pulls{/number}
-pushed_at: '2017-10-23T18:40:19Z'
-releases_url: https://api.github.com/repos/ai03-2725/Pluto/releases{/id}
-size: 12
-ssh_url: git@github.com:ai03-2725/Pluto.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/ai03-2725/Pluto/stargazers
-statuses_url: https://api.github.com/repos/ai03-2725/Pluto/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ai03-2725/Pluto/subscribers
-subscription_url: https://api.github.com/repos/ai03-2725/Pluto/subscription
-svn_url: https://github.com/ai03-2725/Pluto
-tags_url: https://api.github.com/repos/ai03-2725/Pluto/tags
-teams_url: https://api.github.com/repos/ai03-2725/Pluto/teams
-topics: []
-trees_url: https://api.github.com/repos/ai03-2725/Pluto/git/trees{/sha}
-updated_at: '2021-04-18T06:54:14Z'
-url: https://api.github.com/repos/ai03-2725/Pluto
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ai03-2725/Pluto/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ai03-2725/Pluto/assignees{/user}
+  blobs_url: https://api.github.com/repos/ai03-2725/Pluto/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ai03-2725/Pluto/branches{/branch}
+  clone_url: https://github.com/ai03-2725/Pluto.git
+  collaborators_url: https://api.github.com/repos/ai03-2725/Pluto/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ai03-2725/Pluto/comments{/number}
+  commits_url: https://api.github.com/repos/ai03-2725/Pluto/commits{/sha}
+  compare_url: https://api.github.com/repos/ai03-2725/Pluto/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ai03-2725/Pluto/contents/{+path}
+  contributors_url: https://api.github.com/repos/ai03-2725/Pluto/contributors
+  created_at: '2017-10-23T18:22:22Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ai03-2725/Pluto/deployments
+  description: Cut-PCB MX switch modding plate
+  disabled: false
+  downloads_url: https://api.github.com/repos/ai03-2725/Pluto/downloads
+  events_url: https://api.github.com/repos/ai03-2725/Pluto/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/ai03-2725/Pluto/forks
+  full_name: ai03-2725/Pluto
+  git_commits_url: https://api.github.com/repos/ai03-2725/Pluto/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ai03-2725/Pluto/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ai03-2725/Pluto/git/tags{/sha}
+  git_url: git://github.com/ai03-2725/Pluto.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ai03-2725/Pluto/hooks
+  html_url: https://github.com/ai03-2725/Pluto
+  id: 108021855
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ai03-2725/Pluto/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ai03-2725/Pluto/issues/events{/number}
+  issues_url: https://api.github.com/repos/ai03-2725/Pluto/issues{/number}
+  keys_url: https://api.github.com/repos/ai03-2725/Pluto/keys{/key_id}
+  labels_url: https://api.github.com/repos/ai03-2725/Pluto/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ai03-2725/Pluto/languages
+  license: null
+  merges_url: https://api.github.com/repos/ai03-2725/Pluto/merges
+  milestones_url: https://api.github.com/repos/ai03-2725/Pluto/milestones{/number}
+  mirror_url: null
+  name: Pluto
+  node_id: MDEwOlJlcG9zaXRvcnkxMDgwMjE4NTU=
+  notifications_url: https://api.github.com/repos/ai03-2725/Pluto/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/26614352?v=4
+    events_url: https://api.github.com/users/ai03-2725/events{/privacy}
+    followers_url: https://api.github.com/users/ai03-2725/followers
+    following_url: https://api.github.com/users/ai03-2725/following{/other_user}
+    gists_url: https://api.github.com/users/ai03-2725/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ai03-2725
+    id: 26614352
+    login: ai03-2725
+    node_id: MDQ6VXNlcjI2NjE0MzUy
+    organizations_url: https://api.github.com/users/ai03-2725/orgs
+    received_events_url: https://api.github.com/users/ai03-2725/received_events
+    repos_url: https://api.github.com/users/ai03-2725/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ai03-2725/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ai03-2725/subscriptions
+    type: User
+    url: https://api.github.com/users/ai03-2725
+  private: false
+  pulls_url: https://api.github.com/repos/ai03-2725/Pluto/pulls{/number}
+  pushed_at: '2017-10-23T18:40:19Z'
+  releases_url: https://api.github.com/repos/ai03-2725/Pluto/releases{/id}
+  size: 12
+  ssh_url: git@github.com:ai03-2725/Pluto.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/ai03-2725/Pluto/stargazers
+  statuses_url: https://api.github.com/repos/ai03-2725/Pluto/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ai03-2725/Pluto/subscribers
+  subscription_url: https://api.github.com/repos/ai03-2725/Pluto/subscription
+  svn_url: https://github.com/ai03-2725/Pluto
+  tags_url: https://api.github.com/repos/ai03-2725/Pluto/tags
+  teams_url: https://api.github.com/repos/ai03-2725/Pluto/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ai03-2725/Pluto/git/trees{/sha}
+  updated_at: '2021-04-18T06:54:14Z'
+  url: https://api.github.com/repos/ai03-2725/Pluto
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

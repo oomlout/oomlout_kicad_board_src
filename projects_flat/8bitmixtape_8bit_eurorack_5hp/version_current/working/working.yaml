@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/assignees{/user}
-blobs_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/git/blobs{/sha}
-branches_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/branches{/branch}
-clone_url: https://github.com/8BitMixtape/8Bit_EuroRack-5hp.git
-collaborators_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/comments{/number}
-commits_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/commits{/sha}
-compare_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/compare/{base}...{head}
-contents_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/contents/{+path}
-contributors_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/contributors
-created_at: '2019-05-06T03:24:03Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/deployments
-description: 8Bit Mixtape as single PCB 5hp module - kinda experiment but works!!
-disabled: false
-downloads_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/downloads
-events_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/forks
-full_name: 8BitMixtape/8Bit_EuroRack-5hp
-git_commits_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/git/tags{/sha}
-git_url: git://github.com/8BitMixtape/8Bit_EuroRack-5hp.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/hooks
-html_url: https://github.com/8BitMixtape/8Bit_EuroRack-5hp
-id: 185116882
-is_template: false
-issue_comment_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/issues/events{/number}
-issues_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/issues{/number}
-keys_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/keys{/key_id}
-labels_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/languages
-license: null
-merges_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/merges
-milestones_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/milestones{/number}
-mirror_url: null
-name: 8Bit_EuroRack-5hp
-node_id: MDEwOlJlcG9zaXRvcnkxODUxMTY4ODI=
-notifications_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/8462711?v=4
-  events_url: https://api.github.com/users/8BitMixtape/events{/privacy}
-  followers_url: https://api.github.com/users/8BitMixtape/followers
-  following_url: https://api.github.com/users/8BitMixtape/following{/other_user}
-  gists_url: https://api.github.com/users/8BitMixtape/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/8BitMixtape
-  id: 8462711
-  login: 8BitMixtape
-  node_id: MDEyOk9yZ2FuaXphdGlvbjg0NjI3MTE=
-  organizations_url: https://api.github.com/users/8BitMixtape/orgs
-  received_events_url: https://api.github.com/users/8BitMixtape/received_events
-  repos_url: https://api.github.com/users/8BitMixtape/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/8BitMixtape/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/8BitMixtape/subscriptions
-  type: Organization
-  url: https://api.github.com/users/8BitMixtape
-private: false
+links:
+  github_owner: 8BitMixtape
+  github_repo_name: 8Bit_EuroRack-5hp
+  github_src: https://github.com/8BitMixtape/8Bit_EuroRack-5hp
+  github_src_repo: https://github.com/8BitMixtape/8Bit_EuroRack-5hp
+  oomp_bot: projects_8bitmixtape_8bit_eurorack_5hp
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_8bitmixtape_8bit_eurorack_5hp
+  oomp_doc: projects/projects_flat_8bitmixtape_8bit_eurorack_5hp/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_8bitmixtape_8bit_eurorack_5hp
+  oomp_src_flat: projects_flat/projects_flat_8bitmixtape_8bit_eurorack_5hp
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_8bitmixtape_8bit_eurorack_5hp
+  oomp_src_folder: projects_flat\8bitmixtape_8bit_eurorack_5hp\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\8bitmixtape_8bit_eurorack_5hp\version_current\working
+oomp_key: oomp_projects_flat_8bitmixtape_8bit_eurorack_5hp
+oomp_key_simple: projects_flat_8bitmixtape_8bit_eurorack_5hp
 projects_flat: projects_flat/8bitmixtape_8bit_eurorack_5hp/version_current/working
 projects_folder: projects_folder/8BitMixtape/8Bit_EuroRack-5hp/version_current/working
-pulls_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/pulls{/number}
-pushed_at: '2019-05-15T03:20:44Z'
-releases_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/releases{/id}
-size: 6267
-ssh_url: git@github.com:8BitMixtape/8Bit_EuroRack-5hp.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/stargazers
-statuses_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/statuses/{sha}
-subscribers_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/subscribers
-subscription_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/subscription
-svn_url: https://github.com/8BitMixtape/8Bit_EuroRack-5hp
-tags_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/tags
-teams_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/teams
-topics: []
-trees_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/git/trees{/sha}
-updated_at: '2020-04-07T04:06:34Z'
-url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/assignees{/user}
+  blobs_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/branches{/branch}
+  clone_url: https://github.com/8BitMixtape/8Bit_EuroRack-5hp.git
+  collaborators_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/comments{/number}
+  commits_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/commits{/sha}
+  compare_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/contents/{+path}
+  contributors_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/contributors
+  created_at: '2019-05-06T03:24:03Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/deployments
+  description: 8Bit Mixtape as single PCB 5hp module - kinda experiment but works!!
+  disabled: false
+  downloads_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/downloads
+  events_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/forks
+  full_name: 8BitMixtape/8Bit_EuroRack-5hp
+  git_commits_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/git/tags{/sha}
+  git_url: git://github.com/8BitMixtape/8Bit_EuroRack-5hp.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/hooks
+  html_url: https://github.com/8BitMixtape/8Bit_EuroRack-5hp
+  id: 185116882
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/issues/events{/number}
+  issues_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/issues{/number}
+  keys_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/keys{/key_id}
+  labels_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/languages
+  license: null
+  merges_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/merges
+  milestones_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/milestones{/number}
+  mirror_url: null
+  name: 8Bit_EuroRack-5hp
+  node_id: MDEwOlJlcG9zaXRvcnkxODUxMTY4ODI=
+  notifications_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/8462711?v=4
+    events_url: https://api.github.com/users/8BitMixtape/events{/privacy}
+    followers_url: https://api.github.com/users/8BitMixtape/followers
+    following_url: https://api.github.com/users/8BitMixtape/following{/other_user}
+    gists_url: https://api.github.com/users/8BitMixtape/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/8BitMixtape
+    id: 8462711
+    login: 8BitMixtape
+    node_id: MDEyOk9yZ2FuaXphdGlvbjg0NjI3MTE=
+    organizations_url: https://api.github.com/users/8BitMixtape/orgs
+    received_events_url: https://api.github.com/users/8BitMixtape/received_events
+    repos_url: https://api.github.com/users/8BitMixtape/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/8BitMixtape/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/8BitMixtape/subscriptions
+    type: Organization
+    url: https://api.github.com/users/8BitMixtape
+  private: false
+  pulls_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/pulls{/number}
+  pushed_at: '2019-05-15T03:20:44Z'
+  releases_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/releases{/id}
+  size: 6267
+  ssh_url: git@github.com:8BitMixtape/8Bit_EuroRack-5hp.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/stargazers
+  statuses_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/subscribers
+  subscription_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/subscription
+  svn_url: https://github.com/8BitMixtape/8Bit_EuroRack-5hp
+  tags_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/tags
+  teams_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/teams
+  topics: []
+  trees_url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp/git/trees{/sha}
+  updated_at: '2020-04-07T04:06:34Z'
+  url: https://api.github.com/repos/8BitMixtape/8Bit_EuroRack-5hp
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

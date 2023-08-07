@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/nppc/OLEDInterface/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/nppc/OLEDInterface/assignees{/user}
-blobs_url: https://api.github.com/repos/nppc/OLEDInterface/git/blobs{/sha}
-branches_url: https://api.github.com/repos/nppc/OLEDInterface/branches{/branch}
-clone_url: https://github.com/nppc/OLEDInterface.git
-collaborators_url: https://api.github.com/repos/nppc/OLEDInterface/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/nppc/OLEDInterface/comments{/number}
-commits_url: https://api.github.com/repos/nppc/OLEDInterface/commits{/sha}
-compare_url: https://api.github.com/repos/nppc/OLEDInterface/compare/{base}...{head}
-contents_url: https://api.github.com/repos/nppc/OLEDInterface/contents/{+path}
-contributors_url: https://api.github.com/repos/nppc/OLEDInterface/contributors
-created_at: '2017-10-10T11:46:13Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/nppc/OLEDInterface/deployments
-description: Interface for small OLED 96x16, SSD1306 (14pin)
-disabled: false
-downloads_url: https://api.github.com/repos/nppc/OLEDInterface/downloads
-events_url: https://api.github.com/repos/nppc/OLEDInterface/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/nppc/OLEDInterface/forks
-full_name: nppc/OLEDInterface
-git_commits_url: https://api.github.com/repos/nppc/OLEDInterface/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/nppc/OLEDInterface/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/nppc/OLEDInterface/git/tags{/sha}
-git_url: git://github.com/nppc/OLEDInterface.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/nppc/OLEDInterface/hooks
-html_url: https://github.com/nppc/OLEDInterface
-id: 106409899
-is_template: false
-issue_comment_url: https://api.github.com/repos/nppc/OLEDInterface/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/nppc/OLEDInterface/issues/events{/number}
-issues_url: https://api.github.com/repos/nppc/OLEDInterface/issues{/number}
-keys_url: https://api.github.com/repos/nppc/OLEDInterface/keys{/key_id}
-labels_url: https://api.github.com/repos/nppc/OLEDInterface/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/nppc/OLEDInterface/languages
-license: null
-merges_url: https://api.github.com/repos/nppc/OLEDInterface/merges
-milestones_url: https://api.github.com/repos/nppc/OLEDInterface/milestones{/number}
-mirror_url: null
-name: OLEDInterface
-node_id: MDEwOlJlcG9zaXRvcnkxMDY0MDk4OTk=
-notifications_url: https://api.github.com/repos/nppc/OLEDInterface/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/10918485?v=4
-  events_url: https://api.github.com/users/nppc/events{/privacy}
-  followers_url: https://api.github.com/users/nppc/followers
-  following_url: https://api.github.com/users/nppc/following{/other_user}
-  gists_url: https://api.github.com/users/nppc/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/nppc
-  id: 10918485
-  login: nppc
-  node_id: MDQ6VXNlcjEwOTE4NDg1
-  organizations_url: https://api.github.com/users/nppc/orgs
-  received_events_url: https://api.github.com/users/nppc/received_events
-  repos_url: https://api.github.com/users/nppc/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/nppc/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/nppc/subscriptions
-  type: User
-  url: https://api.github.com/users/nppc
-private: false
+links:
+  github_owner: nppc
+  github_repo_name: OLEDInterface
+  github_src: https://github.com/nppc/OLEDInterface
+  github_src_repo: https://github.com/nppc/OLEDInterface
+  oomp_bot: nppc_oledinterface
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/nppc_oledinterface
+  oomp_doc: projects/nppc_oledinterface/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/nppc_oledinterface
+  oomp_src_flat: projects_flat/nppc_oledinterface
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/nppc_oledinterface
+  oomp_src_folder: projects_folder\nppc\OLEDInterface\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\nppc\OLEDInterface\version_current\working
+oomp_key: oomp_nppc_oledinterface
+oomp_key_simple: nppc_oledinterface
 projects_flat: projects_flat/nppc_oledinterface/version_current/working
 projects_folder: projects_folder/nppc/OLEDInterface/version_current/working
-pulls_url: https://api.github.com/repos/nppc/OLEDInterface/pulls{/number}
-pushed_at: '2021-07-15T13:40:53Z'
-releases_url: https://api.github.com/repos/nppc/OLEDInterface/releases{/id}
-size: 126
-ssh_url: git@github.com:nppc/OLEDInterface.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/nppc/OLEDInterface/stargazers
-statuses_url: https://api.github.com/repos/nppc/OLEDInterface/statuses/{sha}
-subscribers_url: https://api.github.com/repos/nppc/OLEDInterface/subscribers
-subscription_url: https://api.github.com/repos/nppc/OLEDInterface/subscription
-svn_url: https://github.com/nppc/OLEDInterface
-tags_url: https://api.github.com/repos/nppc/OLEDInterface/tags
-teams_url: https://api.github.com/repos/nppc/OLEDInterface/teams
-topics: []
-trees_url: https://api.github.com/repos/nppc/OLEDInterface/git/trees{/sha}
-updated_at: '2021-07-15T13:40:56Z'
-url: https://api.github.com/repos/nppc/OLEDInterface
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/nppc/OLEDInterface/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/nppc/OLEDInterface/assignees{/user}
+  blobs_url: https://api.github.com/repos/nppc/OLEDInterface/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/nppc/OLEDInterface/branches{/branch}
+  clone_url: https://github.com/nppc/OLEDInterface.git
+  collaborators_url: https://api.github.com/repos/nppc/OLEDInterface/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/nppc/OLEDInterface/comments{/number}
+  commits_url: https://api.github.com/repos/nppc/OLEDInterface/commits{/sha}
+  compare_url: https://api.github.com/repos/nppc/OLEDInterface/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/nppc/OLEDInterface/contents/{+path}
+  contributors_url: https://api.github.com/repos/nppc/OLEDInterface/contributors
+  created_at: '2017-10-10T11:46:13Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/nppc/OLEDInterface/deployments
+  description: Interface for small OLED 96x16, SSD1306 (14pin)
+  disabled: false
+  downloads_url: https://api.github.com/repos/nppc/OLEDInterface/downloads
+  events_url: https://api.github.com/repos/nppc/OLEDInterface/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/nppc/OLEDInterface/forks
+  full_name: nppc/OLEDInterface
+  git_commits_url: https://api.github.com/repos/nppc/OLEDInterface/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/nppc/OLEDInterface/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/nppc/OLEDInterface/git/tags{/sha}
+  git_url: git://github.com/nppc/OLEDInterface.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/nppc/OLEDInterface/hooks
+  html_url: https://github.com/nppc/OLEDInterface
+  id: 106409899
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/nppc/OLEDInterface/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/nppc/OLEDInterface/issues/events{/number}
+  issues_url: https://api.github.com/repos/nppc/OLEDInterface/issues{/number}
+  keys_url: https://api.github.com/repos/nppc/OLEDInterface/keys{/key_id}
+  labels_url: https://api.github.com/repos/nppc/OLEDInterface/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/nppc/OLEDInterface/languages
+  license: null
+  merges_url: https://api.github.com/repos/nppc/OLEDInterface/merges
+  milestones_url: https://api.github.com/repos/nppc/OLEDInterface/milestones{/number}
+  mirror_url: null
+  name: OLEDInterface
+  node_id: MDEwOlJlcG9zaXRvcnkxMDY0MDk4OTk=
+  notifications_url: https://api.github.com/repos/nppc/OLEDInterface/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/10918485?v=4
+    events_url: https://api.github.com/users/nppc/events{/privacy}
+    followers_url: https://api.github.com/users/nppc/followers
+    following_url: https://api.github.com/users/nppc/following{/other_user}
+    gists_url: https://api.github.com/users/nppc/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/nppc
+    id: 10918485
+    login: nppc
+    node_id: MDQ6VXNlcjEwOTE4NDg1
+    organizations_url: https://api.github.com/users/nppc/orgs
+    received_events_url: https://api.github.com/users/nppc/received_events
+    repos_url: https://api.github.com/users/nppc/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/nppc/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/nppc/subscriptions
+    type: User
+    url: https://api.github.com/users/nppc
+  private: false
+  pulls_url: https://api.github.com/repos/nppc/OLEDInterface/pulls{/number}
+  pushed_at: '2021-07-15T13:40:53Z'
+  releases_url: https://api.github.com/repos/nppc/OLEDInterface/releases{/id}
+  size: 126
+  ssh_url: git@github.com:nppc/OLEDInterface.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/nppc/OLEDInterface/stargazers
+  statuses_url: https://api.github.com/repos/nppc/OLEDInterface/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/nppc/OLEDInterface/subscribers
+  subscription_url: https://api.github.com/repos/nppc/OLEDInterface/subscription
+  svn_url: https://github.com/nppc/OLEDInterface
+  tags_url: https://api.github.com/repos/nppc/OLEDInterface/tags
+  teams_url: https://api.github.com/repos/nppc/OLEDInterface/teams
+  topics: []
+  trees_url: https://api.github.com/repos/nppc/OLEDInterface/git/trees{/sha}
+  updated_at: '2021-07-15T13:40:56Z'
+  url: https://api.github.com/repos/nppc/OLEDInterface
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

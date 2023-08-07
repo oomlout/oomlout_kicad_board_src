@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/altLab/AltoEspectro/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/altLab/AltoEspectro/assignees{/user}
-blobs_url: https://api.github.com/repos/altLab/AltoEspectro/git/blobs{/sha}
-branches_url: https://api.github.com/repos/altLab/AltoEspectro/branches{/branch}
-clone_url: https://github.com/altLab/AltoEspectro.git
-collaborators_url: https://api.github.com/repos/altLab/AltoEspectro/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/altLab/AltoEspectro/comments{/number}
-commits_url: https://api.github.com/repos/altLab/AltoEspectro/commits{/sha}
-compare_url: https://api.github.com/repos/altLab/AltoEspectro/compare/{base}...{head}
-contents_url: https://api.github.com/repos/altLab/AltoEspectro/contents/{+path}
-contributors_url: https://api.github.com/repos/altLab/AltoEspectro/contributors
-created_at: '2015-06-25T21:54:59Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/altLab/AltoEspectro/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/altLab/AltoEspectro/downloads
-events_url: https://api.github.com/repos/altLab/AltoEspectro/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/altLab/AltoEspectro/forks
-full_name: altLab/AltoEspectro
-git_commits_url: https://api.github.com/repos/altLab/AltoEspectro/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/altLab/AltoEspectro/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/altLab/AltoEspectro/git/tags{/sha}
-git_url: git://github.com/altLab/AltoEspectro.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: null
-hooks_url: https://api.github.com/repos/altLab/AltoEspectro/hooks
-html_url: https://github.com/altLab/AltoEspectro
-id: 38076512
-is_template: false
-issue_comment_url: https://api.github.com/repos/altLab/AltoEspectro/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/altLab/AltoEspectro/issues/events{/number}
-issues_url: https://api.github.com/repos/altLab/AltoEspectro/issues{/number}
-keys_url: https://api.github.com/repos/altLab/AltoEspectro/keys{/key_id}
-labels_url: https://api.github.com/repos/altLab/AltoEspectro/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/altLab/AltoEspectro/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/altLab/AltoEspectro/merges
-milestones_url: https://api.github.com/repos/altLab/AltoEspectro/milestones{/number}
-mirror_url: null
-name: AltoEspectro
-node_id: MDEwOlJlcG9zaXRvcnkzODA3NjUxMg==
-notifications_url: https://api.github.com/repos/altLab/AltoEspectro/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5864781?v=4
-  events_url: https://api.github.com/users/altLab/events{/privacy}
-  followers_url: https://api.github.com/users/altLab/followers
-  following_url: https://api.github.com/users/altLab/following{/other_user}
-  gists_url: https://api.github.com/users/altLab/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/altLab
-  id: 5864781
-  login: altLab
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU4NjQ3ODE=
-  organizations_url: https://api.github.com/users/altLab/orgs
-  received_events_url: https://api.github.com/users/altLab/received_events
-  repos_url: https://api.github.com/users/altLab/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/altLab/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/altLab/subscriptions
-  type: Organization
-  url: https://api.github.com/users/altLab
-private: false
+links:
+  github_owner: altLab
+  github_repo_name: AltoEspectro
+  github_src: https://github.com/altLab/AltoEspectro
+  github_src_repo: https://github.com/altLab/AltoEspectro
+  oomp_bot: projects_altlab_altoespectro
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_altlab_altoespectro
+  oomp_doc: projects/projects_flat_altlab_altoespectro/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_altlab_altoespectro
+  oomp_src_flat: projects_flat/projects_flat_altlab_altoespectro
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_altlab_altoespectro
+  oomp_src_folder: projects_flat\altlab_altoespectro\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\altlab_altoespectro\version_current\working
+oomp_key: oomp_projects_flat_altlab_altoespectro
+oomp_key_simple: projects_flat_altlab_altoespectro
 projects_flat: projects_flat/altlab_altoespectro/version_current/working
 projects_folder: projects_folder/altLab/AltoEspectro/version_current/working
-pulls_url: https://api.github.com/repos/altLab/AltoEspectro/pulls{/number}
-pushed_at: '2017-08-01T11:18:05Z'
-releases_url: https://api.github.com/repos/altLab/AltoEspectro/releases{/id}
-size: 2010
-ssh_url: git@github.com:altLab/AltoEspectro.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/altLab/AltoEspectro/stargazers
-statuses_url: https://api.github.com/repos/altLab/AltoEspectro/statuses/{sha}
-subscribers_url: https://api.github.com/repos/altLab/AltoEspectro/subscribers
-subscription_url: https://api.github.com/repos/altLab/AltoEspectro/subscription
-svn_url: https://github.com/altLab/AltoEspectro
-tags_url: https://api.github.com/repos/altLab/AltoEspectro/tags
-teams_url: https://api.github.com/repos/altLab/AltoEspectro/teams
-topics: []
-trees_url: https://api.github.com/repos/altLab/AltoEspectro/git/trees{/sha}
-updated_at: '2017-08-01T11:18:07Z'
-url: https://api.github.com/repos/altLab/AltoEspectro
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/altLab/AltoEspectro/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/altLab/AltoEspectro/assignees{/user}
+  blobs_url: https://api.github.com/repos/altLab/AltoEspectro/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/altLab/AltoEspectro/branches{/branch}
+  clone_url: https://github.com/altLab/AltoEspectro.git
+  collaborators_url: https://api.github.com/repos/altLab/AltoEspectro/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/altLab/AltoEspectro/comments{/number}
+  commits_url: https://api.github.com/repos/altLab/AltoEspectro/commits{/sha}
+  compare_url: https://api.github.com/repos/altLab/AltoEspectro/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/altLab/AltoEspectro/contents/{+path}
+  contributors_url: https://api.github.com/repos/altLab/AltoEspectro/contributors
+  created_at: '2015-06-25T21:54:59Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/altLab/AltoEspectro/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/altLab/AltoEspectro/downloads
+  events_url: https://api.github.com/repos/altLab/AltoEspectro/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/altLab/AltoEspectro/forks
+  full_name: altLab/AltoEspectro
+  git_commits_url: https://api.github.com/repos/altLab/AltoEspectro/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/altLab/AltoEspectro/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/altLab/AltoEspectro/git/tags{/sha}
+  git_url: git://github.com/altLab/AltoEspectro.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/altLab/AltoEspectro/hooks
+  html_url: https://github.com/altLab/AltoEspectro
+  id: 38076512
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/altLab/AltoEspectro/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/altLab/AltoEspectro/issues/events{/number}
+  issues_url: https://api.github.com/repos/altLab/AltoEspectro/issues{/number}
+  keys_url: https://api.github.com/repos/altLab/AltoEspectro/keys{/key_id}
+  labels_url: https://api.github.com/repos/altLab/AltoEspectro/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/altLab/AltoEspectro/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/altLab/AltoEspectro/merges
+  milestones_url: https://api.github.com/repos/altLab/AltoEspectro/milestones{/number}
+  mirror_url: null
+  name: AltoEspectro
+  node_id: MDEwOlJlcG9zaXRvcnkzODA3NjUxMg==
+  notifications_url: https://api.github.com/repos/altLab/AltoEspectro/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5864781?v=4
+    events_url: https://api.github.com/users/altLab/events{/privacy}
+    followers_url: https://api.github.com/users/altLab/followers
+    following_url: https://api.github.com/users/altLab/following{/other_user}
+    gists_url: https://api.github.com/users/altLab/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/altLab
+    id: 5864781
+    login: altLab
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU4NjQ3ODE=
+    organizations_url: https://api.github.com/users/altLab/orgs
+    received_events_url: https://api.github.com/users/altLab/received_events
+    repos_url: https://api.github.com/users/altLab/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/altLab/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/altLab/subscriptions
+    type: Organization
+    url: https://api.github.com/users/altLab
+  private: false
+  pulls_url: https://api.github.com/repos/altLab/AltoEspectro/pulls{/number}
+  pushed_at: '2017-08-01T11:18:05Z'
+  releases_url: https://api.github.com/repos/altLab/AltoEspectro/releases{/id}
+  size: 2010
+  ssh_url: git@github.com:altLab/AltoEspectro.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/altLab/AltoEspectro/stargazers
+  statuses_url: https://api.github.com/repos/altLab/AltoEspectro/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/altLab/AltoEspectro/subscribers
+  subscription_url: https://api.github.com/repos/altLab/AltoEspectro/subscription
+  svn_url: https://github.com/altLab/AltoEspectro
+  tags_url: https://api.github.com/repos/altLab/AltoEspectro/tags
+  teams_url: https://api.github.com/repos/altLab/AltoEspectro/teams
+  topics: []
+  trees_url: https://api.github.com/repos/altLab/AltoEspectro/git/trees{/sha}
+  updated_at: '2017-08-01T11:18:07Z'
+  url: https://api.github.com/repos/altLab/AltoEspectro
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

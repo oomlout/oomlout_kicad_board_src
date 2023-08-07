@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/USB-gLINK/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/USB-gLINK/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/USB-gLINK/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/USB-gLINK/branches{/branch}
-clone_url: https://github.com/OLIMEX/USB-gLINK.git
-collaborators_url: https://api.github.com/repos/OLIMEX/USB-gLINK/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/USB-gLINK/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/USB-gLINK/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/USB-gLINK/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/USB-gLINK/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/USB-gLINK/contributors
-created_at: '2020-04-28T06:47:35Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/OLIMEX/USB-gLINK/deployments
-description: Industrial grade USB LTE cat 4 module optimized for IoT applications
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/USB-gLINK/downloads
-events_url: https://api.github.com/repos/OLIMEX/USB-gLINK/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/OLIMEX/USB-gLINK/forks
-full_name: OLIMEX/USB-gLINK
-git_commits_url: https://api.github.com/repos/OLIMEX/USB-gLINK/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/USB-gLINK/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/USB-gLINK/git/tags{/sha}
-git_url: git://github.com/OLIMEX/USB-gLINK.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/OLIMEX/USB-gLINK/hooks
-html_url: https://github.com/OLIMEX/USB-gLINK
-id: 259555031
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/USB-gLINK/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/USB-gLINK/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/USB-gLINK/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/USB-gLINK/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/USB-gLINK/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/OLIMEX/USB-gLINK/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/OLIMEX/USB-gLINK/merges
-milestones_url: https://api.github.com/repos/OLIMEX/USB-gLINK/milestones{/number}
-mirror_url: null
-name: USB-gLINK
-node_id: MDEwOlJlcG9zaXRvcnkyNTk1NTUwMzE=
-notifications_url: https://api.github.com/repos/OLIMEX/USB-gLINK/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: USB-gLINK
+  github_src: https://github.com/OLIMEX/USB-gLINK
+  github_src_repo: https://github.com/OLIMEX/USB-gLINK
+  oomp_bot: olimex_usb_glink
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/olimex_usb_glink
+  oomp_doc: projects/olimex_usb_glink/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/olimex_usb_glink
+  oomp_src_flat: projects_flat/olimex_usb_glink
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/olimex_usb_glink
+  oomp_src_folder: projects_folder\OLIMEX\USB-gLINK\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\OLIMEX\USB-gLINK\version_current\working
+oomp_key: oomp_olimex_usb_glink
+oomp_key_simple: olimex_usb_glink
 projects_flat: projects_flat/olimex_usb_glink/version_current/working
 projects_folder: projects_folder/OLIMEX/USB-gLINK/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/USB-gLINK/pulls{/number}
-pushed_at: '2020-04-28T10:41:30Z'
-releases_url: https://api.github.com/repos/OLIMEX/USB-gLINK/releases{/id}
-size: 60923
-ssh_url: git@github.com:OLIMEX/USB-gLINK.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/OLIMEX/USB-gLINK/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/USB-gLINK/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/USB-gLINK/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/USB-gLINK/subscription
-svn_url: https://github.com/OLIMEX/USB-gLINK
-tags_url: https://api.github.com/repos/OLIMEX/USB-gLINK/tags
-teams_url: https://api.github.com/repos/OLIMEX/USB-gLINK/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/USB-gLINK/git/trees{/sha}
-updated_at: '2022-06-20T14:31:52Z'
-url: https://api.github.com/repos/OLIMEX/USB-gLINK
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/USB-gLINK/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/USB-gLINK/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/USB-gLINK/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/USB-gLINK/branches{/branch}
+  clone_url: https://github.com/OLIMEX/USB-gLINK.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/USB-gLINK/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/USB-gLINK/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/USB-gLINK/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/USB-gLINK/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/USB-gLINK/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/USB-gLINK/contributors
+  created_at: '2020-04-28T06:47:35Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/OLIMEX/USB-gLINK/deployments
+  description: Industrial grade USB LTE cat 4 module optimized for IoT applications
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/USB-gLINK/downloads
+  events_url: https://api.github.com/repos/OLIMEX/USB-gLINK/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/OLIMEX/USB-gLINK/forks
+  full_name: OLIMEX/USB-gLINK
+  git_commits_url: https://api.github.com/repos/OLIMEX/USB-gLINK/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/USB-gLINK/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/USB-gLINK/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/USB-gLINK.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/OLIMEX/USB-gLINK/hooks
+  html_url: https://github.com/OLIMEX/USB-gLINK
+  id: 259555031
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/USB-gLINK/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/USB-gLINK/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/USB-gLINK/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/USB-gLINK/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/USB-gLINK/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/OLIMEX/USB-gLINK/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/OLIMEX/USB-gLINK/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/USB-gLINK/milestones{/number}
+  mirror_url: null
+  name: USB-gLINK
+  node_id: MDEwOlJlcG9zaXRvcnkyNTk1NTUwMzE=
+  notifications_url: https://api.github.com/repos/OLIMEX/USB-gLINK/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/USB-gLINK/pulls{/number}
+  pushed_at: '2020-04-28T10:41:30Z'
+  releases_url: https://api.github.com/repos/OLIMEX/USB-gLINK/releases{/id}
+  size: 60923
+  ssh_url: git@github.com:OLIMEX/USB-gLINK.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/OLIMEX/USB-gLINK/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/USB-gLINK/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/USB-gLINK/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/USB-gLINK/subscription
+  svn_url: https://github.com/OLIMEX/USB-gLINK
+  tags_url: https://api.github.com/repos/OLIMEX/USB-gLINK/tags
+  teams_url: https://api.github.com/repos/OLIMEX/USB-gLINK/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/USB-gLINK/git/trees{/sha}
+  updated_at: '2022-06-20T14:31:52Z'
+  url: https://api.github.com/repos/OLIMEX/USB-gLINK
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

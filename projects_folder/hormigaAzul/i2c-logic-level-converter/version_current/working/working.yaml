@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/assignees{/user}
-blobs_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/git/blobs{/sha}
-branches_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/branches{/branch}
-clone_url: https://github.com/hormigaAzul/i2c-logic-level-converter.git
-collaborators_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/comments{/number}
-commits_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/commits{/sha}
-compare_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/compare/{base}...{head}
-contents_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/contents/{+path}
-contributors_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/contributors
-created_at: '2016-07-19T16:28:20Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/deployments
-description: Stripboard I2C logical level converter after NXP AN10441
-disabled: false
-downloads_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/downloads
-events_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/events
 file_sch_flat: projects_flat/hormigaazul_i2c_logic_level_converter/version_current/working/working.sch
 file_sch_folder: projects_folder/hormigaAzul/i2c-logic-level-converter/version_current/working/working.sch
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/forks
-full_name: hormigaAzul/i2c-logic-level-converter
-git_commits_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/git/tags{/sha}
-git_url: git://github.com/hormigaAzul/i2c-logic-level-converter.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: http://smokedprojects.blogspot.com/2013/08/stripboard-i2c-logic-level-converter.html
-hooks_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/hooks
-html_url: https://github.com/hormigaAzul/i2c-logic-level-converter
-id: 63710420
-is_template: false
-issue_comment_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/issues/events{/number}
-issues_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/issues{/number}
-keys_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/keys{/key_id}
-labels_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/languages
-license: null
-merges_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/merges
-milestones_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/milestones{/number}
-mirror_url: null
-name: i2c-logic-level-converter
-node_id: MDEwOlJlcG9zaXRvcnk2MzcxMDQyMA==
-notifications_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/19434641?v=4
-  events_url: https://api.github.com/users/hormigaAzul/events{/privacy}
-  followers_url: https://api.github.com/users/hormigaAzul/followers
-  following_url: https://api.github.com/users/hormigaAzul/following{/other_user}
-  gists_url: https://api.github.com/users/hormigaAzul/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/hormigaAzul
-  id: 19434641
-  login: hormigaAzul
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE5NDM0NjQx
-  organizations_url: https://api.github.com/users/hormigaAzul/orgs
-  received_events_url: https://api.github.com/users/hormigaAzul/received_events
-  repos_url: https://api.github.com/users/hormigaAzul/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/hormigaAzul/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/hormigaAzul/subscriptions
-  type: Organization
-  url: https://api.github.com/users/hormigaAzul
-private: false
+links:
+  github_owner: hormigaAzul
+  github_repo_name: i2c-logic-level-converter
+  github_src: https://github.com/hormigaAzul/i2c-logic-level-converter
+  github_src_repo: https://github.com/hormigaAzul/i2c-logic-level-converter
+  oomp_bot: hormigaazul_i2c_logic_level_converter
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/hormigaazul_i2c_logic_level_converter
+  oomp_doc: projects/hormigaazul_i2c_logic_level_converter/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/hormigaazul_i2c_logic_level_converter
+  oomp_src_flat: projects_flat/hormigaazul_i2c_logic_level_converter
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/hormigaazul_i2c_logic_level_converter
+  oomp_src_folder: projects_folder\hormigaAzul\i2c-logic-level-converter\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\hormigaAzul\i2c-logic-level-converter\version_current\working
+oomp_key: oomp_hormigaazul_i2c_logic_level_converter
+oomp_key_simple: hormigaazul_i2c_logic_level_converter
 projects_flat: projects_flat/hormigaazul_i2c_logic_level_converter/version_current/working
 projects_folder: projects_folder/hormigaAzul/i2c-logic-level-converter/version_current/working
-pulls_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/pulls{/number}
-pushed_at: '2021-11-02T02:41:45Z'
-releases_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/releases{/id}
-size: 944
-ssh_url: git@github.com:hormigaAzul/i2c-logic-level-converter.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/stargazers
-statuses_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/statuses/{sha}
-subscribers_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/subscribers
-subscription_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/subscription
-svn_url: https://github.com/hormigaAzul/i2c-logic-level-converter
-tags_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/tags
-teams_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/teams
-topics: []
-trees_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/git/trees{/sha}
-updated_at: '2021-11-02T02:41:48Z'
-url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/assignees{/user}
+  blobs_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/branches{/branch}
+  clone_url: https://github.com/hormigaAzul/i2c-logic-level-converter.git
+  collaborators_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/comments{/number}
+  commits_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/commits{/sha}
+  compare_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/contents/{+path}
+  contributors_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/contributors
+  created_at: '2016-07-19T16:28:20Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/deployments
+  description: Stripboard I2C logical level converter after NXP AN10441
+  disabled: false
+  downloads_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/downloads
+  events_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/forks
+  full_name: hormigaAzul/i2c-logic-level-converter
+  git_commits_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/git/tags{/sha}
+  git_url: git://github.com/hormigaAzul/i2c-logic-level-converter.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: http://smokedprojects.blogspot.com/2013/08/stripboard-i2c-logic-level-converter.html
+  hooks_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/hooks
+  html_url: https://github.com/hormigaAzul/i2c-logic-level-converter
+  id: 63710420
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/issues/events{/number}
+  issues_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/issues{/number}
+  keys_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/keys{/key_id}
+  labels_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/languages
+  license: null
+  merges_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/merges
+  milestones_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/milestones{/number}
+  mirror_url: null
+  name: i2c-logic-level-converter
+  node_id: MDEwOlJlcG9zaXRvcnk2MzcxMDQyMA==
+  notifications_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/19434641?v=4
+    events_url: https://api.github.com/users/hormigaAzul/events{/privacy}
+    followers_url: https://api.github.com/users/hormigaAzul/followers
+    following_url: https://api.github.com/users/hormigaAzul/following{/other_user}
+    gists_url: https://api.github.com/users/hormigaAzul/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/hormigaAzul
+    id: 19434641
+    login: hormigaAzul
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE5NDM0NjQx
+    organizations_url: https://api.github.com/users/hormigaAzul/orgs
+    received_events_url: https://api.github.com/users/hormigaAzul/received_events
+    repos_url: https://api.github.com/users/hormigaAzul/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/hormigaAzul/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/hormigaAzul/subscriptions
+    type: Organization
+    url: https://api.github.com/users/hormigaAzul
+  private: false
+  pulls_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/pulls{/number}
+  pushed_at: '2021-11-02T02:41:45Z'
+  releases_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/releases{/id}
+  size: 944
+  ssh_url: git@github.com:hormigaAzul/i2c-logic-level-converter.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/stargazers
+  statuses_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/subscribers
+  subscription_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/subscription
+  svn_url: https://github.com/hormigaAzul/i2c-logic-level-converter
+  tags_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/tags
+  teams_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/teams
+  topics: []
+  trees_url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter/git/trees{/sha}
+  updated_at: '2021-11-02T02:41:48Z'
+  url: https://api.github.com/repos/hormigaAzul/i2c-logic-level-converter
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

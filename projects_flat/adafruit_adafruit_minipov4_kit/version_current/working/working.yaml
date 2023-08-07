@@ -1,99 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/branches{/branch}
-clone_url: https://github.com/adafruit/Adafruit-MiniPOV4-Kit.git
-collaborators_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/contributors
-created_at: '2014-04-25T21:54:25Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/deployments
-description: Files, Firmware and Software for the MiniPOV4 color light-painting kit
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/downloads
-events_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/events
-fork: false
-forks: 6
-forks_count: 6
-forks_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/forks
-full_name: adafruit/Adafruit-MiniPOV4-Kit
-git_commits_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/git/tags{/sha}
-git_url: git://github.com/adafruit/Adafruit-MiniPOV4-Kit.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: null
-hooks_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/hooks
-html_url: https://github.com/adafruit/Adafruit-MiniPOV4-Kit
-id: 19161954
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/labels{/name}
-language: Arduino
-languages_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/languages
-license: null
-merges_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/merges
-milestones_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/milestones{/number}
-mirror_url: null
-name: Adafruit-MiniPOV4-Kit
-node_id: MDEwOlJlcG9zaXRvcnkxOTE2MTk1NA==
-notifications_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: Adafruit-MiniPOV4-Kit
+  github_src: https://github.com/adafruit/Adafruit-MiniPOV4-Kit
+  github_src_repo: https://github.com/adafruit/Adafruit-MiniPOV4-Kit
+  oomp_bot: projects_adafruit_adafruit_minipov4_kit
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_adafruit_adafruit_minipov4_kit
+  oomp_doc: projects/projects_flat_adafruit_adafruit_minipov4_kit/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_adafruit_adafruit_minipov4_kit
+  oomp_src_flat: projects_flat/projects_flat_adafruit_adafruit_minipov4_kit
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_adafruit_adafruit_minipov4_kit
+  oomp_src_folder: projects_flat\adafruit_adafruit_minipov4_kit\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adafruit_adafruit_minipov4_kit\version_current\working
+oomp_key: oomp_projects_flat_adafruit_adafruit_minipov4_kit
+oomp_key_simple: projects_flat_adafruit_adafruit_minipov4_kit
+projects_flat: projects_flat/adafruit_adafruit_minipov4_kit/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_minipov4_kit/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-MiniPOV4-Kit/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/pulls{/number}
-pushed_at: '2016-12-30T16:45:40Z'
-releases_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/releases{/id}
-size: 816
-ssh_url: git@github.com:adafruit/Adafruit-MiniPOV4-Kit.git
-stargazers_count: 17
-stargazers_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/stargazers
-statuses_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/subscribers
-subscription_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/subscription
-svn_url: https://github.com/adafruit/Adafruit-MiniPOV4-Kit
-tags_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/tags
-teams_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/git/trees{/sha}
-updated_at: '2022-09-04T15:36:46Z'
-url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit
-visibility: public
-watchers: 17
-watchers_count: 17
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/branches{/branch}
+  clone_url: https://github.com/adafruit/Adafruit-MiniPOV4-Kit.git
+  collaborators_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/contributors
+  created_at: '2014-04-25T21:54:25Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/deployments
+  description: Files, Firmware and Software for the MiniPOV4 color light-painting
+    kit
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/downloads
+  events_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/events
+  fork: false
+  forks: 6
+  forks_count: 6
+  forks_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/forks
+  full_name: adafruit/Adafruit-MiniPOV4-Kit
+  git_commits_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/git/tags{/sha}
+  git_url: git://github.com/adafruit/Adafruit-MiniPOV4-Kit.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/hooks
+  html_url: https://github.com/adafruit/Adafruit-MiniPOV4-Kit
+  id: 19161954
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/labels{/name}
+  language: Arduino
+  languages_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/languages
+  license: null
+  merges_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/merges
+  milestones_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/milestones{/number}
+  mirror_url: null
+  name: Adafruit-MiniPOV4-Kit
+  node_id: MDEwOlJlcG9zaXRvcnkxOTE2MTk1NA==
+  notifications_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/pulls{/number}
+  pushed_at: '2016-12-30T16:45:40Z'
+  releases_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/releases{/id}
+  size: 816
+  ssh_url: git@github.com:adafruit/Adafruit-MiniPOV4-Kit.git
+  stargazers_count: 17
+  stargazers_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/subscription
+  svn_url: https://github.com/adafruit/Adafruit-MiniPOV4-Kit
+  tags_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/tags
+  teams_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit/git/trees{/sha}
+  updated_at: '2022-09-04T15:36:46Z'
+  url: https://api.github.com/repos/adafruit/Adafruit-MiniPOV4-Kit
+  visibility: public
+  watchers: 17
+  watchers_count: 17
+  web_commit_signoff_required: false

@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dqmcdonald/Fruit-In/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dqmcdonald/Fruit-In/assignees{/user}
-blobs_url: https://api.github.com/repos/dqmcdonald/Fruit-In/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dqmcdonald/Fruit-In/branches{/branch}
-clone_url: https://github.com/dqmcdonald/Fruit-In.git
-collaborators_url: https://api.github.com/repos/dqmcdonald/Fruit-In/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dqmcdonald/Fruit-In/comments{/number}
-commits_url: https://api.github.com/repos/dqmcdonald/Fruit-In/commits{/sha}
-compare_url: https://api.github.com/repos/dqmcdonald/Fruit-In/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dqmcdonald/Fruit-In/contents/{+path}
-contributors_url: https://api.github.com/repos/dqmcdonald/Fruit-In/contributors
-created_at: '2014-08-25T08:54:49Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/dqmcdonald/Fruit-In/deployments
-description: Touch Sensor Shield
-disabled: false
-downloads_url: https://api.github.com/repos/dqmcdonald/Fruit-In/downloads
-events_url: https://api.github.com/repos/dqmcdonald/Fruit-In/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/dqmcdonald/Fruit-In/forks
-full_name: dqmcdonald/Fruit-In
-git_commits_url: https://api.github.com/repos/dqmcdonald/Fruit-In/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dqmcdonald/Fruit-In/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dqmcdonald/Fruit-In/git/tags{/sha}
-git_url: git://github.com/dqmcdonald/Fruit-In.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/dqmcdonald/Fruit-In/hooks
-html_url: https://github.com/dqmcdonald/Fruit-In
-id: 23307738
-is_template: false
-issue_comment_url: https://api.github.com/repos/dqmcdonald/Fruit-In/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dqmcdonald/Fruit-In/issues/events{/number}
-issues_url: https://api.github.com/repos/dqmcdonald/Fruit-In/issues{/number}
-keys_url: https://api.github.com/repos/dqmcdonald/Fruit-In/keys{/key_id}
-labels_url: https://api.github.com/repos/dqmcdonald/Fruit-In/labels{/name}
-language: IDL
-languages_url: https://api.github.com/repos/dqmcdonald/Fruit-In/languages
-license: null
-merges_url: https://api.github.com/repos/dqmcdonald/Fruit-In/merges
-milestones_url: https://api.github.com/repos/dqmcdonald/Fruit-In/milestones{/number}
-mirror_url: null
-name: Fruit-In
-node_id: MDEwOlJlcG9zaXRvcnkyMzMwNzczOA==
-notifications_url: https://api.github.com/repos/dqmcdonald/Fruit-In/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1847673?v=4
-  events_url: https://api.github.com/users/dqmcdonald/events{/privacy}
-  followers_url: https://api.github.com/users/dqmcdonald/followers
-  following_url: https://api.github.com/users/dqmcdonald/following{/other_user}
-  gists_url: https://api.github.com/users/dqmcdonald/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dqmcdonald
-  id: 1847673
-  login: dqmcdonald
-  node_id: MDQ6VXNlcjE4NDc2NzM=
-  organizations_url: https://api.github.com/users/dqmcdonald/orgs
-  received_events_url: https://api.github.com/users/dqmcdonald/received_events
-  repos_url: https://api.github.com/users/dqmcdonald/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dqmcdonald/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dqmcdonald/subscriptions
-  type: User
-  url: https://api.github.com/users/dqmcdonald
-private: false
+links:
+  github_owner: dqmcdonald
+  github_repo_name: Fruit-In
+  github_src: https://github.com/dqmcdonald/Fruit-In
+  github_src_repo: https://github.com/dqmcdonald/Fruit-In
+  oomp_bot: dqmcdonald_fruit_in
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/dqmcdonald_fruit_in
+  oomp_doc: projects/dqmcdonald_fruit_in/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/dqmcdonald_fruit_in
+  oomp_src_flat: projects_flat/dqmcdonald_fruit_in
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/dqmcdonald_fruit_in
+  oomp_src_folder: projects_folder\dqmcdonald\Fruit-In\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\dqmcdonald\Fruit-In\version_current\working
+oomp_key: oomp_dqmcdonald_fruit_in
+oomp_key_simple: dqmcdonald_fruit_in
 projects_flat: projects_flat/dqmcdonald_fruit_in/version_current/working
 projects_folder: projects_folder/dqmcdonald/Fruit-In/version_current/working
-pulls_url: https://api.github.com/repos/dqmcdonald/Fruit-In/pulls{/number}
-pushed_at: '2014-09-16T07:57:01Z'
-releases_url: https://api.github.com/repos/dqmcdonald/Fruit-In/releases{/id}
-size: 232
-ssh_url: git@github.com:dqmcdonald/Fruit-In.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/dqmcdonald/Fruit-In/stargazers
-statuses_url: https://api.github.com/repos/dqmcdonald/Fruit-In/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dqmcdonald/Fruit-In/subscribers
-subscription_url: https://api.github.com/repos/dqmcdonald/Fruit-In/subscription
-svn_url: https://github.com/dqmcdonald/Fruit-In
-tags_url: https://api.github.com/repos/dqmcdonald/Fruit-In/tags
-teams_url: https://api.github.com/repos/dqmcdonald/Fruit-In/teams
-topics: []
-trees_url: https://api.github.com/repos/dqmcdonald/Fruit-In/git/trees{/sha}
-updated_at: '2014-09-03T01:29:26Z'
-url: https://api.github.com/repos/dqmcdonald/Fruit-In
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dqmcdonald/Fruit-In/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dqmcdonald/Fruit-In/assignees{/user}
+  blobs_url: https://api.github.com/repos/dqmcdonald/Fruit-In/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dqmcdonald/Fruit-In/branches{/branch}
+  clone_url: https://github.com/dqmcdonald/Fruit-In.git
+  collaborators_url: https://api.github.com/repos/dqmcdonald/Fruit-In/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dqmcdonald/Fruit-In/comments{/number}
+  commits_url: https://api.github.com/repos/dqmcdonald/Fruit-In/commits{/sha}
+  compare_url: https://api.github.com/repos/dqmcdonald/Fruit-In/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dqmcdonald/Fruit-In/contents/{+path}
+  contributors_url: https://api.github.com/repos/dqmcdonald/Fruit-In/contributors
+  created_at: '2014-08-25T08:54:49Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/dqmcdonald/Fruit-In/deployments
+  description: Touch Sensor Shield
+  disabled: false
+  downloads_url: https://api.github.com/repos/dqmcdonald/Fruit-In/downloads
+  events_url: https://api.github.com/repos/dqmcdonald/Fruit-In/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/dqmcdonald/Fruit-In/forks
+  full_name: dqmcdonald/Fruit-In
+  git_commits_url: https://api.github.com/repos/dqmcdonald/Fruit-In/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dqmcdonald/Fruit-In/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dqmcdonald/Fruit-In/git/tags{/sha}
+  git_url: git://github.com/dqmcdonald/Fruit-In.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/dqmcdonald/Fruit-In/hooks
+  html_url: https://github.com/dqmcdonald/Fruit-In
+  id: 23307738
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dqmcdonald/Fruit-In/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dqmcdonald/Fruit-In/issues/events{/number}
+  issues_url: https://api.github.com/repos/dqmcdonald/Fruit-In/issues{/number}
+  keys_url: https://api.github.com/repos/dqmcdonald/Fruit-In/keys{/key_id}
+  labels_url: https://api.github.com/repos/dqmcdonald/Fruit-In/labels{/name}
+  language: IDL
+  languages_url: https://api.github.com/repos/dqmcdonald/Fruit-In/languages
+  license: null
+  merges_url: https://api.github.com/repos/dqmcdonald/Fruit-In/merges
+  milestones_url: https://api.github.com/repos/dqmcdonald/Fruit-In/milestones{/number}
+  mirror_url: null
+  name: Fruit-In
+  node_id: MDEwOlJlcG9zaXRvcnkyMzMwNzczOA==
+  notifications_url: https://api.github.com/repos/dqmcdonald/Fruit-In/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1847673?v=4
+    events_url: https://api.github.com/users/dqmcdonald/events{/privacy}
+    followers_url: https://api.github.com/users/dqmcdonald/followers
+    following_url: https://api.github.com/users/dqmcdonald/following{/other_user}
+    gists_url: https://api.github.com/users/dqmcdonald/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dqmcdonald
+    id: 1847673
+    login: dqmcdonald
+    node_id: MDQ6VXNlcjE4NDc2NzM=
+    organizations_url: https://api.github.com/users/dqmcdonald/orgs
+    received_events_url: https://api.github.com/users/dqmcdonald/received_events
+    repos_url: https://api.github.com/users/dqmcdonald/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dqmcdonald/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dqmcdonald/subscriptions
+    type: User
+    url: https://api.github.com/users/dqmcdonald
+  private: false
+  pulls_url: https://api.github.com/repos/dqmcdonald/Fruit-In/pulls{/number}
+  pushed_at: '2014-09-16T07:57:01Z'
+  releases_url: https://api.github.com/repos/dqmcdonald/Fruit-In/releases{/id}
+  size: 232
+  ssh_url: git@github.com:dqmcdonald/Fruit-In.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/dqmcdonald/Fruit-In/stargazers
+  statuses_url: https://api.github.com/repos/dqmcdonald/Fruit-In/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dqmcdonald/Fruit-In/subscribers
+  subscription_url: https://api.github.com/repos/dqmcdonald/Fruit-In/subscription
+  svn_url: https://github.com/dqmcdonald/Fruit-In
+  tags_url: https://api.github.com/repos/dqmcdonald/Fruit-In/tags
+  teams_url: https://api.github.com/repos/dqmcdonald/Fruit-In/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dqmcdonald/Fruit-In/git/trees{/sha}
+  updated_at: '2014-09-03T01:29:26Z'
+  url: https://api.github.com/repos/dqmcdonald/Fruit-In
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

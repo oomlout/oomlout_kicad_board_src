@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/re-innovation/gridMeter/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/re-innovation/gridMeter/assignees{/user}
-blobs_url: https://api.github.com/repos/re-innovation/gridMeter/git/blobs{/sha}
-branches_url: https://api.github.com/repos/re-innovation/gridMeter/branches{/branch}
-clone_url: https://github.com/re-innovation/gridMeter.git
-collaborators_url: https://api.github.com/repos/re-innovation/gridMeter/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/re-innovation/gridMeter/comments{/number}
-commits_url: https://api.github.com/repos/re-innovation/gridMeter/commits{/sha}
-compare_url: https://api.github.com/repos/re-innovation/gridMeter/compare/{base}...{head}
-contents_url: https://api.github.com/repos/re-innovation/gridMeter/contents/{+path}
-contributors_url: https://api.github.com/repos/re-innovation/gridMeter/contributors
-created_at: '2016-05-27T08:11:07Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/re-innovation/gridMeter/deployments
-description: A National Grid frequency monitor for visualising power flows on the
-  national grid
-disabled: false
-downloads_url: https://api.github.com/repos/re-innovation/gridMeter/downloads
-events_url: https://api.github.com/repos/re-innovation/gridMeter/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/re-innovation/gridMeter/forks
-full_name: re-innovation/gridMeter
-git_commits_url: https://api.github.com/repos/re-innovation/gridMeter/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/re-innovation/gridMeter/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/re-innovation/gridMeter/git/tags{/sha}
-git_url: git://github.com/re-innovation/gridMeter.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/re-innovation/gridMeter/hooks
-html_url: https://github.com/re-innovation/gridMeter
-id: 59817374
-is_template: false
-issue_comment_url: https://api.github.com/repos/re-innovation/gridMeter/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/re-innovation/gridMeter/issues/events{/number}
-issues_url: https://api.github.com/repos/re-innovation/gridMeter/issues{/number}
-keys_url: https://api.github.com/repos/re-innovation/gridMeter/keys{/key_id}
-labels_url: https://api.github.com/repos/re-innovation/gridMeter/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/re-innovation/gridMeter/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/re-innovation/gridMeter/merges
-milestones_url: https://api.github.com/repos/re-innovation/gridMeter/milestones{/number}
-mirror_url: null
-name: gridMeter
-node_id: MDEwOlJlcG9zaXRvcnk1OTgxNzM3NA==
-notifications_url: https://api.github.com/repos/re-innovation/gridMeter/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/910639?v=4
-  events_url: https://api.github.com/users/re-innovation/events{/privacy}
-  followers_url: https://api.github.com/users/re-innovation/followers
-  following_url: https://api.github.com/users/re-innovation/following{/other_user}
-  gists_url: https://api.github.com/users/re-innovation/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/re-innovation
-  id: 910639
-  login: re-innovation
-  node_id: MDQ6VXNlcjkxMDYzOQ==
-  organizations_url: https://api.github.com/users/re-innovation/orgs
-  received_events_url: https://api.github.com/users/re-innovation/received_events
-  repos_url: https://api.github.com/users/re-innovation/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/re-innovation/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/re-innovation/subscriptions
-  type: User
-  url: https://api.github.com/users/re-innovation
-private: false
+links:
+  github_owner: re-innovation
+  github_repo_name: gridMeter
+  github_src: https://github.com/re-innovation/gridMeter
+  github_src_repo: https://github.com/re-innovation/gridMeter
+  oomp_bot: re_innovation_gridmeter
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/re_innovation_gridmeter
+  oomp_doc: projects/re_innovation_gridmeter/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/re_innovation_gridmeter
+  oomp_src_flat: projects_flat/re_innovation_gridmeter
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/re_innovation_gridmeter
+  oomp_src_folder: projects_folder\re-innovation\gridMeter\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\re-innovation\gridMeter\version_current\working
+oomp_key: oomp_re_innovation_gridmeter
+oomp_key_simple: re_innovation_gridmeter
 projects_flat: projects_flat/re_innovation_gridmeter/version_current/working
 projects_folder: projects_folder/re-innovation/gridMeter/version_current/working
-pulls_url: https://api.github.com/repos/re-innovation/gridMeter/pulls{/number}
-pushed_at: '2017-06-12T14:57:05Z'
-releases_url: https://api.github.com/repos/re-innovation/gridMeter/releases{/id}
-size: 276
-ssh_url: git@github.com:re-innovation/gridMeter.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/re-innovation/gridMeter/stargazers
-statuses_url: https://api.github.com/repos/re-innovation/gridMeter/statuses/{sha}
-subscribers_url: https://api.github.com/repos/re-innovation/gridMeter/subscribers
-subscription_url: https://api.github.com/repos/re-innovation/gridMeter/subscription
-svn_url: https://github.com/re-innovation/gridMeter
-tags_url: https://api.github.com/repos/re-innovation/gridMeter/tags
-teams_url: https://api.github.com/repos/re-innovation/gridMeter/teams
-topics: []
-trees_url: https://api.github.com/repos/re-innovation/gridMeter/git/trees{/sha}
-updated_at: '2016-05-27T10:30:13Z'
-url: https://api.github.com/repos/re-innovation/gridMeter
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/re-innovation/gridMeter/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/re-innovation/gridMeter/assignees{/user}
+  blobs_url: https://api.github.com/repos/re-innovation/gridMeter/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/re-innovation/gridMeter/branches{/branch}
+  clone_url: https://github.com/re-innovation/gridMeter.git
+  collaborators_url: https://api.github.com/repos/re-innovation/gridMeter/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/re-innovation/gridMeter/comments{/number}
+  commits_url: https://api.github.com/repos/re-innovation/gridMeter/commits{/sha}
+  compare_url: https://api.github.com/repos/re-innovation/gridMeter/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/re-innovation/gridMeter/contents/{+path}
+  contributors_url: https://api.github.com/repos/re-innovation/gridMeter/contributors
+  created_at: '2016-05-27T08:11:07Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/re-innovation/gridMeter/deployments
+  description: A National Grid frequency monitor for visualising power flows on the
+    national grid
+  disabled: false
+  downloads_url: https://api.github.com/repos/re-innovation/gridMeter/downloads
+  events_url: https://api.github.com/repos/re-innovation/gridMeter/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/re-innovation/gridMeter/forks
+  full_name: re-innovation/gridMeter
+  git_commits_url: https://api.github.com/repos/re-innovation/gridMeter/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/re-innovation/gridMeter/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/re-innovation/gridMeter/git/tags{/sha}
+  git_url: git://github.com/re-innovation/gridMeter.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/re-innovation/gridMeter/hooks
+  html_url: https://github.com/re-innovation/gridMeter
+  id: 59817374
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/re-innovation/gridMeter/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/re-innovation/gridMeter/issues/events{/number}
+  issues_url: https://api.github.com/repos/re-innovation/gridMeter/issues{/number}
+  keys_url: https://api.github.com/repos/re-innovation/gridMeter/keys{/key_id}
+  labels_url: https://api.github.com/repos/re-innovation/gridMeter/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/re-innovation/gridMeter/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/re-innovation/gridMeter/merges
+  milestones_url: https://api.github.com/repos/re-innovation/gridMeter/milestones{/number}
+  mirror_url: null
+  name: gridMeter
+  node_id: MDEwOlJlcG9zaXRvcnk1OTgxNzM3NA==
+  notifications_url: https://api.github.com/repos/re-innovation/gridMeter/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/910639?v=4
+    events_url: https://api.github.com/users/re-innovation/events{/privacy}
+    followers_url: https://api.github.com/users/re-innovation/followers
+    following_url: https://api.github.com/users/re-innovation/following{/other_user}
+    gists_url: https://api.github.com/users/re-innovation/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/re-innovation
+    id: 910639
+    login: re-innovation
+    node_id: MDQ6VXNlcjkxMDYzOQ==
+    organizations_url: https://api.github.com/users/re-innovation/orgs
+    received_events_url: https://api.github.com/users/re-innovation/received_events
+    repos_url: https://api.github.com/users/re-innovation/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/re-innovation/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/re-innovation/subscriptions
+    type: User
+    url: https://api.github.com/users/re-innovation
+  private: false
+  pulls_url: https://api.github.com/repos/re-innovation/gridMeter/pulls{/number}
+  pushed_at: '2017-06-12T14:57:05Z'
+  releases_url: https://api.github.com/repos/re-innovation/gridMeter/releases{/id}
+  size: 276
+  ssh_url: git@github.com:re-innovation/gridMeter.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/re-innovation/gridMeter/stargazers
+  statuses_url: https://api.github.com/repos/re-innovation/gridMeter/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/re-innovation/gridMeter/subscribers
+  subscription_url: https://api.github.com/repos/re-innovation/gridMeter/subscription
+  svn_url: https://github.com/re-innovation/gridMeter
+  tags_url: https://api.github.com/repos/re-innovation/gridMeter/tags
+  teams_url: https://api.github.com/repos/re-innovation/gridMeter/teams
+  topics: []
+  trees_url: https://api.github.com/repos/re-innovation/gridMeter/git/trees{/sha}
+  updated_at: '2016-05-27T10:30:13Z'
+  url: https://api.github.com/repos/re-innovation/gridMeter
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

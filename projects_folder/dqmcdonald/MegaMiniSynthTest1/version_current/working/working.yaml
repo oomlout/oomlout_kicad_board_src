@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/assignees{/user}
-blobs_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/branches{/branch}
-clone_url: https://github.com/dqmcdonald/MegaMiniSynthTest1.git
-collaborators_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/comments{/number}
-commits_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/commits{/sha}
-compare_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/contents/{+path}
-contributors_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/contributors
-created_at: '2014-08-16T02:08:23Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/deployments
-description: First prototype board with limited functionality
-disabled: false
-downloads_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/downloads
-events_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/forks
-full_name: dqmcdonald/MegaMiniSynthTest1
-git_commits_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/git/tags{/sha}
-git_url: git://github.com/dqmcdonald/MegaMiniSynthTest1.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/hooks
-html_url: https://github.com/dqmcdonald/MegaMiniSynthTest1
-id: 23008542
-is_template: false
-issue_comment_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/issues/events{/number}
-issues_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/issues{/number}
-keys_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/keys{/key_id}
-labels_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/labels{/name}
-language: IDL
-languages_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/languages
-license: null
-merges_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/merges
-milestones_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/milestones{/number}
-mirror_url: null
-name: MegaMiniSynthTest1
-node_id: MDEwOlJlcG9zaXRvcnkyMzAwODU0Mg==
-notifications_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1847673?v=4
-  events_url: https://api.github.com/users/dqmcdonald/events{/privacy}
-  followers_url: https://api.github.com/users/dqmcdonald/followers
-  following_url: https://api.github.com/users/dqmcdonald/following{/other_user}
-  gists_url: https://api.github.com/users/dqmcdonald/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dqmcdonald
-  id: 1847673
-  login: dqmcdonald
-  node_id: MDQ6VXNlcjE4NDc2NzM=
-  organizations_url: https://api.github.com/users/dqmcdonald/orgs
-  received_events_url: https://api.github.com/users/dqmcdonald/received_events
-  repos_url: https://api.github.com/users/dqmcdonald/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dqmcdonald/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dqmcdonald/subscriptions
-  type: User
-  url: https://api.github.com/users/dqmcdonald
-private: false
+links:
+  github_owner: dqmcdonald
+  github_repo_name: MegaMiniSynthTest1
+  github_src: https://github.com/dqmcdonald/MegaMiniSynthTest1
+  github_src_repo: https://github.com/dqmcdonald/MegaMiniSynthTest1
+  oomp_bot: dqmcdonald_megaminisynthtest1
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/dqmcdonald_megaminisynthtest1
+  oomp_doc: projects/dqmcdonald_megaminisynthtest1/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/dqmcdonald_megaminisynthtest1
+  oomp_src_flat: projects_flat/dqmcdonald_megaminisynthtest1
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/dqmcdonald_megaminisynthtest1
+  oomp_src_folder: projects_folder\dqmcdonald\MegaMiniSynthTest1\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\dqmcdonald\MegaMiniSynthTest1\version_current\working
+oomp_key: oomp_dqmcdonald_megaminisynthtest1
+oomp_key_simple: dqmcdonald_megaminisynthtest1
 projects_flat: projects_flat/dqmcdonald_megaminisynthtest1/version_current/working
 projects_folder: projects_folder/dqmcdonald/MegaMiniSynthTest1/version_current/working
-pulls_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/pulls{/number}
-pushed_at: '2014-09-19T18:59:13Z'
-releases_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/releases{/id}
-size: 308
-ssh_url: git@github.com:dqmcdonald/MegaMiniSynthTest1.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/stargazers
-statuses_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/subscribers
-subscription_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/subscription
-svn_url: https://github.com/dqmcdonald/MegaMiniSynthTest1
-tags_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/tags
-teams_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/teams
-topics: []
-trees_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/git/trees{/sha}
-updated_at: '2014-09-16T07:57:19Z'
-url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/assignees{/user}
+  blobs_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/branches{/branch}
+  clone_url: https://github.com/dqmcdonald/MegaMiniSynthTest1.git
+  collaborators_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/comments{/number}
+  commits_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/commits{/sha}
+  compare_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/contents/{+path}
+  contributors_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/contributors
+  created_at: '2014-08-16T02:08:23Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/deployments
+  description: First prototype board with limited functionality
+  disabled: false
+  downloads_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/downloads
+  events_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/forks
+  full_name: dqmcdonald/MegaMiniSynthTest1
+  git_commits_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/git/tags{/sha}
+  git_url: git://github.com/dqmcdonald/MegaMiniSynthTest1.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/hooks
+  html_url: https://github.com/dqmcdonald/MegaMiniSynthTest1
+  id: 23008542
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/issues/events{/number}
+  issues_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/issues{/number}
+  keys_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/keys{/key_id}
+  labels_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/labels{/name}
+  language: IDL
+  languages_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/languages
+  license: null
+  merges_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/merges
+  milestones_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/milestones{/number}
+  mirror_url: null
+  name: MegaMiniSynthTest1
+  node_id: MDEwOlJlcG9zaXRvcnkyMzAwODU0Mg==
+  notifications_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1847673?v=4
+    events_url: https://api.github.com/users/dqmcdonald/events{/privacy}
+    followers_url: https://api.github.com/users/dqmcdonald/followers
+    following_url: https://api.github.com/users/dqmcdonald/following{/other_user}
+    gists_url: https://api.github.com/users/dqmcdonald/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dqmcdonald
+    id: 1847673
+    login: dqmcdonald
+    node_id: MDQ6VXNlcjE4NDc2NzM=
+    organizations_url: https://api.github.com/users/dqmcdonald/orgs
+    received_events_url: https://api.github.com/users/dqmcdonald/received_events
+    repos_url: https://api.github.com/users/dqmcdonald/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dqmcdonald/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dqmcdonald/subscriptions
+    type: User
+    url: https://api.github.com/users/dqmcdonald
+  private: false
+  pulls_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/pulls{/number}
+  pushed_at: '2014-09-19T18:59:13Z'
+  releases_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/releases{/id}
+  size: 308
+  ssh_url: git@github.com:dqmcdonald/MegaMiniSynthTest1.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/stargazers
+  statuses_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/subscribers
+  subscription_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/subscription
+  svn_url: https://github.com/dqmcdonald/MegaMiniSynthTest1
+  tags_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/tags
+  teams_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1/git/trees{/sha}
+  updated_at: '2014-09-16T07:57:19Z'
+  url: https://api.github.com/repos/dqmcdonald/MegaMiniSynthTest1
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

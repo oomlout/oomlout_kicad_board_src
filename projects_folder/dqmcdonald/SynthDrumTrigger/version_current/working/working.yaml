@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/assignees{/user}
-blobs_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/branches{/branch}
-clone_url: https://github.com/dqmcdonald/SynthDrumTrigger.git
-collaborators_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/comments{/number}
-commits_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/commits{/sha}
-compare_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/contents/{+path}
-contributors_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/contributors
-created_at: '2015-05-25T04:29:11Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/deployments
-description: MFOS Synth Drum Trigger
-disabled: false
-downloads_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/downloads
-events_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/forks
-full_name: dqmcdonald/SynthDrumTrigger
-git_commits_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/git/tags{/sha}
-git_url: git://github.com/dqmcdonald/SynthDrumTrigger.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/hooks
-html_url: https://github.com/dqmcdonald/SynthDrumTrigger
-id: 36209740
-is_template: false
-issue_comment_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/issues/events{/number}
-issues_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/issues{/number}
-keys_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/keys{/key_id}
-labels_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/languages
-license: null
-merges_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/merges
-milestones_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/milestones{/number}
-mirror_url: null
-name: SynthDrumTrigger
-node_id: MDEwOlJlcG9zaXRvcnkzNjIwOTc0MA==
-notifications_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1847673?v=4
-  events_url: https://api.github.com/users/dqmcdonald/events{/privacy}
-  followers_url: https://api.github.com/users/dqmcdonald/followers
-  following_url: https://api.github.com/users/dqmcdonald/following{/other_user}
-  gists_url: https://api.github.com/users/dqmcdonald/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dqmcdonald
-  id: 1847673
-  login: dqmcdonald
-  node_id: MDQ6VXNlcjE4NDc2NzM=
-  organizations_url: https://api.github.com/users/dqmcdonald/orgs
-  received_events_url: https://api.github.com/users/dqmcdonald/received_events
-  repos_url: https://api.github.com/users/dqmcdonald/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dqmcdonald/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dqmcdonald/subscriptions
-  type: User
-  url: https://api.github.com/users/dqmcdonald
-private: false
+links:
+  github_owner: dqmcdonald
+  github_repo_name: SynthDrumTrigger
+  github_src: https://github.com/dqmcdonald/SynthDrumTrigger
+  github_src_repo: https://github.com/dqmcdonald/SynthDrumTrigger
+  oomp_bot: dqmcdonald_synthdrumtrigger
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/dqmcdonald_synthdrumtrigger
+  oomp_doc: projects/dqmcdonald_synthdrumtrigger/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/dqmcdonald_synthdrumtrigger
+  oomp_src_flat: projects_flat/dqmcdonald_synthdrumtrigger
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/dqmcdonald_synthdrumtrigger
+  oomp_src_folder: projects_folder\dqmcdonald\SynthDrumTrigger\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\dqmcdonald\SynthDrumTrigger\version_current\working
+oomp_key: oomp_dqmcdonald_synthdrumtrigger
+oomp_key_simple: dqmcdonald_synthdrumtrigger
 projects_flat: projects_flat/dqmcdonald_synthdrumtrigger/version_current/working
 projects_folder: projects_folder/dqmcdonald/SynthDrumTrigger/version_current/working
-pulls_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/pulls{/number}
-pushed_at: '2015-06-02T01:45:51Z'
-releases_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/releases{/id}
-size: 164
-ssh_url: git@github.com:dqmcdonald/SynthDrumTrigger.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/stargazers
-statuses_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/subscribers
-subscription_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/subscription
-svn_url: https://github.com/dqmcdonald/SynthDrumTrigger
-tags_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/tags
-teams_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/teams
-topics: []
-trees_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/git/trees{/sha}
-updated_at: '2020-07-03T12:00:56Z'
-url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/assignees{/user}
+  blobs_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/branches{/branch}
+  clone_url: https://github.com/dqmcdonald/SynthDrumTrigger.git
+  collaborators_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/comments{/number}
+  commits_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/commits{/sha}
+  compare_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/contents/{+path}
+  contributors_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/contributors
+  created_at: '2015-05-25T04:29:11Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/deployments
+  description: MFOS Synth Drum Trigger
+  disabled: false
+  downloads_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/downloads
+  events_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/forks
+  full_name: dqmcdonald/SynthDrumTrigger
+  git_commits_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/git/tags{/sha}
+  git_url: git://github.com/dqmcdonald/SynthDrumTrigger.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/hooks
+  html_url: https://github.com/dqmcdonald/SynthDrumTrigger
+  id: 36209740
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/issues/events{/number}
+  issues_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/issues{/number}
+  keys_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/keys{/key_id}
+  labels_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/languages
+  license: null
+  merges_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/merges
+  milestones_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/milestones{/number}
+  mirror_url: null
+  name: SynthDrumTrigger
+  node_id: MDEwOlJlcG9zaXRvcnkzNjIwOTc0MA==
+  notifications_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1847673?v=4
+    events_url: https://api.github.com/users/dqmcdonald/events{/privacy}
+    followers_url: https://api.github.com/users/dqmcdonald/followers
+    following_url: https://api.github.com/users/dqmcdonald/following{/other_user}
+    gists_url: https://api.github.com/users/dqmcdonald/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dqmcdonald
+    id: 1847673
+    login: dqmcdonald
+    node_id: MDQ6VXNlcjE4NDc2NzM=
+    organizations_url: https://api.github.com/users/dqmcdonald/orgs
+    received_events_url: https://api.github.com/users/dqmcdonald/received_events
+    repos_url: https://api.github.com/users/dqmcdonald/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dqmcdonald/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dqmcdonald/subscriptions
+    type: User
+    url: https://api.github.com/users/dqmcdonald
+  private: false
+  pulls_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/pulls{/number}
+  pushed_at: '2015-06-02T01:45:51Z'
+  releases_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/releases{/id}
+  size: 164
+  ssh_url: git@github.com:dqmcdonald/SynthDrumTrigger.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/stargazers
+  statuses_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/subscribers
+  subscription_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/subscription
+  svn_url: https://github.com/dqmcdonald/SynthDrumTrigger
+  tags_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/tags
+  teams_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger/git/trees{/sha}
+  updated_at: '2020-07-03T12:00:56Z'
+  url: https://api.github.com/repos/dqmcdonald/SynthDrumTrigger
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

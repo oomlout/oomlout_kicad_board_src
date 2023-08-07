@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/jnedbal/midithing/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/jnedbal/midithing/assignees{/user}
-blobs_url: https://api.github.com/repos/jnedbal/midithing/git/blobs{/sha}
-branches_url: https://api.github.com/repos/jnedbal/midithing/branches{/branch}
-clone_url: https://github.com/jnedbal/midithing.git
-collaborators_url: https://api.github.com/repos/jnedbal/midithing/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/jnedbal/midithing/comments{/number}
-commits_url: https://api.github.com/repos/jnedbal/midithing/commits{/sha}
-compare_url: https://api.github.com/repos/jnedbal/midithing/compare/{base}...{head}
-contents_url: https://api.github.com/repos/jnedbal/midithing/contents/{+path}
-contributors_url: https://api.github.com/repos/jnedbal/midithing/contributors
-created_at: '2016-11-13T22:41:23Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/jnedbal/midithing/deployments
-description: Befaco Midi interface
-disabled: false
-downloads_url: https://api.github.com/repos/jnedbal/midithing/downloads
-events_url: https://api.github.com/repos/jnedbal/midithing/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/jnedbal/midithing/forks
-full_name: jnedbal/midithing
-git_commits_url: https://api.github.com/repos/jnedbal/midithing/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/jnedbal/midithing/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/jnedbal/midithing/git/tags{/sha}
-git_url: git://github.com/jnedbal/midithing.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/jnedbal/midithing/hooks
-html_url: https://github.com/jnedbal/midithing
-id: 73647730
-is_template: false
-issue_comment_url: https://api.github.com/repos/jnedbal/midithing/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/jnedbal/midithing/issues/events{/number}
-issues_url: https://api.github.com/repos/jnedbal/midithing/issues{/number}
-keys_url: https://api.github.com/repos/jnedbal/midithing/keys{/key_id}
-labels_url: https://api.github.com/repos/jnedbal/midithing/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/jnedbal/midithing/languages
-license: null
-merges_url: https://api.github.com/repos/jnedbal/midithing/merges
-milestones_url: https://api.github.com/repos/jnedbal/midithing/milestones{/number}
-mirror_url: null
-name: midithing
-node_id: MDEwOlJlcG9zaXRvcnk3MzY0NzczMA==
-notifications_url: https://api.github.com/repos/jnedbal/midithing/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/2115992?v=4
-  events_url: https://api.github.com/users/jnedbal/events{/privacy}
-  followers_url: https://api.github.com/users/jnedbal/followers
-  following_url: https://api.github.com/users/jnedbal/following{/other_user}
-  gists_url: https://api.github.com/users/jnedbal/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/jnedbal
-  id: 2115992
-  login: jnedbal
-  node_id: MDQ6VXNlcjIxMTU5OTI=
-  organizations_url: https://api.github.com/users/jnedbal/orgs
-  received_events_url: https://api.github.com/users/jnedbal/received_events
-  repos_url: https://api.github.com/users/jnedbal/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/jnedbal/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/jnedbal/subscriptions
-  type: User
-  url: https://api.github.com/users/jnedbal
-private: false
+links:
+  github_owner: jnedbal
+  github_repo_name: midithing
+  github_src: https://github.com/jnedbal/midithing
+  github_src_repo: https://github.com/jnedbal/midithing
+  oomp_bot: projects_jnedbal_midithing
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_jnedbal_midithing
+  oomp_doc: projects/projects_flat_jnedbal_midithing/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_jnedbal_midithing
+  oomp_src_flat: projects_flat/projects_flat_jnedbal_midithing
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_jnedbal_midithing
+  oomp_src_folder: projects_flat\jnedbal_midithing\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\jnedbal_midithing\version_current\working
+oomp_key: oomp_projects_flat_jnedbal_midithing
+oomp_key_simple: projects_flat_jnedbal_midithing
 projects_flat: projects_flat/jnedbal_midithing/version_current/working
 projects_folder: projects_folder/jnedbal/midithing/version_current/working
-pulls_url: https://api.github.com/repos/jnedbal/midithing/pulls{/number}
-pushed_at: '2016-09-19T12:15:44Z'
-releases_url: https://api.github.com/repos/jnedbal/midithing/releases{/id}
-size: 461
-ssh_url: git@github.com:jnedbal/midithing.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/jnedbal/midithing/stargazers
-statuses_url: https://api.github.com/repos/jnedbal/midithing/statuses/{sha}
-subscribers_url: https://api.github.com/repos/jnedbal/midithing/subscribers
-subscription_url: https://api.github.com/repos/jnedbal/midithing/subscription
-svn_url: https://github.com/jnedbal/midithing
-tags_url: https://api.github.com/repos/jnedbal/midithing/tags
-teams_url: https://api.github.com/repos/jnedbal/midithing/teams
-topics: []
-trees_url: https://api.github.com/repos/jnedbal/midithing/git/trees{/sha}
-updated_at: '2016-11-13T22:41:24Z'
-url: https://api.github.com/repos/jnedbal/midithing
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/jnedbal/midithing/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/jnedbal/midithing/assignees{/user}
+  blobs_url: https://api.github.com/repos/jnedbal/midithing/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/jnedbal/midithing/branches{/branch}
+  clone_url: https://github.com/jnedbal/midithing.git
+  collaborators_url: https://api.github.com/repos/jnedbal/midithing/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/jnedbal/midithing/comments{/number}
+  commits_url: https://api.github.com/repos/jnedbal/midithing/commits{/sha}
+  compare_url: https://api.github.com/repos/jnedbal/midithing/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/jnedbal/midithing/contents/{+path}
+  contributors_url: https://api.github.com/repos/jnedbal/midithing/contributors
+  created_at: '2016-11-13T22:41:23Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/jnedbal/midithing/deployments
+  description: Befaco Midi interface
+  disabled: false
+  downloads_url: https://api.github.com/repos/jnedbal/midithing/downloads
+  events_url: https://api.github.com/repos/jnedbal/midithing/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/jnedbal/midithing/forks
+  full_name: jnedbal/midithing
+  git_commits_url: https://api.github.com/repos/jnedbal/midithing/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/jnedbal/midithing/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/jnedbal/midithing/git/tags{/sha}
+  git_url: git://github.com/jnedbal/midithing.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/jnedbal/midithing/hooks
+  html_url: https://github.com/jnedbal/midithing
+  id: 73647730
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/jnedbal/midithing/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/jnedbal/midithing/issues/events{/number}
+  issues_url: https://api.github.com/repos/jnedbal/midithing/issues{/number}
+  keys_url: https://api.github.com/repos/jnedbal/midithing/keys{/key_id}
+  labels_url: https://api.github.com/repos/jnedbal/midithing/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/jnedbal/midithing/languages
+  license: null
+  merges_url: https://api.github.com/repos/jnedbal/midithing/merges
+  milestones_url: https://api.github.com/repos/jnedbal/midithing/milestones{/number}
+  mirror_url: null
+  name: midithing
+  node_id: MDEwOlJlcG9zaXRvcnk3MzY0NzczMA==
+  notifications_url: https://api.github.com/repos/jnedbal/midithing/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/2115992?v=4
+    events_url: https://api.github.com/users/jnedbal/events{/privacy}
+    followers_url: https://api.github.com/users/jnedbal/followers
+    following_url: https://api.github.com/users/jnedbal/following{/other_user}
+    gists_url: https://api.github.com/users/jnedbal/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/jnedbal
+    id: 2115992
+    login: jnedbal
+    node_id: MDQ6VXNlcjIxMTU5OTI=
+    organizations_url: https://api.github.com/users/jnedbal/orgs
+    received_events_url: https://api.github.com/users/jnedbal/received_events
+    repos_url: https://api.github.com/users/jnedbal/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/jnedbal/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/jnedbal/subscriptions
+    type: User
+    url: https://api.github.com/users/jnedbal
+  private: false
+  pulls_url: https://api.github.com/repos/jnedbal/midithing/pulls{/number}
+  pushed_at: '2016-09-19T12:15:44Z'
+  releases_url: https://api.github.com/repos/jnedbal/midithing/releases{/id}
+  size: 461
+  ssh_url: git@github.com:jnedbal/midithing.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/jnedbal/midithing/stargazers
+  statuses_url: https://api.github.com/repos/jnedbal/midithing/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/jnedbal/midithing/subscribers
+  subscription_url: https://api.github.com/repos/jnedbal/midithing/subscription
+  svn_url: https://github.com/jnedbal/midithing
+  tags_url: https://api.github.com/repos/jnedbal/midithing/tags
+  teams_url: https://api.github.com/repos/jnedbal/midithing/teams
+  topics: []
+  trees_url: https://api.github.com/repos/jnedbal/midithing/git/trees{/sha}
+  updated_at: '2016-11-13T22:41:24Z'
+  url: https://api.github.com/repos/jnedbal/midithing
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

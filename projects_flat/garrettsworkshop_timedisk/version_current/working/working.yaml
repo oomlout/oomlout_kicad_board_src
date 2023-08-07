@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/assignees{/user}
-blobs_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/git/blobs{/sha}
-branches_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/branches{/branch}
-clone_url: https://github.com/garrettsworkshop/TimeDisk.git
-collaborators_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/comments{/number}
-commits_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/commits{/sha}
-compare_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/compare/{base}...{head}
-contents_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/contents/{+path}
-contributors_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/contributors
-created_at: '2019-07-26T21:34:39Z'
-default_branch: release-4206A
-deployments_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/deployments
-description: Apple II memory expansion card with 1 MB battery-backed RAM and NoSlotClock-compatible
-  clock
-disabled: false
-downloads_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/downloads
-events_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/forks
-full_name: garrettsworkshop/TimeDisk
-git_commits_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/git/tags{/sha}
-git_url: git://github.com/garrettsworkshop/TimeDisk.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/hooks
-html_url: https://github.com/garrettsworkshop/TimeDisk
-id: 199082648
-is_template: false
-issue_comment_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/issues/events{/number}
-issues_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/issues{/number}
-keys_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/keys{/key_id}
-labels_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/merges
-milestones_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/milestones{/number}
-mirror_url: null
-name: TimeDisk
-node_id: MDEwOlJlcG9zaXRvcnkxOTkwODI2NDg=
-notifications_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
-  events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
-  followers_url: https://api.github.com/users/garrettsworkshop/followers
-  following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
-  gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/garrettsworkshop
-  id: 65582366
-  login: garrettsworkshop
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
-  organizations_url: https://api.github.com/users/garrettsworkshop/orgs
-  received_events_url: https://api.github.com/users/garrettsworkshop/received_events
-  repos_url: https://api.github.com/users/garrettsworkshop/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
-  type: Organization
-  url: https://api.github.com/users/garrettsworkshop
-private: false
+links:
+  github_owner: garrettsworkshop
+  github_repo_name: TimeDisk
+  github_src: https://github.com/garrettsworkshop/TimeDisk
+  github_src_repo: https://github.com/garrettsworkshop/TimeDisk
+  oomp_bot: projects_garrettsworkshop_timedisk
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_garrettsworkshop_timedisk
+  oomp_doc: projects/projects_flat_garrettsworkshop_timedisk/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_garrettsworkshop_timedisk
+  oomp_src_flat: projects_flat/projects_flat_garrettsworkshop_timedisk
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_garrettsworkshop_timedisk
+  oomp_src_folder: projects_flat\garrettsworkshop_timedisk\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\garrettsworkshop_timedisk\version_current\working
+oomp_key: oomp_projects_flat_garrettsworkshop_timedisk
+oomp_key_simple: projects_flat_garrettsworkshop_timedisk
 projects_flat: projects_flat/garrettsworkshop_timedisk/version_current/working
 projects_folder: projects_folder/garrettsworkshop/TimeDisk/version_current/working
-pulls_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/pulls{/number}
-pushed_at: '2023-06-07T22:53:42Z'
-releases_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/releases{/id}
-size: 30882
-ssh_url: git@github.com:garrettsworkshop/TimeDisk.git
-stargazers_count: 8
-stargazers_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/stargazers
-statuses_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/statuses/{sha}
-subscribers_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/subscribers
-subscription_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/subscription
-svn_url: https://github.com/garrettsworkshop/TimeDisk
-tags_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/tags
-teams_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/teams
-topics: []
-trees_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/git/trees{/sha}
-updated_at: '2023-05-04T05:30:41Z'
-url: https://api.github.com/repos/garrettsworkshop/TimeDisk
-visibility: public
-watchers: 8
-watchers_count: 8
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/assignees{/user}
+  blobs_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/branches{/branch}
+  clone_url: https://github.com/garrettsworkshop/TimeDisk.git
+  collaborators_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/comments{/number}
+  commits_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/commits{/sha}
+  compare_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/contents/{+path}
+  contributors_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/contributors
+  created_at: '2019-07-26T21:34:39Z'
+  default_branch: release-4206A
+  deployments_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/deployments
+  description: Apple II memory expansion card with 1 MB battery-backed RAM and NoSlotClock-compatible
+    clock
+  disabled: false
+  downloads_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/downloads
+  events_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/forks
+  full_name: garrettsworkshop/TimeDisk
+  git_commits_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/git/tags{/sha}
+  git_url: git://github.com/garrettsworkshop/TimeDisk.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/hooks
+  html_url: https://github.com/garrettsworkshop/TimeDisk
+  id: 199082648
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/issues/events{/number}
+  issues_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/issues{/number}
+  keys_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/keys{/key_id}
+  labels_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/merges
+  milestones_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/milestones{/number}
+  mirror_url: null
+  name: TimeDisk
+  node_id: MDEwOlJlcG9zaXRvcnkxOTkwODI2NDg=
+  notifications_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
+    events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
+    followers_url: https://api.github.com/users/garrettsworkshop/followers
+    following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
+    gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/garrettsworkshop
+    id: 65582366
+    login: garrettsworkshop
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
+    organizations_url: https://api.github.com/users/garrettsworkshop/orgs
+    received_events_url: https://api.github.com/users/garrettsworkshop/received_events
+    repos_url: https://api.github.com/users/garrettsworkshop/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
+    type: Organization
+    url: https://api.github.com/users/garrettsworkshop
+  private: false
+  pulls_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/pulls{/number}
+  pushed_at: '2023-06-07T22:53:42Z'
+  releases_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/releases{/id}
+  size: 30882
+  ssh_url: git@github.com:garrettsworkshop/TimeDisk.git
+  stargazers_count: 8
+  stargazers_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/stargazers
+  statuses_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/subscribers
+  subscription_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/subscription
+  svn_url: https://github.com/garrettsworkshop/TimeDisk
+  tags_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/tags
+  teams_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/teams
+  topics: []
+  trees_url: https://api.github.com/repos/garrettsworkshop/TimeDisk/git/trees{/sha}
+  updated_at: '2023-05-04T05:30:41Z'
+  url: https://api.github.com/repos/garrettsworkshop/TimeDisk
+  visibility: public
+  watchers: 8
+  watchers_count: 8
+  web_commit_signoff_required: false

@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/branches{/branch}
-clone_url: https://github.com/adafruit/Adafruit-Metro-ESP32-S2-PCB.git
-collaborators_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/contributors
-created_at: '2020-11-02T16:43:09Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/deployments
-description: PCB files for Adafruit Metro ESP32-S2.
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/downloads
-events_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/forks
-full_name: adafruit/Adafruit-Metro-ESP32-S2-PCB
-git_commits_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/git/tags{/sha}
-git_url: git://github.com/adafruit/Adafruit-Metro-ESP32-S2-PCB.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/hooks
-html_url: https://github.com/adafruit/Adafruit-Metro-ESP32-S2-PCB
-id: 309433020
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/merges
-milestones_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/milestones{/number}
-mirror_url: null
-name: Adafruit-Metro-ESP32-S2-PCB
-node_id: MDEwOlJlcG9zaXRvcnkzMDk0MzMwMjA=
-notifications_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: Adafruit-Metro-ESP32-S2-PCB
+  github_src: https://github.com/adafruit/Adafruit-Metro-ESP32-S2-PCB
+  github_src_repo: https://github.com/adafruit/Adafruit-Metro-ESP32-S2-PCB
+  oomp_bot: adafruit_adafruit_metro_esp32_s2_pcb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adafruit_adafruit_metro_esp32_s2_pcb
+  oomp_doc: projects/adafruit_adafruit_metro_esp32_s2_pcb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adafruit_adafruit_metro_esp32_s2_pcb
+  oomp_src_flat: projects_flat/adafruit_adafruit_metro_esp32_s2_pcb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adafruit_adafruit_metro_esp32_s2_pcb
+  oomp_src_folder: projects_folder\adafruit\Adafruit-Metro-ESP32-S2-PCB\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adafruit\Adafruit-Metro-ESP32-S2-PCB\version_current\working
+oomp_key: oomp_adafruit_adafruit_metro_esp32_s2_pcb
+oomp_key_simple: adafruit_adafruit_metro_esp32_s2_pcb
+projects_flat: projects_flat/adafruit_adafruit_metro_esp32_s2_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_metro_esp32_s2_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Metro-ESP32-S2-PCB/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/pulls{/number}
-pushed_at: '2021-05-12T23:02:12Z'
-releases_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/releases{/id}
-size: 1199
-ssh_url: git@github.com:adafruit/Adafruit-Metro-ESP32-S2-PCB.git
-stargazers_count: 11
-stargazers_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/stargazers
-statuses_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/subscribers
-subscription_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/subscription
-svn_url: https://github.com/adafruit/Adafruit-Metro-ESP32-S2-PCB
-tags_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/tags
-teams_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/git/trees{/sha}
-updated_at: '2023-04-20T15:55:20Z'
-url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB
-visibility: public
-watchers: 11
-watchers_count: 11
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/branches{/branch}
+  clone_url: https://github.com/adafruit/Adafruit-Metro-ESP32-S2-PCB.git
+  collaborators_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/contributors
+  created_at: '2020-11-02T16:43:09Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/deployments
+  description: PCB files for Adafruit Metro ESP32-S2.
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/downloads
+  events_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/forks
+  full_name: adafruit/Adafruit-Metro-ESP32-S2-PCB
+  git_commits_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/git/tags{/sha}
+  git_url: git://github.com/adafruit/Adafruit-Metro-ESP32-S2-PCB.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/hooks
+  html_url: https://github.com/adafruit/Adafruit-Metro-ESP32-S2-PCB
+  id: 309433020
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/merges
+  milestones_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/milestones{/number}
+  mirror_url: null
+  name: Adafruit-Metro-ESP32-S2-PCB
+  node_id: MDEwOlJlcG9zaXRvcnkzMDk0MzMwMjA=
+  notifications_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/pulls{/number}
+  pushed_at: '2021-05-12T23:02:12Z'
+  releases_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/releases{/id}
+  size: 1199
+  ssh_url: git@github.com:adafruit/Adafruit-Metro-ESP32-S2-PCB.git
+  stargazers_count: 11
+  stargazers_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/subscription
+  svn_url: https://github.com/adafruit/Adafruit-Metro-ESP32-S2-PCB
+  tags_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/tags
+  teams_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB/git/trees{/sha}
+  updated_at: '2023-04-20T15:55:20Z'
+  url: https://api.github.com/repos/adafruit/Adafruit-Metro-ESP32-S2-PCB
+  visibility: public
+  watchers: 11
+  watchers_count: 11
+  web_commit_signoff_required: false

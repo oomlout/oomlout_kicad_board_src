@@ -1,99 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/madworm/LED_port-status/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/madworm/LED_port-status/assignees{/user}
-blobs_url: https://api.github.com/repos/madworm/LED_port-status/git/blobs{/sha}
-branches_url: https://api.github.com/repos/madworm/LED_port-status/branches{/branch}
-clone_url: https://github.com/madworm/LED_port-status.git
-collaborators_url: https://api.github.com/repos/madworm/LED_port-status/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/madworm/LED_port-status/comments{/number}
-commits_url: https://api.github.com/repos/madworm/LED_port-status/commits{/sha}
-compare_url: https://api.github.com/repos/madworm/LED_port-status/compare/{base}...{head}
-contents_url: https://api.github.com/repos/madworm/LED_port-status/contents/{+path}
-contributors_url: https://api.github.com/repos/madworm/LED_port-status/contributors
-created_at: '2012-12-10T20:55:19Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/madworm/LED_port-status/deployments
-description: 'LAYOUT FILES: Easily display the status of GPIO lines when using a breadboard.'
-disabled: false
-downloads_url: https://api.github.com/repos/madworm/LED_port-status/downloads
-events_url: https://api.github.com/repos/madworm/LED_port-status/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/madworm/LED_port-status/forks
-full_name: madworm/LED_port-status
-git_commits_url: https://api.github.com/repos/madworm/LED_port-status/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/madworm/LED_port-status/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/madworm/LED_port-status/git/tags{/sha}
-git_url: git://github.com/madworm/LED_port-status.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/madworm/LED_port-status/hooks
-html_url: https://github.com/madworm/LED_port-status
-id: 7100618
-is_template: false
-issue_comment_url: https://api.github.com/repos/madworm/LED_port-status/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/madworm/LED_port-status/issues/events{/number}
-issues_url: https://api.github.com/repos/madworm/LED_port-status/issues{/number}
-keys_url: https://api.github.com/repos/madworm/LED_port-status/keys{/key_id}
-labels_url: https://api.github.com/repos/madworm/LED_port-status/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/madworm/LED_port-status/languages
-license: null
-merges_url: https://api.github.com/repos/madworm/LED_port-status/merges
-milestones_url: https://api.github.com/repos/madworm/LED_port-status/milestones{/number}
-mirror_url: null
-name: LED_port-status
-node_id: MDEwOlJlcG9zaXRvcnk3MTAwNjE4
-notifications_url: https://api.github.com/repos/madworm/LED_port-status/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
-  events_url: https://api.github.com/users/madworm/events{/privacy}
-  followers_url: https://api.github.com/users/madworm/followers
-  following_url: https://api.github.com/users/madworm/following{/other_user}
-  gists_url: https://api.github.com/users/madworm/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/madworm
-  id: 343894
-  login: madworm
-  node_id: MDQ6VXNlcjM0Mzg5NA==
-  organizations_url: https://api.github.com/users/madworm/orgs
-  received_events_url: https://api.github.com/users/madworm/received_events
-  repos_url: https://api.github.com/users/madworm/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/madworm/subscriptions
-  type: User
-  url: https://api.github.com/users/madworm
-private: false
+links:
+  github_owner: madworm
+  github_repo_name: LED_port-status
+  github_src: https://github.com/madworm/LED_port-status
+  github_src_repo: https://github.com/madworm/LED_port-status
+  oomp_bot: projects_madworm_led_port_status
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_madworm_led_port_status
+  oomp_doc: projects/projects_flat_madworm_led_port_status/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_madworm_led_port_status
+  oomp_src_flat: projects_flat/projects_flat_madworm_led_port_status
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_madworm_led_port_status
+  oomp_src_folder: projects_flat\madworm_led_port_status\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\madworm_led_port_status\version_current\working
+oomp_key: oomp_projects_flat_madworm_led_port_status
+oomp_key_simple: projects_flat_madworm_led_port_status
 projects_flat: projects_flat/madworm_led_port_status/version_current/working
 projects_folder: projects_folder/madworm/LED_port-status/version_current/working
-pulls_url: https://api.github.com/repos/madworm/LED_port-status/pulls{/number}
-pushed_at: '2016-08-19T13:25:52Z'
-releases_url: https://api.github.com/repos/madworm/LED_port-status/releases{/id}
-size: 3367
-ssh_url: git@github.com:madworm/LED_port-status.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/madworm/LED_port-status/stargazers
-statuses_url: https://api.github.com/repos/madworm/LED_port-status/statuses/{sha}
-subscribers_url: https://api.github.com/repos/madworm/LED_port-status/subscribers
-subscription_url: https://api.github.com/repos/madworm/LED_port-status/subscription
-svn_url: https://github.com/madworm/LED_port-status
-tags_url: https://api.github.com/repos/madworm/LED_port-status/tags
-teams_url: https://api.github.com/repos/madworm/LED_port-status/teams
-topics: []
-trees_url: https://api.github.com/repos/madworm/LED_port-status/git/trees{/sha}
-updated_at: '2023-07-25T13:46:46Z'
-url: https://api.github.com/repos/madworm/LED_port-status
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/madworm/LED_port-status/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/madworm/LED_port-status/assignees{/user}
+  blobs_url: https://api.github.com/repos/madworm/LED_port-status/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/madworm/LED_port-status/branches{/branch}
+  clone_url: https://github.com/madworm/LED_port-status.git
+  collaborators_url: https://api.github.com/repos/madworm/LED_port-status/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/madworm/LED_port-status/comments{/number}
+  commits_url: https://api.github.com/repos/madworm/LED_port-status/commits{/sha}
+  compare_url: https://api.github.com/repos/madworm/LED_port-status/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/madworm/LED_port-status/contents/{+path}
+  contributors_url: https://api.github.com/repos/madworm/LED_port-status/contributors
+  created_at: '2012-12-10T20:55:19Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/madworm/LED_port-status/deployments
+  description: 'LAYOUT FILES: Easily display the status of GPIO lines when using a
+    breadboard.'
+  disabled: false
+  downloads_url: https://api.github.com/repos/madworm/LED_port-status/downloads
+  events_url: https://api.github.com/repos/madworm/LED_port-status/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/madworm/LED_port-status/forks
+  full_name: madworm/LED_port-status
+  git_commits_url: https://api.github.com/repos/madworm/LED_port-status/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/madworm/LED_port-status/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/madworm/LED_port-status/git/tags{/sha}
+  git_url: git://github.com/madworm/LED_port-status.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/madworm/LED_port-status/hooks
+  html_url: https://github.com/madworm/LED_port-status
+  id: 7100618
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/madworm/LED_port-status/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/madworm/LED_port-status/issues/events{/number}
+  issues_url: https://api.github.com/repos/madworm/LED_port-status/issues{/number}
+  keys_url: https://api.github.com/repos/madworm/LED_port-status/keys{/key_id}
+  labels_url: https://api.github.com/repos/madworm/LED_port-status/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/madworm/LED_port-status/languages
+  license: null
+  merges_url: https://api.github.com/repos/madworm/LED_port-status/merges
+  milestones_url: https://api.github.com/repos/madworm/LED_port-status/milestones{/number}
+  mirror_url: null
+  name: LED_port-status
+  node_id: MDEwOlJlcG9zaXRvcnk3MTAwNjE4
+  notifications_url: https://api.github.com/repos/madworm/LED_port-status/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
+    events_url: https://api.github.com/users/madworm/events{/privacy}
+    followers_url: https://api.github.com/users/madworm/followers
+    following_url: https://api.github.com/users/madworm/following{/other_user}
+    gists_url: https://api.github.com/users/madworm/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/madworm
+    id: 343894
+    login: madworm
+    node_id: MDQ6VXNlcjM0Mzg5NA==
+    organizations_url: https://api.github.com/users/madworm/orgs
+    received_events_url: https://api.github.com/users/madworm/received_events
+    repos_url: https://api.github.com/users/madworm/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/madworm/subscriptions
+    type: User
+    url: https://api.github.com/users/madworm
+  private: false
+  pulls_url: https://api.github.com/repos/madworm/LED_port-status/pulls{/number}
+  pushed_at: '2016-08-19T13:25:52Z'
+  releases_url: https://api.github.com/repos/madworm/LED_port-status/releases{/id}
+  size: 3367
+  ssh_url: git@github.com:madworm/LED_port-status.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/madworm/LED_port-status/stargazers
+  statuses_url: https://api.github.com/repos/madworm/LED_port-status/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/madworm/LED_port-status/subscribers
+  subscription_url: https://api.github.com/repos/madworm/LED_port-status/subscription
+  svn_url: https://github.com/madworm/LED_port-status
+  tags_url: https://api.github.com/repos/madworm/LED_port-status/tags
+  teams_url: https://api.github.com/repos/madworm/LED_port-status/teams
+  topics: []
+  trees_url: https://api.github.com/repos/madworm/LED_port-status/git/trees{/sha}
+  updated_at: '2023-07-25T13:46:46Z'
+  url: https://api.github.com/repos/madworm/LED_port-status
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

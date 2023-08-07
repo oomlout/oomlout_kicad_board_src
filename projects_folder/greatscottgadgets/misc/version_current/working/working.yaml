@@ -1,106 +1,122 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/greatscottgadgets/misc/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/greatscottgadgets/misc/assignees{/user}
-blobs_url: https://api.github.com/repos/greatscottgadgets/misc/git/blobs{/sha}
-branches_url: https://api.github.com/repos/greatscottgadgets/misc/branches{/branch}
-clone_url: https://github.com/greatscottgadgets/misc.git
-collaborators_url: https://api.github.com/repos/greatscottgadgets/misc/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/greatscottgadgets/misc/comments{/number}
-commits_url: https://api.github.com/repos/greatscottgadgets/misc/commits{/sha}
-compare_url: https://api.github.com/repos/greatscottgadgets/misc/compare/{base}...{head}
-contents_url: https://api.github.com/repos/greatscottgadgets/misc/contents/{+path}
-contributors_url: https://api.github.com/repos/greatscottgadgets/misc/contributors
-created_at: '2014-02-11T17:31:11Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/greatscottgadgets/misc/deployments
-description: miscellaneous Great Scott Gadgets projects
-disabled: false
-downloads_url: https://api.github.com/repos/greatscottgadgets/misc/downloads
-events_url: https://api.github.com/repos/greatscottgadgets/misc/events
 file_kicad_sch_flat: projects_flat/greatscottgadgets_misc/version_current/working/working.kicad_sch
 file_kicad_sch_folder: projects_folder/greatscottgadgets/misc/version_current/working/working.kicad_sch
-fork: false
-forks: 7
-forks_count: 7
-forks_url: https://api.github.com/repos/greatscottgadgets/misc/forks
-full_name: greatscottgadgets/misc
-git_commits_url: https://api.github.com/repos/greatscottgadgets/misc/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/greatscottgadgets/misc/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/greatscottgadgets/misc/git/tags{/sha}
-git_url: git://github.com/greatscottgadgets/misc.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/greatscottgadgets/misc/hooks
-html_url: https://github.com/greatscottgadgets/misc
-id: 16738971
-is_template: false
-issue_comment_url: https://api.github.com/repos/greatscottgadgets/misc/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/greatscottgadgets/misc/issues/events{/number}
-issues_url: https://api.github.com/repos/greatscottgadgets/misc/issues{/number}
-keys_url: https://api.github.com/repos/greatscottgadgets/misc/keys{/key_id}
-labels_url: https://api.github.com/repos/greatscottgadgets/misc/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/greatscottgadgets/misc/languages
-license:
-  key: gpl-2.0
-  name: GNU General Public License v2.0
-  node_id: MDc6TGljZW5zZTg=
-  spdx_id: GPL-2.0
-  url: https://api.github.com/licenses/gpl-2.0
-merges_url: https://api.github.com/repos/greatscottgadgets/misc/merges
-milestones_url: https://api.github.com/repos/greatscottgadgets/misc/milestones{/number}
-mirror_url: null
-name: misc
-node_id: MDEwOlJlcG9zaXRvcnkxNjczODk3MQ==
-notifications_url: https://api.github.com/repos/greatscottgadgets/misc/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5904722?v=4
-  events_url: https://api.github.com/users/greatscottgadgets/events{/privacy}
-  followers_url: https://api.github.com/users/greatscottgadgets/followers
-  following_url: https://api.github.com/users/greatscottgadgets/following{/other_user}
-  gists_url: https://api.github.com/users/greatscottgadgets/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/greatscottgadgets
-  id: 5904722
-  login: greatscottgadgets
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU5MDQ3MjI=
-  organizations_url: https://api.github.com/users/greatscottgadgets/orgs
-  received_events_url: https://api.github.com/users/greatscottgadgets/received_events
-  repos_url: https://api.github.com/users/greatscottgadgets/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/greatscottgadgets/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/greatscottgadgets/subscriptions
-  type: Organization
-  url: https://api.github.com/users/greatscottgadgets
-private: false
+links:
+  github_owner: greatscottgadgets
+  github_repo_name: misc
+  github_src: https://github.com/greatscottgadgets/misc
+  github_src_repo: https://github.com/greatscottgadgets/misc
+  oomp_bot: greatscottgadgets_misc
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/greatscottgadgets_misc
+  oomp_doc: projects/greatscottgadgets_misc/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/greatscottgadgets_misc
+  oomp_src_flat: projects_flat/greatscottgadgets_misc
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/greatscottgadgets_misc
+  oomp_src_folder: projects_folder\greatscottgadgets\misc\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\greatscottgadgets\misc\version_current\working
+oomp_key: oomp_greatscottgadgets_misc
+oomp_key_simple: greatscottgadgets_misc
 projects_flat: projects_flat/greatscottgadgets_misc/version_current/working
 projects_folder: projects_folder/greatscottgadgets/misc/version_current/working
-pulls_url: https://api.github.com/repos/greatscottgadgets/misc/pulls{/number}
-pushed_at: '2023-06-02T15:58:20Z'
-releases_url: https://api.github.com/repos/greatscottgadgets/misc/releases{/id}
-size: 2712
-ssh_url: git@github.com:greatscottgadgets/misc.git
-stargazers_count: 12
-stargazers_url: https://api.github.com/repos/greatscottgadgets/misc/stargazers
-statuses_url: https://api.github.com/repos/greatscottgadgets/misc/statuses/{sha}
-subscribers_url: https://api.github.com/repos/greatscottgadgets/misc/subscribers
-subscription_url: https://api.github.com/repos/greatscottgadgets/misc/subscription
-svn_url: https://github.com/greatscottgadgets/misc
-tags_url: https://api.github.com/repos/greatscottgadgets/misc/tags
-teams_url: https://api.github.com/repos/greatscottgadgets/misc/teams
-topics: []
-trees_url: https://api.github.com/repos/greatscottgadgets/misc/git/trees{/sha}
-updated_at: '2023-07-04T16:46:19Z'
-url: https://api.github.com/repos/greatscottgadgets/misc
-visibility: public
-watchers: 12
-watchers_count: 12
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/greatscottgadgets/misc/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/greatscottgadgets/misc/assignees{/user}
+  blobs_url: https://api.github.com/repos/greatscottgadgets/misc/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/greatscottgadgets/misc/branches{/branch}
+  clone_url: https://github.com/greatscottgadgets/misc.git
+  collaborators_url: https://api.github.com/repos/greatscottgadgets/misc/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/greatscottgadgets/misc/comments{/number}
+  commits_url: https://api.github.com/repos/greatscottgadgets/misc/commits{/sha}
+  compare_url: https://api.github.com/repos/greatscottgadgets/misc/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/greatscottgadgets/misc/contents/{+path}
+  contributors_url: https://api.github.com/repos/greatscottgadgets/misc/contributors
+  created_at: '2014-02-11T17:31:11Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/greatscottgadgets/misc/deployments
+  description: miscellaneous Great Scott Gadgets projects
+  disabled: false
+  downloads_url: https://api.github.com/repos/greatscottgadgets/misc/downloads
+  events_url: https://api.github.com/repos/greatscottgadgets/misc/events
+  fork: false
+  forks: 7
+  forks_count: 7
+  forks_url: https://api.github.com/repos/greatscottgadgets/misc/forks
+  full_name: greatscottgadgets/misc
+  git_commits_url: https://api.github.com/repos/greatscottgadgets/misc/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/greatscottgadgets/misc/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/greatscottgadgets/misc/git/tags{/sha}
+  git_url: git://github.com/greatscottgadgets/misc.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/greatscottgadgets/misc/hooks
+  html_url: https://github.com/greatscottgadgets/misc
+  id: 16738971
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/greatscottgadgets/misc/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/greatscottgadgets/misc/issues/events{/number}
+  issues_url: https://api.github.com/repos/greatscottgadgets/misc/issues{/number}
+  keys_url: https://api.github.com/repos/greatscottgadgets/misc/keys{/key_id}
+  labels_url: https://api.github.com/repos/greatscottgadgets/misc/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/greatscottgadgets/misc/languages
+  license:
+    key: gpl-2.0
+    name: GNU General Public License v2.0
+    node_id: MDc6TGljZW5zZTg=
+    spdx_id: GPL-2.0
+    url: https://api.github.com/licenses/gpl-2.0
+  merges_url: https://api.github.com/repos/greatscottgadgets/misc/merges
+  milestones_url: https://api.github.com/repos/greatscottgadgets/misc/milestones{/number}
+  mirror_url: null
+  name: misc
+  node_id: MDEwOlJlcG9zaXRvcnkxNjczODk3MQ==
+  notifications_url: https://api.github.com/repos/greatscottgadgets/misc/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5904722?v=4
+    events_url: https://api.github.com/users/greatscottgadgets/events{/privacy}
+    followers_url: https://api.github.com/users/greatscottgadgets/followers
+    following_url: https://api.github.com/users/greatscottgadgets/following{/other_user}
+    gists_url: https://api.github.com/users/greatscottgadgets/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/greatscottgadgets
+    id: 5904722
+    login: greatscottgadgets
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU5MDQ3MjI=
+    organizations_url: https://api.github.com/users/greatscottgadgets/orgs
+    received_events_url: https://api.github.com/users/greatscottgadgets/received_events
+    repos_url: https://api.github.com/users/greatscottgadgets/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/greatscottgadgets/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/greatscottgadgets/subscriptions
+    type: Organization
+    url: https://api.github.com/users/greatscottgadgets
+  private: false
+  pulls_url: https://api.github.com/repos/greatscottgadgets/misc/pulls{/number}
+  pushed_at: '2023-06-02T15:58:20Z'
+  releases_url: https://api.github.com/repos/greatscottgadgets/misc/releases{/id}
+  size: 2712
+  ssh_url: git@github.com:greatscottgadgets/misc.git
+  stargazers_count: 12
+  stargazers_url: https://api.github.com/repos/greatscottgadgets/misc/stargazers
+  statuses_url: https://api.github.com/repos/greatscottgadgets/misc/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/greatscottgadgets/misc/subscribers
+  subscription_url: https://api.github.com/repos/greatscottgadgets/misc/subscription
+  svn_url: https://github.com/greatscottgadgets/misc
+  tags_url: https://api.github.com/repos/greatscottgadgets/misc/tags
+  teams_url: https://api.github.com/repos/greatscottgadgets/misc/teams
+  topics: []
+  trees_url: https://api.github.com/repos/greatscottgadgets/misc/git/trees{/sha}
+  updated_at: '2023-07-04T16:46:19Z'
+  url: https://api.github.com/repos/greatscottgadgets/misc
+  visibility: public
+  watchers: 12
+  watchers_count: 12
+  web_commit_signoff_required: false

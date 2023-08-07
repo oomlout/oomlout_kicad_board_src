@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/devbisme/kicad_component_layout/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/devbisme/kicad_component_layout/assignees{/user}
-blobs_url: https://api.github.com/repos/devbisme/kicad_component_layout/git/blobs{/sha}
-branches_url: https://api.github.com/repos/devbisme/kicad_component_layout/branches{/branch}
-clone_url: https://github.com/devbisme/kicad_component_layout.git
-collaborators_url: https://api.github.com/repos/devbisme/kicad_component_layout/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/devbisme/kicad_component_layout/comments{/number}
-commits_url: https://api.github.com/repos/devbisme/kicad_component_layout/commits{/sha}
-compare_url: https://api.github.com/repos/devbisme/kicad_component_layout/compare/{base}...{head}
-contents_url: https://api.github.com/repos/devbisme/kicad_component_layout/contents/{+path}
-contributors_url: https://api.github.com/repos/devbisme/kicad_component_layout/contributors
-created_at: '2022-08-03T12:22:27Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/devbisme/kicad_component_layout/deployments
-description: Scripted component layout plugin for KiCad/pcbnew
-disabled: false
-downloads_url: https://api.github.com/repos/devbisme/kicad_component_layout/downloads
-events_url: https://api.github.com/repos/devbisme/kicad_component_layout/events
-fork: true
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/devbisme/kicad_component_layout/forks
-full_name: devbisme/kicad_component_layout
-git_commits_url: https://api.github.com/repos/devbisme/kicad_component_layout/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/devbisme/kicad_component_layout/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/devbisme/kicad_component_layout/git/tags{/sha}
-git_url: git://github.com/devbisme/kicad_component_layout.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/devbisme/kicad_component_layout/hooks
-html_url: https://github.com/devbisme/kicad_component_layout
-id: 520869678
-is_template: false
-issue_comment_url: https://api.github.com/repos/devbisme/kicad_component_layout/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/devbisme/kicad_component_layout/issues/events{/number}
-issues_url: https://api.github.com/repos/devbisme/kicad_component_layout/issues{/number}
-keys_url: https://api.github.com/repos/devbisme/kicad_component_layout/keys{/key_id}
-labels_url: https://api.github.com/repos/devbisme/kicad_component_layout/labels{/name}
-language: Python
-languages_url: https://api.github.com/repos/devbisme/kicad_component_layout/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/devbisme/kicad_component_layout/merges
-milestones_url: https://api.github.com/repos/devbisme/kicad_component_layout/milestones{/number}
-mirror_url: null
-name: kicad_component_layout
-node_id: R_kgDOHwvXLg
-notifications_url: https://api.github.com/repos/devbisme/kicad_component_layout/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/666592?v=4
-  events_url: https://api.github.com/users/devbisme/events{/privacy}
-  followers_url: https://api.github.com/users/devbisme/followers
-  following_url: https://api.github.com/users/devbisme/following{/other_user}
-  gists_url: https://api.github.com/users/devbisme/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/devbisme
-  id: 666592
-  login: devbisme
-  node_id: MDQ6VXNlcjY2NjU5Mg==
-  organizations_url: https://api.github.com/users/devbisme/orgs
-  received_events_url: https://api.github.com/users/devbisme/received_events
-  repos_url: https://api.github.com/users/devbisme/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/devbisme/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/devbisme/subscriptions
-  type: User
-  url: https://api.github.com/users/devbisme
-private: false
+links:
+  github_owner: devbisme
+  github_repo_name: kicad_component_layout
+  github_src: https://github.com/devbisme/kicad_component_layout
+  github_src_repo: https://github.com/devbisme/kicad_component_layout
+  oomp_bot: devbisme_kicad_component_layout
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/devbisme_kicad_component_layout
+  oomp_doc: projects/devbisme_kicad_component_layout/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/devbisme_kicad_component_layout
+  oomp_src_flat: projects_flat/devbisme_kicad_component_layout
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/devbisme_kicad_component_layout
+  oomp_src_folder: projects_folder\devbisme\kicad_component_layout\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\devbisme\kicad_component_layout\version_current\working
+oomp_key: oomp_devbisme_kicad_component_layout
+oomp_key_simple: devbisme_kicad_component_layout
 projects_flat: projects_flat/devbisme_kicad_component_layout/version_current/working
 projects_folder: projects_folder/devbisme/kicad_component_layout/version_current/working
-pulls_url: https://api.github.com/repos/devbisme/kicad_component_layout/pulls{/number}
-pushed_at: '2022-08-04T22:27:45Z'
-releases_url: https://api.github.com/repos/devbisme/kicad_component_layout/releases{/id}
-size: 48
-ssh_url: git@github.com:devbisme/kicad_component_layout.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/devbisme/kicad_component_layout/stargazers
-statuses_url: https://api.github.com/repos/devbisme/kicad_component_layout/statuses/{sha}
-subscribers_url: https://api.github.com/repos/devbisme/kicad_component_layout/subscribers
-subscription_url: https://api.github.com/repos/devbisme/kicad_component_layout/subscription
-svn_url: https://github.com/devbisme/kicad_component_layout
-tags_url: https://api.github.com/repos/devbisme/kicad_component_layout/tags
-teams_url: https://api.github.com/repos/devbisme/kicad_component_layout/teams
-topics: []
-trees_url: https://api.github.com/repos/devbisme/kicad_component_layout/git/trees{/sha}
-updated_at: '2022-08-04T22:27:48Z'
-url: https://api.github.com/repos/devbisme/kicad_component_layout
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/devbisme/kicad_component_layout/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/devbisme/kicad_component_layout/assignees{/user}
+  blobs_url: https://api.github.com/repos/devbisme/kicad_component_layout/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/devbisme/kicad_component_layout/branches{/branch}
+  clone_url: https://github.com/devbisme/kicad_component_layout.git
+  collaborators_url: https://api.github.com/repos/devbisme/kicad_component_layout/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/devbisme/kicad_component_layout/comments{/number}
+  commits_url: https://api.github.com/repos/devbisme/kicad_component_layout/commits{/sha}
+  compare_url: https://api.github.com/repos/devbisme/kicad_component_layout/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/devbisme/kicad_component_layout/contents/{+path}
+  contributors_url: https://api.github.com/repos/devbisme/kicad_component_layout/contributors
+  created_at: '2022-08-03T12:22:27Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/devbisme/kicad_component_layout/deployments
+  description: Scripted component layout plugin for KiCad/pcbnew
+  disabled: false
+  downloads_url: https://api.github.com/repos/devbisme/kicad_component_layout/downloads
+  events_url: https://api.github.com/repos/devbisme/kicad_component_layout/events
+  fork: true
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/devbisme/kicad_component_layout/forks
+  full_name: devbisme/kicad_component_layout
+  git_commits_url: https://api.github.com/repos/devbisme/kicad_component_layout/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/devbisme/kicad_component_layout/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/devbisme/kicad_component_layout/git/tags{/sha}
+  git_url: git://github.com/devbisme/kicad_component_layout.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/devbisme/kicad_component_layout/hooks
+  html_url: https://github.com/devbisme/kicad_component_layout
+  id: 520869678
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/devbisme/kicad_component_layout/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/devbisme/kicad_component_layout/issues/events{/number}
+  issues_url: https://api.github.com/repos/devbisme/kicad_component_layout/issues{/number}
+  keys_url: https://api.github.com/repos/devbisme/kicad_component_layout/keys{/key_id}
+  labels_url: https://api.github.com/repos/devbisme/kicad_component_layout/labels{/name}
+  language: Python
+  languages_url: https://api.github.com/repos/devbisme/kicad_component_layout/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/devbisme/kicad_component_layout/merges
+  milestones_url: https://api.github.com/repos/devbisme/kicad_component_layout/milestones{/number}
+  mirror_url: null
+  name: kicad_component_layout
+  node_id: R_kgDOHwvXLg
+  notifications_url: https://api.github.com/repos/devbisme/kicad_component_layout/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/666592?v=4
+    events_url: https://api.github.com/users/devbisme/events{/privacy}
+    followers_url: https://api.github.com/users/devbisme/followers
+    following_url: https://api.github.com/users/devbisme/following{/other_user}
+    gists_url: https://api.github.com/users/devbisme/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/devbisme
+    id: 666592
+    login: devbisme
+    node_id: MDQ6VXNlcjY2NjU5Mg==
+    organizations_url: https://api.github.com/users/devbisme/orgs
+    received_events_url: https://api.github.com/users/devbisme/received_events
+    repos_url: https://api.github.com/users/devbisme/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/devbisme/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/devbisme/subscriptions
+    type: User
+    url: https://api.github.com/users/devbisme
+  private: false
+  pulls_url: https://api.github.com/repos/devbisme/kicad_component_layout/pulls{/number}
+  pushed_at: '2022-08-04T22:27:45Z'
+  releases_url: https://api.github.com/repos/devbisme/kicad_component_layout/releases{/id}
+  size: 48
+  ssh_url: git@github.com:devbisme/kicad_component_layout.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/devbisme/kicad_component_layout/stargazers
+  statuses_url: https://api.github.com/repos/devbisme/kicad_component_layout/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/devbisme/kicad_component_layout/subscribers
+  subscription_url: https://api.github.com/repos/devbisme/kicad_component_layout/subscription
+  svn_url: https://github.com/devbisme/kicad_component_layout
+  tags_url: https://api.github.com/repos/devbisme/kicad_component_layout/tags
+  teams_url: https://api.github.com/repos/devbisme/kicad_component_layout/teams
+  topics: []
+  trees_url: https://api.github.com/repos/devbisme/kicad_component_layout/git/trees{/sha}
+  updated_at: '2022-08-04T22:27:48Z'
+  url: https://api.github.com/repos/devbisme/kicad_component_layout
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

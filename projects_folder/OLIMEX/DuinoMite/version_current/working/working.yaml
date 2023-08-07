@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/OLIMEX/DuinoMite/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/OLIMEX/DuinoMite/assignees{/user}
-blobs_url: https://api.github.com/repos/OLIMEX/DuinoMite/git/blobs{/sha}
-branches_url: https://api.github.com/repos/OLIMEX/DuinoMite/branches{/branch}
-clone_url: https://github.com/OLIMEX/DuinoMite.git
-collaborators_url: https://api.github.com/repos/OLIMEX/DuinoMite/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/OLIMEX/DuinoMite/comments{/number}
-commits_url: https://api.github.com/repos/OLIMEX/DuinoMite/commits{/sha}
-compare_url: https://api.github.com/repos/OLIMEX/DuinoMite/compare/{base}...{head}
-contents_url: https://api.github.com/repos/OLIMEX/DuinoMite/contents/{+path}
-contributors_url: https://api.github.com/repos/OLIMEX/DuinoMite/contributors
-created_at: '2012-03-12T17:57:17Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/OLIMEX/DuinoMite/deployments
-description: Open Source Open Hardware Single Board BASIC computer
-disabled: false
-downloads_url: https://api.github.com/repos/OLIMEX/DuinoMite/downloads
-events_url: https://api.github.com/repos/OLIMEX/DuinoMite/events
-fork: false
-forks: 26
-forks_count: 26
-forks_url: https://api.github.com/repos/OLIMEX/DuinoMite/forks
-full_name: OLIMEX/DuinoMite
-git_commits_url: https://api.github.com/repos/OLIMEX/DuinoMite/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/OLIMEX/DuinoMite/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/OLIMEX/DuinoMite/git/tags{/sha}
-git_url: git://github.com/OLIMEX/DuinoMite.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: www.olimex.com
-hooks_url: https://api.github.com/repos/OLIMEX/DuinoMite/hooks
-html_url: https://github.com/OLIMEX/DuinoMite
-id: 3698053
-is_template: false
-issue_comment_url: https://api.github.com/repos/OLIMEX/DuinoMite/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/OLIMEX/DuinoMite/issues/events{/number}
-issues_url: https://api.github.com/repos/OLIMEX/DuinoMite/issues{/number}
-keys_url: https://api.github.com/repos/OLIMEX/DuinoMite/keys{/key_id}
-labels_url: https://api.github.com/repos/OLIMEX/DuinoMite/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/OLIMEX/DuinoMite/languages
-license: null
-merges_url: https://api.github.com/repos/OLIMEX/DuinoMite/merges
-milestones_url: https://api.github.com/repos/OLIMEX/DuinoMite/milestones{/number}
-mirror_url: null
-name: DuinoMite
-node_id: MDEwOlJlcG9zaXRvcnkzNjk4MDUz
-notifications_url: https://api.github.com/repos/OLIMEX/DuinoMite/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
-  events_url: https://api.github.com/users/OLIMEX/events{/privacy}
-  followers_url: https://api.github.com/users/OLIMEX/followers
-  following_url: https://api.github.com/users/OLIMEX/following{/other_user}
-  gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/OLIMEX
-  id: 1529069
-  login: OLIMEX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
-  organizations_url: https://api.github.com/users/OLIMEX/orgs
-  received_events_url: https://api.github.com/users/OLIMEX/received_events
-  repos_url: https://api.github.com/users/OLIMEX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/OLIMEX
-private: false
+links:
+  github_owner: OLIMEX
+  github_repo_name: DuinoMite
+  github_src: https://github.com/OLIMEX/DuinoMite
+  github_src_repo: https://github.com/OLIMEX/DuinoMite
+  oomp_bot: olimex_duinomite
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/olimex_duinomite
+  oomp_doc: projects/olimex_duinomite/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/olimex_duinomite
+  oomp_src_flat: projects_flat/olimex_duinomite
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/olimex_duinomite
+  oomp_src_folder: projects_folder\OLIMEX\DuinoMite\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\OLIMEX\DuinoMite\version_current\working
+oomp_key: oomp_olimex_duinomite
+oomp_key_simple: olimex_duinomite
 projects_flat: projects_flat/olimex_duinomite/version_current/working
 projects_folder: projects_folder/OLIMEX/DuinoMite/version_current/working
-pulls_url: https://api.github.com/repos/OLIMEX/DuinoMite/pulls{/number}
-pushed_at: '2019-07-02T06:21:50Z'
-releases_url: https://api.github.com/repos/OLIMEX/DuinoMite/releases{/id}
-size: 10648
-ssh_url: git@github.com:OLIMEX/DuinoMite.git
-stargazers_count: 32
-stargazers_url: https://api.github.com/repos/OLIMEX/DuinoMite/stargazers
-statuses_url: https://api.github.com/repos/OLIMEX/DuinoMite/statuses/{sha}
-subscribers_url: https://api.github.com/repos/OLIMEX/DuinoMite/subscribers
-subscription_url: https://api.github.com/repos/OLIMEX/DuinoMite/subscription
-svn_url: https://github.com/OLIMEX/DuinoMite
-tags_url: https://api.github.com/repos/OLIMEX/DuinoMite/tags
-teams_url: https://api.github.com/repos/OLIMEX/DuinoMite/teams
-topics: []
-trees_url: https://api.github.com/repos/OLIMEX/DuinoMite/git/trees{/sha}
-updated_at: '2023-03-27T00:54:36Z'
-url: https://api.github.com/repos/OLIMEX/DuinoMite
-visibility: public
-watchers: 32
-watchers_count: 32
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/OLIMEX/DuinoMite/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/OLIMEX/DuinoMite/assignees{/user}
+  blobs_url: https://api.github.com/repos/OLIMEX/DuinoMite/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/OLIMEX/DuinoMite/branches{/branch}
+  clone_url: https://github.com/OLIMEX/DuinoMite.git
+  collaborators_url: https://api.github.com/repos/OLIMEX/DuinoMite/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/OLIMEX/DuinoMite/comments{/number}
+  commits_url: https://api.github.com/repos/OLIMEX/DuinoMite/commits{/sha}
+  compare_url: https://api.github.com/repos/OLIMEX/DuinoMite/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/OLIMEX/DuinoMite/contents/{+path}
+  contributors_url: https://api.github.com/repos/OLIMEX/DuinoMite/contributors
+  created_at: '2012-03-12T17:57:17Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/OLIMEX/DuinoMite/deployments
+  description: Open Source Open Hardware Single Board BASIC computer
+  disabled: false
+  downloads_url: https://api.github.com/repos/OLIMEX/DuinoMite/downloads
+  events_url: https://api.github.com/repos/OLIMEX/DuinoMite/events
+  fork: false
+  forks: 26
+  forks_count: 26
+  forks_url: https://api.github.com/repos/OLIMEX/DuinoMite/forks
+  full_name: OLIMEX/DuinoMite
+  git_commits_url: https://api.github.com/repos/OLIMEX/DuinoMite/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/OLIMEX/DuinoMite/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/OLIMEX/DuinoMite/git/tags{/sha}
+  git_url: git://github.com/OLIMEX/DuinoMite.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: www.olimex.com
+  hooks_url: https://api.github.com/repos/OLIMEX/DuinoMite/hooks
+  html_url: https://github.com/OLIMEX/DuinoMite
+  id: 3698053
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/OLIMEX/DuinoMite/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/OLIMEX/DuinoMite/issues/events{/number}
+  issues_url: https://api.github.com/repos/OLIMEX/DuinoMite/issues{/number}
+  keys_url: https://api.github.com/repos/OLIMEX/DuinoMite/keys{/key_id}
+  labels_url: https://api.github.com/repos/OLIMEX/DuinoMite/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/OLIMEX/DuinoMite/languages
+  license: null
+  merges_url: https://api.github.com/repos/OLIMEX/DuinoMite/merges
+  milestones_url: https://api.github.com/repos/OLIMEX/DuinoMite/milestones{/number}
+  mirror_url: null
+  name: DuinoMite
+  node_id: MDEwOlJlcG9zaXRvcnkzNjk4MDUz
+  notifications_url: https://api.github.com/repos/OLIMEX/DuinoMite/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1529069?v=4
+    events_url: https://api.github.com/users/OLIMEX/events{/privacy}
+    followers_url: https://api.github.com/users/OLIMEX/followers
+    following_url: https://api.github.com/users/OLIMEX/following{/other_user}
+    gists_url: https://api.github.com/users/OLIMEX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/OLIMEX
+    id: 1529069
+    login: OLIMEX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE1MjkwNjk=
+    organizations_url: https://api.github.com/users/OLIMEX/orgs
+    received_events_url: https://api.github.com/users/OLIMEX/received_events
+    repos_url: https://api.github.com/users/OLIMEX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/OLIMEX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/OLIMEX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/OLIMEX
+  private: false
+  pulls_url: https://api.github.com/repos/OLIMEX/DuinoMite/pulls{/number}
+  pushed_at: '2019-07-02T06:21:50Z'
+  releases_url: https://api.github.com/repos/OLIMEX/DuinoMite/releases{/id}
+  size: 10648
+  ssh_url: git@github.com:OLIMEX/DuinoMite.git
+  stargazers_count: 32
+  stargazers_url: https://api.github.com/repos/OLIMEX/DuinoMite/stargazers
+  statuses_url: https://api.github.com/repos/OLIMEX/DuinoMite/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/OLIMEX/DuinoMite/subscribers
+  subscription_url: https://api.github.com/repos/OLIMEX/DuinoMite/subscription
+  svn_url: https://github.com/OLIMEX/DuinoMite
+  tags_url: https://api.github.com/repos/OLIMEX/DuinoMite/tags
+  teams_url: https://api.github.com/repos/OLIMEX/DuinoMite/teams
+  topics: []
+  trees_url: https://api.github.com/repos/OLIMEX/DuinoMite/git/trees{/sha}
+  updated_at: '2023-03-27T00:54:36Z'
+  url: https://api.github.com/repos/OLIMEX/DuinoMite
+  visibility: public
+  watchers: 32
+  watchers_count: 32
+  web_commit_signoff_required: false

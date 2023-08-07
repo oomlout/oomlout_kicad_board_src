@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/esden/radio/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/esden/radio/assignees{/user}
-blobs_url: https://api.github.com/repos/esden/radio/git/blobs{/sha}
-branches_url: https://api.github.com/repos/esden/radio/branches{/branch}
-clone_url: https://github.com/esden/radio.git
-collaborators_url: https://api.github.com/repos/esden/radio/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/esden/radio/comments{/number}
-commits_url: https://api.github.com/repos/esden/radio/commits{/sha}
-compare_url: https://api.github.com/repos/esden/radio/compare/{base}...{head}
-contents_url: https://api.github.com/repos/esden/radio/contents/{+path}
-contributors_url: https://api.github.com/repos/esden/radio/contributors
-created_at: '2016-04-29T06:44:38Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/esden/radio/deployments
-description: Radio hardware and software projects.
-disabled: false
-downloads_url: https://api.github.com/repos/esden/radio/downloads
-events_url: https://api.github.com/repos/esden/radio/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/esden/radio/forks
-full_name: esden/radio
-git_commits_url: https://api.github.com/repos/esden/radio/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/esden/radio/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/esden/radio/git/tags{/sha}
-git_url: git://github.com/esden/radio.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/esden/radio/hooks
-html_url: https://github.com/esden/radio
-id: 57361373
-is_template: false
-issue_comment_url: https://api.github.com/repos/esden/radio/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/esden/radio/issues/events{/number}
-issues_url: https://api.github.com/repos/esden/radio/issues{/number}
-keys_url: https://api.github.com/repos/esden/radio/keys{/key_id}
-labels_url: https://api.github.com/repos/esden/radio/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/esden/radio/languages
-license: null
-merges_url: https://api.github.com/repos/esden/radio/merges
-milestones_url: https://api.github.com/repos/esden/radio/milestones{/number}
-mirror_url: null
-name: radio
-node_id: MDEwOlJlcG9zaXRvcnk1NzM2MTM3Mw==
-notifications_url: https://api.github.com/repos/esden/radio/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/17334?v=4
-  events_url: https://api.github.com/users/esden/events{/privacy}
-  followers_url: https://api.github.com/users/esden/followers
-  following_url: https://api.github.com/users/esden/following{/other_user}
-  gists_url: https://api.github.com/users/esden/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/esden
-  id: 17334
-  login: esden
-  node_id: MDQ6VXNlcjE3MzM0
-  organizations_url: https://api.github.com/users/esden/orgs
-  received_events_url: https://api.github.com/users/esden/received_events
-  repos_url: https://api.github.com/users/esden/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/esden/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/esden/subscriptions
-  type: User
-  url: https://api.github.com/users/esden
-private: false
+links:
+  github_owner: esden
+  github_repo_name: radio
+  github_src: https://github.com/esden/radio
+  github_src_repo: https://github.com/esden/radio
+  oomp_bot: projects_esden_radio
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_esden_radio
+  oomp_doc: projects/projects_flat_esden_radio/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_esden_radio
+  oomp_src_flat: projects_flat/projects_flat_esden_radio
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_esden_radio
+  oomp_src_folder: projects_flat\esden_radio\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\esden_radio\version_current\working
+oomp_key: oomp_projects_flat_esden_radio
+oomp_key_simple: projects_flat_esden_radio
 projects_flat: projects_flat/esden_radio/version_current/working
 projects_folder: projects_folder/esden/radio/version_current/working
-pulls_url: https://api.github.com/repos/esden/radio/pulls{/number}
-pushed_at: '2016-04-29T06:50:38Z'
-releases_url: https://api.github.com/repos/esden/radio/releases{/id}
-size: 1197
-ssh_url: git@github.com:esden/radio.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/esden/radio/stargazers
-statuses_url: https://api.github.com/repos/esden/radio/statuses/{sha}
-subscribers_url: https://api.github.com/repos/esden/radio/subscribers
-subscription_url: https://api.github.com/repos/esden/radio/subscription
-svn_url: https://github.com/esden/radio
-tags_url: https://api.github.com/repos/esden/radio/tags
-teams_url: https://api.github.com/repos/esden/radio/teams
-topics: []
-trees_url: https://api.github.com/repos/esden/radio/git/trees{/sha}
-updated_at: '2022-03-17T22:59:58Z'
-url: https://api.github.com/repos/esden/radio
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/esden/radio/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/esden/radio/assignees{/user}
+  blobs_url: https://api.github.com/repos/esden/radio/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/esden/radio/branches{/branch}
+  clone_url: https://github.com/esden/radio.git
+  collaborators_url: https://api.github.com/repos/esden/radio/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/esden/radio/comments{/number}
+  commits_url: https://api.github.com/repos/esden/radio/commits{/sha}
+  compare_url: https://api.github.com/repos/esden/radio/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/esden/radio/contents/{+path}
+  contributors_url: https://api.github.com/repos/esden/radio/contributors
+  created_at: '2016-04-29T06:44:38Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/esden/radio/deployments
+  description: Radio hardware and software projects.
+  disabled: false
+  downloads_url: https://api.github.com/repos/esden/radio/downloads
+  events_url: https://api.github.com/repos/esden/radio/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/esden/radio/forks
+  full_name: esden/radio
+  git_commits_url: https://api.github.com/repos/esden/radio/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/esden/radio/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/esden/radio/git/tags{/sha}
+  git_url: git://github.com/esden/radio.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/esden/radio/hooks
+  html_url: https://github.com/esden/radio
+  id: 57361373
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/esden/radio/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/esden/radio/issues/events{/number}
+  issues_url: https://api.github.com/repos/esden/radio/issues{/number}
+  keys_url: https://api.github.com/repos/esden/radio/keys{/key_id}
+  labels_url: https://api.github.com/repos/esden/radio/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/esden/radio/languages
+  license: null
+  merges_url: https://api.github.com/repos/esden/radio/merges
+  milestones_url: https://api.github.com/repos/esden/radio/milestones{/number}
+  mirror_url: null
+  name: radio
+  node_id: MDEwOlJlcG9zaXRvcnk1NzM2MTM3Mw==
+  notifications_url: https://api.github.com/repos/esden/radio/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/17334?v=4
+    events_url: https://api.github.com/users/esden/events{/privacy}
+    followers_url: https://api.github.com/users/esden/followers
+    following_url: https://api.github.com/users/esden/following{/other_user}
+    gists_url: https://api.github.com/users/esden/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/esden
+    id: 17334
+    login: esden
+    node_id: MDQ6VXNlcjE3MzM0
+    organizations_url: https://api.github.com/users/esden/orgs
+    received_events_url: https://api.github.com/users/esden/received_events
+    repos_url: https://api.github.com/users/esden/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/esden/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/esden/subscriptions
+    type: User
+    url: https://api.github.com/users/esden
+  private: false
+  pulls_url: https://api.github.com/repos/esden/radio/pulls{/number}
+  pushed_at: '2016-04-29T06:50:38Z'
+  releases_url: https://api.github.com/repos/esden/radio/releases{/id}
+  size: 1197
+  ssh_url: git@github.com:esden/radio.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/esden/radio/stargazers
+  statuses_url: https://api.github.com/repos/esden/radio/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/esden/radio/subscribers
+  subscription_url: https://api.github.com/repos/esden/radio/subscription
+  svn_url: https://github.com/esden/radio
+  tags_url: https://api.github.com/repos/esden/radio/tags
+  teams_url: https://api.github.com/repos/esden/radio/teams
+  topics: []
+  trees_url: https://api.github.com/repos/esden/radio/git/trees{/sha}
+  updated_at: '2022-03-17T22:59:58Z'
+  url: https://api.github.com/repos/esden/radio
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

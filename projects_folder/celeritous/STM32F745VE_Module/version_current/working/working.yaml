@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/assignees{/user}
-blobs_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/git/blobs{/sha}
-branches_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/branches{/branch}
-clone_url: https://github.com/celeritous/STM32F745VE_Module.git
-collaborators_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/comments{/number}
-commits_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/commits{/sha}
-compare_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/compare/{base}...{head}
-contents_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/contents/{+path}
-contributors_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/contributors
-created_at: '2018-03-07T17:11:39Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/downloads
-events_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/forks
-full_name: celeritous/STM32F745VE_Module
-git_commits_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/git/tags{/sha}
-git_url: git://github.com/celeritous/STM32F745VE_Module.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/hooks
-html_url: https://github.com/celeritous/STM32F745VE_Module
-id: 124268924
-is_template: false
-issue_comment_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/issues/events{/number}
-issues_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/issues{/number}
-keys_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/keys{/key_id}
-labels_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/languages
-license: null
-merges_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/merges
-milestones_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/milestones{/number}
-mirror_url: null
-name: STM32F745VE_Module
-node_id: MDEwOlJlcG9zaXRvcnkxMjQyNjg5MjQ=
-notifications_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6216929?v=4
-  events_url: https://api.github.com/users/celeritous/events{/privacy}
-  followers_url: https://api.github.com/users/celeritous/followers
-  following_url: https://api.github.com/users/celeritous/following{/other_user}
-  gists_url: https://api.github.com/users/celeritous/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/celeritous
-  id: 6216929
-  login: celeritous
-  node_id: MDQ6VXNlcjYyMTY5Mjk=
-  organizations_url: https://api.github.com/users/celeritous/orgs
-  received_events_url: https://api.github.com/users/celeritous/received_events
-  repos_url: https://api.github.com/users/celeritous/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/celeritous/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/celeritous/subscriptions
-  type: User
-  url: https://api.github.com/users/celeritous
-private: false
+links:
+  github_owner: celeritous
+  github_repo_name: STM32F745VE_Module
+  github_src: https://github.com/celeritous/STM32F745VE_Module
+  github_src_repo: https://github.com/celeritous/STM32F745VE_Module
+  oomp_bot: celeritous_stm32f745ve_module
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/celeritous_stm32f745ve_module
+  oomp_doc: projects/celeritous_stm32f745ve_module/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/celeritous_stm32f745ve_module
+  oomp_src_flat: projects_flat/celeritous_stm32f745ve_module
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/celeritous_stm32f745ve_module
+  oomp_src_folder: projects_folder\celeritous\STM32F745VE_Module\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\celeritous\STM32F745VE_Module\version_current\working
+oomp_key: oomp_celeritous_stm32f745ve_module
+oomp_key_simple: celeritous_stm32f745ve_module
 projects_flat: projects_flat/celeritous_stm32f745ve_module/version_current/working
 projects_folder: projects_folder/celeritous/STM32F745VE_Module/version_current/working
-pulls_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/pulls{/number}
-pushed_at: '2018-04-19T19:00:25Z'
-releases_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/releases{/id}
-size: 3833
-ssh_url: git@github.com:celeritous/STM32F745VE_Module.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/stargazers
-statuses_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/statuses/{sha}
-subscribers_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/subscribers
-subscription_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/subscription
-svn_url: https://github.com/celeritous/STM32F745VE_Module
-tags_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/tags
-teams_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/teams
-topics: []
-trees_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/git/trees{/sha}
-updated_at: '2018-04-19T19:00:27Z'
-url: https://api.github.com/repos/celeritous/STM32F745VE_Module
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/assignees{/user}
+  blobs_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/branches{/branch}
+  clone_url: https://github.com/celeritous/STM32F745VE_Module.git
+  collaborators_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/comments{/number}
+  commits_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/commits{/sha}
+  compare_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/contents/{+path}
+  contributors_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/contributors
+  created_at: '2018-03-07T17:11:39Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/downloads
+  events_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/forks
+  full_name: celeritous/STM32F745VE_Module
+  git_commits_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/git/tags{/sha}
+  git_url: git://github.com/celeritous/STM32F745VE_Module.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/hooks
+  html_url: https://github.com/celeritous/STM32F745VE_Module
+  id: 124268924
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/issues/events{/number}
+  issues_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/issues{/number}
+  keys_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/keys{/key_id}
+  labels_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/languages
+  license: null
+  merges_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/merges
+  milestones_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/milestones{/number}
+  mirror_url: null
+  name: STM32F745VE_Module
+  node_id: MDEwOlJlcG9zaXRvcnkxMjQyNjg5MjQ=
+  notifications_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6216929?v=4
+    events_url: https://api.github.com/users/celeritous/events{/privacy}
+    followers_url: https://api.github.com/users/celeritous/followers
+    following_url: https://api.github.com/users/celeritous/following{/other_user}
+    gists_url: https://api.github.com/users/celeritous/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/celeritous
+    id: 6216929
+    login: celeritous
+    node_id: MDQ6VXNlcjYyMTY5Mjk=
+    organizations_url: https://api.github.com/users/celeritous/orgs
+    received_events_url: https://api.github.com/users/celeritous/received_events
+    repos_url: https://api.github.com/users/celeritous/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/celeritous/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/celeritous/subscriptions
+    type: User
+    url: https://api.github.com/users/celeritous
+  private: false
+  pulls_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/pulls{/number}
+  pushed_at: '2018-04-19T19:00:25Z'
+  releases_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/releases{/id}
+  size: 3833
+  ssh_url: git@github.com:celeritous/STM32F745VE_Module.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/stargazers
+  statuses_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/subscribers
+  subscription_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/subscription
+  svn_url: https://github.com/celeritous/STM32F745VE_Module
+  tags_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/tags
+  teams_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/teams
+  topics: []
+  trees_url: https://api.github.com/repos/celeritous/STM32F745VE_Module/git/trees{/sha}
+  updated_at: '2018-04-19T19:00:27Z'
+  url: https://api.github.com/repos/celeritous/STM32F745VE_Module
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

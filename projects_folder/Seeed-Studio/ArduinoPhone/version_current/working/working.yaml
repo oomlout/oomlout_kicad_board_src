@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/assignees{/user}
-blobs_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/branches{/branch}
-clone_url: https://github.com/Seeed-Studio/ArduinoPhone.git
-collaborators_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/comments{/number}
-commits_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/commits{/sha}
-compare_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/contents/{+path}
-contributors_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/contributors
-created_at: '2013-04-13T14:47:46Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/deployments
-description: ArduinoPhone, a phone with Seeeduino, and GPRS Shield , and TFT Touch
-  Shield!!!
-disabled: false
-downloads_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/downloads
-events_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/events
-fork: false
-forks: 33
-forks_count: 33
-forks_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/forks
-full_name: Seeed-Studio/ArduinoPhone
-git_commits_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/git/tags{/sha}
-git_url: git://github.com/Seeed-Studio/ArduinoPhone.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/hooks
-html_url: https://github.com/Seeed-Studio/ArduinoPhone
-id: 9415025
-is_template: false
-issue_comment_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/issues/events{/number}
-issues_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/issues{/number}
-keys_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/keys{/key_id}
-labels_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/merges
-milestones_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/milestones{/number}
-mirror_url: null
-name: ArduinoPhone
-node_id: MDEwOlJlcG9zaXRvcnk5NDE1MDI1
-notifications_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/688117?v=4
-  events_url: https://api.github.com/users/Seeed-Studio/events{/privacy}
-  followers_url: https://api.github.com/users/Seeed-Studio/followers
-  following_url: https://api.github.com/users/Seeed-Studio/following{/other_user}
-  gists_url: https://api.github.com/users/Seeed-Studio/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Seeed-Studio
-  id: 688117
-  login: Seeed-Studio
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY4ODExNw==
-  organizations_url: https://api.github.com/users/Seeed-Studio/orgs
-  received_events_url: https://api.github.com/users/Seeed-Studio/received_events
-  repos_url: https://api.github.com/users/Seeed-Studio/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Seeed-Studio/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Seeed-Studio/subscriptions
-  type: Organization
-  url: https://api.github.com/users/Seeed-Studio
-private: false
+links:
+  github_owner: Seeed-Studio
+  github_repo_name: ArduinoPhone
+  github_src: https://github.com/Seeed-Studio/ArduinoPhone
+  github_src_repo: https://github.com/Seeed-Studio/ArduinoPhone
+  oomp_bot: seeed_studio_arduinophone
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/seeed_studio_arduinophone
+  oomp_doc: projects/seeed_studio_arduinophone/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/seeed_studio_arduinophone
+  oomp_src_flat: projects_flat/seeed_studio_arduinophone
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/seeed_studio_arduinophone
+  oomp_src_folder: projects_folder\Seeed-Studio\ArduinoPhone\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Seeed-Studio\ArduinoPhone\version_current\working
+oomp_key: oomp_seeed_studio_arduinophone
+oomp_key_simple: seeed_studio_arduinophone
 projects_flat: projects_flat/seeed_studio_arduinophone/version_current/working
 projects_folder: projects_folder/Seeed-Studio/ArduinoPhone/version_current/working
-pulls_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/pulls{/number}
-pushed_at: '2015-12-07T06:11:24Z'
-releases_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/releases{/id}
-size: 1169
-ssh_url: git@github.com:Seeed-Studio/ArduinoPhone.git
-stargazers_count: 45
-stargazers_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/stargazers
-statuses_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/subscribers
-subscription_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/subscription
-svn_url: https://github.com/Seeed-Studio/ArduinoPhone
-tags_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/tags
-teams_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/teams
-topics: []
-trees_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/git/trees{/sha}
-updated_at: '2023-02-12T08:16:39Z'
-url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone
-visibility: public
-watchers: 45
-watchers_count: 45
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/assignees{/user}
+  blobs_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/branches{/branch}
+  clone_url: https://github.com/Seeed-Studio/ArduinoPhone.git
+  collaborators_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/comments{/number}
+  commits_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/commits{/sha}
+  compare_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/contents/{+path}
+  contributors_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/contributors
+  created_at: '2013-04-13T14:47:46Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/deployments
+  description: ArduinoPhone, a phone with Seeeduino, and GPRS Shield , and TFT Touch
+    Shield!!!
+  disabled: false
+  downloads_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/downloads
+  events_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/events
+  fork: false
+  forks: 33
+  forks_count: 33
+  forks_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/forks
+  full_name: Seeed-Studio/ArduinoPhone
+  git_commits_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/git/tags{/sha}
+  git_url: git://github.com/Seeed-Studio/ArduinoPhone.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/hooks
+  html_url: https://github.com/Seeed-Studio/ArduinoPhone
+  id: 9415025
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/issues/events{/number}
+  issues_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/issues{/number}
+  keys_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/keys{/key_id}
+  labels_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/merges
+  milestones_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/milestones{/number}
+  mirror_url: null
+  name: ArduinoPhone
+  node_id: MDEwOlJlcG9zaXRvcnk5NDE1MDI1
+  notifications_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/688117?v=4
+    events_url: https://api.github.com/users/Seeed-Studio/events{/privacy}
+    followers_url: https://api.github.com/users/Seeed-Studio/followers
+    following_url: https://api.github.com/users/Seeed-Studio/following{/other_user}
+    gists_url: https://api.github.com/users/Seeed-Studio/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Seeed-Studio
+    id: 688117
+    login: Seeed-Studio
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY4ODExNw==
+    organizations_url: https://api.github.com/users/Seeed-Studio/orgs
+    received_events_url: https://api.github.com/users/Seeed-Studio/received_events
+    repos_url: https://api.github.com/users/Seeed-Studio/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Seeed-Studio/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Seeed-Studio/subscriptions
+    type: Organization
+    url: https://api.github.com/users/Seeed-Studio
+  private: false
+  pulls_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/pulls{/number}
+  pushed_at: '2015-12-07T06:11:24Z'
+  releases_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/releases{/id}
+  size: 1169
+  ssh_url: git@github.com:Seeed-Studio/ArduinoPhone.git
+  stargazers_count: 45
+  stargazers_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/stargazers
+  statuses_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/subscribers
+  subscription_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/subscription
+  svn_url: https://github.com/Seeed-Studio/ArduinoPhone
+  tags_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/tags
+  teams_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone/git/trees{/sha}
+  updated_at: '2023-02-12T08:16:39Z'
+  url: https://api.github.com/repos/Seeed-Studio/ArduinoPhone
+  visibility: public
+  watchers: 45
+  watchers_count: 45
+  web_commit_signoff_required: false

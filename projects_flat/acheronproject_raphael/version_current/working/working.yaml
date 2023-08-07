@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/AcheronProject/Raphael/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/AcheronProject/Raphael/assignees{/user}
-blobs_url: https://api.github.com/repos/AcheronProject/Raphael/git/blobs{/sha}
-branches_url: https://api.github.com/repos/AcheronProject/Raphael/branches{/branch}
-clone_url: https://github.com/AcheronProject/Raphael.git
-collaborators_url: https://api.github.com/repos/AcheronProject/Raphael/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/AcheronProject/Raphael/comments{/number}
-commits_url: https://api.github.com/repos/AcheronProject/Raphael/commits{/sha}
-compare_url: https://api.github.com/repos/AcheronProject/Raphael/compare/{base}...{head}
-contents_url: https://api.github.com/repos/AcheronProject/Raphael/contents/{+path}
-contributors_url: https://api.github.com/repos/AcheronProject/Raphael/contributors
-created_at: '2022-04-10T03:41:47Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/AcheronProject/Raphael/deployments
-description: Raphael is a gummy-mount 60% layout PCB supporting both an on-board USB
-  connector and a JST for USB daughterboard connection.
-disabled: false
-downloads_url: https://api.github.com/repos/AcheronProject/Raphael/downloads
-events_url: https://api.github.com/repos/AcheronProject/Raphael/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/AcheronProject/Raphael/forks
-full_name: AcheronProject/Raphael
-git_commits_url: https://api.github.com/repos/AcheronProject/Raphael/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/AcheronProject/Raphael/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/AcheronProject/Raphael/git/tags{/sha}
-git_url: git://github.com/AcheronProject/Raphael.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/AcheronProject/Raphael/hooks
-html_url: https://github.com/AcheronProject/Raphael
-id: 479904853
-is_template: false
-issue_comment_url: https://api.github.com/repos/AcheronProject/Raphael/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/AcheronProject/Raphael/issues/events{/number}
-issues_url: https://api.github.com/repos/AcheronProject/Raphael/issues{/number}
-keys_url: https://api.github.com/repos/AcheronProject/Raphael/keys{/key_id}
-labels_url: https://api.github.com/repos/AcheronProject/Raphael/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/AcheronProject/Raphael/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/AcheronProject/Raphael/merges
-milestones_url: https://api.github.com/repos/AcheronProject/Raphael/milestones{/number}
-mirror_url: null
-name: Raphael
-node_id: R_kgDOHJrEVQ
-notifications_url: https://api.github.com/repos/AcheronProject/Raphael/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
-  events_url: https://api.github.com/users/AcheronProject/events{/privacy}
-  followers_url: https://api.github.com/users/AcheronProject/followers
-  following_url: https://api.github.com/users/AcheronProject/following{/other_user}
-  gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/AcheronProject
-  id: 63755935
-  login: AcheronProject
-  node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
-  organizations_url: https://api.github.com/users/AcheronProject/orgs
-  received_events_url: https://api.github.com/users/AcheronProject/received_events
-  repos_url: https://api.github.com/users/AcheronProject/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
-  type: Organization
-  url: https://api.github.com/users/AcheronProject
-private: false
+links:
+  github_owner: AcheronProject
+  github_repo_name: Raphael
+  github_src: https://github.com/AcheronProject/Raphael
+  github_src_repo: https://github.com/AcheronProject/Raphael
+  oomp_bot: projects_acheronproject_raphael
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_acheronproject_raphael
+  oomp_doc: projects/projects_flat_acheronproject_raphael/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_acheronproject_raphael
+  oomp_src_flat: projects_flat/projects_flat_acheronproject_raphael
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_acheronproject_raphael
+  oomp_src_folder: projects_flat\acheronproject_raphael\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\acheronproject_raphael\version_current\working
+oomp_key: oomp_projects_flat_acheronproject_raphael
+oomp_key_simple: projects_flat_acheronproject_raphael
 projects_flat: projects_flat/acheronproject_raphael/version_current/working
 projects_folder: projects_folder/AcheronProject/Raphael/version_current/working
-pulls_url: https://api.github.com/repos/AcheronProject/Raphael/pulls{/number}
-pushed_at: '2022-05-04T07:33:14Z'
-releases_url: https://api.github.com/repos/AcheronProject/Raphael/releases{/id}
-size: 5776
-ssh_url: git@github.com:AcheronProject/Raphael.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/AcheronProject/Raphael/stargazers
-statuses_url: https://api.github.com/repos/AcheronProject/Raphael/statuses/{sha}
-subscribers_url: https://api.github.com/repos/AcheronProject/Raphael/subscribers
-subscription_url: https://api.github.com/repos/AcheronProject/Raphael/subscription
-svn_url: https://github.com/AcheronProject/Raphael
-tags_url: https://api.github.com/repos/AcheronProject/Raphael/tags
-teams_url: https://api.github.com/repos/AcheronProject/Raphael/teams
-topics: []
-trees_url: https://api.github.com/repos/AcheronProject/Raphael/git/trees{/sha}
-updated_at: '2022-04-10T03:43:21Z'
-url: https://api.github.com/repos/AcheronProject/Raphael
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/AcheronProject/Raphael/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/AcheronProject/Raphael/assignees{/user}
+  blobs_url: https://api.github.com/repos/AcheronProject/Raphael/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/AcheronProject/Raphael/branches{/branch}
+  clone_url: https://github.com/AcheronProject/Raphael.git
+  collaborators_url: https://api.github.com/repos/AcheronProject/Raphael/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/AcheronProject/Raphael/comments{/number}
+  commits_url: https://api.github.com/repos/AcheronProject/Raphael/commits{/sha}
+  compare_url: https://api.github.com/repos/AcheronProject/Raphael/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/AcheronProject/Raphael/contents/{+path}
+  contributors_url: https://api.github.com/repos/AcheronProject/Raphael/contributors
+  created_at: '2022-04-10T03:41:47Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/AcheronProject/Raphael/deployments
+  description: Raphael is a gummy-mount 60% layout PCB supporting both an on-board
+    USB connector and a JST for USB daughterboard connection.
+  disabled: false
+  downloads_url: https://api.github.com/repos/AcheronProject/Raphael/downloads
+  events_url: https://api.github.com/repos/AcheronProject/Raphael/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/AcheronProject/Raphael/forks
+  full_name: AcheronProject/Raphael
+  git_commits_url: https://api.github.com/repos/AcheronProject/Raphael/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/AcheronProject/Raphael/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/AcheronProject/Raphael/git/tags{/sha}
+  git_url: git://github.com/AcheronProject/Raphael.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/AcheronProject/Raphael/hooks
+  html_url: https://github.com/AcheronProject/Raphael
+  id: 479904853
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/AcheronProject/Raphael/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/AcheronProject/Raphael/issues/events{/number}
+  issues_url: https://api.github.com/repos/AcheronProject/Raphael/issues{/number}
+  keys_url: https://api.github.com/repos/AcheronProject/Raphael/keys{/key_id}
+  labels_url: https://api.github.com/repos/AcheronProject/Raphael/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/AcheronProject/Raphael/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/AcheronProject/Raphael/merges
+  milestones_url: https://api.github.com/repos/AcheronProject/Raphael/milestones{/number}
+  mirror_url: null
+  name: Raphael
+  node_id: R_kgDOHJrEVQ
+  notifications_url: https://api.github.com/repos/AcheronProject/Raphael/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+    events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+    followers_url: https://api.github.com/users/AcheronProject/followers
+    following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+    gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/AcheronProject
+    id: 63755935
+    login: AcheronProject
+    node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+    organizations_url: https://api.github.com/users/AcheronProject/orgs
+    received_events_url: https://api.github.com/users/AcheronProject/received_events
+    repos_url: https://api.github.com/users/AcheronProject/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+    type: Organization
+    url: https://api.github.com/users/AcheronProject
+  private: false
+  pulls_url: https://api.github.com/repos/AcheronProject/Raphael/pulls{/number}
+  pushed_at: '2022-05-04T07:33:14Z'
+  releases_url: https://api.github.com/repos/AcheronProject/Raphael/releases{/id}
+  size: 5776
+  ssh_url: git@github.com:AcheronProject/Raphael.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/AcheronProject/Raphael/stargazers
+  statuses_url: https://api.github.com/repos/AcheronProject/Raphael/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/AcheronProject/Raphael/subscribers
+  subscription_url: https://api.github.com/repos/AcheronProject/Raphael/subscription
+  svn_url: https://github.com/AcheronProject/Raphael
+  tags_url: https://api.github.com/repos/AcheronProject/Raphael/tags
+  teams_url: https://api.github.com/repos/AcheronProject/Raphael/teams
+  topics: []
+  trees_url: https://api.github.com/repos/AcheronProject/Raphael/git/trees{/sha}
+  updated_at: '2022-04-10T03:43:21Z'
+  url: https://api.github.com/repos/AcheronProject/Raphael
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

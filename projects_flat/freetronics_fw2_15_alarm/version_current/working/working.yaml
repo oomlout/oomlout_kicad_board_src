@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/branches{/branch}
-clone_url: https://github.com/freetronics/FW2-15-Alarm.git
-collaborators_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/contributors
-created_at: '2019-04-24T00:05:51Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/deployments
-description: Home / car alarm compatible with Dick Smith's Funway Into Electronics
-  volume 2
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/downloads
-events_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/forks
-full_name: freetronics/FW2-15-Alarm
-git_commits_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/git/tags{/sha}
-git_url: git://github.com/freetronics/FW2-15-Alarm.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/hooks
-html_url: https://github.com/freetronics/FW2-15-Alarm
-id: 183113828
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/languages
-license: null
-merges_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/merges
-milestones_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/milestones{/number}
-mirror_url: null
-name: FW2-15-Alarm
-node_id: MDEwOlJlcG9zaXRvcnkxODMxMTM4Mjg=
-notifications_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: FW2-15-Alarm
+  github_src: https://github.com/freetronics/FW2-15-Alarm
+  github_src_repo: https://github.com/freetronics/FW2-15-Alarm
+  oomp_bot: projects_freetronics_fw2_15_alarm
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_freetronics_fw2_15_alarm
+  oomp_doc: projects/projects_flat_freetronics_fw2_15_alarm/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_freetronics_fw2_15_alarm
+  oomp_src_flat: projects_flat/projects_flat_freetronics_fw2_15_alarm
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_freetronics_fw2_15_alarm
+  oomp_src_folder: projects_flat\freetronics_fw2_15_alarm\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\freetronics_fw2_15_alarm\version_current\working
+oomp_key: oomp_projects_flat_freetronics_fw2_15_alarm
+oomp_key_simple: projects_flat_freetronics_fw2_15_alarm
 projects_flat: projects_flat/freetronics_fw2_15_alarm/version_current/working
 projects_folder: projects_folder/freetronics/FW2-15-Alarm/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/pulls{/number}
-pushed_at: '2019-04-24T00:06:09Z'
-releases_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/releases{/id}
-size: 21
-ssh_url: git@github.com:freetronics/FW2-15-Alarm.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/stargazers
-statuses_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/subscribers
-subscription_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/subscription
-svn_url: https://github.com/freetronics/FW2-15-Alarm
-tags_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/tags
-teams_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/git/trees{/sha}
-updated_at: '2019-04-24T00:06:10Z'
-url: https://api.github.com/repos/freetronics/FW2-15-Alarm
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/branches{/branch}
+  clone_url: https://github.com/freetronics/FW2-15-Alarm.git
+  collaborators_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/contributors
+  created_at: '2019-04-24T00:05:51Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/deployments
+  description: Home / car alarm compatible with Dick Smith's Funway Into Electronics
+    volume 2
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/downloads
+  events_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/forks
+  full_name: freetronics/FW2-15-Alarm
+  git_commits_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/git/tags{/sha}
+  git_url: git://github.com/freetronics/FW2-15-Alarm.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/hooks
+  html_url: https://github.com/freetronics/FW2-15-Alarm
+  id: 183113828
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/languages
+  license: null
+  merges_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/merges
+  milestones_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/milestones{/number}
+  mirror_url: null
+  name: FW2-15-Alarm
+  node_id: MDEwOlJlcG9zaXRvcnkxODMxMTM4Mjg=
+  notifications_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/pulls{/number}
+  pushed_at: '2019-04-24T00:06:09Z'
+  releases_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/releases{/id}
+  size: 21
+  ssh_url: git@github.com:freetronics/FW2-15-Alarm.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/subscription
+  svn_url: https://github.com/freetronics/FW2-15-Alarm
+  tags_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/tags
+  teams_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/FW2-15-Alarm/git/trees{/sha}
+  updated_at: '2019-04-24T00:06:10Z'
+  url: https://api.github.com/repos/freetronics/FW2-15-Alarm
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

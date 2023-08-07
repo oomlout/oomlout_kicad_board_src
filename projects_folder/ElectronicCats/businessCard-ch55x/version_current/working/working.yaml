@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/branches{/branch}
-clone_url: https://github.com/ElectronicCats/businessCard-ch55x.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/contributors
-created_at: '2021-01-27T00:44:58Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/deployments
-description: CH552 microcontroller with USB Business Card
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/downloads
-events_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/forks
-full_name: ElectronicCats/businessCard-ch55x
-git_commits_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/businessCard-ch55x.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/hooks
-html_url: https://github.com/ElectronicCats/businessCard-ch55x
-id: 333258968
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/languages
-license: null
-merges_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/milestones{/number}
-mirror_url: null
-name: businessCard-ch55x
-node_id: MDEwOlJlcG9zaXRvcnkzMzMyNTg5Njg=
-notifications_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: businessCard-ch55x
+  github_src: https://github.com/ElectronicCats/businessCard-ch55x
+  github_src_repo: https://github.com/ElectronicCats/businessCard-ch55x
+  oomp_bot: electroniccats_businesscard_ch55x
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electroniccats_businesscard_ch55x
+  oomp_doc: projects/electroniccats_businesscard_ch55x/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electroniccats_businesscard_ch55x
+  oomp_src_flat: projects_flat/electroniccats_businesscard_ch55x
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electroniccats_businesscard_ch55x
+  oomp_src_folder: projects_folder\ElectronicCats\businessCard-ch55x\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ElectronicCats\businessCard-ch55x\version_current\working
+oomp_key: oomp_electroniccats_businesscard_ch55x
+oomp_key_simple: electroniccats_businesscard_ch55x
 projects_flat: projects_flat/electroniccats_businesscard_ch55x/version_current/working
 projects_folder: projects_folder/ElectronicCats/businessCard-ch55x/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/pulls{/number}
-pushed_at: '2021-02-17T22:37:12Z'
-releases_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/releases{/id}
-size: 2892
-ssh_url: git@github.com:ElectronicCats/businessCard-ch55x.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/subscription
-svn_url: https://github.com/ElectronicCats/businessCard-ch55x
-tags_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/tags
-teams_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/teams
-topics:
-- business-card
-- ch552
-- ch55x
-- usb
-- usb-business-card
-- usb-hid
-trees_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/git/trees{/sha}
-updated_at: '2021-02-17T22:37:15Z'
-url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/businessCard-ch55x.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/contributors
+  created_at: '2021-01-27T00:44:58Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/deployments
+  description: CH552 microcontroller with USB Business Card
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/forks
+  full_name: ElectronicCats/businessCard-ch55x
+  git_commits_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/businessCard-ch55x.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/hooks
+  html_url: https://github.com/ElectronicCats/businessCard-ch55x
+  id: 333258968
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/languages
+  license: null
+  merges_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/milestones{/number}
+  mirror_url: null
+  name: businessCard-ch55x
+  node_id: MDEwOlJlcG9zaXRvcnkzMzMyNTg5Njg=
+  notifications_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/pulls{/number}
+  pushed_at: '2021-02-17T22:37:12Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/releases{/id}
+  size: 2892
+  ssh_url: git@github.com:ElectronicCats/businessCard-ch55x.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/subscription
+  svn_url: https://github.com/ElectronicCats/businessCard-ch55x
+  tags_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/teams
+  topics:
+  - business-card
+  - ch552
+  - ch55x
+  - usb
+  - usb-business-card
+  - usb-hid
+  trees_url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x/git/trees{/sha}
+  updated_at: '2021-02-17T22:37:15Z'
+  url: https://api.github.com/repos/ElectronicCats/businessCard-ch55x
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: true

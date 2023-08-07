@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/assignees{/user}
-blobs_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/git/blobs{/sha}
-branches_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/branches{/branch}
-clone_url: https://github.com/devbisme/RPi_Hat_Template.git
-collaborators_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/comments{/number}
-commits_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/commits{/sha}
-compare_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/compare/{base}...{head}
-contents_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/contents/{+path}
-contributors_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/contributors
-created_at: '2015-03-29T02:40:00Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/deployments
-description: KiCad template for a Raspberry Pi B+ Hat PCB.
-disabled: false
-downloads_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/downloads
-events_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/events
-fork: false
-forks: 66
-forks_count: 66
-forks_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/forks
-full_name: devbisme/RPi_Hat_Template
-git_commits_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/git/tags{/sha}
-git_url: git://github.com/devbisme/RPi_Hat_Template.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/hooks
-html_url: https://github.com/devbisme/RPi_Hat_Template
-id: 33058776
-is_template: false
-issue_comment_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/issues/events{/number}
-issues_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/issues{/number}
-keys_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/keys{/key_id}
-labels_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/merges
-milestones_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/milestones{/number}
-mirror_url: null
-name: RPi_Hat_Template
-node_id: MDEwOlJlcG9zaXRvcnkzMzA1ODc3Ng==
-notifications_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/666592?v=4
-  events_url: https://api.github.com/users/devbisme/events{/privacy}
-  followers_url: https://api.github.com/users/devbisme/followers
-  following_url: https://api.github.com/users/devbisme/following{/other_user}
-  gists_url: https://api.github.com/users/devbisme/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/devbisme
-  id: 666592
-  login: devbisme
-  node_id: MDQ6VXNlcjY2NjU5Mg==
-  organizations_url: https://api.github.com/users/devbisme/orgs
-  received_events_url: https://api.github.com/users/devbisme/received_events
-  repos_url: https://api.github.com/users/devbisme/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/devbisme/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/devbisme/subscriptions
-  type: User
-  url: https://api.github.com/users/devbisme
-private: false
+links:
+  github_owner: devbisme
+  github_repo_name: RPi_Hat_Template
+  github_src: https://github.com/devbisme/RPi_Hat_Template
+  github_src_repo: https://github.com/devbisme/RPi_Hat_Template
+  oomp_bot: projects_devbisme_rpi_hat_template
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_devbisme_rpi_hat_template
+  oomp_doc: projects/projects_flat_devbisme_rpi_hat_template/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_devbisme_rpi_hat_template
+  oomp_src_flat: projects_flat/projects_flat_devbisme_rpi_hat_template
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_devbisme_rpi_hat_template
+  oomp_src_folder: projects_flat\devbisme_rpi_hat_template\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\devbisme_rpi_hat_template\version_current\working
+oomp_key: oomp_projects_flat_devbisme_rpi_hat_template
+oomp_key_simple: projects_flat_devbisme_rpi_hat_template
 projects_flat: projects_flat/devbisme_rpi_hat_template/version_current/working
 projects_folder: projects_folder/devbisme/RPi_Hat_Template/version_current/working
-pulls_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/pulls{/number}
-pushed_at: '2021-07-07T20:05:07Z'
-releases_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/releases{/id}
-size: 580
-ssh_url: git@github.com:devbisme/RPi_Hat_Template.git
-stargazers_count: 187
-stargazers_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/stargazers
-statuses_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/statuses/{sha}
-subscribers_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/subscribers
-subscription_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/subscription
-svn_url: https://github.com/devbisme/RPi_Hat_Template
-tags_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/tags
-teams_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/teams
-topics: []
-trees_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/git/trees{/sha}
-updated_at: '2023-07-11T17:37:06Z'
-url: https://api.github.com/repos/devbisme/RPi_Hat_Template
-visibility: public
-watchers: 187
-watchers_count: 187
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/assignees{/user}
+  blobs_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/branches{/branch}
+  clone_url: https://github.com/devbisme/RPi_Hat_Template.git
+  collaborators_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/comments{/number}
+  commits_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/commits{/sha}
+  compare_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/contents/{+path}
+  contributors_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/contributors
+  created_at: '2015-03-29T02:40:00Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/deployments
+  description: KiCad template for a Raspberry Pi B+ Hat PCB.
+  disabled: false
+  downloads_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/downloads
+  events_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/events
+  fork: false
+  forks: 67
+  forks_count: 67
+  forks_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/forks
+  full_name: devbisme/RPi_Hat_Template
+  git_commits_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/git/tags{/sha}
+  git_url: git://github.com/devbisme/RPi_Hat_Template.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/hooks
+  html_url: https://github.com/devbisme/RPi_Hat_Template
+  id: 33058776
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/issues/events{/number}
+  issues_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/issues{/number}
+  keys_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/keys{/key_id}
+  labels_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/merges
+  milestones_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/milestones{/number}
+  mirror_url: null
+  name: RPi_Hat_Template
+  node_id: MDEwOlJlcG9zaXRvcnkzMzA1ODc3Ng==
+  notifications_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/666592?v=4
+    events_url: https://api.github.com/users/devbisme/events{/privacy}
+    followers_url: https://api.github.com/users/devbisme/followers
+    following_url: https://api.github.com/users/devbisme/following{/other_user}
+    gists_url: https://api.github.com/users/devbisme/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/devbisme
+    id: 666592
+    login: devbisme
+    node_id: MDQ6VXNlcjY2NjU5Mg==
+    organizations_url: https://api.github.com/users/devbisme/orgs
+    received_events_url: https://api.github.com/users/devbisme/received_events
+    repos_url: https://api.github.com/users/devbisme/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/devbisme/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/devbisme/subscriptions
+    type: User
+    url: https://api.github.com/users/devbisme
+  private: false
+  pulls_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/pulls{/number}
+  pushed_at: '2021-07-07T20:05:07Z'
+  releases_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/releases{/id}
+  size: 580
+  ssh_url: git@github.com:devbisme/RPi_Hat_Template.git
+  stargazers_count: 187
+  stargazers_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/stargazers
+  statuses_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/subscribers
+  subscription_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/subscription
+  svn_url: https://github.com/devbisme/RPi_Hat_Template
+  tags_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/tags
+  teams_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/teams
+  topics: []
+  trees_url: https://api.github.com/repos/devbisme/RPi_Hat_Template/git/trees{/sha}
+  updated_at: '2023-07-11T17:37:06Z'
+  url: https://api.github.com/repos/devbisme/RPi_Hat_Template
+  visibility: public
+  watchers: 187
+  watchers_count: 187
+  web_commit_signoff_required: false

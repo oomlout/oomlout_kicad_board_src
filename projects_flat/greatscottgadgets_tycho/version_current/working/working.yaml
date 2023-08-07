@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/greatscottgadgets/tycho/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/greatscottgadgets/tycho/assignees{/user}
-blobs_url: https://api.github.com/repos/greatscottgadgets/tycho/git/blobs{/sha}
-branches_url: https://api.github.com/repos/greatscottgadgets/tycho/branches{/branch}
-clone_url: https://github.com/greatscottgadgets/tycho.git
-collaborators_url: https://api.github.com/repos/greatscottgadgets/tycho/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/greatscottgadgets/tycho/comments{/number}
-commits_url: https://api.github.com/repos/greatscottgadgets/tycho/commits{/sha}
-compare_url: https://api.github.com/repos/greatscottgadgets/tycho/compare/{base}...{head}
-contents_url: https://api.github.com/repos/greatscottgadgets/tycho/contents/{+path}
-contributors_url: https://api.github.com/repos/greatscottgadgets/tycho/contributors
-created_at: '2022-12-13T20:47:46Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/greatscottgadgets/tycho/deployments
-description: Production test jig for Cynthion
-disabled: false
-downloads_url: https://api.github.com/repos/greatscottgadgets/tycho/downloads
-events_url: https://api.github.com/repos/greatscottgadgets/tycho/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/greatscottgadgets/tycho/forks
-full_name: greatscottgadgets/tycho
-git_commits_url: https://api.github.com/repos/greatscottgadgets/tycho/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/greatscottgadgets/tycho/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/greatscottgadgets/tycho/git/tags{/sha}
-git_url: git://github.com/greatscottgadgets/tycho.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/greatscottgadgets/tycho/hooks
-html_url: https://github.com/greatscottgadgets/tycho
-id: 577920988
-is_template: false
-issue_comment_url: https://api.github.com/repos/greatscottgadgets/tycho/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/greatscottgadgets/tycho/issues/events{/number}
-issues_url: https://api.github.com/repos/greatscottgadgets/tycho/issues{/number}
-keys_url: https://api.github.com/repos/greatscottgadgets/tycho/keys{/key_id}
-labels_url: https://api.github.com/repos/greatscottgadgets/tycho/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/greatscottgadgets/tycho/languages
-license:
-  key: cern-ohl-p-2.0
-  name: CERN Open Hardware Licence Version 2 - Permissive
-  node_id: L_kgCuY2Vybi1vaGwtcC0yLjA
-  spdx_id: CERN-OHL-P-2.0
-  url: https://api.github.com/licenses/cern-ohl-p-2.0
-merges_url: https://api.github.com/repos/greatscottgadgets/tycho/merges
-milestones_url: https://api.github.com/repos/greatscottgadgets/tycho/milestones{/number}
-mirror_url: null
-name: tycho
-node_id: R_kgDOInJf3A
-notifications_url: https://api.github.com/repos/greatscottgadgets/tycho/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5904722?v=4
-  events_url: https://api.github.com/users/greatscottgadgets/events{/privacy}
-  followers_url: https://api.github.com/users/greatscottgadgets/followers
-  following_url: https://api.github.com/users/greatscottgadgets/following{/other_user}
-  gists_url: https://api.github.com/users/greatscottgadgets/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/greatscottgadgets
-  id: 5904722
-  login: greatscottgadgets
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU5MDQ3MjI=
-  organizations_url: https://api.github.com/users/greatscottgadgets/orgs
-  received_events_url: https://api.github.com/users/greatscottgadgets/received_events
-  repos_url: https://api.github.com/users/greatscottgadgets/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/greatscottgadgets/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/greatscottgadgets/subscriptions
-  type: Organization
-  url: https://api.github.com/users/greatscottgadgets
-private: false
+links:
+  github_owner: greatscottgadgets
+  github_repo_name: tycho
+  github_src: https://github.com/greatscottgadgets/tycho
+  github_src_repo: https://github.com/greatscottgadgets/tycho
+  oomp_bot: projects_greatscottgadgets_tycho
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_greatscottgadgets_tycho
+  oomp_doc: projects/projects_flat_greatscottgadgets_tycho/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_greatscottgadgets_tycho
+  oomp_src_flat: projects_flat/projects_flat_greatscottgadgets_tycho
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_greatscottgadgets_tycho
+  oomp_src_folder: projects_flat\greatscottgadgets_tycho\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\greatscottgadgets_tycho\version_current\working
+oomp_key: oomp_projects_flat_greatscottgadgets_tycho
+oomp_key_simple: projects_flat_greatscottgadgets_tycho
 projects_flat: projects_flat/greatscottgadgets_tycho/version_current/working
 projects_folder: projects_folder/greatscottgadgets/tycho/version_current/working
-pulls_url: https://api.github.com/repos/greatscottgadgets/tycho/pulls{/number}
-pushed_at: '2023-07-21T21:16:00Z'
-releases_url: https://api.github.com/repos/greatscottgadgets/tycho/releases{/id}
-size: 5362
-ssh_url: git@github.com:greatscottgadgets/tycho.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/greatscottgadgets/tycho/stargazers
-statuses_url: https://api.github.com/repos/greatscottgadgets/tycho/statuses/{sha}
-subscribers_url: https://api.github.com/repos/greatscottgadgets/tycho/subscribers
-subscription_url: https://api.github.com/repos/greatscottgadgets/tycho/subscription
-svn_url: https://github.com/greatscottgadgets/tycho
-tags_url: https://api.github.com/repos/greatscottgadgets/tycho/tags
-teams_url: https://api.github.com/repos/greatscottgadgets/tycho/teams
-topics: []
-trees_url: https://api.github.com/repos/greatscottgadgets/tycho/git/trees{/sha}
-updated_at: '2023-07-04T16:46:51Z'
-url: https://api.github.com/repos/greatscottgadgets/tycho
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/greatscottgadgets/tycho/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/greatscottgadgets/tycho/assignees{/user}
+  blobs_url: https://api.github.com/repos/greatscottgadgets/tycho/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/greatscottgadgets/tycho/branches{/branch}
+  clone_url: https://github.com/greatscottgadgets/tycho.git
+  collaborators_url: https://api.github.com/repos/greatscottgadgets/tycho/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/greatscottgadgets/tycho/comments{/number}
+  commits_url: https://api.github.com/repos/greatscottgadgets/tycho/commits{/sha}
+  compare_url: https://api.github.com/repos/greatscottgadgets/tycho/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/greatscottgadgets/tycho/contents/{+path}
+  contributors_url: https://api.github.com/repos/greatscottgadgets/tycho/contributors
+  created_at: '2022-12-13T20:47:46Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/greatscottgadgets/tycho/deployments
+  description: Production test jig for Cynthion
+  disabled: false
+  downloads_url: https://api.github.com/repos/greatscottgadgets/tycho/downloads
+  events_url: https://api.github.com/repos/greatscottgadgets/tycho/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/greatscottgadgets/tycho/forks
+  full_name: greatscottgadgets/tycho
+  git_commits_url: https://api.github.com/repos/greatscottgadgets/tycho/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/greatscottgadgets/tycho/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/greatscottgadgets/tycho/git/tags{/sha}
+  git_url: git://github.com/greatscottgadgets/tycho.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/greatscottgadgets/tycho/hooks
+  html_url: https://github.com/greatscottgadgets/tycho
+  id: 577920988
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/greatscottgadgets/tycho/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/greatscottgadgets/tycho/issues/events{/number}
+  issues_url: https://api.github.com/repos/greatscottgadgets/tycho/issues{/number}
+  keys_url: https://api.github.com/repos/greatscottgadgets/tycho/keys{/key_id}
+  labels_url: https://api.github.com/repos/greatscottgadgets/tycho/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/greatscottgadgets/tycho/languages
+  license:
+    key: cern-ohl-p-2.0
+    name: CERN Open Hardware Licence Version 2 - Permissive
+    node_id: L_kgCuY2Vybi1vaGwtcC0yLjA
+    spdx_id: CERN-OHL-P-2.0
+    url: https://api.github.com/licenses/cern-ohl-p-2.0
+  merges_url: https://api.github.com/repos/greatscottgadgets/tycho/merges
+  milestones_url: https://api.github.com/repos/greatscottgadgets/tycho/milestones{/number}
+  mirror_url: null
+  name: tycho
+  node_id: R_kgDOInJf3A
+  notifications_url: https://api.github.com/repos/greatscottgadgets/tycho/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5904722?v=4
+    events_url: https://api.github.com/users/greatscottgadgets/events{/privacy}
+    followers_url: https://api.github.com/users/greatscottgadgets/followers
+    following_url: https://api.github.com/users/greatscottgadgets/following{/other_user}
+    gists_url: https://api.github.com/users/greatscottgadgets/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/greatscottgadgets
+    id: 5904722
+    login: greatscottgadgets
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU5MDQ3MjI=
+    organizations_url: https://api.github.com/users/greatscottgadgets/orgs
+    received_events_url: https://api.github.com/users/greatscottgadgets/received_events
+    repos_url: https://api.github.com/users/greatscottgadgets/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/greatscottgadgets/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/greatscottgadgets/subscriptions
+    type: Organization
+    url: https://api.github.com/users/greatscottgadgets
+  private: false
+  pulls_url: https://api.github.com/repos/greatscottgadgets/tycho/pulls{/number}
+  pushed_at: '2023-07-21T21:16:00Z'
+  releases_url: https://api.github.com/repos/greatscottgadgets/tycho/releases{/id}
+  size: 5362
+  ssh_url: git@github.com:greatscottgadgets/tycho.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/greatscottgadgets/tycho/stargazers
+  statuses_url: https://api.github.com/repos/greatscottgadgets/tycho/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/greatscottgadgets/tycho/subscribers
+  subscription_url: https://api.github.com/repos/greatscottgadgets/tycho/subscription
+  svn_url: https://github.com/greatscottgadgets/tycho
+  tags_url: https://api.github.com/repos/greatscottgadgets/tycho/tags
+  teams_url: https://api.github.com/repos/greatscottgadgets/tycho/teams
+  topics: []
+  trees_url: https://api.github.com/repos/greatscottgadgets/tycho/git/trees{/sha}
+  updated_at: '2023-07-04T16:46:51Z'
+  url: https://api.github.com/repos/greatscottgadgets/tycho
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/madworm/LED-Square_PT4115/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/madworm/LED-Square_PT4115/assignees{/user}
-blobs_url: https://api.github.com/repos/madworm/LED-Square_PT4115/git/blobs{/sha}
-branches_url: https://api.github.com/repos/madworm/LED-Square_PT4115/branches{/branch}
-clone_url: https://github.com/madworm/LED-Square_PT4115.git
-collaborators_url: https://api.github.com/repos/madworm/LED-Square_PT4115/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/madworm/LED-Square_PT4115/comments{/number}
-commits_url: https://api.github.com/repos/madworm/LED-Square_PT4115/commits{/sha}
-compare_url: https://api.github.com/repos/madworm/LED-Square_PT4115/compare/{base}...{head}
-contents_url: https://api.github.com/repos/madworm/LED-Square_PT4115/contents/{+path}
-contributors_url: https://api.github.com/repos/madworm/LED-Square_PT4115/contributors
-created_at: '2012-10-05T20:55:50Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/madworm/LED-Square_PT4115/deployments
-description: 'LAYOUT FILES: 50x50mm LED-Square with PT4115 LED driver.'
-disabled: false
-downloads_url: https://api.github.com/repos/madworm/LED-Square_PT4115/downloads
-events_url: https://api.github.com/repos/madworm/LED-Square_PT4115/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/madworm/LED-Square_PT4115/forks
-full_name: madworm/LED-Square_PT4115
-git_commits_url: https://api.github.com/repos/madworm/LED-Square_PT4115/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/madworm/LED-Square_PT4115/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/madworm/LED-Square_PT4115/git/tags{/sha}
-git_url: git://github.com/madworm/LED-Square_PT4115.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/madworm/LED-Square_PT4115/hooks
-html_url: https://github.com/madworm/LED-Square_PT4115
-id: 6096461
-is_template: false
-issue_comment_url: https://api.github.com/repos/madworm/LED-Square_PT4115/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/madworm/LED-Square_PT4115/issues/events{/number}
-issues_url: https://api.github.com/repos/madworm/LED-Square_PT4115/issues{/number}
-keys_url: https://api.github.com/repos/madworm/LED-Square_PT4115/keys{/key_id}
-labels_url: https://api.github.com/repos/madworm/LED-Square_PT4115/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/madworm/LED-Square_PT4115/languages
-license: null
-merges_url: https://api.github.com/repos/madworm/LED-Square_PT4115/merges
-milestones_url: https://api.github.com/repos/madworm/LED-Square_PT4115/milestones{/number}
-mirror_url: null
-name: LED-Square_PT4115
-node_id: MDEwOlJlcG9zaXRvcnk2MDk2NDYx
-notifications_url: https://api.github.com/repos/madworm/LED-Square_PT4115/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
-  events_url: https://api.github.com/users/madworm/events{/privacy}
-  followers_url: https://api.github.com/users/madworm/followers
-  following_url: https://api.github.com/users/madworm/following{/other_user}
-  gists_url: https://api.github.com/users/madworm/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/madworm
-  id: 343894
-  login: madworm
-  node_id: MDQ6VXNlcjM0Mzg5NA==
-  organizations_url: https://api.github.com/users/madworm/orgs
-  received_events_url: https://api.github.com/users/madworm/received_events
-  repos_url: https://api.github.com/users/madworm/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/madworm/subscriptions
-  type: User
-  url: https://api.github.com/users/madworm
-private: false
+links:
+  github_owner: madworm
+  github_repo_name: LED-Square_PT4115
+  github_src: https://github.com/madworm/LED-Square_PT4115
+  github_src_repo: https://github.com/madworm/LED-Square_PT4115
+  oomp_bot: projects_madworm_led_square_pt4115
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_madworm_led_square_pt4115
+  oomp_doc: projects/projects_flat_madworm_led_square_pt4115/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_madworm_led_square_pt4115
+  oomp_src_flat: projects_flat/projects_flat_madworm_led_square_pt4115
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_madworm_led_square_pt4115
+  oomp_src_folder: projects_flat\madworm_led_square_pt4115\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\madworm_led_square_pt4115\version_current\working
+oomp_key: oomp_projects_flat_madworm_led_square_pt4115
+oomp_key_simple: projects_flat_madworm_led_square_pt4115
 projects_flat: projects_flat/madworm_led_square_pt4115/version_current/working
 projects_folder: projects_folder/madworm/LED-Square_PT4115/version_current/working
-pulls_url: https://api.github.com/repos/madworm/LED-Square_PT4115/pulls{/number}
-pushed_at: '2016-05-03T14:49:55Z'
-releases_url: https://api.github.com/repos/madworm/LED-Square_PT4115/releases{/id}
-size: 7599
-ssh_url: git@github.com:madworm/LED-Square_PT4115.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/madworm/LED-Square_PT4115/stargazers
-statuses_url: https://api.github.com/repos/madworm/LED-Square_PT4115/statuses/{sha}
-subscribers_url: https://api.github.com/repos/madworm/LED-Square_PT4115/subscribers
-subscription_url: https://api.github.com/repos/madworm/LED-Square_PT4115/subscription
-svn_url: https://github.com/madworm/LED-Square_PT4115
-tags_url: https://api.github.com/repos/madworm/LED-Square_PT4115/tags
-teams_url: https://api.github.com/repos/madworm/LED-Square_PT4115/teams
-topics: []
-trees_url: https://api.github.com/repos/madworm/LED-Square_PT4115/git/trees{/sha}
-updated_at: '2023-07-25T13:46:08Z'
-url: https://api.github.com/repos/madworm/LED-Square_PT4115
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/madworm/LED-Square_PT4115/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/madworm/LED-Square_PT4115/assignees{/user}
+  blobs_url: https://api.github.com/repos/madworm/LED-Square_PT4115/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/madworm/LED-Square_PT4115/branches{/branch}
+  clone_url: https://github.com/madworm/LED-Square_PT4115.git
+  collaborators_url: https://api.github.com/repos/madworm/LED-Square_PT4115/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/madworm/LED-Square_PT4115/comments{/number}
+  commits_url: https://api.github.com/repos/madworm/LED-Square_PT4115/commits{/sha}
+  compare_url: https://api.github.com/repos/madworm/LED-Square_PT4115/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/madworm/LED-Square_PT4115/contents/{+path}
+  contributors_url: https://api.github.com/repos/madworm/LED-Square_PT4115/contributors
+  created_at: '2012-10-05T20:55:50Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/madworm/LED-Square_PT4115/deployments
+  description: 'LAYOUT FILES: 50x50mm LED-Square with PT4115 LED driver.'
+  disabled: false
+  downloads_url: https://api.github.com/repos/madworm/LED-Square_PT4115/downloads
+  events_url: https://api.github.com/repos/madworm/LED-Square_PT4115/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/madworm/LED-Square_PT4115/forks
+  full_name: madworm/LED-Square_PT4115
+  git_commits_url: https://api.github.com/repos/madworm/LED-Square_PT4115/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/madworm/LED-Square_PT4115/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/madworm/LED-Square_PT4115/git/tags{/sha}
+  git_url: git://github.com/madworm/LED-Square_PT4115.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/madworm/LED-Square_PT4115/hooks
+  html_url: https://github.com/madworm/LED-Square_PT4115
+  id: 6096461
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/madworm/LED-Square_PT4115/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/madworm/LED-Square_PT4115/issues/events{/number}
+  issues_url: https://api.github.com/repos/madworm/LED-Square_PT4115/issues{/number}
+  keys_url: https://api.github.com/repos/madworm/LED-Square_PT4115/keys{/key_id}
+  labels_url: https://api.github.com/repos/madworm/LED-Square_PT4115/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/madworm/LED-Square_PT4115/languages
+  license: null
+  merges_url: https://api.github.com/repos/madworm/LED-Square_PT4115/merges
+  milestones_url: https://api.github.com/repos/madworm/LED-Square_PT4115/milestones{/number}
+  mirror_url: null
+  name: LED-Square_PT4115
+  node_id: MDEwOlJlcG9zaXRvcnk2MDk2NDYx
+  notifications_url: https://api.github.com/repos/madworm/LED-Square_PT4115/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/343894?v=4
+    events_url: https://api.github.com/users/madworm/events{/privacy}
+    followers_url: https://api.github.com/users/madworm/followers
+    following_url: https://api.github.com/users/madworm/following{/other_user}
+    gists_url: https://api.github.com/users/madworm/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/madworm
+    id: 343894
+    login: madworm
+    node_id: MDQ6VXNlcjM0Mzg5NA==
+    organizations_url: https://api.github.com/users/madworm/orgs
+    received_events_url: https://api.github.com/users/madworm/received_events
+    repos_url: https://api.github.com/users/madworm/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/madworm/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/madworm/subscriptions
+    type: User
+    url: https://api.github.com/users/madworm
+  private: false
+  pulls_url: https://api.github.com/repos/madworm/LED-Square_PT4115/pulls{/number}
+  pushed_at: '2016-05-03T14:49:55Z'
+  releases_url: https://api.github.com/repos/madworm/LED-Square_PT4115/releases{/id}
+  size: 7599
+  ssh_url: git@github.com:madworm/LED-Square_PT4115.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/madworm/LED-Square_PT4115/stargazers
+  statuses_url: https://api.github.com/repos/madworm/LED-Square_PT4115/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/madworm/LED-Square_PT4115/subscribers
+  subscription_url: https://api.github.com/repos/madworm/LED-Square_PT4115/subscription
+  svn_url: https://github.com/madworm/LED-Square_PT4115
+  tags_url: https://api.github.com/repos/madworm/LED-Square_PT4115/tags
+  teams_url: https://api.github.com/repos/madworm/LED-Square_PT4115/teams
+  topics: []
+  trees_url: https://api.github.com/repos/madworm/LED-Square_PT4115/git/trees{/sha}
+  updated_at: '2023-07-25T13:46:08Z'
+  url: https://api.github.com/repos/madworm/LED-Square_PT4115
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

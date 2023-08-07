@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/Rx433Shield/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/Rx433Shield/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/Rx433Shield/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/Rx433Shield/branches{/branch}
-clone_url: https://github.com/freetronics/Rx433Shield.git
-collaborators_url: https://api.github.com/repos/freetronics/Rx433Shield/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/Rx433Shield/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/Rx433Shield/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/Rx433Shield/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/Rx433Shield/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/Rx433Shield/contributors
-created_at: '2010-05-25T01:36:30Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/Rx433Shield/deployments
-description: Freetronics 433MHz Receiver Shield for Arduino
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/Rx433Shield/downloads
-events_url: https://api.github.com/repos/freetronics/Rx433Shield/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/freetronics/Rx433Shield/forks
-full_name: freetronics/Rx433Shield
-git_commits_url: https://api.github.com/repos/freetronics/Rx433Shield/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/Rx433Shield/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/Rx433Shield/git/tags{/sha}
-git_url: git://github.com/freetronics/Rx433Shield.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: www.freetronics.com
-hooks_url: https://api.github.com/repos/freetronics/Rx433Shield/hooks
-html_url: https://github.com/freetronics/Rx433Shield
-id: 684375
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/Rx433Shield/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/Rx433Shield/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/Rx433Shield/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/Rx433Shield/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/Rx433Shield/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/freetronics/Rx433Shield/languages
-license: null
-merges_url: https://api.github.com/repos/freetronics/Rx433Shield/merges
-milestones_url: https://api.github.com/repos/freetronics/Rx433Shield/milestones{/number}
-mirror_url: null
-name: Rx433Shield
-node_id: MDEwOlJlcG9zaXRvcnk2ODQzNzU=
-notifications_url: https://api.github.com/repos/freetronics/Rx433Shield/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: Rx433Shield
+  github_src: https://github.com/freetronics/Rx433Shield
+  github_src_repo: https://github.com/freetronics/Rx433Shield
+  oomp_bot: freetronics_rx433shield
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/freetronics_rx433shield
+  oomp_doc: projects/freetronics_rx433shield/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/freetronics_rx433shield
+  oomp_src_flat: projects_flat/freetronics_rx433shield
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/freetronics_rx433shield
+  oomp_src_folder: projects_folder\freetronics\Rx433Shield\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\freetronics\Rx433Shield\version_current\working
+oomp_key: oomp_freetronics_rx433shield
+oomp_key_simple: freetronics_rx433shield
 projects_flat: projects_flat/freetronics_rx433shield/version_current/working
 projects_folder: projects_folder/freetronics/Rx433Shield/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/Rx433Shield/pulls{/number}
-pushed_at: '2019-04-24T03:36:56Z'
-releases_url: https://api.github.com/repos/freetronics/Rx433Shield/releases{/id}
-size: 654
-ssh_url: git@github.com:freetronics/Rx433Shield.git
-stargazers_count: 12
-stargazers_url: https://api.github.com/repos/freetronics/Rx433Shield/stargazers
-statuses_url: https://api.github.com/repos/freetronics/Rx433Shield/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/Rx433Shield/subscribers
-subscription_url: https://api.github.com/repos/freetronics/Rx433Shield/subscription
-svn_url: https://github.com/freetronics/Rx433Shield
-tags_url: https://api.github.com/repos/freetronics/Rx433Shield/tags
-teams_url: https://api.github.com/repos/freetronics/Rx433Shield/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/Rx433Shield/git/trees{/sha}
-updated_at: '2020-08-07T10:55:08Z'
-url: https://api.github.com/repos/freetronics/Rx433Shield
-visibility: public
-watchers: 12
-watchers_count: 12
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/Rx433Shield/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/Rx433Shield/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/Rx433Shield/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/Rx433Shield/branches{/branch}
+  clone_url: https://github.com/freetronics/Rx433Shield.git
+  collaborators_url: https://api.github.com/repos/freetronics/Rx433Shield/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/Rx433Shield/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/Rx433Shield/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/Rx433Shield/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/Rx433Shield/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/Rx433Shield/contributors
+  created_at: '2010-05-25T01:36:30Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/Rx433Shield/deployments
+  description: Freetronics 433MHz Receiver Shield for Arduino
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/Rx433Shield/downloads
+  events_url: https://api.github.com/repos/freetronics/Rx433Shield/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/freetronics/Rx433Shield/forks
+  full_name: freetronics/Rx433Shield
+  git_commits_url: https://api.github.com/repos/freetronics/Rx433Shield/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/Rx433Shield/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/Rx433Shield/git/tags{/sha}
+  git_url: git://github.com/freetronics/Rx433Shield.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: www.freetronics.com
+  hooks_url: https://api.github.com/repos/freetronics/Rx433Shield/hooks
+  html_url: https://github.com/freetronics/Rx433Shield
+  id: 684375
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/Rx433Shield/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/Rx433Shield/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/Rx433Shield/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/Rx433Shield/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/Rx433Shield/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/freetronics/Rx433Shield/languages
+  license: null
+  merges_url: https://api.github.com/repos/freetronics/Rx433Shield/merges
+  milestones_url: https://api.github.com/repos/freetronics/Rx433Shield/milestones{/number}
+  mirror_url: null
+  name: Rx433Shield
+  node_id: MDEwOlJlcG9zaXRvcnk2ODQzNzU=
+  notifications_url: https://api.github.com/repos/freetronics/Rx433Shield/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/Rx433Shield/pulls{/number}
+  pushed_at: '2019-04-24T03:36:56Z'
+  releases_url: https://api.github.com/repos/freetronics/Rx433Shield/releases{/id}
+  size: 654
+  ssh_url: git@github.com:freetronics/Rx433Shield.git
+  stargazers_count: 12
+  stargazers_url: https://api.github.com/repos/freetronics/Rx433Shield/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/Rx433Shield/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/Rx433Shield/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/Rx433Shield/subscription
+  svn_url: https://github.com/freetronics/Rx433Shield
+  tags_url: https://api.github.com/repos/freetronics/Rx433Shield/tags
+  teams_url: https://api.github.com/repos/freetronics/Rx433Shield/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/Rx433Shield/git/trees{/sha}
+  updated_at: '2020-08-07T10:55:08Z'
+  url: https://api.github.com/repos/freetronics/Rx433Shield
+  visibility: public
+  watchers: 12
+  watchers_count: 12
+  web_commit_signoff_required: false

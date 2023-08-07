@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/branches{/branch}
-clone_url: https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB.git
-collaborators_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/contributors
-created_at: '2022-03-30T17:21:49Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/deployments
-description: EagleCAD PCB files for the Adafruit NeoKey Breakout
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/downloads
-events_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/forks
-full_name: adafruit/Adafruit-NeoKey-Breakout-PCB
-git_commits_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/git/tags{/sha}
-git_url: git://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/hooks
-html_url: https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB
-id: 475981520
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/merges
-milestones_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/milestones{/number}
-mirror_url: null
-name: Adafruit-NeoKey-Breakout-PCB
-node_id: R_kgDOHF7m0A
-notifications_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: Adafruit-NeoKey-Breakout-PCB
+  github_src: https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB
+  github_src_repo: https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB
+  oomp_bot: adafruit_adafruit_neokey_breakout_pcb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adafruit_adafruit_neokey_breakout_pcb
+  oomp_doc: projects/adafruit_adafruit_neokey_breakout_pcb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adafruit_adafruit_neokey_breakout_pcb
+  oomp_src_flat: projects_flat/adafruit_adafruit_neokey_breakout_pcb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adafruit_adafruit_neokey_breakout_pcb
+  oomp_src_folder: projects_folder\adafruit\Adafruit-NeoKey-Breakout-PCB\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adafruit\Adafruit-NeoKey-Breakout-PCB\version_current\working
+oomp_key: oomp_adafruit_adafruit_neokey_breakout_pcb
+oomp_key_simple: adafruit_adafruit_neokey_breakout_pcb
+projects_flat: projects_flat/adafruit_adafruit_neokey_breakout_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_neokey_breakout_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-NeoKey-Breakout-PCB/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/pulls{/number}
-pushed_at: '2022-03-30T17:28:10Z'
-releases_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/releases{/id}
-size: 308
-ssh_url: git@github.com:adafruit/Adafruit-NeoKey-Breakout-PCB.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/stargazers
-statuses_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/subscribers
-subscription_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/subscription
-svn_url: https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB
-tags_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/tags
-teams_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/git/trees{/sha}
-updated_at: '2023-04-03T19:46:27Z'
-url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/branches{/branch}
+  clone_url: https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB.git
+  collaborators_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/contributors
+  created_at: '2022-03-30T17:21:49Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/deployments
+  description: EagleCAD PCB files for the Adafruit NeoKey Breakout
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/downloads
+  events_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/forks
+  full_name: adafruit/Adafruit-NeoKey-Breakout-PCB
+  git_commits_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/git/tags{/sha}
+  git_url: git://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/hooks
+  html_url: https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB
+  id: 475981520
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/merges
+  milestones_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/milestones{/number}
+  mirror_url: null
+  name: Adafruit-NeoKey-Breakout-PCB
+  node_id: R_kgDOHF7m0A
+  notifications_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/pulls{/number}
+  pushed_at: '2022-03-30T17:28:10Z'
+  releases_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/releases{/id}
+  size: 308
+  ssh_url: git@github.com:adafruit/Adafruit-NeoKey-Breakout-PCB.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/subscription
+  svn_url: https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB
+  tags_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/tags
+  teams_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB/git/trees{/sha}
+  updated_at: '2023-04-03T19:46:27Z'
+  url: https://api.github.com/repos/adafruit/Adafruit-NeoKey-Breakout-PCB
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: false

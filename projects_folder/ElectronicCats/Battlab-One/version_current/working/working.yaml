@@ -1,109 +1,125 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/Battlab-One/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/Battlab-One/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/Battlab-One/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/Battlab-One/branches{/branch}
-clone_url: https://github.com/ElectronicCats/Battlab-One.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/Battlab-One/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/Battlab-One/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/Battlab-One/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/Battlab-One/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/Battlab-One/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/Battlab-One/contributors
-created_at: '2020-09-04T17:45:28Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ElectronicCats/Battlab-One/deployments
-description: A New Tool for Estimating and Optimizing Battery Life for Your Next Internet
-  of Things Project , KiCadVersion
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/Battlab-One/downloads
-events_url: https://api.github.com/repos/ElectronicCats/Battlab-One/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ElectronicCats/Battlab-One/forks
-full_name: ElectronicCats/Battlab-One
-git_commits_url: https://api.github.com/repos/ElectronicCats/Battlab-One/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/Battlab-One/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/Battlab-One/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/Battlab-One.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/ElectronicCats/Battlab-One/hooks
-html_url: https://github.com/ElectronicCats/Battlab-One
-id: 292911363
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/Battlab-One/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/Battlab-One/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/Battlab-One/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/Battlab-One/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/Battlab-One/labels{/name}
-language: Python
-languages_url: https://api.github.com/repos/ElectronicCats/Battlab-One/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/ElectronicCats/Battlab-One/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/Battlab-One/milestones{/number}
-mirror_url: null
-name: Battlab-One
-node_id: MDEwOlJlcG9zaXRvcnkyOTI5MTEzNjM=
-notifications_url: https://api.github.com/repos/ElectronicCats/Battlab-One/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: Battlab-One
+  github_src: https://github.com/ElectronicCats/Battlab-One
+  github_src_repo: https://github.com/ElectronicCats/Battlab-One
+  oomp_bot: electroniccats_battlab_one
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electroniccats_battlab_one
+  oomp_doc: projects/electroniccats_battlab_one/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electroniccats_battlab_one
+  oomp_src_flat: projects_flat/electroniccats_battlab_one
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electroniccats_battlab_one
+  oomp_src_folder: projects_folder\ElectronicCats\Battlab-One\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ElectronicCats\Battlab-One\version_current\working
+oomp_key: oomp_electroniccats_battlab_one
+oomp_key_simple: electroniccats_battlab_one
 projects_flat: projects_flat/electroniccats_battlab_one/version_current/working
 projects_folder: projects_folder/ElectronicCats/Battlab-One/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/Battlab-One/pulls{/number}
-pushed_at: '2021-01-29T23:56:30Z'
-releases_url: https://api.github.com/repos/ElectronicCats/Battlab-One/releases{/id}
-size: 11338
-ssh_url: git@github.com:ElectronicCats/Battlab-One.git
-stargazers_count: 4
-stargazers_url: https://api.github.com/repos/ElectronicCats/Battlab-One/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/Battlab-One/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/Battlab-One/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/Battlab-One/subscription
-svn_url: https://github.com/ElectronicCats/Battlab-One
-tags_url: https://api.github.com/repos/ElectronicCats/Battlab-One/tags
-teams_url: https://api.github.com/repos/ElectronicCats/Battlab-One/teams
-topics:
-- battery
-- battery-life
-- battery-monitor
-- battery-status
-trees_url: https://api.github.com/repos/ElectronicCats/Battlab-One/git/trees{/sha}
-updated_at: '2023-03-14T07:56:43Z'
-url: https://api.github.com/repos/ElectronicCats/Battlab-One
-visibility: public
-watchers: 4
-watchers_count: 4
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/Battlab-One/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/Battlab-One/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/Battlab-One/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/Battlab-One/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/Battlab-One.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/Battlab-One/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/Battlab-One/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/Battlab-One/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/Battlab-One/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/Battlab-One/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/Battlab-One/contributors
+  created_at: '2020-09-04T17:45:28Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ElectronicCats/Battlab-One/deployments
+  description: A New Tool for Estimating and Optimizing Battery Life for Your Next
+    Internet of Things Project , KiCadVersion
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/Battlab-One/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/Battlab-One/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ElectronicCats/Battlab-One/forks
+  full_name: ElectronicCats/Battlab-One
+  git_commits_url: https://api.github.com/repos/ElectronicCats/Battlab-One/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/Battlab-One/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/Battlab-One/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/Battlab-One.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/ElectronicCats/Battlab-One/hooks
+  html_url: https://github.com/ElectronicCats/Battlab-One
+  id: 292911363
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/Battlab-One/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/Battlab-One/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/Battlab-One/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/Battlab-One/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/Battlab-One/labels{/name}
+  language: Python
+  languages_url: https://api.github.com/repos/ElectronicCats/Battlab-One/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/ElectronicCats/Battlab-One/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/Battlab-One/milestones{/number}
+  mirror_url: null
+  name: Battlab-One
+  node_id: MDEwOlJlcG9zaXRvcnkyOTI5MTEzNjM=
+  notifications_url: https://api.github.com/repos/ElectronicCats/Battlab-One/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/Battlab-One/pulls{/number}
+  pushed_at: '2021-01-29T23:56:30Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/Battlab-One/releases{/id}
+  size: 11338
+  ssh_url: git@github.com:ElectronicCats/Battlab-One.git
+  stargazers_count: 4
+  stargazers_url: https://api.github.com/repos/ElectronicCats/Battlab-One/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/Battlab-One/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/Battlab-One/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/Battlab-One/subscription
+  svn_url: https://github.com/ElectronicCats/Battlab-One
+  tags_url: https://api.github.com/repos/ElectronicCats/Battlab-One/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/Battlab-One/teams
+  topics:
+  - battery
+  - battery-life
+  - battery-monitor
+  - battery-status
+  trees_url: https://api.github.com/repos/ElectronicCats/Battlab-One/git/trees{/sha}
+  updated_at: '2023-03-14T07:56:43Z'
+  url: https://api.github.com/repos/ElectronicCats/Battlab-One
+  visibility: public
+  watchers: 4
+  watchers_count: 4
+  web_commit_signoff_required: true

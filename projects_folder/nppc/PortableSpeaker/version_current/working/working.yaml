@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/nppc/PortableSpeaker/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/nppc/PortableSpeaker/assignees{/user}
-blobs_url: https://api.github.com/repos/nppc/PortableSpeaker/git/blobs{/sha}
-branches_url: https://api.github.com/repos/nppc/PortableSpeaker/branches{/branch}
-clone_url: https://github.com/nppc/PortableSpeaker.git
-collaborators_url: https://api.github.com/repos/nppc/PortableSpeaker/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/nppc/PortableSpeaker/comments{/number}
-commits_url: https://api.github.com/repos/nppc/PortableSpeaker/commits{/sha}
-compare_url: https://api.github.com/repos/nppc/PortableSpeaker/compare/{base}...{head}
-contents_url: https://api.github.com/repos/nppc/PortableSpeaker/contents/{+path}
-contributors_url: https://api.github.com/repos/nppc/PortableSpeaker/contributors
-created_at: '2019-04-05T15:12:16Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/nppc/PortableSpeaker/deployments
-description: 100W battery powered
-disabled: false
-downloads_url: https://api.github.com/repos/nppc/PortableSpeaker/downloads
-events_url: https://api.github.com/repos/nppc/PortableSpeaker/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/nppc/PortableSpeaker/forks
-full_name: nppc/PortableSpeaker
-git_commits_url: https://api.github.com/repos/nppc/PortableSpeaker/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/nppc/PortableSpeaker/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/nppc/PortableSpeaker/git/tags{/sha}
-git_url: git://github.com/nppc/PortableSpeaker.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/nppc/PortableSpeaker/hooks
-html_url: https://github.com/nppc/PortableSpeaker
-id: 179705351
-is_template: false
-issue_comment_url: https://api.github.com/repos/nppc/PortableSpeaker/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/nppc/PortableSpeaker/issues/events{/number}
-issues_url: https://api.github.com/repos/nppc/PortableSpeaker/issues{/number}
-keys_url: https://api.github.com/repos/nppc/PortableSpeaker/keys{/key_id}
-labels_url: https://api.github.com/repos/nppc/PortableSpeaker/labels{/name}
-language: G-code
-languages_url: https://api.github.com/repos/nppc/PortableSpeaker/languages
-license: null
-merges_url: https://api.github.com/repos/nppc/PortableSpeaker/merges
-milestones_url: https://api.github.com/repos/nppc/PortableSpeaker/milestones{/number}
-mirror_url: null
-name: PortableSpeaker
-node_id: MDEwOlJlcG9zaXRvcnkxNzk3MDUzNTE=
-notifications_url: https://api.github.com/repos/nppc/PortableSpeaker/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/10918485?v=4
-  events_url: https://api.github.com/users/nppc/events{/privacy}
-  followers_url: https://api.github.com/users/nppc/followers
-  following_url: https://api.github.com/users/nppc/following{/other_user}
-  gists_url: https://api.github.com/users/nppc/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/nppc
-  id: 10918485
-  login: nppc
-  node_id: MDQ6VXNlcjEwOTE4NDg1
-  organizations_url: https://api.github.com/users/nppc/orgs
-  received_events_url: https://api.github.com/users/nppc/received_events
-  repos_url: https://api.github.com/users/nppc/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/nppc/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/nppc/subscriptions
-  type: User
-  url: https://api.github.com/users/nppc
-private: false
+links:
+  github_owner: nppc
+  github_repo_name: PortableSpeaker
+  github_src: https://github.com/nppc/PortableSpeaker
+  github_src_repo: https://github.com/nppc/PortableSpeaker
+  oomp_bot: nppc_portablespeaker
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/nppc_portablespeaker
+  oomp_doc: projects/nppc_portablespeaker/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/nppc_portablespeaker
+  oomp_src_flat: projects_flat/nppc_portablespeaker
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/nppc_portablespeaker
+  oomp_src_folder: projects_folder\nppc\PortableSpeaker\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\nppc\PortableSpeaker\version_current\working
+oomp_key: oomp_nppc_portablespeaker
+oomp_key_simple: nppc_portablespeaker
 projects_flat: projects_flat/nppc_portablespeaker/version_current/working
 projects_folder: projects_folder/nppc/PortableSpeaker/version_current/working
-pulls_url: https://api.github.com/repos/nppc/PortableSpeaker/pulls{/number}
-pushed_at: '2020-07-04T17:25:58Z'
-releases_url: https://api.github.com/repos/nppc/PortableSpeaker/releases{/id}
-size: 18399
-ssh_url: git@github.com:nppc/PortableSpeaker.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/nppc/PortableSpeaker/stargazers
-statuses_url: https://api.github.com/repos/nppc/PortableSpeaker/statuses/{sha}
-subscribers_url: https://api.github.com/repos/nppc/PortableSpeaker/subscribers
-subscription_url: https://api.github.com/repos/nppc/PortableSpeaker/subscription
-svn_url: https://github.com/nppc/PortableSpeaker
-tags_url: https://api.github.com/repos/nppc/PortableSpeaker/tags
-teams_url: https://api.github.com/repos/nppc/PortableSpeaker/teams
-topics: []
-trees_url: https://api.github.com/repos/nppc/PortableSpeaker/git/trees{/sha}
-updated_at: '2020-07-04T17:26:02Z'
-url: https://api.github.com/repos/nppc/PortableSpeaker
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/nppc/PortableSpeaker/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/nppc/PortableSpeaker/assignees{/user}
+  blobs_url: https://api.github.com/repos/nppc/PortableSpeaker/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/nppc/PortableSpeaker/branches{/branch}
+  clone_url: https://github.com/nppc/PortableSpeaker.git
+  collaborators_url: https://api.github.com/repos/nppc/PortableSpeaker/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/nppc/PortableSpeaker/comments{/number}
+  commits_url: https://api.github.com/repos/nppc/PortableSpeaker/commits{/sha}
+  compare_url: https://api.github.com/repos/nppc/PortableSpeaker/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/nppc/PortableSpeaker/contents/{+path}
+  contributors_url: https://api.github.com/repos/nppc/PortableSpeaker/contributors
+  created_at: '2019-04-05T15:12:16Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/nppc/PortableSpeaker/deployments
+  description: 100W battery powered
+  disabled: false
+  downloads_url: https://api.github.com/repos/nppc/PortableSpeaker/downloads
+  events_url: https://api.github.com/repos/nppc/PortableSpeaker/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/nppc/PortableSpeaker/forks
+  full_name: nppc/PortableSpeaker
+  git_commits_url: https://api.github.com/repos/nppc/PortableSpeaker/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/nppc/PortableSpeaker/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/nppc/PortableSpeaker/git/tags{/sha}
+  git_url: git://github.com/nppc/PortableSpeaker.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/nppc/PortableSpeaker/hooks
+  html_url: https://github.com/nppc/PortableSpeaker
+  id: 179705351
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/nppc/PortableSpeaker/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/nppc/PortableSpeaker/issues/events{/number}
+  issues_url: https://api.github.com/repos/nppc/PortableSpeaker/issues{/number}
+  keys_url: https://api.github.com/repos/nppc/PortableSpeaker/keys{/key_id}
+  labels_url: https://api.github.com/repos/nppc/PortableSpeaker/labels{/name}
+  language: G-code
+  languages_url: https://api.github.com/repos/nppc/PortableSpeaker/languages
+  license: null
+  merges_url: https://api.github.com/repos/nppc/PortableSpeaker/merges
+  milestones_url: https://api.github.com/repos/nppc/PortableSpeaker/milestones{/number}
+  mirror_url: null
+  name: PortableSpeaker
+  node_id: MDEwOlJlcG9zaXRvcnkxNzk3MDUzNTE=
+  notifications_url: https://api.github.com/repos/nppc/PortableSpeaker/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/10918485?v=4
+    events_url: https://api.github.com/users/nppc/events{/privacy}
+    followers_url: https://api.github.com/users/nppc/followers
+    following_url: https://api.github.com/users/nppc/following{/other_user}
+    gists_url: https://api.github.com/users/nppc/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/nppc
+    id: 10918485
+    login: nppc
+    node_id: MDQ6VXNlcjEwOTE4NDg1
+    organizations_url: https://api.github.com/users/nppc/orgs
+    received_events_url: https://api.github.com/users/nppc/received_events
+    repos_url: https://api.github.com/users/nppc/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/nppc/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/nppc/subscriptions
+    type: User
+    url: https://api.github.com/users/nppc
+  private: false
+  pulls_url: https://api.github.com/repos/nppc/PortableSpeaker/pulls{/number}
+  pushed_at: '2020-07-04T17:25:58Z'
+  releases_url: https://api.github.com/repos/nppc/PortableSpeaker/releases{/id}
+  size: 18399
+  ssh_url: git@github.com:nppc/PortableSpeaker.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/nppc/PortableSpeaker/stargazers
+  statuses_url: https://api.github.com/repos/nppc/PortableSpeaker/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/nppc/PortableSpeaker/subscribers
+  subscription_url: https://api.github.com/repos/nppc/PortableSpeaker/subscription
+  svn_url: https://github.com/nppc/PortableSpeaker
+  tags_url: https://api.github.com/repos/nppc/PortableSpeaker/tags
+  teams_url: https://api.github.com/repos/nppc/PortableSpeaker/teams
+  topics: []
+  trees_url: https://api.github.com/repos/nppc/PortableSpeaker/git/trees{/sha}
+  updated_at: '2020-07-04T17:26:02Z'
+  url: https://api.github.com/repos/nppc/PortableSpeaker
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

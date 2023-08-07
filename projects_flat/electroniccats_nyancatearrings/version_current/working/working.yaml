@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/branches{/branch}
-clone_url: https://github.com/ElectronicCats/NyanCatEarrings.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/contributors
-created_at: '2017-09-10T18:20:46Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/deployments
-description: NyanCat PCB Earrings
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/downloads
-events_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/forks
-full_name: ElectronicCats/NyanCatEarrings
-git_commits_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/NyanCatEarrings.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/hooks
-html_url: https://github.com/ElectronicCats/NyanCatEarrings
-id: 103051554
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/milestones{/number}
-mirror_url: null
-name: NyanCatEarrings
-node_id: MDEwOlJlcG9zaXRvcnkxMDMwNTE1NTQ=
-notifications_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: NyanCatEarrings
+  github_src: https://github.com/ElectronicCats/NyanCatEarrings
+  github_src_repo: https://github.com/ElectronicCats/NyanCatEarrings
+  oomp_bot: projects_electroniccats_nyancatearrings
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_electroniccats_nyancatearrings
+  oomp_doc: projects/projects_flat_electroniccats_nyancatearrings/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_electroniccats_nyancatearrings
+  oomp_src_flat: projects_flat/projects_flat_electroniccats_nyancatearrings
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_electroniccats_nyancatearrings
+  oomp_src_folder: projects_flat\electroniccats_nyancatearrings\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_nyancatearrings\version_current\working
+oomp_key: oomp_projects_flat_electroniccats_nyancatearrings
+oomp_key_simple: projects_flat_electroniccats_nyancatearrings
 projects_flat: projects_flat/electroniccats_nyancatearrings/version_current/working
 projects_folder: projects_folder/ElectronicCats/NyanCatEarrings/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/pulls{/number}
-pushed_at: '2018-03-11T01:48:38Z'
-releases_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/releases{/id}
-size: 2672
-ssh_url: git@github.com:ElectronicCats/NyanCatEarrings.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/subscription
-svn_url: https://github.com/ElectronicCats/NyanCatEarrings
-tags_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/tags
-teams_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/teams
-topics: []
-trees_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/git/trees{/sha}
-updated_at: '2019-12-11T00:22:20Z'
-url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/NyanCatEarrings.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/contributors
+  created_at: '2017-09-10T18:20:46Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/deployments
+  description: NyanCat PCB Earrings
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/forks
+  full_name: ElectronicCats/NyanCatEarrings
+  git_commits_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/NyanCatEarrings.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/hooks
+  html_url: https://github.com/ElectronicCats/NyanCatEarrings
+  id: 103051554
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/milestones{/number}
+  mirror_url: null
+  name: NyanCatEarrings
+  node_id: MDEwOlJlcG9zaXRvcnkxMDMwNTE1NTQ=
+  notifications_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/pulls{/number}
+  pushed_at: '2018-03-11T01:48:38Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/releases{/id}
+  size: 2672
+  ssh_url: git@github.com:ElectronicCats/NyanCatEarrings.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/subscription
+  svn_url: https://github.com/ElectronicCats/NyanCatEarrings
+  tags_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings/git/trees{/sha}
+  updated_at: '2019-12-11T00:22:20Z'
+  url: https://api.github.com/repos/ElectronicCats/NyanCatEarrings
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: true

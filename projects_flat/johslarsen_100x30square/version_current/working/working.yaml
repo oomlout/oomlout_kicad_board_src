@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/johslarsen/100x30square/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/johslarsen/100x30square/assignees{/user}
-blobs_url: https://api.github.com/repos/johslarsen/100x30square/git/blobs{/sha}
-branches_url: https://api.github.com/repos/johslarsen/100x30square/branches{/branch}
-clone_url: https://github.com/johslarsen/100x30square.git
-collaborators_url: https://api.github.com/repos/johslarsen/100x30square/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/johslarsen/100x30square/comments{/number}
-commits_url: https://api.github.com/repos/johslarsen/100x30square/commits{/sha}
-compare_url: https://api.github.com/repos/johslarsen/100x30square/compare/{base}...{head}
-contents_url: https://api.github.com/repos/johslarsen/100x30square/contents/{+path}
-contributors_url: https://api.github.com/repos/johslarsen/100x30square/contributors
-created_at: '2023-04-29T22:21:19Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/johslarsen/100x30square/deployments
-description: A 10x3cm measurement square PCB
-disabled: false
-downloads_url: https://api.github.com/repos/johslarsen/100x30square/downloads
-events_url: https://api.github.com/repos/johslarsen/100x30square/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/johslarsen/100x30square/forks
-full_name: johslarsen/100x30square
-git_commits_url: https://api.github.com/repos/johslarsen/100x30square/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/johslarsen/100x30square/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/johslarsen/100x30square/git/tags{/sha}
-git_url: git://github.com/johslarsen/100x30square.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/johslarsen/100x30square/hooks
-html_url: https://github.com/johslarsen/100x30square
-id: 634368874
-is_template: false
-issue_comment_url: https://api.github.com/repos/johslarsen/100x30square/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/johslarsen/100x30square/issues/events{/number}
-issues_url: https://api.github.com/repos/johslarsen/100x30square/issues{/number}
-keys_url: https://api.github.com/repos/johslarsen/100x30square/keys{/key_id}
-labels_url: https://api.github.com/repos/johslarsen/100x30square/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/johslarsen/100x30square/languages
-license:
-  key: unlicense
-  name: The Unlicense
-  node_id: MDc6TGljZW5zZTE1
-  spdx_id: Unlicense
-  url: https://api.github.com/licenses/unlicense
-merges_url: https://api.github.com/repos/johslarsen/100x30square/merges
-milestones_url: https://api.github.com/repos/johslarsen/100x30square/milestones{/number}
-mirror_url: null
-name: 100x30square
-node_id: R_kgDOJc-zag
-notifications_url: https://api.github.com/repos/johslarsen/100x30square/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1331670?v=4
-  events_url: https://api.github.com/users/johslarsen/events{/privacy}
-  followers_url: https://api.github.com/users/johslarsen/followers
-  following_url: https://api.github.com/users/johslarsen/following{/other_user}
-  gists_url: https://api.github.com/users/johslarsen/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/johslarsen
-  id: 1331670
-  login: johslarsen
-  node_id: MDQ6VXNlcjEzMzE2NzA=
-  organizations_url: https://api.github.com/users/johslarsen/orgs
-  received_events_url: https://api.github.com/users/johslarsen/received_events
-  repos_url: https://api.github.com/users/johslarsen/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/johslarsen/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/johslarsen/subscriptions
-  type: User
-  url: https://api.github.com/users/johslarsen
-private: false
+links:
+  github_owner: johslarsen
+  github_repo_name: 100x30square
+  github_src: https://github.com/johslarsen/100x30square
+  github_src_repo: https://github.com/johslarsen/100x30square
+  oomp_bot: projects_johslarsen_100x30square
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_johslarsen_100x30square
+  oomp_doc: projects/projects_flat_johslarsen_100x30square/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_johslarsen_100x30square
+  oomp_src_flat: projects_flat/projects_flat_johslarsen_100x30square
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_johslarsen_100x30square
+  oomp_src_folder: projects_flat\johslarsen_100x30square\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\johslarsen_100x30square\version_current\working
+oomp_key: oomp_projects_flat_johslarsen_100x30square
+oomp_key_simple: projects_flat_johslarsen_100x30square
 projects_flat: projects_flat/johslarsen_100x30square/version_current/working
 projects_folder: projects_folder/johslarsen/100x30square/version_current/working
-pulls_url: https://api.github.com/repos/johslarsen/100x30square/pulls{/number}
-pushed_at: '2023-04-30T01:22:34Z'
-releases_url: https://api.github.com/repos/johslarsen/100x30square/releases{/id}
-size: 127
-ssh_url: git@github.com:johslarsen/100x30square.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/johslarsen/100x30square/stargazers
-statuses_url: https://api.github.com/repos/johslarsen/100x30square/statuses/{sha}
-subscribers_url: https://api.github.com/repos/johslarsen/100x30square/subscribers
-subscription_url: https://api.github.com/repos/johslarsen/100x30square/subscription
-svn_url: https://github.com/johslarsen/100x30square
-tags_url: https://api.github.com/repos/johslarsen/100x30square/tags
-teams_url: https://api.github.com/repos/johslarsen/100x30square/teams
-topics: []
-trees_url: https://api.github.com/repos/johslarsen/100x30square/git/trees{/sha}
-updated_at: '2023-04-29T22:21:20Z'
-url: https://api.github.com/repos/johslarsen/100x30square
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/johslarsen/100x30square/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/johslarsen/100x30square/assignees{/user}
+  blobs_url: https://api.github.com/repos/johslarsen/100x30square/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/johslarsen/100x30square/branches{/branch}
+  clone_url: https://github.com/johslarsen/100x30square.git
+  collaborators_url: https://api.github.com/repos/johslarsen/100x30square/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/johslarsen/100x30square/comments{/number}
+  commits_url: https://api.github.com/repos/johslarsen/100x30square/commits{/sha}
+  compare_url: https://api.github.com/repos/johslarsen/100x30square/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/johslarsen/100x30square/contents/{+path}
+  contributors_url: https://api.github.com/repos/johslarsen/100x30square/contributors
+  created_at: '2023-04-29T22:21:19Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/johslarsen/100x30square/deployments
+  description: A 10x3cm measurement square PCB
+  disabled: false
+  downloads_url: https://api.github.com/repos/johslarsen/100x30square/downloads
+  events_url: https://api.github.com/repos/johslarsen/100x30square/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/johslarsen/100x30square/forks
+  full_name: johslarsen/100x30square
+  git_commits_url: https://api.github.com/repos/johslarsen/100x30square/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/johslarsen/100x30square/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/johslarsen/100x30square/git/tags{/sha}
+  git_url: git://github.com/johslarsen/100x30square.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/johslarsen/100x30square/hooks
+  html_url: https://github.com/johslarsen/100x30square
+  id: 634368874
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/johslarsen/100x30square/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/johslarsen/100x30square/issues/events{/number}
+  issues_url: https://api.github.com/repos/johslarsen/100x30square/issues{/number}
+  keys_url: https://api.github.com/repos/johslarsen/100x30square/keys{/key_id}
+  labels_url: https://api.github.com/repos/johslarsen/100x30square/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/johslarsen/100x30square/languages
+  license:
+    key: unlicense
+    name: The Unlicense
+    node_id: MDc6TGljZW5zZTE1
+    spdx_id: Unlicense
+    url: https://api.github.com/licenses/unlicense
+  merges_url: https://api.github.com/repos/johslarsen/100x30square/merges
+  milestones_url: https://api.github.com/repos/johslarsen/100x30square/milestones{/number}
+  mirror_url: null
+  name: 100x30square
+  node_id: R_kgDOJc-zag
+  notifications_url: https://api.github.com/repos/johslarsen/100x30square/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1331670?v=4
+    events_url: https://api.github.com/users/johslarsen/events{/privacy}
+    followers_url: https://api.github.com/users/johslarsen/followers
+    following_url: https://api.github.com/users/johslarsen/following{/other_user}
+    gists_url: https://api.github.com/users/johslarsen/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/johslarsen
+    id: 1331670
+    login: johslarsen
+    node_id: MDQ6VXNlcjEzMzE2NzA=
+    organizations_url: https://api.github.com/users/johslarsen/orgs
+    received_events_url: https://api.github.com/users/johslarsen/received_events
+    repos_url: https://api.github.com/users/johslarsen/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/johslarsen/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/johslarsen/subscriptions
+    type: User
+    url: https://api.github.com/users/johslarsen
+  private: false
+  pulls_url: https://api.github.com/repos/johslarsen/100x30square/pulls{/number}
+  pushed_at: '2023-04-30T01:22:34Z'
+  releases_url: https://api.github.com/repos/johslarsen/100x30square/releases{/id}
+  size: 127
+  ssh_url: git@github.com:johslarsen/100x30square.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/johslarsen/100x30square/stargazers
+  statuses_url: https://api.github.com/repos/johslarsen/100x30square/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/johslarsen/100x30square/subscribers
+  subscription_url: https://api.github.com/repos/johslarsen/100x30square/subscription
+  svn_url: https://github.com/johslarsen/100x30square
+  tags_url: https://api.github.com/repos/johslarsen/100x30square/tags
+  teams_url: https://api.github.com/repos/johslarsen/100x30square/teams
+  topics: []
+  trees_url: https://api.github.com/repos/johslarsen/100x30square/git/trees{/sha}
+  updated_at: '2023-04-29T22:21:20Z'
+  url: https://api.github.com/repos/johslarsen/100x30square
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

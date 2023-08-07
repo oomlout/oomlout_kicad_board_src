@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/rigidus/Amethyst/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/rigidus/Amethyst/assignees{/user}
-blobs_url: https://api.github.com/repos/rigidus/Amethyst/git/blobs{/sha}
-branches_url: https://api.github.com/repos/rigidus/Amethyst/branches{/branch}
-clone_url: https://github.com/rigidus/Amethyst.git
-collaborators_url: https://api.github.com/repos/rigidus/Amethyst/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/rigidus/Amethyst/comments{/number}
-commits_url: https://api.github.com/repos/rigidus/Amethyst/commits{/sha}
-compare_url: https://api.github.com/repos/rigidus/Amethyst/compare/{base}...{head}
-contents_url: https://api.github.com/repos/rigidus/Amethyst/contents/{+path}
-contributors_url: https://api.github.com/repos/rigidus/Amethyst/contributors
-created_at: '2020-10-18T17:12:11Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/rigidus/Amethyst/deployments
-description: 8-bit ATmega1284 retro computer
-disabled: false
-downloads_url: https://api.github.com/repos/rigidus/Amethyst/downloads
-events_url: https://api.github.com/repos/rigidus/Amethyst/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/rigidus/Amethyst/forks
-full_name: rigidus/Amethyst
-git_commits_url: https://api.github.com/repos/rigidus/Amethyst/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/rigidus/Amethyst/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/rigidus/Amethyst/git/tags{/sha}
-git_url: git://github.com/rigidus/Amethyst.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/rigidus/Amethyst/hooks
-html_url: https://github.com/rigidus/Amethyst
-id: 305154723
-is_template: false
-issue_comment_url: https://api.github.com/repos/rigidus/Amethyst/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/rigidus/Amethyst/issues/events{/number}
-issues_url: https://api.github.com/repos/rigidus/Amethyst/issues{/number}
-keys_url: https://api.github.com/repos/rigidus/Amethyst/keys{/key_id}
-labels_url: https://api.github.com/repos/rigidus/Amethyst/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/rigidus/Amethyst/languages
-license:
-  key: bsd-3-clause
-  name: BSD 3-Clause "New" or "Revised" License
-  node_id: MDc6TGljZW5zZTU=
-  spdx_id: BSD-3-Clause
-  url: https://api.github.com/licenses/bsd-3-clause
-merges_url: https://api.github.com/repos/rigidus/Amethyst/merges
-milestones_url: https://api.github.com/repos/rigidus/Amethyst/milestones{/number}
-mirror_url: null
-name: Amethyst
-node_id: MDEwOlJlcG9zaXRvcnkzMDUxNTQ3MjM=
-notifications_url: https://api.github.com/repos/rigidus/Amethyst/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/127901?v=4
-  events_url: https://api.github.com/users/rigidus/events{/privacy}
-  followers_url: https://api.github.com/users/rigidus/followers
-  following_url: https://api.github.com/users/rigidus/following{/other_user}
-  gists_url: https://api.github.com/users/rigidus/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/rigidus
-  id: 127901
-  login: rigidus
-  node_id: MDQ6VXNlcjEyNzkwMQ==
-  organizations_url: https://api.github.com/users/rigidus/orgs
-  received_events_url: https://api.github.com/users/rigidus/received_events
-  repos_url: https://api.github.com/users/rigidus/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/rigidus/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/rigidus/subscriptions
-  type: User
-  url: https://api.github.com/users/rigidus
-private: false
+links:
+  github_owner: rigidus
+  github_repo_name: Amethyst
+  github_src: https://github.com/rigidus/Amethyst
+  github_src_repo: https://github.com/rigidus/Amethyst
+  oomp_bot: rigidus_amethyst
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/rigidus_amethyst
+  oomp_doc: projects/rigidus_amethyst/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/rigidus_amethyst
+  oomp_src_flat: projects_flat/rigidus_amethyst
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/rigidus_amethyst
+  oomp_src_folder: projects_folder\rigidus\Amethyst\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\rigidus\Amethyst\version_current\working
+oomp_key: oomp_rigidus_amethyst
+oomp_key_simple: rigidus_amethyst
 projects_flat: projects_flat/rigidus_amethyst/version_current/working
 projects_folder: projects_folder/rigidus/Amethyst/version_current/working
-pulls_url: https://api.github.com/repos/rigidus/Amethyst/pulls{/number}
-pushed_at: '2020-07-25T02:33:15Z'
-releases_url: https://api.github.com/repos/rigidus/Amethyst/releases{/id}
-size: 3390
-ssh_url: git@github.com:rigidus/Amethyst.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/rigidus/Amethyst/stargazers
-statuses_url: https://api.github.com/repos/rigidus/Amethyst/statuses/{sha}
-subscribers_url: https://api.github.com/repos/rigidus/Amethyst/subscribers
-subscription_url: https://api.github.com/repos/rigidus/Amethyst/subscription
-svn_url: https://github.com/rigidus/Amethyst
-tags_url: https://api.github.com/repos/rigidus/Amethyst/tags
-teams_url: https://api.github.com/repos/rigidus/Amethyst/teams
-topics: []
-trees_url: https://api.github.com/repos/rigidus/Amethyst/git/trees{/sha}
-updated_at: '2020-10-18T17:12:13Z'
-url: https://api.github.com/repos/rigidus/Amethyst
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/rigidus/Amethyst/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/rigidus/Amethyst/assignees{/user}
+  blobs_url: https://api.github.com/repos/rigidus/Amethyst/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/rigidus/Amethyst/branches{/branch}
+  clone_url: https://github.com/rigidus/Amethyst.git
+  collaborators_url: https://api.github.com/repos/rigidus/Amethyst/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/rigidus/Amethyst/comments{/number}
+  commits_url: https://api.github.com/repos/rigidus/Amethyst/commits{/sha}
+  compare_url: https://api.github.com/repos/rigidus/Amethyst/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/rigidus/Amethyst/contents/{+path}
+  contributors_url: https://api.github.com/repos/rigidus/Amethyst/contributors
+  created_at: '2020-10-18T17:12:11Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/rigidus/Amethyst/deployments
+  description: 8-bit ATmega1284 retro computer
+  disabled: false
+  downloads_url: https://api.github.com/repos/rigidus/Amethyst/downloads
+  events_url: https://api.github.com/repos/rigidus/Amethyst/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/rigidus/Amethyst/forks
+  full_name: rigidus/Amethyst
+  git_commits_url: https://api.github.com/repos/rigidus/Amethyst/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/rigidus/Amethyst/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/rigidus/Amethyst/git/tags{/sha}
+  git_url: git://github.com/rigidus/Amethyst.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/rigidus/Amethyst/hooks
+  html_url: https://github.com/rigidus/Amethyst
+  id: 305154723
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/rigidus/Amethyst/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/rigidus/Amethyst/issues/events{/number}
+  issues_url: https://api.github.com/repos/rigidus/Amethyst/issues{/number}
+  keys_url: https://api.github.com/repos/rigidus/Amethyst/keys{/key_id}
+  labels_url: https://api.github.com/repos/rigidus/Amethyst/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/rigidus/Amethyst/languages
+  license:
+    key: bsd-3-clause
+    name: BSD 3-Clause "New" or "Revised" License
+    node_id: MDc6TGljZW5zZTU=
+    spdx_id: BSD-3-Clause
+    url: https://api.github.com/licenses/bsd-3-clause
+  merges_url: https://api.github.com/repos/rigidus/Amethyst/merges
+  milestones_url: https://api.github.com/repos/rigidus/Amethyst/milestones{/number}
+  mirror_url: null
+  name: Amethyst
+  node_id: MDEwOlJlcG9zaXRvcnkzMDUxNTQ3MjM=
+  notifications_url: https://api.github.com/repos/rigidus/Amethyst/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/127901?v=4
+    events_url: https://api.github.com/users/rigidus/events{/privacy}
+    followers_url: https://api.github.com/users/rigidus/followers
+    following_url: https://api.github.com/users/rigidus/following{/other_user}
+    gists_url: https://api.github.com/users/rigidus/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/rigidus
+    id: 127901
+    login: rigidus
+    node_id: MDQ6VXNlcjEyNzkwMQ==
+    organizations_url: https://api.github.com/users/rigidus/orgs
+    received_events_url: https://api.github.com/users/rigidus/received_events
+    repos_url: https://api.github.com/users/rigidus/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/rigidus/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/rigidus/subscriptions
+    type: User
+    url: https://api.github.com/users/rigidus
+  private: false
+  pulls_url: https://api.github.com/repos/rigidus/Amethyst/pulls{/number}
+  pushed_at: '2020-07-25T02:33:15Z'
+  releases_url: https://api.github.com/repos/rigidus/Amethyst/releases{/id}
+  size: 3390
+  ssh_url: git@github.com:rigidus/Amethyst.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/rigidus/Amethyst/stargazers
+  statuses_url: https://api.github.com/repos/rigidus/Amethyst/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/rigidus/Amethyst/subscribers
+  subscription_url: https://api.github.com/repos/rigidus/Amethyst/subscription
+  svn_url: https://github.com/rigidus/Amethyst
+  tags_url: https://api.github.com/repos/rigidus/Amethyst/tags
+  teams_url: https://api.github.com/repos/rigidus/Amethyst/teams
+  topics: []
+  trees_url: https://api.github.com/repos/rigidus/Amethyst/git/trees{/sha}
+  updated_at: '2020-10-18T17:12:13Z'
+  url: https://api.github.com/repos/rigidus/Amethyst
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

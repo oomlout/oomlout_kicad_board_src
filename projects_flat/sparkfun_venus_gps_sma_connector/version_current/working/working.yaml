@@ -1,110 +1,127 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/{archive_format}{/ref}
-archived: true
-assignees_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/branches{/branch}
-clone_url: https://github.com/sparkfun/Venus_GPS_SMA_Connector.git
-collaborators_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/contributors
-created_at: '2015-05-01T21:35:23Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/deployments
-description: SparkFun Venus GPS with SMA Connector. Manufactured by and available
-  from SparkFun Electronics
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/downloads
-events_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_venus_gps_sma_connector/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/Venus_GPS_SMA_Connector/version_current/working/working.brd
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/forks
-full_name: sparkfun/Venus_GPS_SMA_Connector
-git_commits_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/git/tags{/sha}
-git_url: git://github.com/sparkfun/Venus_GPS_SMA_Connector.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/hooks
-html_url: https://github.com/sparkfun/Venus_GPS_SMA_Connector
-id: 34925134
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/merges
-milestones_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/milestones{/number}
-mirror_url: null
-name: Venus_GPS_SMA_Connector
-node_id: MDEwOlJlcG9zaXRvcnkzNDkyNTEzNA==
-notifications_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Venus_GPS_SMA_Connector
+  github_src: https://github.com/sparkfun/Venus_GPS_SMA_Connector
+  github_src_repo: https://github.com/sparkfun/Venus_GPS_SMA_Connector
+  oomp_bot: projects_sparkfun_venus_gps_sma_connector
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_venus_gps_sma_connector
+  oomp_doc: projects/projects_flat_sparkfun_venus_gps_sma_connector/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_venus_gps_sma_connector
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_venus_gps_sma_connector
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_venus_gps_sma_connector
+  oomp_src_folder: projects_flat\sparkfun_venus_gps_sma_connector\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_venus_gps_sma_connector\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_venus_gps_sma_connector
+oomp_key_simple: projects_flat_sparkfun_venus_gps_sma_connector
+projects_flat: projects_flat/sparkfun_venus_gps_sma_connector/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_venus_gps_sma_connector/version_current/working
 projects_folder: projects_folder/sparkfun/Venus_GPS_SMA_Connector/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/pulls{/number}
-pushed_at: '2019-04-04T18:52:28Z'
-releases_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/releases{/id}
-size: 222
-ssh_url: git@github.com:sparkfun/Venus_GPS_SMA_Connector.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/subscription
-svn_url: https://github.com/sparkfun/Venus_GPS_SMA_Connector
-tags_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/tags
-teams_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/teams
-topics:
-- gps
-- sparkfun
-- sparkfun-products
-trees_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/git/trees{/sha}
-updated_at: '2023-01-28T18:39:03Z'
-url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/{archive_format}{/ref}
+  archived: true
+  assignees_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/branches{/branch}
+  clone_url: https://github.com/sparkfun/Venus_GPS_SMA_Connector.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/contributors
+  created_at: '2015-05-01T21:35:23Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/deployments
+  description: SparkFun Venus GPS with SMA Connector. Manufactured by and available
+    from SparkFun Electronics
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/downloads
+  events_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/forks
+  full_name: sparkfun/Venus_GPS_SMA_Connector
+  git_commits_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Venus_GPS_SMA_Connector.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/hooks
+  html_url: https://github.com/sparkfun/Venus_GPS_SMA_Connector
+  id: 34925134
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/milestones{/number}
+  mirror_url: null
+  name: Venus_GPS_SMA_Connector
+  node_id: MDEwOlJlcG9zaXRvcnkzNDkyNTEzNA==
+  notifications_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/pulls{/number}
+  pushed_at: '2019-04-04T18:52:28Z'
+  releases_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/releases{/id}
+  size: 222
+  ssh_url: git@github.com:sparkfun/Venus_GPS_SMA_Connector.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/subscription
+  svn_url: https://github.com/sparkfun/Venus_GPS_SMA_Connector
+  tags_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/tags
+  teams_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/teams
+  topics:
+  - gps
+  - sparkfun
+  - sparkfun-products
+  trees_url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector/git/trees{/sha}
+  updated_at: '2023-01-28T18:39:03Z'
+  url: https://api.github.com/repos/sparkfun/Venus_GPS_SMA_Connector
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

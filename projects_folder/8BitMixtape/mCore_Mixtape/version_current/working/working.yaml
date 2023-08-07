@@ -1,101 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/assignees{/user}
-blobs_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/git/blobs{/sha}
-branches_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/branches{/branch}
-clone_url: https://github.com/8BitMixtape/mCore_Mixtape.git
-collaborators_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/comments{/number}
-commits_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/commits{/sha}
-compare_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/compare/{base}...{head}
-contents_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/contents/{+path}
-contributors_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/contributors
-created_at: '2018-08-18T11:14:55Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/deployments
-description: A minimal barebone PCB for making your own 8Bit Mixtape and custom interface
-disabled: false
-downloads_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/downloads
-events_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/events
 file_sch_flat: projects_flat/8bitmixtape_mcore_mixtape/version_current/working/working.sch
 file_sch_folder: projects_folder/8BitMixtape/mCore_Mixtape/version_current/working/working.sch
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/forks
-full_name: 8BitMixtape/mCore_Mixtape
-git_commits_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/git/tags{/sha}
-git_url: git://github.com/8BitMixtape/mCore_Mixtape.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/hooks
-html_url: https://github.com/8BitMixtape/mCore_Mixtape
-id: 145213756
-is_template: false
-issue_comment_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/issues/events{/number}
-issues_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/issues{/number}
-keys_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/keys{/key_id}
-labels_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/languages
-license: null
-merges_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/merges
-milestones_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/milestones{/number}
-mirror_url: null
-name: mCore_Mixtape
-node_id: MDEwOlJlcG9zaXRvcnkxNDUyMTM3NTY=
-notifications_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/8462711?v=4
-  events_url: https://api.github.com/users/8BitMixtape/events{/privacy}
-  followers_url: https://api.github.com/users/8BitMixtape/followers
-  following_url: https://api.github.com/users/8BitMixtape/following{/other_user}
-  gists_url: https://api.github.com/users/8BitMixtape/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/8BitMixtape
-  id: 8462711
-  login: 8BitMixtape
-  node_id: MDEyOk9yZ2FuaXphdGlvbjg0NjI3MTE=
-  organizations_url: https://api.github.com/users/8BitMixtape/orgs
-  received_events_url: https://api.github.com/users/8BitMixtape/received_events
-  repos_url: https://api.github.com/users/8BitMixtape/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/8BitMixtape/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/8BitMixtape/subscriptions
-  type: Organization
-  url: https://api.github.com/users/8BitMixtape
-private: false
+links:
+  github_owner: 8BitMixtape
+  github_repo_name: mCore_Mixtape
+  github_src: https://github.com/8BitMixtape/mCore_Mixtape
+  github_src_repo: https://github.com/8BitMixtape/mCore_Mixtape
+  oomp_bot: 8bitmixtape_mcore_mixtape
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/8bitmixtape_mcore_mixtape
+  oomp_doc: projects/8bitmixtape_mcore_mixtape/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/8bitmixtape_mcore_mixtape
+  oomp_src_flat: projects_flat/8bitmixtape_mcore_mixtape
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/8bitmixtape_mcore_mixtape
+  oomp_src_folder: projects_folder\8BitMixtape\mCore_Mixtape\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\8BitMixtape\mCore_Mixtape\version_current\working
+oomp_key: oomp_8bitmixtape_mcore_mixtape
+oomp_key_simple: 8bitmixtape_mcore_mixtape
 projects_flat: projects_flat/8bitmixtape_mcore_mixtape/version_current/working
 projects_folder: projects_folder/8BitMixtape/mCore_Mixtape/version_current/working
-pulls_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/pulls{/number}
-pushed_at: '2018-08-18T12:11:37Z'
-releases_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/releases{/id}
-size: 1875
-ssh_url: git@github.com:8BitMixtape/mCore_Mixtape.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/stargazers
-statuses_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/statuses/{sha}
-subscribers_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/subscribers
-subscription_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/subscription
-svn_url: https://github.com/8BitMixtape/mCore_Mixtape
-tags_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/tags
-teams_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/teams
-topics: []
-trees_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/git/trees{/sha}
-updated_at: '2020-06-19T09:36:09Z'
-url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/assignees{/user}
+  blobs_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/branches{/branch}
+  clone_url: https://github.com/8BitMixtape/mCore_Mixtape.git
+  collaborators_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/comments{/number}
+  commits_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/commits{/sha}
+  compare_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/contents/{+path}
+  contributors_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/contributors
+  created_at: '2018-08-18T11:14:55Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/deployments
+  description: A minimal barebone PCB for making your own 8Bit Mixtape and custom
+    interface
+  disabled: false
+  downloads_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/downloads
+  events_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/forks
+  full_name: 8BitMixtape/mCore_Mixtape
+  git_commits_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/git/tags{/sha}
+  git_url: git://github.com/8BitMixtape/mCore_Mixtape.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/hooks
+  html_url: https://github.com/8BitMixtape/mCore_Mixtape
+  id: 145213756
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/issues/events{/number}
+  issues_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/issues{/number}
+  keys_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/keys{/key_id}
+  labels_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/languages
+  license: null
+  merges_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/merges
+  milestones_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/milestones{/number}
+  mirror_url: null
+  name: mCore_Mixtape
+  node_id: MDEwOlJlcG9zaXRvcnkxNDUyMTM3NTY=
+  notifications_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/8462711?v=4
+    events_url: https://api.github.com/users/8BitMixtape/events{/privacy}
+    followers_url: https://api.github.com/users/8BitMixtape/followers
+    following_url: https://api.github.com/users/8BitMixtape/following{/other_user}
+    gists_url: https://api.github.com/users/8BitMixtape/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/8BitMixtape
+    id: 8462711
+    login: 8BitMixtape
+    node_id: MDEyOk9yZ2FuaXphdGlvbjg0NjI3MTE=
+    organizations_url: https://api.github.com/users/8BitMixtape/orgs
+    received_events_url: https://api.github.com/users/8BitMixtape/received_events
+    repos_url: https://api.github.com/users/8BitMixtape/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/8BitMixtape/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/8BitMixtape/subscriptions
+    type: Organization
+    url: https://api.github.com/users/8BitMixtape
+  private: false
+  pulls_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/pulls{/number}
+  pushed_at: '2018-08-18T12:11:37Z'
+  releases_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/releases{/id}
+  size: 1875
+  ssh_url: git@github.com:8BitMixtape/mCore_Mixtape.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/stargazers
+  statuses_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/subscribers
+  subscription_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/subscription
+  svn_url: https://github.com/8BitMixtape/mCore_Mixtape
+  tags_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/tags
+  teams_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/teams
+  topics: []
+  trees_url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape/git/trees{/sha}
+  updated_at: '2020-06-19T09:36:09Z'
+  url: https://api.github.com/repos/8BitMixtape/mCore_Mixtape
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

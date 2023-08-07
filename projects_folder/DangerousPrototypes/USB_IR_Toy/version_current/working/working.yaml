@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/assignees{/user}
-blobs_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/git/blobs{/sha}
-branches_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/branches{/branch}
-clone_url: https://github.com/DangerousPrototypes/USB_IR_Toy.git
-collaborators_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/comments{/number}
-commits_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/commits{/sha}
-compare_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/compare/{base}...{head}
-contents_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/contents/{+path}
-contributors_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/contributors
-created_at: '2015-09-11T05:04:57Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/downloads
-events_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/events
-fork: false
-forks: 13
-forks_count: 13
-forks_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/forks
-full_name: DangerousPrototypes/USB_IR_Toy
-git_commits_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/git/tags{/sha}
-git_url: git://github.com/DangerousPrototypes/USB_IR_Toy.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/hooks
-html_url: https://github.com/DangerousPrototypes/USB_IR_Toy
-id: 42288731
-is_template: false
-issue_comment_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/issues/events{/number}
-issues_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/issues{/number}
-keys_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/keys{/key_id}
-labels_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/languages
-license: null
-merges_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/merges
-milestones_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/milestones{/number}
-mirror_url: null
-name: USB_IR_Toy
-node_id: MDEwOlJlcG9zaXRvcnk0MjI4ODczMQ==
-notifications_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/390299?v=4
-  events_url: https://api.github.com/users/DangerousPrototypes/events{/privacy}
-  followers_url: https://api.github.com/users/DangerousPrototypes/followers
-  following_url: https://api.github.com/users/DangerousPrototypes/following{/other_user}
-  gists_url: https://api.github.com/users/DangerousPrototypes/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/DangerousPrototypes
-  id: 390299
-  login: DangerousPrototypes
-  node_id: MDQ6VXNlcjM5MDI5OQ==
-  organizations_url: https://api.github.com/users/DangerousPrototypes/orgs
-  received_events_url: https://api.github.com/users/DangerousPrototypes/received_events
-  repos_url: https://api.github.com/users/DangerousPrototypes/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/DangerousPrototypes/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/DangerousPrototypes/subscriptions
-  type: User
-  url: https://api.github.com/users/DangerousPrototypes
-private: false
+links:
+  github_owner: DangerousPrototypes
+  github_repo_name: USB_IR_Toy
+  github_src: https://github.com/DangerousPrototypes/USB_IR_Toy
+  github_src_repo: https://github.com/DangerousPrototypes/USB_IR_Toy
+  oomp_bot: dangerousprototypes_usb_ir_toy
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/dangerousprototypes_usb_ir_toy
+  oomp_doc: projects/dangerousprototypes_usb_ir_toy/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/dangerousprototypes_usb_ir_toy
+  oomp_src_flat: projects_flat/dangerousprototypes_usb_ir_toy
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/dangerousprototypes_usb_ir_toy
+  oomp_src_folder: projects_folder\DangerousPrototypes\USB_IR_Toy\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\DangerousPrototypes\USB_IR_Toy\version_current\working
+oomp_key: oomp_dangerousprototypes_usb_ir_toy
+oomp_key_simple: dangerousprototypes_usb_ir_toy
 projects_flat: projects_flat/dangerousprototypes_usb_ir_toy/version_current/working
 projects_folder: projects_folder/DangerousPrototypes/USB_IR_Toy/version_current/working
-pulls_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/pulls{/number}
-pushed_at: '2015-09-11T05:10:51Z'
-releases_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/releases{/id}
-size: 17112
-ssh_url: git@github.com:DangerousPrototypes/USB_IR_Toy.git
-stargazers_count: 36
-stargazers_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/stargazers
-statuses_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/statuses/{sha}
-subscribers_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/subscribers
-subscription_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/subscription
-svn_url: https://github.com/DangerousPrototypes/USB_IR_Toy
-tags_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/tags
-teams_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/teams
-topics: []
-trees_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/git/trees{/sha}
-updated_at: '2023-07-07T01:18:09Z'
-url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy
-visibility: public
-watchers: 36
-watchers_count: 36
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/assignees{/user}
+  blobs_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/branches{/branch}
+  clone_url: https://github.com/DangerousPrototypes/USB_IR_Toy.git
+  collaborators_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/comments{/number}
+  commits_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/commits{/sha}
+  compare_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/contents/{+path}
+  contributors_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/contributors
+  created_at: '2015-09-11T05:04:57Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/downloads
+  events_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/events
+  fork: false
+  forks: 13
+  forks_count: 13
+  forks_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/forks
+  full_name: DangerousPrototypes/USB_IR_Toy
+  git_commits_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/git/tags{/sha}
+  git_url: git://github.com/DangerousPrototypes/USB_IR_Toy.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/hooks
+  html_url: https://github.com/DangerousPrototypes/USB_IR_Toy
+  id: 42288731
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/issues/events{/number}
+  issues_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/issues{/number}
+  keys_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/keys{/key_id}
+  labels_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/languages
+  license: null
+  merges_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/merges
+  milestones_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/milestones{/number}
+  mirror_url: null
+  name: USB_IR_Toy
+  node_id: MDEwOlJlcG9zaXRvcnk0MjI4ODczMQ==
+  notifications_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/390299?v=4
+    events_url: https://api.github.com/users/DangerousPrototypes/events{/privacy}
+    followers_url: https://api.github.com/users/DangerousPrototypes/followers
+    following_url: https://api.github.com/users/DangerousPrototypes/following{/other_user}
+    gists_url: https://api.github.com/users/DangerousPrototypes/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/DangerousPrototypes
+    id: 390299
+    login: DangerousPrototypes
+    node_id: MDQ6VXNlcjM5MDI5OQ==
+    organizations_url: https://api.github.com/users/DangerousPrototypes/orgs
+    received_events_url: https://api.github.com/users/DangerousPrototypes/received_events
+    repos_url: https://api.github.com/users/DangerousPrototypes/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/DangerousPrototypes/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/DangerousPrototypes/subscriptions
+    type: User
+    url: https://api.github.com/users/DangerousPrototypes
+  private: false
+  pulls_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/pulls{/number}
+  pushed_at: '2015-09-11T05:10:51Z'
+  releases_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/releases{/id}
+  size: 17112
+  ssh_url: git@github.com:DangerousPrototypes/USB_IR_Toy.git
+  stargazers_count: 36
+  stargazers_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/stargazers
+  statuses_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/subscribers
+  subscription_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/subscription
+  svn_url: https://github.com/DangerousPrototypes/USB_IR_Toy
+  tags_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/tags
+  teams_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/teams
+  topics: []
+  trees_url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy/git/trees{/sha}
+  updated_at: '2023-07-07T01:18:09Z'
+  url: https://api.github.com/repos/DangerousPrototypes/USB_IR_Toy
+  visibility: public
+  watchers: 36
+  watchers_count: 36
+  web_commit_signoff_required: false

@@ -1,106 +1,123 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/{archive_format}{/ref}
-archived: true
-assignees_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/branches{/branch}
-clone_url: https://github.com/sparkfun/LED_RingCoder_Breakout.git
-collaborators_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/contributors
-created_at: '2013-08-12T19:28:09Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/deployments
-description: Example code and board files for LED RingCoder Breakout
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/downloads
-events_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/events
 file_sch_flat_folder: projects_flat_folder/sparkfun_led_ringcoder_breakout/version_current/working/working.sch
 file_sch_folder: projects_folder/sparkfun/LED_RingCoder_Breakout/version_current/working/working.sch
-fork: false
-forks: 6
-forks_count: 6
-forks_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/forks
-full_name: sparkfun/LED_RingCoder_Breakout
-git_commits_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/git/tags{/sha}
-git_url: git://github.com/sparkfun/LED_RingCoder_Breakout.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/products/11040
-hooks_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/hooks
-html_url: https://github.com/sparkfun/LED_RingCoder_Breakout
-id: 12064404
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/merges
-milestones_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/milestones{/number}
-mirror_url: null
-name: LED_RingCoder_Breakout
-node_id: MDEwOlJlcG9zaXRvcnkxMjA2NDQwNA==
-notifications_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: LED_RingCoder_Breakout
+  github_src: https://github.com/sparkfun/LED_RingCoder_Breakout
+  github_src_repo: https://github.com/sparkfun/LED_RingCoder_Breakout
+  oomp_bot: sparkfun_led_ringcoder_breakout
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_led_ringcoder_breakout
+  oomp_doc: projects/sparkfun_led_ringcoder_breakout/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_led_ringcoder_breakout
+  oomp_src_flat: projects_flat/sparkfun_led_ringcoder_breakout
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_led_ringcoder_breakout
+  oomp_src_folder: projects_folder\sparkfun\LED_RingCoder_Breakout\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\LED_RingCoder_Breakout\version_current\working
+oomp_key: oomp_sparkfun_led_ringcoder_breakout
+oomp_key_simple: sparkfun_led_ringcoder_breakout
+projects_flat: projects_flat/sparkfun_led_ringcoder_breakout/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_led_ringcoder_breakout/version_current/working
 projects_folder: projects_folder/sparkfun/LED_RingCoder_Breakout/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/pulls{/number}
-pushed_at: '2018-12-20T17:36:58Z'
-releases_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/releases{/id}
-size: 174
-ssh_url: git@github.com:sparkfun/LED_RingCoder_Breakout.git
-stargazers_count: 12
-stargazers_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/subscription
-svn_url: https://github.com/sparkfun/LED_RingCoder_Breakout
-tags_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/tags
-teams_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/teams
-topics:
-- arduino
-- encoder
-- led
-- sparkfun
-- sparkfun-products
-trees_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/git/trees{/sha}
-updated_at: '2023-01-28T19:26:53Z'
-url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout
-visibility: public
-watchers: 12
-watchers_count: 12
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/{archive_format}{/ref}
+  archived: true
+  assignees_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/branches{/branch}
+  clone_url: https://github.com/sparkfun/LED_RingCoder_Breakout.git
+  collaborators_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/contributors
+  created_at: '2013-08-12T19:28:09Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/deployments
+  description: Example code and board files for LED RingCoder Breakout
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/downloads
+  events_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/events
+  fork: false
+  forks: 6
+  forks_count: 6
+  forks_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/forks
+  full_name: sparkfun/LED_RingCoder_Breakout
+  git_commits_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/git/tags{/sha}
+  git_url: git://github.com/sparkfun/LED_RingCoder_Breakout.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/products/11040
+  hooks_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/hooks
+  html_url: https://github.com/sparkfun/LED_RingCoder_Breakout
+  id: 12064404
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/merges
+  milestones_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/milestones{/number}
+  mirror_url: null
+  name: LED_RingCoder_Breakout
+  node_id: MDEwOlJlcG9zaXRvcnkxMjA2NDQwNA==
+  notifications_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/pulls{/number}
+  pushed_at: '2018-12-20T17:36:58Z'
+  releases_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/releases{/id}
+  size: 174
+  ssh_url: git@github.com:sparkfun/LED_RingCoder_Breakout.git
+  stargazers_count: 12
+  stargazers_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/subscription
+  svn_url: https://github.com/sparkfun/LED_RingCoder_Breakout
+  tags_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/tags
+  teams_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/teams
+  topics:
+  - arduino
+  - encoder
+  - led
+  - sparkfun
+  - sparkfun-products
+  trees_url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout/git/trees{/sha}
+  updated_at: '2023-01-28T19:26:53Z'
+  url: https://api.github.com/repos/sparkfun/LED_RingCoder_Breakout
+  visibility: public
+  watchers: 12
+  watchers_count: 12
+  web_commit_signoff_required: false

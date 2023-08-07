@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/branches{/branch}
-clone_url: https://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate.git
-collaborators_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/contributors
-created_at: '2014-01-02T17:27:30Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/deployments
-description: PCB files for Adafruit 16x2 LCD Pi Plate for Raspberry Pi
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/downloads
-events_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/events
-fork: false
-forks: 4
-forks_count: 4
-forks_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/forks
-full_name: adafruit/Adafruit-16x2-LCD-Pi-Plate
-git_commits_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/git/tags{/sha}
-git_url: git://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: null
-hooks_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/hooks
-html_url: https://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate
-id: 15589362
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/merges
-milestones_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/milestones{/number}
-mirror_url: null
-name: Adafruit-16x2-LCD-Pi-Plate
-node_id: MDEwOlJlcG9zaXRvcnkxNTU4OTM2Mg==
-notifications_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: Adafruit-16x2-LCD-Pi-Plate
+  github_src: https://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate
+  github_src_repo: https://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate
+  oomp_bot: adafruit_adafruit_16x2_lcd_pi_plate
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adafruit_adafruit_16x2_lcd_pi_plate
+  oomp_doc: projects/adafruit_adafruit_16x2_lcd_pi_plate/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adafruit_adafruit_16x2_lcd_pi_plate
+  oomp_src_flat: projects_flat/adafruit_adafruit_16x2_lcd_pi_plate
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adafruit_adafruit_16x2_lcd_pi_plate
+  oomp_src_folder: projects_folder\adafruit\Adafruit-16x2-LCD-Pi-Plate\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adafruit\Adafruit-16x2-LCD-Pi-Plate\version_current\working
+oomp_key: oomp_adafruit_adafruit_16x2_lcd_pi_plate
+oomp_key_simple: adafruit_adafruit_16x2_lcd_pi_plate
+projects_flat: projects_flat/adafruit_adafruit_16x2_lcd_pi_plate/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_16x2_lcd_pi_plate/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-16x2-LCD-Pi-Plate/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/pulls{/number}
-pushed_at: '2019-05-16T17:07:45Z'
-releases_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/releases{/id}
-size: 327
-ssh_url: git@github.com:adafruit/Adafruit-16x2-LCD-Pi-Plate.git
-stargazers_count: 6
-stargazers_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/stargazers
-statuses_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/subscribers
-subscription_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/subscription
-svn_url: https://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate
-tags_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/tags
-teams_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/git/trees{/sha}
-updated_at: '2019-05-16T17:07:47Z'
-url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate
-visibility: public
-watchers: 6
-watchers_count: 6
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/branches{/branch}
+  clone_url: https://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate.git
+  collaborators_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/contributors
+  created_at: '2014-01-02T17:27:30Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/deployments
+  description: PCB files for Adafruit 16x2 LCD Pi Plate for Raspberry Pi
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/downloads
+  events_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/events
+  fork: false
+  forks: 4
+  forks_count: 4
+  forks_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/forks
+  full_name: adafruit/Adafruit-16x2-LCD-Pi-Plate
+  git_commits_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/git/tags{/sha}
+  git_url: git://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/hooks
+  html_url: https://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate
+  id: 15589362
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/merges
+  milestones_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/milestones{/number}
+  mirror_url: null
+  name: Adafruit-16x2-LCD-Pi-Plate
+  node_id: MDEwOlJlcG9zaXRvcnkxNTU4OTM2Mg==
+  notifications_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/pulls{/number}
+  pushed_at: '2019-05-16T17:07:45Z'
+  releases_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/releases{/id}
+  size: 327
+  ssh_url: git@github.com:adafruit/Adafruit-16x2-LCD-Pi-Plate.git
+  stargazers_count: 6
+  stargazers_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/subscription
+  svn_url: https://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate
+  tags_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/tags
+  teams_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate/git/trees{/sha}
+  updated_at: '2019-05-16T17:07:47Z'
+  url: https://api.github.com/repos/adafruit/Adafruit-16x2-LCD-Pi-Plate
+  visibility: public
+  watchers: 6
+  watchers_count: 6
+  web_commit_signoff_required: false

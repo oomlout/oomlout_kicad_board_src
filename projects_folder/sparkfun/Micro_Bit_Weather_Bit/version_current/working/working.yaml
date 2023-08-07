@@ -1,107 +1,124 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/branches{/branch}
-clone_url: https://github.com/sparkfun/Micro_Bit_Weather_Bit.git
-collaborators_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/contributors
-created_at: '2017-03-20T16:47:32Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/deployments
-description: 'Add on weather station module for the micro:bit ecosystem. '
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/downloads
-events_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/events
-fork: false
-forks: 5
-forks_count: 5
-forks_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/forks
-full_name: sparkfun/Micro_Bit_Weather_Bit
-git_commits_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/git/tags{/sha}
-git_url: git://github.com/sparkfun/Micro_Bit_Weather_Bit.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/hooks
-html_url: https://github.com/sparkfun/Micro_Bit_Weather_Bit
-id: 85602115
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/merges
-milestones_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/milestones{/number}
-mirror_url: null
-name: Micro_Bit_Weather_Bit
-node_id: MDEwOlJlcG9zaXRvcnk4NTYwMjExNQ==
-notifications_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/notifications{?since,all,participating}
-open_issues: 3
-open_issues_count: 3
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Micro_Bit_Weather_Bit
+  github_src: https://github.com/sparkfun/Micro_Bit_Weather_Bit
+  github_src_repo: https://github.com/sparkfun/Micro_Bit_Weather_Bit
+  oomp_bot: sparkfun_micro_bit_weather_bit
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_micro_bit_weather_bit
+  oomp_doc: projects/sparkfun_micro_bit_weather_bit/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_micro_bit_weather_bit
+  oomp_src_flat: projects_flat/sparkfun_micro_bit_weather_bit
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_micro_bit_weather_bit
+  oomp_src_folder: projects_folder\sparkfun\Micro_Bit_Weather_Bit\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\Micro_Bit_Weather_Bit\version_current\working
+oomp_key: oomp_sparkfun_micro_bit_weather_bit
+oomp_key_simple: sparkfun_micro_bit_weather_bit
+projects_flat: projects_flat/sparkfun_micro_bit_weather_bit/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_micro_bit_weather_bit/version_current/working
 projects_folder: projects_folder/sparkfun/Micro_Bit_Weather_Bit/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/pulls{/number}
-pushed_at: '2020-05-11T09:04:41Z'
-releases_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/releases{/id}
-size: 3799
-ssh_url: git@github.com:sparkfun/Micro_Bit_Weather_Bit.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/subscription
-svn_url: https://github.com/sparkfun/Micro_Bit_Weather_Bit
-tags_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/tags
-teams_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/teams
-topics:
-- microbit
-- sparkfun
-- sparkfun-products
-trees_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/git/trees{/sha}
-updated_at: '2021-10-30T06:09:03Z'
-url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/branches{/branch}
+  clone_url: https://github.com/sparkfun/Micro_Bit_Weather_Bit.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/contributors
+  created_at: '2017-03-20T16:47:32Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/deployments
+  description: 'Add on weather station module for the micro:bit ecosystem. '
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/downloads
+  events_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/events
+  fork: false
+  forks: 5
+  forks_count: 5
+  forks_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/forks
+  full_name: sparkfun/Micro_Bit_Weather_Bit
+  git_commits_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Micro_Bit_Weather_Bit.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/hooks
+  html_url: https://github.com/sparkfun/Micro_Bit_Weather_Bit
+  id: 85602115
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/milestones{/number}
+  mirror_url: null
+  name: Micro_Bit_Weather_Bit
+  node_id: MDEwOlJlcG9zaXRvcnk4NTYwMjExNQ==
+  notifications_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/notifications{?since,all,participating}
+  open_issues: 3
+  open_issues_count: 3
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/pulls{/number}
+  pushed_at: '2020-05-11T09:04:41Z'
+  releases_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/releases{/id}
+  size: 3799
+  ssh_url: git@github.com:sparkfun/Micro_Bit_Weather_Bit.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/subscription
+  svn_url: https://github.com/sparkfun/Micro_Bit_Weather_Bit
+  tags_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/tags
+  teams_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/teams
+  topics:
+  - microbit
+  - sparkfun
+  - sparkfun-products
+  trees_url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit/git/trees{/sha}
+  updated_at: '2021-10-30T06:09:03Z'
+  url: https://api.github.com/repos/sparkfun/Micro_Bit_Weather_Bit
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

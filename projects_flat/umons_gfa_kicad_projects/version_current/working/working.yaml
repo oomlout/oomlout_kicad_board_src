@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/assignees{/user}
-blobs_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/git/blobs{/sha}
-branches_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/branches{/branch}
-clone_url: https://github.com/UMONS-GFA/kicad-projects.git
-collaborators_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/comments{/number}
-commits_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/commits{/sha}
-compare_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/compare/{base}...{head}
-contents_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/contents/{+path}
-contributors_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/contributors
-created_at: '2016-01-07T08:31:17Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/downloads
-events_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/forks
-full_name: UMONS-GFA/kicad-projects
-git_commits_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/git/tags{/sha}
-git_url: git://github.com/UMONS-GFA/kicad-projects.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/hooks
-html_url: https://github.com/UMONS-GFA/kicad-projects
-id: 49191907
-is_template: false
-issue_comment_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/issues/events{/number}
-issues_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/issues{/number}
-keys_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/keys{/key_id}
-labels_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/labels{/name}
-language: PostScript
-languages_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/languages
-license: null
-merges_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/merges
-milestones_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/milestones{/number}
-mirror_url: null
-name: kicad-projects
-node_id: MDEwOlJlcG9zaXRvcnk0OTE5MTkwNw==
-notifications_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/notifications{?since,all,participating}
-open_issues: 4
-open_issues_count: 4
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5850580?v=4
-  events_url: https://api.github.com/users/UMONS-GFA/events{/privacy}
-  followers_url: https://api.github.com/users/UMONS-GFA/followers
-  following_url: https://api.github.com/users/UMONS-GFA/following{/other_user}
-  gists_url: https://api.github.com/users/UMONS-GFA/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/UMONS-GFA
-  id: 5850580
-  login: UMONS-GFA
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU4NTA1ODA=
-  organizations_url: https://api.github.com/users/UMONS-GFA/orgs
-  received_events_url: https://api.github.com/users/UMONS-GFA/received_events
-  repos_url: https://api.github.com/users/UMONS-GFA/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/UMONS-GFA/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/UMONS-GFA/subscriptions
-  type: Organization
-  url: https://api.github.com/users/UMONS-GFA
-private: false
+links:
+  github_owner: UMONS-GFA
+  github_repo_name: kicad-projects
+  github_src: https://github.com/UMONS-GFA/kicad-projects
+  github_src_repo: https://github.com/UMONS-GFA/kicad-projects
+  oomp_bot: projects_umons_gfa_kicad_projects
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_umons_gfa_kicad_projects
+  oomp_doc: projects/projects_flat_umons_gfa_kicad_projects/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_umons_gfa_kicad_projects
+  oomp_src_flat: projects_flat/projects_flat_umons_gfa_kicad_projects
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_umons_gfa_kicad_projects
+  oomp_src_folder: projects_flat\umons_gfa_kicad_projects\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\umons_gfa_kicad_projects\version_current\working
+oomp_key: oomp_projects_flat_umons_gfa_kicad_projects
+oomp_key_simple: projects_flat_umons_gfa_kicad_projects
 projects_flat: projects_flat/umons_gfa_kicad_projects/version_current/working
 projects_folder: projects_folder/UMONS-GFA/kicad-projects/version_current/working
-pulls_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/pulls{/number}
-pushed_at: '2018-11-19T13:30:45Z'
-releases_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/releases{/id}
-size: 148238
-ssh_url: git@github.com:UMONS-GFA/kicad-projects.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/stargazers
-statuses_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/statuses/{sha}
-subscribers_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/subscribers
-subscription_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/subscription
-svn_url: https://github.com/UMONS-GFA/kicad-projects
-tags_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/tags
-teams_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/teams
-topics: []
-trees_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/git/trees{/sha}
-updated_at: '2020-11-14T10:59:45Z'
-url: https://api.github.com/repos/UMONS-GFA/kicad-projects
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/assignees{/user}
+  blobs_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/branches{/branch}
+  clone_url: https://github.com/UMONS-GFA/kicad-projects.git
+  collaborators_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/comments{/number}
+  commits_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/commits{/sha}
+  compare_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/contents/{+path}
+  contributors_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/contributors
+  created_at: '2016-01-07T08:31:17Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/downloads
+  events_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/forks
+  full_name: UMONS-GFA/kicad-projects
+  git_commits_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/git/tags{/sha}
+  git_url: git://github.com/UMONS-GFA/kicad-projects.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/hooks
+  html_url: https://github.com/UMONS-GFA/kicad-projects
+  id: 49191907
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/issues/events{/number}
+  issues_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/issues{/number}
+  keys_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/keys{/key_id}
+  labels_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/labels{/name}
+  language: PostScript
+  languages_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/languages
+  license: null
+  merges_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/merges
+  milestones_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/milestones{/number}
+  mirror_url: null
+  name: kicad-projects
+  node_id: MDEwOlJlcG9zaXRvcnk0OTE5MTkwNw==
+  notifications_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/notifications{?since,all,participating}
+  open_issues: 4
+  open_issues_count: 4
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5850580?v=4
+    events_url: https://api.github.com/users/UMONS-GFA/events{/privacy}
+    followers_url: https://api.github.com/users/UMONS-GFA/followers
+    following_url: https://api.github.com/users/UMONS-GFA/following{/other_user}
+    gists_url: https://api.github.com/users/UMONS-GFA/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/UMONS-GFA
+    id: 5850580
+    login: UMONS-GFA
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU4NTA1ODA=
+    organizations_url: https://api.github.com/users/UMONS-GFA/orgs
+    received_events_url: https://api.github.com/users/UMONS-GFA/received_events
+    repos_url: https://api.github.com/users/UMONS-GFA/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/UMONS-GFA/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/UMONS-GFA/subscriptions
+    type: Organization
+    url: https://api.github.com/users/UMONS-GFA
+  private: false
+  pulls_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/pulls{/number}
+  pushed_at: '2018-11-19T13:30:45Z'
+  releases_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/releases{/id}
+  size: 148238
+  ssh_url: git@github.com:UMONS-GFA/kicad-projects.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/stargazers
+  statuses_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/subscribers
+  subscription_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/subscription
+  svn_url: https://github.com/UMONS-GFA/kicad-projects
+  tags_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/tags
+  teams_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/teams
+  topics: []
+  trees_url: https://api.github.com/repos/UMONS-GFA/kicad-projects/git/trees{/sha}
+  updated_at: '2020-11-14T10:59:45Z'
+  url: https://api.github.com/repos/UMONS-GFA/kicad-projects
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

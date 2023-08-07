@@ -1,107 +1,123 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/assignees{/user}
-blobs_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/git/blobs{/sha}
-branches_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/branches{/branch}
-clone_url: https://github.com/greatscottgadgets/cynthion-hardware.git
-collaborators_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/comments{/number}
-commits_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/commits{/sha}
-compare_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/compare/{base}...{head}
-contents_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/contents/{+path}
-contributors_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/contributors
-created_at: '2023-06-29T22:05:38Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/deployments
-description: USB test instrument
-disabled: false
-downloads_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/downloads
-events_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/forks
-full_name: greatscottgadgets/cynthion-hardware
-git_commits_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/git/tags{/sha}
-git_url: git://github.com/greatscottgadgets/cynthion-hardware.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: https://greatscottgadgets.com/cynthion/
-hooks_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/hooks
-html_url: https://github.com/greatscottgadgets/cynthion-hardware
-id: 660379993
-is_template: false
-issue_comment_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/issues/events{/number}
-issues_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/issues{/number}
-keys_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/keys{/key_id}
-labels_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/languages
-license:
-  key: cern-ohl-p-2.0
-  name: CERN Open Hardware Licence Version 2 - Permissive
-  node_id: L_kgCuY2Vybi1vaGwtcC0yLjA
-  spdx_id: CERN-OHL-P-2.0
-  url: https://api.github.com/licenses/cern-ohl-p-2.0
-merges_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/merges
-milestones_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/milestones{/number}
-mirror_url: null
-name: cynthion-hardware
-node_id: R_kgDOJ1yZWQ
-notifications_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5904722?v=4
-  events_url: https://api.github.com/users/greatscottgadgets/events{/privacy}
-  followers_url: https://api.github.com/users/greatscottgadgets/followers
-  following_url: https://api.github.com/users/greatscottgadgets/following{/other_user}
-  gists_url: https://api.github.com/users/greatscottgadgets/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/greatscottgadgets
-  id: 5904722
-  login: greatscottgadgets
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU5MDQ3MjI=
-  organizations_url: https://api.github.com/users/greatscottgadgets/orgs
-  received_events_url: https://api.github.com/users/greatscottgadgets/received_events
-  repos_url: https://api.github.com/users/greatscottgadgets/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/greatscottgadgets/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/greatscottgadgets/subscriptions
-  type: Organization
-  url: https://api.github.com/users/greatscottgadgets
-private: false
+links:
+  github_owner: greatscottgadgets
+  github_repo_name: cynthion-hardware
+  github_src: https://github.com/greatscottgadgets/cynthion-hardware
+  github_src_repo: https://github.com/greatscottgadgets/cynthion-hardware
+  oomp_bot: greatscottgadgets_cynthion_hardware
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/greatscottgadgets_cynthion_hardware
+  oomp_doc: projects/greatscottgadgets_cynthion_hardware/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/greatscottgadgets_cynthion_hardware
+  oomp_src_flat: projects_flat/greatscottgadgets_cynthion_hardware
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/greatscottgadgets_cynthion_hardware
+  oomp_src_folder: projects_folder\greatscottgadgets\cynthion-hardware\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\greatscottgadgets\cynthion-hardware\version_current\working
+oomp_key: oomp_greatscottgadgets_cynthion_hardware
+oomp_key_simple: greatscottgadgets_cynthion_hardware
 projects_flat: projects_flat/greatscottgadgets_cynthion_hardware/version_current/working
 projects_folder: projects_folder/greatscottgadgets/cynthion-hardware/version_current/working
-pulls_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/pulls{/number}
-pushed_at: '2023-07-15T21:31:06Z'
-releases_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/releases{/id}
-size: 15360
-ssh_url: git@github.com:greatscottgadgets/cynthion-hardware.git
-stargazers_count: 6
-stargazers_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/stargazers
-statuses_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/statuses/{sha}
-subscribers_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/subscribers
-subscription_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/subscription
-svn_url: https://github.com/greatscottgadgets/cynthion-hardware
-tags_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/tags
-teams_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/teams
-topics:
-- hardware
-- test
-- usb
-trees_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/git/trees{/sha}
-updated_at: '2023-07-27T09:57:24Z'
-url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware
-visibility: public
-watchers: 6
-watchers_count: 6
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/assignees{/user}
+  blobs_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/branches{/branch}
+  clone_url: https://github.com/greatscottgadgets/cynthion-hardware.git
+  collaborators_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/comments{/number}
+  commits_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/commits{/sha}
+  compare_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/contents/{+path}
+  contributors_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/contributors
+  created_at: '2023-06-29T22:05:38Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/deployments
+  description: USB test instrument
+  disabled: false
+  downloads_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/downloads
+  events_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/forks
+  full_name: greatscottgadgets/cynthion-hardware
+  git_commits_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/git/tags{/sha}
+  git_url: git://github.com/greatscottgadgets/cynthion-hardware.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: https://greatscottgadgets.com/cynthion/
+  hooks_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/hooks
+  html_url: https://github.com/greatscottgadgets/cynthion-hardware
+  id: 660379993
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/issues/events{/number}
+  issues_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/issues{/number}
+  keys_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/keys{/key_id}
+  labels_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/languages
+  license:
+    key: cern-ohl-p-2.0
+    name: CERN Open Hardware Licence Version 2 - Permissive
+    node_id: L_kgCuY2Vybi1vaGwtcC0yLjA
+    spdx_id: CERN-OHL-P-2.0
+    url: https://api.github.com/licenses/cern-ohl-p-2.0
+  merges_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/merges
+  milestones_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/milestones{/number}
+  mirror_url: null
+  name: cynthion-hardware
+  node_id: R_kgDOJ1yZWQ
+  notifications_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5904722?v=4
+    events_url: https://api.github.com/users/greatscottgadgets/events{/privacy}
+    followers_url: https://api.github.com/users/greatscottgadgets/followers
+    following_url: https://api.github.com/users/greatscottgadgets/following{/other_user}
+    gists_url: https://api.github.com/users/greatscottgadgets/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/greatscottgadgets
+    id: 5904722
+    login: greatscottgadgets
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU5MDQ3MjI=
+    organizations_url: https://api.github.com/users/greatscottgadgets/orgs
+    received_events_url: https://api.github.com/users/greatscottgadgets/received_events
+    repos_url: https://api.github.com/users/greatscottgadgets/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/greatscottgadgets/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/greatscottgadgets/subscriptions
+    type: Organization
+    url: https://api.github.com/users/greatscottgadgets
+  private: false
+  pulls_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/pulls{/number}
+  pushed_at: '2023-07-15T21:31:06Z'
+  releases_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/releases{/id}
+  size: 15360
+  ssh_url: git@github.com:greatscottgadgets/cynthion-hardware.git
+  stargazers_count: 7
+  stargazers_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/stargazers
+  statuses_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/subscribers
+  subscription_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/subscription
+  svn_url: https://github.com/greatscottgadgets/cynthion-hardware
+  tags_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/tags
+  teams_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/teams
+  topics:
+  - hardware
+  - test
+  - usb
+  trees_url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware/git/trees{/sha}
+  updated_at: '2023-07-31T11:28:26Z'
+  url: https://api.github.com/repos/greatscottgadgets/cynthion-hardware
+  visibility: public
+  watchers: 7
+  watchers_count: 7
+  web_commit_signoff_required: false

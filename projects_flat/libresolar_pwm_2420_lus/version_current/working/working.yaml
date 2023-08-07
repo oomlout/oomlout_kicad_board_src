@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/assignees{/user}
-blobs_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/git/blobs{/sha}
-branches_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/branches{/branch}
-clone_url: https://github.com/LibreSolar/pwm-2420-lus.git
-collaborators_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/comments{/number}
-commits_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/commits{/sha}
-compare_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/compare/{base}...{head}
-contents_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/contents/{+path}
-contributors_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/contributors
-created_at: '2019-03-13T08:56:07Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/deployments
-description: PWM solar charge controller with USB charging port
-disabled: false
-downloads_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/downloads
-events_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/events
-fork: false
-forks: 5
-forks_count: 5
-forks_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/forks
-full_name: LibreSolar/pwm-2420-lus
-git_commits_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/git/tags{/sha}
-git_url: git://github.com/LibreSolar/pwm-2420-lus.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/hooks
-html_url: https://github.com/LibreSolar/pwm-2420-lus
-id: 175382686
-is_template: false
-issue_comment_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/issues/events{/number}
-issues_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/issues{/number}
-keys_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/keys{/key_id}
-labels_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/labels{/name}
-language: KiCad Layout
-languages_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/languages
-license:
-  key: cc-by-sa-4.0
-  name: Creative Commons Attribution Share Alike 4.0 International
-  node_id: MDc6TGljZW5zZTI2
-  spdx_id: CC-BY-SA-4.0
-  url: https://api.github.com/licenses/cc-by-sa-4.0
-merges_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/merges
-milestones_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/milestones{/number}
-mirror_url: null
-name: pwm-2420-lus
-node_id: MDEwOlJlcG9zaXRvcnkxNzUzODI2ODY=
-notifications_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/17674115?v=4
-  events_url: https://api.github.com/users/LibreSolar/events{/privacy}
-  followers_url: https://api.github.com/users/LibreSolar/followers
-  following_url: https://api.github.com/users/LibreSolar/following{/other_user}
-  gists_url: https://api.github.com/users/LibreSolar/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/LibreSolar
-  id: 17674115
-  login: LibreSolar
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE3Njc0MTE1
-  organizations_url: https://api.github.com/users/LibreSolar/orgs
-  received_events_url: https://api.github.com/users/LibreSolar/received_events
-  repos_url: https://api.github.com/users/LibreSolar/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/LibreSolar/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/LibreSolar/subscriptions
-  type: Organization
-  url: https://api.github.com/users/LibreSolar
-private: false
+links:
+  github_owner: LibreSolar
+  github_repo_name: pwm-2420-lus
+  github_src: https://github.com/LibreSolar/pwm-2420-lus
+  github_src_repo: https://github.com/LibreSolar/pwm-2420-lus
+  oomp_bot: projects_libresolar_pwm_2420_lus
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_libresolar_pwm_2420_lus
+  oomp_doc: projects/projects_flat_libresolar_pwm_2420_lus/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_libresolar_pwm_2420_lus
+  oomp_src_flat: projects_flat/projects_flat_libresolar_pwm_2420_lus
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_libresolar_pwm_2420_lus
+  oomp_src_folder: projects_flat\libresolar_pwm_2420_lus\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\libresolar_pwm_2420_lus\version_current\working
+oomp_key: oomp_projects_flat_libresolar_pwm_2420_lus
+oomp_key_simple: projects_flat_libresolar_pwm_2420_lus
 projects_flat: projects_flat/libresolar_pwm_2420_lus/version_current/working
 projects_folder: projects_folder/LibreSolar/pwm-2420-lus/version_current/working
-pulls_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/pulls{/number}
-pushed_at: '2019-08-26T13:11:00Z'
-releases_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/releases{/id}
-size: 1580
-ssh_url: git@github.com:LibreSolar/pwm-2420-lus.git
-stargazers_count: 12
-stargazers_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/stargazers
-statuses_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/statuses/{sha}
-subscribers_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/subscribers
-subscription_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/subscription
-svn_url: https://github.com/LibreSolar/pwm-2420-lus
-tags_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/tags
-teams_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/teams
-topics: []
-trees_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/git/trees{/sha}
-updated_at: '2023-02-09T19:01:44Z'
-url: https://api.github.com/repos/LibreSolar/pwm-2420-lus
-visibility: public
-watchers: 12
-watchers_count: 12
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/assignees{/user}
+  blobs_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/branches{/branch}
+  clone_url: https://github.com/LibreSolar/pwm-2420-lus.git
+  collaborators_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/comments{/number}
+  commits_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/commits{/sha}
+  compare_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/contents/{+path}
+  contributors_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/contributors
+  created_at: '2019-03-13T08:56:07Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/deployments
+  description: PWM solar charge controller with USB charging port
+  disabled: false
+  downloads_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/downloads
+  events_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/events
+  fork: false
+  forks: 5
+  forks_count: 5
+  forks_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/forks
+  full_name: LibreSolar/pwm-2420-lus
+  git_commits_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/git/tags{/sha}
+  git_url: git://github.com/LibreSolar/pwm-2420-lus.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/hooks
+  html_url: https://github.com/LibreSolar/pwm-2420-lus
+  id: 175382686
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/issues/events{/number}
+  issues_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/issues{/number}
+  keys_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/keys{/key_id}
+  labels_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/labels{/name}
+  language: KiCad Layout
+  languages_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/languages
+  license:
+    key: cc-by-sa-4.0
+    name: Creative Commons Attribution Share Alike 4.0 International
+    node_id: MDc6TGljZW5zZTI2
+    spdx_id: CC-BY-SA-4.0
+    url: https://api.github.com/licenses/cc-by-sa-4.0
+  merges_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/merges
+  milestones_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/milestones{/number}
+  mirror_url: null
+  name: pwm-2420-lus
+  node_id: MDEwOlJlcG9zaXRvcnkxNzUzODI2ODY=
+  notifications_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/17674115?v=4
+    events_url: https://api.github.com/users/LibreSolar/events{/privacy}
+    followers_url: https://api.github.com/users/LibreSolar/followers
+    following_url: https://api.github.com/users/LibreSolar/following{/other_user}
+    gists_url: https://api.github.com/users/LibreSolar/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/LibreSolar
+    id: 17674115
+    login: LibreSolar
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE3Njc0MTE1
+    organizations_url: https://api.github.com/users/LibreSolar/orgs
+    received_events_url: https://api.github.com/users/LibreSolar/received_events
+    repos_url: https://api.github.com/users/LibreSolar/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/LibreSolar/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/LibreSolar/subscriptions
+    type: Organization
+    url: https://api.github.com/users/LibreSolar
+  private: false
+  pulls_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/pulls{/number}
+  pushed_at: '2019-08-26T13:11:00Z'
+  releases_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/releases{/id}
+  size: 1580
+  ssh_url: git@github.com:LibreSolar/pwm-2420-lus.git
+  stargazers_count: 12
+  stargazers_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/stargazers
+  statuses_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/subscribers
+  subscription_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/subscription
+  svn_url: https://github.com/LibreSolar/pwm-2420-lus
+  tags_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/tags
+  teams_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/teams
+  topics: []
+  trees_url: https://api.github.com/repos/LibreSolar/pwm-2420-lus/git/trees{/sha}
+  updated_at: '2023-02-09T19:01:44Z'
+  url: https://api.github.com/repos/LibreSolar/pwm-2420-lus
+  visibility: public
+  watchers: 12
+  watchers_count: 12
+  web_commit_signoff_required: false

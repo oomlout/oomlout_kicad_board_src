@@ -1,102 +1,119 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/MicroView/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/MicroView/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/MicroView/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/MicroView/branches{/branch}
-clone_url: https://github.com/sparkfun/MicroView.git
-collaborators_url: https://api.github.com/repos/sparkfun/MicroView/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/MicroView/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/MicroView/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/MicroView/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/MicroView/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/MicroView/contributors
-created_at: '2014-03-11T16:07:52Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/MicroView/deployments
-description: The MicroView is a chip-sized Arduino with a built-in OLED, available
-  from SparkFun Electronics
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/MicroView/downloads
-events_url: https://api.github.com/repos/sparkfun/MicroView/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_microview/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/MicroView/version_current/working/working.brd
-fork: false
-forks: 22
-forks_count: 22
-forks_url: https://api.github.com/repos/sparkfun/MicroView/forks
-full_name: sparkfun/MicroView
-git_commits_url: https://api.github.com/repos/sparkfun/MicroView/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/MicroView/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/MicroView/git/tags{/sha}
-git_url: git://github.com/sparkfun/MicroView.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/MicroView/hooks
-html_url: https://github.com/sparkfun/MicroView
-id: 17636947
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/MicroView/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/MicroView/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/MicroView/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/MicroView/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/MicroView/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/sparkfun/MicroView/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfun/MicroView/merges
-milestones_url: https://api.github.com/repos/sparkfun/MicroView/milestones{/number}
-mirror_url: null
-name: MicroView
-node_id: MDEwOlJlcG9zaXRvcnkxNzYzNjk0Nw==
-notifications_url: https://api.github.com/repos/sparkfun/MicroView/notifications{?since,all,participating}
-open_issues: 2
-open_issues_count: 2
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: MicroView
+  github_src: https://github.com/sparkfun/MicroView
+  github_src_repo: https://github.com/sparkfun/MicroView
+  oomp_bot: projects_sparkfun_microview
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_microview
+  oomp_doc: projects/projects_flat_sparkfun_microview/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_microview
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_microview
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_microview
+  oomp_src_folder: projects_flat\sparkfun_microview\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_microview\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_microview
+oomp_key_simple: projects_flat_sparkfun_microview
+projects_flat: projects_flat/sparkfun_microview/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_microview/version_current/working
 projects_folder: projects_folder/sparkfun/MicroView/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/MicroView/pulls{/number}
-pushed_at: '2020-06-09T22:19:51Z'
-releases_url: https://api.github.com/repos/sparkfun/MicroView/releases{/id}
-size: 6929
-ssh_url: git@github.com:sparkfun/MicroView.git
-stargazers_count: 58
-stargazers_url: https://api.github.com/repos/sparkfun/MicroView/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/MicroView/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/MicroView/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/MicroView/subscription
-svn_url: https://github.com/sparkfun/MicroView
-tags_url: https://api.github.com/repos/sparkfun/MicroView/tags
-teams_url: https://api.github.com/repos/sparkfun/MicroView/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/MicroView/git/trees{/sha}
-updated_at: '2023-01-30T20:18:11Z'
-url: https://api.github.com/repos/sparkfun/MicroView
-visibility: public
-watchers: 58
-watchers_count: 58
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/MicroView/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/MicroView/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/MicroView/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/MicroView/branches{/branch}
+  clone_url: https://github.com/sparkfun/MicroView.git
+  collaborators_url: https://api.github.com/repos/sparkfun/MicroView/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/MicroView/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/MicroView/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/MicroView/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/MicroView/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/MicroView/contributors
+  created_at: '2014-03-11T16:07:52Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/MicroView/deployments
+  description: The MicroView is a chip-sized Arduino with a built-in OLED, available
+    from SparkFun Electronics
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/MicroView/downloads
+  events_url: https://api.github.com/repos/sparkfun/MicroView/events
+  fork: false
+  forks: 22
+  forks_count: 22
+  forks_url: https://api.github.com/repos/sparkfun/MicroView/forks
+  full_name: sparkfun/MicroView
+  git_commits_url: https://api.github.com/repos/sparkfun/MicroView/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/MicroView/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/MicroView/git/tags{/sha}
+  git_url: git://github.com/sparkfun/MicroView.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/MicroView/hooks
+  html_url: https://github.com/sparkfun/MicroView
+  id: 17636947
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/MicroView/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/MicroView/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/MicroView/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/MicroView/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/MicroView/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/sparkfun/MicroView/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfun/MicroView/merges
+  milestones_url: https://api.github.com/repos/sparkfun/MicroView/milestones{/number}
+  mirror_url: null
+  name: MicroView
+  node_id: MDEwOlJlcG9zaXRvcnkxNzYzNjk0Nw==
+  notifications_url: https://api.github.com/repos/sparkfun/MicroView/notifications{?since,all,participating}
+  open_issues: 2
+  open_issues_count: 2
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/MicroView/pulls{/number}
+  pushed_at: '2020-06-09T22:19:51Z'
+  releases_url: https://api.github.com/repos/sparkfun/MicroView/releases{/id}
+  size: 6929
+  ssh_url: git@github.com:sparkfun/MicroView.git
+  stargazers_count: 58
+  stargazers_url: https://api.github.com/repos/sparkfun/MicroView/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/MicroView/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/MicroView/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/MicroView/subscription
+  svn_url: https://github.com/sparkfun/MicroView
+  tags_url: https://api.github.com/repos/sparkfun/MicroView/tags
+  teams_url: https://api.github.com/repos/sparkfun/MicroView/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/MicroView/git/trees{/sha}
+  updated_at: '2023-01-30T20:18:11Z'
+  url: https://api.github.com/repos/sparkfun/MicroView
+  visibility: public
+  watchers: 58
+  watchers_count: 58
+  web_commit_signoff_required: false

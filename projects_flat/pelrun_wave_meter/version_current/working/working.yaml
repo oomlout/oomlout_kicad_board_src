@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/pelrun/Wave_meter/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/pelrun/Wave_meter/assignees{/user}
-blobs_url: https://api.github.com/repos/pelrun/Wave_meter/git/blobs{/sha}
-branches_url: https://api.github.com/repos/pelrun/Wave_meter/branches{/branch}
-clone_url: https://github.com/pelrun/Wave_meter.git
-collaborators_url: https://api.github.com/repos/pelrun/Wave_meter/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/pelrun/Wave_meter/comments{/number}
-commits_url: https://api.github.com/repos/pelrun/Wave_meter/commits{/sha}
-compare_url: https://api.github.com/repos/pelrun/Wave_meter/compare/{base}...{head}
-contents_url: https://api.github.com/repos/pelrun/Wave_meter/contents/{+path}
-contributors_url: https://api.github.com/repos/pelrun/Wave_meter/contributors
-created_at: '2015-10-19T03:15:02Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/pelrun/Wave_meter/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/pelrun/Wave_meter/downloads
-events_url: https://api.github.com/repos/pelrun/Wave_meter/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/pelrun/Wave_meter/forks
-full_name: pelrun/Wave_meter
-git_commits_url: https://api.github.com/repos/pelrun/Wave_meter/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/pelrun/Wave_meter/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/pelrun/Wave_meter/git/tags{/sha}
-git_url: git://github.com/pelrun/Wave_meter.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/pelrun/Wave_meter/hooks
-html_url: https://github.com/pelrun/Wave_meter
-id: 44508641
-is_template: false
-issue_comment_url: https://api.github.com/repos/pelrun/Wave_meter/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/pelrun/Wave_meter/issues/events{/number}
-issues_url: https://api.github.com/repos/pelrun/Wave_meter/issues{/number}
-keys_url: https://api.github.com/repos/pelrun/Wave_meter/keys{/key_id}
-labels_url: https://api.github.com/repos/pelrun/Wave_meter/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/pelrun/Wave_meter/languages
-license: null
-merges_url: https://api.github.com/repos/pelrun/Wave_meter/merges
-milestones_url: https://api.github.com/repos/pelrun/Wave_meter/milestones{/number}
-mirror_url: null
-name: Wave_meter
-node_id: MDEwOlJlcG9zaXRvcnk0NDUwODY0MQ==
-notifications_url: https://api.github.com/repos/pelrun/Wave_meter/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/316223?v=4
-  events_url: https://api.github.com/users/pelrun/events{/privacy}
-  followers_url: https://api.github.com/users/pelrun/followers
-  following_url: https://api.github.com/users/pelrun/following{/other_user}
-  gists_url: https://api.github.com/users/pelrun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/pelrun
-  id: 316223
-  login: pelrun
-  node_id: MDQ6VXNlcjMxNjIyMw==
-  organizations_url: https://api.github.com/users/pelrun/orgs
-  received_events_url: https://api.github.com/users/pelrun/received_events
-  repos_url: https://api.github.com/users/pelrun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/pelrun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/pelrun/subscriptions
-  type: User
-  url: https://api.github.com/users/pelrun
-private: false
+links:
+  github_owner: pelrun
+  github_repo_name: Wave_meter
+  github_src: https://github.com/pelrun/Wave_meter
+  github_src_repo: https://github.com/pelrun/Wave_meter
+  oomp_bot: projects_pelrun_wave_meter
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_pelrun_wave_meter
+  oomp_doc: projects/projects_flat_pelrun_wave_meter/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_pelrun_wave_meter
+  oomp_src_flat: projects_flat/projects_flat_pelrun_wave_meter
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_pelrun_wave_meter
+  oomp_src_folder: projects_flat\pelrun_wave_meter\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\pelrun_wave_meter\version_current\working
+oomp_key: oomp_projects_flat_pelrun_wave_meter
+oomp_key_simple: projects_flat_pelrun_wave_meter
 projects_flat: projects_flat/pelrun_wave_meter/version_current/working
 projects_folder: projects_folder/pelrun/Wave_meter/version_current/working
-pulls_url: https://api.github.com/repos/pelrun/Wave_meter/pulls{/number}
-pushed_at: '2015-10-18T13:58:01Z'
-releases_url: https://api.github.com/repos/pelrun/Wave_meter/releases{/id}
-size: 93
-ssh_url: git@github.com:pelrun/Wave_meter.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/pelrun/Wave_meter/stargazers
-statuses_url: https://api.github.com/repos/pelrun/Wave_meter/statuses/{sha}
-subscribers_url: https://api.github.com/repos/pelrun/Wave_meter/subscribers
-subscription_url: https://api.github.com/repos/pelrun/Wave_meter/subscription
-svn_url: https://github.com/pelrun/Wave_meter
-tags_url: https://api.github.com/repos/pelrun/Wave_meter/tags
-teams_url: https://api.github.com/repos/pelrun/Wave_meter/teams
-topics: []
-trees_url: https://api.github.com/repos/pelrun/Wave_meter/git/trees{/sha}
-updated_at: '2015-10-19T03:15:03Z'
-url: https://api.github.com/repos/pelrun/Wave_meter
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/pelrun/Wave_meter/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/pelrun/Wave_meter/assignees{/user}
+  blobs_url: https://api.github.com/repos/pelrun/Wave_meter/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/pelrun/Wave_meter/branches{/branch}
+  clone_url: https://github.com/pelrun/Wave_meter.git
+  collaborators_url: https://api.github.com/repos/pelrun/Wave_meter/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/pelrun/Wave_meter/comments{/number}
+  commits_url: https://api.github.com/repos/pelrun/Wave_meter/commits{/sha}
+  compare_url: https://api.github.com/repos/pelrun/Wave_meter/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/pelrun/Wave_meter/contents/{+path}
+  contributors_url: https://api.github.com/repos/pelrun/Wave_meter/contributors
+  created_at: '2015-10-19T03:15:02Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/pelrun/Wave_meter/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/pelrun/Wave_meter/downloads
+  events_url: https://api.github.com/repos/pelrun/Wave_meter/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/pelrun/Wave_meter/forks
+  full_name: pelrun/Wave_meter
+  git_commits_url: https://api.github.com/repos/pelrun/Wave_meter/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/pelrun/Wave_meter/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/pelrun/Wave_meter/git/tags{/sha}
+  git_url: git://github.com/pelrun/Wave_meter.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/pelrun/Wave_meter/hooks
+  html_url: https://github.com/pelrun/Wave_meter
+  id: 44508641
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/pelrun/Wave_meter/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/pelrun/Wave_meter/issues/events{/number}
+  issues_url: https://api.github.com/repos/pelrun/Wave_meter/issues{/number}
+  keys_url: https://api.github.com/repos/pelrun/Wave_meter/keys{/key_id}
+  labels_url: https://api.github.com/repos/pelrun/Wave_meter/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/pelrun/Wave_meter/languages
+  license: null
+  merges_url: https://api.github.com/repos/pelrun/Wave_meter/merges
+  milestones_url: https://api.github.com/repos/pelrun/Wave_meter/milestones{/number}
+  mirror_url: null
+  name: Wave_meter
+  node_id: MDEwOlJlcG9zaXRvcnk0NDUwODY0MQ==
+  notifications_url: https://api.github.com/repos/pelrun/Wave_meter/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/316223?v=4
+    events_url: https://api.github.com/users/pelrun/events{/privacy}
+    followers_url: https://api.github.com/users/pelrun/followers
+    following_url: https://api.github.com/users/pelrun/following{/other_user}
+    gists_url: https://api.github.com/users/pelrun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/pelrun
+    id: 316223
+    login: pelrun
+    node_id: MDQ6VXNlcjMxNjIyMw==
+    organizations_url: https://api.github.com/users/pelrun/orgs
+    received_events_url: https://api.github.com/users/pelrun/received_events
+    repos_url: https://api.github.com/users/pelrun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/pelrun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/pelrun/subscriptions
+    type: User
+    url: https://api.github.com/users/pelrun
+  private: false
+  pulls_url: https://api.github.com/repos/pelrun/Wave_meter/pulls{/number}
+  pushed_at: '2015-10-18T13:58:01Z'
+  releases_url: https://api.github.com/repos/pelrun/Wave_meter/releases{/id}
+  size: 93
+  ssh_url: git@github.com:pelrun/Wave_meter.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/pelrun/Wave_meter/stargazers
+  statuses_url: https://api.github.com/repos/pelrun/Wave_meter/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/pelrun/Wave_meter/subscribers
+  subscription_url: https://api.github.com/repos/pelrun/Wave_meter/subscription
+  svn_url: https://github.com/pelrun/Wave_meter
+  tags_url: https://api.github.com/repos/pelrun/Wave_meter/tags
+  teams_url: https://api.github.com/repos/pelrun/Wave_meter/teams
+  topics: []
+  trees_url: https://api.github.com/repos/pelrun/Wave_meter/git/trees{/sha}
+  updated_at: '2015-10-19T03:15:03Z'
+  url: https://api.github.com/repos/pelrun/Wave_meter
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

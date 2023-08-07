@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/branches{/branch}
-clone_url: https://github.com/adafruit/TIMESQUARE-DIY-Watch-Kit.git
-collaborators_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/contributors
-created_at: '2013-01-13T22:10:53Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/deployments
-description: PCB files for Adafruit's TIMESQUARE watch kit!
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/downloads
-events_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/forks
-full_name: adafruit/TIMESQUARE-DIY-Watch-Kit
-git_commits_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/git/tags{/sha}
-git_url: git://github.com/adafruit/TIMESQUARE-DIY-Watch-Kit.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: null
-hooks_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/hooks
-html_url: https://github.com/adafruit/TIMESQUARE-DIY-Watch-Kit
-id: 7594320
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/merges
-milestones_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/milestones{/number}
-mirror_url: null
-name: TIMESQUARE-DIY-Watch-Kit
-node_id: MDEwOlJlcG9zaXRvcnk3NTk0MzIw
-notifications_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: TIMESQUARE-DIY-Watch-Kit
+  github_src: https://github.com/adafruit/TIMESQUARE-DIY-Watch-Kit
+  github_src_repo: https://github.com/adafruit/TIMESQUARE-DIY-Watch-Kit
+  oomp_bot: adafruit_timesquare_diy_watch_kit
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adafruit_timesquare_diy_watch_kit
+  oomp_doc: projects/adafruit_timesquare_diy_watch_kit/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adafruit_timesquare_diy_watch_kit
+  oomp_src_flat: projects_flat/adafruit_timesquare_diy_watch_kit
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adafruit_timesquare_diy_watch_kit
+  oomp_src_folder: projects_folder\adafruit\TIMESQUARE-DIY-Watch-Kit\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adafruit\TIMESQUARE-DIY-Watch-Kit\version_current\working
+oomp_key: oomp_adafruit_timesquare_diy_watch_kit
+oomp_key_simple: adafruit_timesquare_diy_watch_kit
 projects_flat: projects_flat/adafruit_timesquare_diy_watch_kit/version_current/working
 projects_folder: projects_folder/adafruit/TIMESQUARE-DIY-Watch-Kit/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/pulls{/number}
-pushed_at: '2019-05-16T17:14:37Z'
-releases_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/releases{/id}
-size: 204
-ssh_url: git@github.com:adafruit/TIMESQUARE-DIY-Watch-Kit.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/stargazers
-statuses_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/subscribers
-subscription_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/subscription
-svn_url: https://github.com/adafruit/TIMESQUARE-DIY-Watch-Kit
-tags_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/tags
-teams_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/git/trees{/sha}
-updated_at: '2019-05-16T17:14:39Z'
-url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/branches{/branch}
+  clone_url: https://github.com/adafruit/TIMESQUARE-DIY-Watch-Kit.git
+  collaborators_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/contributors
+  created_at: '2013-01-13T22:10:53Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/deployments
+  description: PCB files for Adafruit's TIMESQUARE watch kit!
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/downloads
+  events_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/forks
+  full_name: adafruit/TIMESQUARE-DIY-Watch-Kit
+  git_commits_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/git/tags{/sha}
+  git_url: git://github.com/adafruit/TIMESQUARE-DIY-Watch-Kit.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/hooks
+  html_url: https://github.com/adafruit/TIMESQUARE-DIY-Watch-Kit
+  id: 7594320
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/merges
+  milestones_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/milestones{/number}
+  mirror_url: null
+  name: TIMESQUARE-DIY-Watch-Kit
+  node_id: MDEwOlJlcG9zaXRvcnk3NTk0MzIw
+  notifications_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/pulls{/number}
+  pushed_at: '2019-05-16T17:14:37Z'
+  releases_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/releases{/id}
+  size: 204
+  ssh_url: git@github.com:adafruit/TIMESQUARE-DIY-Watch-Kit.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/subscription
+  svn_url: https://github.com/adafruit/TIMESQUARE-DIY-Watch-Kit
+  tags_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/tags
+  teams_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit/git/trees{/sha}
+  updated_at: '2019-05-16T17:14:39Z'
+  url: https://api.github.com/repos/adafruit/TIMESQUARE-DIY-Watch-Kit
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

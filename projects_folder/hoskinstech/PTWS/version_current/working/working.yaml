@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/hoskinstech/PTWS/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/hoskinstech/PTWS/assignees{/user}
-blobs_url: https://api.github.com/repos/hoskinstech/PTWS/git/blobs{/sha}
-branches_url: https://api.github.com/repos/hoskinstech/PTWS/branches{/branch}
-clone_url: https://github.com/hoskinstech/PTWS.git
-collaborators_url: https://api.github.com/repos/hoskinstech/PTWS/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/hoskinstech/PTWS/comments{/number}
-commits_url: https://api.github.com/repos/hoskinstech/PTWS/commits{/sha}
-compare_url: https://api.github.com/repos/hoskinstech/PTWS/compare/{base}...{head}
-contents_url: https://api.github.com/repos/hoskinstech/PTWS/contents/{+path}
-contributors_url: https://api.github.com/repos/hoskinstech/PTWS/contributors
-created_at: '2016-07-26T15:43:16Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/hoskinstech/PTWS/deployments
-description: Peak Tide Warning System
-disabled: false
-downloads_url: https://api.github.com/repos/hoskinstech/PTWS/downloads
-events_url: https://api.github.com/repos/hoskinstech/PTWS/events
 file_sch_flat: projects_flat/hoskinstech_ptws/version_current/working/working.sch
 file_sch_folder: projects_folder/hoskinstech/PTWS/version_current/working/working.sch
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/hoskinstech/PTWS/forks
-full_name: hoskinstech/PTWS
-git_commits_url: https://api.github.com/repos/hoskinstech/PTWS/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/hoskinstech/PTWS/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/hoskinstech/PTWS/git/tags{/sha}
-git_url: git://github.com/hoskinstech/PTWS.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/hoskinstech/PTWS/hooks
-html_url: https://github.com/hoskinstech/PTWS
-id: 64233768
-is_template: false
-issue_comment_url: https://api.github.com/repos/hoskinstech/PTWS/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/hoskinstech/PTWS/issues/events{/number}
-issues_url: https://api.github.com/repos/hoskinstech/PTWS/issues{/number}
-keys_url: https://api.github.com/repos/hoskinstech/PTWS/keys{/key_id}
-labels_url: https://api.github.com/repos/hoskinstech/PTWS/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/hoskinstech/PTWS/languages
-license: null
-merges_url: https://api.github.com/repos/hoskinstech/PTWS/merges
-milestones_url: https://api.github.com/repos/hoskinstech/PTWS/milestones{/number}
-mirror_url: null
-name: PTWS
-node_id: MDEwOlJlcG9zaXRvcnk2NDIzMzc2OA==
-notifications_url: https://api.github.com/repos/hoskinstech/PTWS/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/12068223?v=4
-  events_url: https://api.github.com/users/hoskinstech/events{/privacy}
-  followers_url: https://api.github.com/users/hoskinstech/followers
-  following_url: https://api.github.com/users/hoskinstech/following{/other_user}
-  gists_url: https://api.github.com/users/hoskinstech/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/hoskinstech
-  id: 12068223
-  login: hoskinstech
-  node_id: MDEyOk9yZ2FuaXphdGlvbjEyMDY4MjIz
-  organizations_url: https://api.github.com/users/hoskinstech/orgs
-  received_events_url: https://api.github.com/users/hoskinstech/received_events
-  repos_url: https://api.github.com/users/hoskinstech/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/hoskinstech/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/hoskinstech/subscriptions
-  type: Organization
-  url: https://api.github.com/users/hoskinstech
-private: false
+links:
+  github_owner: hoskinstech
+  github_repo_name: PTWS
+  github_src: https://github.com/hoskinstech/PTWS
+  github_src_repo: https://github.com/hoskinstech/PTWS
+  oomp_bot: hoskinstech_ptws
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/hoskinstech_ptws
+  oomp_doc: projects/hoskinstech_ptws/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/hoskinstech_ptws
+  oomp_src_flat: projects_flat/hoskinstech_ptws
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/hoskinstech_ptws
+  oomp_src_folder: projects_folder\hoskinstech\PTWS\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\hoskinstech\PTWS\version_current\working
+oomp_key: oomp_hoskinstech_ptws
+oomp_key_simple: hoskinstech_ptws
 projects_flat: projects_flat/hoskinstech_ptws/version_current/working
 projects_folder: projects_folder/hoskinstech/PTWS/version_current/working
-pulls_url: https://api.github.com/repos/hoskinstech/PTWS/pulls{/number}
-pushed_at: '2016-11-04T18:22:13Z'
-releases_url: https://api.github.com/repos/hoskinstech/PTWS/releases{/id}
-size: 58
-ssh_url: git@github.com:hoskinstech/PTWS.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/hoskinstech/PTWS/stargazers
-statuses_url: https://api.github.com/repos/hoskinstech/PTWS/statuses/{sha}
-subscribers_url: https://api.github.com/repos/hoskinstech/PTWS/subscribers
-subscription_url: https://api.github.com/repos/hoskinstech/PTWS/subscription
-svn_url: https://github.com/hoskinstech/PTWS
-tags_url: https://api.github.com/repos/hoskinstech/PTWS/tags
-teams_url: https://api.github.com/repos/hoskinstech/PTWS/teams
-topics: []
-trees_url: https://api.github.com/repos/hoskinstech/PTWS/git/trees{/sha}
-updated_at: '2016-08-13T09:02:54Z'
-url: https://api.github.com/repos/hoskinstech/PTWS
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/hoskinstech/PTWS/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/hoskinstech/PTWS/assignees{/user}
+  blobs_url: https://api.github.com/repos/hoskinstech/PTWS/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/hoskinstech/PTWS/branches{/branch}
+  clone_url: https://github.com/hoskinstech/PTWS.git
+  collaborators_url: https://api.github.com/repos/hoskinstech/PTWS/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/hoskinstech/PTWS/comments{/number}
+  commits_url: https://api.github.com/repos/hoskinstech/PTWS/commits{/sha}
+  compare_url: https://api.github.com/repos/hoskinstech/PTWS/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/hoskinstech/PTWS/contents/{+path}
+  contributors_url: https://api.github.com/repos/hoskinstech/PTWS/contributors
+  created_at: '2016-07-26T15:43:16Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/hoskinstech/PTWS/deployments
+  description: Peak Tide Warning System
+  disabled: false
+  downloads_url: https://api.github.com/repos/hoskinstech/PTWS/downloads
+  events_url: https://api.github.com/repos/hoskinstech/PTWS/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/hoskinstech/PTWS/forks
+  full_name: hoskinstech/PTWS
+  git_commits_url: https://api.github.com/repos/hoskinstech/PTWS/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/hoskinstech/PTWS/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/hoskinstech/PTWS/git/tags{/sha}
+  git_url: git://github.com/hoskinstech/PTWS.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/hoskinstech/PTWS/hooks
+  html_url: https://github.com/hoskinstech/PTWS
+  id: 64233768
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/hoskinstech/PTWS/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/hoskinstech/PTWS/issues/events{/number}
+  issues_url: https://api.github.com/repos/hoskinstech/PTWS/issues{/number}
+  keys_url: https://api.github.com/repos/hoskinstech/PTWS/keys{/key_id}
+  labels_url: https://api.github.com/repos/hoskinstech/PTWS/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/hoskinstech/PTWS/languages
+  license: null
+  merges_url: https://api.github.com/repos/hoskinstech/PTWS/merges
+  milestones_url: https://api.github.com/repos/hoskinstech/PTWS/milestones{/number}
+  mirror_url: null
+  name: PTWS
+  node_id: MDEwOlJlcG9zaXRvcnk2NDIzMzc2OA==
+  notifications_url: https://api.github.com/repos/hoskinstech/PTWS/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/12068223?v=4
+    events_url: https://api.github.com/users/hoskinstech/events{/privacy}
+    followers_url: https://api.github.com/users/hoskinstech/followers
+    following_url: https://api.github.com/users/hoskinstech/following{/other_user}
+    gists_url: https://api.github.com/users/hoskinstech/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/hoskinstech
+    id: 12068223
+    login: hoskinstech
+    node_id: MDEyOk9yZ2FuaXphdGlvbjEyMDY4MjIz
+    organizations_url: https://api.github.com/users/hoskinstech/orgs
+    received_events_url: https://api.github.com/users/hoskinstech/received_events
+    repos_url: https://api.github.com/users/hoskinstech/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/hoskinstech/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/hoskinstech/subscriptions
+    type: Organization
+    url: https://api.github.com/users/hoskinstech
+  private: false
+  pulls_url: https://api.github.com/repos/hoskinstech/PTWS/pulls{/number}
+  pushed_at: '2016-11-04T18:22:13Z'
+  releases_url: https://api.github.com/repos/hoskinstech/PTWS/releases{/id}
+  size: 58
+  ssh_url: git@github.com:hoskinstech/PTWS.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/hoskinstech/PTWS/stargazers
+  statuses_url: https://api.github.com/repos/hoskinstech/PTWS/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/hoskinstech/PTWS/subscribers
+  subscription_url: https://api.github.com/repos/hoskinstech/PTWS/subscription
+  svn_url: https://github.com/hoskinstech/PTWS
+  tags_url: https://api.github.com/repos/hoskinstech/PTWS/tags
+  teams_url: https://api.github.com/repos/hoskinstech/PTWS/teams
+  topics: []
+  trees_url: https://api.github.com/repos/hoskinstech/PTWS/git/trees{/sha}
+  updated_at: '2016-08-13T09:02:54Z'
+  url: https://api.github.com/repos/hoskinstech/PTWS
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

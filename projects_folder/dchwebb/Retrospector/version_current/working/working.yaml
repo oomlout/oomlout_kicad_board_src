@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/dchwebb/Retrospector/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/dchwebb/Retrospector/assignees{/user}
-blobs_url: https://api.github.com/repos/dchwebb/Retrospector/git/blobs{/sha}
-branches_url: https://api.github.com/repos/dchwebb/Retrospector/branches{/branch}
-clone_url: https://github.com/dchwebb/Retrospector.git
-collaborators_url: https://api.github.com/repos/dchwebb/Retrospector/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/dchwebb/Retrospector/comments{/number}
-commits_url: https://api.github.com/repos/dchwebb/Retrospector/commits{/sha}
-compare_url: https://api.github.com/repos/dchwebb/Retrospector/compare/{base}...{head}
-contents_url: https://api.github.com/repos/dchwebb/Retrospector/contents/{+path}
-contributors_url: https://api.github.com/repos/dchwebb/Retrospector/contributors
-created_at: '2020-06-26T09:57:37Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/dchwebb/Retrospector/deployments
-description: Eurorack Delay Effect
-disabled: false
-downloads_url: https://api.github.com/repos/dchwebb/Retrospector/downloads
-events_url: https://api.github.com/repos/dchwebb/Retrospector/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/dchwebb/Retrospector/forks
-full_name: dchwebb/Retrospector
-git_commits_url: https://api.github.com/repos/dchwebb/Retrospector/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/dchwebb/Retrospector/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/dchwebb/Retrospector/git/tags{/sha}
-git_url: git://github.com/dchwebb/Retrospector.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/dchwebb/Retrospector/hooks
-html_url: https://github.com/dchwebb/Retrospector
-id: 275124539
-is_template: false
-issue_comment_url: https://api.github.com/repos/dchwebb/Retrospector/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/dchwebb/Retrospector/issues/events{/number}
-issues_url: https://api.github.com/repos/dchwebb/Retrospector/issues{/number}
-keys_url: https://api.github.com/repos/dchwebb/Retrospector/keys{/key_id}
-labels_url: https://api.github.com/repos/dchwebb/Retrospector/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/dchwebb/Retrospector/languages
-license: null
-merges_url: https://api.github.com/repos/dchwebb/Retrospector/merges
-milestones_url: https://api.github.com/repos/dchwebb/Retrospector/milestones{/number}
-mirror_url: null
-name: Retrospector
-node_id: MDEwOlJlcG9zaXRvcnkyNzUxMjQ1Mzk=
-notifications_url: https://api.github.com/repos/dchwebb/Retrospector/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
-  events_url: https://api.github.com/users/dchwebb/events{/privacy}
-  followers_url: https://api.github.com/users/dchwebb/followers
-  following_url: https://api.github.com/users/dchwebb/following{/other_user}
-  gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/dchwebb
-  id: 16348549
-  login: dchwebb
-  node_id: MDQ6VXNlcjE2MzQ4NTQ5
-  organizations_url: https://api.github.com/users/dchwebb/orgs
-  received_events_url: https://api.github.com/users/dchwebb/received_events
-  repos_url: https://api.github.com/users/dchwebb/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
-  type: User
-  url: https://api.github.com/users/dchwebb
-private: false
+links:
+  github_owner: dchwebb
+  github_repo_name: Retrospector
+  github_src: https://github.com/dchwebb/Retrospector
+  github_src_repo: https://github.com/dchwebb/Retrospector
+  oomp_bot: dchwebb_retrospector
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/dchwebb_retrospector
+  oomp_doc: projects/dchwebb_retrospector/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/dchwebb_retrospector
+  oomp_src_flat: projects_flat/dchwebb_retrospector
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/dchwebb_retrospector
+  oomp_src_folder: projects_folder\dchwebb\Retrospector\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\dchwebb\Retrospector\version_current\working
+oomp_key: oomp_dchwebb_retrospector
+oomp_key_simple: dchwebb_retrospector
 projects_flat: projects_flat/dchwebb_retrospector/version_current/working
 projects_folder: projects_folder/dchwebb/Retrospector/version_current/working
-pulls_url: https://api.github.com/repos/dchwebb/Retrospector/pulls{/number}
-pushed_at: '2022-03-31T16:25:17Z'
-releases_url: https://api.github.com/repos/dchwebb/Retrospector/releases{/id}
-size: 21827
-ssh_url: git@github.com:dchwebb/Retrospector.git
-stargazers_count: 6
-stargazers_url: https://api.github.com/repos/dchwebb/Retrospector/stargazers
-statuses_url: https://api.github.com/repos/dchwebb/Retrospector/statuses/{sha}
-subscribers_url: https://api.github.com/repos/dchwebb/Retrospector/subscribers
-subscription_url: https://api.github.com/repos/dchwebb/Retrospector/subscription
-svn_url: https://github.com/dchwebb/Retrospector
-tags_url: https://api.github.com/repos/dchwebb/Retrospector/tags
-teams_url: https://api.github.com/repos/dchwebb/Retrospector/teams
-topics: []
-trees_url: https://api.github.com/repos/dchwebb/Retrospector/git/trees{/sha}
-updated_at: '2023-07-20T13:39:32Z'
-url: https://api.github.com/repos/dchwebb/Retrospector
-visibility: public
-watchers: 6
-watchers_count: 6
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/dchwebb/Retrospector/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/dchwebb/Retrospector/assignees{/user}
+  blobs_url: https://api.github.com/repos/dchwebb/Retrospector/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/dchwebb/Retrospector/branches{/branch}
+  clone_url: https://github.com/dchwebb/Retrospector.git
+  collaborators_url: https://api.github.com/repos/dchwebb/Retrospector/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/dchwebb/Retrospector/comments{/number}
+  commits_url: https://api.github.com/repos/dchwebb/Retrospector/commits{/sha}
+  compare_url: https://api.github.com/repos/dchwebb/Retrospector/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/dchwebb/Retrospector/contents/{+path}
+  contributors_url: https://api.github.com/repos/dchwebb/Retrospector/contributors
+  created_at: '2020-06-26T09:57:37Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/dchwebb/Retrospector/deployments
+  description: Eurorack Delay Effect
+  disabled: false
+  downloads_url: https://api.github.com/repos/dchwebb/Retrospector/downloads
+  events_url: https://api.github.com/repos/dchwebb/Retrospector/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/dchwebb/Retrospector/forks
+  full_name: dchwebb/Retrospector
+  git_commits_url: https://api.github.com/repos/dchwebb/Retrospector/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/dchwebb/Retrospector/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/dchwebb/Retrospector/git/tags{/sha}
+  git_url: git://github.com/dchwebb/Retrospector.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/dchwebb/Retrospector/hooks
+  html_url: https://github.com/dchwebb/Retrospector
+  id: 275124539
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/dchwebb/Retrospector/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/dchwebb/Retrospector/issues/events{/number}
+  issues_url: https://api.github.com/repos/dchwebb/Retrospector/issues{/number}
+  keys_url: https://api.github.com/repos/dchwebb/Retrospector/keys{/key_id}
+  labels_url: https://api.github.com/repos/dchwebb/Retrospector/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/dchwebb/Retrospector/languages
+  license: null
+  merges_url: https://api.github.com/repos/dchwebb/Retrospector/merges
+  milestones_url: https://api.github.com/repos/dchwebb/Retrospector/milestones{/number}
+  mirror_url: null
+  name: Retrospector
+  node_id: MDEwOlJlcG9zaXRvcnkyNzUxMjQ1Mzk=
+  notifications_url: https://api.github.com/repos/dchwebb/Retrospector/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16348549?v=4
+    events_url: https://api.github.com/users/dchwebb/events{/privacy}
+    followers_url: https://api.github.com/users/dchwebb/followers
+    following_url: https://api.github.com/users/dchwebb/following{/other_user}
+    gists_url: https://api.github.com/users/dchwebb/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/dchwebb
+    id: 16348549
+    login: dchwebb
+    node_id: MDQ6VXNlcjE2MzQ4NTQ5
+    organizations_url: https://api.github.com/users/dchwebb/orgs
+    received_events_url: https://api.github.com/users/dchwebb/received_events
+    repos_url: https://api.github.com/users/dchwebb/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/dchwebb/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/dchwebb/subscriptions
+    type: User
+    url: https://api.github.com/users/dchwebb
+  private: false
+  pulls_url: https://api.github.com/repos/dchwebb/Retrospector/pulls{/number}
+  pushed_at: '2022-03-31T16:25:17Z'
+  releases_url: https://api.github.com/repos/dchwebb/Retrospector/releases{/id}
+  size: 21827
+  ssh_url: git@github.com:dchwebb/Retrospector.git
+  stargazers_count: 6
+  stargazers_url: https://api.github.com/repos/dchwebb/Retrospector/stargazers
+  statuses_url: https://api.github.com/repos/dchwebb/Retrospector/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/dchwebb/Retrospector/subscribers
+  subscription_url: https://api.github.com/repos/dchwebb/Retrospector/subscription
+  svn_url: https://github.com/dchwebb/Retrospector
+  tags_url: https://api.github.com/repos/dchwebb/Retrospector/tags
+  teams_url: https://api.github.com/repos/dchwebb/Retrospector/teams
+  topics: []
+  trees_url: https://api.github.com/repos/dchwebb/Retrospector/git/trees{/sha}
+  updated_at: '2023-07-20T13:39:32Z'
+  url: https://api.github.com/repos/dchwebb/Retrospector
+  visibility: public
+  watchers: 6
+  watchers_count: 6
+  web_commit_signoff_required: false

@@ -1,111 +1,128 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/RedBoard/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/RedBoard/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/RedBoard/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/RedBoard/branches{/branch}
-clone_url: https://github.com/sparkfun/RedBoard.git
-collaborators_url: https://api.github.com/repos/sparkfun/RedBoard/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/RedBoard/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/RedBoard/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/RedBoard/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/RedBoard/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/RedBoard/contributors
-created_at: '2014-01-27T18:56:32Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/RedBoard/deployments
-description: The RedBoard is SparkFun's take on the Arduino Uno. It combines the simplicity
-  of the Uno's Optiboot bootloader (which is used in the Pro series), with the stability
-  of the FTDI and a mini-B USB connector.
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/RedBoard/downloads
-events_url: https://api.github.com/repos/sparkfun/RedBoard/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_redboard/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/RedBoard/version_current/working/working.brd
-fork: false
-forks: 15
-forks_count: 15
-forks_url: https://api.github.com/repos/sparkfun/RedBoard/forks
-full_name: sparkfun/RedBoard
-git_commits_url: https://api.github.com/repos/sparkfun/RedBoard/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/RedBoard/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/RedBoard/git/tags{/sha}
-git_url: git://github.com/sparkfun/RedBoard.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/products/11575
-hooks_url: https://api.github.com/repos/sparkfun/RedBoard/hooks
-html_url: https://github.com/sparkfun/RedBoard
-id: 16288993
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/RedBoard/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/RedBoard/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/RedBoard/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/RedBoard/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/RedBoard/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/RedBoard/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/RedBoard/merges
-milestones_url: https://api.github.com/repos/sparkfun/RedBoard/milestones{/number}
-mirror_url: null
-name: RedBoard
-node_id: MDEwOlJlcG9zaXRvcnkxNjI4ODk5Mw==
-notifications_url: https://api.github.com/repos/sparkfun/RedBoard/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: RedBoard
+  github_src: https://github.com/sparkfun/RedBoard
+  github_src_repo: https://github.com/sparkfun/RedBoard
+  oomp_bot: projects_sparkfun_redboard
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_redboard
+  oomp_doc: projects/projects_flat_sparkfun_redboard/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_redboard
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_redboard
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_redboard
+  oomp_src_folder: projects_flat\sparkfun_redboard\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_redboard\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_redboard
+oomp_key_simple: projects_flat_sparkfun_redboard
+projects_flat: projects_flat/sparkfun_redboard/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_redboard/version_current/working
 projects_folder: projects_folder/sparkfun/RedBoard/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/RedBoard/pulls{/number}
-pushed_at: '2020-09-04T21:29:04Z'
-releases_url: https://api.github.com/repos/sparkfun/RedBoard/releases{/id}
-size: 29127
-ssh_url: git@github.com:sparkfun/RedBoard.git
-stargazers_count: 37
-stargazers_url: https://api.github.com/repos/sparkfun/RedBoard/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/RedBoard/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/RedBoard/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/RedBoard/subscription
-svn_url: https://github.com/sparkfun/RedBoard
-tags_url: https://api.github.com/repos/sparkfun/RedBoard/tags
-teams_url: https://api.github.com/repos/sparkfun/RedBoard/teams
-topics:
-- arduino-boards
-- arduino-uno
-- sparkfun-products
-trees_url: https://api.github.com/repos/sparkfun/RedBoard/git/trees{/sha}
-updated_at: '2023-07-14T18:24:22Z'
-url: https://api.github.com/repos/sparkfun/RedBoard
-visibility: public
-watchers: 37
-watchers_count: 37
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/RedBoard/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/RedBoard/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/RedBoard/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/RedBoard/branches{/branch}
+  clone_url: https://github.com/sparkfun/RedBoard.git
+  collaborators_url: https://api.github.com/repos/sparkfun/RedBoard/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/RedBoard/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/RedBoard/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/RedBoard/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/RedBoard/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/RedBoard/contributors
+  created_at: '2014-01-27T18:56:32Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/RedBoard/deployments
+  description: The RedBoard is SparkFun's take on the Arduino Uno. It combines the
+    simplicity of the Uno's Optiboot bootloader (which is used in the Pro series),
+    with the stability of the FTDI and a mini-B USB connector.
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/RedBoard/downloads
+  events_url: https://api.github.com/repos/sparkfun/RedBoard/events
+  fork: false
+  forks: 15
+  forks_count: 15
+  forks_url: https://api.github.com/repos/sparkfun/RedBoard/forks
+  full_name: sparkfun/RedBoard
+  git_commits_url: https://api.github.com/repos/sparkfun/RedBoard/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/RedBoard/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/RedBoard/git/tags{/sha}
+  git_url: git://github.com/sparkfun/RedBoard.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/products/11575
+  hooks_url: https://api.github.com/repos/sparkfun/RedBoard/hooks
+  html_url: https://github.com/sparkfun/RedBoard
+  id: 16288993
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/RedBoard/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/RedBoard/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/RedBoard/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/RedBoard/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/RedBoard/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/RedBoard/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/RedBoard/merges
+  milestones_url: https://api.github.com/repos/sparkfun/RedBoard/milestones{/number}
+  mirror_url: null
+  name: RedBoard
+  node_id: MDEwOlJlcG9zaXRvcnkxNjI4ODk5Mw==
+  notifications_url: https://api.github.com/repos/sparkfun/RedBoard/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/RedBoard/pulls{/number}
+  pushed_at: '2020-09-04T21:29:04Z'
+  releases_url: https://api.github.com/repos/sparkfun/RedBoard/releases{/id}
+  size: 29127
+  ssh_url: git@github.com:sparkfun/RedBoard.git
+  stargazers_count: 37
+  stargazers_url: https://api.github.com/repos/sparkfun/RedBoard/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/RedBoard/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/RedBoard/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/RedBoard/subscription
+  svn_url: https://github.com/sparkfun/RedBoard
+  tags_url: https://api.github.com/repos/sparkfun/RedBoard/tags
+  teams_url: https://api.github.com/repos/sparkfun/RedBoard/teams
+  topics:
+  - arduino-boards
+  - arduino-uno
+  - sparkfun-products
+  trees_url: https://api.github.com/repos/sparkfun/RedBoard/git/trees{/sha}
+  updated_at: '2023-07-14T18:24:22Z'
+  url: https://api.github.com/repos/sparkfun/RedBoard
+  visibility: public
+  watchers: 37
+  watchers_count: 37
+  web_commit_signoff_required: false

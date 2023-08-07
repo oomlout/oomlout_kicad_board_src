@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/FREENFET/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/FREENFET/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/FREENFET/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/FREENFET/branches{/branch}
-clone_url: https://github.com/freetronics/FREENFET.git
-collaborators_url: https://api.github.com/repos/freetronics/FREENFET/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/FREENFET/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/FREENFET/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/FREENFET/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/FREENFET/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/FREENFET/contributors
-created_at: '2016-03-15T06:51:38Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/FREENFET/deployments
-description: Addressable N-MOSFET Module
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/FREENFET/downloads
-events_url: https://api.github.com/repos/freetronics/FREENFET/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/freetronics/FREENFET/forks
-full_name: freetronics/FREENFET
-git_commits_url: https://api.github.com/repos/freetronics/FREENFET/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/FREENFET/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/FREENFET/git/tags{/sha}
-git_url: git://github.com/freetronics/FREENFET.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/freetronics/FREENFET/hooks
-html_url: https://github.com/freetronics/FREENFET
-id: 53921707
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/FREENFET/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/FREENFET/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/FREENFET/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/FREENFET/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/FREENFET/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/freetronics/FREENFET/languages
-license: null
-merges_url: https://api.github.com/repos/freetronics/FREENFET/merges
-milestones_url: https://api.github.com/repos/freetronics/FREENFET/milestones{/number}
-mirror_url: null
-name: FREENFET
-node_id: MDEwOlJlcG9zaXRvcnk1MzkyMTcwNw==
-notifications_url: https://api.github.com/repos/freetronics/FREENFET/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: FREENFET
+  github_src: https://github.com/freetronics/FREENFET
+  github_src_repo: https://github.com/freetronics/FREENFET
+  oomp_bot: freetronics_freenfet
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/freetronics_freenfet
+  oomp_doc: projects/freetronics_freenfet/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/freetronics_freenfet
+  oomp_src_flat: projects_flat/freetronics_freenfet
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/freetronics_freenfet
+  oomp_src_folder: projects_folder\freetronics\FREENFET\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\freetronics\FREENFET\version_current\working
+oomp_key: oomp_freetronics_freenfet
+oomp_key_simple: freetronics_freenfet
 projects_flat: projects_flat/freetronics_freenfet/version_current/working
 projects_folder: projects_folder/freetronics/FREENFET/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/FREENFET/pulls{/number}
-pushed_at: '2019-04-23T23:42:00Z'
-releases_url: https://api.github.com/repos/freetronics/FREENFET/releases{/id}
-size: 33
-ssh_url: git@github.com:freetronics/FREENFET.git
-stargazers_count: 7
-stargazers_url: https://api.github.com/repos/freetronics/FREENFET/stargazers
-statuses_url: https://api.github.com/repos/freetronics/FREENFET/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/FREENFET/subscribers
-subscription_url: https://api.github.com/repos/freetronics/FREENFET/subscription
-svn_url: https://github.com/freetronics/FREENFET
-tags_url: https://api.github.com/repos/freetronics/FREENFET/tags
-teams_url: https://api.github.com/repos/freetronics/FREENFET/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/FREENFET/git/trees{/sha}
-updated_at: '2023-05-22T18:28:07Z'
-url: https://api.github.com/repos/freetronics/FREENFET
-visibility: public
-watchers: 7
-watchers_count: 7
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/FREENFET/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/FREENFET/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/FREENFET/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/FREENFET/branches{/branch}
+  clone_url: https://github.com/freetronics/FREENFET.git
+  collaborators_url: https://api.github.com/repos/freetronics/FREENFET/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/FREENFET/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/FREENFET/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/FREENFET/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/FREENFET/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/FREENFET/contributors
+  created_at: '2016-03-15T06:51:38Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/FREENFET/deployments
+  description: Addressable N-MOSFET Module
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/FREENFET/downloads
+  events_url: https://api.github.com/repos/freetronics/FREENFET/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/freetronics/FREENFET/forks
+  full_name: freetronics/FREENFET
+  git_commits_url: https://api.github.com/repos/freetronics/FREENFET/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/FREENFET/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/FREENFET/git/tags{/sha}
+  git_url: git://github.com/freetronics/FREENFET.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/freetronics/FREENFET/hooks
+  html_url: https://github.com/freetronics/FREENFET
+  id: 53921707
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/FREENFET/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/FREENFET/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/FREENFET/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/FREENFET/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/FREENFET/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/freetronics/FREENFET/languages
+  license: null
+  merges_url: https://api.github.com/repos/freetronics/FREENFET/merges
+  milestones_url: https://api.github.com/repos/freetronics/FREENFET/milestones{/number}
+  mirror_url: null
+  name: FREENFET
+  node_id: MDEwOlJlcG9zaXRvcnk1MzkyMTcwNw==
+  notifications_url: https://api.github.com/repos/freetronics/FREENFET/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/FREENFET/pulls{/number}
+  pushed_at: '2019-04-23T23:42:00Z'
+  releases_url: https://api.github.com/repos/freetronics/FREENFET/releases{/id}
+  size: 33
+  ssh_url: git@github.com:freetronics/FREENFET.git
+  stargazers_count: 7
+  stargazers_url: https://api.github.com/repos/freetronics/FREENFET/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/FREENFET/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/FREENFET/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/FREENFET/subscription
+  svn_url: https://github.com/freetronics/FREENFET
+  tags_url: https://api.github.com/repos/freetronics/FREENFET/tags
+  teams_url: https://api.github.com/repos/freetronics/FREENFET/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/FREENFET/git/trees{/sha}
+  updated_at: '2023-05-22T18:28:07Z'
+  url: https://api.github.com/repos/freetronics/FREENFET
+  visibility: public
+  watchers: 7
+  watchers_count: 7
+  web_commit_signoff_required: false

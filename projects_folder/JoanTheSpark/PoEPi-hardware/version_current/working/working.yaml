@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/assignees{/user}
-blobs_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/git/blobs{/sha}
-branches_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/branches{/branch}
-clone_url: https://github.com/JoanTheSpark/PoEPi-hardware.git
-collaborators_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/comments{/number}
-commits_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/commits{/sha}
-compare_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/compare/{base}...{head}
-contents_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/contents/{+path}
-contributors_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/contributors
-created_at: '2017-09-01T10:01:46Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/deployments
-description: The hardware for the Raspberry Pi Zero power over Ethernet devices
-disabled: false
-downloads_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/downloads
-events_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/forks
-full_name: JoanTheSpark/PoEPi-hardware
-git_commits_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/git/tags{/sha}
-git_url: git://github.com/JoanTheSpark/PoEPi-hardware.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/hooks
-html_url: https://github.com/JoanTheSpark/PoEPi-hardware
-id: 102100105
-is_template: false
-issue_comment_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/issues/events{/number}
-issues_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/issues{/number}
-keys_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/keys{/key_id}
-labels_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/languages
-license: null
-merges_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/merges
-milestones_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/milestones{/number}
-mirror_url: null
-name: PoEPi-hardware
-node_id: MDEwOlJlcG9zaXRvcnkxMDIxMDAxMDU=
-notifications_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/14078073?v=4
-  events_url: https://api.github.com/users/JoanTheSpark/events{/privacy}
-  followers_url: https://api.github.com/users/JoanTheSpark/followers
-  following_url: https://api.github.com/users/JoanTheSpark/following{/other_user}
-  gists_url: https://api.github.com/users/JoanTheSpark/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/JoanTheSpark
-  id: 14078073
-  login: JoanTheSpark
-  node_id: MDQ6VXNlcjE0MDc4MDcz
-  organizations_url: https://api.github.com/users/JoanTheSpark/orgs
-  received_events_url: https://api.github.com/users/JoanTheSpark/received_events
-  repos_url: https://api.github.com/users/JoanTheSpark/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/JoanTheSpark/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/JoanTheSpark/subscriptions
-  type: User
-  url: https://api.github.com/users/JoanTheSpark
-private: false
+links:
+  github_owner: JoanTheSpark
+  github_repo_name: PoEPi-hardware
+  github_src: https://github.com/JoanTheSpark/PoEPi-hardware
+  github_src_repo: https://github.com/JoanTheSpark/PoEPi-hardware
+  oomp_bot: joanthespark_poepi_hardware
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/joanthespark_poepi_hardware
+  oomp_doc: projects/joanthespark_poepi_hardware/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/joanthespark_poepi_hardware
+  oomp_src_flat: projects_flat/joanthespark_poepi_hardware
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/joanthespark_poepi_hardware
+  oomp_src_folder: projects_folder\JoanTheSpark\PoEPi-hardware\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\JoanTheSpark\PoEPi-hardware\version_current\working
+oomp_key: oomp_joanthespark_poepi_hardware
+oomp_key_simple: joanthespark_poepi_hardware
 projects_flat: projects_flat/joanthespark_poepi_hardware/version_current/working
 projects_folder: projects_folder/JoanTheSpark/PoEPi-hardware/version_current/working
-pulls_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/pulls{/number}
-pushed_at: '2016-02-23T08:48:55Z'
-releases_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/releases{/id}
-size: 474
-ssh_url: git@github.com:JoanTheSpark/PoEPi-hardware.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/stargazers
-statuses_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/statuses/{sha}
-subscribers_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/subscribers
-subscription_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/subscription
-svn_url: https://github.com/JoanTheSpark/PoEPi-hardware
-tags_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/tags
-teams_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/teams
-topics: []
-trees_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/git/trees{/sha}
-updated_at: '2017-09-01T10:01:48Z'
-url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/assignees{/user}
+  blobs_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/branches{/branch}
+  clone_url: https://github.com/JoanTheSpark/PoEPi-hardware.git
+  collaborators_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/comments{/number}
+  commits_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/commits{/sha}
+  compare_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/contents/{+path}
+  contributors_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/contributors
+  created_at: '2017-09-01T10:01:46Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/deployments
+  description: The hardware for the Raspberry Pi Zero power over Ethernet devices
+  disabled: false
+  downloads_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/downloads
+  events_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/forks
+  full_name: JoanTheSpark/PoEPi-hardware
+  git_commits_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/git/tags{/sha}
+  git_url: git://github.com/JoanTheSpark/PoEPi-hardware.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/hooks
+  html_url: https://github.com/JoanTheSpark/PoEPi-hardware
+  id: 102100105
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/issues/events{/number}
+  issues_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/issues{/number}
+  keys_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/keys{/key_id}
+  labels_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/languages
+  license: null
+  merges_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/merges
+  milestones_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/milestones{/number}
+  mirror_url: null
+  name: PoEPi-hardware
+  node_id: MDEwOlJlcG9zaXRvcnkxMDIxMDAxMDU=
+  notifications_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/14078073?v=4
+    events_url: https://api.github.com/users/JoanTheSpark/events{/privacy}
+    followers_url: https://api.github.com/users/JoanTheSpark/followers
+    following_url: https://api.github.com/users/JoanTheSpark/following{/other_user}
+    gists_url: https://api.github.com/users/JoanTheSpark/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/JoanTheSpark
+    id: 14078073
+    login: JoanTheSpark
+    node_id: MDQ6VXNlcjE0MDc4MDcz
+    organizations_url: https://api.github.com/users/JoanTheSpark/orgs
+    received_events_url: https://api.github.com/users/JoanTheSpark/received_events
+    repos_url: https://api.github.com/users/JoanTheSpark/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/JoanTheSpark/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/JoanTheSpark/subscriptions
+    type: User
+    url: https://api.github.com/users/JoanTheSpark
+  private: false
+  pulls_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/pulls{/number}
+  pushed_at: '2016-02-23T08:48:55Z'
+  releases_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/releases{/id}
+  size: 474
+  ssh_url: git@github.com:JoanTheSpark/PoEPi-hardware.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/stargazers
+  statuses_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/subscribers
+  subscription_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/subscription
+  svn_url: https://github.com/JoanTheSpark/PoEPi-hardware
+  tags_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/tags
+  teams_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/teams
+  topics: []
+  trees_url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware/git/trees{/sha}
+  updated_at: '2017-09-01T10:01:48Z'
+  url: https://api.github.com/repos/JoanTheSpark/PoEPi-hardware
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

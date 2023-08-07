@@ -1,102 +1,118 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adamjvr/ZyncMV/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adamjvr/ZyncMV/assignees{/user}
-blobs_url: https://api.github.com/repos/adamjvr/ZyncMV/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adamjvr/ZyncMV/branches{/branch}
-clone_url: https://github.com/adamjvr/ZyncMV.git
-collaborators_url: https://api.github.com/repos/adamjvr/ZyncMV/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adamjvr/ZyncMV/comments{/number}
-commits_url: https://api.github.com/repos/adamjvr/ZyncMV/commits{/sha}
-compare_url: https://api.github.com/repos/adamjvr/ZyncMV/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adamjvr/ZyncMV/contents/{+path}
-contributors_url: https://api.github.com/repos/adamjvr/ZyncMV/contributors
-created_at: '2016-12-21T17:54:08Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adamjvr/ZyncMV/deployments
-description: ZyncMV is an open source machine/computer vision platform using the Xilinx
-  Zync FPGA+ ARM Cortex A9 SoC
-disabled: false
-downloads_url: https://api.github.com/repos/adamjvr/ZyncMV/downloads
-events_url: https://api.github.com/repos/adamjvr/ZyncMV/events
 file_sch_flat: projects_flat/adamjvr_zyncmv/version_current/working/working.sch
 file_sch_folder: projects_folder/adamjvr/ZyncMV/version_current/working/working.sch
-fork: false
-forks: 16
-forks_count: 16
-forks_url: https://api.github.com/repos/adamjvr/ZyncMV/forks
-full_name: adamjvr/ZyncMV
-git_commits_url: https://api.github.com/repos/adamjvr/ZyncMV/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adamjvr/ZyncMV/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adamjvr/ZyncMV/git/tags{/sha}
-git_url: git://github.com/adamjvr/ZyncMV.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adamjvr/ZyncMV/hooks
-html_url: https://github.com/adamjvr/ZyncMV
-id: 77074164
-is_template: false
-issue_comment_url: https://api.github.com/repos/adamjvr/ZyncMV/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adamjvr/ZyncMV/issues/events{/number}
-issues_url: https://api.github.com/repos/adamjvr/ZyncMV/issues{/number}
-keys_url: https://api.github.com/repos/adamjvr/ZyncMV/keys{/key_id}
-labels_url: https://api.github.com/repos/adamjvr/ZyncMV/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/adamjvr/ZyncMV/languages
-license: null
-merges_url: https://api.github.com/repos/adamjvr/ZyncMV/merges
-milestones_url: https://api.github.com/repos/adamjvr/ZyncMV/milestones{/number}
-mirror_url: null
-name: ZyncMV
-node_id: MDEwOlJlcG9zaXRvcnk3NzA3NDE2NA==
-notifications_url: https://api.github.com/repos/adamjvr/ZyncMV/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
-  events_url: https://api.github.com/users/adamjvr/events{/privacy}
-  followers_url: https://api.github.com/users/adamjvr/followers
-  following_url: https://api.github.com/users/adamjvr/following{/other_user}
-  gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adamjvr
-  id: 3782102
-  login: adamjvr
-  node_id: MDQ6VXNlcjM3ODIxMDI=
-  organizations_url: https://api.github.com/users/adamjvr/orgs
-  received_events_url: https://api.github.com/users/adamjvr/received_events
-  repos_url: https://api.github.com/users/adamjvr/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
-  type: User
-  url: https://api.github.com/users/adamjvr
-private: false
+links:
+  github_owner: adamjvr
+  github_repo_name: ZyncMV
+  github_src: https://github.com/adamjvr/ZyncMV
+  github_src_repo: https://github.com/adamjvr/ZyncMV
+  oomp_bot: projects_adamjvr_zyncmv
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_adamjvr_zyncmv
+  oomp_doc: projects/projects_flat_adamjvr_zyncmv/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_adamjvr_zyncmv
+  oomp_src_flat: projects_flat/projects_flat_adamjvr_zyncmv
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_adamjvr_zyncmv
+  oomp_src_folder: projects_flat\adamjvr_zyncmv\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adamjvr_zyncmv\version_current\working
+oomp_key: oomp_projects_flat_adamjvr_zyncmv
+oomp_key_simple: projects_flat_adamjvr_zyncmv
 projects_flat: projects_flat/adamjvr_zyncmv/version_current/working
 projects_folder: projects_folder/adamjvr/ZyncMV/version_current/working
-pulls_url: https://api.github.com/repos/adamjvr/ZyncMV/pulls{/number}
-pushed_at: '2017-02-12T07:02:16Z'
-releases_url: https://api.github.com/repos/adamjvr/ZyncMV/releases{/id}
-size: 38187
-ssh_url: git@github.com:adamjvr/ZyncMV.git
-stargazers_count: 16
-stargazers_url: https://api.github.com/repos/adamjvr/ZyncMV/stargazers
-statuses_url: https://api.github.com/repos/adamjvr/ZyncMV/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adamjvr/ZyncMV/subscribers
-subscription_url: https://api.github.com/repos/adamjvr/ZyncMV/subscription
-svn_url: https://github.com/adamjvr/ZyncMV
-tags_url: https://api.github.com/repos/adamjvr/ZyncMV/tags
-teams_url: https://api.github.com/repos/adamjvr/ZyncMV/teams
-topics: []
-trees_url: https://api.github.com/repos/adamjvr/ZyncMV/git/trees{/sha}
-updated_at: '2020-04-18T16:15:27Z'
-url: https://api.github.com/repos/adamjvr/ZyncMV
-visibility: public
-watchers: 16
-watchers_count: 16
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adamjvr/ZyncMV/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adamjvr/ZyncMV/assignees{/user}
+  blobs_url: https://api.github.com/repos/adamjvr/ZyncMV/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adamjvr/ZyncMV/branches{/branch}
+  clone_url: https://github.com/adamjvr/ZyncMV.git
+  collaborators_url: https://api.github.com/repos/adamjvr/ZyncMV/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adamjvr/ZyncMV/comments{/number}
+  commits_url: https://api.github.com/repos/adamjvr/ZyncMV/commits{/sha}
+  compare_url: https://api.github.com/repos/adamjvr/ZyncMV/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adamjvr/ZyncMV/contents/{+path}
+  contributors_url: https://api.github.com/repos/adamjvr/ZyncMV/contributors
+  created_at: '2016-12-21T17:54:08Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adamjvr/ZyncMV/deployments
+  description: ZyncMV is an open source machine/computer vision platform using the
+    Xilinx Zync FPGA+ ARM Cortex A9 SoC
+  disabled: false
+  downloads_url: https://api.github.com/repos/adamjvr/ZyncMV/downloads
+  events_url: https://api.github.com/repos/adamjvr/ZyncMV/events
+  fork: false
+  forks: 16
+  forks_count: 16
+  forks_url: https://api.github.com/repos/adamjvr/ZyncMV/forks
+  full_name: adamjvr/ZyncMV
+  git_commits_url: https://api.github.com/repos/adamjvr/ZyncMV/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adamjvr/ZyncMV/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adamjvr/ZyncMV/git/tags{/sha}
+  git_url: git://github.com/adamjvr/ZyncMV.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adamjvr/ZyncMV/hooks
+  html_url: https://github.com/adamjvr/ZyncMV
+  id: 77074164
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adamjvr/ZyncMV/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adamjvr/ZyncMV/issues/events{/number}
+  issues_url: https://api.github.com/repos/adamjvr/ZyncMV/issues{/number}
+  keys_url: https://api.github.com/repos/adamjvr/ZyncMV/keys{/key_id}
+  labels_url: https://api.github.com/repos/adamjvr/ZyncMV/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/adamjvr/ZyncMV/languages
+  license: null
+  merges_url: https://api.github.com/repos/adamjvr/ZyncMV/merges
+  milestones_url: https://api.github.com/repos/adamjvr/ZyncMV/milestones{/number}
+  mirror_url: null
+  name: ZyncMV
+  node_id: MDEwOlJlcG9zaXRvcnk3NzA3NDE2NA==
+  notifications_url: https://api.github.com/repos/adamjvr/ZyncMV/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
+    events_url: https://api.github.com/users/adamjvr/events{/privacy}
+    followers_url: https://api.github.com/users/adamjvr/followers
+    following_url: https://api.github.com/users/adamjvr/following{/other_user}
+    gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adamjvr
+    id: 3782102
+    login: adamjvr
+    node_id: MDQ6VXNlcjM3ODIxMDI=
+    organizations_url: https://api.github.com/users/adamjvr/orgs
+    received_events_url: https://api.github.com/users/adamjvr/received_events
+    repos_url: https://api.github.com/users/adamjvr/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
+    type: User
+    url: https://api.github.com/users/adamjvr
+  private: false
+  pulls_url: https://api.github.com/repos/adamjvr/ZyncMV/pulls{/number}
+  pushed_at: '2017-02-12T07:02:16Z'
+  releases_url: https://api.github.com/repos/adamjvr/ZyncMV/releases{/id}
+  size: 38187
+  ssh_url: git@github.com:adamjvr/ZyncMV.git
+  stargazers_count: 16
+  stargazers_url: https://api.github.com/repos/adamjvr/ZyncMV/stargazers
+  statuses_url: https://api.github.com/repos/adamjvr/ZyncMV/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adamjvr/ZyncMV/subscribers
+  subscription_url: https://api.github.com/repos/adamjvr/ZyncMV/subscription
+  svn_url: https://github.com/adamjvr/ZyncMV
+  tags_url: https://api.github.com/repos/adamjvr/ZyncMV/tags
+  teams_url: https://api.github.com/repos/adamjvr/ZyncMV/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adamjvr/ZyncMV/git/trees{/sha}
+  updated_at: '2020-04-18T16:15:27Z'
+  url: https://api.github.com/repos/adamjvr/ZyncMV
+  visibility: public
+  watchers: 16
+  watchers_count: 16
+  web_commit_signoff_required: false

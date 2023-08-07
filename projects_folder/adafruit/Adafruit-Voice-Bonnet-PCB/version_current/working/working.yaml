@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/branches{/branch}
-clone_url: https://github.com/adafruit/Adafruit-Voice-Bonnet-PCB.git
-collaborators_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/contributors
-created_at: '2020-10-27T16:43:39Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/deployments
-description: PCB files for the Adafruit Voice Bonnet.
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/downloads
-events_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/forks
-full_name: adafruit/Adafruit-Voice-Bonnet-PCB
-git_commits_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/git/tags{/sha}
-git_url: git://github.com/adafruit/Adafruit-Voice-Bonnet-PCB.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/hooks
-html_url: https://github.com/adafruit/Adafruit-Voice-Bonnet-PCB
-id: 307765962
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/merges
-milestones_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/milestones{/number}
-mirror_url: null
-name: Adafruit-Voice-Bonnet-PCB
-node_id: MDEwOlJlcG9zaXRvcnkzMDc3NjU5NjI=
-notifications_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: Adafruit-Voice-Bonnet-PCB
+  github_src: https://github.com/adafruit/Adafruit-Voice-Bonnet-PCB
+  github_src_repo: https://github.com/adafruit/Adafruit-Voice-Bonnet-PCB
+  oomp_bot: adafruit_adafruit_voice_bonnet_pcb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adafruit_adafruit_voice_bonnet_pcb
+  oomp_doc: projects/adafruit_adafruit_voice_bonnet_pcb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adafruit_adafruit_voice_bonnet_pcb
+  oomp_src_flat: projects_flat/adafruit_adafruit_voice_bonnet_pcb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adafruit_adafruit_voice_bonnet_pcb
+  oomp_src_folder: projects_folder\adafruit\Adafruit-Voice-Bonnet-PCB\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adafruit\Adafruit-Voice-Bonnet-PCB\version_current\working
+oomp_key: oomp_adafruit_adafruit_voice_bonnet_pcb
+oomp_key_simple: adafruit_adafruit_voice_bonnet_pcb
+projects_flat: projects_flat/adafruit_adafruit_voice_bonnet_pcb/version_current/working
 projects_flat_folder: projects_flat_folder/adafruit_adafruit_voice_bonnet_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit-Voice-Bonnet-PCB/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/pulls{/number}
-pushed_at: '2020-10-27T16:47:23Z'
-releases_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/releases{/id}
-size: 492
-ssh_url: git@github.com:adafruit/Adafruit-Voice-Bonnet-PCB.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/stargazers
-statuses_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/subscribers
-subscription_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/subscription
-svn_url: https://github.com/adafruit/Adafruit-Voice-Bonnet-PCB
-tags_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/tags
-teams_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/git/trees{/sha}
-updated_at: '2020-10-27T23:33:31Z'
-url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/branches{/branch}
+  clone_url: https://github.com/adafruit/Adafruit-Voice-Bonnet-PCB.git
+  collaborators_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/contributors
+  created_at: '2020-10-27T16:43:39Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/deployments
+  description: PCB files for the Adafruit Voice Bonnet.
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/downloads
+  events_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/forks
+  full_name: adafruit/Adafruit-Voice-Bonnet-PCB
+  git_commits_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/git/tags{/sha}
+  git_url: git://github.com/adafruit/Adafruit-Voice-Bonnet-PCB.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/hooks
+  html_url: https://github.com/adafruit/Adafruit-Voice-Bonnet-PCB
+  id: 307765962
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/merges
+  milestones_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/milestones{/number}
+  mirror_url: null
+  name: Adafruit-Voice-Bonnet-PCB
+  node_id: MDEwOlJlcG9zaXRvcnkzMDc3NjU5NjI=
+  notifications_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/pulls{/number}
+  pushed_at: '2020-10-27T16:47:23Z'
+  releases_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/releases{/id}
+  size: 492
+  ssh_url: git@github.com:adafruit/Adafruit-Voice-Bonnet-PCB.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/subscription
+  svn_url: https://github.com/adafruit/Adafruit-Voice-Bonnet-PCB
+  tags_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/tags
+  teams_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB/git/trees{/sha}
+  updated_at: '2020-10-27T23:33:31Z'
+  url: https://api.github.com/repos/adafruit/Adafruit-Voice-Bonnet-PCB
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

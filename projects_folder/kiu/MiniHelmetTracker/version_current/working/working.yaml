@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/kiu/MiniHelmetTracker/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/kiu/MiniHelmetTracker/assignees{/user}
-blobs_url: https://api.github.com/repos/kiu/MiniHelmetTracker/git/blobs{/sha}
-branches_url: https://api.github.com/repos/kiu/MiniHelmetTracker/branches{/branch}
-clone_url: https://github.com/kiu/MiniHelmetTracker.git
-collaborators_url: https://api.github.com/repos/kiu/MiniHelmetTracker/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/kiu/MiniHelmetTracker/comments{/number}
-commits_url: https://api.github.com/repos/kiu/MiniHelmetTracker/commits{/sha}
-compare_url: https://api.github.com/repos/kiu/MiniHelmetTracker/compare/{base}...{head}
-contents_url: https://api.github.com/repos/kiu/MiniHelmetTracker/contents/{+path}
-contributors_url: https://api.github.com/repos/kiu/MiniHelmetTracker/contributors
-created_at: '2022-06-24T22:59:13Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/kiu/MiniHelmetTracker/deployments
-description: MiniHelmetTracker - A  real-time standings table robot
-disabled: false
-downloads_url: https://api.github.com/repos/kiu/MiniHelmetTracker/downloads
-events_url: https://api.github.com/repos/kiu/MiniHelmetTracker/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/kiu/MiniHelmetTracker/forks
-full_name: kiu/MiniHelmetTracker
-git_commits_url: https://api.github.com/repos/kiu/MiniHelmetTracker/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/kiu/MiniHelmetTracker/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/kiu/MiniHelmetTracker/git/tags{/sha}
-git_url: git://github.com/kiu/MiniHelmetTracker.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: false
-has_wiki: false
-homepage: https://schoar.de/tinkering/MiniHelmetTracker
-hooks_url: https://api.github.com/repos/kiu/MiniHelmetTracker/hooks
-html_url: https://github.com/kiu/MiniHelmetTracker
-id: 507163807
-is_template: false
-issue_comment_url: https://api.github.com/repos/kiu/MiniHelmetTracker/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/kiu/MiniHelmetTracker/issues/events{/number}
-issues_url: https://api.github.com/repos/kiu/MiniHelmetTracker/issues{/number}
-keys_url: https://api.github.com/repos/kiu/MiniHelmetTracker/keys{/key_id}
-labels_url: https://api.github.com/repos/kiu/MiniHelmetTracker/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/kiu/MiniHelmetTracker/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/kiu/MiniHelmetTracker/merges
-milestones_url: https://api.github.com/repos/kiu/MiniHelmetTracker/milestones{/number}
-mirror_url: null
-name: MiniHelmetTracker
-node_id: R_kgDOHjq0nw
-notifications_url: https://api.github.com/repos/kiu/MiniHelmetTracker/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/785968?v=4
-  events_url: https://api.github.com/users/kiu/events{/privacy}
-  followers_url: https://api.github.com/users/kiu/followers
-  following_url: https://api.github.com/users/kiu/following{/other_user}
-  gists_url: https://api.github.com/users/kiu/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/kiu
-  id: 785968
-  login: kiu
-  node_id: MDQ6VXNlcjc4NTk2OA==
-  organizations_url: https://api.github.com/users/kiu/orgs
-  received_events_url: https://api.github.com/users/kiu/received_events
-  repos_url: https://api.github.com/users/kiu/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/kiu/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/kiu/subscriptions
-  type: User
-  url: https://api.github.com/users/kiu
-private: false
+links:
+  github_owner: kiu
+  github_repo_name: MiniHelmetTracker
+  github_src: https://github.com/kiu/MiniHelmetTracker
+  github_src_repo: https://github.com/kiu/MiniHelmetTracker
+  oomp_bot: kiu_minihelmettracker
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/kiu_minihelmettracker
+  oomp_doc: projects/kiu_minihelmettracker/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/kiu_minihelmettracker
+  oomp_src_flat: projects_flat/kiu_minihelmettracker
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/kiu_minihelmettracker
+  oomp_src_folder: projects_folder\kiu\MiniHelmetTracker\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\kiu\MiniHelmetTracker\version_current\working
+oomp_key: oomp_kiu_minihelmettracker
+oomp_key_simple: kiu_minihelmettracker
 projects_flat: projects_flat/kiu_minihelmettracker/version_current/working
 projects_folder: projects_folder/kiu/MiniHelmetTracker/version_current/working
-pulls_url: https://api.github.com/repos/kiu/MiniHelmetTracker/pulls{/number}
-pushed_at: '2022-09-13T09:38:02Z'
-releases_url: https://api.github.com/repos/kiu/MiniHelmetTracker/releases{/id}
-size: 15225
-ssh_url: git@github.com:kiu/MiniHelmetTracker.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/kiu/MiniHelmetTracker/stargazers
-statuses_url: https://api.github.com/repos/kiu/MiniHelmetTracker/statuses/{sha}
-subscribers_url: https://api.github.com/repos/kiu/MiniHelmetTracker/subscribers
-subscription_url: https://api.github.com/repos/kiu/MiniHelmetTracker/subscription
-svn_url: https://github.com/kiu/MiniHelmetTracker
-tags_url: https://api.github.com/repos/kiu/MiniHelmetTracker/tags
-teams_url: https://api.github.com/repos/kiu/MiniHelmetTracker/teams
-topics: []
-trees_url: https://api.github.com/repos/kiu/MiniHelmetTracker/git/trees{/sha}
-updated_at: '2022-09-11T19:12:56Z'
-url: https://api.github.com/repos/kiu/MiniHelmetTracker
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/kiu/MiniHelmetTracker/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/kiu/MiniHelmetTracker/assignees{/user}
+  blobs_url: https://api.github.com/repos/kiu/MiniHelmetTracker/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/kiu/MiniHelmetTracker/branches{/branch}
+  clone_url: https://github.com/kiu/MiniHelmetTracker.git
+  collaborators_url: https://api.github.com/repos/kiu/MiniHelmetTracker/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/kiu/MiniHelmetTracker/comments{/number}
+  commits_url: https://api.github.com/repos/kiu/MiniHelmetTracker/commits{/sha}
+  compare_url: https://api.github.com/repos/kiu/MiniHelmetTracker/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/kiu/MiniHelmetTracker/contents/{+path}
+  contributors_url: https://api.github.com/repos/kiu/MiniHelmetTracker/contributors
+  created_at: '2022-06-24T22:59:13Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/kiu/MiniHelmetTracker/deployments
+  description: MiniHelmetTracker - A  real-time standings table robot
+  disabled: false
+  downloads_url: https://api.github.com/repos/kiu/MiniHelmetTracker/downloads
+  events_url: https://api.github.com/repos/kiu/MiniHelmetTracker/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/kiu/MiniHelmetTracker/forks
+  full_name: kiu/MiniHelmetTracker
+  git_commits_url: https://api.github.com/repos/kiu/MiniHelmetTracker/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/kiu/MiniHelmetTracker/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/kiu/MiniHelmetTracker/git/tags{/sha}
+  git_url: git://github.com/kiu/MiniHelmetTracker.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: false
+  has_wiki: false
+  homepage: https://schoar.de/tinkering/MiniHelmetTracker
+  hooks_url: https://api.github.com/repos/kiu/MiniHelmetTracker/hooks
+  html_url: https://github.com/kiu/MiniHelmetTracker
+  id: 507163807
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/kiu/MiniHelmetTracker/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/kiu/MiniHelmetTracker/issues/events{/number}
+  issues_url: https://api.github.com/repos/kiu/MiniHelmetTracker/issues{/number}
+  keys_url: https://api.github.com/repos/kiu/MiniHelmetTracker/keys{/key_id}
+  labels_url: https://api.github.com/repos/kiu/MiniHelmetTracker/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/kiu/MiniHelmetTracker/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/kiu/MiniHelmetTracker/merges
+  milestones_url: https://api.github.com/repos/kiu/MiniHelmetTracker/milestones{/number}
+  mirror_url: null
+  name: MiniHelmetTracker
+  node_id: R_kgDOHjq0nw
+  notifications_url: https://api.github.com/repos/kiu/MiniHelmetTracker/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/785968?v=4
+    events_url: https://api.github.com/users/kiu/events{/privacy}
+    followers_url: https://api.github.com/users/kiu/followers
+    following_url: https://api.github.com/users/kiu/following{/other_user}
+    gists_url: https://api.github.com/users/kiu/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/kiu
+    id: 785968
+    login: kiu
+    node_id: MDQ6VXNlcjc4NTk2OA==
+    organizations_url: https://api.github.com/users/kiu/orgs
+    received_events_url: https://api.github.com/users/kiu/received_events
+    repos_url: https://api.github.com/users/kiu/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/kiu/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/kiu/subscriptions
+    type: User
+    url: https://api.github.com/users/kiu
+  private: false
+  pulls_url: https://api.github.com/repos/kiu/MiniHelmetTracker/pulls{/number}
+  pushed_at: '2022-09-13T09:38:02Z'
+  releases_url: https://api.github.com/repos/kiu/MiniHelmetTracker/releases{/id}
+  size: 15225
+  ssh_url: git@github.com:kiu/MiniHelmetTracker.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/kiu/MiniHelmetTracker/stargazers
+  statuses_url: https://api.github.com/repos/kiu/MiniHelmetTracker/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/kiu/MiniHelmetTracker/subscribers
+  subscription_url: https://api.github.com/repos/kiu/MiniHelmetTracker/subscription
+  svn_url: https://github.com/kiu/MiniHelmetTracker
+  tags_url: https://api.github.com/repos/kiu/MiniHelmetTracker/tags
+  teams_url: https://api.github.com/repos/kiu/MiniHelmetTracker/teams
+  topics: []
+  trees_url: https://api.github.com/repos/kiu/MiniHelmetTracker/git/trees{/sha}
+  updated_at: '2022-09-11T19:12:56Z'
+  url: https://api.github.com/repos/kiu/MiniHelmetTracker
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

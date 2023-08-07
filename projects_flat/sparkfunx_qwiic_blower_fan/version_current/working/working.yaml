@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/branches{/branch}
-clone_url: https://github.com/sparkfunX/Qwiic_Blower_Fan.git
-collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/comments{/number}
-commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/contributors
-created_at: '2021-06-24T19:30:53Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/deployments
-description: 2-Wire Controllable Nintendo Switch Cooling Fan Breakout
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/downloads
-events_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/forks
-full_name: sparkfunX/Qwiic_Blower_Fan
-git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/git/tags{/sha}
-git_url: git://github.com/sparkfunX/Qwiic_Blower_Fan.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/hooks
-html_url: https://github.com/sparkfunX/Qwiic_Blower_Fan
-id: 380031239
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/issues{/number}
-keys_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/merges
-milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/milestones{/number}
-mirror_url: null
-name: Qwiic_Blower_Fan
-node_id: MDEwOlJlcG9zaXRvcnkzODAwMzEyMzk=
-notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
-  events_url: https://api.github.com/users/sparkfunX/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfunX/followers
-  following_url: https://api.github.com/users/sparkfunX/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfunX
-  id: 25487355
-  login: sparkfunX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
-  organizations_url: https://api.github.com/users/sparkfunX/orgs
-  received_events_url: https://api.github.com/users/sparkfunX/received_events
-  repos_url: https://api.github.com/users/sparkfunX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfunX
-private: false
+links:
+  github_owner: sparkfunX
+  github_repo_name: Qwiic_Blower_Fan
+  github_src: https://github.com/sparkfunX/Qwiic_Blower_Fan
+  github_src_repo: https://github.com/sparkfunX/Qwiic_Blower_Fan
+  oomp_bot: projects_sparkfunx_qwiic_blower_fan
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfunx_qwiic_blower_fan
+  oomp_doc: projects/projects_flat_sparkfunx_qwiic_blower_fan/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfunx_qwiic_blower_fan
+  oomp_src_flat: projects_flat/projects_flat_sparkfunx_qwiic_blower_fan
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfunx_qwiic_blower_fan
+  oomp_src_folder: projects_flat\sparkfunx_qwiic_blower_fan\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfunx_qwiic_blower_fan\version_current\working
+oomp_key: oomp_projects_flat_sparkfunx_qwiic_blower_fan
+oomp_key_simple: projects_flat_sparkfunx_qwiic_blower_fan
 projects_flat: projects_flat/sparkfunx_qwiic_blower_fan/version_current/working
 projects_folder: projects_folder/sparkfunx/Qwiic_Blower_Fan/version_current/working
-pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/pulls{/number}
-pushed_at: '2022-01-12T05:06:34Z'
-releases_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/releases{/id}
-size: 2214
-ssh_url: git@github.com:sparkfunX/Qwiic_Blower_Fan.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/stargazers
-statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/subscribers
-subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/subscription
-svn_url: https://github.com/sparkfunX/Qwiic_Blower_Fan
-tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/tags
-teams_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/git/trees{/sha}
-updated_at: '2022-01-09T05:18:04Z'
-url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/branches{/branch}
+  clone_url: https://github.com/sparkfunX/Qwiic_Blower_Fan.git
+  collaborators_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/contributors
+  created_at: '2021-06-24T19:30:53Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/deployments
+  description: 2-Wire Controllable Nintendo Switch Cooling Fan Breakout
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/downloads
+  events_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/forks
+  full_name: sparkfunX/Qwiic_Blower_Fan
+  git_commits_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/git/tags{/sha}
+  git_url: git://github.com/sparkfunX/Qwiic_Blower_Fan.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/hooks
+  html_url: https://github.com/sparkfunX/Qwiic_Blower_Fan
+  id: 380031239
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/merges
+  milestones_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/milestones{/number}
+  mirror_url: null
+  name: Qwiic_Blower_Fan
+  node_id: MDEwOlJlcG9zaXRvcnkzODAwMzEyMzk=
+  notifications_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
+    events_url: https://api.github.com/users/sparkfunX/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfunX/followers
+    following_url: https://api.github.com/users/sparkfunX/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfunX
+    id: 25487355
+    login: sparkfunX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
+    organizations_url: https://api.github.com/users/sparkfunX/orgs
+    received_events_url: https://api.github.com/users/sparkfunX/received_events
+    repos_url: https://api.github.com/users/sparkfunX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfunX
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/pulls{/number}
+  pushed_at: '2022-01-12T05:06:34Z'
+  releases_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/releases{/id}
+  size: 2214
+  ssh_url: git@github.com:sparkfunX/Qwiic_Blower_Fan.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/stargazers
+  statuses_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/subscribers
+  subscription_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/subscription
+  svn_url: https://github.com/sparkfunX/Qwiic_Blower_Fan
+  tags_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/tags
+  teams_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan/git/trees{/sha}
+  updated_at: '2022-01-09T05:18:04Z'
+  url: https://api.github.com/repos/sparkfunX/Qwiic_Blower_Fan
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

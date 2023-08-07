@@ -1,99 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/LibreSolar/switch-n-sense/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/LibreSolar/switch-n-sense/assignees{/user}
-blobs_url: https://api.github.com/repos/LibreSolar/switch-n-sense/git/blobs{/sha}
-branches_url: https://api.github.com/repos/LibreSolar/switch-n-sense/branches{/branch}
-clone_url: https://github.com/LibreSolar/switch-n-sense.git
-collaborators_url: https://api.github.com/repos/LibreSolar/switch-n-sense/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/LibreSolar/switch-n-sense/comments{/number}
-commits_url: https://api.github.com/repos/LibreSolar/switch-n-sense/commits{/sha}
-compare_url: https://api.github.com/repos/LibreSolar/switch-n-sense/compare/{base}...{head}
-contents_url: https://api.github.com/repos/LibreSolar/switch-n-sense/contents/{+path}
-contributors_url: https://api.github.com/repos/LibreSolar/switch-n-sense/contributors
-created_at: '2016-08-15T10:18:40Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/LibreSolar/switch-n-sense/deployments
-description: High-side NMOS power switch and current sense resistor for battery applications
-disabled: false
-downloads_url: https://api.github.com/repos/LibreSolar/switch-n-sense/downloads
-events_url: https://api.github.com/repos/LibreSolar/switch-n-sense/events
-fork: false
-forks: 6
-forks_count: 6
-forks_url: https://api.github.com/repos/LibreSolar/switch-n-sense/forks
-full_name: LibreSolar/switch-n-sense
-git_commits_url: https://api.github.com/repos/LibreSolar/switch-n-sense/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/LibreSolar/switch-n-sense/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/LibreSolar/switch-n-sense/git/tags{/sha}
-git_url: git://github.com/LibreSolar/switch-n-sense.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/LibreSolar/switch-n-sense/hooks
-html_url: https://github.com/LibreSolar/switch-n-sense
-id: 65723800
-is_template: false
-issue_comment_url: https://api.github.com/repos/LibreSolar/switch-n-sense/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/LibreSolar/switch-n-sense/issues/events{/number}
-issues_url: https://api.github.com/repos/LibreSolar/switch-n-sense/issues{/number}
-keys_url: https://api.github.com/repos/LibreSolar/switch-n-sense/keys{/key_id}
-labels_url: https://api.github.com/repos/LibreSolar/switch-n-sense/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/LibreSolar/switch-n-sense/languages
-license: null
-merges_url: https://api.github.com/repos/LibreSolar/switch-n-sense/merges
-milestones_url: https://api.github.com/repos/LibreSolar/switch-n-sense/milestones{/number}
-mirror_url: null
-name: switch-n-sense
-node_id: MDEwOlJlcG9zaXRvcnk2NTcyMzgwMA==
-notifications_url: https://api.github.com/repos/LibreSolar/switch-n-sense/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/17674115?v=4
-  events_url: https://api.github.com/users/LibreSolar/events{/privacy}
-  followers_url: https://api.github.com/users/LibreSolar/followers
-  following_url: https://api.github.com/users/LibreSolar/following{/other_user}
-  gists_url: https://api.github.com/users/LibreSolar/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/LibreSolar
-  id: 17674115
-  login: LibreSolar
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE3Njc0MTE1
-  organizations_url: https://api.github.com/users/LibreSolar/orgs
-  received_events_url: https://api.github.com/users/LibreSolar/received_events
-  repos_url: https://api.github.com/users/LibreSolar/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/LibreSolar/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/LibreSolar/subscriptions
-  type: Organization
-  url: https://api.github.com/users/LibreSolar
-private: false
+links:
+  github_owner: LibreSolar
+  github_repo_name: switch-n-sense
+  github_src: https://github.com/LibreSolar/switch-n-sense
+  github_src_repo: https://github.com/LibreSolar/switch-n-sense
+  oomp_bot: projects_libresolar_switch_n_sense
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_libresolar_switch_n_sense
+  oomp_doc: projects/projects_flat_libresolar_switch_n_sense/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_libresolar_switch_n_sense
+  oomp_src_flat: projects_flat/projects_flat_libresolar_switch_n_sense
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_libresolar_switch_n_sense
+  oomp_src_folder: projects_flat\libresolar_switch_n_sense\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\libresolar_switch_n_sense\version_current\working
+oomp_key: oomp_projects_flat_libresolar_switch_n_sense
+oomp_key_simple: projects_flat_libresolar_switch_n_sense
 projects_flat: projects_flat/libresolar_switch_n_sense/version_current/working
 projects_folder: projects_folder/LibreSolar/switch-n-sense/version_current/working
-pulls_url: https://api.github.com/repos/LibreSolar/switch-n-sense/pulls{/number}
-pushed_at: '2017-05-27T10:43:57Z'
-releases_url: https://api.github.com/repos/LibreSolar/switch-n-sense/releases{/id}
-size: 314
-ssh_url: git@github.com:LibreSolar/switch-n-sense.git
-stargazers_count: 10
-stargazers_url: https://api.github.com/repos/LibreSolar/switch-n-sense/stargazers
-statuses_url: https://api.github.com/repos/LibreSolar/switch-n-sense/statuses/{sha}
-subscribers_url: https://api.github.com/repos/LibreSolar/switch-n-sense/subscribers
-subscription_url: https://api.github.com/repos/LibreSolar/switch-n-sense/subscription
-svn_url: https://github.com/LibreSolar/switch-n-sense
-tags_url: https://api.github.com/repos/LibreSolar/switch-n-sense/tags
-teams_url: https://api.github.com/repos/LibreSolar/switch-n-sense/teams
-topics: []
-trees_url: https://api.github.com/repos/LibreSolar/switch-n-sense/git/trees{/sha}
-updated_at: '2023-05-01T19:58:50Z'
-url: https://api.github.com/repos/LibreSolar/switch-n-sense
-visibility: public
-watchers: 10
-watchers_count: 10
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/LibreSolar/switch-n-sense/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/LibreSolar/switch-n-sense/assignees{/user}
+  blobs_url: https://api.github.com/repos/LibreSolar/switch-n-sense/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/LibreSolar/switch-n-sense/branches{/branch}
+  clone_url: https://github.com/LibreSolar/switch-n-sense.git
+  collaborators_url: https://api.github.com/repos/LibreSolar/switch-n-sense/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/LibreSolar/switch-n-sense/comments{/number}
+  commits_url: https://api.github.com/repos/LibreSolar/switch-n-sense/commits{/sha}
+  compare_url: https://api.github.com/repos/LibreSolar/switch-n-sense/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/LibreSolar/switch-n-sense/contents/{+path}
+  contributors_url: https://api.github.com/repos/LibreSolar/switch-n-sense/contributors
+  created_at: '2016-08-15T10:18:40Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/LibreSolar/switch-n-sense/deployments
+  description: High-side NMOS power switch and current sense resistor for battery
+    applications
+  disabled: false
+  downloads_url: https://api.github.com/repos/LibreSolar/switch-n-sense/downloads
+  events_url: https://api.github.com/repos/LibreSolar/switch-n-sense/events
+  fork: false
+  forks: 6
+  forks_count: 6
+  forks_url: https://api.github.com/repos/LibreSolar/switch-n-sense/forks
+  full_name: LibreSolar/switch-n-sense
+  git_commits_url: https://api.github.com/repos/LibreSolar/switch-n-sense/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/LibreSolar/switch-n-sense/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/LibreSolar/switch-n-sense/git/tags{/sha}
+  git_url: git://github.com/LibreSolar/switch-n-sense.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/LibreSolar/switch-n-sense/hooks
+  html_url: https://github.com/LibreSolar/switch-n-sense
+  id: 65723800
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/LibreSolar/switch-n-sense/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/LibreSolar/switch-n-sense/issues/events{/number}
+  issues_url: https://api.github.com/repos/LibreSolar/switch-n-sense/issues{/number}
+  keys_url: https://api.github.com/repos/LibreSolar/switch-n-sense/keys{/key_id}
+  labels_url: https://api.github.com/repos/LibreSolar/switch-n-sense/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/LibreSolar/switch-n-sense/languages
+  license: null
+  merges_url: https://api.github.com/repos/LibreSolar/switch-n-sense/merges
+  milestones_url: https://api.github.com/repos/LibreSolar/switch-n-sense/milestones{/number}
+  mirror_url: null
+  name: switch-n-sense
+  node_id: MDEwOlJlcG9zaXRvcnk2NTcyMzgwMA==
+  notifications_url: https://api.github.com/repos/LibreSolar/switch-n-sense/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/17674115?v=4
+    events_url: https://api.github.com/users/LibreSolar/events{/privacy}
+    followers_url: https://api.github.com/users/LibreSolar/followers
+    following_url: https://api.github.com/users/LibreSolar/following{/other_user}
+    gists_url: https://api.github.com/users/LibreSolar/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/LibreSolar
+    id: 17674115
+    login: LibreSolar
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE3Njc0MTE1
+    organizations_url: https://api.github.com/users/LibreSolar/orgs
+    received_events_url: https://api.github.com/users/LibreSolar/received_events
+    repos_url: https://api.github.com/users/LibreSolar/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/LibreSolar/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/LibreSolar/subscriptions
+    type: Organization
+    url: https://api.github.com/users/LibreSolar
+  private: false
+  pulls_url: https://api.github.com/repos/LibreSolar/switch-n-sense/pulls{/number}
+  pushed_at: '2017-05-27T10:43:57Z'
+  releases_url: https://api.github.com/repos/LibreSolar/switch-n-sense/releases{/id}
+  size: 314
+  ssh_url: git@github.com:LibreSolar/switch-n-sense.git
+  stargazers_count: 10
+  stargazers_url: https://api.github.com/repos/LibreSolar/switch-n-sense/stargazers
+  statuses_url: https://api.github.com/repos/LibreSolar/switch-n-sense/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/LibreSolar/switch-n-sense/subscribers
+  subscription_url: https://api.github.com/repos/LibreSolar/switch-n-sense/subscription
+  svn_url: https://github.com/LibreSolar/switch-n-sense
+  tags_url: https://api.github.com/repos/LibreSolar/switch-n-sense/tags
+  teams_url: https://api.github.com/repos/LibreSolar/switch-n-sense/teams
+  topics: []
+  trees_url: https://api.github.com/repos/LibreSolar/switch-n-sense/git/trees{/sha}
+  updated_at: '2023-05-01T19:58:50Z'
+  url: https://api.github.com/repos/LibreSolar/switch-n-sense
+  visibility: public
+  watchers: 10
+  watchers_count: 10
+  web_commit_signoff_required: false

@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Jeff-Russ/midi2cv/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Jeff-Russ/midi2cv/assignees{/user}
-blobs_url: https://api.github.com/repos/Jeff-Russ/midi2cv/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Jeff-Russ/midi2cv/branches{/branch}
-clone_url: https://github.com/Jeff-Russ/midi2cv.git
-collaborators_url: https://api.github.com/repos/Jeff-Russ/midi2cv/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Jeff-Russ/midi2cv/comments{/number}
-commits_url: https://api.github.com/repos/Jeff-Russ/midi2cv/commits{/sha}
-compare_url: https://api.github.com/repos/Jeff-Russ/midi2cv/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Jeff-Russ/midi2cv/contents/{+path}
-contributors_url: https://api.github.com/repos/Jeff-Russ/midi2cv/contributors
-created_at: '2018-08-08T00:03:01Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Jeff-Russ/midi2cv/deployments
-description: Arduino-based MIDI to CV converter
-disabled: false
-downloads_url: https://api.github.com/repos/Jeff-Russ/midi2cv/downloads
-events_url: https://api.github.com/repos/Jeff-Russ/midi2cv/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Jeff-Russ/midi2cv/forks
-full_name: Jeff-Russ/midi2cv
-git_commits_url: https://api.github.com/repos/Jeff-Russ/midi2cv/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Jeff-Russ/midi2cv/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Jeff-Russ/midi2cv/git/tags{/sha}
-git_url: git://github.com/Jeff-Russ/midi2cv.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Jeff-Russ/midi2cv/hooks
-html_url: https://github.com/Jeff-Russ/midi2cv
-id: 143939028
-is_template: false
-issue_comment_url: https://api.github.com/repos/Jeff-Russ/midi2cv/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Jeff-Russ/midi2cv/issues/events{/number}
-issues_url: https://api.github.com/repos/Jeff-Russ/midi2cv/issues{/number}
-keys_url: https://api.github.com/repos/Jeff-Russ/midi2cv/keys{/key_id}
-labels_url: https://api.github.com/repos/Jeff-Russ/midi2cv/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/Jeff-Russ/midi2cv/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/Jeff-Russ/midi2cv/merges
-milestones_url: https://api.github.com/repos/Jeff-Russ/midi2cv/milestones{/number}
-mirror_url: null
-name: midi2cv
-node_id: MDEwOlJlcG9zaXRvcnkxNDM5MzkwMjg=
-notifications_url: https://api.github.com/repos/Jeff-Russ/midi2cv/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6119723?v=4
-  events_url: https://api.github.com/users/Jeff-Russ/events{/privacy}
-  followers_url: https://api.github.com/users/Jeff-Russ/followers
-  following_url: https://api.github.com/users/Jeff-Russ/following{/other_user}
-  gists_url: https://api.github.com/users/Jeff-Russ/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Jeff-Russ
-  id: 6119723
-  login: Jeff-Russ
-  node_id: MDQ6VXNlcjYxMTk3MjM=
-  organizations_url: https://api.github.com/users/Jeff-Russ/orgs
-  received_events_url: https://api.github.com/users/Jeff-Russ/received_events
-  repos_url: https://api.github.com/users/Jeff-Russ/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Jeff-Russ/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Jeff-Russ/subscriptions
-  type: User
-  url: https://api.github.com/users/Jeff-Russ
-private: false
+links:
+  github_owner: Jeff-Russ
+  github_repo_name: midi2cv
+  github_src: https://github.com/Jeff-Russ/midi2cv
+  github_src_repo: https://github.com/Jeff-Russ/midi2cv
+  oomp_bot: jeff_russ_midi2cv
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/jeff_russ_midi2cv
+  oomp_doc: projects/jeff_russ_midi2cv/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/jeff_russ_midi2cv
+  oomp_src_flat: projects_flat/jeff_russ_midi2cv
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/jeff_russ_midi2cv
+  oomp_src_folder: projects_folder\Jeff-Russ\midi2cv\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\Jeff-Russ\midi2cv\version_current\working
+oomp_key: oomp_jeff_russ_midi2cv
+oomp_key_simple: jeff_russ_midi2cv
 projects_flat: projects_flat/jeff_russ_midi2cv/version_current/working
 projects_folder: projects_folder/Jeff-Russ/midi2cv/version_current/working
-pulls_url: https://api.github.com/repos/Jeff-Russ/midi2cv/pulls{/number}
-pushed_at: '2018-08-09T04:27:51Z'
-releases_url: https://api.github.com/repos/Jeff-Russ/midi2cv/releases{/id}
-size: 1577
-ssh_url: git@github.com:Jeff-Russ/midi2cv.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Jeff-Russ/midi2cv/stargazers
-statuses_url: https://api.github.com/repos/Jeff-Russ/midi2cv/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Jeff-Russ/midi2cv/subscribers
-subscription_url: https://api.github.com/repos/Jeff-Russ/midi2cv/subscription
-svn_url: https://github.com/Jeff-Russ/midi2cv
-tags_url: https://api.github.com/repos/Jeff-Russ/midi2cv/tags
-teams_url: https://api.github.com/repos/Jeff-Russ/midi2cv/teams
-topics: []
-trees_url: https://api.github.com/repos/Jeff-Russ/midi2cv/git/trees{/sha}
-updated_at: '2018-08-08T07:21:44Z'
-url: https://api.github.com/repos/Jeff-Russ/midi2cv
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Jeff-Russ/midi2cv/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Jeff-Russ/midi2cv/assignees{/user}
+  blobs_url: https://api.github.com/repos/Jeff-Russ/midi2cv/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Jeff-Russ/midi2cv/branches{/branch}
+  clone_url: https://github.com/Jeff-Russ/midi2cv.git
+  collaborators_url: https://api.github.com/repos/Jeff-Russ/midi2cv/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Jeff-Russ/midi2cv/comments{/number}
+  commits_url: https://api.github.com/repos/Jeff-Russ/midi2cv/commits{/sha}
+  compare_url: https://api.github.com/repos/Jeff-Russ/midi2cv/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Jeff-Russ/midi2cv/contents/{+path}
+  contributors_url: https://api.github.com/repos/Jeff-Russ/midi2cv/contributors
+  created_at: '2018-08-08T00:03:01Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Jeff-Russ/midi2cv/deployments
+  description: Arduino-based MIDI to CV converter
+  disabled: false
+  downloads_url: https://api.github.com/repos/Jeff-Russ/midi2cv/downloads
+  events_url: https://api.github.com/repos/Jeff-Russ/midi2cv/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Jeff-Russ/midi2cv/forks
+  full_name: Jeff-Russ/midi2cv
+  git_commits_url: https://api.github.com/repos/Jeff-Russ/midi2cv/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Jeff-Russ/midi2cv/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Jeff-Russ/midi2cv/git/tags{/sha}
+  git_url: git://github.com/Jeff-Russ/midi2cv.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Jeff-Russ/midi2cv/hooks
+  html_url: https://github.com/Jeff-Russ/midi2cv
+  id: 143939028
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Jeff-Russ/midi2cv/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Jeff-Russ/midi2cv/issues/events{/number}
+  issues_url: https://api.github.com/repos/Jeff-Russ/midi2cv/issues{/number}
+  keys_url: https://api.github.com/repos/Jeff-Russ/midi2cv/keys{/key_id}
+  labels_url: https://api.github.com/repos/Jeff-Russ/midi2cv/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/Jeff-Russ/midi2cv/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/Jeff-Russ/midi2cv/merges
+  milestones_url: https://api.github.com/repos/Jeff-Russ/midi2cv/milestones{/number}
+  mirror_url: null
+  name: midi2cv
+  node_id: MDEwOlJlcG9zaXRvcnkxNDM5MzkwMjg=
+  notifications_url: https://api.github.com/repos/Jeff-Russ/midi2cv/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6119723?v=4
+    events_url: https://api.github.com/users/Jeff-Russ/events{/privacy}
+    followers_url: https://api.github.com/users/Jeff-Russ/followers
+    following_url: https://api.github.com/users/Jeff-Russ/following{/other_user}
+    gists_url: https://api.github.com/users/Jeff-Russ/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Jeff-Russ
+    id: 6119723
+    login: Jeff-Russ
+    node_id: MDQ6VXNlcjYxMTk3MjM=
+    organizations_url: https://api.github.com/users/Jeff-Russ/orgs
+    received_events_url: https://api.github.com/users/Jeff-Russ/received_events
+    repos_url: https://api.github.com/users/Jeff-Russ/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Jeff-Russ/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Jeff-Russ/subscriptions
+    type: User
+    url: https://api.github.com/users/Jeff-Russ
+  private: false
+  pulls_url: https://api.github.com/repos/Jeff-Russ/midi2cv/pulls{/number}
+  pushed_at: '2018-08-09T04:27:51Z'
+  releases_url: https://api.github.com/repos/Jeff-Russ/midi2cv/releases{/id}
+  size: 1577
+  ssh_url: git@github.com:Jeff-Russ/midi2cv.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Jeff-Russ/midi2cv/stargazers
+  statuses_url: https://api.github.com/repos/Jeff-Russ/midi2cv/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Jeff-Russ/midi2cv/subscribers
+  subscription_url: https://api.github.com/repos/Jeff-Russ/midi2cv/subscription
+  svn_url: https://github.com/Jeff-Russ/midi2cv
+  tags_url: https://api.github.com/repos/Jeff-Russ/midi2cv/tags
+  teams_url: https://api.github.com/repos/Jeff-Russ/midi2cv/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Jeff-Russ/midi2cv/git/trees{/sha}
+  updated_at: '2018-08-08T07:21:44Z'
+  url: https://api.github.com/repos/Jeff-Russ/midi2cv
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

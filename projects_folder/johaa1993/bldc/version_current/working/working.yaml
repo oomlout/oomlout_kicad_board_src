@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/johaa1993/bldc/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/johaa1993/bldc/assignees{/user}
-blobs_url: https://api.github.com/repos/johaa1993/bldc/git/blobs{/sha}
-branches_url: https://api.github.com/repos/johaa1993/bldc/branches{/branch}
-clone_url: https://github.com/johaa1993/bldc.git
-collaborators_url: https://api.github.com/repos/johaa1993/bldc/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/johaa1993/bldc/comments{/number}
-commits_url: https://api.github.com/repos/johaa1993/bldc/commits{/sha}
-compare_url: https://api.github.com/repos/johaa1993/bldc/compare/{base}...{head}
-contents_url: https://api.github.com/repos/johaa1993/bldc/contents/{+path}
-contributors_url: https://api.github.com/repos/johaa1993/bldc/contributors
-created_at: '2016-12-16T10:15:05Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/johaa1993/bldc/deployments
-description: Brushless DC Motor controller from Benjamin Vedder
-disabled: false
-downloads_url: https://api.github.com/repos/johaa1993/bldc/downloads
-events_url: https://api.github.com/repos/johaa1993/bldc/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/johaa1993/bldc/forks
-full_name: johaa1993/bldc
-git_commits_url: https://api.github.com/repos/johaa1993/bldc/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/johaa1993/bldc/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/johaa1993/bldc/git/tags{/sha}
-git_url: git://github.com/johaa1993/bldc.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/johaa1993/bldc/hooks
-html_url: https://github.com/johaa1993/bldc
-id: 76643938
-is_template: false
-issue_comment_url: https://api.github.com/repos/johaa1993/bldc/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/johaa1993/bldc/issues/events{/number}
-issues_url: https://api.github.com/repos/johaa1993/bldc/issues{/number}
-keys_url: https://api.github.com/repos/johaa1993/bldc/keys{/key_id}
-labels_url: https://api.github.com/repos/johaa1993/bldc/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/johaa1993/bldc/languages
-license: null
-merges_url: https://api.github.com/repos/johaa1993/bldc/merges
-milestones_url: https://api.github.com/repos/johaa1993/bldc/milestones{/number}
-mirror_url: null
-name: bldc
-node_id: MDEwOlJlcG9zaXRvcnk3NjY0MzkzOA==
-notifications_url: https://api.github.com/repos/johaa1993/bldc/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1297510?v=4
-  events_url: https://api.github.com/users/johaa1993/events{/privacy}
-  followers_url: https://api.github.com/users/johaa1993/followers
-  following_url: https://api.github.com/users/johaa1993/following{/other_user}
-  gists_url: https://api.github.com/users/johaa1993/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/johaa1993
-  id: 1297510
-  login: johaa1993
-  node_id: MDQ6VXNlcjEyOTc1MTA=
-  organizations_url: https://api.github.com/users/johaa1993/orgs
-  received_events_url: https://api.github.com/users/johaa1993/received_events
-  repos_url: https://api.github.com/users/johaa1993/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/johaa1993/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/johaa1993/subscriptions
-  type: User
-  url: https://api.github.com/users/johaa1993
-private: false
+links:
+  github_owner: johaa1993
+  github_repo_name: bldc
+  github_src: https://github.com/johaa1993/bldc
+  github_src_repo: https://github.com/johaa1993/bldc
+  oomp_bot: johaa1993_bldc
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/johaa1993_bldc
+  oomp_doc: projects/johaa1993_bldc/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/johaa1993_bldc
+  oomp_src_flat: projects_flat/johaa1993_bldc
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/johaa1993_bldc
+  oomp_src_folder: projects_folder\johaa1993\bldc\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\johaa1993\bldc\version_current\working
+oomp_key: oomp_johaa1993_bldc
+oomp_key_simple: johaa1993_bldc
 projects_flat: projects_flat/johaa1993_bldc/version_current/working
 projects_folder: projects_folder/johaa1993/bldc/version_current/working
-pulls_url: https://api.github.com/repos/johaa1993/bldc/pulls{/number}
-pushed_at: '2014-09-09T21:31:47Z'
-releases_url: https://api.github.com/repos/johaa1993/bldc/releases{/id}
-size: 27411
-ssh_url: git@github.com:johaa1993/bldc.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/johaa1993/bldc/stargazers
-statuses_url: https://api.github.com/repos/johaa1993/bldc/statuses/{sha}
-subscribers_url: https://api.github.com/repos/johaa1993/bldc/subscribers
-subscription_url: https://api.github.com/repos/johaa1993/bldc/subscription
-svn_url: https://github.com/johaa1993/bldc
-tags_url: https://api.github.com/repos/johaa1993/bldc/tags
-teams_url: https://api.github.com/repos/johaa1993/bldc/teams
-topics: []
-trees_url: https://api.github.com/repos/johaa1993/bldc/git/trees{/sha}
-updated_at: '2016-12-16T10:15:08Z'
-url: https://api.github.com/repos/johaa1993/bldc
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/johaa1993/bldc/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/johaa1993/bldc/assignees{/user}
+  blobs_url: https://api.github.com/repos/johaa1993/bldc/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/johaa1993/bldc/branches{/branch}
+  clone_url: https://github.com/johaa1993/bldc.git
+  collaborators_url: https://api.github.com/repos/johaa1993/bldc/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/johaa1993/bldc/comments{/number}
+  commits_url: https://api.github.com/repos/johaa1993/bldc/commits{/sha}
+  compare_url: https://api.github.com/repos/johaa1993/bldc/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/johaa1993/bldc/contents/{+path}
+  contributors_url: https://api.github.com/repos/johaa1993/bldc/contributors
+  created_at: '2016-12-16T10:15:05Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/johaa1993/bldc/deployments
+  description: Brushless DC Motor controller from Benjamin Vedder
+  disabled: false
+  downloads_url: https://api.github.com/repos/johaa1993/bldc/downloads
+  events_url: https://api.github.com/repos/johaa1993/bldc/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/johaa1993/bldc/forks
+  full_name: johaa1993/bldc
+  git_commits_url: https://api.github.com/repos/johaa1993/bldc/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/johaa1993/bldc/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/johaa1993/bldc/git/tags{/sha}
+  git_url: git://github.com/johaa1993/bldc.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/johaa1993/bldc/hooks
+  html_url: https://github.com/johaa1993/bldc
+  id: 76643938
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/johaa1993/bldc/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/johaa1993/bldc/issues/events{/number}
+  issues_url: https://api.github.com/repos/johaa1993/bldc/issues{/number}
+  keys_url: https://api.github.com/repos/johaa1993/bldc/keys{/key_id}
+  labels_url: https://api.github.com/repos/johaa1993/bldc/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/johaa1993/bldc/languages
+  license: null
+  merges_url: https://api.github.com/repos/johaa1993/bldc/merges
+  milestones_url: https://api.github.com/repos/johaa1993/bldc/milestones{/number}
+  mirror_url: null
+  name: bldc
+  node_id: MDEwOlJlcG9zaXRvcnk3NjY0MzkzOA==
+  notifications_url: https://api.github.com/repos/johaa1993/bldc/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1297510?v=4
+    events_url: https://api.github.com/users/johaa1993/events{/privacy}
+    followers_url: https://api.github.com/users/johaa1993/followers
+    following_url: https://api.github.com/users/johaa1993/following{/other_user}
+    gists_url: https://api.github.com/users/johaa1993/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/johaa1993
+    id: 1297510
+    login: johaa1993
+    node_id: MDQ6VXNlcjEyOTc1MTA=
+    organizations_url: https://api.github.com/users/johaa1993/orgs
+    received_events_url: https://api.github.com/users/johaa1993/received_events
+    repos_url: https://api.github.com/users/johaa1993/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/johaa1993/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/johaa1993/subscriptions
+    type: User
+    url: https://api.github.com/users/johaa1993
+  private: false
+  pulls_url: https://api.github.com/repos/johaa1993/bldc/pulls{/number}
+  pushed_at: '2014-09-09T21:31:47Z'
+  releases_url: https://api.github.com/repos/johaa1993/bldc/releases{/id}
+  size: 27411
+  ssh_url: git@github.com:johaa1993/bldc.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/johaa1993/bldc/stargazers
+  statuses_url: https://api.github.com/repos/johaa1993/bldc/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/johaa1993/bldc/subscribers
+  subscription_url: https://api.github.com/repos/johaa1993/bldc/subscription
+  svn_url: https://github.com/johaa1993/bldc
+  tags_url: https://api.github.com/repos/johaa1993/bldc/tags
+  teams_url: https://api.github.com/repos/johaa1993/bldc/teams
+  topics: []
+  trees_url: https://api.github.com/repos/johaa1993/bldc/git/trees{/sha}
+  updated_at: '2016-12-16T10:15:08Z'
+  url: https://api.github.com/repos/johaa1993/bldc
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

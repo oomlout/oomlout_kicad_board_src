@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/assignees{/user}
-blobs_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/branches{/branch}
-clone_url: https://github.com/Toroid-io/drone-kicad-sample.git
-collaborators_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/comments{/number}
-commits_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/commits{/sha}
-compare_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/contents/{+path}
-contributors_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/contributors
-created_at: '2018-10-09T23:05:27Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/deployments
-description: Demo board for the drone-kicad plugin
-disabled: false
-downloads_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/downloads
-events_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/forks
-full_name: Toroid-io/drone-kicad-sample
-git_commits_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/git/tags{/sha}
-git_url: git://github.com/Toroid-io/drone-kicad-sample.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/hooks
-html_url: https://github.com/Toroid-io/drone-kicad-sample
-id: 152332894
-is_template: false
-issue_comment_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/issues/events{/number}
-issues_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/issues{/number}
-keys_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/keys{/key_id}
-labels_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/languages
-license: null
-merges_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/merges
-milestones_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/milestones{/number}
-mirror_url: null
-name: drone-kicad-sample
-node_id: MDEwOlJlcG9zaXRvcnkxNTIzMzI4OTQ=
-notifications_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/27782320?v=4
-  events_url: https://api.github.com/users/Toroid-io/events{/privacy}
-  followers_url: https://api.github.com/users/Toroid-io/followers
-  following_url: https://api.github.com/users/Toroid-io/following{/other_user}
-  gists_url: https://api.github.com/users/Toroid-io/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Toroid-io
-  id: 27782320
-  login: Toroid-io
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI3NzgyMzIw
-  organizations_url: https://api.github.com/users/Toroid-io/orgs
-  received_events_url: https://api.github.com/users/Toroid-io/received_events
-  repos_url: https://api.github.com/users/Toroid-io/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Toroid-io/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Toroid-io/subscriptions
-  type: Organization
-  url: https://api.github.com/users/Toroid-io
-private: false
+links:
+  github_owner: Toroid-io
+  github_repo_name: drone-kicad-sample
+  github_src: https://github.com/Toroid-io/drone-kicad-sample
+  github_src_repo: https://github.com/Toroid-io/drone-kicad-sample
+  oomp_bot: projects_toroid_io_drone_kicad_sample
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_toroid_io_drone_kicad_sample
+  oomp_doc: projects/projects_flat_toroid_io_drone_kicad_sample/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_toroid_io_drone_kicad_sample
+  oomp_src_flat: projects_flat/projects_flat_toroid_io_drone_kicad_sample
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_toroid_io_drone_kicad_sample
+  oomp_src_folder: projects_flat\toroid_io_drone_kicad_sample\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\toroid_io_drone_kicad_sample\version_current\working
+oomp_key: oomp_projects_flat_toroid_io_drone_kicad_sample
+oomp_key_simple: projects_flat_toroid_io_drone_kicad_sample
 projects_flat: projects_flat/toroid_io_drone_kicad_sample/version_current/working
 projects_folder: projects_folder/Toroid-io/drone-kicad-sample/version_current/working
-pulls_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/pulls{/number}
-pushed_at: '2018-12-05T18:30:49Z'
-releases_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/releases{/id}
-size: 26
-ssh_url: git@github.com:Toroid-io/drone-kicad-sample.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/stargazers
-statuses_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/subscribers
-subscription_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/subscription
-svn_url: https://github.com/Toroid-io/drone-kicad-sample
-tags_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/tags
-teams_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/teams
-topics: []
-trees_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/git/trees{/sha}
-updated_at: '2018-12-05T18:30:51Z'
-url: https://api.github.com/repos/Toroid-io/drone-kicad-sample
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/assignees{/user}
+  blobs_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/branches{/branch}
+  clone_url: https://github.com/Toroid-io/drone-kicad-sample.git
+  collaborators_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/comments{/number}
+  commits_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/commits{/sha}
+  compare_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/contents/{+path}
+  contributors_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/contributors
+  created_at: '2018-10-09T23:05:27Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/deployments
+  description: Demo board for the drone-kicad plugin
+  disabled: false
+  downloads_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/downloads
+  events_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/forks
+  full_name: Toroid-io/drone-kicad-sample
+  git_commits_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/git/tags{/sha}
+  git_url: git://github.com/Toroid-io/drone-kicad-sample.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/hooks
+  html_url: https://github.com/Toroid-io/drone-kicad-sample
+  id: 152332894
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/issues/events{/number}
+  issues_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/issues{/number}
+  keys_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/keys{/key_id}
+  labels_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/languages
+  license: null
+  merges_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/merges
+  milestones_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/milestones{/number}
+  mirror_url: null
+  name: drone-kicad-sample
+  node_id: MDEwOlJlcG9zaXRvcnkxNTIzMzI4OTQ=
+  notifications_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/27782320?v=4
+    events_url: https://api.github.com/users/Toroid-io/events{/privacy}
+    followers_url: https://api.github.com/users/Toroid-io/followers
+    following_url: https://api.github.com/users/Toroid-io/following{/other_user}
+    gists_url: https://api.github.com/users/Toroid-io/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Toroid-io
+    id: 27782320
+    login: Toroid-io
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI3NzgyMzIw
+    organizations_url: https://api.github.com/users/Toroid-io/orgs
+    received_events_url: https://api.github.com/users/Toroid-io/received_events
+    repos_url: https://api.github.com/users/Toroid-io/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Toroid-io/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Toroid-io/subscriptions
+    type: Organization
+    url: https://api.github.com/users/Toroid-io
+  private: false
+  pulls_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/pulls{/number}
+  pushed_at: '2018-12-05T18:30:49Z'
+  releases_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/releases{/id}
+  size: 26
+  ssh_url: git@github.com:Toroid-io/drone-kicad-sample.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/stargazers
+  statuses_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/subscribers
+  subscription_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/subscription
+  svn_url: https://github.com/Toroid-io/drone-kicad-sample
+  tags_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/tags
+  teams_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Toroid-io/drone-kicad-sample/git/trees{/sha}
+  updated_at: '2018-12-05T18:30:51Z'
+  url: https://api.github.com/repos/Toroid-io/drone-kicad-sample
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

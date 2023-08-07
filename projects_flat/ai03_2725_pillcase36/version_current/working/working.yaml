@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ai03-2725/pillcase36/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ai03-2725/pillcase36/assignees{/user}
-blobs_url: https://api.github.com/repos/ai03-2725/pillcase36/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ai03-2725/pillcase36/branches{/branch}
-clone_url: https://github.com/ai03-2725/pillcase36.git
-collaborators_url: https://api.github.com/repos/ai03-2725/pillcase36/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ai03-2725/pillcase36/comments{/number}
-commits_url: https://api.github.com/repos/ai03-2725/pillcase36/commits{/sha}
-compare_url: https://api.github.com/repos/ai03-2725/pillcase36/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ai03-2725/pillcase36/contents/{+path}
-contributors_url: https://api.github.com/repos/ai03-2725/pillcase36/contributors
-created_at: '2018-08-31T09:04:07Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ai03-2725/pillcase36/deployments
-description: A development keyboard for ARM Firmware with blackpill STM32F103.
-disabled: false
-downloads_url: https://api.github.com/repos/ai03-2725/pillcase36/downloads
-events_url: https://api.github.com/repos/ai03-2725/pillcase36/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ai03-2725/pillcase36/forks
-full_name: ai03-2725/pillcase36
-git_commits_url: https://api.github.com/repos/ai03-2725/pillcase36/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ai03-2725/pillcase36/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ai03-2725/pillcase36/git/tags{/sha}
-git_url: git://github.com/ai03-2725/pillcase36.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ai03-2725/pillcase36/hooks
-html_url: https://github.com/ai03-2725/pillcase36
-id: 146868159
-is_template: false
-issue_comment_url: https://api.github.com/repos/ai03-2725/pillcase36/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ai03-2725/pillcase36/issues/events{/number}
-issues_url: https://api.github.com/repos/ai03-2725/pillcase36/issues{/number}
-keys_url: https://api.github.com/repos/ai03-2725/pillcase36/keys{/key_id}
-labels_url: https://api.github.com/repos/ai03-2725/pillcase36/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ai03-2725/pillcase36/languages
-license: null
-merges_url: https://api.github.com/repos/ai03-2725/pillcase36/merges
-milestones_url: https://api.github.com/repos/ai03-2725/pillcase36/milestones{/number}
-mirror_url: null
-name: pillcase36
-node_id: MDEwOlJlcG9zaXRvcnkxNDY4NjgxNTk=
-notifications_url: https://api.github.com/repos/ai03-2725/pillcase36/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/26614352?v=4
-  events_url: https://api.github.com/users/ai03-2725/events{/privacy}
-  followers_url: https://api.github.com/users/ai03-2725/followers
-  following_url: https://api.github.com/users/ai03-2725/following{/other_user}
-  gists_url: https://api.github.com/users/ai03-2725/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ai03-2725
-  id: 26614352
-  login: ai03-2725
-  node_id: MDQ6VXNlcjI2NjE0MzUy
-  organizations_url: https://api.github.com/users/ai03-2725/orgs
-  received_events_url: https://api.github.com/users/ai03-2725/received_events
-  repos_url: https://api.github.com/users/ai03-2725/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ai03-2725/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ai03-2725/subscriptions
-  type: User
-  url: https://api.github.com/users/ai03-2725
-private: false
+links:
+  github_owner: ai03-2725
+  github_repo_name: pillcase36
+  github_src: https://github.com/ai03-2725/pillcase36
+  github_src_repo: https://github.com/ai03-2725/pillcase36
+  oomp_bot: projects_ai03_2725_pillcase36
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_ai03_2725_pillcase36
+  oomp_doc: projects/projects_flat_ai03_2725_pillcase36/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_ai03_2725_pillcase36
+  oomp_src_flat: projects_flat/projects_flat_ai03_2725_pillcase36
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_ai03_2725_pillcase36
+  oomp_src_folder: projects_flat\ai03_2725_pillcase36\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\ai03_2725_pillcase36\version_current\working
+oomp_key: oomp_projects_flat_ai03_2725_pillcase36
+oomp_key_simple: projects_flat_ai03_2725_pillcase36
 projects_flat: projects_flat/ai03_2725_pillcase36/version_current/working
 projects_folder: projects_folder/ai03-2725/pillcase36/version_current/working
-pulls_url: https://api.github.com/repos/ai03-2725/pillcase36/pulls{/number}
-pushed_at: '2018-08-31T15:19:33Z'
-releases_url: https://api.github.com/repos/ai03-2725/pillcase36/releases{/id}
-size: 1095
-ssh_url: git@github.com:ai03-2725/pillcase36.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/ai03-2725/pillcase36/stargazers
-statuses_url: https://api.github.com/repos/ai03-2725/pillcase36/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ai03-2725/pillcase36/subscribers
-subscription_url: https://api.github.com/repos/ai03-2725/pillcase36/subscription
-svn_url: https://github.com/ai03-2725/pillcase36
-tags_url: https://api.github.com/repos/ai03-2725/pillcase36/tags
-teams_url: https://api.github.com/repos/ai03-2725/pillcase36/teams
-topics: []
-trees_url: https://api.github.com/repos/ai03-2725/pillcase36/git/trees{/sha}
-updated_at: '2020-05-29T22:04:07Z'
-url: https://api.github.com/repos/ai03-2725/pillcase36
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ai03-2725/pillcase36/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ai03-2725/pillcase36/assignees{/user}
+  blobs_url: https://api.github.com/repos/ai03-2725/pillcase36/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ai03-2725/pillcase36/branches{/branch}
+  clone_url: https://github.com/ai03-2725/pillcase36.git
+  collaborators_url: https://api.github.com/repos/ai03-2725/pillcase36/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ai03-2725/pillcase36/comments{/number}
+  commits_url: https://api.github.com/repos/ai03-2725/pillcase36/commits{/sha}
+  compare_url: https://api.github.com/repos/ai03-2725/pillcase36/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ai03-2725/pillcase36/contents/{+path}
+  contributors_url: https://api.github.com/repos/ai03-2725/pillcase36/contributors
+  created_at: '2018-08-31T09:04:07Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ai03-2725/pillcase36/deployments
+  description: A development keyboard for ARM Firmware with blackpill STM32F103.
+  disabled: false
+  downloads_url: https://api.github.com/repos/ai03-2725/pillcase36/downloads
+  events_url: https://api.github.com/repos/ai03-2725/pillcase36/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ai03-2725/pillcase36/forks
+  full_name: ai03-2725/pillcase36
+  git_commits_url: https://api.github.com/repos/ai03-2725/pillcase36/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ai03-2725/pillcase36/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ai03-2725/pillcase36/git/tags{/sha}
+  git_url: git://github.com/ai03-2725/pillcase36.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ai03-2725/pillcase36/hooks
+  html_url: https://github.com/ai03-2725/pillcase36
+  id: 146868159
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ai03-2725/pillcase36/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ai03-2725/pillcase36/issues/events{/number}
+  issues_url: https://api.github.com/repos/ai03-2725/pillcase36/issues{/number}
+  keys_url: https://api.github.com/repos/ai03-2725/pillcase36/keys{/key_id}
+  labels_url: https://api.github.com/repos/ai03-2725/pillcase36/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ai03-2725/pillcase36/languages
+  license: null
+  merges_url: https://api.github.com/repos/ai03-2725/pillcase36/merges
+  milestones_url: https://api.github.com/repos/ai03-2725/pillcase36/milestones{/number}
+  mirror_url: null
+  name: pillcase36
+  node_id: MDEwOlJlcG9zaXRvcnkxNDY4NjgxNTk=
+  notifications_url: https://api.github.com/repos/ai03-2725/pillcase36/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/26614352?v=4
+    events_url: https://api.github.com/users/ai03-2725/events{/privacy}
+    followers_url: https://api.github.com/users/ai03-2725/followers
+    following_url: https://api.github.com/users/ai03-2725/following{/other_user}
+    gists_url: https://api.github.com/users/ai03-2725/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ai03-2725
+    id: 26614352
+    login: ai03-2725
+    node_id: MDQ6VXNlcjI2NjE0MzUy
+    organizations_url: https://api.github.com/users/ai03-2725/orgs
+    received_events_url: https://api.github.com/users/ai03-2725/received_events
+    repos_url: https://api.github.com/users/ai03-2725/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ai03-2725/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ai03-2725/subscriptions
+    type: User
+    url: https://api.github.com/users/ai03-2725
+  private: false
+  pulls_url: https://api.github.com/repos/ai03-2725/pillcase36/pulls{/number}
+  pushed_at: '2018-08-31T15:19:33Z'
+  releases_url: https://api.github.com/repos/ai03-2725/pillcase36/releases{/id}
+  size: 1095
+  ssh_url: git@github.com:ai03-2725/pillcase36.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/ai03-2725/pillcase36/stargazers
+  statuses_url: https://api.github.com/repos/ai03-2725/pillcase36/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ai03-2725/pillcase36/subscribers
+  subscription_url: https://api.github.com/repos/ai03-2725/pillcase36/subscription
+  svn_url: https://github.com/ai03-2725/pillcase36
+  tags_url: https://api.github.com/repos/ai03-2725/pillcase36/tags
+  teams_url: https://api.github.com/repos/ai03-2725/pillcase36/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ai03-2725/pillcase36/git/trees{/sha}
+  updated_at: '2020-05-29T22:04:07Z'
+  url: https://api.github.com/repos/ai03-2725/pillcase36
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

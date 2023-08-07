@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/jerkey/kicad-source-mirror/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/jerkey/kicad-source-mirror/assignees{/user}
-blobs_url: https://api.github.com/repos/jerkey/kicad-source-mirror/git/blobs{/sha}
-branches_url: https://api.github.com/repos/jerkey/kicad-source-mirror/branches{/branch}
-clone_url: https://github.com/jerkey/kicad-source-mirror.git
-collaborators_url: https://api.github.com/repos/jerkey/kicad-source-mirror/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/jerkey/kicad-source-mirror/comments{/number}
-commits_url: https://api.github.com/repos/jerkey/kicad-source-mirror/commits{/sha}
-compare_url: https://api.github.com/repos/jerkey/kicad-source-mirror/compare/{base}...{head}
-contents_url: https://api.github.com/repos/jerkey/kicad-source-mirror/contents/{+path}
-contributors_url: https://api.github.com/repos/jerkey/kicad-source-mirror/contributors
-created_at: '2015-03-11T06:05:45Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/jerkey/kicad-source-mirror/deployments
-description: A mirror of the KiCad development branch, which is hosted at launchpad
-  using bzr (updated every 10 minutes)
-disabled: false
-downloads_url: https://api.github.com/repos/jerkey/kicad-source-mirror/downloads
-events_url: https://api.github.com/repos/jerkey/kicad-source-mirror/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/jerkey/kicad-source-mirror/forks
-full_name: jerkey/kicad-source-mirror
-git_commits_url: https://api.github.com/repos/jerkey/kicad-source-mirror/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/jerkey/kicad-source-mirror/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/jerkey/kicad-source-mirror/git/tags{/sha}
-git_url: git://github.com/jerkey/kicad-source-mirror.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: http://launchpad.net/kicad
-hooks_url: https://api.github.com/repos/jerkey/kicad-source-mirror/hooks
-html_url: https://github.com/jerkey/kicad-source-mirror
-id: 32001306
-is_template: false
-issue_comment_url: https://api.github.com/repos/jerkey/kicad-source-mirror/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/jerkey/kicad-source-mirror/issues/events{/number}
-issues_url: https://api.github.com/repos/jerkey/kicad-source-mirror/issues{/number}
-keys_url: https://api.github.com/repos/jerkey/kicad-source-mirror/keys{/key_id}
-labels_url: https://api.github.com/repos/jerkey/kicad-source-mirror/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/jerkey/kicad-source-mirror/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/jerkey/kicad-source-mirror/merges
-milestones_url: https://api.github.com/repos/jerkey/kicad-source-mirror/milestones{/number}
-mirror_url: null
-name: kicad-source-mirror
-node_id: MDEwOlJlcG9zaXRvcnkzMjAwMTMwNg==
-notifications_url: https://api.github.com/repos/jerkey/kicad-source-mirror/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1930655?v=4
-  events_url: https://api.github.com/users/jerkey/events{/privacy}
-  followers_url: https://api.github.com/users/jerkey/followers
-  following_url: https://api.github.com/users/jerkey/following{/other_user}
-  gists_url: https://api.github.com/users/jerkey/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/jerkey
-  id: 1930655
-  login: jerkey
-  node_id: MDQ6VXNlcjE5MzA2NTU=
-  organizations_url: https://api.github.com/users/jerkey/orgs
-  received_events_url: https://api.github.com/users/jerkey/received_events
-  repos_url: https://api.github.com/users/jerkey/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/jerkey/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/jerkey/subscriptions
-  type: User
-  url: https://api.github.com/users/jerkey
-private: false
+links:
+  github_owner: jerkey
+  github_repo_name: kicad-source-mirror
+  github_src: https://github.com/jerkey/kicad-source-mirror
+  github_src_repo: https://github.com/jerkey/kicad-source-mirror
+  oomp_bot: jerkey_kicad_source_mirror
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/jerkey_kicad_source_mirror
+  oomp_doc: projects/jerkey_kicad_source_mirror/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/jerkey_kicad_source_mirror
+  oomp_src_flat: projects_flat/jerkey_kicad_source_mirror
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/jerkey_kicad_source_mirror
+  oomp_src_folder: projects_folder\jerkey\kicad-source-mirror\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\jerkey\kicad-source-mirror\version_current\working
+oomp_key: oomp_jerkey_kicad_source_mirror
+oomp_key_simple: jerkey_kicad_source_mirror
 projects_flat: projects_flat/jerkey_kicad_source_mirror/version_current/working
 projects_folder: projects_folder/jerkey/kicad-source-mirror/version_current/working
-pulls_url: https://api.github.com/repos/jerkey/kicad-source-mirror/pulls{/number}
-pushed_at: '2015-03-11T18:54:11Z'
-releases_url: https://api.github.com/repos/jerkey/kicad-source-mirror/releases{/id}
-size: 286295
-ssh_url: git@github.com:jerkey/kicad-source-mirror.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/jerkey/kicad-source-mirror/stargazers
-statuses_url: https://api.github.com/repos/jerkey/kicad-source-mirror/statuses/{sha}
-subscribers_url: https://api.github.com/repos/jerkey/kicad-source-mirror/subscribers
-subscription_url: https://api.github.com/repos/jerkey/kicad-source-mirror/subscription
-svn_url: https://github.com/jerkey/kicad-source-mirror
-tags_url: https://api.github.com/repos/jerkey/kicad-source-mirror/tags
-teams_url: https://api.github.com/repos/jerkey/kicad-source-mirror/teams
-topics: []
-trees_url: https://api.github.com/repos/jerkey/kicad-source-mirror/git/trees{/sha}
-updated_at: '2015-03-11T06:06:04Z'
-url: https://api.github.com/repos/jerkey/kicad-source-mirror
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/jerkey/kicad-source-mirror/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/jerkey/kicad-source-mirror/assignees{/user}
+  blobs_url: https://api.github.com/repos/jerkey/kicad-source-mirror/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/jerkey/kicad-source-mirror/branches{/branch}
+  clone_url: https://github.com/jerkey/kicad-source-mirror.git
+  collaborators_url: https://api.github.com/repos/jerkey/kicad-source-mirror/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/jerkey/kicad-source-mirror/comments{/number}
+  commits_url: https://api.github.com/repos/jerkey/kicad-source-mirror/commits{/sha}
+  compare_url: https://api.github.com/repos/jerkey/kicad-source-mirror/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/jerkey/kicad-source-mirror/contents/{+path}
+  contributors_url: https://api.github.com/repos/jerkey/kicad-source-mirror/contributors
+  created_at: '2015-03-11T06:05:45Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/jerkey/kicad-source-mirror/deployments
+  description: A mirror of the KiCad development branch, which is hosted at launchpad
+    using bzr (updated every 10 minutes)
+  disabled: false
+  downloads_url: https://api.github.com/repos/jerkey/kicad-source-mirror/downloads
+  events_url: https://api.github.com/repos/jerkey/kicad-source-mirror/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/jerkey/kicad-source-mirror/forks
+  full_name: jerkey/kicad-source-mirror
+  git_commits_url: https://api.github.com/repos/jerkey/kicad-source-mirror/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/jerkey/kicad-source-mirror/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/jerkey/kicad-source-mirror/git/tags{/sha}
+  git_url: git://github.com/jerkey/kicad-source-mirror.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: http://launchpad.net/kicad
+  hooks_url: https://api.github.com/repos/jerkey/kicad-source-mirror/hooks
+  html_url: https://github.com/jerkey/kicad-source-mirror
+  id: 32001306
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/jerkey/kicad-source-mirror/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/jerkey/kicad-source-mirror/issues/events{/number}
+  issues_url: https://api.github.com/repos/jerkey/kicad-source-mirror/issues{/number}
+  keys_url: https://api.github.com/repos/jerkey/kicad-source-mirror/keys{/key_id}
+  labels_url: https://api.github.com/repos/jerkey/kicad-source-mirror/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/jerkey/kicad-source-mirror/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/jerkey/kicad-source-mirror/merges
+  milestones_url: https://api.github.com/repos/jerkey/kicad-source-mirror/milestones{/number}
+  mirror_url: null
+  name: kicad-source-mirror
+  node_id: MDEwOlJlcG9zaXRvcnkzMjAwMTMwNg==
+  notifications_url: https://api.github.com/repos/jerkey/kicad-source-mirror/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1930655?v=4
+    events_url: https://api.github.com/users/jerkey/events{/privacy}
+    followers_url: https://api.github.com/users/jerkey/followers
+    following_url: https://api.github.com/users/jerkey/following{/other_user}
+    gists_url: https://api.github.com/users/jerkey/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/jerkey
+    id: 1930655
+    login: jerkey
+    node_id: MDQ6VXNlcjE5MzA2NTU=
+    organizations_url: https://api.github.com/users/jerkey/orgs
+    received_events_url: https://api.github.com/users/jerkey/received_events
+    repos_url: https://api.github.com/users/jerkey/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/jerkey/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/jerkey/subscriptions
+    type: User
+    url: https://api.github.com/users/jerkey
+  private: false
+  pulls_url: https://api.github.com/repos/jerkey/kicad-source-mirror/pulls{/number}
+  pushed_at: '2015-03-11T18:54:11Z'
+  releases_url: https://api.github.com/repos/jerkey/kicad-source-mirror/releases{/id}
+  size: 286295
+  ssh_url: git@github.com:jerkey/kicad-source-mirror.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/jerkey/kicad-source-mirror/stargazers
+  statuses_url: https://api.github.com/repos/jerkey/kicad-source-mirror/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/jerkey/kicad-source-mirror/subscribers
+  subscription_url: https://api.github.com/repos/jerkey/kicad-source-mirror/subscription
+  svn_url: https://github.com/jerkey/kicad-source-mirror
+  tags_url: https://api.github.com/repos/jerkey/kicad-source-mirror/tags
+  teams_url: https://api.github.com/repos/jerkey/kicad-source-mirror/teams
+  topics: []
+  trees_url: https://api.github.com/repos/jerkey/kicad-source-mirror/git/trees{/sha}
+  updated_at: '2015-03-11T06:06:04Z'
+  url: https://api.github.com/repos/jerkey/kicad-source-mirror
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

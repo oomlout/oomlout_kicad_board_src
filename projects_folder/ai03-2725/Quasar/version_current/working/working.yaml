@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ai03-2725/Quasar/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ai03-2725/Quasar/assignees{/user}
-blobs_url: https://api.github.com/repos/ai03-2725/Quasar/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ai03-2725/Quasar/branches{/branch}
-clone_url: https://github.com/ai03-2725/Quasar.git
-collaborators_url: https://api.github.com/repos/ai03-2725/Quasar/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ai03-2725/Quasar/comments{/number}
-commits_url: https://api.github.com/repos/ai03-2725/Quasar/commits{/sha}
-compare_url: https://api.github.com/repos/ai03-2725/Quasar/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ai03-2725/Quasar/contents/{+path}
-contributors_url: https://api.github.com/repos/ai03-2725/Quasar/contributors
-created_at: '2019-03-13T08:00:56Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ai03-2725/Quasar/deployments
-description: Replacement controller for IBM Model M Space Saving Keyboard
-disabled: false
-downloads_url: https://api.github.com/repos/ai03-2725/Quasar/downloads
-events_url: https://api.github.com/repos/ai03-2725/Quasar/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/ai03-2725/Quasar/forks
-full_name: ai03-2725/Quasar
-git_commits_url: https://api.github.com/repos/ai03-2725/Quasar/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ai03-2725/Quasar/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ai03-2725/Quasar/git/tags{/sha}
-git_url: git://github.com/ai03-2725/Quasar.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ai03-2725/Quasar/hooks
-html_url: https://github.com/ai03-2725/Quasar
-id: 175373544
-is_template: false
-issue_comment_url: https://api.github.com/repos/ai03-2725/Quasar/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ai03-2725/Quasar/issues/events{/number}
-issues_url: https://api.github.com/repos/ai03-2725/Quasar/issues{/number}
-keys_url: https://api.github.com/repos/ai03-2725/Quasar/keys{/key_id}
-labels_url: https://api.github.com/repos/ai03-2725/Quasar/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ai03-2725/Quasar/languages
-license:
-  key: mit
-  name: MIT License
-  node_id: MDc6TGljZW5zZTEz
-  spdx_id: MIT
-  url: https://api.github.com/licenses/mit
-merges_url: https://api.github.com/repos/ai03-2725/Quasar/merges
-milestones_url: https://api.github.com/repos/ai03-2725/Quasar/milestones{/number}
-mirror_url: null
-name: Quasar
-node_id: MDEwOlJlcG9zaXRvcnkxNzUzNzM1NDQ=
-notifications_url: https://api.github.com/repos/ai03-2725/Quasar/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/26614352?v=4
-  events_url: https://api.github.com/users/ai03-2725/events{/privacy}
-  followers_url: https://api.github.com/users/ai03-2725/followers
-  following_url: https://api.github.com/users/ai03-2725/following{/other_user}
-  gists_url: https://api.github.com/users/ai03-2725/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ai03-2725
-  id: 26614352
-  login: ai03-2725
-  node_id: MDQ6VXNlcjI2NjE0MzUy
-  organizations_url: https://api.github.com/users/ai03-2725/orgs
-  received_events_url: https://api.github.com/users/ai03-2725/received_events
-  repos_url: https://api.github.com/users/ai03-2725/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ai03-2725/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ai03-2725/subscriptions
-  type: User
-  url: https://api.github.com/users/ai03-2725
-private: false
+links:
+  github_owner: ai03-2725
+  github_repo_name: Quasar
+  github_src: https://github.com/ai03-2725/Quasar
+  github_src_repo: https://github.com/ai03-2725/Quasar
+  oomp_bot: ai03_2725_quasar
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/ai03_2725_quasar
+  oomp_doc: projects/ai03_2725_quasar/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/ai03_2725_quasar
+  oomp_src_flat: projects_flat/ai03_2725_quasar
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/ai03_2725_quasar
+  oomp_src_folder: projects_folder\ai03-2725\Quasar\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ai03-2725\Quasar\version_current\working
+oomp_key: oomp_ai03_2725_quasar
+oomp_key_simple: ai03_2725_quasar
 projects_flat: projects_flat/ai03_2725_quasar/version_current/working
 projects_folder: projects_folder/ai03-2725/Quasar/version_current/working
-pulls_url: https://api.github.com/repos/ai03-2725/Quasar/pulls{/number}
-pushed_at: '2020-09-29T14:47:46Z'
-releases_url: https://api.github.com/repos/ai03-2725/Quasar/releases{/id}
-size: 2607
-ssh_url: git@github.com:ai03-2725/Quasar.git
-stargazers_count: 6
-stargazers_url: https://api.github.com/repos/ai03-2725/Quasar/stargazers
-statuses_url: https://api.github.com/repos/ai03-2725/Quasar/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ai03-2725/Quasar/subscribers
-subscription_url: https://api.github.com/repos/ai03-2725/Quasar/subscription
-svn_url: https://github.com/ai03-2725/Quasar
-tags_url: https://api.github.com/repos/ai03-2725/Quasar/tags
-teams_url: https://api.github.com/repos/ai03-2725/Quasar/teams
-topics: []
-trees_url: https://api.github.com/repos/ai03-2725/Quasar/git/trees{/sha}
-updated_at: '2021-01-06T21:26:29Z'
-url: https://api.github.com/repos/ai03-2725/Quasar
-visibility: public
-watchers: 6
-watchers_count: 6
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ai03-2725/Quasar/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ai03-2725/Quasar/assignees{/user}
+  blobs_url: https://api.github.com/repos/ai03-2725/Quasar/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ai03-2725/Quasar/branches{/branch}
+  clone_url: https://github.com/ai03-2725/Quasar.git
+  collaborators_url: https://api.github.com/repos/ai03-2725/Quasar/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ai03-2725/Quasar/comments{/number}
+  commits_url: https://api.github.com/repos/ai03-2725/Quasar/commits{/sha}
+  compare_url: https://api.github.com/repos/ai03-2725/Quasar/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ai03-2725/Quasar/contents/{+path}
+  contributors_url: https://api.github.com/repos/ai03-2725/Quasar/contributors
+  created_at: '2019-03-13T08:00:56Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ai03-2725/Quasar/deployments
+  description: Replacement controller for IBM Model M Space Saving Keyboard
+  disabled: false
+  downloads_url: https://api.github.com/repos/ai03-2725/Quasar/downloads
+  events_url: https://api.github.com/repos/ai03-2725/Quasar/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/ai03-2725/Quasar/forks
+  full_name: ai03-2725/Quasar
+  git_commits_url: https://api.github.com/repos/ai03-2725/Quasar/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ai03-2725/Quasar/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ai03-2725/Quasar/git/tags{/sha}
+  git_url: git://github.com/ai03-2725/Quasar.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ai03-2725/Quasar/hooks
+  html_url: https://github.com/ai03-2725/Quasar
+  id: 175373544
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ai03-2725/Quasar/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ai03-2725/Quasar/issues/events{/number}
+  issues_url: https://api.github.com/repos/ai03-2725/Quasar/issues{/number}
+  keys_url: https://api.github.com/repos/ai03-2725/Quasar/keys{/key_id}
+  labels_url: https://api.github.com/repos/ai03-2725/Quasar/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ai03-2725/Quasar/languages
+  license:
+    key: mit
+    name: MIT License
+    node_id: MDc6TGljZW5zZTEz
+    spdx_id: MIT
+    url: https://api.github.com/licenses/mit
+  merges_url: https://api.github.com/repos/ai03-2725/Quasar/merges
+  milestones_url: https://api.github.com/repos/ai03-2725/Quasar/milestones{/number}
+  mirror_url: null
+  name: Quasar
+  node_id: MDEwOlJlcG9zaXRvcnkxNzUzNzM1NDQ=
+  notifications_url: https://api.github.com/repos/ai03-2725/Quasar/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/26614352?v=4
+    events_url: https://api.github.com/users/ai03-2725/events{/privacy}
+    followers_url: https://api.github.com/users/ai03-2725/followers
+    following_url: https://api.github.com/users/ai03-2725/following{/other_user}
+    gists_url: https://api.github.com/users/ai03-2725/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ai03-2725
+    id: 26614352
+    login: ai03-2725
+    node_id: MDQ6VXNlcjI2NjE0MzUy
+    organizations_url: https://api.github.com/users/ai03-2725/orgs
+    received_events_url: https://api.github.com/users/ai03-2725/received_events
+    repos_url: https://api.github.com/users/ai03-2725/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ai03-2725/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ai03-2725/subscriptions
+    type: User
+    url: https://api.github.com/users/ai03-2725
+  private: false
+  pulls_url: https://api.github.com/repos/ai03-2725/Quasar/pulls{/number}
+  pushed_at: '2020-09-29T14:47:46Z'
+  releases_url: https://api.github.com/repos/ai03-2725/Quasar/releases{/id}
+  size: 2607
+  ssh_url: git@github.com:ai03-2725/Quasar.git
+  stargazers_count: 6
+  stargazers_url: https://api.github.com/repos/ai03-2725/Quasar/stargazers
+  statuses_url: https://api.github.com/repos/ai03-2725/Quasar/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ai03-2725/Quasar/subscribers
+  subscription_url: https://api.github.com/repos/ai03-2725/Quasar/subscription
+  svn_url: https://github.com/ai03-2725/Quasar
+  tags_url: https://api.github.com/repos/ai03-2725/Quasar/tags
+  teams_url: https://api.github.com/repos/ai03-2725/Quasar/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ai03-2725/Quasar/git/trees{/sha}
+  updated_at: '2021-01-06T21:26:29Z'
+  url: https://api.github.com/repos/ai03-2725/Quasar
+  visibility: public
+  watchers: 6
+  watchers_count: 6
+  web_commit_signoff_required: false

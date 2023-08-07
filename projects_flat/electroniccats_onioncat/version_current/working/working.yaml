@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/onioncat/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/onioncat/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/onioncat/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/onioncat/branches{/branch}
-clone_url: https://github.com/ElectronicCats/onioncat.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/onioncat/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/onioncat/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/onioncat/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/onioncat/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/onioncat/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/onioncat/contributors
-created_at: '2017-10-30T18:28:46Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ElectronicCats/onioncat/deployments
-description: Board for Onion
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/onioncat/downloads
-events_url: https://api.github.com/repos/ElectronicCats/onioncat/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/ElectronicCats/onioncat/forks
-full_name: ElectronicCats/onioncat
-git_commits_url: https://api.github.com/repos/ElectronicCats/onioncat/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/onioncat/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/onioncat/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/onioncat.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/ElectronicCats/onioncat/hooks
-html_url: https://github.com/ElectronicCats/onioncat
-id: 108891713
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/onioncat/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/onioncat/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/onioncat/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/onioncat/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/onioncat/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/ElectronicCats/onioncat/languages
-license: null
-merges_url: https://api.github.com/repos/ElectronicCats/onioncat/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/onioncat/milestones{/number}
-mirror_url: null
-name: onioncat
-node_id: MDEwOlJlcG9zaXRvcnkxMDg4OTE3MTM=
-notifications_url: https://api.github.com/repos/ElectronicCats/onioncat/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: onioncat
+  github_src: https://github.com/ElectronicCats/onioncat
+  github_src_repo: https://github.com/ElectronicCats/onioncat
+  oomp_bot: projects_electroniccats_onioncat
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_electroniccats_onioncat
+  oomp_doc: projects/projects_flat_electroniccats_onioncat/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_electroniccats_onioncat
+  oomp_src_flat: projects_flat/projects_flat_electroniccats_onioncat
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_electroniccats_onioncat
+  oomp_src_folder: projects_flat\electroniccats_onioncat\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\electroniccats_onioncat\version_current\working
+oomp_key: oomp_projects_flat_electroniccats_onioncat
+oomp_key_simple: projects_flat_electroniccats_onioncat
 projects_flat: projects_flat/electroniccats_onioncat/version_current/working
 projects_folder: projects_folder/ElectronicCats/onioncat/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/onioncat/pulls{/number}
-pushed_at: '2017-10-30T19:12:39Z'
-releases_url: https://api.github.com/repos/ElectronicCats/onioncat/releases{/id}
-size: 6
-ssh_url: git@github.com:ElectronicCats/onioncat.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/ElectronicCats/onioncat/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/onioncat/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/onioncat/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/onioncat/subscription
-svn_url: https://github.com/ElectronicCats/onioncat
-tags_url: https://api.github.com/repos/ElectronicCats/onioncat/tags
-teams_url: https://api.github.com/repos/ElectronicCats/onioncat/teams
-topics: []
-trees_url: https://api.github.com/repos/ElectronicCats/onioncat/git/trees{/sha}
-updated_at: '2017-10-30T18:28:46Z'
-url: https://api.github.com/repos/ElectronicCats/onioncat
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/onioncat/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/onioncat/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/onioncat/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/onioncat/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/onioncat.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/onioncat/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/onioncat/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/onioncat/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/onioncat/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/onioncat/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/onioncat/contributors
+  created_at: '2017-10-30T18:28:46Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ElectronicCats/onioncat/deployments
+  description: Board for Onion
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/onioncat/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/onioncat/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/ElectronicCats/onioncat/forks
+  full_name: ElectronicCats/onioncat
+  git_commits_url: https://api.github.com/repos/ElectronicCats/onioncat/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/onioncat/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/onioncat/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/onioncat.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/ElectronicCats/onioncat/hooks
+  html_url: https://github.com/ElectronicCats/onioncat
+  id: 108891713
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/onioncat/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/onioncat/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/onioncat/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/onioncat/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/onioncat/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/ElectronicCats/onioncat/languages
+  license: null
+  merges_url: https://api.github.com/repos/ElectronicCats/onioncat/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/onioncat/milestones{/number}
+  mirror_url: null
+  name: onioncat
+  node_id: MDEwOlJlcG9zaXRvcnkxMDg4OTE3MTM=
+  notifications_url: https://api.github.com/repos/ElectronicCats/onioncat/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/onioncat/pulls{/number}
+  pushed_at: '2017-10-30T19:12:39Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/onioncat/releases{/id}
+  size: 6
+  ssh_url: git@github.com:ElectronicCats/onioncat.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/ElectronicCats/onioncat/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/onioncat/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/onioncat/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/onioncat/subscription
+  svn_url: https://github.com/ElectronicCats/onioncat
+  tags_url: https://api.github.com/repos/ElectronicCats/onioncat/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/onioncat/teams
+  topics: []
+  trees_url: https://api.github.com/repos/ElectronicCats/onioncat/git/trees{/sha}
+  updated_at: '2017-10-30T18:28:46Z'
+  url: https://api.github.com/repos/ElectronicCats/onioncat
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: true

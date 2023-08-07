@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/cosmikwolf/preenfm2/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/cosmikwolf/preenfm2/assignees{/user}
-blobs_url: https://api.github.com/repos/cosmikwolf/preenfm2/git/blobs{/sha}
-branches_url: https://api.github.com/repos/cosmikwolf/preenfm2/branches{/branch}
-clone_url: https://github.com/cosmikwolf/preenfm2.git
-collaborators_url: https://api.github.com/repos/cosmikwolf/preenfm2/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/cosmikwolf/preenfm2/comments{/number}
-commits_url: https://api.github.com/repos/cosmikwolf/preenfm2/commits{/sha}
-compare_url: https://api.github.com/repos/cosmikwolf/preenfm2/compare/{base}...{head}
-contents_url: https://api.github.com/repos/cosmikwolf/preenfm2/contents/{+path}
-contributors_url: https://api.github.com/repos/cosmikwolf/preenfm2/contributors
-created_at: '2018-04-23T22:10:46Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/cosmikwolf/preenfm2/deployments
-description: preenFM2 firmware
-disabled: false
-downloads_url: https://api.github.com/repos/cosmikwolf/preenfm2/downloads
-events_url: https://api.github.com/repos/cosmikwolf/preenfm2/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/cosmikwolf/preenfm2/forks
-full_name: cosmikwolf/preenfm2
-git_commits_url: https://api.github.com/repos/cosmikwolf/preenfm2/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/cosmikwolf/preenfm2/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/cosmikwolf/preenfm2/git/tags{/sha}
-git_url: git://github.com/cosmikwolf/preenfm2.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/cosmikwolf/preenfm2/hooks
-html_url: https://github.com/cosmikwolf/preenfm2
-id: 130762679
-is_template: false
-issue_comment_url: https://api.github.com/repos/cosmikwolf/preenfm2/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/cosmikwolf/preenfm2/issues/events{/number}
-issues_url: https://api.github.com/repos/cosmikwolf/preenfm2/issues{/number}
-keys_url: https://api.github.com/repos/cosmikwolf/preenfm2/keys{/key_id}
-labels_url: https://api.github.com/repos/cosmikwolf/preenfm2/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/cosmikwolf/preenfm2/languages
-license: null
-merges_url: https://api.github.com/repos/cosmikwolf/preenfm2/merges
-milestones_url: https://api.github.com/repos/cosmikwolf/preenfm2/milestones{/number}
-mirror_url: null
-name: preenfm2
-node_id: MDEwOlJlcG9zaXRvcnkxMzA3NjI2Nzk=
-notifications_url: https://api.github.com/repos/cosmikwolf/preenfm2/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/8161308?v=4
-  events_url: https://api.github.com/users/cosmikwolf/events{/privacy}
-  followers_url: https://api.github.com/users/cosmikwolf/followers
-  following_url: https://api.github.com/users/cosmikwolf/following{/other_user}
-  gists_url: https://api.github.com/users/cosmikwolf/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/cosmikwolf
-  id: 8161308
-  login: cosmikwolf
-  node_id: MDQ6VXNlcjgxNjEzMDg=
-  organizations_url: https://api.github.com/users/cosmikwolf/orgs
-  received_events_url: https://api.github.com/users/cosmikwolf/received_events
-  repos_url: https://api.github.com/users/cosmikwolf/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/cosmikwolf/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/cosmikwolf/subscriptions
-  type: User
-  url: https://api.github.com/users/cosmikwolf
-private: false
+links:
+  github_owner: cosmikwolf
+  github_repo_name: preenfm2
+  github_src: https://github.com/cosmikwolf/preenfm2
+  github_src_repo: https://github.com/cosmikwolf/preenfm2
+  oomp_bot: cosmikwolf_preenfm2
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/cosmikwolf_preenfm2
+  oomp_doc: projects/cosmikwolf_preenfm2/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/cosmikwolf_preenfm2
+  oomp_src_flat: projects_flat/cosmikwolf_preenfm2
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/cosmikwolf_preenfm2
+  oomp_src_folder: projects_folder\cosmikwolf\preenfm2\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\cosmikwolf\preenfm2\version_current\working
+oomp_key: oomp_cosmikwolf_preenfm2
+oomp_key_simple: cosmikwolf_preenfm2
 projects_flat: projects_flat/cosmikwolf_preenfm2/version_current/working
 projects_folder: projects_folder/cosmikwolf/preenfm2/version_current/working
-pulls_url: https://api.github.com/repos/cosmikwolf/preenfm2/pulls{/number}
-pushed_at: '2018-04-10T18:39:43Z'
-releases_url: https://api.github.com/repos/cosmikwolf/preenfm2/releases{/id}
-size: 3387
-ssh_url: git@github.com:cosmikwolf/preenfm2.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/cosmikwolf/preenfm2/stargazers
-statuses_url: https://api.github.com/repos/cosmikwolf/preenfm2/statuses/{sha}
-subscribers_url: https://api.github.com/repos/cosmikwolf/preenfm2/subscribers
-subscription_url: https://api.github.com/repos/cosmikwolf/preenfm2/subscription
-svn_url: https://github.com/cosmikwolf/preenfm2
-tags_url: https://api.github.com/repos/cosmikwolf/preenfm2/tags
-teams_url: https://api.github.com/repos/cosmikwolf/preenfm2/teams
-topics: []
-trees_url: https://api.github.com/repos/cosmikwolf/preenfm2/git/trees{/sha}
-updated_at: '2018-04-23T22:10:49Z'
-url: https://api.github.com/repos/cosmikwolf/preenfm2
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/cosmikwolf/preenfm2/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/cosmikwolf/preenfm2/assignees{/user}
+  blobs_url: https://api.github.com/repos/cosmikwolf/preenfm2/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/cosmikwolf/preenfm2/branches{/branch}
+  clone_url: https://github.com/cosmikwolf/preenfm2.git
+  collaborators_url: https://api.github.com/repos/cosmikwolf/preenfm2/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/cosmikwolf/preenfm2/comments{/number}
+  commits_url: https://api.github.com/repos/cosmikwolf/preenfm2/commits{/sha}
+  compare_url: https://api.github.com/repos/cosmikwolf/preenfm2/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/cosmikwolf/preenfm2/contents/{+path}
+  contributors_url: https://api.github.com/repos/cosmikwolf/preenfm2/contributors
+  created_at: '2018-04-23T22:10:46Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/cosmikwolf/preenfm2/deployments
+  description: preenFM2 firmware
+  disabled: false
+  downloads_url: https://api.github.com/repos/cosmikwolf/preenfm2/downloads
+  events_url: https://api.github.com/repos/cosmikwolf/preenfm2/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/cosmikwolf/preenfm2/forks
+  full_name: cosmikwolf/preenfm2
+  git_commits_url: https://api.github.com/repos/cosmikwolf/preenfm2/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/cosmikwolf/preenfm2/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/cosmikwolf/preenfm2/git/tags{/sha}
+  git_url: git://github.com/cosmikwolf/preenfm2.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/cosmikwolf/preenfm2/hooks
+  html_url: https://github.com/cosmikwolf/preenfm2
+  id: 130762679
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/cosmikwolf/preenfm2/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/cosmikwolf/preenfm2/issues/events{/number}
+  issues_url: https://api.github.com/repos/cosmikwolf/preenfm2/issues{/number}
+  keys_url: https://api.github.com/repos/cosmikwolf/preenfm2/keys{/key_id}
+  labels_url: https://api.github.com/repos/cosmikwolf/preenfm2/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/cosmikwolf/preenfm2/languages
+  license: null
+  merges_url: https://api.github.com/repos/cosmikwolf/preenfm2/merges
+  milestones_url: https://api.github.com/repos/cosmikwolf/preenfm2/milestones{/number}
+  mirror_url: null
+  name: preenfm2
+  node_id: MDEwOlJlcG9zaXRvcnkxMzA3NjI2Nzk=
+  notifications_url: https://api.github.com/repos/cosmikwolf/preenfm2/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/8161308?v=4
+    events_url: https://api.github.com/users/cosmikwolf/events{/privacy}
+    followers_url: https://api.github.com/users/cosmikwolf/followers
+    following_url: https://api.github.com/users/cosmikwolf/following{/other_user}
+    gists_url: https://api.github.com/users/cosmikwolf/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/cosmikwolf
+    id: 8161308
+    login: cosmikwolf
+    node_id: MDQ6VXNlcjgxNjEzMDg=
+    organizations_url: https://api.github.com/users/cosmikwolf/orgs
+    received_events_url: https://api.github.com/users/cosmikwolf/received_events
+    repos_url: https://api.github.com/users/cosmikwolf/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/cosmikwolf/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/cosmikwolf/subscriptions
+    type: User
+    url: https://api.github.com/users/cosmikwolf
+  private: false
+  pulls_url: https://api.github.com/repos/cosmikwolf/preenfm2/pulls{/number}
+  pushed_at: '2018-04-10T18:39:43Z'
+  releases_url: https://api.github.com/repos/cosmikwolf/preenfm2/releases{/id}
+  size: 3387
+  ssh_url: git@github.com:cosmikwolf/preenfm2.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/cosmikwolf/preenfm2/stargazers
+  statuses_url: https://api.github.com/repos/cosmikwolf/preenfm2/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/cosmikwolf/preenfm2/subscribers
+  subscription_url: https://api.github.com/repos/cosmikwolf/preenfm2/subscription
+  svn_url: https://github.com/cosmikwolf/preenfm2
+  tags_url: https://api.github.com/repos/cosmikwolf/preenfm2/tags
+  teams_url: https://api.github.com/repos/cosmikwolf/preenfm2/teams
+  topics: []
+  trees_url: https://api.github.com/repos/cosmikwolf/preenfm2/git/trees{/sha}
+  updated_at: '2018-04-23T22:10:49Z'
+  url: https://api.github.com/repos/cosmikwolf/preenfm2
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

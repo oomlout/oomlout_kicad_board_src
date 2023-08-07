@@ -1,112 +1,129 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/branches{/branch}
-clone_url: https://github.com/sparkfun/Qwiic_GRIDEye.git
-collaborators_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/contributors
-created_at: '2018-02-02T18:38:12Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/deployments
-description: "The GridEYE from Panasonic is a 8 by 8 thermopile array. This means\
-  \ you have an array of 64 pixels each capable of detecting temperature remotely.\
-  \ It\u2019s like having thermal camera (or Predator\u2019s vision) just in really\
-  \ low resolution. "
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/downloads
-events_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/events
 file_brd_flat_folder: projects_flat_folder/sparkfun_qwiic_grideye/version_current/working/working.brd
 file_brd_folder: projects_folder/sparkfun/Qwiic_GRIDEye/version_current/working/working.brd
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/forks
-full_name: sparkfun/Qwiic_GRIDEye
-git_commits_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/git/tags{/sha}
-git_url: git://github.com/sparkfun/Qwiic_GRIDEye.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/
-hooks_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/hooks
-html_url: https://github.com/sparkfun/Qwiic_GRIDEye
-id: 120017287
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/merges
-milestones_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/milestones{/number}
-mirror_url: null
-name: Qwiic_GRIDEye
-node_id: MDEwOlJlcG9zaXRvcnkxMjAwMTcyODc=
-notifications_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: Qwiic_GRIDEye
+  github_src: https://github.com/sparkfun/Qwiic_GRIDEye
+  github_src_repo: https://github.com/sparkfun/Qwiic_GRIDEye
+  oomp_bot: sparkfun_qwiic_grideye
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_qwiic_grideye
+  oomp_doc: projects/sparkfun_qwiic_grideye/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_qwiic_grideye
+  oomp_src_flat: projects_flat/sparkfun_qwiic_grideye
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_qwiic_grideye
+  oomp_src_folder: projects_folder\sparkfun\Qwiic_GRIDEye\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\Qwiic_GRIDEye\version_current\working
+oomp_key: oomp_sparkfun_qwiic_grideye
+oomp_key_simple: sparkfun_qwiic_grideye
+projects_flat: projects_flat/sparkfun_qwiic_grideye/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_qwiic_grideye/version_current/working
 projects_folder: projects_folder/sparkfun/Qwiic_GRIDEye/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/pulls{/number}
-pushed_at: '2018-05-03T22:37:14Z'
-releases_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/releases{/id}
-size: 1567
-ssh_url: git@github.com:sparkfun/Qwiic_GRIDEye.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/subscription
-svn_url: https://github.com/sparkfun/Qwiic_GRIDEye
-tags_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/tags
-teams_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/teams
-topics:
-- sparkfun
-- sparkfun-products
-- thermal-imaging
-trees_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/git/trees{/sha}
-updated_at: '2023-07-15T23:17:19Z'
-url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/branches{/branch}
+  clone_url: https://github.com/sparkfun/Qwiic_GRIDEye.git
+  collaborators_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/contributors
+  created_at: '2018-02-02T18:38:12Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/deployments
+  description: "The GridEYE from Panasonic is a 8 by 8 thermopile array. This means\
+    \ you have an array of 64 pixels each capable of detecting temperature remotely.\
+    \ It\u2019s like having thermal camera (or Predator\u2019s vision) just in really\
+    \ low resolution. "
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/downloads
+  events_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/forks
+  full_name: sparkfun/Qwiic_GRIDEye
+  git_commits_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/git/tags{/sha}
+  git_url: git://github.com/sparkfun/Qwiic_GRIDEye.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/
+  hooks_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/hooks
+  html_url: https://github.com/sparkfun/Qwiic_GRIDEye
+  id: 120017287
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/merges
+  milestones_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/milestones{/number}
+  mirror_url: null
+  name: Qwiic_GRIDEye
+  node_id: MDEwOlJlcG9zaXRvcnkxMjAwMTcyODc=
+  notifications_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/pulls{/number}
+  pushed_at: '2018-05-03T22:37:14Z'
+  releases_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/releases{/id}
+  size: 1567
+  ssh_url: git@github.com:sparkfun/Qwiic_GRIDEye.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/subscription
+  svn_url: https://github.com/sparkfun/Qwiic_GRIDEye
+  tags_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/tags
+  teams_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/teams
+  topics:
+  - sparkfun
+  - sparkfun-products
+  - thermal-imaging
+  trees_url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye/git/trees{/sha}
+  updated_at: '2023-07-15T23:17:19Z'
+  url: https://api.github.com/repos/sparkfun/Qwiic_GRIDEye
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

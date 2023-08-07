@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/q61org/divergence_meter/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/q61org/divergence_meter/assignees{/user}
-blobs_url: https://api.github.com/repos/q61org/divergence_meter/git/blobs{/sha}
-branches_url: https://api.github.com/repos/q61org/divergence_meter/branches{/branch}
-clone_url: https://github.com/q61org/divergence_meter.git
-collaborators_url: https://api.github.com/repos/q61org/divergence_meter/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/q61org/divergence_meter/comments{/number}
-commits_url: https://api.github.com/repos/q61org/divergence_meter/commits{/sha}
-compare_url: https://api.github.com/repos/q61org/divergence_meter/compare/{base}...{head}
-contents_url: https://api.github.com/repos/q61org/divergence_meter/contents/{+path}
-contributors_url: https://api.github.com/repos/q61org/divergence_meter/contributors
-created_at: '2017-02-02T03:51:14Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/q61org/divergence_meter/deployments
-description: A divergence meter that tries to look just like the one in the anime.
-disabled: false
-downloads_url: https://api.github.com/repos/q61org/divergence_meter/downloads
-events_url: https://api.github.com/repos/q61org/divergence_meter/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/q61org/divergence_meter/forks
-full_name: q61org/divergence_meter
-git_commits_url: https://api.github.com/repos/q61org/divergence_meter/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/q61org/divergence_meter/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/q61org/divergence_meter/git/tags{/sha}
-git_url: git://github.com/q61org/divergence_meter.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/q61org/divergence_meter/hooks
-html_url: https://github.com/q61org/divergence_meter
-id: 80691122
-is_template: false
-issue_comment_url: https://api.github.com/repos/q61org/divergence_meter/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/q61org/divergence_meter/issues/events{/number}
-issues_url: https://api.github.com/repos/q61org/divergence_meter/issues{/number}
-keys_url: https://api.github.com/repos/q61org/divergence_meter/keys{/key_id}
-labels_url: https://api.github.com/repos/q61org/divergence_meter/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/q61org/divergence_meter/languages
-license: null
-merges_url: https://api.github.com/repos/q61org/divergence_meter/merges
-milestones_url: https://api.github.com/repos/q61org/divergence_meter/milestones{/number}
-mirror_url: null
-name: divergence_meter
-node_id: MDEwOlJlcG9zaXRvcnk4MDY5MTEyMg==
-notifications_url: https://api.github.com/repos/q61org/divergence_meter/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/22362614?v=4
-  events_url: https://api.github.com/users/q61org/events{/privacy}
-  followers_url: https://api.github.com/users/q61org/followers
-  following_url: https://api.github.com/users/q61org/following{/other_user}
-  gists_url: https://api.github.com/users/q61org/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/q61org
-  id: 22362614
-  login: q61org
-  node_id: MDQ6VXNlcjIyMzYyNjE0
-  organizations_url: https://api.github.com/users/q61org/orgs
-  received_events_url: https://api.github.com/users/q61org/received_events
-  repos_url: https://api.github.com/users/q61org/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/q61org/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/q61org/subscriptions
-  type: User
-  url: https://api.github.com/users/q61org
-private: false
+links:
+  github_owner: q61org
+  github_repo_name: divergence_meter
+  github_src: https://github.com/q61org/divergence_meter
+  github_src_repo: https://github.com/q61org/divergence_meter
+  oomp_bot: projects_q61org_divergence_meter
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_q61org_divergence_meter
+  oomp_doc: projects/projects_flat_q61org_divergence_meter/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_q61org_divergence_meter
+  oomp_src_flat: projects_flat/projects_flat_q61org_divergence_meter
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_q61org_divergence_meter
+  oomp_src_folder: projects_flat\q61org_divergence_meter\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\q61org_divergence_meter\version_current\working
+oomp_key: oomp_projects_flat_q61org_divergence_meter
+oomp_key_simple: projects_flat_q61org_divergence_meter
 projects_flat: projects_flat/q61org_divergence_meter/version_current/working
 projects_folder: projects_folder/q61org/divergence_meter/version_current/working
-pulls_url: https://api.github.com/repos/q61org/divergence_meter/pulls{/number}
-pushed_at: '2017-04-27T10:42:37Z'
-releases_url: https://api.github.com/repos/q61org/divergence_meter/releases{/id}
-size: 172
-ssh_url: git@github.com:q61org/divergence_meter.git
-stargazers_count: 12
-stargazers_url: https://api.github.com/repos/q61org/divergence_meter/stargazers
-statuses_url: https://api.github.com/repos/q61org/divergence_meter/statuses/{sha}
-subscribers_url: https://api.github.com/repos/q61org/divergence_meter/subscribers
-subscription_url: https://api.github.com/repos/q61org/divergence_meter/subscription
-svn_url: https://github.com/q61org/divergence_meter
-tags_url: https://api.github.com/repos/q61org/divergence_meter/tags
-teams_url: https://api.github.com/repos/q61org/divergence_meter/teams
-topics: []
-trees_url: https://api.github.com/repos/q61org/divergence_meter/git/trees{/sha}
-updated_at: '2023-07-21T01:12:29Z'
-url: https://api.github.com/repos/q61org/divergence_meter
-visibility: public
-watchers: 12
-watchers_count: 12
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/q61org/divergence_meter/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/q61org/divergence_meter/assignees{/user}
+  blobs_url: https://api.github.com/repos/q61org/divergence_meter/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/q61org/divergence_meter/branches{/branch}
+  clone_url: https://github.com/q61org/divergence_meter.git
+  collaborators_url: https://api.github.com/repos/q61org/divergence_meter/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/q61org/divergence_meter/comments{/number}
+  commits_url: https://api.github.com/repos/q61org/divergence_meter/commits{/sha}
+  compare_url: https://api.github.com/repos/q61org/divergence_meter/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/q61org/divergence_meter/contents/{+path}
+  contributors_url: https://api.github.com/repos/q61org/divergence_meter/contributors
+  created_at: '2017-02-02T03:51:14Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/q61org/divergence_meter/deployments
+  description: A divergence meter that tries to look just like the one in the anime.
+  disabled: false
+  downloads_url: https://api.github.com/repos/q61org/divergence_meter/downloads
+  events_url: https://api.github.com/repos/q61org/divergence_meter/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/q61org/divergence_meter/forks
+  full_name: q61org/divergence_meter
+  git_commits_url: https://api.github.com/repos/q61org/divergence_meter/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/q61org/divergence_meter/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/q61org/divergence_meter/git/tags{/sha}
+  git_url: git://github.com/q61org/divergence_meter.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/q61org/divergence_meter/hooks
+  html_url: https://github.com/q61org/divergence_meter
+  id: 80691122
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/q61org/divergence_meter/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/q61org/divergence_meter/issues/events{/number}
+  issues_url: https://api.github.com/repos/q61org/divergence_meter/issues{/number}
+  keys_url: https://api.github.com/repos/q61org/divergence_meter/keys{/key_id}
+  labels_url: https://api.github.com/repos/q61org/divergence_meter/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/q61org/divergence_meter/languages
+  license: null
+  merges_url: https://api.github.com/repos/q61org/divergence_meter/merges
+  milestones_url: https://api.github.com/repos/q61org/divergence_meter/milestones{/number}
+  mirror_url: null
+  name: divergence_meter
+  node_id: MDEwOlJlcG9zaXRvcnk4MDY5MTEyMg==
+  notifications_url: https://api.github.com/repos/q61org/divergence_meter/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/22362614?v=4
+    events_url: https://api.github.com/users/q61org/events{/privacy}
+    followers_url: https://api.github.com/users/q61org/followers
+    following_url: https://api.github.com/users/q61org/following{/other_user}
+    gists_url: https://api.github.com/users/q61org/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/q61org
+    id: 22362614
+    login: q61org
+    node_id: MDQ6VXNlcjIyMzYyNjE0
+    organizations_url: https://api.github.com/users/q61org/orgs
+    received_events_url: https://api.github.com/users/q61org/received_events
+    repos_url: https://api.github.com/users/q61org/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/q61org/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/q61org/subscriptions
+    type: User
+    url: https://api.github.com/users/q61org
+  private: false
+  pulls_url: https://api.github.com/repos/q61org/divergence_meter/pulls{/number}
+  pushed_at: '2017-04-27T10:42:37Z'
+  releases_url: https://api.github.com/repos/q61org/divergence_meter/releases{/id}
+  size: 172
+  ssh_url: git@github.com:q61org/divergence_meter.git
+  stargazers_count: 12
+  stargazers_url: https://api.github.com/repos/q61org/divergence_meter/stargazers
+  statuses_url: https://api.github.com/repos/q61org/divergence_meter/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/q61org/divergence_meter/subscribers
+  subscription_url: https://api.github.com/repos/q61org/divergence_meter/subscription
+  svn_url: https://github.com/q61org/divergence_meter
+  tags_url: https://api.github.com/repos/q61org/divergence_meter/tags
+  teams_url: https://api.github.com/repos/q61org/divergence_meter/teams
+  topics: []
+  trees_url: https://api.github.com/repos/q61org/divergence_meter/git/trees{/sha}
+  updated_at: '2023-07-21T01:12:29Z'
+  url: https://api.github.com/repos/q61org/divergence_meter
+  visibility: public
+  watchers: 12
+  watchers_count: 12
+  web_commit_signoff_required: false

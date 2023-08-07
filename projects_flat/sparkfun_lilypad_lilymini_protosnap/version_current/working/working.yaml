@@ -1,108 +1,125 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/branches{/branch}
-clone_url: https://github.com/sparkfun/LilyPad_LilyMini_ProtoSnap.git
-collaborators_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/contributors
-created_at: '2016-02-01T21:14:53Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/deployments
-description: Design files for SparkFun's LilyMini ProtoSnap
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/downloads
-events_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/forks
-full_name: sparkfun/LilyPad_LilyMini_ProtoSnap
-git_commits_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/git/tags{/sha}
-git_url: git://github.com/sparkfun/LilyPad_LilyMini_ProtoSnap.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/hooks
-html_url: https://github.com/sparkfun/LilyPad_LilyMini_ProtoSnap
-id: 50871747
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/merges
-milestones_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/milestones{/number}
-mirror_url: null
-name: LilyPad_LilyMini_ProtoSnap
-node_id: MDEwOlJlcG9zaXRvcnk1MDg3MTc0Nw==
-notifications_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: LilyPad_LilyMini_ProtoSnap
+  github_src: https://github.com/sparkfun/LilyPad_LilyMini_ProtoSnap
+  github_src_repo: https://github.com/sparkfun/LilyPad_LilyMini_ProtoSnap
+  oomp_bot: projects_sparkfun_lilypad_lilymini_protosnap
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfun_lilypad_lilymini_protosnap
+  oomp_doc: projects/projects_flat_sparkfun_lilypad_lilymini_protosnap/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfun_lilypad_lilymini_protosnap
+  oomp_src_flat: projects_flat/projects_flat_sparkfun_lilypad_lilymini_protosnap
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfun_lilypad_lilymini_protosnap
+  oomp_src_folder: projects_flat\sparkfun_lilypad_lilymini_protosnap\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfun_lilypad_lilymini_protosnap\version_current\working
+oomp_key: oomp_projects_flat_sparkfun_lilypad_lilymini_protosnap
+oomp_key_simple: projects_flat_sparkfun_lilypad_lilymini_protosnap
+projects_flat: projects_flat/sparkfun_lilypad_lilymini_protosnap/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_lilypad_lilymini_protosnap/version_current/working
 projects_folder: projects_folder/sparkfun/LilyPad_LilyMini_ProtoSnap/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/pulls{/number}
-pushed_at: '2016-12-15T23:15:18Z'
-releases_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/releases{/id}
-size: 714
-ssh_url: git@github.com:sparkfun/LilyPad_LilyMini_ProtoSnap.git
-stargazers_count: 3
-stargazers_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/subscription
-svn_url: https://github.com/sparkfun/LilyPad_LilyMini_ProtoSnap
-tags_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/tags
-teams_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/teams
-topics:
-- arduino
-- hardware-interactions
-- lilypad
-- sparkfun-products
-trees_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/git/trees{/sha}
-updated_at: '2022-04-21T08:26:07Z'
-url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap
-visibility: public
-watchers: 3
-watchers_count: 3
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/branches{/branch}
+  clone_url: https://github.com/sparkfun/LilyPad_LilyMini_ProtoSnap.git
+  collaborators_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/contributors
+  created_at: '2016-02-01T21:14:53Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/deployments
+  description: Design files for SparkFun's LilyMini ProtoSnap
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/downloads
+  events_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/forks
+  full_name: sparkfun/LilyPad_LilyMini_ProtoSnap
+  git_commits_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/git/tags{/sha}
+  git_url: git://github.com/sparkfun/LilyPad_LilyMini_ProtoSnap.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/hooks
+  html_url: https://github.com/sparkfun/LilyPad_LilyMini_ProtoSnap
+  id: 50871747
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/merges
+  milestones_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/milestones{/number}
+  mirror_url: null
+  name: LilyPad_LilyMini_ProtoSnap
+  node_id: MDEwOlJlcG9zaXRvcnk1MDg3MTc0Nw==
+  notifications_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/pulls{/number}
+  pushed_at: '2016-12-15T23:15:18Z'
+  releases_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/releases{/id}
+  size: 714
+  ssh_url: git@github.com:sparkfun/LilyPad_LilyMini_ProtoSnap.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/subscription
+  svn_url: https://github.com/sparkfun/LilyPad_LilyMini_ProtoSnap
+  tags_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/tags
+  teams_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/teams
+  topics:
+  - arduino
+  - hardware-interactions
+  - lilypad
+  - sparkfun-products
+  trees_url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap/git/trees{/sha}
+  updated_at: '2022-04-21T08:26:07Z'
+  url: https://api.github.com/repos/sparkfun/LilyPad_LilyMini_ProtoSnap
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false

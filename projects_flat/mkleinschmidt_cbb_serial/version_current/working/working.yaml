@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/assignees{/user}
-blobs_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/git/blobs{/sha}
-branches_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/branches{/branch}
-clone_url: https://github.com/mkleinschmidt/CBB-Serial.git
-collaborators_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/comments{/number}
-commits_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/commits{/sha}
-compare_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/compare/{base}...{head}
-contents_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/contents/{+path}
-contributors_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/contributors
-created_at: '2016-10-12T06:17:56Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/deployments
-description: Design files for the CBB-Serial BeagleBone cape
-disabled: false
-downloads_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/downloads
-events_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/forks
-full_name: mkleinschmidt/CBB-Serial
-git_commits_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/git/tags{/sha}
-git_url: git://github.com/mkleinschmidt/CBB-Serial.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/hooks
-html_url: https://github.com/mkleinschmidt/CBB-Serial
-id: 70669089
-is_template: false
-issue_comment_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/issues/events{/number}
-issues_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/issues{/number}
-keys_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/keys{/key_id}
-labels_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/labels{/name}
-language: Eagle
-languages_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/languages
-license: null
-merges_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/merges
-milestones_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/milestones{/number}
-mirror_url: null
-name: CBB-Serial
-node_id: MDEwOlJlcG9zaXRvcnk3MDY2OTA4OQ==
-notifications_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1336384?v=4
-  events_url: https://api.github.com/users/mkleinschmidt/events{/privacy}
-  followers_url: https://api.github.com/users/mkleinschmidt/followers
-  following_url: https://api.github.com/users/mkleinschmidt/following{/other_user}
-  gists_url: https://api.github.com/users/mkleinschmidt/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/mkleinschmidt
-  id: 1336384
-  login: mkleinschmidt
-  node_id: MDQ6VXNlcjEzMzYzODQ=
-  organizations_url: https://api.github.com/users/mkleinschmidt/orgs
-  received_events_url: https://api.github.com/users/mkleinschmidt/received_events
-  repos_url: https://api.github.com/users/mkleinschmidt/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/mkleinschmidt/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/mkleinschmidt/subscriptions
-  type: User
-  url: https://api.github.com/users/mkleinschmidt
-private: false
+links:
+  github_owner: mkleinschmidt
+  github_repo_name: CBB-Serial
+  github_src: https://github.com/mkleinschmidt/CBB-Serial
+  github_src_repo: https://github.com/mkleinschmidt/CBB-Serial
+  oomp_bot: projects_mkleinschmidt_cbb_serial
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_mkleinschmidt_cbb_serial
+  oomp_doc: projects/projects_flat_mkleinschmidt_cbb_serial/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_mkleinschmidt_cbb_serial
+  oomp_src_flat: projects_flat/projects_flat_mkleinschmidt_cbb_serial
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_mkleinschmidt_cbb_serial
+  oomp_src_folder: projects_flat\mkleinschmidt_cbb_serial\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\mkleinschmidt_cbb_serial\version_current\working
+oomp_key: oomp_projects_flat_mkleinschmidt_cbb_serial
+oomp_key_simple: projects_flat_mkleinschmidt_cbb_serial
 projects_flat: projects_flat/mkleinschmidt_cbb_serial/version_current/working
 projects_folder: projects_folder/mkleinschmidt/CBB-Serial/version_current/working
-pulls_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/pulls{/number}
-pushed_at: '2014-07-15T19:51:25Z'
-releases_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/releases{/id}
-size: 1223
-ssh_url: git@github.com:mkleinschmidt/CBB-Serial.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/stargazers
-statuses_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/statuses/{sha}
-subscribers_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/subscribers
-subscription_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/subscription
-svn_url: https://github.com/mkleinschmidt/CBB-Serial
-tags_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/tags
-teams_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/teams
-topics: []
-trees_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/git/trees{/sha}
-updated_at: '2016-10-12T06:17:58Z'
-url: https://api.github.com/repos/mkleinschmidt/CBB-Serial
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/assignees{/user}
+  blobs_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/branches{/branch}
+  clone_url: https://github.com/mkleinschmidt/CBB-Serial.git
+  collaborators_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/comments{/number}
+  commits_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/commits{/sha}
+  compare_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/contents/{+path}
+  contributors_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/contributors
+  created_at: '2016-10-12T06:17:56Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/deployments
+  description: Design files for the CBB-Serial BeagleBone cape
+  disabled: false
+  downloads_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/downloads
+  events_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/forks
+  full_name: mkleinschmidt/CBB-Serial
+  git_commits_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/git/tags{/sha}
+  git_url: git://github.com/mkleinschmidt/CBB-Serial.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/hooks
+  html_url: https://github.com/mkleinschmidt/CBB-Serial
+  id: 70669089
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/issues/events{/number}
+  issues_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/issues{/number}
+  keys_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/keys{/key_id}
+  labels_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/labels{/name}
+  language: Eagle
+  languages_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/languages
+  license: null
+  merges_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/merges
+  milestones_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/milestones{/number}
+  mirror_url: null
+  name: CBB-Serial
+  node_id: MDEwOlJlcG9zaXRvcnk3MDY2OTA4OQ==
+  notifications_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1336384?v=4
+    events_url: https://api.github.com/users/mkleinschmidt/events{/privacy}
+    followers_url: https://api.github.com/users/mkleinschmidt/followers
+    following_url: https://api.github.com/users/mkleinschmidt/following{/other_user}
+    gists_url: https://api.github.com/users/mkleinschmidt/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/mkleinschmidt
+    id: 1336384
+    login: mkleinschmidt
+    node_id: MDQ6VXNlcjEzMzYzODQ=
+    organizations_url: https://api.github.com/users/mkleinschmidt/orgs
+    received_events_url: https://api.github.com/users/mkleinschmidt/received_events
+    repos_url: https://api.github.com/users/mkleinschmidt/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/mkleinschmidt/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/mkleinschmidt/subscriptions
+    type: User
+    url: https://api.github.com/users/mkleinschmidt
+  private: false
+  pulls_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/pulls{/number}
+  pushed_at: '2014-07-15T19:51:25Z'
+  releases_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/releases{/id}
+  size: 1223
+  ssh_url: git@github.com:mkleinschmidt/CBB-Serial.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/stargazers
+  statuses_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/subscribers
+  subscription_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/subscription
+  svn_url: https://github.com/mkleinschmidt/CBB-Serial
+  tags_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/tags
+  teams_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/teams
+  topics: []
+  trees_url: https://api.github.com/repos/mkleinschmidt/CBB-Serial/git/trees{/sha}
+  updated_at: '2016-10-12T06:17:58Z'
+  url: https://api.github.com/repos/mkleinschmidt/CBB-Serial
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

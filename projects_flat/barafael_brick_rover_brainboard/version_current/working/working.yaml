@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/barafael/brick-rover-brainboard/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/barafael/brick-rover-brainboard/assignees{/user}
-blobs_url: https://api.github.com/repos/barafael/brick-rover-brainboard/git/blobs{/sha}
-branches_url: https://api.github.com/repos/barafael/brick-rover-brainboard/branches{/branch}
-clone_url: https://github.com/barafael/brick-rover-brainboard.git
-collaborators_url: https://api.github.com/repos/barafael/brick-rover-brainboard/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/barafael/brick-rover-brainboard/comments{/number}
-commits_url: https://api.github.com/repos/barafael/brick-rover-brainboard/commits{/sha}
-compare_url: https://api.github.com/repos/barafael/brick-rover-brainboard/compare/{base}...{head}
-contents_url: https://api.github.com/repos/barafael/brick-rover-brainboard/contents/{+path}
-contributors_url: https://api.github.com/repos/barafael/brick-rover-brainboard/contributors
-created_at: '2021-11-01T12:50:56Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/barafael/brick-rover-brainboard/deployments
-description: A PCB module with stm32f411 "Black Pill" and hc-12 that can serve as
-  basic hobby RC-like sender or receiver.
-disabled: false
-downloads_url: https://api.github.com/repos/barafael/brick-rover-brainboard/downloads
-events_url: https://api.github.com/repos/barafael/brick-rover-brainboard/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/barafael/brick-rover-brainboard/forks
-full_name: barafael/brick-rover-brainboard
-git_commits_url: https://api.github.com/repos/barafael/brick-rover-brainboard/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/barafael/brick-rover-brainboard/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/barafael/brick-rover-brainboard/git/tags{/sha}
-git_url: git://github.com/barafael/brick-rover-brainboard.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/barafael/brick-rover-brainboard/hooks
-html_url: https://github.com/barafael/brick-rover-brainboard
-id: 423463241
-is_template: false
-issue_comment_url: https://api.github.com/repos/barafael/brick-rover-brainboard/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/barafael/brick-rover-brainboard/issues/events{/number}
-issues_url: https://api.github.com/repos/barafael/brick-rover-brainboard/issues{/number}
-keys_url: https://api.github.com/repos/barafael/brick-rover-brainboard/keys{/key_id}
-labels_url: https://api.github.com/repos/barafael/brick-rover-brainboard/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/barafael/brick-rover-brainboard/languages
-license:
-  key: apache-2.0
-  name: Apache License 2.0
-  node_id: MDc6TGljZW5zZTI=
-  spdx_id: Apache-2.0
-  url: https://api.github.com/licenses/apache-2.0
-merges_url: https://api.github.com/repos/barafael/brick-rover-brainboard/merges
-milestones_url: https://api.github.com/repos/barafael/brick-rover-brainboard/milestones{/number}
-mirror_url: null
-name: brick-rover-brainboard
-node_id: R_kgDOGT2JSQ
-notifications_url: https://api.github.com/repos/barafael/brick-rover-brainboard/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/6966738?v=4
-  events_url: https://api.github.com/users/barafael/events{/privacy}
-  followers_url: https://api.github.com/users/barafael/followers
-  following_url: https://api.github.com/users/barafael/following{/other_user}
-  gists_url: https://api.github.com/users/barafael/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/barafael
-  id: 6966738
-  login: barafael
-  node_id: MDQ6VXNlcjY5NjY3Mzg=
-  organizations_url: https://api.github.com/users/barafael/orgs
-  received_events_url: https://api.github.com/users/barafael/received_events
-  repos_url: https://api.github.com/users/barafael/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/barafael/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/barafael/subscriptions
-  type: User
-  url: https://api.github.com/users/barafael
-private: false
+links:
+  github_owner: barafael
+  github_repo_name: brick-rover-brainboard
+  github_src: https://github.com/barafael/brick-rover-brainboard
+  github_src_repo: https://github.com/barafael/brick-rover-brainboard
+  oomp_bot: projects_barafael_brick_rover_brainboard
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_barafael_brick_rover_brainboard
+  oomp_doc: projects/projects_flat_barafael_brick_rover_brainboard/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_barafael_brick_rover_brainboard
+  oomp_src_flat: projects_flat/projects_flat_barafael_brick_rover_brainboard
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_barafael_brick_rover_brainboard
+  oomp_src_folder: projects_flat\barafael_brick_rover_brainboard\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\barafael_brick_rover_brainboard\version_current\working
+oomp_key: oomp_projects_flat_barafael_brick_rover_brainboard
+oomp_key_simple: projects_flat_barafael_brick_rover_brainboard
 projects_flat: projects_flat/barafael_brick_rover_brainboard/version_current/working
 projects_folder: projects_folder/barafael/brick-rover-brainboard/version_current/working
-pulls_url: https://api.github.com/repos/barafael/brick-rover-brainboard/pulls{/number}
-pushed_at: '2021-12-25T18:43:27Z'
-releases_url: https://api.github.com/repos/barafael/brick-rover-brainboard/releases{/id}
-size: 762
-ssh_url: git@github.com:barafael/brick-rover-brainboard.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/barafael/brick-rover-brainboard/stargazers
-statuses_url: https://api.github.com/repos/barafael/brick-rover-brainboard/statuses/{sha}
-subscribers_url: https://api.github.com/repos/barafael/brick-rover-brainboard/subscribers
-subscription_url: https://api.github.com/repos/barafael/brick-rover-brainboard/subscription
-svn_url: https://github.com/barafael/brick-rover-brainboard
-tags_url: https://api.github.com/repos/barafael/brick-rover-brainboard/tags
-teams_url: https://api.github.com/repos/barafael/brick-rover-brainboard/teams
-topics: []
-trees_url: https://api.github.com/repos/barafael/brick-rover-brainboard/git/trees{/sha}
-updated_at: '2021-12-25T18:43:30Z'
-url: https://api.github.com/repos/barafael/brick-rover-brainboard
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/barafael/brick-rover-brainboard/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/barafael/brick-rover-brainboard/assignees{/user}
+  blobs_url: https://api.github.com/repos/barafael/brick-rover-brainboard/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/barafael/brick-rover-brainboard/branches{/branch}
+  clone_url: https://github.com/barafael/brick-rover-brainboard.git
+  collaborators_url: https://api.github.com/repos/barafael/brick-rover-brainboard/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/barafael/brick-rover-brainboard/comments{/number}
+  commits_url: https://api.github.com/repos/barafael/brick-rover-brainboard/commits{/sha}
+  compare_url: https://api.github.com/repos/barafael/brick-rover-brainboard/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/barafael/brick-rover-brainboard/contents/{+path}
+  contributors_url: https://api.github.com/repos/barafael/brick-rover-brainboard/contributors
+  created_at: '2021-11-01T12:50:56Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/barafael/brick-rover-brainboard/deployments
+  description: A PCB module with stm32f411 "Black Pill" and hc-12 that can serve as
+    basic hobby RC-like sender or receiver.
+  disabled: false
+  downloads_url: https://api.github.com/repos/barafael/brick-rover-brainboard/downloads
+  events_url: https://api.github.com/repos/barafael/brick-rover-brainboard/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/barafael/brick-rover-brainboard/forks
+  full_name: barafael/brick-rover-brainboard
+  git_commits_url: https://api.github.com/repos/barafael/brick-rover-brainboard/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/barafael/brick-rover-brainboard/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/barafael/brick-rover-brainboard/git/tags{/sha}
+  git_url: git://github.com/barafael/brick-rover-brainboard.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/barafael/brick-rover-brainboard/hooks
+  html_url: https://github.com/barafael/brick-rover-brainboard
+  id: 423463241
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/barafael/brick-rover-brainboard/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/barafael/brick-rover-brainboard/issues/events{/number}
+  issues_url: https://api.github.com/repos/barafael/brick-rover-brainboard/issues{/number}
+  keys_url: https://api.github.com/repos/barafael/brick-rover-brainboard/keys{/key_id}
+  labels_url: https://api.github.com/repos/barafael/brick-rover-brainboard/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/barafael/brick-rover-brainboard/languages
+  license:
+    key: apache-2.0
+    name: Apache License 2.0
+    node_id: MDc6TGljZW5zZTI=
+    spdx_id: Apache-2.0
+    url: https://api.github.com/licenses/apache-2.0
+  merges_url: https://api.github.com/repos/barafael/brick-rover-brainboard/merges
+  milestones_url: https://api.github.com/repos/barafael/brick-rover-brainboard/milestones{/number}
+  mirror_url: null
+  name: brick-rover-brainboard
+  node_id: R_kgDOGT2JSQ
+  notifications_url: https://api.github.com/repos/barafael/brick-rover-brainboard/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/6966738?v=4
+    events_url: https://api.github.com/users/barafael/events{/privacy}
+    followers_url: https://api.github.com/users/barafael/followers
+    following_url: https://api.github.com/users/barafael/following{/other_user}
+    gists_url: https://api.github.com/users/barafael/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/barafael
+    id: 6966738
+    login: barafael
+    node_id: MDQ6VXNlcjY5NjY3Mzg=
+    organizations_url: https://api.github.com/users/barafael/orgs
+    received_events_url: https://api.github.com/users/barafael/received_events
+    repos_url: https://api.github.com/users/barafael/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/barafael/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/barafael/subscriptions
+    type: User
+    url: https://api.github.com/users/barafael
+  private: false
+  pulls_url: https://api.github.com/repos/barafael/brick-rover-brainboard/pulls{/number}
+  pushed_at: '2021-12-25T18:43:27Z'
+  releases_url: https://api.github.com/repos/barafael/brick-rover-brainboard/releases{/id}
+  size: 762
+  ssh_url: git@github.com:barafael/brick-rover-brainboard.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/barafael/brick-rover-brainboard/stargazers
+  statuses_url: https://api.github.com/repos/barafael/brick-rover-brainboard/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/barafael/brick-rover-brainboard/subscribers
+  subscription_url: https://api.github.com/repos/barafael/brick-rover-brainboard/subscription
+  svn_url: https://github.com/barafael/brick-rover-brainboard
+  tags_url: https://api.github.com/repos/barafael/brick-rover-brainboard/tags
+  teams_url: https://api.github.com/repos/barafael/brick-rover-brainboard/teams
+  topics: []
+  trees_url: https://api.github.com/repos/barafael/brick-rover-brainboard/git/trees{/sha}
+  updated_at: '2021-12-25T18:43:30Z'
+  url: https://api.github.com/repos/barafael/brick-rover-brainboard
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

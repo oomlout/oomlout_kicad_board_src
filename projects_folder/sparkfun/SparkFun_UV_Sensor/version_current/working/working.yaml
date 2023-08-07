@@ -1,108 +1,125 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/branches{/branch}
-clone_url: https://github.com/sparkfun/SparkFun_UV_Sensor.git
-collaborators_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/contributors
-created_at: '2018-11-08T22:52:58Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/deployments
-description: 'The VEML6075 can detect the intensity of UVA (~365nm) and UVB (~330nm)
-  waves. '
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/downloads
-events_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/forks
-full_name: sparkfun/SparkFun_UV_Sensor
-git_commits_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/git/tags{/sha}
-git_url: git://github.com/sparkfun/SparkFun_UV_Sensor.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.sparkfun.com/
-hooks_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/hooks
-html_url: https://github.com/sparkfun/SparkFun_UV_Sensor
-id: 156779475
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/labels{/name}
-language: Game Maker Language
-languages_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/merges
-milestones_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/milestones{/number}
-mirror_url: null
-name: SparkFun_UV_Sensor
-node_id: MDEwOlJlcG9zaXRvcnkxNTY3Nzk0NzU=
-notifications_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: SparkFun_UV_Sensor
+  github_src: https://github.com/sparkfun/SparkFun_UV_Sensor
+  github_src_repo: https://github.com/sparkfun/SparkFun_UV_Sensor
+  oomp_bot: sparkfun_sparkfun_uv_sensor
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_sparkfun_uv_sensor
+  oomp_doc: projects/sparkfun_sparkfun_uv_sensor/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_sparkfun_uv_sensor
+  oomp_src_flat: projects_flat/sparkfun_sparkfun_uv_sensor
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_sparkfun_uv_sensor
+  oomp_src_folder: projects_folder\sparkfun\SparkFun_UV_Sensor\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\SparkFun_UV_Sensor\version_current\working
+oomp_key: oomp_sparkfun_sparkfun_uv_sensor
+oomp_key_simple: sparkfun_sparkfun_uv_sensor
+projects_flat: projects_flat/sparkfun_sparkfun_uv_sensor/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_sparkfun_uv_sensor/version_current/working
 projects_folder: projects_folder/sparkfun/SparkFun_UV_Sensor/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/pulls{/number}
-pushed_at: '2018-12-20T22:42:27Z'
-releases_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/releases{/id}
-size: 3734
-ssh_url: git@github.com:sparkfun/SparkFun_UV_Sensor.git
-stargazers_count: 2
-stargazers_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/subscription
-svn_url: https://github.com/sparkfun/SparkFun_UV_Sensor
-tags_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/tags
-teams_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/teams
-topics:
-- sensor
-- sparkfun
-- sparkfun-products
-trees_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/git/trees{/sha}
-updated_at: '2023-07-15T23:14:02Z'
-url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor
-visibility: public
-watchers: 2
-watchers_count: 2
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/branches{/branch}
+  clone_url: https://github.com/sparkfun/SparkFun_UV_Sensor.git
+  collaborators_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/contributors
+  created_at: '2018-11-08T22:52:58Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/deployments
+  description: 'The VEML6075 can detect the intensity of UVA (~365nm) and UVB (~330nm)
+    waves. '
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/downloads
+  events_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/forks
+  full_name: sparkfun/SparkFun_UV_Sensor
+  git_commits_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/git/tags{/sha}
+  git_url: git://github.com/sparkfun/SparkFun_UV_Sensor.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.sparkfun.com/
+  hooks_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/hooks
+  html_url: https://github.com/sparkfun/SparkFun_UV_Sensor
+  id: 156779475
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/labels{/name}
+  language: Game Maker Language
+  languages_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/merges
+  milestones_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/milestones{/number}
+  mirror_url: null
+  name: SparkFun_UV_Sensor
+  node_id: MDEwOlJlcG9zaXRvcnkxNTY3Nzk0NzU=
+  notifications_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/pulls{/number}
+  pushed_at: '2018-12-20T22:42:27Z'
+  releases_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/releases{/id}
+  size: 3734
+  ssh_url: git@github.com:sparkfun/SparkFun_UV_Sensor.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/subscription
+  svn_url: https://github.com/sparkfun/SparkFun_UV_Sensor
+  tags_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/tags
+  teams_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/teams
+  topics:
+  - sensor
+  - sparkfun
+  - sparkfun-products
+  trees_url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor/git/trees{/sha}
+  updated_at: '2023-07-15T23:14:02Z'
+  url: https://api.github.com/repos/sparkfun/SparkFun_UV_Sensor
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false

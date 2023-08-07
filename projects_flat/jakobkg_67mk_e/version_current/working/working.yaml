@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/jakobkg/67mk_E/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/jakobkg/67mk_E/assignees{/user}
-blobs_url: https://api.github.com/repos/jakobkg/67mk_E/git/blobs{/sha}
-branches_url: https://api.github.com/repos/jakobkg/67mk_E/branches{/branch}
-clone_url: https://github.com/jakobkg/67mk_E.git
-collaborators_url: https://api.github.com/repos/jakobkg/67mk_E/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/jakobkg/67mk_E/comments{/number}
-commits_url: https://api.github.com/repos/jakobkg/67mk_E/commits{/sha}
-compare_url: https://api.github.com/repos/jakobkg/67mk_E/compare/{base}...{head}
-contents_url: https://api.github.com/repos/jakobkg/67mk_E/contents/{+path}
-contributors_url: https://api.github.com/repos/jakobkg/67mk_E/contributors
-created_at: '2021-08-12T09:54:07Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/jakobkg/67mk_E/deployments
-description: A simple "no frills" drop-in replacement PCB for the KBDfans 67mkII /
-  67lite
-disabled: false
-downloads_url: https://api.github.com/repos/jakobkg/67mk_E/downloads
-events_url: https://api.github.com/repos/jakobkg/67mk_E/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/jakobkg/67mk_E/forks
-full_name: jakobkg/67mk_E
-git_commits_url: https://api.github.com/repos/jakobkg/67mk_E/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/jakobkg/67mk_E/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/jakobkg/67mk_E/git/tags{/sha}
-git_url: git://github.com/jakobkg/67mk_E.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/jakobkg/67mk_E/hooks
-html_url: https://github.com/jakobkg/67mk_E
-id: 395271797
-is_template: false
-issue_comment_url: https://api.github.com/repos/jakobkg/67mk_E/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/jakobkg/67mk_E/issues/events{/number}
-issues_url: https://api.github.com/repos/jakobkg/67mk_E/issues{/number}
-keys_url: https://api.github.com/repos/jakobkg/67mk_E/keys{/key_id}
-labels_url: https://api.github.com/repos/jakobkg/67mk_E/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/jakobkg/67mk_E/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/jakobkg/67mk_E/merges
-milestones_url: https://api.github.com/repos/jakobkg/67mk_E/milestones{/number}
-mirror_url: null
-name: 67mk_E
-node_id: MDEwOlJlcG9zaXRvcnkzOTUyNzE3OTc=
-notifications_url: https://api.github.com/repos/jakobkg/67mk_E/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/25484353?v=4
-  events_url: https://api.github.com/users/jakobkg/events{/privacy}
-  followers_url: https://api.github.com/users/jakobkg/followers
-  following_url: https://api.github.com/users/jakobkg/following{/other_user}
-  gists_url: https://api.github.com/users/jakobkg/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/jakobkg
-  id: 25484353
-  login: jakobkg
-  node_id: MDQ6VXNlcjI1NDg0MzUz
-  organizations_url: https://api.github.com/users/jakobkg/orgs
-  received_events_url: https://api.github.com/users/jakobkg/received_events
-  repos_url: https://api.github.com/users/jakobkg/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/jakobkg/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/jakobkg/subscriptions
-  type: User
-  url: https://api.github.com/users/jakobkg
-private: false
+links:
+  github_owner: jakobkg
+  github_repo_name: 67mk_E
+  github_src: https://github.com/jakobkg/67mk_E
+  github_src_repo: https://github.com/jakobkg/67mk_E
+  oomp_bot: projects_jakobkg_67mk_e
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_jakobkg_67mk_e
+  oomp_doc: projects/projects_flat_jakobkg_67mk_e/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_jakobkg_67mk_e
+  oomp_src_flat: projects_flat/projects_flat_jakobkg_67mk_e
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_jakobkg_67mk_e
+  oomp_src_folder: projects_flat\jakobkg_67mk_e\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\jakobkg_67mk_e\version_current\working
+oomp_key: oomp_projects_flat_jakobkg_67mk_e
+oomp_key_simple: projects_flat_jakobkg_67mk_e
 projects_flat: projects_flat/jakobkg_67mk_e/version_current/working
 projects_folder: projects_folder/jakobkg/67mk_E/version_current/working
-pulls_url: https://api.github.com/repos/jakobkg/67mk_E/pulls{/number}
-pushed_at: '2021-08-30T20:33:56Z'
-releases_url: https://api.github.com/repos/jakobkg/67mk_E/releases{/id}
-size: 10244
-ssh_url: git@github.com:jakobkg/67mk_E.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/jakobkg/67mk_E/stargazers
-statuses_url: https://api.github.com/repos/jakobkg/67mk_E/statuses/{sha}
-subscribers_url: https://api.github.com/repos/jakobkg/67mk_E/subscribers
-subscription_url: https://api.github.com/repos/jakobkg/67mk_E/subscription
-svn_url: https://github.com/jakobkg/67mk_E
-tags_url: https://api.github.com/repos/jakobkg/67mk_E/tags
-teams_url: https://api.github.com/repos/jakobkg/67mk_E/teams
-topics: []
-trees_url: https://api.github.com/repos/jakobkg/67mk_E/git/trees{/sha}
-updated_at: '2021-10-09T10:23:26Z'
-url: https://api.github.com/repos/jakobkg/67mk_E
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/jakobkg/67mk_E/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/jakobkg/67mk_E/assignees{/user}
+  blobs_url: https://api.github.com/repos/jakobkg/67mk_E/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/jakobkg/67mk_E/branches{/branch}
+  clone_url: https://github.com/jakobkg/67mk_E.git
+  collaborators_url: https://api.github.com/repos/jakobkg/67mk_E/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/jakobkg/67mk_E/comments{/number}
+  commits_url: https://api.github.com/repos/jakobkg/67mk_E/commits{/sha}
+  compare_url: https://api.github.com/repos/jakobkg/67mk_E/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/jakobkg/67mk_E/contents/{+path}
+  contributors_url: https://api.github.com/repos/jakobkg/67mk_E/contributors
+  created_at: '2021-08-12T09:54:07Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/jakobkg/67mk_E/deployments
+  description: A simple "no frills" drop-in replacement PCB for the KBDfans 67mkII
+    / 67lite
+  disabled: false
+  downloads_url: https://api.github.com/repos/jakobkg/67mk_E/downloads
+  events_url: https://api.github.com/repos/jakobkg/67mk_E/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/jakobkg/67mk_E/forks
+  full_name: jakobkg/67mk_E
+  git_commits_url: https://api.github.com/repos/jakobkg/67mk_E/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/jakobkg/67mk_E/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/jakobkg/67mk_E/git/tags{/sha}
+  git_url: git://github.com/jakobkg/67mk_E.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/jakobkg/67mk_E/hooks
+  html_url: https://github.com/jakobkg/67mk_E
+  id: 395271797
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/jakobkg/67mk_E/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/jakobkg/67mk_E/issues/events{/number}
+  issues_url: https://api.github.com/repos/jakobkg/67mk_E/issues{/number}
+  keys_url: https://api.github.com/repos/jakobkg/67mk_E/keys{/key_id}
+  labels_url: https://api.github.com/repos/jakobkg/67mk_E/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/jakobkg/67mk_E/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/jakobkg/67mk_E/merges
+  milestones_url: https://api.github.com/repos/jakobkg/67mk_E/milestones{/number}
+  mirror_url: null
+  name: 67mk_E
+  node_id: MDEwOlJlcG9zaXRvcnkzOTUyNzE3OTc=
+  notifications_url: https://api.github.com/repos/jakobkg/67mk_E/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/25484353?v=4
+    events_url: https://api.github.com/users/jakobkg/events{/privacy}
+    followers_url: https://api.github.com/users/jakobkg/followers
+    following_url: https://api.github.com/users/jakobkg/following{/other_user}
+    gists_url: https://api.github.com/users/jakobkg/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/jakobkg
+    id: 25484353
+    login: jakobkg
+    node_id: MDQ6VXNlcjI1NDg0MzUz
+    organizations_url: https://api.github.com/users/jakobkg/orgs
+    received_events_url: https://api.github.com/users/jakobkg/received_events
+    repos_url: https://api.github.com/users/jakobkg/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/jakobkg/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/jakobkg/subscriptions
+    type: User
+    url: https://api.github.com/users/jakobkg
+  private: false
+  pulls_url: https://api.github.com/repos/jakobkg/67mk_E/pulls{/number}
+  pushed_at: '2021-08-30T20:33:56Z'
+  releases_url: https://api.github.com/repos/jakobkg/67mk_E/releases{/id}
+  size: 10244
+  ssh_url: git@github.com:jakobkg/67mk_E.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/jakobkg/67mk_E/stargazers
+  statuses_url: https://api.github.com/repos/jakobkg/67mk_E/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/jakobkg/67mk_E/subscribers
+  subscription_url: https://api.github.com/repos/jakobkg/67mk_E/subscription
+  svn_url: https://github.com/jakobkg/67mk_E
+  tags_url: https://api.github.com/repos/jakobkg/67mk_E/tags
+  teams_url: https://api.github.com/repos/jakobkg/67mk_E/teams
+  topics: []
+  trees_url: https://api.github.com/repos/jakobkg/67mk_E/git/trees{/sha}
+  updated_at: '2021-10-09T10:23:26Z'
+  url: https://api.github.com/repos/jakobkg/67mk_E
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

@@ -1,105 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/assignees{/user}
-blobs_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/git/blobs{/sha}
-branches_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/branches{/branch}
-clone_url: https://github.com/8BitMixtape/8Bitmixtape_reworked.git
-collaborators_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/comments{/number}
-commits_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/commits{/sha}
-compare_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/compare/{base}...{head}
-contents_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/contents/{+path}
-contributors_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/contributors
-created_at: '2019-05-01T09:46:56Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/deployments
-description: Complete revision of files - Now full with KiCad 5 and svg2shenzhen.
-  Many new designs available!!
-disabled: false
-downloads_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/downloads
-events_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/events
-fork: false
-forks: 2
-forks_count: 2
-forks_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/forks
-full_name: 8BitMixtape/8Bitmixtape_reworked
-git_commits_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/git/tags{/sha}
-git_url: git://github.com/8BitMixtape/8Bitmixtape_reworked.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/hooks
-html_url: https://github.com/8BitMixtape/8Bitmixtape_reworked
-id: 184396708
-is_template: false
-issue_comment_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/issues/events{/number}
-issues_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/issues{/number}
-keys_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/keys{/key_id}
-labels_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/labels{/name}
-language: OpenSCAD
-languages_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/merges
-milestones_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/milestones{/number}
-mirror_url: null
-name: 8Bitmixtape_reworked
-node_id: MDEwOlJlcG9zaXRvcnkxODQzOTY3MDg=
-notifications_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/8462711?v=4
-  events_url: https://api.github.com/users/8BitMixtape/events{/privacy}
-  followers_url: https://api.github.com/users/8BitMixtape/followers
-  following_url: https://api.github.com/users/8BitMixtape/following{/other_user}
-  gists_url: https://api.github.com/users/8BitMixtape/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/8BitMixtape
-  id: 8462711
-  login: 8BitMixtape
-  node_id: MDEyOk9yZ2FuaXphdGlvbjg0NjI3MTE=
-  organizations_url: https://api.github.com/users/8BitMixtape/orgs
-  received_events_url: https://api.github.com/users/8BitMixtape/received_events
-  repos_url: https://api.github.com/users/8BitMixtape/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/8BitMixtape/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/8BitMixtape/subscriptions
-  type: Organization
-  url: https://api.github.com/users/8BitMixtape
-private: false
+links:
+  github_owner: 8BitMixtape
+  github_repo_name: 8Bitmixtape_reworked
+  github_src: https://github.com/8BitMixtape/8Bitmixtape_reworked
+  github_src_repo: https://github.com/8BitMixtape/8Bitmixtape_reworked
+  oomp_bot: 8bitmixtape_8bitmixtape_reworked
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/8bitmixtape_8bitmixtape_reworked
+  oomp_doc: projects/8bitmixtape_8bitmixtape_reworked/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/8bitmixtape_8bitmixtape_reworked
+  oomp_src_flat: projects_flat/8bitmixtape_8bitmixtape_reworked
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/8bitmixtape_8bitmixtape_reworked
+  oomp_src_folder: projects_folder\8BitMixtape\8Bitmixtape_reworked\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\8BitMixtape\8Bitmixtape_reworked\version_current\working
+oomp_key: oomp_8bitmixtape_8bitmixtape_reworked
+oomp_key_simple: 8bitmixtape_8bitmixtape_reworked
 projects_flat: projects_flat/8bitmixtape_8bitmixtape_reworked/version_current/working
 projects_folder: projects_folder/8BitMixtape/8Bitmixtape_reworked/version_current/working
-pulls_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/pulls{/number}
-pushed_at: '2019-11-21T11:07:11Z'
-releases_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/releases{/id}
-size: 34683
-ssh_url: git@github.com:8BitMixtape/8Bitmixtape_reworked.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/stargazers
-statuses_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/statuses/{sha}
-subscribers_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/subscribers
-subscription_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/subscription
-svn_url: https://github.com/8BitMixtape/8Bitmixtape_reworked
-tags_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/tags
-teams_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/teams
-topics: []
-trees_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/git/trees{/sha}
-updated_at: '2023-04-27T11:59:04Z'
-url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/assignees{/user}
+  blobs_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/branches{/branch}
+  clone_url: https://github.com/8BitMixtape/8Bitmixtape_reworked.git
+  collaborators_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/comments{/number}
+  commits_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/commits{/sha}
+  compare_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/contents/{+path}
+  contributors_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/contributors
+  created_at: '2019-05-01T09:46:56Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/deployments
+  description: Complete revision of files - Now full with KiCad 5 and svg2shenzhen.
+    Many new designs available!!
+  disabled: false
+  downloads_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/downloads
+  events_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/events
+  fork: false
+  forks: 2
+  forks_count: 2
+  forks_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/forks
+  full_name: 8BitMixtape/8Bitmixtape_reworked
+  git_commits_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/git/tags{/sha}
+  git_url: git://github.com/8BitMixtape/8Bitmixtape_reworked.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/hooks
+  html_url: https://github.com/8BitMixtape/8Bitmixtape_reworked
+  id: 184396708
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/issues/events{/number}
+  issues_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/issues{/number}
+  keys_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/keys{/key_id}
+  labels_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/labels{/name}
+  language: OpenSCAD
+  languages_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/merges
+  milestones_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/milestones{/number}
+  mirror_url: null
+  name: 8Bitmixtape_reworked
+  node_id: MDEwOlJlcG9zaXRvcnkxODQzOTY3MDg=
+  notifications_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/8462711?v=4
+    events_url: https://api.github.com/users/8BitMixtape/events{/privacy}
+    followers_url: https://api.github.com/users/8BitMixtape/followers
+    following_url: https://api.github.com/users/8BitMixtape/following{/other_user}
+    gists_url: https://api.github.com/users/8BitMixtape/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/8BitMixtape
+    id: 8462711
+    login: 8BitMixtape
+    node_id: MDEyOk9yZ2FuaXphdGlvbjg0NjI3MTE=
+    organizations_url: https://api.github.com/users/8BitMixtape/orgs
+    received_events_url: https://api.github.com/users/8BitMixtape/received_events
+    repos_url: https://api.github.com/users/8BitMixtape/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/8BitMixtape/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/8BitMixtape/subscriptions
+    type: Organization
+    url: https://api.github.com/users/8BitMixtape
+  private: false
+  pulls_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/pulls{/number}
+  pushed_at: '2019-11-21T11:07:11Z'
+  releases_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/releases{/id}
+  size: 34683
+  ssh_url: git@github.com:8BitMixtape/8Bitmixtape_reworked.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/stargazers
+  statuses_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/subscribers
+  subscription_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/subscription
+  svn_url: https://github.com/8BitMixtape/8Bitmixtape_reworked
+  tags_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/tags
+  teams_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/teams
+  topics: []
+  trees_url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked/git/trees{/sha}
+  updated_at: '2023-04-27T11:59:04Z'
+  url: https://api.github.com/repos/8BitMixtape/8Bitmixtape_reworked
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

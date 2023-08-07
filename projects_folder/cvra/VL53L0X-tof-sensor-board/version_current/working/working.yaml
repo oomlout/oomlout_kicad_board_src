@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/assignees{/user}
-blobs_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/git/blobs{/sha}
-branches_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/branches{/branch}
-clone_url: https://github.com/cvra/VL53L0X-tof-sensor-board.git
-collaborators_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/comments{/number}
-commits_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/commits{/sha}
-compare_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/compare/{base}...{head}
-contents_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/contents/{+path}
-contributors_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/contributors
-created_at: '2016-08-31T23:31:18Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/deployments
-description: PCB design for the VL53L0X time of flight distance sensor connected over
-  CAN
-disabled: false
-downloads_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/downloads
-events_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/forks
-full_name: cvra/VL53L0X-tof-sensor-board
-git_commits_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/git/tags{/sha}
-git_url: git://github.com/cvra/VL53L0X-tof-sensor-board.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/hooks
-html_url: https://github.com/cvra/VL53L0X-tof-sensor-board
-id: 67080992
-is_template: false
-issue_comment_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/issues/events{/number}
-issues_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/issues{/number}
-keys_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/keys{/key_id}
-labels_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/labels{/name}
-language: Python
-languages_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/languages
-license: null
-merges_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/merges
-milestones_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/milestones{/number}
-mirror_url: null
-name: VL53L0X-tof-sensor-board
-node_id: MDEwOlJlcG9zaXRvcnk2NzA4MDk5Mg==
-notifications_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/5530328?v=4
-  events_url: https://api.github.com/users/cvra/events{/privacy}
-  followers_url: https://api.github.com/users/cvra/followers
-  following_url: https://api.github.com/users/cvra/following{/other_user}
-  gists_url: https://api.github.com/users/cvra/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/cvra
-  id: 5530328
-  login: cvra
-  node_id: MDEyOk9yZ2FuaXphdGlvbjU1MzAzMjg=
-  organizations_url: https://api.github.com/users/cvra/orgs
-  received_events_url: https://api.github.com/users/cvra/received_events
-  repos_url: https://api.github.com/users/cvra/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/cvra/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/cvra/subscriptions
-  type: Organization
-  url: https://api.github.com/users/cvra
-private: false
+links:
+  github_owner: cvra
+  github_repo_name: VL53L0X-tof-sensor-board
+  github_src: https://github.com/cvra/VL53L0X-tof-sensor-board
+  github_src_repo: https://github.com/cvra/VL53L0X-tof-sensor-board
+  oomp_bot: cvra_vl53l0x_tof_sensor_board
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/cvra_vl53l0x_tof_sensor_board
+  oomp_doc: projects/cvra_vl53l0x_tof_sensor_board/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/cvra_vl53l0x_tof_sensor_board
+  oomp_src_flat: projects_flat/cvra_vl53l0x_tof_sensor_board
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/cvra_vl53l0x_tof_sensor_board
+  oomp_src_folder: projects_folder\cvra\VL53L0X-tof-sensor-board\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\cvra\VL53L0X-tof-sensor-board\version_current\working
+oomp_key: oomp_cvra_vl53l0x_tof_sensor_board
+oomp_key_simple: cvra_vl53l0x_tof_sensor_board
 projects_flat: projects_flat/cvra_vl53l0x_tof_sensor_board/version_current/working
 projects_folder: projects_folder/cvra/VL53L0X-tof-sensor-board/version_current/working
-pulls_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/pulls{/number}
-pushed_at: '2016-09-06T13:17:59Z'
-releases_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/releases{/id}
-size: 5064
-ssh_url: git@github.com:cvra/VL53L0X-tof-sensor-board.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/stargazers
-statuses_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/statuses/{sha}
-subscribers_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/subscribers
-subscription_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/subscription
-svn_url: https://github.com/cvra/VL53L0X-tof-sensor-board
-tags_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/tags
-teams_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/teams
-topics: []
-trees_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/git/trees{/sha}
-updated_at: '2020-07-02T22:40:34Z'
-url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/assignees{/user}
+  blobs_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/branches{/branch}
+  clone_url: https://github.com/cvra/VL53L0X-tof-sensor-board.git
+  collaborators_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/comments{/number}
+  commits_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/commits{/sha}
+  compare_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/contents/{+path}
+  contributors_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/contributors
+  created_at: '2016-08-31T23:31:18Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/deployments
+  description: PCB design for the VL53L0X time of flight distance sensor connected
+    over CAN
+  disabled: false
+  downloads_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/downloads
+  events_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/forks
+  full_name: cvra/VL53L0X-tof-sensor-board
+  git_commits_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/git/tags{/sha}
+  git_url: git://github.com/cvra/VL53L0X-tof-sensor-board.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/hooks
+  html_url: https://github.com/cvra/VL53L0X-tof-sensor-board
+  id: 67080992
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/issues/events{/number}
+  issues_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/issues{/number}
+  keys_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/keys{/key_id}
+  labels_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/labels{/name}
+  language: Python
+  languages_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/languages
+  license: null
+  merges_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/merges
+  milestones_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/milestones{/number}
+  mirror_url: null
+  name: VL53L0X-tof-sensor-board
+  node_id: MDEwOlJlcG9zaXRvcnk2NzA4MDk5Mg==
+  notifications_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/5530328?v=4
+    events_url: https://api.github.com/users/cvra/events{/privacy}
+    followers_url: https://api.github.com/users/cvra/followers
+    following_url: https://api.github.com/users/cvra/following{/other_user}
+    gists_url: https://api.github.com/users/cvra/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/cvra
+    id: 5530328
+    login: cvra
+    node_id: MDEyOk9yZ2FuaXphdGlvbjU1MzAzMjg=
+    organizations_url: https://api.github.com/users/cvra/orgs
+    received_events_url: https://api.github.com/users/cvra/received_events
+    repos_url: https://api.github.com/users/cvra/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/cvra/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/cvra/subscriptions
+    type: Organization
+    url: https://api.github.com/users/cvra
+  private: false
+  pulls_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/pulls{/number}
+  pushed_at: '2016-09-06T13:17:59Z'
+  releases_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/releases{/id}
+  size: 5064
+  ssh_url: git@github.com:cvra/VL53L0X-tof-sensor-board.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/stargazers
+  statuses_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/subscribers
+  subscription_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/subscription
+  svn_url: https://github.com/cvra/VL53L0X-tof-sensor-board
+  tags_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/tags
+  teams_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/teams
+  topics: []
+  trees_url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board/git/trees{/sha}
+  updated_at: '2020-07-02T22:40:34Z'
+  url: https://api.github.com/repos/cvra/VL53L0X-tof-sensor-board
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

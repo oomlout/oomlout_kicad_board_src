@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/garrettsworkshop/RAM2E/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/garrettsworkshop/RAM2E/assignees{/user}
-blobs_url: https://api.github.com/repos/garrettsworkshop/RAM2E/git/blobs{/sha}
-branches_url: https://api.github.com/repos/garrettsworkshop/RAM2E/branches{/branch}
-clone_url: https://github.com/garrettsworkshop/RAM2E.git
-collaborators_url: https://api.github.com/repos/garrettsworkshop/RAM2E/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/garrettsworkshop/RAM2E/comments{/number}
-commits_url: https://api.github.com/repos/garrettsworkshop/RAM2E/commits{/sha}
-compare_url: https://api.github.com/repos/garrettsworkshop/RAM2E/compare/{base}...{head}
-contents_url: https://api.github.com/repos/garrettsworkshop/RAM2E/contents/{+path}
-contributors_url: https://api.github.com/repos/garrettsworkshop/RAM2E/contributors
-created_at: '2020-07-25T08:30:12Z'
-default_branch: release-GW4203B
-deployments_url: https://api.github.com/repos/garrettsworkshop/RAM2E/deployments
-description: RAMWorks-compatible auxiliary RAM expansion card for Apple IIe
-disabled: false
-downloads_url: https://api.github.com/repos/garrettsworkshop/RAM2E/downloads
-events_url: https://api.github.com/repos/garrettsworkshop/RAM2E/events
-fork: false
-forks: 3
-forks_count: 3
-forks_url: https://api.github.com/repos/garrettsworkshop/RAM2E/forks
-full_name: garrettsworkshop/RAM2E
-git_commits_url: https://api.github.com/repos/garrettsworkshop/RAM2E/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/garrettsworkshop/RAM2E/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/garrettsworkshop/RAM2E/git/tags{/sha}
-git_url: git://github.com/garrettsworkshop/RAM2E.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: true
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/garrettsworkshop/RAM2E/hooks
-html_url: https://github.com/garrettsworkshop/RAM2E
-id: 282403489
-is_template: false
-issue_comment_url: https://api.github.com/repos/garrettsworkshop/RAM2E/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/garrettsworkshop/RAM2E/issues/events{/number}
-issues_url: https://api.github.com/repos/garrettsworkshop/RAM2E/issues{/number}
-keys_url: https://api.github.com/repos/garrettsworkshop/RAM2E/keys{/key_id}
-labels_url: https://api.github.com/repos/garrettsworkshop/RAM2E/labels{/name}
-language: Verilog
-languages_url: https://api.github.com/repos/garrettsworkshop/RAM2E/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/garrettsworkshop/RAM2E/merges
-milestones_url: https://api.github.com/repos/garrettsworkshop/RAM2E/milestones{/number}
-mirror_url: null
-name: RAM2E
-node_id: MDEwOlJlcG9zaXRvcnkyODI0MDM0ODk=
-notifications_url: https://api.github.com/repos/garrettsworkshop/RAM2E/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
-  events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
-  followers_url: https://api.github.com/users/garrettsworkshop/followers
-  following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
-  gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/garrettsworkshop
-  id: 65582366
-  login: garrettsworkshop
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
-  organizations_url: https://api.github.com/users/garrettsworkshop/orgs
-  received_events_url: https://api.github.com/users/garrettsworkshop/received_events
-  repos_url: https://api.github.com/users/garrettsworkshop/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
-  type: Organization
-  url: https://api.github.com/users/garrettsworkshop
-private: false
+links:
+  github_owner: garrettsworkshop
+  github_repo_name: RAM2E
+  github_src: https://github.com/garrettsworkshop/RAM2E
+  github_src_repo: https://github.com/garrettsworkshop/RAM2E
+  oomp_bot: garrettsworkshop_ram2e
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/garrettsworkshop_ram2e
+  oomp_doc: projects/garrettsworkshop_ram2e/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/garrettsworkshop_ram2e
+  oomp_src_flat: projects_flat/garrettsworkshop_ram2e
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/garrettsworkshop_ram2e
+  oomp_src_folder: projects_folder\garrettsworkshop\RAM2E\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\garrettsworkshop\RAM2E\version_current\working
+oomp_key: oomp_garrettsworkshop_ram2e
+oomp_key_simple: garrettsworkshop_ram2e
 projects_flat: projects_flat/garrettsworkshop_ram2e/version_current/working
 projects_folder: projects_folder/garrettsworkshop/RAM2E/version_current/working
-pulls_url: https://api.github.com/repos/garrettsworkshop/RAM2E/pulls{/number}
-pushed_at: '2021-09-05T04:01:04Z'
-releases_url: https://api.github.com/repos/garrettsworkshop/RAM2E/releases{/id}
-size: 62394
-ssh_url: git@github.com:garrettsworkshop/RAM2E.git
-stargazers_count: 13
-stargazers_url: https://api.github.com/repos/garrettsworkshop/RAM2E/stargazers
-statuses_url: https://api.github.com/repos/garrettsworkshop/RAM2E/statuses/{sha}
-subscribers_url: https://api.github.com/repos/garrettsworkshop/RAM2E/subscribers
-subscription_url: https://api.github.com/repos/garrettsworkshop/RAM2E/subscription
-svn_url: https://github.com/garrettsworkshop/RAM2E
-tags_url: https://api.github.com/repos/garrettsworkshop/RAM2E/tags
-teams_url: https://api.github.com/repos/garrettsworkshop/RAM2E/teams
-topics: []
-trees_url: https://api.github.com/repos/garrettsworkshop/RAM2E/git/trees{/sha}
-updated_at: '2023-01-31T06:18:15Z'
-url: https://api.github.com/repos/garrettsworkshop/RAM2E
-visibility: public
-watchers: 13
-watchers_count: 13
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/garrettsworkshop/RAM2E/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/garrettsworkshop/RAM2E/assignees{/user}
+  blobs_url: https://api.github.com/repos/garrettsworkshop/RAM2E/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/garrettsworkshop/RAM2E/branches{/branch}
+  clone_url: https://github.com/garrettsworkshop/RAM2E.git
+  collaborators_url: https://api.github.com/repos/garrettsworkshop/RAM2E/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/garrettsworkshop/RAM2E/comments{/number}
+  commits_url: https://api.github.com/repos/garrettsworkshop/RAM2E/commits{/sha}
+  compare_url: https://api.github.com/repos/garrettsworkshop/RAM2E/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/garrettsworkshop/RAM2E/contents/{+path}
+  contributors_url: https://api.github.com/repos/garrettsworkshop/RAM2E/contributors
+  created_at: '2020-07-25T08:30:12Z'
+  default_branch: release-GW4203B
+  deployments_url: https://api.github.com/repos/garrettsworkshop/RAM2E/deployments
+  description: RAMWorks-compatible auxiliary RAM expansion card for Apple IIe
+  disabled: false
+  downloads_url: https://api.github.com/repos/garrettsworkshop/RAM2E/downloads
+  events_url: https://api.github.com/repos/garrettsworkshop/RAM2E/events
+  fork: false
+  forks: 3
+  forks_count: 3
+  forks_url: https://api.github.com/repos/garrettsworkshop/RAM2E/forks
+  full_name: garrettsworkshop/RAM2E
+  git_commits_url: https://api.github.com/repos/garrettsworkshop/RAM2E/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/garrettsworkshop/RAM2E/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/garrettsworkshop/RAM2E/git/tags{/sha}
+  git_url: git://github.com/garrettsworkshop/RAM2E.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: true
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/garrettsworkshop/RAM2E/hooks
+  html_url: https://github.com/garrettsworkshop/RAM2E
+  id: 282403489
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/garrettsworkshop/RAM2E/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/garrettsworkshop/RAM2E/issues/events{/number}
+  issues_url: https://api.github.com/repos/garrettsworkshop/RAM2E/issues{/number}
+  keys_url: https://api.github.com/repos/garrettsworkshop/RAM2E/keys{/key_id}
+  labels_url: https://api.github.com/repos/garrettsworkshop/RAM2E/labels{/name}
+  language: Verilog
+  languages_url: https://api.github.com/repos/garrettsworkshop/RAM2E/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/garrettsworkshop/RAM2E/merges
+  milestones_url: https://api.github.com/repos/garrettsworkshop/RAM2E/milestones{/number}
+  mirror_url: null
+  name: RAM2E
+  node_id: MDEwOlJlcG9zaXRvcnkyODI0MDM0ODk=
+  notifications_url: https://api.github.com/repos/garrettsworkshop/RAM2E/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
+    events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
+    followers_url: https://api.github.com/users/garrettsworkshop/followers
+    following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
+    gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/garrettsworkshop
+    id: 65582366
+    login: garrettsworkshop
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
+    organizations_url: https://api.github.com/users/garrettsworkshop/orgs
+    received_events_url: https://api.github.com/users/garrettsworkshop/received_events
+    repos_url: https://api.github.com/users/garrettsworkshop/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
+    type: Organization
+    url: https://api.github.com/users/garrettsworkshop
+  private: false
+  pulls_url: https://api.github.com/repos/garrettsworkshop/RAM2E/pulls{/number}
+  pushed_at: '2021-09-05T04:01:04Z'
+  releases_url: https://api.github.com/repos/garrettsworkshop/RAM2E/releases{/id}
+  size: 62394
+  ssh_url: git@github.com:garrettsworkshop/RAM2E.git
+  stargazers_count: 13
+  stargazers_url: https://api.github.com/repos/garrettsworkshop/RAM2E/stargazers
+  statuses_url: https://api.github.com/repos/garrettsworkshop/RAM2E/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/garrettsworkshop/RAM2E/subscribers
+  subscription_url: https://api.github.com/repos/garrettsworkshop/RAM2E/subscription
+  svn_url: https://github.com/garrettsworkshop/RAM2E
+  tags_url: https://api.github.com/repos/garrettsworkshop/RAM2E/tags
+  teams_url: https://api.github.com/repos/garrettsworkshop/RAM2E/teams
+  topics: []
+  trees_url: https://api.github.com/repos/garrettsworkshop/RAM2E/git/trees{/sha}
+  updated_at: '2023-01-31T06:18:15Z'
+  url: https://api.github.com/repos/garrettsworkshop/RAM2E
+  visibility: public
+  watchers: 13
+  watchers_count: 13
+  web_commit_signoff_required: false

@@ -1,104 +1,120 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/assignees{/user}
-blobs_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/branches{/branch}
-clone_url: https://github.com/adafruit/Adafruit_Floppy_PCB.git
-collaborators_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/comments{/number}
-commits_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/commits{/sha}
-compare_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/contents/{+path}
-contributors_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/contributors
-created_at: '2021-12-31T00:45:49Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/deployments
-description: PCB files for flippy floppys
-disabled: false
-downloads_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/downloads
-events_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/forks
-full_name: adafruit/Adafruit_Floppy_PCB
-git_commits_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/git/tags{/sha}
-git_url: git://github.com/adafruit/Adafruit_Floppy_PCB.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/hooks
-html_url: https://github.com/adafruit/Adafruit_Floppy_PCB
-id: 443217281
-is_template: false
-issue_comment_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/issues/events{/number}
-issues_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/issues{/number}
-keys_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/keys{/key_id}
-labels_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/languages
-license:
-  key: unlicense
-  name: The Unlicense
-  node_id: MDc6TGljZW5zZTE1
-  spdx_id: Unlicense
-  url: https://api.github.com/licenses/unlicense
-merges_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/merges
-milestones_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/milestones{/number}
-mirror_url: null
-name: Adafruit_Floppy_PCB
-node_id: R_kgDOGmr1gQ
-notifications_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
-  events_url: https://api.github.com/users/adafruit/events{/privacy}
-  followers_url: https://api.github.com/users/adafruit/followers
-  following_url: https://api.github.com/users/adafruit/following{/other_user}
-  gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adafruit
-  id: 181069
-  login: adafruit
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
-  organizations_url: https://api.github.com/users/adafruit/orgs
-  received_events_url: https://api.github.com/users/adafruit/received_events
-  repos_url: https://api.github.com/users/adafruit/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adafruit/subscriptions
-  type: Organization
-  url: https://api.github.com/users/adafruit
-private: false
+links:
+  github_owner: adafruit
+  github_repo_name: Adafruit_Floppy_PCB
+  github_src: https://github.com/adafruit/Adafruit_Floppy_PCB
+  github_src_repo: https://github.com/adafruit/Adafruit_Floppy_PCB
+  oomp_bot: adafruit_adafruit_floppy_pcb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/adafruit_adafruit_floppy_pcb
+  oomp_doc: projects/adafruit_adafruit_floppy_pcb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/adafruit_adafruit_floppy_pcb
+  oomp_src_flat: projects_flat/adafruit_adafruit_floppy_pcb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/adafruit_adafruit_floppy_pcb
+  oomp_src_folder: projects_folder\adafruit\Adafruit_Floppy_PCB\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\adafruit\Adafruit_Floppy_PCB\version_current\working
+oomp_key: oomp_adafruit_adafruit_floppy_pcb
+oomp_key_simple: adafruit_adafruit_floppy_pcb
 projects_flat: projects_flat/adafruit_adafruit_floppy_pcb/version_current/working
 projects_folder: projects_folder/adafruit/Adafruit_Floppy_PCB/version_current/working
-pulls_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/pulls{/number}
-pushed_at: '2021-12-31T01:13:30Z'
-releases_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/releases{/id}
-size: 144
-ssh_url: git@github.com:adafruit/Adafruit_Floppy_PCB.git
-stargazers_count: 14
-stargazers_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/stargazers
-statuses_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/subscribers
-subscription_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/subscription
-svn_url: https://github.com/adafruit/Adafruit_Floppy_PCB
-tags_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/tags
-teams_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/teams
-topics: []
-trees_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/git/trees{/sha}
-updated_at: '2023-01-10T22:32:31Z'
-url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB
-visibility: public
-watchers: 14
-watchers_count: 14
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/branches{/branch}
+  clone_url: https://github.com/adafruit/Adafruit_Floppy_PCB.git
+  collaborators_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/contributors
+  created_at: '2021-12-31T00:45:49Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/deployments
+  description: PCB files for flippy floppys
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/downloads
+  events_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/forks
+  full_name: adafruit/Adafruit_Floppy_PCB
+  git_commits_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/git/tags{/sha}
+  git_url: git://github.com/adafruit/Adafruit_Floppy_PCB.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/hooks
+  html_url: https://github.com/adafruit/Adafruit_Floppy_PCB
+  id: 443217281
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/languages
+  license:
+    key: unlicense
+    name: The Unlicense
+    node_id: MDc6TGljZW5zZTE1
+    spdx_id: Unlicense
+    url: https://api.github.com/licenses/unlicense
+  merges_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/merges
+  milestones_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/milestones{/number}
+  mirror_url: null
+  name: Adafruit_Floppy_PCB
+  node_id: R_kgDOGmr1gQ
+  notifications_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/pulls{/number}
+  pushed_at: '2021-12-31T01:13:30Z'
+  releases_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/releases{/id}
+  size: 144
+  ssh_url: git@github.com:adafruit/Adafruit_Floppy_PCB.git
+  stargazers_count: 14
+  stargazers_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/subscription
+  svn_url: https://github.com/adafruit/Adafruit_Floppy_PCB
+  tags_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/tags
+  teams_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB/git/trees{/sha}
+  updated_at: '2023-01-10T22:32:31Z'
+  url: https://api.github.com/repos/adafruit/Adafruit_Floppy_PCB
+  visibility: public
+  watchers: 14
+  watchers_count: 14
+  web_commit_signoff_required: false

@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/branches{/branch}
-clone_url: https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384.git
-collaborators_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/comments{/number}
-commits_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/contributors
-created_at: '2022-06-02T16:53:04Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/downloads
-events_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/events
-fork: false
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/forks
-full_name: sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384
-git_commits_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/git/tags{/sha}
-git_url: git://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/hooks
-html_url: https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384
-id: 499217777
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/issues{/number}
-keys_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/merges
-milestones_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/milestones{/number}
-mirror_url: null
-name: SparkFun_Qwiic_Pressure_Sensor_BMP384
-node_id: R_kgDOHcF1cQ
-notifications_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
-  events_url: https://api.github.com/users/sparkfun/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfun/followers
-  following_url: https://api.github.com/users/sparkfun/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfun
-  id: 142880
-  login: sparkfun
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
-  organizations_url: https://api.github.com/users/sparkfun/orgs
-  received_events_url: https://api.github.com/users/sparkfun/received_events
-  repos_url: https://api.github.com/users/sparkfun/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfun
-private: false
+links:
+  github_owner: sparkfun
+  github_repo_name: SparkFun_Qwiic_Pressure_Sensor_BMP384
+  github_src: https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384
+  github_src_repo: https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384
+  oomp_bot: sparkfun_sparkfun_qwiic_pressure_sensor_bmp384
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/sparkfun_sparkfun_qwiic_pressure_sensor_bmp384
+  oomp_doc: projects/sparkfun_sparkfun_qwiic_pressure_sensor_bmp384/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/sparkfun_sparkfun_qwiic_pressure_sensor_bmp384
+  oomp_src_flat: projects_flat/sparkfun_sparkfun_qwiic_pressure_sensor_bmp384
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/sparkfun_sparkfun_qwiic_pressure_sensor_bmp384
+  oomp_src_folder: projects_folder\sparkfun\SparkFun_Qwiic_Pressure_Sensor_BMP384\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\sparkfun\SparkFun_Qwiic_Pressure_Sensor_BMP384\version_current\working
+oomp_key: oomp_sparkfun_sparkfun_qwiic_pressure_sensor_bmp384
+oomp_key_simple: sparkfun_sparkfun_qwiic_pressure_sensor_bmp384
+projects_flat: projects_flat/sparkfun_sparkfun_qwiic_pressure_sensor_bmp384/version_current/working
 projects_flat_folder: projects_flat_folder/sparkfun_sparkfun_qwiic_pressure_sensor_bmp384/version_current/working
 projects_folder: projects_folder/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/version_current/working
-pulls_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/pulls{/number}
-pushed_at: '2023-03-28T19:33:09Z'
-releases_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/releases{/id}
-size: 15280
-ssh_url: git@github.com:sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/stargazers
-statuses_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/subscribers
-subscription_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/subscription
-svn_url: https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384
-tags_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/tags
-teams_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/git/trees{/sha}
-updated_at: '2022-08-03T18:32:36Z'
-url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/branches{/branch}
+  clone_url: https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384.git
+  collaborators_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/contributors
+  created_at: '2022-06-02T16:53:04Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/downloads
+  events_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/forks
+  full_name: sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384
+  git_commits_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/git/tags{/sha}
+  git_url: git://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/hooks
+  html_url: https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384
+  id: 499217777
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/merges
+  milestones_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/milestones{/number}
+  mirror_url: null
+  name: SparkFun_Qwiic_Pressure_Sensor_BMP384
+  node_id: R_kgDOHcF1cQ
+  notifications_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/142880?v=4
+    events_url: https://api.github.com/users/sparkfun/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfun/followers
+    following_url: https://api.github.com/users/sparkfun/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfun/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfun
+    id: 142880
+    login: sparkfun
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE0Mjg4MA==
+    organizations_url: https://api.github.com/users/sparkfun/orgs
+    received_events_url: https://api.github.com/users/sparkfun/received_events
+    repos_url: https://api.github.com/users/sparkfun/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfun/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfun/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfun
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/pulls{/number}
+  pushed_at: '2023-03-28T19:33:09Z'
+  releases_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/releases{/id}
+  size: 15280
+  ssh_url: git@github.com:sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/stargazers
+  statuses_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/subscribers
+  subscription_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/subscription
+  svn_url: https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384
+  tags_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/tags
+  teams_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384/git/trees{/sha}
+  updated_at: '2022-08-03T18:32:36Z'
+  url: https://api.github.com/repos/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false

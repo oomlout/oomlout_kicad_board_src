@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/electrolama/riscystick/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/electrolama/riscystick/assignees{/user}
-blobs_url: https://api.github.com/repos/electrolama/riscystick/git/blobs{/sha}
-branches_url: https://api.github.com/repos/electrolama/riscystick/branches{/branch}
-clone_url: https://github.com/electrolama/riscystick.git
-collaborators_url: https://api.github.com/repos/electrolama/riscystick/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/electrolama/riscystick/comments{/number}
-commits_url: https://api.github.com/repos/electrolama/riscystick/commits{/sha}
-compare_url: https://api.github.com/repos/electrolama/riscystick/compare/{base}...{head}
-contents_url: https://api.github.com/repos/electrolama/riscystick/contents/{+path}
-contributors_url: https://api.github.com/repos/electrolama/riscystick/contributors
-created_at: '2022-07-26T15:07:54Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/electrolama/riscystick/deployments
-description: CH32V305FBP6 breakout with USB
-disabled: false
-downloads_url: https://api.github.com/repos/electrolama/riscystick/downloads
-events_url: https://api.github.com/repos/electrolama/riscystick/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/electrolama/riscystick/forks
-full_name: electrolama/riscystick
-git_commits_url: https://api.github.com/repos/electrolama/riscystick/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/electrolama/riscystick/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/electrolama/riscystick/git/tags{/sha}
-git_url: git://github.com/electrolama/riscystick.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: false
-has_wiki: false
-homepage: null
-hooks_url: https://api.github.com/repos/electrolama/riscystick/hooks
-html_url: https://github.com/electrolama/riscystick
-id: 518109797
-is_template: false
-issue_comment_url: https://api.github.com/repos/electrolama/riscystick/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/electrolama/riscystick/issues/events{/number}
-issues_url: https://api.github.com/repos/electrolama/riscystick/issues{/number}
-keys_url: https://api.github.com/repos/electrolama/riscystick/keys{/key_id}
-labels_url: https://api.github.com/repos/electrolama/riscystick/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/electrolama/riscystick/languages
-license:
-  key: other
-  name: Other
-  node_id: MDc6TGljZW5zZTA=
-  spdx_id: NOASSERTION
-  url: null
-merges_url: https://api.github.com/repos/electrolama/riscystick/merges
-milestones_url: https://api.github.com/repos/electrolama/riscystick/milestones{/number}
-mirror_url: null
-name: riscystick
-node_id: R_kgDOHuG6ZQ
-notifications_url: https://api.github.com/repos/electrolama/riscystick/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/680280?v=4
-  events_url: https://api.github.com/users/electrolama/events{/privacy}
-  followers_url: https://api.github.com/users/electrolama/followers
-  following_url: https://api.github.com/users/electrolama/following{/other_user}
-  gists_url: https://api.github.com/users/electrolama/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/electrolama
-  id: 680280
-  login: electrolama
-  node_id: MDEyOk9yZ2FuaXphdGlvbjY4MDI4MA==
-  organizations_url: https://api.github.com/users/electrolama/orgs
-  received_events_url: https://api.github.com/users/electrolama/received_events
-  repos_url: https://api.github.com/users/electrolama/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/electrolama/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/electrolama/subscriptions
-  type: Organization
-  url: https://api.github.com/users/electrolama
-private: false
+links:
+  github_owner: electrolama
+  github_repo_name: riscystick
+  github_src: https://github.com/electrolama/riscystick
+  github_src_repo: https://github.com/electrolama/riscystick
+  oomp_bot: electrolama_riscystick
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electrolama_riscystick
+  oomp_doc: projects/electrolama_riscystick/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electrolama_riscystick
+  oomp_src_flat: projects_flat/electrolama_riscystick
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electrolama_riscystick
+  oomp_src_folder: projects_folder\electrolama\riscystick\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\electrolama\riscystick\version_current\working
+oomp_key: oomp_electrolama_riscystick
+oomp_key_simple: electrolama_riscystick
+projects_flat: projects_flat/electrolama_riscystick/version_current/working
 projects_flat_folder: projects_flat_folder/electrolama_riscystick/version_current/working
 projects_folder: projects_folder/electrolama/riscystick/version_current/working
-pulls_url: https://api.github.com/repos/electrolama/riscystick/pulls{/number}
-pushed_at: '2022-08-01T12:21:32Z'
-releases_url: https://api.github.com/repos/electrolama/riscystick/releases{/id}
-size: 283
-ssh_url: git@github.com:electrolama/riscystick.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/electrolama/riscystick/stargazers
-statuses_url: https://api.github.com/repos/electrolama/riscystick/statuses/{sha}
-subscribers_url: https://api.github.com/repos/electrolama/riscystick/subscribers
-subscription_url: https://api.github.com/repos/electrolama/riscystick/subscription
-svn_url: https://github.com/electrolama/riscystick
-tags_url: https://api.github.com/repos/electrolama/riscystick/tags
-teams_url: https://api.github.com/repos/electrolama/riscystick/teams
-topics: []
-trees_url: https://api.github.com/repos/electrolama/riscystick/git/trees{/sha}
-updated_at: '2022-08-01T12:42:10Z'
-url: https://api.github.com/repos/electrolama/riscystick
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/electrolama/riscystick/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/electrolama/riscystick/assignees{/user}
+  blobs_url: https://api.github.com/repos/electrolama/riscystick/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/electrolama/riscystick/branches{/branch}
+  clone_url: https://github.com/electrolama/riscystick.git
+  collaborators_url: https://api.github.com/repos/electrolama/riscystick/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/electrolama/riscystick/comments{/number}
+  commits_url: https://api.github.com/repos/electrolama/riscystick/commits{/sha}
+  compare_url: https://api.github.com/repos/electrolama/riscystick/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/electrolama/riscystick/contents/{+path}
+  contributors_url: https://api.github.com/repos/electrolama/riscystick/contributors
+  created_at: '2022-07-26T15:07:54Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/electrolama/riscystick/deployments
+  description: CH32V305FBP6 breakout with USB
+  disabled: false
+  downloads_url: https://api.github.com/repos/electrolama/riscystick/downloads
+  events_url: https://api.github.com/repos/electrolama/riscystick/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/electrolama/riscystick/forks
+  full_name: electrolama/riscystick
+  git_commits_url: https://api.github.com/repos/electrolama/riscystick/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/electrolama/riscystick/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/electrolama/riscystick/git/tags{/sha}
+  git_url: git://github.com/electrolama/riscystick.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: false
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/electrolama/riscystick/hooks
+  html_url: https://github.com/electrolama/riscystick
+  id: 518109797
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/electrolama/riscystick/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/electrolama/riscystick/issues/events{/number}
+  issues_url: https://api.github.com/repos/electrolama/riscystick/issues{/number}
+  keys_url: https://api.github.com/repos/electrolama/riscystick/keys{/key_id}
+  labels_url: https://api.github.com/repos/electrolama/riscystick/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/electrolama/riscystick/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/electrolama/riscystick/merges
+  milestones_url: https://api.github.com/repos/electrolama/riscystick/milestones{/number}
+  mirror_url: null
+  name: riscystick
+  node_id: R_kgDOHuG6ZQ
+  notifications_url: https://api.github.com/repos/electrolama/riscystick/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/680280?v=4
+    events_url: https://api.github.com/users/electrolama/events{/privacy}
+    followers_url: https://api.github.com/users/electrolama/followers
+    following_url: https://api.github.com/users/electrolama/following{/other_user}
+    gists_url: https://api.github.com/users/electrolama/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/electrolama
+    id: 680280
+    login: electrolama
+    node_id: MDEyOk9yZ2FuaXphdGlvbjY4MDI4MA==
+    organizations_url: https://api.github.com/users/electrolama/orgs
+    received_events_url: https://api.github.com/users/electrolama/received_events
+    repos_url: https://api.github.com/users/electrolama/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/electrolama/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/electrolama/subscriptions
+    type: Organization
+    url: https://api.github.com/users/electrolama
+  private: false
+  pulls_url: https://api.github.com/repos/electrolama/riscystick/pulls{/number}
+  pushed_at: '2022-08-01T12:21:32Z'
+  releases_url: https://api.github.com/repos/electrolama/riscystick/releases{/id}
+  size: 283
+  ssh_url: git@github.com:electrolama/riscystick.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/electrolama/riscystick/stargazers
+  statuses_url: https://api.github.com/repos/electrolama/riscystick/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/electrolama/riscystick/subscribers
+  subscription_url: https://api.github.com/repos/electrolama/riscystick/subscription
+  svn_url: https://github.com/electrolama/riscystick
+  tags_url: https://api.github.com/repos/electrolama/riscystick/tags
+  teams_url: https://api.github.com/repos/electrolama/riscystick/teams
+  topics: []
+  trees_url: https://api.github.com/repos/electrolama/riscystick/git/trees{/sha}
+  updated_at: '2022-08-01T12:42:10Z'
+  url: https://api.github.com/repos/electrolama/riscystick
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

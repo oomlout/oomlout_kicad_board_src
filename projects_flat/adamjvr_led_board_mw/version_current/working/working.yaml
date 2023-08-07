@@ -1,101 +1,117 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/adamjvr/LED-board-MW/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/adamjvr/LED-board-MW/assignees{/user}
-blobs_url: https://api.github.com/repos/adamjvr/LED-board-MW/git/blobs{/sha}
-branches_url: https://api.github.com/repos/adamjvr/LED-board-MW/branches{/branch}
-clone_url: https://github.com/adamjvr/LED-board-MW.git
-collaborators_url: https://api.github.com/repos/adamjvr/LED-board-MW/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/adamjvr/LED-board-MW/comments{/number}
-commits_url: https://api.github.com/repos/adamjvr/LED-board-MW/commits{/sha}
-compare_url: https://api.github.com/repos/adamjvr/LED-board-MW/compare/{base}...{head}
-contents_url: https://api.github.com/repos/adamjvr/LED-board-MW/contents/{+path}
-contributors_url: https://api.github.com/repos/adamjvr/LED-board-MW/contributors
-created_at: '2020-05-05T01:59:07Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/adamjvr/LED-board-MW/deployments
-description: A little LED board to help out a friend
-disabled: false
-downloads_url: https://api.github.com/repos/adamjvr/LED-board-MW/downloads
-events_url: https://api.github.com/repos/adamjvr/LED-board-MW/events
 file_kicad_pcb_flat: projects_flat/adamjvr_led_board_mw/version_current/working/working.kicad_pcb
 file_kicad_pcb_folder: projects_folder/adamjvr/LED-board-MW/version_current/working/working.kicad_pcb
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/adamjvr/LED-board-MW/forks
-full_name: adamjvr/LED-board-MW
-git_commits_url: https://api.github.com/repos/adamjvr/LED-board-MW/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/adamjvr/LED-board-MW/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/adamjvr/LED-board-MW/git/tags{/sha}
-git_url: git://github.com/adamjvr/LED-board-MW.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/adamjvr/LED-board-MW/hooks
-html_url: https://github.com/adamjvr/LED-board-MW
-id: 261339291
-is_template: false
-issue_comment_url: https://api.github.com/repos/adamjvr/LED-board-MW/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/adamjvr/LED-board-MW/issues/events{/number}
-issues_url: https://api.github.com/repos/adamjvr/LED-board-MW/issues{/number}
-keys_url: https://api.github.com/repos/adamjvr/LED-board-MW/keys{/key_id}
-labels_url: https://api.github.com/repos/adamjvr/LED-board-MW/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/adamjvr/LED-board-MW/languages
-license: null
-merges_url: https://api.github.com/repos/adamjvr/LED-board-MW/merges
-milestones_url: https://api.github.com/repos/adamjvr/LED-board-MW/milestones{/number}
-mirror_url: null
-name: LED-board-MW
-node_id: MDEwOlJlcG9zaXRvcnkyNjEzMzkyOTE=
-notifications_url: https://api.github.com/repos/adamjvr/LED-board-MW/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
-  events_url: https://api.github.com/users/adamjvr/events{/privacy}
-  followers_url: https://api.github.com/users/adamjvr/followers
-  following_url: https://api.github.com/users/adamjvr/following{/other_user}
-  gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/adamjvr
-  id: 3782102
-  login: adamjvr
-  node_id: MDQ6VXNlcjM3ODIxMDI=
-  organizations_url: https://api.github.com/users/adamjvr/orgs
-  received_events_url: https://api.github.com/users/adamjvr/received_events
-  repos_url: https://api.github.com/users/adamjvr/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
-  type: User
-  url: https://api.github.com/users/adamjvr
-private: false
+links:
+  github_owner: adamjvr
+  github_repo_name: LED-board-MW
+  github_src: https://github.com/adamjvr/LED-board-MW
+  github_src_repo: https://github.com/adamjvr/LED-board-MW
+  oomp_bot: projects_adamjvr_led_board_mw
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_adamjvr_led_board_mw
+  oomp_doc: projects/projects_flat_adamjvr_led_board_mw/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_adamjvr_led_board_mw
+  oomp_src_flat: projects_flat/projects_flat_adamjvr_led_board_mw
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_adamjvr_led_board_mw
+  oomp_src_folder: projects_flat\adamjvr_led_board_mw\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\adamjvr_led_board_mw\version_current\working
+oomp_key: oomp_projects_flat_adamjvr_led_board_mw
+oomp_key_simple: projects_flat_adamjvr_led_board_mw
 projects_flat: projects_flat/adamjvr_led_board_mw/version_current/working
 projects_folder: projects_folder/adamjvr/LED-board-MW/version_current/working
-pulls_url: https://api.github.com/repos/adamjvr/LED-board-MW/pulls{/number}
-pushed_at: '2020-08-18T07:22:08Z'
-releases_url: https://api.github.com/repos/adamjvr/LED-board-MW/releases{/id}
-size: 74
-ssh_url: git@github.com:adamjvr/LED-board-MW.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/adamjvr/LED-board-MW/stargazers
-statuses_url: https://api.github.com/repos/adamjvr/LED-board-MW/statuses/{sha}
-subscribers_url: https://api.github.com/repos/adamjvr/LED-board-MW/subscribers
-subscription_url: https://api.github.com/repos/adamjvr/LED-board-MW/subscription
-svn_url: https://github.com/adamjvr/LED-board-MW
-tags_url: https://api.github.com/repos/adamjvr/LED-board-MW/tags
-teams_url: https://api.github.com/repos/adamjvr/LED-board-MW/teams
-topics: []
-trees_url: https://api.github.com/repos/adamjvr/LED-board-MW/git/trees{/sha}
-updated_at: '2020-08-18T07:22:11Z'
-url: https://api.github.com/repos/adamjvr/LED-board-MW
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adamjvr/LED-board-MW/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adamjvr/LED-board-MW/assignees{/user}
+  blobs_url: https://api.github.com/repos/adamjvr/LED-board-MW/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adamjvr/LED-board-MW/branches{/branch}
+  clone_url: https://github.com/adamjvr/LED-board-MW.git
+  collaborators_url: https://api.github.com/repos/adamjvr/LED-board-MW/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adamjvr/LED-board-MW/comments{/number}
+  commits_url: https://api.github.com/repos/adamjvr/LED-board-MW/commits{/sha}
+  compare_url: https://api.github.com/repos/adamjvr/LED-board-MW/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adamjvr/LED-board-MW/contents/{+path}
+  contributors_url: https://api.github.com/repos/adamjvr/LED-board-MW/contributors
+  created_at: '2020-05-05T01:59:07Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adamjvr/LED-board-MW/deployments
+  description: A little LED board to help out a friend
+  disabled: false
+  downloads_url: https://api.github.com/repos/adamjvr/LED-board-MW/downloads
+  events_url: https://api.github.com/repos/adamjvr/LED-board-MW/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/adamjvr/LED-board-MW/forks
+  full_name: adamjvr/LED-board-MW
+  git_commits_url: https://api.github.com/repos/adamjvr/LED-board-MW/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adamjvr/LED-board-MW/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adamjvr/LED-board-MW/git/tags{/sha}
+  git_url: git://github.com/adamjvr/LED-board-MW.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/adamjvr/LED-board-MW/hooks
+  html_url: https://github.com/adamjvr/LED-board-MW
+  id: 261339291
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adamjvr/LED-board-MW/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adamjvr/LED-board-MW/issues/events{/number}
+  issues_url: https://api.github.com/repos/adamjvr/LED-board-MW/issues{/number}
+  keys_url: https://api.github.com/repos/adamjvr/LED-board-MW/keys{/key_id}
+  labels_url: https://api.github.com/repos/adamjvr/LED-board-MW/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adamjvr/LED-board-MW/languages
+  license: null
+  merges_url: https://api.github.com/repos/adamjvr/LED-board-MW/merges
+  milestones_url: https://api.github.com/repos/adamjvr/LED-board-MW/milestones{/number}
+  mirror_url: null
+  name: LED-board-MW
+  node_id: MDEwOlJlcG9zaXRvcnkyNjEzMzkyOTE=
+  notifications_url: https://api.github.com/repos/adamjvr/LED-board-MW/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3782102?v=4
+    events_url: https://api.github.com/users/adamjvr/events{/privacy}
+    followers_url: https://api.github.com/users/adamjvr/followers
+    following_url: https://api.github.com/users/adamjvr/following{/other_user}
+    gists_url: https://api.github.com/users/adamjvr/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adamjvr
+    id: 3782102
+    login: adamjvr
+    node_id: MDQ6VXNlcjM3ODIxMDI=
+    organizations_url: https://api.github.com/users/adamjvr/orgs
+    received_events_url: https://api.github.com/users/adamjvr/received_events
+    repos_url: https://api.github.com/users/adamjvr/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adamjvr/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adamjvr/subscriptions
+    type: User
+    url: https://api.github.com/users/adamjvr
+  private: false
+  pulls_url: https://api.github.com/repos/adamjvr/LED-board-MW/pulls{/number}
+  pushed_at: '2020-08-18T07:22:08Z'
+  releases_url: https://api.github.com/repos/adamjvr/LED-board-MW/releases{/id}
+  size: 74
+  ssh_url: git@github.com:adamjvr/LED-board-MW.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/adamjvr/LED-board-MW/stargazers
+  statuses_url: https://api.github.com/repos/adamjvr/LED-board-MW/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adamjvr/LED-board-MW/subscribers
+  subscription_url: https://api.github.com/repos/adamjvr/LED-board-MW/subscription
+  svn_url: https://github.com/adamjvr/LED-board-MW
+  tags_url: https://api.github.com/repos/adamjvr/LED-board-MW/tags
+  teams_url: https://api.github.com/repos/adamjvr/LED-board-MW/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adamjvr/LED-board-MW/git/trees{/sha}
+  updated_at: '2020-08-18T07:22:11Z'
+  url: https://api.github.com/repos/adamjvr/LED-board-MW
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

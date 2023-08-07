@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/assignees{/user}
-blobs_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/branches{/branch}
-clone_url: https://github.com/Tinkerforge/compass-bricklet.git
-collaborators_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/comments{/number}
-commits_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/commits{/sha}
-compare_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/contents/{+path}
-contributors_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/contributors
-created_at: '2019-02-12T14:21:54Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/deployments
-description: "3-axis compass with 10 nanotesla and 0.1\xB0 resolution"
-disabled: false
-downloads_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/downloads
-events_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/forks
-full_name: Tinkerforge/compass-bricklet
-git_commits_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/git/tags{/sha}
-git_url: git://github.com/Tinkerforge/compass-bricklet.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: https://www.tinkerforge.com/en/doc/Hardware/Bricklets/Compass.html
-hooks_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/hooks
-html_url: https://github.com/Tinkerforge/compass-bricklet
-id: 170331073
-is_template: false
-issue_comment_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/issues/events{/number}
-issues_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/issues{/number}
-keys_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/keys{/key_id}
-labels_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/labels{/name}
-language: C
-languages_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/languages
-license: null
-merges_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/merges
-milestones_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/milestones{/number}
-mirror_url: null
-name: compass-bricklet
-node_id: MDEwOlJlcG9zaXRvcnkxNzAzMzEwNzM=
-notifications_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
-  events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
-  followers_url: https://api.github.com/users/Tinkerforge/followers
-  following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
-  gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Tinkerforge
-  id: 1001426
-  login: Tinkerforge
-  node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
-  organizations_url: https://api.github.com/users/Tinkerforge/orgs
-  received_events_url: https://api.github.com/users/Tinkerforge/received_events
-  repos_url: https://api.github.com/users/Tinkerforge/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
-  type: Organization
-  url: https://api.github.com/users/Tinkerforge
-private: false
+links:
+  github_owner: Tinkerforge
+  github_repo_name: compass-bricklet
+  github_src: https://github.com/Tinkerforge/compass-bricklet
+  github_src_repo: https://github.com/Tinkerforge/compass-bricklet
+  oomp_bot: projects_tinkerforge_compass_bricklet
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_tinkerforge_compass_bricklet
+  oomp_doc: projects/projects_flat_tinkerforge_compass_bricklet/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_tinkerforge_compass_bricklet
+  oomp_src_flat: projects_flat/projects_flat_tinkerforge_compass_bricklet
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_tinkerforge_compass_bricklet
+  oomp_src_folder: projects_flat\tinkerforge_compass_bricklet\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\tinkerforge_compass_bricklet\version_current\working
+oomp_key: oomp_projects_flat_tinkerforge_compass_bricklet
+oomp_key_simple: projects_flat_tinkerforge_compass_bricklet
 projects_flat: projects_flat/tinkerforge_compass_bricklet/version_current/working
 projects_folder: projects_folder/Tinkerforge/compass-bricklet/version_current/working
-pulls_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/pulls{/number}
-pushed_at: '2022-07-06T12:48:01Z'
-releases_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/releases{/id}
-size: 1339
-ssh_url: git@github.com:Tinkerforge/compass-bricklet.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/stargazers
-statuses_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/subscribers
-subscription_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/subscription
-svn_url: https://github.com/Tinkerforge/compass-bricklet
-tags_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/tags
-teams_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/teams
-topics: []
-trees_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/git/trees{/sha}
-updated_at: '2021-10-25T07:57:06Z'
-url: https://api.github.com/repos/Tinkerforge/compass-bricklet
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/assignees{/user}
+  blobs_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/branches{/branch}
+  clone_url: https://github.com/Tinkerforge/compass-bricklet.git
+  collaborators_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/comments{/number}
+  commits_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/commits{/sha}
+  compare_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/contents/{+path}
+  contributors_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/contributors
+  created_at: '2019-02-12T14:21:54Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/deployments
+  description: "3-axis compass with 10 nanotesla and 0.1\xB0 resolution"
+  disabled: false
+  downloads_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/downloads
+  events_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/forks
+  full_name: Tinkerforge/compass-bricklet
+  git_commits_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/git/tags{/sha}
+  git_url: git://github.com/Tinkerforge/compass-bricklet.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: https://www.tinkerforge.com/en/doc/Hardware/Bricklets/Compass.html
+  hooks_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/hooks
+  html_url: https://github.com/Tinkerforge/compass-bricklet
+  id: 170331073
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/issues/events{/number}
+  issues_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/issues{/number}
+  keys_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/keys{/key_id}
+  labels_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/labels{/name}
+  language: C
+  languages_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/languages
+  license: null
+  merges_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/merges
+  milestones_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/milestones{/number}
+  mirror_url: null
+  name: compass-bricklet
+  node_id: MDEwOlJlcG9zaXRvcnkxNzAzMzEwNzM=
+  notifications_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/1001426?v=4
+    events_url: https://api.github.com/users/Tinkerforge/events{/privacy}
+    followers_url: https://api.github.com/users/Tinkerforge/followers
+    following_url: https://api.github.com/users/Tinkerforge/following{/other_user}
+    gists_url: https://api.github.com/users/Tinkerforge/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Tinkerforge
+    id: 1001426
+    login: Tinkerforge
+    node_id: MDEyOk9yZ2FuaXphdGlvbjEwMDE0MjY=
+    organizations_url: https://api.github.com/users/Tinkerforge/orgs
+    received_events_url: https://api.github.com/users/Tinkerforge/received_events
+    repos_url: https://api.github.com/users/Tinkerforge/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Tinkerforge/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Tinkerforge/subscriptions
+    type: Organization
+    url: https://api.github.com/users/Tinkerforge
+  private: false
+  pulls_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/pulls{/number}
+  pushed_at: '2022-07-06T12:48:01Z'
+  releases_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/releases{/id}
+  size: 1339
+  ssh_url: git@github.com:Tinkerforge/compass-bricklet.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/stargazers
+  statuses_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/subscribers
+  subscription_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/subscription
+  svn_url: https://github.com/Tinkerforge/compass-bricklet
+  tags_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/tags
+  teams_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Tinkerforge/compass-bricklet/git/trees{/sha}
+  updated_at: '2021-10-25T07:57:06Z'
+  url: https://api.github.com/repos/Tinkerforge/compass-bricklet
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

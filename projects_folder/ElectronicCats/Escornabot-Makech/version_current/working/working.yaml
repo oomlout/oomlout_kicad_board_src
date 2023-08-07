@@ -1,113 +1,129 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/assignees{/user}
-blobs_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/git/blobs{/sha}
-branches_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/branches{/branch}
-clone_url: https://github.com/ElectronicCats/Escornabot-Makech.git
-collaborators_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/comments{/number}
-commits_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/commits{/sha}
-compare_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/compare/{base}...{head}
-contents_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/contents/{+path}
-contributors_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/contributors
-created_at: '2019-02-10T00:48:01Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/deployments
-description: Escornabot Makech is an open source/hardware project that aims to bring
-  robotics and programming to children.
-disabled: false
-downloads_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/downloads
-events_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/events
-fork: true
-forks: 1
-forks_count: 1
-forks_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/forks
-full_name: ElectronicCats/Escornabot-Makech
-git_commits_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/git/tags{/sha}
-git_url: git://github.com/ElectronicCats/Escornabot-Makech.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: false
-has_wiki: true
-homepage: https://electroniccats.com
-hooks_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/hooks
-html_url: https://github.com/ElectronicCats/Escornabot-Makech
-id: 169929861
-is_template: false
-issue_comment_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/issues/events{/number}
-issues_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/issues{/number}
-keys_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/keys{/key_id}
-labels_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/languages
-license:
-  key: agpl-3.0
-  name: GNU Affero General Public License v3.0
-  node_id: MDc6TGljZW5zZTE=
-  spdx_id: AGPL-3.0
-  url: https://api.github.com/licenses/agpl-3.0
-merges_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/merges
-milestones_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/milestones{/number}
-mirror_url: null
-name: Escornabot-Makech
-node_id: MDEwOlJlcG9zaXRvcnkxNjk5Mjk4NjE=
-notifications_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
-  events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
-  followers_url: https://api.github.com/users/ElectronicCats/followers
-  following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
-  gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/ElectronicCats
-  id: 16904656
-  login: ElectronicCats
-  node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
-  organizations_url: https://api.github.com/users/ElectronicCats/orgs
-  received_events_url: https://api.github.com/users/ElectronicCats/received_events
-  repos_url: https://api.github.com/users/ElectronicCats/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
-  type: Organization
-  url: https://api.github.com/users/ElectronicCats
-private: false
+links:
+  github_owner: ElectronicCats
+  github_repo_name: Escornabot-Makech
+  github_src: https://github.com/ElectronicCats/Escornabot-Makech
+  github_src_repo: https://github.com/ElectronicCats/Escornabot-Makech
+  oomp_bot: electroniccats_escornabot_makech
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/electroniccats_escornabot_makech
+  oomp_doc: projects/electroniccats_escornabot_makech/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/electroniccats_escornabot_makech
+  oomp_src_flat: projects_flat/electroniccats_escornabot_makech
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/electroniccats_escornabot_makech
+  oomp_src_folder: projects_folder\ElectronicCats\Escornabot-Makech\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\ElectronicCats\Escornabot-Makech\version_current\working
+oomp_key: oomp_electroniccats_escornabot_makech
+oomp_key_simple: electroniccats_escornabot_makech
 projects_flat: projects_flat/electroniccats_escornabot_makech/version_current/working
 projects_folder: projects_folder/ElectronicCats/Escornabot-Makech/version_current/working
-pulls_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/pulls{/number}
-pushed_at: '2020-04-09T01:18:08Z'
-releases_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/releases{/id}
-size: 33901
-ssh_url: git@github.com:ElectronicCats/Escornabot-Makech.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/stargazers
-statuses_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/statuses/{sha}
-subscribers_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/subscribers
-subscription_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/subscription
-svn_url: https://github.com/ElectronicCats/Escornabot-Makech
-tags_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/tags
-teams_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/teams
-topics:
-- arduino
-- circuitpython
-- escornabot
-- makech
-- makecode
-- robot
-- samd
-- samd21
-trees_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/git/trees{/sha}
-updated_at: '2020-04-09T01:18:12Z'
-url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: true
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/assignees{/user}
+  blobs_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/branches{/branch}
+  clone_url: https://github.com/ElectronicCats/Escornabot-Makech.git
+  collaborators_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/comments{/number}
+  commits_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/commits{/sha}
+  compare_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/contents/{+path}
+  contributors_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/contributors
+  created_at: '2019-02-10T00:48:01Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/deployments
+  description: Escornabot Makech is an open source/hardware project that aims to bring
+    robotics and programming to children.
+  disabled: false
+  downloads_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/downloads
+  events_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/events
+  fork: true
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/forks
+  full_name: ElectronicCats/Escornabot-Makech
+  git_commits_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/git/tags{/sha}
+  git_url: git://github.com/ElectronicCats/Escornabot-Makech.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: false
+  has_wiki: true
+  homepage: https://electroniccats.com
+  hooks_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/hooks
+  html_url: https://github.com/ElectronicCats/Escornabot-Makech
+  id: 169929861
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/issues/events{/number}
+  issues_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/issues{/number}
+  keys_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/keys{/key_id}
+  labels_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/languages
+  license:
+    key: agpl-3.0
+    name: GNU Affero General Public License v3.0
+    node_id: MDc6TGljZW5zZTE=
+    spdx_id: AGPL-3.0
+    url: https://api.github.com/licenses/agpl-3.0
+  merges_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/merges
+  milestones_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/milestones{/number}
+  mirror_url: null
+  name: Escornabot-Makech
+  node_id: MDEwOlJlcG9zaXRvcnkxNjk5Mjk4NjE=
+  notifications_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/16904656?v=4
+    events_url: https://api.github.com/users/ElectronicCats/events{/privacy}
+    followers_url: https://api.github.com/users/ElectronicCats/followers
+    following_url: https://api.github.com/users/ElectronicCats/following{/other_user}
+    gists_url: https://api.github.com/users/ElectronicCats/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/ElectronicCats
+    id: 16904656
+    login: ElectronicCats
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE2OTA0NjU2
+    organizations_url: https://api.github.com/users/ElectronicCats/orgs
+    received_events_url: https://api.github.com/users/ElectronicCats/received_events
+    repos_url: https://api.github.com/users/ElectronicCats/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/ElectronicCats/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/ElectronicCats/subscriptions
+    type: Organization
+    url: https://api.github.com/users/ElectronicCats
+  private: false
+  pulls_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/pulls{/number}
+  pushed_at: '2020-04-09T01:18:08Z'
+  releases_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/releases{/id}
+  size: 33901
+  ssh_url: git@github.com:ElectronicCats/Escornabot-Makech.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/stargazers
+  statuses_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/subscribers
+  subscription_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/subscription
+  svn_url: https://github.com/ElectronicCats/Escornabot-Makech
+  tags_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/tags
+  teams_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/teams
+  topics:
+  - arduino
+  - circuitpython
+  - escornabot
+  - makech
+  - makecode
+  - robot
+  - samd
+  - samd21
+  trees_url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech/git/trees{/sha}
+  updated_at: '2020-04-09T01:18:12Z'
+  url: https://api.github.com/repos/ElectronicCats/Escornabot-Makech
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: true

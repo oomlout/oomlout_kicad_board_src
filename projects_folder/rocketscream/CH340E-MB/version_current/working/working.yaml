@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/rocketscream/CH340E-MB/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/rocketscream/CH340E-MB/assignees{/user}
-blobs_url: https://api.github.com/repos/rocketscream/CH340E-MB/git/blobs{/sha}
-branches_url: https://api.github.com/repos/rocketscream/CH340E-MB/branches{/branch}
-clone_url: https://github.com/rocketscream/CH340E-MB.git
-collaborators_url: https://api.github.com/repos/rocketscream/CH340E-MB/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/rocketscream/CH340E-MB/comments{/number}
-commits_url: https://api.github.com/repos/rocketscream/CH340E-MB/commits{/sha}
-compare_url: https://api.github.com/repos/rocketscream/CH340E-MB/compare/{base}...{head}
-contents_url: https://api.github.com/repos/rocketscream/CH340E-MB/contents/{+path}
-contributors_url: https://api.github.com/repos/rocketscream/CH340E-MB/contributors
-created_at: '2019-04-18T15:12:11Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/rocketscream/CH340E-MB/deployments
-description: CH340E USB-Serial Adapter
-disabled: false
-downloads_url: https://api.github.com/repos/rocketscream/CH340E-MB/downloads
-events_url: https://api.github.com/repos/rocketscream/CH340E-MB/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/rocketscream/CH340E-MB/forks
-full_name: rocketscream/CH340E-MB
-git_commits_url: https://api.github.com/repos/rocketscream/CH340E-MB/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/rocketscream/CH340E-MB/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/rocketscream/CH340E-MB/git/tags{/sha}
-git_url: git://github.com/rocketscream/CH340E-MB.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/rocketscream/CH340E-MB/hooks
-html_url: https://github.com/rocketscream/CH340E-MB
-id: 182110257
-is_template: false
-issue_comment_url: https://api.github.com/repos/rocketscream/CH340E-MB/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/rocketscream/CH340E-MB/issues/events{/number}
-issues_url: https://api.github.com/repos/rocketscream/CH340E-MB/issues{/number}
-keys_url: https://api.github.com/repos/rocketscream/CH340E-MB/keys{/key_id}
-labels_url: https://api.github.com/repos/rocketscream/CH340E-MB/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/rocketscream/CH340E-MB/languages
-license: null
-merges_url: https://api.github.com/repos/rocketscream/CH340E-MB/merges
-milestones_url: https://api.github.com/repos/rocketscream/CH340E-MB/milestones{/number}
-mirror_url: null
-name: CH340E-MB
-node_id: MDEwOlJlcG9zaXRvcnkxODIxMTAyNTc=
-notifications_url: https://api.github.com/repos/rocketscream/CH340E-MB/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/822826?v=4
-  events_url: https://api.github.com/users/rocketscream/events{/privacy}
-  followers_url: https://api.github.com/users/rocketscream/followers
-  following_url: https://api.github.com/users/rocketscream/following{/other_user}
-  gists_url: https://api.github.com/users/rocketscream/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/rocketscream
-  id: 822826
-  login: rocketscream
-  node_id: MDQ6VXNlcjgyMjgyNg==
-  organizations_url: https://api.github.com/users/rocketscream/orgs
-  received_events_url: https://api.github.com/users/rocketscream/received_events
-  repos_url: https://api.github.com/users/rocketscream/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/rocketscream/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/rocketscream/subscriptions
-  type: User
-  url: https://api.github.com/users/rocketscream
-private: false
+links:
+  github_owner: rocketscream
+  github_repo_name: CH340E-MB
+  github_src: https://github.com/rocketscream/CH340E-MB
+  github_src_repo: https://github.com/rocketscream/CH340E-MB
+  oomp_bot: rocketscream_ch340e_mb
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/rocketscream_ch340e_mb
+  oomp_doc: projects/rocketscream_ch340e_mb/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/rocketscream_ch340e_mb
+  oomp_src_flat: projects_flat/rocketscream_ch340e_mb
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/rocketscream_ch340e_mb
+  oomp_src_folder: projects_folder\rocketscream\CH340E-MB\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\rocketscream\CH340E-MB\version_current\working
+oomp_key: oomp_rocketscream_ch340e_mb
+oomp_key_simple: rocketscream_ch340e_mb
 projects_flat: projects_flat/rocketscream_ch340e_mb/version_current/working
 projects_folder: projects_folder/rocketscream/CH340E-MB/version_current/working
-pulls_url: https://api.github.com/repos/rocketscream/CH340E-MB/pulls{/number}
-pushed_at: '2019-04-18T15:30:13Z'
-releases_url: https://api.github.com/repos/rocketscream/CH340E-MB/releases{/id}
-size: 232
-ssh_url: git@github.com:rocketscream/CH340E-MB.git
-stargazers_count: 5
-stargazers_url: https://api.github.com/repos/rocketscream/CH340E-MB/stargazers
-statuses_url: https://api.github.com/repos/rocketscream/CH340E-MB/statuses/{sha}
-subscribers_url: https://api.github.com/repos/rocketscream/CH340E-MB/subscribers
-subscription_url: https://api.github.com/repos/rocketscream/CH340E-MB/subscription
-svn_url: https://github.com/rocketscream/CH340E-MB
-tags_url: https://api.github.com/repos/rocketscream/CH340E-MB/tags
-teams_url: https://api.github.com/repos/rocketscream/CH340E-MB/teams
-topics: []
-trees_url: https://api.github.com/repos/rocketscream/CH340E-MB/git/trees{/sha}
-updated_at: '2022-02-14T01:58:04Z'
-url: https://api.github.com/repos/rocketscream/CH340E-MB
-visibility: public
-watchers: 5
-watchers_count: 5
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/rocketscream/CH340E-MB/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/rocketscream/CH340E-MB/assignees{/user}
+  blobs_url: https://api.github.com/repos/rocketscream/CH340E-MB/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/rocketscream/CH340E-MB/branches{/branch}
+  clone_url: https://github.com/rocketscream/CH340E-MB.git
+  collaborators_url: https://api.github.com/repos/rocketscream/CH340E-MB/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/rocketscream/CH340E-MB/comments{/number}
+  commits_url: https://api.github.com/repos/rocketscream/CH340E-MB/commits{/sha}
+  compare_url: https://api.github.com/repos/rocketscream/CH340E-MB/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/rocketscream/CH340E-MB/contents/{+path}
+  contributors_url: https://api.github.com/repos/rocketscream/CH340E-MB/contributors
+  created_at: '2019-04-18T15:12:11Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/rocketscream/CH340E-MB/deployments
+  description: CH340E USB-Serial Adapter
+  disabled: false
+  downloads_url: https://api.github.com/repos/rocketscream/CH340E-MB/downloads
+  events_url: https://api.github.com/repos/rocketscream/CH340E-MB/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/rocketscream/CH340E-MB/forks
+  full_name: rocketscream/CH340E-MB
+  git_commits_url: https://api.github.com/repos/rocketscream/CH340E-MB/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/rocketscream/CH340E-MB/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/rocketscream/CH340E-MB/git/tags{/sha}
+  git_url: git://github.com/rocketscream/CH340E-MB.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/rocketscream/CH340E-MB/hooks
+  html_url: https://github.com/rocketscream/CH340E-MB
+  id: 182110257
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/rocketscream/CH340E-MB/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/rocketscream/CH340E-MB/issues/events{/number}
+  issues_url: https://api.github.com/repos/rocketscream/CH340E-MB/issues{/number}
+  keys_url: https://api.github.com/repos/rocketscream/CH340E-MB/keys{/key_id}
+  labels_url: https://api.github.com/repos/rocketscream/CH340E-MB/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/rocketscream/CH340E-MB/languages
+  license: null
+  merges_url: https://api.github.com/repos/rocketscream/CH340E-MB/merges
+  milestones_url: https://api.github.com/repos/rocketscream/CH340E-MB/milestones{/number}
+  mirror_url: null
+  name: CH340E-MB
+  node_id: MDEwOlJlcG9zaXRvcnkxODIxMTAyNTc=
+  notifications_url: https://api.github.com/repos/rocketscream/CH340E-MB/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/822826?v=4
+    events_url: https://api.github.com/users/rocketscream/events{/privacy}
+    followers_url: https://api.github.com/users/rocketscream/followers
+    following_url: https://api.github.com/users/rocketscream/following{/other_user}
+    gists_url: https://api.github.com/users/rocketscream/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/rocketscream
+    id: 822826
+    login: rocketscream
+    node_id: MDQ6VXNlcjgyMjgyNg==
+    organizations_url: https://api.github.com/users/rocketscream/orgs
+    received_events_url: https://api.github.com/users/rocketscream/received_events
+    repos_url: https://api.github.com/users/rocketscream/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/rocketscream/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/rocketscream/subscriptions
+    type: User
+    url: https://api.github.com/users/rocketscream
+  private: false
+  pulls_url: https://api.github.com/repos/rocketscream/CH340E-MB/pulls{/number}
+  pushed_at: '2019-04-18T15:30:13Z'
+  releases_url: https://api.github.com/repos/rocketscream/CH340E-MB/releases{/id}
+  size: 232
+  ssh_url: git@github.com:rocketscream/CH340E-MB.git
+  stargazers_count: 5
+  stargazers_url: https://api.github.com/repos/rocketscream/CH340E-MB/stargazers
+  statuses_url: https://api.github.com/repos/rocketscream/CH340E-MB/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/rocketscream/CH340E-MB/subscribers
+  subscription_url: https://api.github.com/repos/rocketscream/CH340E-MB/subscription
+  svn_url: https://github.com/rocketscream/CH340E-MB
+  tags_url: https://api.github.com/repos/rocketscream/CH340E-MB/tags
+  teams_url: https://api.github.com/repos/rocketscream/CH340E-MB/teams
+  topics: []
+  trees_url: https://api.github.com/repos/rocketscream/CH340E-MB/git/trees{/sha}
+  updated_at: '2022-02-14T01:58:04Z'
+  url: https://api.github.com/repos/rocketscream/CH340E-MB
+  visibility: public
+  watchers: 5
+  watchers_count: 5
+  web_commit_signoff_required: false

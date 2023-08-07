@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/mhorimoto/M921-SS/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/mhorimoto/M921-SS/assignees{/user}
-blobs_url: https://api.github.com/repos/mhorimoto/M921-SS/git/blobs{/sha}
-branches_url: https://api.github.com/repos/mhorimoto/M921-SS/branches{/branch}
-clone_url: https://github.com/mhorimoto/M921-SS.git
-collaborators_url: https://api.github.com/repos/mhorimoto/M921-SS/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/mhorimoto/M921-SS/comments{/number}
-commits_url: https://api.github.com/repos/mhorimoto/M921-SS/commits{/sha}
-compare_url: https://api.github.com/repos/mhorimoto/M921-SS/compare/{base}...{head}
-contents_url: https://api.github.com/repos/mhorimoto/M921-SS/contents/{+path}
-contributors_url: https://api.github.com/repos/mhorimoto/M921-SS/contributors
-created_at: '2021-09-16T10:29:45Z'
-default_branch: main
-deployments_url: https://api.github.com/repos/mhorimoto/M921-SS/deployments
-description: null
-disabled: false
-downloads_url: https://api.github.com/repos/mhorimoto/M921-SS/downloads
-events_url: https://api.github.com/repos/mhorimoto/M921-SS/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/mhorimoto/M921-SS/forks
-full_name: mhorimoto/M921-SS
-git_commits_url: https://api.github.com/repos/mhorimoto/M921-SS/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/mhorimoto/M921-SS/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/mhorimoto/M921-SS/git/tags{/sha}
-git_url: git://github.com/mhorimoto/M921-SS.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/mhorimoto/M921-SS/hooks
-html_url: https://github.com/mhorimoto/M921-SS
-id: 407121115
-is_template: false
-issue_comment_url: https://api.github.com/repos/mhorimoto/M921-SS/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/mhorimoto/M921-SS/issues/events{/number}
-issues_url: https://api.github.com/repos/mhorimoto/M921-SS/issues{/number}
-keys_url: https://api.github.com/repos/mhorimoto/M921-SS/keys{/key_id}
-labels_url: https://api.github.com/repos/mhorimoto/M921-SS/labels{/name}
-language: HTML
-languages_url: https://api.github.com/repos/mhorimoto/M921-SS/languages
-license: null
-merges_url: https://api.github.com/repos/mhorimoto/M921-SS/merges
-milestones_url: https://api.github.com/repos/mhorimoto/M921-SS/milestones{/number}
-mirror_url: null
-name: M921-SS
-node_id: MDEwOlJlcG9zaXRvcnk0MDcxMjExMTU=
-notifications_url: https://api.github.com/repos/mhorimoto/M921-SS/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/3594832?v=4
-  events_url: https://api.github.com/users/mhorimoto/events{/privacy}
-  followers_url: https://api.github.com/users/mhorimoto/followers
-  following_url: https://api.github.com/users/mhorimoto/following{/other_user}
-  gists_url: https://api.github.com/users/mhorimoto/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/mhorimoto
-  id: 3594832
-  login: mhorimoto
-  node_id: MDQ6VXNlcjM1OTQ4MzI=
-  organizations_url: https://api.github.com/users/mhorimoto/orgs
-  received_events_url: https://api.github.com/users/mhorimoto/received_events
-  repos_url: https://api.github.com/users/mhorimoto/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/mhorimoto/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/mhorimoto/subscriptions
-  type: User
-  url: https://api.github.com/users/mhorimoto
-private: false
+links:
+  github_owner: mhorimoto
+  github_repo_name: M921-SS
+  github_src: https://github.com/mhorimoto/M921-SS
+  github_src_repo: https://github.com/mhorimoto/M921-SS
+  oomp_bot: mhorimoto_m921_ss
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/mhorimoto_m921_ss
+  oomp_doc: projects/mhorimoto_m921_ss/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/mhorimoto_m921_ss
+  oomp_src_flat: projects_flat/mhorimoto_m921_ss
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/mhorimoto_m921_ss
+  oomp_src_folder: projects_folder\mhorimoto\M921-SS\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\mhorimoto\M921-SS\version_current\working
+oomp_key: oomp_mhorimoto_m921_ss
+oomp_key_simple: mhorimoto_m921_ss
 projects_flat: projects_flat/mhorimoto_m921_ss/version_current/working
 projects_folder: projects_folder/mhorimoto/M921-SS/version_current/working
-pulls_url: https://api.github.com/repos/mhorimoto/M921-SS/pulls{/number}
-pushed_at: '2023-02-13T17:13:22Z'
-releases_url: https://api.github.com/repos/mhorimoto/M921-SS/releases{/id}
-size: 176
-ssh_url: git@github.com:mhorimoto/M921-SS.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/mhorimoto/M921-SS/stargazers
-statuses_url: https://api.github.com/repos/mhorimoto/M921-SS/statuses/{sha}
-subscribers_url: https://api.github.com/repos/mhorimoto/M921-SS/subscribers
-subscription_url: https://api.github.com/repos/mhorimoto/M921-SS/subscription
-svn_url: https://github.com/mhorimoto/M921-SS
-tags_url: https://api.github.com/repos/mhorimoto/M921-SS/tags
-teams_url: https://api.github.com/repos/mhorimoto/M921-SS/teams
-topics: []
-trees_url: https://api.github.com/repos/mhorimoto/M921-SS/git/trees{/sha}
-updated_at: '2022-06-28T06:59:00Z'
-url: https://api.github.com/repos/mhorimoto/M921-SS
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/mhorimoto/M921-SS/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/mhorimoto/M921-SS/assignees{/user}
+  blobs_url: https://api.github.com/repos/mhorimoto/M921-SS/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/mhorimoto/M921-SS/branches{/branch}
+  clone_url: https://github.com/mhorimoto/M921-SS.git
+  collaborators_url: https://api.github.com/repos/mhorimoto/M921-SS/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/mhorimoto/M921-SS/comments{/number}
+  commits_url: https://api.github.com/repos/mhorimoto/M921-SS/commits{/sha}
+  compare_url: https://api.github.com/repos/mhorimoto/M921-SS/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/mhorimoto/M921-SS/contents/{+path}
+  contributors_url: https://api.github.com/repos/mhorimoto/M921-SS/contributors
+  created_at: '2021-09-16T10:29:45Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/mhorimoto/M921-SS/deployments
+  description: null
+  disabled: false
+  downloads_url: https://api.github.com/repos/mhorimoto/M921-SS/downloads
+  events_url: https://api.github.com/repos/mhorimoto/M921-SS/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/mhorimoto/M921-SS/forks
+  full_name: mhorimoto/M921-SS
+  git_commits_url: https://api.github.com/repos/mhorimoto/M921-SS/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/mhorimoto/M921-SS/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/mhorimoto/M921-SS/git/tags{/sha}
+  git_url: git://github.com/mhorimoto/M921-SS.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/mhorimoto/M921-SS/hooks
+  html_url: https://github.com/mhorimoto/M921-SS
+  id: 407121115
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/mhorimoto/M921-SS/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/mhorimoto/M921-SS/issues/events{/number}
+  issues_url: https://api.github.com/repos/mhorimoto/M921-SS/issues{/number}
+  keys_url: https://api.github.com/repos/mhorimoto/M921-SS/keys{/key_id}
+  labels_url: https://api.github.com/repos/mhorimoto/M921-SS/labels{/name}
+  language: HTML
+  languages_url: https://api.github.com/repos/mhorimoto/M921-SS/languages
+  license: null
+  merges_url: https://api.github.com/repos/mhorimoto/M921-SS/merges
+  milestones_url: https://api.github.com/repos/mhorimoto/M921-SS/milestones{/number}
+  mirror_url: null
+  name: M921-SS
+  node_id: MDEwOlJlcG9zaXRvcnk0MDcxMjExMTU=
+  notifications_url: https://api.github.com/repos/mhorimoto/M921-SS/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/3594832?v=4
+    events_url: https://api.github.com/users/mhorimoto/events{/privacy}
+    followers_url: https://api.github.com/users/mhorimoto/followers
+    following_url: https://api.github.com/users/mhorimoto/following{/other_user}
+    gists_url: https://api.github.com/users/mhorimoto/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/mhorimoto
+    id: 3594832
+    login: mhorimoto
+    node_id: MDQ6VXNlcjM1OTQ4MzI=
+    organizations_url: https://api.github.com/users/mhorimoto/orgs
+    received_events_url: https://api.github.com/users/mhorimoto/received_events
+    repos_url: https://api.github.com/users/mhorimoto/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/mhorimoto/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/mhorimoto/subscriptions
+    type: User
+    url: https://api.github.com/users/mhorimoto
+  private: false
+  pulls_url: https://api.github.com/repos/mhorimoto/M921-SS/pulls{/number}
+  pushed_at: '2023-02-13T17:13:22Z'
+  releases_url: https://api.github.com/repos/mhorimoto/M921-SS/releases{/id}
+  size: 176
+  ssh_url: git@github.com:mhorimoto/M921-SS.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/mhorimoto/M921-SS/stargazers
+  statuses_url: https://api.github.com/repos/mhorimoto/M921-SS/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/mhorimoto/M921-SS/subscribers
+  subscription_url: https://api.github.com/repos/mhorimoto/M921-SS/subscription
+  svn_url: https://github.com/mhorimoto/M921-SS
+  tags_url: https://api.github.com/repos/mhorimoto/M921-SS/tags
+  teams_url: https://api.github.com/repos/mhorimoto/M921-SS/teams
+  topics: []
+  trees_url: https://api.github.com/repos/mhorimoto/M921-SS/git/trees{/sha}
+  updated_at: '2022-06-28T06:59:00Z'
+  url: https://api.github.com/repos/mhorimoto/M921-SS
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

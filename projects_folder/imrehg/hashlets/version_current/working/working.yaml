@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/imrehg/hashlets/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/imrehg/hashlets/assignees{/user}
-blobs_url: https://api.github.com/repos/imrehg/hashlets/git/blobs{/sha}
-branches_url: https://api.github.com/repos/imrehg/hashlets/branches{/branch}
-clone_url: https://github.com/imrehg/hashlets.git
-collaborators_url: https://api.github.com/repos/imrehg/hashlets/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/imrehg/hashlets/comments{/number}
-commits_url: https://api.github.com/repos/imrehg/hashlets/commits{/sha}
-compare_url: https://api.github.com/repos/imrehg/hashlets/compare/{base}...{head}
-contents_url: https://api.github.com/repos/imrehg/hashlets/contents/{+path}
-contributors_url: https://api.github.com/repos/imrehg/hashlets/contributors
-created_at: '2014-11-16T09:12:53Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/imrehg/hashlets/deployments
-description: Haslets for other boards
-disabled: false
-downloads_url: https://api.github.com/repos/imrehg/hashlets/downloads
-events_url: https://api.github.com/repos/imrehg/hashlets/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/imrehg/hashlets/forks
-full_name: imrehg/hashlets
-git_commits_url: https://api.github.com/repos/imrehg/hashlets/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/imrehg/hashlets/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/imrehg/hashlets/git/tags{/sha}
-git_url: git://github.com/imrehg/hashlets.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/imrehg/hashlets/hooks
-html_url: https://github.com/imrehg/hashlets
-id: 26709077
-is_template: false
-issue_comment_url: https://api.github.com/repos/imrehg/hashlets/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/imrehg/hashlets/issues/events{/number}
-issues_url: https://api.github.com/repos/imrehg/hashlets/issues{/number}
-keys_url: https://api.github.com/repos/imrehg/hashlets/keys{/key_id}
-labels_url: https://api.github.com/repos/imrehg/hashlets/labels{/name}
-language: KiCad
-languages_url: https://api.github.com/repos/imrehg/hashlets/languages
-license: null
-merges_url: https://api.github.com/repos/imrehg/hashlets/merges
-milestones_url: https://api.github.com/repos/imrehg/hashlets/milestones{/number}
-mirror_url: null
-name: hashlets
-node_id: MDEwOlJlcG9zaXRvcnkyNjcwOTA3Nw==
-notifications_url: https://api.github.com/repos/imrehg/hashlets/notifications{?since,all,participating}
-open_issues: 1
-open_issues_count: 1
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/38863?v=4
-  events_url: https://api.github.com/users/imrehg/events{/privacy}
-  followers_url: https://api.github.com/users/imrehg/followers
-  following_url: https://api.github.com/users/imrehg/following{/other_user}
-  gists_url: https://api.github.com/users/imrehg/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/imrehg
-  id: 38863
-  login: imrehg
-  node_id: MDQ6VXNlcjM4ODYz
-  organizations_url: https://api.github.com/users/imrehg/orgs
-  received_events_url: https://api.github.com/users/imrehg/received_events
-  repos_url: https://api.github.com/users/imrehg/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/imrehg/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/imrehg/subscriptions
-  type: User
-  url: https://api.github.com/users/imrehg
-private: false
+links:
+  github_owner: imrehg
+  github_repo_name: hashlets
+  github_src: https://github.com/imrehg/hashlets
+  github_src_repo: https://github.com/imrehg/hashlets
+  oomp_bot: imrehg_hashlets
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/imrehg_hashlets
+  oomp_doc: projects/imrehg_hashlets/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/imrehg_hashlets
+  oomp_src_flat: projects_flat/imrehg_hashlets
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/imrehg_hashlets
+  oomp_src_folder: projects_folder\imrehg\hashlets\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\imrehg\hashlets\version_current\working
+oomp_key: oomp_imrehg_hashlets
+oomp_key_simple: imrehg_hashlets
 projects_flat: projects_flat/imrehg_hashlets/version_current/working
 projects_folder: projects_folder/imrehg/hashlets/version_current/working
-pulls_url: https://api.github.com/repos/imrehg/hashlets/pulls{/number}
-pushed_at: '2015-08-16T10:53:51Z'
-releases_url: https://api.github.com/repos/imrehg/hashlets/releases{/id}
-size: 276
-ssh_url: git@github.com:imrehg/hashlets.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/imrehg/hashlets/stargazers
-statuses_url: https://api.github.com/repos/imrehg/hashlets/statuses/{sha}
-subscribers_url: https://api.github.com/repos/imrehg/hashlets/subscribers
-subscription_url: https://api.github.com/repos/imrehg/hashlets/subscription
-svn_url: https://github.com/imrehg/hashlets
-tags_url: https://api.github.com/repos/imrehg/hashlets/tags
-teams_url: https://api.github.com/repos/imrehg/hashlets/teams
-topics: []
-trees_url: https://api.github.com/repos/imrehg/hashlets/git/trees{/sha}
-updated_at: '2015-08-09T07:53:11Z'
-url: https://api.github.com/repos/imrehg/hashlets
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/imrehg/hashlets/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/imrehg/hashlets/assignees{/user}
+  blobs_url: https://api.github.com/repos/imrehg/hashlets/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/imrehg/hashlets/branches{/branch}
+  clone_url: https://github.com/imrehg/hashlets.git
+  collaborators_url: https://api.github.com/repos/imrehg/hashlets/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/imrehg/hashlets/comments{/number}
+  commits_url: https://api.github.com/repos/imrehg/hashlets/commits{/sha}
+  compare_url: https://api.github.com/repos/imrehg/hashlets/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/imrehg/hashlets/contents/{+path}
+  contributors_url: https://api.github.com/repos/imrehg/hashlets/contributors
+  created_at: '2014-11-16T09:12:53Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/imrehg/hashlets/deployments
+  description: Haslets for other boards
+  disabled: false
+  downloads_url: https://api.github.com/repos/imrehg/hashlets/downloads
+  events_url: https://api.github.com/repos/imrehg/hashlets/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/imrehg/hashlets/forks
+  full_name: imrehg/hashlets
+  git_commits_url: https://api.github.com/repos/imrehg/hashlets/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/imrehg/hashlets/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/imrehg/hashlets/git/tags{/sha}
+  git_url: git://github.com/imrehg/hashlets.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/imrehg/hashlets/hooks
+  html_url: https://github.com/imrehg/hashlets
+  id: 26709077
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/imrehg/hashlets/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/imrehg/hashlets/issues/events{/number}
+  issues_url: https://api.github.com/repos/imrehg/hashlets/issues{/number}
+  keys_url: https://api.github.com/repos/imrehg/hashlets/keys{/key_id}
+  labels_url: https://api.github.com/repos/imrehg/hashlets/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/imrehg/hashlets/languages
+  license: null
+  merges_url: https://api.github.com/repos/imrehg/hashlets/merges
+  milestones_url: https://api.github.com/repos/imrehg/hashlets/milestones{/number}
+  mirror_url: null
+  name: hashlets
+  node_id: MDEwOlJlcG9zaXRvcnkyNjcwOTA3Nw==
+  notifications_url: https://api.github.com/repos/imrehg/hashlets/notifications{?since,all,participating}
+  open_issues: 1
+  open_issues_count: 1
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/38863?v=4
+    events_url: https://api.github.com/users/imrehg/events{/privacy}
+    followers_url: https://api.github.com/users/imrehg/followers
+    following_url: https://api.github.com/users/imrehg/following{/other_user}
+    gists_url: https://api.github.com/users/imrehg/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/imrehg
+    id: 38863
+    login: imrehg
+    node_id: MDQ6VXNlcjM4ODYz
+    organizations_url: https://api.github.com/users/imrehg/orgs
+    received_events_url: https://api.github.com/users/imrehg/received_events
+    repos_url: https://api.github.com/users/imrehg/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/imrehg/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/imrehg/subscriptions
+    type: User
+    url: https://api.github.com/users/imrehg
+  private: false
+  pulls_url: https://api.github.com/repos/imrehg/hashlets/pulls{/number}
+  pushed_at: '2015-08-16T10:53:51Z'
+  releases_url: https://api.github.com/repos/imrehg/hashlets/releases{/id}
+  size: 276
+  ssh_url: git@github.com:imrehg/hashlets.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/imrehg/hashlets/stargazers
+  statuses_url: https://api.github.com/repos/imrehg/hashlets/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/imrehg/hashlets/subscribers
+  subscription_url: https://api.github.com/repos/imrehg/hashlets/subscription
+  svn_url: https://github.com/imrehg/hashlets
+  tags_url: https://api.github.com/repos/imrehg/hashlets/tags
+  teams_url: https://api.github.com/repos/imrehg/hashlets/teams
+  topics: []
+  trees_url: https://api.github.com/repos/imrehg/hashlets/git/trees{/sha}
+  updated_at: '2015-08-09T07:53:11Z'
+  url: https://api.github.com/repos/imrehg/hashlets
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

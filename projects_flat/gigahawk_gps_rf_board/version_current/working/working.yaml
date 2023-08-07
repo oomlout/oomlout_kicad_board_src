@@ -1,100 +1,116 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/Gigahawk/gps-rf-board/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/Gigahawk/gps-rf-board/assignees{/user}
-blobs_url: https://api.github.com/repos/Gigahawk/gps-rf-board/git/blobs{/sha}
-branches_url: https://api.github.com/repos/Gigahawk/gps-rf-board/branches{/branch}
-clone_url: https://github.com/Gigahawk/gps-rf-board.git
-collaborators_url: https://api.github.com/repos/Gigahawk/gps-rf-board/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/Gigahawk/gps-rf-board/comments{/number}
-commits_url: https://api.github.com/repos/Gigahawk/gps-rf-board/commits{/sha}
-compare_url: https://api.github.com/repos/Gigahawk/gps-rf-board/compare/{base}...{head}
-contents_url: https://api.github.com/repos/Gigahawk/gps-rf-board/contents/{+path}
-contributors_url: https://api.github.com/repos/Gigahawk/gps-rf-board/contributors
-created_at: '2020-02-08T21:06:18Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/Gigahawk/gps-rf-board/deployments
-description: Open source SDR + COTS GPS board provides I and Q data plus COTS binary
-  data over Ethernet.
-disabled: false
-downloads_url: https://api.github.com/repos/Gigahawk/gps-rf-board/downloads
-events_url: https://api.github.com/repos/Gigahawk/gps-rf-board/events
-fork: true
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/Gigahawk/gps-rf-board/forks
-full_name: Gigahawk/gps-rf-board
-git_commits_url: https://api.github.com/repos/Gigahawk/gps-rf-board/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/Gigahawk/gps-rf-board/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/Gigahawk/gps-rf-board/git/tags{/sha}
-git_url: git://github.com/Gigahawk/gps-rf-board.git
-has_discussions: false
-has_downloads: true
-has_issues: false
-has_pages: false
-has_projects: true
-has_wiki: false
-homepage: ''
-hooks_url: https://api.github.com/repos/Gigahawk/gps-rf-board/hooks
-html_url: https://github.com/Gigahawk/gps-rf-board
-id: 239204358
-is_template: false
-issue_comment_url: https://api.github.com/repos/Gigahawk/gps-rf-board/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/Gigahawk/gps-rf-board/issues/events{/number}
-issues_url: https://api.github.com/repos/Gigahawk/gps-rf-board/issues{/number}
-keys_url: https://api.github.com/repos/Gigahawk/gps-rf-board/keys{/key_id}
-labels_url: https://api.github.com/repos/Gigahawk/gps-rf-board/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/Gigahawk/gps-rf-board/languages
-license: null
-merges_url: https://api.github.com/repos/Gigahawk/gps-rf-board/merges
-milestones_url: https://api.github.com/repos/Gigahawk/gps-rf-board/milestones{/number}
-mirror_url: null
-name: gps-rf-board
-node_id: MDEwOlJlcG9zaXRvcnkyMzkyMDQzNTg=
-notifications_url: https://api.github.com/repos/Gigahawk/gps-rf-board/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/10356230?v=4
-  events_url: https://api.github.com/users/Gigahawk/events{/privacy}
-  followers_url: https://api.github.com/users/Gigahawk/followers
-  following_url: https://api.github.com/users/Gigahawk/following{/other_user}
-  gists_url: https://api.github.com/users/Gigahawk/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/Gigahawk
-  id: 10356230
-  login: Gigahawk
-  node_id: MDQ6VXNlcjEwMzU2MjMw
-  organizations_url: https://api.github.com/users/Gigahawk/orgs
-  received_events_url: https://api.github.com/users/Gigahawk/received_events
-  repos_url: https://api.github.com/users/Gigahawk/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/Gigahawk/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/Gigahawk/subscriptions
-  type: User
-  url: https://api.github.com/users/Gigahawk
-private: false
+links:
+  github_owner: Gigahawk
+  github_repo_name: gps-rf-board
+  github_src: https://github.com/Gigahawk/gps-rf-board
+  github_src_repo: https://github.com/Gigahawk/gps-rf-board
+  oomp_bot: projects_gigahawk_gps_rf_board
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_gigahawk_gps_rf_board
+  oomp_doc: projects/projects_flat_gigahawk_gps_rf_board/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_gigahawk_gps_rf_board
+  oomp_src_flat: projects_flat/projects_flat_gigahawk_gps_rf_board
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_gigahawk_gps_rf_board
+  oomp_src_folder: projects_flat\gigahawk_gps_rf_board\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\gigahawk_gps_rf_board\version_current\working
+oomp_key: oomp_projects_flat_gigahawk_gps_rf_board
+oomp_key_simple: projects_flat_gigahawk_gps_rf_board
 projects_flat: projects_flat/gigahawk_gps_rf_board/version_current/working
 projects_folder: projects_folder/Gigahawk/gps-rf-board/version_current/working
-pulls_url: https://api.github.com/repos/Gigahawk/gps-rf-board/pulls{/number}
-pushed_at: '2019-03-20T15:08:20Z'
-releases_url: https://api.github.com/repos/Gigahawk/gps-rf-board/releases{/id}
-size: 80415
-ssh_url: git@github.com:Gigahawk/gps-rf-board.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/Gigahawk/gps-rf-board/stargazers
-statuses_url: https://api.github.com/repos/Gigahawk/gps-rf-board/statuses/{sha}
-subscribers_url: https://api.github.com/repos/Gigahawk/gps-rf-board/subscribers
-subscription_url: https://api.github.com/repos/Gigahawk/gps-rf-board/subscription
-svn_url: https://github.com/Gigahawk/gps-rf-board
-tags_url: https://api.github.com/repos/Gigahawk/gps-rf-board/tags
-teams_url: https://api.github.com/repos/Gigahawk/gps-rf-board/teams
-topics: []
-trees_url: https://api.github.com/repos/Gigahawk/gps-rf-board/git/trees{/sha}
-updated_at: '2020-02-08T21:06:19Z'
-url: https://api.github.com/repos/Gigahawk/gps-rf-board
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/Gigahawk/gps-rf-board/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/Gigahawk/gps-rf-board/assignees{/user}
+  blobs_url: https://api.github.com/repos/Gigahawk/gps-rf-board/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/Gigahawk/gps-rf-board/branches{/branch}
+  clone_url: https://github.com/Gigahawk/gps-rf-board.git
+  collaborators_url: https://api.github.com/repos/Gigahawk/gps-rf-board/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/Gigahawk/gps-rf-board/comments{/number}
+  commits_url: https://api.github.com/repos/Gigahawk/gps-rf-board/commits{/sha}
+  compare_url: https://api.github.com/repos/Gigahawk/gps-rf-board/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/Gigahawk/gps-rf-board/contents/{+path}
+  contributors_url: https://api.github.com/repos/Gigahawk/gps-rf-board/contributors
+  created_at: '2020-02-08T21:06:18Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/Gigahawk/gps-rf-board/deployments
+  description: Open source SDR + COTS GPS board provides I and Q data plus COTS binary
+    data over Ethernet.
+  disabled: false
+  downloads_url: https://api.github.com/repos/Gigahawk/gps-rf-board/downloads
+  events_url: https://api.github.com/repos/Gigahawk/gps-rf-board/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/Gigahawk/gps-rf-board/forks
+  full_name: Gigahawk/gps-rf-board
+  git_commits_url: https://api.github.com/repos/Gigahawk/gps-rf-board/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/Gigahawk/gps-rf-board/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/Gigahawk/gps-rf-board/git/tags{/sha}
+  git_url: git://github.com/Gigahawk/gps-rf-board.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: ''
+  hooks_url: https://api.github.com/repos/Gigahawk/gps-rf-board/hooks
+  html_url: https://github.com/Gigahawk/gps-rf-board
+  id: 239204358
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/Gigahawk/gps-rf-board/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/Gigahawk/gps-rf-board/issues/events{/number}
+  issues_url: https://api.github.com/repos/Gigahawk/gps-rf-board/issues{/number}
+  keys_url: https://api.github.com/repos/Gigahawk/gps-rf-board/keys{/key_id}
+  labels_url: https://api.github.com/repos/Gigahawk/gps-rf-board/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/Gigahawk/gps-rf-board/languages
+  license: null
+  merges_url: https://api.github.com/repos/Gigahawk/gps-rf-board/merges
+  milestones_url: https://api.github.com/repos/Gigahawk/gps-rf-board/milestones{/number}
+  mirror_url: null
+  name: gps-rf-board
+  node_id: MDEwOlJlcG9zaXRvcnkyMzkyMDQzNTg=
+  notifications_url: https://api.github.com/repos/Gigahawk/gps-rf-board/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/10356230?v=4
+    events_url: https://api.github.com/users/Gigahawk/events{/privacy}
+    followers_url: https://api.github.com/users/Gigahawk/followers
+    following_url: https://api.github.com/users/Gigahawk/following{/other_user}
+    gists_url: https://api.github.com/users/Gigahawk/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/Gigahawk
+    id: 10356230
+    login: Gigahawk
+    node_id: MDQ6VXNlcjEwMzU2MjMw
+    organizations_url: https://api.github.com/users/Gigahawk/orgs
+    received_events_url: https://api.github.com/users/Gigahawk/received_events
+    repos_url: https://api.github.com/users/Gigahawk/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/Gigahawk/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/Gigahawk/subscriptions
+    type: User
+    url: https://api.github.com/users/Gigahawk
+  private: false
+  pulls_url: https://api.github.com/repos/Gigahawk/gps-rf-board/pulls{/number}
+  pushed_at: '2019-03-20T15:08:20Z'
+  releases_url: https://api.github.com/repos/Gigahawk/gps-rf-board/releases{/id}
+  size: 80415
+  ssh_url: git@github.com:Gigahawk/gps-rf-board.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/Gigahawk/gps-rf-board/stargazers
+  statuses_url: https://api.github.com/repos/Gigahawk/gps-rf-board/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/Gigahawk/gps-rf-board/subscribers
+  subscription_url: https://api.github.com/repos/Gigahawk/gps-rf-board/subscription
+  svn_url: https://github.com/Gigahawk/gps-rf-board
+  tags_url: https://api.github.com/repos/Gigahawk/gps-rf-board/tags
+  teams_url: https://api.github.com/repos/Gigahawk/gps-rf-board/teams
+  topics: []
+  trees_url: https://api.github.com/repos/Gigahawk/gps-rf-board/git/trees{/sha}
+  updated_at: '2020-02-08T21:06:19Z'
+  url: https://api.github.com/repos/Gigahawk/gps-rf-board
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

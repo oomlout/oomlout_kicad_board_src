@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/assignees{/user}
-blobs_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/git/blobs{/sha}
-branches_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/branches{/branch}
-clone_url: https://github.com/freetronics/ATTINY84ZIF.git
-collaborators_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/comments{/number}
-commits_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/commits{/sha}
-compare_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/compare/{base}...{head}
-contents_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/contents/{+path}
-contributors_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/contributors
-created_at: '2018-03-22T00:05:43Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/deployments
-description: ZIF breakout for ATtiny84 MCU
-disabled: false
-downloads_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/downloads
-events_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/forks
-full_name: freetronics/ATTINY84ZIF
-git_commits_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/git/tags{/sha}
-git_url: git://github.com/freetronics/ATTINY84ZIF.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/hooks
-html_url: https://github.com/freetronics/ATTINY84ZIF
-id: 126255386
-is_template: false
-issue_comment_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/issues/events{/number}
-issues_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/issues{/number}
-keys_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/keys{/key_id}
-labels_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/languages
-license: null
-merges_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/merges
-milestones_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/milestones{/number}
-mirror_url: null
-name: ATTINY84ZIF
-node_id: MDEwOlJlcG9zaXRvcnkxMjYyNTUzODY=
-notifications_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
-  events_url: https://api.github.com/users/freetronics/events{/privacy}
-  followers_url: https://api.github.com/users/freetronics/followers
-  following_url: https://api.github.com/users/freetronics/following{/other_user}
-  gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/freetronics
-  id: 283042
-  login: freetronics
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
-  organizations_url: https://api.github.com/users/freetronics/orgs
-  received_events_url: https://api.github.com/users/freetronics/received_events
-  repos_url: https://api.github.com/users/freetronics/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/freetronics/subscriptions
-  type: Organization
-  url: https://api.github.com/users/freetronics
-private: false
+links:
+  github_owner: freetronics
+  github_repo_name: ATTINY84ZIF
+  github_src: https://github.com/freetronics/ATTINY84ZIF
+  github_src_repo: https://github.com/freetronics/ATTINY84ZIF
+  oomp_bot: freetronics_attiny84zif
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/freetronics_attiny84zif
+  oomp_doc: projects/freetronics_attiny84zif/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/freetronics_attiny84zif
+  oomp_src_flat: projects_flat/freetronics_attiny84zif
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/freetronics_attiny84zif
+  oomp_src_folder: projects_folder\freetronics\ATTINY84ZIF\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_folder\freetronics\ATTINY84ZIF\version_current\working
+oomp_key: oomp_freetronics_attiny84zif
+oomp_key_simple: freetronics_attiny84zif
 projects_flat: projects_flat/freetronics_attiny84zif/version_current/working
 projects_folder: projects_folder/freetronics/ATTINY84ZIF/version_current/working
-pulls_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/pulls{/number}
-pushed_at: '2018-03-22T00:05:57Z'
-releases_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/releases{/id}
-size: 30
-ssh_url: git@github.com:freetronics/ATTINY84ZIF.git
-stargazers_count: 0
-stargazers_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/stargazers
-statuses_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/statuses/{sha}
-subscribers_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/subscribers
-subscription_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/subscription
-svn_url: https://github.com/freetronics/ATTINY84ZIF
-tags_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/tags
-teams_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/teams
-topics: []
-trees_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/git/trees{/sha}
-updated_at: '2018-03-22T00:05:58Z'
-url: https://api.github.com/repos/freetronics/ATTINY84ZIF
-visibility: public
-watchers: 0
-watchers_count: 0
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/assignees{/user}
+  blobs_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/branches{/branch}
+  clone_url: https://github.com/freetronics/ATTINY84ZIF.git
+  collaborators_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/comments{/number}
+  commits_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/commits{/sha}
+  compare_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/contents/{+path}
+  contributors_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/contributors
+  created_at: '2018-03-22T00:05:43Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/deployments
+  description: ZIF breakout for ATtiny84 MCU
+  disabled: false
+  downloads_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/downloads
+  events_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/forks
+  full_name: freetronics/ATTINY84ZIF
+  git_commits_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/git/tags{/sha}
+  git_url: git://github.com/freetronics/ATTINY84ZIF.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/hooks
+  html_url: https://github.com/freetronics/ATTINY84ZIF
+  id: 126255386
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/issues/events{/number}
+  issues_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/issues{/number}
+  keys_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/keys{/key_id}
+  labels_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/languages
+  license: null
+  merges_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/merges
+  milestones_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/milestones{/number}
+  mirror_url: null
+  name: ATTINY84ZIF
+  node_id: MDEwOlJlcG9zaXRvcnkxMjYyNTUzODY=
+  notifications_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/283042?v=4
+    events_url: https://api.github.com/users/freetronics/events{/privacy}
+    followers_url: https://api.github.com/users/freetronics/followers
+    following_url: https://api.github.com/users/freetronics/following{/other_user}
+    gists_url: https://api.github.com/users/freetronics/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/freetronics
+    id: 283042
+    login: freetronics
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI4MzA0Mg==
+    organizations_url: https://api.github.com/users/freetronics/orgs
+    received_events_url: https://api.github.com/users/freetronics/received_events
+    repos_url: https://api.github.com/users/freetronics/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/freetronics/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/freetronics/subscriptions
+    type: Organization
+    url: https://api.github.com/users/freetronics
+  private: false
+  pulls_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/pulls{/number}
+  pushed_at: '2018-03-22T00:05:57Z'
+  releases_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/releases{/id}
+  size: 30
+  ssh_url: git@github.com:freetronics/ATTINY84ZIF.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/stargazers
+  statuses_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/subscribers
+  subscription_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/subscription
+  svn_url: https://github.com/freetronics/ATTINY84ZIF
+  tags_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/tags
+  teams_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/teams
+  topics: []
+  trees_url: https://api.github.com/repos/freetronics/ATTINY84ZIF/git/trees{/sha}
+  updated_at: '2018-03-22T00:05:58Z'
+  url: https://api.github.com/repos/freetronics/ATTINY84ZIF
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false

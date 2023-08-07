@@ -1,99 +1,115 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/{archive_format}{/ref}
-archived: true
-assignees_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/assignees{/user}
-blobs_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/git/blobs{/sha}
-branches_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/branches{/branch}
-clone_url: https://github.com/sparkfunX/ESP32_LoRa_1CH_Gateway.git
-collaborators_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/comments{/number}
-commits_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/commits{/sha}
-compare_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/compare/{base}...{head}
-contents_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/contents/{+path}
-contributors_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/contributors
-created_at: '2018-07-18T15:26:26Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/deployments
-description: ESP32+RFM95 = Single-channel LoRa WiFI Gateway (or device!)
-disabled: false
-downloads_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/downloads
-events_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/events
-fork: false
-forks: 11
-forks_count: 11
-forks_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/forks
-full_name: sparkfunX/ESP32_LoRa_1CH_Gateway
-git_commits_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/git/tags{/sha}
-git_url: git://github.com/sparkfunX/ESP32_LoRa_1CH_Gateway.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: ''
-hooks_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/hooks
-html_url: https://github.com/sparkfunX/ESP32_LoRa_1CH_Gateway
-id: 141453838
-is_template: false
-issue_comment_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/issues/events{/number}
-issues_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/issues{/number}
-keys_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/keys{/key_id}
-labels_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/labels{/name}
-language: C++
-languages_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/languages
-license: null
-merges_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/merges
-milestones_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/milestones{/number}
-mirror_url: null
-name: ESP32_LoRa_1CH_Gateway
-node_id: MDEwOlJlcG9zaXRvcnkxNDE0NTM4Mzg=
-notifications_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
-  events_url: https://api.github.com/users/sparkfunX/events{/privacy}
-  followers_url: https://api.github.com/users/sparkfunX/followers
-  following_url: https://api.github.com/users/sparkfunX/following{/other_user}
-  gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/sparkfunX
-  id: 25487355
-  login: sparkfunX
-  node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
-  organizations_url: https://api.github.com/users/sparkfunX/orgs
-  received_events_url: https://api.github.com/users/sparkfunX/received_events
-  repos_url: https://api.github.com/users/sparkfunX/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
-  type: Organization
-  url: https://api.github.com/users/sparkfunX
-private: false
+links:
+  github_owner: sparkfunX
+  github_repo_name: ESP32_LoRa_1CH_Gateway
+  github_src: https://github.com/sparkfunX/ESP32_LoRa_1CH_Gateway
+  github_src_repo: https://github.com/sparkfunX/ESP32_LoRa_1CH_Gateway
+  oomp_bot: projects_sparkfunx_esp32_lora_1ch_gateway
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_sparkfunx_esp32_lora_1ch_gateway
+  oomp_doc: projects/projects_flat_sparkfunx_esp32_lora_1ch_gateway/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_sparkfunx_esp32_lora_1ch_gateway
+  oomp_src_flat: projects_flat/projects_flat_sparkfunx_esp32_lora_1ch_gateway
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_sparkfunx_esp32_lora_1ch_gateway
+  oomp_src_folder: projects_flat\sparkfunx_esp32_lora_1ch_gateway\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\sparkfunx_esp32_lora_1ch_gateway\version_current\working
+oomp_key: oomp_projects_flat_sparkfunx_esp32_lora_1ch_gateway
+oomp_key_simple: projects_flat_sparkfunx_esp32_lora_1ch_gateway
 projects_flat: projects_flat/sparkfunx_esp32_lora_1ch_gateway/version_current/working
 projects_folder: projects_folder/sparkfunx/ESP32_LoRa_1CH_Gateway/version_current/working
-pulls_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/pulls{/number}
-pushed_at: '2022-01-31T16:36:01Z'
-releases_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/releases{/id}
-size: 3718
-ssh_url: git@github.com:sparkfunX/ESP32_LoRa_1CH_Gateway.git
-stargazers_count: 16
-stargazers_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/stargazers
-statuses_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/statuses/{sha}
-subscribers_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/subscribers
-subscription_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/subscription
-svn_url: https://github.com/sparkfunX/ESP32_LoRa_1CH_Gateway
-tags_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/tags
-teams_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/teams
-topics: []
-trees_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/git/trees{/sha}
-updated_at: '2023-01-28T03:31:46Z'
-url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway
-visibility: public
-watchers: 16
-watchers_count: 16
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/{archive_format}{/ref}
+  archived: true
+  assignees_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/assignees{/user}
+  blobs_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/branches{/branch}
+  clone_url: https://github.com/sparkfunX/ESP32_LoRa_1CH_Gateway.git
+  collaborators_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/comments{/number}
+  commits_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/commits{/sha}
+  compare_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/contents/{+path}
+  contributors_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/contributors
+  created_at: '2018-07-18T15:26:26Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/deployments
+  description: ESP32+RFM95 = Single-channel LoRa WiFI Gateway (or device!)
+  disabled: false
+  downloads_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/downloads
+  events_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/events
+  fork: false
+  forks: 11
+  forks_count: 11
+  forks_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/forks
+  full_name: sparkfunX/ESP32_LoRa_1CH_Gateway
+  git_commits_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/git/tags{/sha}
+  git_url: git://github.com/sparkfunX/ESP32_LoRa_1CH_Gateway.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/hooks
+  html_url: https://github.com/sparkfunX/ESP32_LoRa_1CH_Gateway
+  id: 141453838
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/issues/events{/number}
+  issues_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/issues{/number}
+  keys_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/keys{/key_id}
+  labels_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/languages
+  license: null
+  merges_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/merges
+  milestones_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/milestones{/number}
+  mirror_url: null
+  name: ESP32_LoRa_1CH_Gateway
+  node_id: MDEwOlJlcG9zaXRvcnkxNDE0NTM4Mzg=
+  notifications_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/25487355?v=4
+    events_url: https://api.github.com/users/sparkfunX/events{/privacy}
+    followers_url: https://api.github.com/users/sparkfunX/followers
+    following_url: https://api.github.com/users/sparkfunX/following{/other_user}
+    gists_url: https://api.github.com/users/sparkfunX/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/sparkfunX
+    id: 25487355
+    login: sparkfunX
+    node_id: MDEyOk9yZ2FuaXphdGlvbjI1NDg3MzU1
+    organizations_url: https://api.github.com/users/sparkfunX/orgs
+    received_events_url: https://api.github.com/users/sparkfunX/received_events
+    repos_url: https://api.github.com/users/sparkfunX/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/sparkfunX/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/sparkfunX/subscriptions
+    type: Organization
+    url: https://api.github.com/users/sparkfunX
+  private: false
+  pulls_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/pulls{/number}
+  pushed_at: '2022-01-31T16:36:01Z'
+  releases_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/releases{/id}
+  size: 3718
+  ssh_url: git@github.com:sparkfunX/ESP32_LoRa_1CH_Gateway.git
+  stargazers_count: 16
+  stargazers_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/stargazers
+  statuses_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/subscribers
+  subscription_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/subscription
+  svn_url: https://github.com/sparkfunX/ESP32_LoRa_1CH_Gateway
+  tags_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/tags
+  teams_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/teams
+  topics: []
+  trees_url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway/git/trees{/sha}
+  updated_at: '2023-01-28T03:31:46Z'
+  url: https://api.github.com/repos/sparkfunX/ESP32_LoRa_1CH_Gateway
+  visibility: public
+  watchers: 16
+  watchers_count: 16
+  web_commit_signoff_required: false

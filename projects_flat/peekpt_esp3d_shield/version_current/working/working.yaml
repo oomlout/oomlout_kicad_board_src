@@ -1,104 +1,121 @@
-allow_forking: true
-archive_url: https://api.github.com/repos/peekpt/ESP3D-shield/{archive_format}{/ref}
-archived: false
-assignees_url: https://api.github.com/repos/peekpt/ESP3D-shield/assignees{/user}
-blobs_url: https://api.github.com/repos/peekpt/ESP3D-shield/git/blobs{/sha}
-branches_url: https://api.github.com/repos/peekpt/ESP3D-shield/branches{/branch}
-clone_url: https://github.com/peekpt/ESP3D-shield.git
-collaborators_url: https://api.github.com/repos/peekpt/ESP3D-shield/collaborators{/collaborator}
-comments_url: https://api.github.com/repos/peekpt/ESP3D-shield/comments{/number}
-commits_url: https://api.github.com/repos/peekpt/ESP3D-shield/commits{/sha}
-compare_url: https://api.github.com/repos/peekpt/ESP3D-shield/compare/{base}...{head}
-contents_url: https://api.github.com/repos/peekpt/ESP3D-shield/contents/{+path}
-contributors_url: https://api.github.com/repos/peekpt/ESP3D-shield/contributors
-created_at: '2017-09-29T13:38:29Z'
-default_branch: master
-deployments_url: https://api.github.com/repos/peekpt/ESP3D-shield/deployments
-description: A 3D PRINTER PCB shield forAUX-1 Port of MKS boards for the ESP12-E module
-disabled: false
-downloads_url: https://api.github.com/repos/peekpt/ESP3D-shield/downloads
-events_url: https://api.github.com/repos/peekpt/ESP3D-shield/events
-fork: false
-forks: 0
-forks_count: 0
-forks_url: https://api.github.com/repos/peekpt/ESP3D-shield/forks
-full_name: peekpt/ESP3D-shield
-git_commits_url: https://api.github.com/repos/peekpt/ESP3D-shield/git/commits{/sha}
-git_refs_url: https://api.github.com/repos/peekpt/ESP3D-shield/git/refs{/sha}
-git_tags_url: https://api.github.com/repos/peekpt/ESP3D-shield/git/tags{/sha}
-git_url: git://github.com/peekpt/ESP3D-shield.git
-has_discussions: false
-has_downloads: true
-has_issues: true
-has_pages: false
-has_projects: true
-has_wiki: true
-homepage: null
-hooks_url: https://api.github.com/repos/peekpt/ESP3D-shield/hooks
-html_url: https://github.com/peekpt/ESP3D-shield
-id: 105276384
-is_template: false
-issue_comment_url: https://api.github.com/repos/peekpt/ESP3D-shield/issues/comments{/number}
-issue_events_url: https://api.github.com/repos/peekpt/ESP3D-shield/issues/events{/number}
-issues_url: https://api.github.com/repos/peekpt/ESP3D-shield/issues{/number}
-keys_url: https://api.github.com/repos/peekpt/ESP3D-shield/keys{/key_id}
-labels_url: https://api.github.com/repos/peekpt/ESP3D-shield/labels{/name}
-language: null
-languages_url: https://api.github.com/repos/peekpt/ESP3D-shield/languages
-license:
-  key: gpl-3.0
-  name: GNU General Public License v3.0
-  node_id: MDc6TGljZW5zZTk=
-  spdx_id: GPL-3.0
-  url: https://api.github.com/licenses/gpl-3.0
-merges_url: https://api.github.com/repos/peekpt/ESP3D-shield/merges
-milestones_url: https://api.github.com/repos/peekpt/ESP3D-shield/milestones{/number}
-mirror_url: null
-name: ESP3D-shield
-node_id: MDEwOlJlcG9zaXRvcnkxMDUyNzYzODQ=
-notifications_url: https://api.github.com/repos/peekpt/ESP3D-shield/notifications{?since,all,participating}
-open_issues: 0
-open_issues_count: 0
-owner:
-  avatar_url: https://avatars.githubusercontent.com/u/222385?v=4
-  events_url: https://api.github.com/users/peekpt/events{/privacy}
-  followers_url: https://api.github.com/users/peekpt/followers
-  following_url: https://api.github.com/users/peekpt/following{/other_user}
-  gists_url: https://api.github.com/users/peekpt/gists{/gist_id}
-  gravatar_id: ''
-  html_url: https://github.com/peekpt
-  id: 222385
-  login: peekpt
-  node_id: MDQ6VXNlcjIyMjM4NQ==
-  organizations_url: https://api.github.com/users/peekpt/orgs
-  received_events_url: https://api.github.com/users/peekpt/received_events
-  repos_url: https://api.github.com/users/peekpt/repos
-  site_admin: false
-  starred_url: https://api.github.com/users/peekpt/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/peekpt/subscriptions
-  type: User
-  url: https://api.github.com/users/peekpt
-private: false
+links:
+  github_owner: peekpt
+  github_repo_name: ESP3D-shield
+  github_src: https://github.com/peekpt/ESP3D-shield
+  github_src_repo: https://github.com/peekpt/ESP3D-shield
+  oomp_bot: projects_peekpt_esp3d_shield
+  oomp_bot_github: https://github.com/oomlout/oomlout_oomp_project_bot/tree/main/projects/projects_peekpt_esp3d_shield
+  oomp_doc: projects/projects_flat_peekpt_esp3d_shield/
+  oomp_doc_github: https://github.com/oomlout/oomlout_oomp_project_doc/tree/main/projects/projects_flat_peekpt_esp3d_shield
+  oomp_src_flat: projects_flat/projects_flat_peekpt_esp3d_shield
+  oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat/projects_flat_peekpt_esp3d_shield
+  oomp_src_folder: projects_flat\peekpt_esp3d_shield\version_current\working
+  oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_project_src/tree/main/projects_flat\peekpt_esp3d_shield\version_current\working
+oomp_key: oomp_projects_flat_peekpt_esp3d_shield
+oomp_key_simple: projects_flat_peekpt_esp3d_shield
 projects_flat: projects_flat/peekpt_esp3d_shield/version_current/working
 projects_folder: projects_folder/peekpt/ESP3D-shield/version_current/working
-pulls_url: https://api.github.com/repos/peekpt/ESP3D-shield/pulls{/number}
-pushed_at: '2017-10-20T14:55:29Z'
-releases_url: https://api.github.com/repos/peekpt/ESP3D-shield/releases{/id}
-size: 3052
-ssh_url: git@github.com:peekpt/ESP3D-shield.git
-stargazers_count: 1
-stargazers_url: https://api.github.com/repos/peekpt/ESP3D-shield/stargazers
-statuses_url: https://api.github.com/repos/peekpt/ESP3D-shield/statuses/{sha}
-subscribers_url: https://api.github.com/repos/peekpt/ESP3D-shield/subscribers
-subscription_url: https://api.github.com/repos/peekpt/ESP3D-shield/subscription
-svn_url: https://github.com/peekpt/ESP3D-shield
-tags_url: https://api.github.com/repos/peekpt/ESP3D-shield/tags
-teams_url: https://api.github.com/repos/peekpt/ESP3D-shield/teams
-topics: []
-trees_url: https://api.github.com/repos/peekpt/ESP3D-shield/git/trees{/sha}
-updated_at: '2020-07-03T19:36:03Z'
-url: https://api.github.com/repos/peekpt/ESP3D-shield
-visibility: public
-watchers: 1
-watchers_count: 1
-web_commit_signoff_required: false
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/peekpt/ESP3D-shield/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/peekpt/ESP3D-shield/assignees{/user}
+  blobs_url: https://api.github.com/repos/peekpt/ESP3D-shield/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/peekpt/ESP3D-shield/branches{/branch}
+  clone_url: https://github.com/peekpt/ESP3D-shield.git
+  collaborators_url: https://api.github.com/repos/peekpt/ESP3D-shield/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/peekpt/ESP3D-shield/comments{/number}
+  commits_url: https://api.github.com/repos/peekpt/ESP3D-shield/commits{/sha}
+  compare_url: https://api.github.com/repos/peekpt/ESP3D-shield/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/peekpt/ESP3D-shield/contents/{+path}
+  contributors_url: https://api.github.com/repos/peekpt/ESP3D-shield/contributors
+  created_at: '2017-09-29T13:38:29Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/peekpt/ESP3D-shield/deployments
+  description: A 3D PRINTER PCB shield forAUX-1 Port of MKS boards for the ESP12-E
+    module
+  disabled: false
+  downloads_url: https://api.github.com/repos/peekpt/ESP3D-shield/downloads
+  events_url: https://api.github.com/repos/peekpt/ESP3D-shield/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/peekpt/ESP3D-shield/forks
+  full_name: peekpt/ESP3D-shield
+  git_commits_url: https://api.github.com/repos/peekpt/ESP3D-shield/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/peekpt/ESP3D-shield/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/peekpt/ESP3D-shield/git/tags{/sha}
+  git_url: git://github.com/peekpt/ESP3D-shield.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/peekpt/ESP3D-shield/hooks
+  html_url: https://github.com/peekpt/ESP3D-shield
+  id: 105276384
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/peekpt/ESP3D-shield/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/peekpt/ESP3D-shield/issues/events{/number}
+  issues_url: https://api.github.com/repos/peekpt/ESP3D-shield/issues{/number}
+  keys_url: https://api.github.com/repos/peekpt/ESP3D-shield/keys{/key_id}
+  labels_url: https://api.github.com/repos/peekpt/ESP3D-shield/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/peekpt/ESP3D-shield/languages
+  license:
+    key: gpl-3.0
+    name: GNU General Public License v3.0
+    node_id: MDc6TGljZW5zZTk=
+    spdx_id: GPL-3.0
+    url: https://api.github.com/licenses/gpl-3.0
+  merges_url: https://api.github.com/repos/peekpt/ESP3D-shield/merges
+  milestones_url: https://api.github.com/repos/peekpt/ESP3D-shield/milestones{/number}
+  mirror_url: null
+  name: ESP3D-shield
+  node_id: MDEwOlJlcG9zaXRvcnkxMDUyNzYzODQ=
+  notifications_url: https://api.github.com/repos/peekpt/ESP3D-shield/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/222385?v=4
+    events_url: https://api.github.com/users/peekpt/events{/privacy}
+    followers_url: https://api.github.com/users/peekpt/followers
+    following_url: https://api.github.com/users/peekpt/following{/other_user}
+    gists_url: https://api.github.com/users/peekpt/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/peekpt
+    id: 222385
+    login: peekpt
+    node_id: MDQ6VXNlcjIyMjM4NQ==
+    organizations_url: https://api.github.com/users/peekpt/orgs
+    received_events_url: https://api.github.com/users/peekpt/received_events
+    repos_url: https://api.github.com/users/peekpt/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/peekpt/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/peekpt/subscriptions
+    type: User
+    url: https://api.github.com/users/peekpt
+  private: false
+  pulls_url: https://api.github.com/repos/peekpt/ESP3D-shield/pulls{/number}
+  pushed_at: '2017-10-20T14:55:29Z'
+  releases_url: https://api.github.com/repos/peekpt/ESP3D-shield/releases{/id}
+  size: 3052
+  ssh_url: git@github.com:peekpt/ESP3D-shield.git
+  stargazers_count: 1
+  stargazers_url: https://api.github.com/repos/peekpt/ESP3D-shield/stargazers
+  statuses_url: https://api.github.com/repos/peekpt/ESP3D-shield/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/peekpt/ESP3D-shield/subscribers
+  subscription_url: https://api.github.com/repos/peekpt/ESP3D-shield/subscription
+  svn_url: https://github.com/peekpt/ESP3D-shield
+  tags_url: https://api.github.com/repos/peekpt/ESP3D-shield/tags
+  teams_url: https://api.github.com/repos/peekpt/ESP3D-shield/teams
+  topics: []
+  trees_url: https://api.github.com/repos/peekpt/ESP3D-shield/git/trees{/sha}
+  updated_at: '2020-07-03T19:36:03Z'
+  url: https://api.github.com/repos/peekpt/ESP3D-shield
+  visibility: public
+  watchers: 1
+  watchers_count: 1
+  web_commit_signoff_required: false
