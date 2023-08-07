@@ -4,11 +4,15 @@ import oomlout_project_src as oom_p_s
 
 def main():
     oom_p_s.load_github_users()
-    #oom_p_s.load_projects_from_github_to_yaml()
+    oom_p_s.load_projects_from_github_to_yaml()
 
     #to do everything
     #oom_p_s.make_projects()
     
+    #single project
+    filter_project = "oshcamp"
+    oom_p_s.make_projects(filter_project=filter_project)
+
     #tio just do the data
     #user = ""
     #project = ""

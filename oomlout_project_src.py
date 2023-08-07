@@ -25,7 +25,7 @@ def make_projects(**kwargs):
     overwrite = kwargs.get('overwrite', False)
     filter_user = kwargs.get('user', "")
     filter_project = kwargs.get('project', "")
-    clone = kwargs.get('clone', False)
+    clone = kwargs.get('clone', True)
     force = kwargs.get('force', False)
     
     
@@ -120,9 +120,10 @@ def make_projects(**kwargs):
                                 pass
                         
                             #add clone_url to completed_repo.yml yaml file
-                        with open('completed_repo.yml', 'a') as completed_repo_file:
-                            #add yaml
-                            completed_repo_file.write(f'- {clone_url}\n')
+                        if clone_url not in completed_repos:
+                            with open('completed_repo.yml', 'a') as completed_repo_file:
+                                #add yaml
+                                completed_repo_file.write(f'- {clone_url}\n')
 
                         pass
                     else:
@@ -162,10 +163,11 @@ def clone_and_grab_files(**kwargs):
                         os.makedirs(os.path.dirname(folder_file))
                     if not os.path.exists(os.path.dirname(flat_file)):
                         os.makedirs(os.path.dirname(flat_file))
-
-                    shutil.copy(f'{root}/{file}', folder_file)
-                    #copy the file to the projects flat folder
-                    shutil.copy(f'{root}/{file}', flat_file)
+                    if "topper" not in root: #hack added to avoid oshcamp issue
+                        print(f"copying {root}/{file} to {folder_file}")
+                        shutil.copy(f'{root}/{file}', folder_file)
+                        #copy the file to the projects flat folder
+                        shutil.copy(f'{root}/{file}', flat_file)
                     yaml_dict[f'file_{just_extension}_folder'] = folder_file
                     yaml_dict[f'file_{just_extension}_flat'] = flat_file
     #copy the readme to the projects folder
@@ -270,6 +272,7 @@ def get_repos(**kwargs):
 
 
 def document_projects():
+    print("documenting projects")
     counter = 0
     folders = ["projects_folder", "projects_flat" ]
     for fold in folders:
