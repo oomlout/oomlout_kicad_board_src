@@ -10,15 +10,16 @@ def main():
     #oom_p_s.make_projects()
     
     #single project
+    filter_user = "electrolama"
     filter_project = "oshcamp"
-    oom_p_s.make_projects(filter_project=filter_project)
+    oom_p_s.make_projects(filter_project=filter_project, filter_user=filter_user, clone=True)
 
     #tio just do the data
     #user = ""
     #project = ""
     #oom_p_s.make_projects(user=user, overwrite=False, force=True, clone=False, project=project)
     
-    oom_p_s.document_projects()
+    #oom_p_s.document_projects()
 
 
 
