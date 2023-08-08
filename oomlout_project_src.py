@@ -23,8 +23,8 @@ def load_projects_from_github_to_yaml():
 def make_projects(**kwargs):
     print('making projects')
     overwrite = kwargs.get('overwrite', False)
-    filter_user = kwargs.get('user', "")
-    filter_project = kwargs.get('project', "")
+    filter_user = kwargs.get('filter_user', "")
+    filter_project = kwargs.get('filter_project', "")
     clone = kwargs.get('clone', True)
     force = kwargs.get('force', False)
     
@@ -125,7 +125,7 @@ def make_projects(**kwargs):
                                 #add yaml
                                 completed_repo_file.write(f'- {clone_url}\n')
 
-                        pass
+                            pass
                     else:
                         print(f'{clone_url} already completed')
                         pass
@@ -138,6 +138,25 @@ def clone_and_grab_files(**kwargs):
     projects_flat = kwargs['projects_flat']
 
     os.system(f'git clone {clone_url} tmp/{repo["name"]}')
+
+
+    #look for an oomp.yaml file in the repo
+    oomp_yaml_filename = f'tmp/{repo["name"]}/oomp.yaml'
+    if os.path.exists(oomp_yaml_filename):
+        yaml_dict = load_from_yaml(**kwargs)
+    else:
+        yaml_dict = load_from_crawl(**kwargs)
+
+    os.system(f'rmdir /s /q tmp\\{repo["name"]}')
+
+    return yaml_dict
+
+def load_from_crawl(**kwargs):
+    yaml_dict = kwargs['yaml_dict']
+    clone_url = kwargs['clone_url']
+    repo = kwargs['repo']
+    projects_folder = kwargs['projects_folder']
+    projects_flat = kwargs['projects_flat']
 
     #board and schematic files
 
@@ -168,6 +187,8 @@ def clone_and_grab_files(**kwargs):
                         shutil.copy(f'{root}/{file}', folder_file)
                         #copy the file to the projects flat folder
                         shutil.copy(f'{root}/{file}', flat_file)
+                    yaml_dict[f'src_file_{just_extension}'] = file.replace('/tmp','')
+                    yaml_dict[f'src_file_{just_extension}_github'] = f'{clone_url}/{yaml_dict[f"src_file_{just_extension}"]}'
                     yaml_dict[f'file_{just_extension}_folder'] = folder_file
                     yaml_dict[f'file_{just_extension}_flat'] = flat_file
     #copy the readme to the projects folder
@@ -177,14 +198,14 @@ def clone_and_grab_files(**kwargs):
             shutil.copy(f'tmp/{repo["name"]}/README.md', f'{projects_folder}/readme_src.md')
             #copy the readme to the projects flat folder
             shutil.copy(f'tmp/{repo["name"]}/README.md', f'{projects_flat}/readme_src.md')
-     
+    
     #if theres a file that has bom in it and is either .csv or .tsv or xls
     #walk through all the files in the repo
     for root, dirs, files in os.walk(f'tmp/{repo["name"]}'):
         #go through all the files
         for file in files:
             #if the file matches the file match to find
-            if file.endswith(".csv") or file.endswith(".tsv") or file.endswith(".xls"):
+            if file.endswith(".csv") or file.endswith(".tsv") or file.endswith(".xls") or file.endswith(".xlsx"):
                 #if the file has bom in it
                 if 'bom' in file.lower():
                     #just filename no folders
@@ -202,12 +223,96 @@ def clone_and_grab_files(**kwargs):
                     shutil.copy(f'{root}/{file}', folder_file)
                     #copy the file to the projects flat folder
                     shutil.copy(f'{root}/{file}', flat_file)
+                    yaml_dict[f'src_file_bom_{just_extension}_folder'] = '{root}/{file}'.replace('/tmp','')
                     yaml_dict[f'file_bom_{just_extension}_folder'] = folder_file
                     yaml_dict[f'file_bom_{just_extension}_flat'] = flat_file
 
-    os.system(f'rmdir /s /q tmp\\{repo["name"]}')
-
     return yaml_dict
+
+def load_from_yaml(**kwargs):
+    yaml_dict = kwargs['yaml_dict']
+    clone_url = kwargs['clone_url']
+    repo = kwargs['repo']
+    projects_folder = kwargs['projects_folder']
+    projects_flat = kwargs['projects_flat']
+
+    #board and schematic files
+
+    #keys_to_try                    
+    file_match_to_find = [
+        {"yaml" : "src_file_brd",
+         "extension" : "brd"},
+        {"yaml" : "src_file_sch",
+        "extension" : "sch"},
+        {"yaml" : "src_file_kicad_pcb",
+        "extension" : "kicad_pcb"},
+        {"yaml" : "src_file_kicad_sch",
+        "extension" : "kicad_sch"},
+        {"yaml" : "src_file_bom_csv",
+         "extension" : "csv"},
+        {"yaml" : "src_file_bom_tsv",
+         "extension" : "tsv"},
+        {"yaml" : "src_file_bom_xls",
+          "extension" : "xls"},
+        {"yaml" : "src_file_bom_xlsx",
+         "extension" : "xlsx"}]
+
+    #load yaml file from repo
+    yaml_file = f'tmp/{repo["name"]}/oomp.yaml'
+    with open(yaml_file, 'r') as stream:
+        yaml_dict_repo = yaml.load(stream, Loader=yaml.FullLoader)
+        #add yanml_dict_repo to yaml_dict
+        yaml_dict.update(yaml_dict_repo)
+    
+    files_found = False
+    for file_match in file_match_to_find:
+        oomp_deets = yaml_dict["oomp"]
+        if file_match["yaml"] in oomp_deets:
+            file = oomp_deets[file_match["yaml"]]
+            root = f'tmp/{repo["name"]}'
+            just_file_name = file.split('.')[0]
+            just_extension = file.split('.')[1]
+            #copy the file to the projects folder
+            folder_file = f'{projects_folder}/working.{just_extension}'
+            flat_file = f'{projects_flat}/working.{just_extension}'
+            #create neccesary directories
+            if not os.path.exists(os.path.dirname(folder_file)):
+                os.makedirs(os.path.dirname(folder_file))
+            if not os.path.exists(os.path.dirname(flat_file)):
+                os.makedirs(os.path.dirname(flat_file))
+            print(f"copying {root}/{file} to {folder_file}")
+            shutil.copy(f'{root}/{file}', folder_file)
+            #copy the file to the projects flat folder
+            shutil.copy(f'{root}/{file}', flat_file)
+            
+            file_extra = just_extension
+            if'bom' in file_match["yaml"].lower():
+                file_extra = f'bom_{just_extension}'
+            
+            
+            oomp_deets[f'file_{file_extra}_folder'] = folder_file
+            oomp_deets[f'file_{file_extra}_folder_github'] = f"https://github.com/oomlout/oomlout_oomp_symbol_src/{oomp_deets[f'file_{file_extra}_folder']}"
+
+
+            oomp_deets[f'file_{file_extra}_flat'] = flat_file            
+            oomp_deets[f'file_{file_extra}_flat_github'] = f'https://github.com/oomlout/oomlout_oomp_symbol_src/{oomp_deets[f"file_{file_extra}_flat"]}'
+            
+            
+
+            oomp_deets[f'src_file_{file_extra}_github'] = f'{clone_url}/{oomp_deets[f"src_file_{file_extra}"]}'.replace(".git","")
+                    
+            files_found = True
+    #copy the readme to the projects folder
+    #if there's a readme.md
+    if files_found == True:
+        if os.path.exists(f'tmp/{repo["name"]}/README.md'):
+            shutil.copy(f'tmp/{repo["name"]}/README.md', f'{projects_folder}/readme_src.md')
+            #copy the readme to the projects flat folder
+            shutil.copy(f'tmp/{repo["name"]}/README.md', f'{projects_flat}/readme_src.md')
+    
+    return yaml_dict
+
+
 
 
 def get_repos(**kwargs):
